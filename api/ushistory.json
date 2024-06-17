@@ -1,0 +1,179 @@
+[
+    {
+      "question": "Who was the first President of the United States?",
+      "A": "Thomas Jefferson",
+      "B": "John Adams",
+      "C": "George Washington",
+      "D": "James Madison",
+      "answer": "C",
+      "funFact": "George Washington served as the first President of the United States from 1789 to 1797 and is often referred to as the 'Father of His Country'."
+    },
+    {
+      "question": "In what year did the United States declare its independence from Britain?",
+      "A": "1776",
+      "B": "1783",
+      "C": "1791",
+      "D": "1800",
+      "answer": "A",
+      "funFact": "The United States declared its independence from Britain on July 4, 1776, with the adoption of the Declaration of Independence."
+    },
+    {
+      "question": "Who wrote the Declaration of Independence?",
+      "A": "Benjamin Franklin",
+      "B": "Thomas Jefferson",
+      "C": "John Adams",
+      "D": "Alexander Hamilton",
+      "answer": "B",
+      "funFact": "Thomas Jefferson is the principal author of the Declaration of Independence, which was adopted by the Continental Congress on July 4, 1776."
+    },
+    {
+      "question": "Which event started the American Civil War?",
+      "A": "The Battle of Gettysburg",
+      "B": "The Attack on Fort Sumter",
+      "C": "The Emancipation Proclamation",
+      "D": "The Battle of Antietam",
+      "answer": "B",
+      "funFact": "The American Civil War began with the attack on Fort Sumter in South Carolina on April 12, 1861."
+    },
+    {
+      "question": "Who was the President of the Confederate States during the American Civil War?",
+      "A": "Robert E. Lee",
+      "B": "Jefferson Davis",
+      "C": "Stonewall Jackson",
+      "D": "Ulysses S. Grant",
+      "answer": "B",
+      "funFact": "Jefferson Davis served as the President of the Confederate States from 1861 to 1865 during the American Civil War."
+    },
+    {
+      "question": "What was the main cause of the American Revolutionary War?",
+      "A": "Taxation without representation",
+      "B": "Slavery",
+      "C": "Religious freedom",
+      "D": "Territorial expansion",
+      "answer": "A",
+      "funFact": "The American Revolutionary War was primarily caused by the colonies' frustration with 'taxation without representation' imposed by the British government."
+    },
+    {
+      "question": "Which document established the first government of the United States?",
+      "A": "The Declaration of Independence",
+      "B": "The Articles of Confederation",
+      "C": "The Constitution",
+      "D": "The Bill of Rights",
+      "answer": "B",
+      "funFact": "The Articles of Confederation, ratified in 1781, established the first government of the United States before being replaced by the Constitution in 1789."
+    },
+    {
+      "question": "Which amendment to the Constitution abolished slavery in the United States?",
+      "A": "13th Amendment",
+      "B": "14th Amendment",
+      "C": "15th Amendment",
+      "D": "19th Amendment",
+      "answer": "A",
+      "funFact": "The 13th Amendment, ratified in 1865, abolished slavery in the United States."
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "A": "Amelia Earhart",
+      "B": "Bessie Coleman",
+      "C": "Harriet Quimby",
+      "D": "Jacqueline Cochran",
+      "answer": "A",
+      "funFact": "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean in 1932, paving the way for future female aviators."
+    },
+    {
+      "question": "Which landmark Supreme Court case declared segregation in public schools unconstitutional?",
+      "A": "Plessy v. Ferguson",
+      "B": "Dred Scott v. Sandford",
+      "C": "Brown v. Board of Education",
+      "D": "Roe v. Wade",
+      "answer": "C",
+      "funFact": "The Supreme Court's decision in Brown v. Board of Education in 1954 declared segregation in public schools unconstitutional, marking a major victory for the Civil Rights Movement."
+    },
+    {
+      "question": "Who was the leader of the Civil Rights Movement who delivered the famous 'I Have a Dream' speech?",
+      "A": "Malcolm X",
+      "B": "Rosa Parks",
+      "C": "Martin Luther King Jr.",
+      "D": "Thurgood Marshall",
+      "answer": "C",
+      "funFact": "Martin Luther King Jr. delivered his iconic 'I Have a Dream' speech during the March on Washington for Jobs and Freedom on August 28, 1963."
+    },
+    {
+      "question": "Which U.S. President issued the Emancipation Proclamation?",
+      "A": "George Washington",
+      "B": "Abraham Lincoln",
+      "C": "Theodore Roosevelt",
+      "D": "Franklin D. Roosevelt",
+      "answer": "B",
+      "funFact": "President Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, declaring all slaves in Confederate-held territory free."
+    },
+    {
+      "question": "What year did women gain the right to vote in the United States?",
+      "A": "1900",
+      "B": "1912",
+      "C": "1920",
+      "D": "1933",
+      "answer": "C",
+      "funFact": "Women gained the right to vote in the United States with the ratification of the 19th Amendment on August 18, 1920."
+    },
+    {
+      "question": "Which U.S. President is known for the New Deal, a series of programs and reforms during the Great Depression?",
+      "A": "Herbert Hoover",
+      "B": "Woodrow Wilson",
+      "C": "Franklin D. Roosevelt",
+      "D": "Harry S. Truman",
+      "answer": "C",
+      "funFact": "President Franklin D. Roosevelt implemented the New Deal, a series of programs and reforms designed to alleviate the effects of the Great Depression."
+    },
+    {
+      "question": "Which event brought the United States into World War II?",
+      "A": "The invasion of Poland",
+      "B": "The bombing of Pearl Harbor",
+      "C": "The fall of France",
+      "D": "The signing of the Tripartite Pact",
+      "answer": "B",
+      "funFact": "The United States entered World War II after the Japanese bombing of Pearl Harbor on December 7, 1941."
+    },
+    {
+      "question": "Who was the U.S. President during the Cuban Missile Crisis?",
+      "A": "Dwight D. Eisenhower",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "John F. Kennedy",
+      "answer": "D",
+      "funFact": "President John F. Kennedy was in office during the Cuban Missile Crisis in 1962, a tense 13-day standoff between the United States and the Soviet Union."
+    },
+    {
+      "question": "What was the primary goal of the Lewis and Clark Expedition?",
+      "A": "To find a direct route to Asia",
+      "B": "To map the western territories",
+      "C": "To establish trade routes with Native Americans",
+      "D": "To find the source of the Mississippi River",
+      "answer": "B",
+      "funFact": "The primary goal of the Lewis and Clark Expedition, which began in 1804, was to explore and map the newly acquired western territories of the United States."
+    },
+    {
+      "question": "Which U.S. President is known for the Louisiana Purchase?",
+      "A": "Thomas Jefferson",
+      "B": "James Madison",
+      "C": "James Monroe",
+      "D": "John Quincy Adams",
+      "answer": "A",
+      "funFact": "President Thomas Jefferson is known for the Louisiana Purchase in 1803, which doubled the size of the United States."
+    },
+    {
+      "question": "What was the significance of the Mayflower Compact?",
+      "A": "It established the first form of self-government in America",
+      "B": "It declared independence from Britain",
+      "C": "It established trade routes with Native Americans",
+      "D": "It provided a map of the New World",
+      "answer": "A",
+      "funFact": "The Mayflower Compact, signed in 1620, established the first form of self-government in America and set a precedent for future democratic practices."
+    },
+    {
+      "question": "Which U.S. President is associated with the policy of 'Manifest Destiny'?",
+      "A": "Andrew Jackson",
+      "B": "James K. Polk",
+      "C": "Zachary Taylor",
+      "D": "Millard Fillmore",
+      "answer": "B"}]
