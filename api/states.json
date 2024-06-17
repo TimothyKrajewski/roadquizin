@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Which state was the first to ratify the U.S. Constitution?",
+      "A": "Pennsylvania",
+      "B": "New Jersey",
+      "C": "Delaware",
+      "D": "Georgia",
+      "answer": "C",
+      "funFact": "Delaware was the first state to ratify the U.S. Constitution on December 7, 1787, earning it the nickname 'The First State'."
+    },
+    {
+      "question": "Which state was the site of the first permanent English settlement in America?",
+      "A": "Massachusetts",
+      "B": "Virginia",
+      "C": "New York",
+      "D": "Maryland",
+      "answer": "B",
+      "funFact": "Jamestown, Virginia, was the site of the first permanent English settlement in America, established in 1607."
+    },
+    {
+      "question": "Which state was the last to join the United States?",
+      "A": "Alaska",
+      "B": "Hawaii",
+      "C": "Arizona",
+      "D": "New Mexico",
+      "answer": "B",
+      "funFact": "Hawaii was the last state to join the United States, becoming the 50th state on August 21, 1959."
+    },
+    {
+      "question": "Which state was originally founded as a haven for Catholics?",
+      "A": "Rhode Island",
+      "B": "Connecticut",
+      "C": "Maryland",
+      "D": "South Carolina",
+      "answer": "C",
+      "funFact": "Maryland was founded by George Calvert, Lord Baltimore, as a haven for Catholics facing persecution in England."
+    },
+    {
+      "question": "Which state was the first to grant women the right to vote in 1869?",
+      "A": "California",
+      "B": "New York",
+      "C": "Wyoming",
+      "D": "Oregon",
+      "answer": "C",
+      "funFact": "Wyoming was the first state to grant women the right to vote in 1869, earning it the nickname 'The Equality State'."
+    },
+    {
+      "question": "Which state was the site of the Battle of Gettysburg during the Civil War?",
+      "A": "Virginia",
+      "B": "Pennsylvania",
+      "C": "North Carolina",
+      "D": "Tennessee",
+      "answer": "B",
+      "funFact": "The Battle of Gettysburg, a turning point in the Civil War, took place in Pennsylvania from July 1 to July 3, 1863."
+    },
+    {
+      "question": "Which state is known as the 'Lone Star State'?",
+      "A": "New Mexico",
+      "B": "Arizona",
+      "C": "Texas",
+      "D": "Nevada",
+      "answer": "C",
+      "funFact": "Texas is known as the 'Lone Star State' in reference to its former status as an independent republic and its struggle for independence from Mexico."
+    },
+    {
+      "question": "Which state was purchased from Russia in 1867?",
+      "A": "California",
+      "B": "Alaska",
+      "C": "Montana",
+      "D": "Idaho",
+      "answer": "B",
+      "funFact": "Alaska was purchased from Russia in 1867 for $7.2 million, a transaction often referred to as 'Seward's Folly' at the time."
+    },
+    {
+      "question": "Which state is home to the historic Alamo mission?",
+      "A": "New Mexico",
+      "B": "Arizona",
+      "C": "Texas",
+      "D": "Oklahoma",
+      "answer": "C",
+      "funFact": "The Alamo, located in San Antonio, Texas, is a historic mission where a pivotal battle in the Texas Revolution took place in 1836."
+    },
+    {
+      "question": "Which state was admitted to the Union as a free state as part of the Missouri Compromise?",
+      "A": "Kansas",
+      "B": "Maine",
+      "C": "Michigan",
+      "D": "California",
+      "answer": "B",
+      "funFact": "Maine was admitted to the Union as a free state in 1820 as part of the Missouri Compromise, which balanced the admission of free and slave states."
+    },
+    {
+      "question": "Which state is known for the California Gold Rush that began in 1848?",
+      "A": "Nevada",
+      "B": "Oregon",
+      "C": "California",
+      "D": "Colorado",
+      "answer": "C",
+      "funFact": "The California Gold Rush began in 1848 when gold was discovered at Sutter's Mill, leading to a massive influx of settlers seeking fortune."
+    },
+    {
+      "question": "Which state was the site of the first shots fired in the American Revolution at Lexington and Concord?",
+      "A": "New York",
+      "B": "Virginia",
+      "C": "Massachusetts",
+      "D": "New Hampshire",
+      "answer": "C",
+      "funFact": "The first shots of the American Revolution were fired at Lexington and Concord in Massachusetts on April 19, 1775."
+    },
+    {
+      "question": "Which state is home to the Liberty Bell and Independence Hall?",
+      "A": "Virginia",
+      "B": "New York",
+      "C": "Massachusetts",
+      "D": "Pennsylvania",
+      "answer": "D",
+      "funFact": "The Liberty Bell and Independence Hall, where the Declaration of Independence was signed, are both located in Philadelphia, Pennsylvania."
+    },
+    {
+      "question": "Which state was the first to secede from the Union in 1860, leading to the Civil War?",
+      "A": "Georgia",
+      "B": "Alabama",
+      "C": "South Carolina",
+      "D": "Mississippi",
+      "answer": "C",
+      "funFact": "South Carolina was the first state to secede from the Union on December 20, 1860, leading to the outbreak of the Civil War."
+    },
+    {
+      "question": "Which state is known as the 'Birthplace of Aviation' due to the Wright brothers' first flight?",
+      "A": "Ohio",
+      "B": "North Carolina",
+      "C": "Virginia",
+      "D": "South Carolina",
+      "answer": "B",
+      "funFact": "North Carolina is known as the 'Birthplace of Aviation' because the Wright brothers made their first successful powered flight at Kitty Hawk in 1903."
+    },
+    {
+      "question": "Which state is known for the historic Boston Tea Party event of 1773?",
+      "A": "New York",
+      "B": "Pennsylvania",
+      "C": "Massachusetts",
+      "D": "Maryland",
+      "answer": "C",
+      "funFact": "The Boston Tea Party, a protest against British taxation, took place in Boston, Massachusetts, on December 16, 1773."
+    },
+    {
+      "question": "Which state is home to the historic Jamestown Settlement, the first permanent English colony in America?",
+      "A": "Massachusetts",
+      "B": "Virginia",
+      "C": "Maryland",
+      "D": "North Carolina",
+      "answer": "B",
+      "funFact": "Jamestown, Virginia, established in 1607, was the first permanent English settlement in America and served as the capital of the Virginia colony."
+    },
+    {
+      "question": "Which state was the site of the famous Battle of Little Bighorn in 1876?",
+      "A": "Montana",
+      "B": "South Dakota",
+      "C": "Wyoming",
+      "D": "Nebraska",
+      "answer": "A",
+      "funFact": "The Battle of Little Bighorn, also known as Custer's Last Stand, took place in Montana in 1876 and was a significant Native American victory."
+    },
+    {
+      "question": "Which state is known as the 'Sunshine State' and was the site of the first European settlement in America at St. Augustine?",
+      "A": "California",
+      "B": "Florida",
+      "C": "Texas",
+      "D": "Louisiana",
+      "answer": "B",
+      "funFact": "Florida, known as the 'Sunshine State', is home to St. Augustine, the oldest continuously inhabited European-established settlement in the United States, founded in 1565."
+    },
+    {
+      "question": "Which state was the first to abolish slavery in its constitution in 1777?",
+      "A": "Pennsylvania",
+      "B": "Massachusetts",
+      "C": "Vermont",
+      "D": "New Hampshire",
+      "answer": "C",
+      "funFact": "Vermont was the first state to abolish slavery in its constitution in 1777, making it a pioneer in the abolition movement."
+    }
+  ]

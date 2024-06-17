@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Which NFL team has won the most Super Bowl titles?",
+      "A": "Dallas Cowboys",
+      "B": "San Francisco 49ers",
+      "C": "Pittsburgh Steelers",
+      "D": "New England Patriots",
+      "answer": "D",
+      "funFact": "The New England Patriots and the Pittsburgh Steelers are tied for the most Super Bowl titles, each with six championships."
+    },
+    {
+      "question": "Who holds the record for the most career touchdown passes in the NFL?",
+      "A": "Brett Favre",
+      "B": "Peyton Manning",
+      "C": "Drew Brees",
+      "D": "Tom Brady",
+      "answer": "D",
+      "funFact": "Tom Brady holds the record for the most career touchdown passes in the NFL, surpassing Drew Brees in 2021."
+    },
+    {
+      "question": "Which team is known as 'America's Team'?",
+      "A": "Green Bay Packers",
+      "B": "New York Giants",
+      "C": "Dallas Cowboys",
+      "D": "Chicago Bears",
+      "answer": "C",
+      "funFact": "The Dallas Cowboys are often referred to as 'America's Team' due to their large fan base and extensive media coverage."
+    },
+    {
+      "question": "Who was the first player to rush for over 2,000 yards in a single season?",
+      "A": "Barry Sanders",
+      "B": "Eric Dickerson",
+      "C": "OJ Simpson",
+      "D": "Adrian Peterson",
+      "answer": "C",
+      "funFact": "OJ Simpson was the first player to rush for over 2,000 yards in a single season, achieving the feat in 1973."
+    },
+    {
+      "question": "Which NFL team has the record for the most consecutive Super Bowl appearances?",
+      "A": "Dallas Cowboys",
+      "B": "San Francisco 49ers",
+      "C": "Buffalo Bills",
+      "D": "Miami Dolphins",
+      "answer": "C",
+      "funFact": "The Buffalo Bills hold the record for the most consecutive Super Bowl appearances, with four straight from 1990 to 1993."
+    },
+    {
+      "question": "Who is the all-time leader in receiving yards in the NFL?",
+      "A": "Randy Moss",
+      "B": "Jerry Rice",
+      "C": "Terrell Owens",
+      "D": "Larry Fitzgerald",
+      "answer": "B",
+      "funFact": "Jerry Rice is the all-time leader in receiving yards in the NFL, with over 22,000 yards during his career."
+    },
+    {
+      "question": "Which quarterback has the most Super Bowl MVP awards?",
+      "A": "Joe Montana",
+      "B": "Terry Bradshaw",
+      "C": "Tom Brady",
+      "D": "Peyton Manning",
+      "answer": "C",
+      "funFact": "Tom Brady has won the Super Bowl MVP award five times, more than any other player in NFL history."
+    },
+    {
+      "question": "What team did the legendary coach Vince Lombardi lead to two Super Bowl victories?",
+      "A": "New York Giants",
+      "B": "Green Bay Packers",
+      "C": "Washington Redskins",
+      "D": "Chicago Bears",
+      "answer": "B",
+      "funFact": "Vince Lombardi led the Green Bay Packers to victory in the first two Super Bowls, and the Super Bowl trophy is named in his honor."
+    },
+    {
+      "question": "Who holds the record for the most sacks in a single NFL season?",
+      "A": "Michael Strahan",
+      "B": "Reggie White",
+      "C": "J.J. Watt",
+      "D": "Lawrence Taylor",
+      "answer": "A",
+      "funFact": "Michael Strahan holds the record for the most sacks in a single NFL season with 22.5 sacks, set in 2001."
+    },
+    {
+      "question": "Which team won the first Super Bowl in 1967?",
+      "A": "Kansas City Chiefs",
+      "B": "Green Bay Packers",
+      "C": "New York Jets",
+      "D": "Oakland Raiders",
+      "answer": "B",
+      "funFact": "The Green Bay Packers won the first Super Bowl in 1967, defeating the Kansas City Chiefs 35-10."
+    },
+    {
+      "question": "Who is the NFL's all-time leading rusher?",
+      "A": "Walter Payton",
+      "B": "Emmitt Smith",
+      "C": "Barry Sanders",
+      "D": "Eric Dickerson",
+      "answer": "B",
+      "funFact": "Emmitt Smith is the NFL's all-time leading rusher with 18,355 yards, a record he set during his career with the Dallas Cowboys."
+    },
+    {
+      "question": "Which NFL team is known for having a 'Steel Curtain' defense?",
+      "A": "Dallas Cowboys",
+      "B": "Pittsburgh Steelers",
+      "C": "Chicago Bears",
+      "D": "Baltimore Ravens",
+      "answer": "B",
+      "funFact": "The Pittsburgh Steelers' 'Steel Curtain' defense was dominant in the 1970s, leading the team to four Super Bowl victories in that decade."
+    },
+    {
+      "question": "Who was the first overall pick in the 1998 NFL Draft?",
+      "A": "Ryan Leaf",
+      "B": "Peyton Manning",
+      "C": "Charles Woodson",
+      "D": "Randy Moss",
+      "answer": "B",
+      "funFact": "Peyton Manning was the first overall pick in the 1998 NFL Draft, selected by the Indianapolis Colts, and went on to have a Hall of Fame career."
+    },
+    {
+      "question": "Which player famously guaranteed a victory in Super Bowl III and delivered on that promise?",
+      "A": "Bart Starr",
+      "B": "Johnny Unitas",
+      "C": "Joe Namath",
+      "D": "Fran Tarkenton",
+      "answer": "C",
+      "funFact": "Joe Namath famously guaranteed a victory for the New York Jets in Super Bowl III, and they defeated the Baltimore Colts 16-7."
+    },
+    {
+      "question": "Which team has the nickname 'The Purple People Eaters' for their defense?",
+      "A": "Baltimore Ravens",
+      "B": "Minnesota Vikings",
+      "C": "Los Angeles Rams",
+      "D": "Denver Broncos",
+      "answer": "B",
+      "funFact": "The Minnesota Vikings' defense in the late 1960s and 1970s was nicknamed 'The Purple People Eaters' due to their dominant play and purple uniforms."
+    },
+    {
+      "question": "Who is the only player to win the Heisman Trophy twice?",
+      "A": "Archie Griffin",
+      "B": "Barry Sanders",
+      "C": "Bo Jackson",
+      "D": "Tim Tebow",
+      "answer": "A",
+      "funFact": "Archie Griffin is the only player to win the Heisman Trophy twice, achieving the feat in 1974 and 1975 while playing for Ohio State."
+    },
+    {
+      "question": "Which quarterback led the San Francisco 49ers to four Super Bowl victories in the 1980s?",
+      "A": "Steve Young",
+      "B": "Joe Montana",
+      "C": "John Elway",
+      "D": "Dan Marino",
+      "answer": "B",
+      "funFact": "Joe Montana led the San Francisco 49ers to four Super Bowl victories in the 1980s and is considered one of the greatest quarterbacks of all time."
+    },
+    {
+      "question": "Which team is the oldest continuously operating professional football team in the NFL?",
+      "A": "New York Giants",
+      "B": "Green Bay Packers",
+      "C": "Chicago Bears",
+      "D": "Detroit Lions",
+      "answer": "C",
+      "funFact": "The Chicago Bears, originally established as the Decatur Staleys in 1919, are the oldest continuously operating professional football team in the NFL."
+    },
+    {
+      "question": "Who holds the NFL record for the most career interceptions thrown?",
+      "A": "Brett Favre",
+      "B": "Dan Marino",
+      "C": "Peyton Manning",
+      "D": "Eli Manning",
+      "answer": "A",
+      "funFact": "Brett Favre holds the NFL record for the most career interceptions thrown with 336 during his career."
+    },
+    {
+      "question": "Which player was nicknamed 'The Refrigerator' due to his size and playing style?",
+      "A": "William Perry",
+      "B": "Reggie White",
+      "C": "Warren Sapp",
+      "D": "Mean Joe Greene",
+      "answer": "A",
+      "funFact": "William 'The Refrigerator' Perry, known for his massive size and powerful playing style, was a defensive lineman for the Chicago Bears."
+    }
+  ]

@@ -1,0 +1,182 @@
+[
+    {
+      "question": "What was the first animated feature film released by Disney?",
+      "A": "Cinderella",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Sleeping Beauty",
+      "D": "Pinocchio",
+      "answer": "B",
+      "funFact": "Released in 1937, 'Snow White and the Seven Dwarfs' was Disney's first animated feature film and also the first full-length cel-animated feature in motion picture history."
+    },
+    {
+      "question": "Which Disney movie features the song 'Circle of Life'?",
+      "A": "Aladdin",
+      "B": "The Lion King",
+      "C": "Pocahontas",
+      "D": "Beauty and the Beast",
+      "answer": "B",
+      "funFact": "'Circle of Life' is one of the most iconic songs from 'The Lion King', composed by Elton John with lyrics by Tim Rice."
+    },
+    {
+      "question": "What is the name of the toy cowboy in 'Toy Story'?",
+      "A": "Buzz Lightyear",
+      "B": "Woody",
+      "C": "Jessie",
+      "D": "Bullseye",
+      "answer": "B",
+      "funFact": "Woody, voiced by Tom Hanks, is a pull-string cowboy doll and the main protagonist in the 'Toy Story' series."
+    },
+    {
+      "question": "In 'Frozen', what is the name of Kristoff's reindeer?",
+      "A": "Sven",
+      "B": "Olaf",
+      "C": "Hans",
+      "D": "Marshmallow",
+      "answer": "A",
+      "funFact": "Sven is Kristoff's loyal reindeer companion who has a close bond with him and provides comic relief in the movie 'Frozen'."
+    },
+    {
+      "question": "Which Disney princess sings 'Part of Your World'?",
+      "A": "Belle",
+      "B": "Ariel",
+      "C": "Mulan",
+      "D": "Jasmine",
+      "answer": "B",
+      "funFact": "'Part of Your World' is sung by Ariel in 'The Little Mermaid', expressing her desire to become human and explore the world above the sea."
+    },
+    {
+      "question": "What type of animal is Dumbo?",
+      "A": "Lion",
+      "B": "Elephant",
+      "C": "Mouse",
+      "D": "Tiger",
+      "answer": "B",
+      "funFact": "Dumbo is a young circus elephant who is ridiculed for his large ears but discovers he can use them to fly."
+    },
+    {
+      "question": "Who is the villain in 'The Little Mermaid'?",
+      "A": "Maleficent",
+      "B": "Ursula",
+      "C": "Jafar",
+      "D": "Scar",
+      "answer": "B",
+      "funFact": "Ursula, the sea witch, is the main antagonist in 'The Little Mermaid'. She tricks Ariel into trading her voice for human legs."
+    },
+    {
+      "question": "In which Disney movie does the character Simba appear?",
+      "A": "Aladdin",
+      "B": "Tarzan",
+      "C": "The Lion King",
+      "D": "Hercules",
+      "answer": "C",
+      "funFact": "Simba is the main character in 'The Lion King', a lion cub who grows up and takes back his rightful place as king."
+    },
+    {
+      "question": "What is the name of Aladdin's monkey?",
+      "A": "Raja",
+      "B": "Abu",
+      "C": "Iago",
+      "D": "Jafar",
+      "answer": "B",
+      "funFact": "Abu is Aladdin's loyal monkey companion who helps him throughout his adventures in the movie 'Aladdin'."
+    },
+    {
+      "question": "Who is the fashion-obsessed villain in '101 Dalmatians'?",
+      "A": "Cruella de Vil",
+      "B": "Maleficent",
+      "C": "Queen of Hearts",
+      "D": "Lady Tremaine",
+      "answer": "A",
+      "funFact": "Cruella de Vil is the villain in '101 Dalmatians', known for her obsession with making a fur coat from the puppies' spotted skins."
+    },
+    {
+      "question": "Which Disney movie features the song 'A Whole New World'?",
+      "A": "The Little Mermaid",
+      "B": "Beauty and the Beast",
+      "C": "Aladdin",
+      "D": "Mulan",
+      "answer": "C",
+      "funFact": "'A Whole New World' is a duet sung by Aladdin and Jasmine as they explore the world on a magic carpet ride in the movie 'Aladdin'."
+    },
+    {
+      "question": "What is the name of the teacup in 'Beauty and the Beast'?",
+      "A": "Chip",
+      "B": "Potts",
+      "C": "Cogsworth",
+      "D": "Lumiere",
+      "answer": "A",
+      "funFact": "Chip is the young teacup in 'Beauty and the Beast', the son of Mrs. Potts, the teapot."
+    },
+    {
+      "question": "Who is the fairy in 'Peter Pan'?",
+      "A": "Cinderella",
+      "B": "Fairy Godmother",
+      "C": "Tinker Bell",
+      "D": "Flora",
+      "answer": "C",
+      "funFact": "Tinker Bell is Peter Pan's fairy companion who helps him and the Darling children in their adventures in Neverland."
+    },
+    {
+      "question": "In 'Hercules', who is Hercules' father?",
+      "A": "Zeus",
+      "B": "Hades",
+      "C": "Poseidon",
+      "D": "Apollo",
+      "answer": "A",
+      "funFact": "Zeus, the king of the gods, is Hercules' father in the Disney movie 'Hercules'."
+    },
+    {
+      "question": "What is the name of Mulan's dragon companion?",
+      "A": "Mushu",
+      "B": "Shang",
+      "C": "Khan",
+      "D": "Yao",
+      "answer": "A",
+      "funFact": "Mushu, voiced by Eddie Murphy, is Mulan's dragon companion who helps her in her quest to save China in the movie 'Mulan'."
+    },
+    {
+      "question": "Which Disney princess has a raccoon as a friend?",
+      "A": "Snow White",
+      "B": "Aurora",
+      "C": "Pocahontas",
+      "D": "Cinderella",
+      "answer": "C",
+      "funFact": "Pocahontas has a raccoon friend named Meeko who is known for his playful and curious nature in the movie 'Pocahontas'."
+    },
+    {
+      "question": "Who is the villain in 'Sleeping Beauty'?",
+      "A": "Ursula",
+      "B": "Cruella de Vil",
+      "C": "Maleficent",
+      "D": "Jafar",
+      "answer": "C",
+      "funFact": "Maleficent is the evil fairy who curses Princess Aurora in 'Sleeping Beauty'. She is also the protagonist of her own live-action film."
+    },
+    {
+      "question": "What is the name of the bear in 'The Jungle Book'?",
+      "A": "Bagheera",
+      "B": "Shere Khan",
+      "C": "Baloo",
+      "D": "Kaa",
+      "answer": "C",
+      "funFact": "Baloo is the friendly bear who teaches Mowgli about 'The Bare Necessities' of life in 'The Jungle Book'."
+    },
+    {
+      "question": "In 'Beauty and the Beast', who is the Beast's loyal butler who has been transformed into a clock?",
+      "A": "Lumiere",
+      "B": "Chip",
+      "C": "Gaston",
+      "D": "Cogsworth",
+      "answer": "D",
+      "funFact": "Cogsworth is the Beast's loyal butler who has been transformed into a clock in 'Beauty and the Beast'."
+    },
+    {
+      "question": "In 'Finding Nemo', what kind of fish is Nemo?",
+      "A": "Goldfish",
+      "B": "Clownfish",
+      "C": "Angelfish",
+      "D": "Betta Fish",
+      "answer": "B",
+      "funFact": "Nemo is a clownfish, a species known for their bright orange color with white stripes, and lives in an anemone in 'Finding Nemo'."
+    }
+  ]

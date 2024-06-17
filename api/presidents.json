@@ -1,0 +1,181 @@
+[
+    {
+      "question": "Which president authorized the Bay of Pigs invasion?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "The Bay of Pigs invasion was a failed military invasion of Cuba in 1961 by Cuban exiles sponsored by the U.S. government. President John F. Kennedy authorized the operation."
+    },
+    {
+      "question": "Who was the president during the assassination of Martin Luther King Jr.?",
+      "A": "Lyndon B. Johnson",
+      "B": "John F. Kennedy",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "A",
+      "funFact": "Martin Luther King Jr. was assassinated on April 4, 1968, during the presidency of Lyndon B. Johnson. Johnson had signed the Civil Rights Act into law in 1964."
+    },
+    {
+      "question": "Which president ended the Korean War?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "B",
+      "funFact": "The Korean War ended in 1953 during the presidency of Dwight D. Eisenhower, who signed an armistice agreement with North Korea."
+    },
+    {
+      "question": "Who was the first president to live in the White House?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "James Madison",
+      "answer": "B",
+      "funFact": "John Adams was the first president to live in the White House, moving in in 1800. George Washington selected the site but never lived in the White House."
+    },
+    {
+      "question": "Which president purchased the Louisiana Territory from France?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "James Madison",
+      "D": "James Monroe",
+      "answer": "B",
+      "funFact": "Thomas Jefferson purchased the Louisiana Territory from France in 1803, doubling the size of the United States."
+    },
+    {
+      "question": "Who was the president during the passage of the Civil Rights Act of 1964?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson signed the Civil Rights Act into law on July 2, 1964, which aimed to end segregation in public places and banned employment discrimination."
+    },
+    {
+      "question": "Which president was in office during the September 11, 2001 attacks?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush was the president during the September 11, 2001 terrorist attacks on the World Trade Center and the Pentagon."
+    },
+    {
+      "question": "Who was the only president to resign from office?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon resigned from the presidency on August 8, 1974, following the Watergate scandal. He is the only U.S. president to have resigned."
+    },
+    {
+      "question": "Which president signed the Emancipation Proclamation?",
+      "A": "Andrew Johnson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "Rutherford B. Hayes",
+      "answer": "B",
+      "funFact": "Abraham Lincoln signed the Emancipation Proclamation on January 1, 1863, declaring that all slaves in Confederate-held territory were to be set free."
+    },
+    {
+      "question": "Who was the president during the stock market crash of 1929?",
+      "A": "Warren G. Harding",
+      "B": "Calvin Coolidge",
+      "C": "Herbert Hoover",
+      "D": "Franklin D. Roosevelt",
+      "answer": "C",
+      "funFact": "Herbert Hoover was the president during the stock market crash of 1929, which marked the beginning of the Great Depression."
+    },
+    {
+      "question": "Which president initiated the New Deal programs?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt initiated the New Deal programs in the 1930s to combat the effects of the Great Depression and provide economic relief."
+    },
+    {
+      "question": "Who was the president during the Cuban Missile Crisis?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy was the president during the Cuban Missile Crisis in October 1962, a 13-day confrontation between the United States and the Soviet Union."
+    },
+    {
+      "question": "Which president signed the Interstate Highway Act?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "B",
+      "funFact": "Dwight D. Eisenhower signed the Interstate Highway Act in 1956, creating a nationwide network of highways."
+    },
+    {
+      "question": "Who was the president during the signing of the Camp David Accords?",
+      "A": "Richard Nixon",
+      "B": "Gerald Ford",
+      "C": "Jimmy Carter",
+      "D": "Ronald Reagan",
+      "answer": "C",
+      "funFact": "Jimmy Carter was the president during the signing of the Camp David Accords in 1978, which led to a peace treaty between Egypt and Israel."
+    },
+    {
+      "question": "Which president led the United States through the majority of World War II?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt led the United States through the majority of World War II until his death in April 1945. Harry S. Truman succeeded him."
+    },
+    {
+      "question": "Who was the president during the Iran Hostage Crisis?",
+      "A": "Gerald Ford",
+      "B": "Jimmy Carter",
+      "C": "Ronald Reagan",
+      "D": "George H. W. Bush",
+      "answer": "B",
+      "funFact": "Jimmy Carter was the president during the Iran Hostage Crisis, where 52 American diplomats and citizens were held hostage for 444 days from 1979 to 1981."
+    },
+    {
+      "question": "Which president signed the Affordable Care Act into law?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Bill Clinton",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "Barack Obama signed the Affordable Care Act into law on March 23, 2010, aiming to expand healthcare coverage and reduce costs."
+    },
+    {
+      "question": "Who was the president during the Watergate scandal?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon was the president during the Watergate scandal, a major political scandal that ultimately led to his resignation in 1974."
+    },
+    {
+      "question": "Which president declared war on Japan, leading the US into World War II?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt declared war on Japan on December 8, 1941, following the attack on Pearl Harbor, leading the US into World War II."
+    },
+    {
+      "question": "Who was the president during the signing of the Treaty of Versailles?",
+      "A": "Woodrow Wilson",
+      "B": "Warren G. Harding",
+      "C": "Calvin Coolidge",
+      "D": "Herbert Hoover",
+      "answer": "A"
+    }
+  ]

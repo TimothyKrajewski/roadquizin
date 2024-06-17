@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "A": "Germany",
+      "B": "Italy",
+      "C": "Brazil",
+      "D": "Argentina",
+      "answer": "C",
+      "funFact": "Brazil has won the FIFA World Cup five times, more than any other country, with victories in 1958, 1962, 1970, 1994, and 2002."
+    },
+    {
+      "question": "Who is known as 'The Hand of God' in football history?",
+      "A": "Pelé",
+      "B": "Diego Maradona",
+      "C": "Lionel Messi",
+      "D": "Cristiano Ronaldo",
+      "answer": "B",
+      "funFact": "Diego Maradona scored the infamous 'Hand of God' goal during the 1986 FIFA World Cup quarter-final match between Argentina and England."
+    },
+    {
+      "question": "Which football club has won the most UEFA Champions League titles?",
+      "A": "Manchester United",
+      "B": "FC Barcelona",
+      "C": "AC Milan",
+      "D": "Real Madrid",
+      "answer": "D",
+      "funFact": "Real Madrid has won the UEFA Champions League 14 times, making it the most successful club in the competition's history."
+    },
+    {
+      "question": "Which player holds the record for the most goals scored in a single Premier League season?",
+      "A": "Thierry Henry",
+      "B": "Alan Shearer",
+      "C": "Cristiano Ronaldo",
+      "D": "Mohamed Salah",
+      "answer": "D",
+      "funFact": "Mohamed Salah set the record for the most goals in a single Premier League season with 32 goals during the 2017-2018 season."
+    },
+    {
+      "question": "Which country hosted the first FIFA World Cup in 1930?",
+      "A": "Italy",
+      "B": "Brazil",
+      "C": "Uruguay",
+      "D": "France",
+      "answer": "C",
+      "funFact": "Uruguay hosted and won the first FIFA World Cup in 1930, defeating Argentina 4-2 in the final."
+    },
+    {
+      "question": "Which player is known for scoring the 'Goal of the Century' in the 1986 FIFA World Cup?",
+      "A": "Zinedine Zidane",
+      "B": "Ronaldinho",
+      "C": "Diego Maradona",
+      "D": "Roberto Baggio",
+      "answer": "C",
+      "funFact": "Diego Maradona scored the 'Goal of the Century' during the 1986 FIFA World Cup, dribbling past five England players to score."
+    },
+    {
+      "question": "Which team won the FIFA Women's World Cup in 2019?",
+      "A": "Germany",
+      "B": "USA",
+      "C": "Japan",
+      "D": "Netherlands",
+      "answer": "B",
+      "funFact": "The USA won the FIFA Women's World Cup in 2019, defeating the Netherlands 2-0 in the final to claim their fourth title."
+    },
+    {
+      "question": "Who is the all-time top scorer for the Spanish national team?",
+      "A": "Fernando Torres",
+      "B": "David Villa",
+      "C": "Raúl",
+      "D": "Andrés Iniesta",
+      "answer": "B",
+      "funFact": "David Villa is the all-time top scorer for the Spanish national team with 59 goals scored in international matches."
+    },
+    {
+      "question": "Which footballer is known as 'O Fenômeno'?",
+      "A": "Pelé",
+      "B": "Neymar",
+      "C": "Ronaldo Nazário",
+      "D": "Ronaldinho",
+      "answer": "C",
+      "funFact": "Ronaldo Nazário, often referred to as 'O Fenômeno' (The Phenomenon), is considered one of the greatest footballers of all time."
+    },
+    {
+      "question": "Which country won the UEFA Euro 2020 championship?",
+      "A": "England",
+      "B": "Italy",
+      "C": "France",
+      "D": "Portugal",
+      "answer": "B",
+      "funFact": "Italy won the UEFA Euro 2020 championship, defeating England in a penalty shootout in the final held at Wembley Stadium."
+    },
+    {
+      "question": "Which club did Lionel Messi join in 2021 after leaving FC Barcelona?",
+      "A": "Manchester City",
+      "B": "Paris Saint-Germain",
+      "C": "Juventus",
+      "D": "Bayern Munich",
+      "answer": "B",
+      "funFact": "Lionel Messi joined Paris Saint-Germain (PSG) in 2021 after spending his entire professional career at FC Barcelona."
+    },
+    {
+      "question": "Which country won the Copa América in 2021?",
+      "A": "Brazil",
+      "B": "Argentina",
+      "C": "Chile",
+      "D": "Uruguay",
+      "answer": "B",
+      "funFact": "Argentina won the Copa América in 2021, defeating Brazil 1-0 in the final to claim their 15th title."
+    },
+    {
+      "question": "Who is the only player to have won the Ballon d'Or seven times?",
+      "A": "Cristiano Ronaldo",
+      "B": "Johan Cruyff",
+      "C": "Lionel Messi",
+      "D": "Michel Platini",
+      "answer": "C",
+      "funFact": "Lionel Messi has won the Ballon d'Or, awarded to the best footballer in the world, a record seven times."
+    },
+    {
+      "question": "Which club is known as 'The Red Devils'?",
+      "A": "Liverpool",
+      "B": "AC Milan",
+      "C": "Manchester United",
+      "D": "Bayern Munich",
+      "answer": "C",
+      "funFact": "Manchester United, one of the most successful football clubs in the world, is commonly referred to as 'The Red Devils'."
+    },
+    {
+      "question": "Who scored the 'Golden Goal' to win the UEFA Euro 2000 final for France?",
+      "A": "Thierry Henry",
+      "B": "Patrick Vieira",
+      "C": "David Trezeguet",
+      "D": "Zinedine Zidane",
+      "answer": "C",
+      "funFact": "David Trezeguet scored the 'Golden Goal' in extra time to give France a 2-1 victory over Italy in the UEFA Euro 2000 final."
+    },
+    {
+      "question": "Which country has won the most African Cup of Nations titles?",
+      "A": "Nigeria",
+      "B": "Cameroon",
+      "C": "Egypt",
+      "D": "Ghana",
+      "answer": "C",
+      "funFact": "Egypt has won the African Cup of Nations a record seven times, with their victories coming in 1957, 1959, 1986, 1998, 2006, 2008, and 2010."
+    },
+    {
+      "question": "Which club did Cristiano Ronaldo rejoin in 2021 after leaving Juventus?",
+      "A": "Real Madrid",
+      "B": "Manchester United",
+      "C": "Sporting CP",
+      "D": "Paris Saint-Germain",
+      "answer": "B",
+      "funFact": "Cristiano Ronaldo rejoined Manchester United in 2021, returning to the club where he first rose to international stardom."
+    },
+    {
+      "question": "Who won the Golden Boot at the 2018 FIFA World Cup?",
+      "A": "Kylian Mbappé",
+      "B": "Harry Kane",
+      "C": "Luka Modrić",
+      "D": "Antoine Griezmann",
+      "answer": "B",
+      "funFact": "Harry Kane won the Golden Boot at the 2018 FIFA World Cup, scoring six goals to help England reach the semi-finals."
+    },
+    {
+      "question": "Which football club is famously known as 'The Old Lady'?",
+      "A": "Inter Milan",
+      "B": "Juventus",
+      "C": "AS Roma",
+      "D": "AC Milan",
+      "answer": "B",
+      "funFact": "Juventus, one of Italy's most successful football clubs, is commonly referred to as 'La Vecchia Signora' or 'The Old Lady'."
+    },
+    {
+      "question": "Who is the youngest player to score in a FIFA World Cup?",
+      "A": "Pele",
+      "B": "Kylian Mbappé",
+      "C": "Lionel Messi",
+      "D": "Michael Owen",
+      "answer": "A",
+      "funFact": "Pelé became the youngest player to score in a FIFA World Cup at the age of 17 during the 1958 tournament, leading Brazil to victory."
+    }
+  ]

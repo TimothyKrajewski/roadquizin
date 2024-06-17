@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Which mammal is known to have the most powerful bite in the animal kingdom?",
+      "A": "Lion",
+      "B": "Tiger",
+      "C": "Hippopotamus",
+      "D": "Crocodile",
+      "answer": "C",
+      "funFact": "Hippopotamuses have extremely strong jaws and can bite with a force of up to 2,000 pounds per square inch, which is strong enough to crush a watermelon."
+    },
+    {
+      "question": "What is the largest species of shark?",
+      "A": "Great White Shark",
+      "B": "Hammerhead Shark",
+      "C": "Tiger Shark",
+      "D": "Whale Shark",
+      "answer": "D",
+      "funFact": "The Whale Shark is the largest shark species and can grow up to 40 feet in length, but it is a filter feeder and poses no threat to humans."
+    },
+    {
+      "question": "Which bird is known for its colorful, fan-shaped tail feathers?",
+      "A": "Flamingo",
+      "B": "Peacock",
+      "C": "Eagle",
+      "D": "Parrot",
+      "answer": "B",
+      "funFact": "Peacocks, particularly the males, are known for their iridescent tail feathers, which they fan out to attract females during mating displays."
+    },
+    {
+      "question": "Which animal is known for its ability to change color to blend in with its surroundings?",
+      "A": "Chameleon",
+      "B": "Frog",
+      "C": "Lizard",
+      "D": "Gecko",
+      "answer": "A",
+      "funFact": "Chameleons can change their skin color to blend in with their surroundings, communicate with other chameleons, and regulate their body temperature."
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "A": "Cheetah",
+      "B": "Lion",
+      "C": "Horse",
+      "D": "Leopard",
+      "answer": "A",
+      "funFact": "Cheetahs can reach speeds of up to 70 miles per hour, making them the fastest land animals. They can accelerate from 0 to 60 mph in just a few seconds."
+    },
+    {
+      "question": "Which mammal is known for having a large, prehensile nose that it uses to grab objects?",
+      "A": "Elephant",
+      "B": "Anteater",
+      "C": "Tapir",
+      "D": "Rhinoceros",
+      "answer": "A",
+      "funFact": "Elephants have a long trunk, which is an extended nose and upper lip, that they use for various tasks such as grabbing objects, drinking water, and smelling."
+    },
+    {
+      "question": "Which of these animals is known for living in large colonies called hives?",
+      "A": "Ant",
+      "B": "Bee",
+      "C": "Termite",
+      "D": "Wasp",
+      "answer": "B",
+      "funFact": "Bees live in large colonies called hives, which can contain thousands of bees. They work together to collect pollen and nectar and produce honey."
+    },
+    {
+      "question": "What is the only mammal capable of true flight?",
+      "A": "Bat",
+      "B": "Flying Squirrel",
+      "C": "Sugar Glider",
+      "D": "Peregrine Falcon",
+      "answer": "A",
+      "funFact": "Bats are the only mammals capable of sustained flight. They have wings made of a thin membrane stretched over their elongated finger bones."
+    },
+    {
+      "question": "Which aquatic animal is known for its ability to produce light through bioluminescence?",
+      "A": "Octopus",
+      "B": "Jellyfish",
+      "C": "Clownfish",
+      "D": "Seahorse",
+      "answer": "B",
+      "funFact": "Many species of jellyfish can produce light through bioluminescence, which they use to attract prey, deter predators, and communicate with each other."
+    },
+    {
+      "question": "Which animal has the longest migration route of any mammal?",
+      "A": "Gray Whale",
+      "B": "Humpback Whale",
+      "C": "Caribou",
+      "D": "Elephant Seal",
+      "answer": "A",
+      "funFact": "Gray whales have the longest migration route of any mammal, traveling up to 12,000 miles round trip between their feeding grounds in the Arctic and their breeding grounds in Mexico."
+    },
+    {
+      "question": "What is the only marsupial native to North America?",
+      "A": "Kangaroo",
+      "B": "Koala",
+      "C": "Opossum",
+      "D": "Tasmanian Devil",
+      "answer": "C",
+      "funFact": "The opossum is the only marsupial native to North America. It carries its young in a pouch, similar to kangaroos and other marsupials."
+    },
+    {
+      "question": "Which bird is known for its distinctive 'laughing' call?",
+      "A": "Parrot",
+      "B": "Kingfisher",
+      "C": "Kookaburra",
+      "D": "Cuckoo",
+      "answer": "C",
+      "funFact": "The kookaburra is known for its distinctive call that sounds like human laughter. It is native to Australia and New Guinea."
+    },
+    {
+      "question": "Which animal is the largest mammal on Earth?",
+      "A": "African Elephant",
+      "B": "Blue Whale",
+      "C": "Giraffe",
+      "D": "Hippopotamus",
+      "answer": "B",
+      "funFact": "The blue whale is the largest mammal on Earth, growing up to 100 feet in length and weighing as much as 200 tons."
+    },
+    {
+      "question": "Which animal is known for its impressive ability to mimic human speech?",
+      "A": "Parrot",
+      "B": "Crow",
+      "C": "Owl",
+      "D": "Raven",
+      "answer": "A",
+      "funFact": "Parrots are known for their ability to mimic human speech and other sounds. They are highly intelligent birds and can learn a large vocabulary."
+    },
+    {
+      "question": "Which animal has a tongue that can be twice as long as its body?",
+      "A": "Chameleon",
+      "B": "Anteater",
+      "C": "Giraffe",
+      "D": "Frog",
+      "answer": "A",
+      "funFact": "Chameleons have tongues that can be twice as long as their bodies. They use their long, sticky tongues to catch insects from a distance."
+    },
+    {
+      "question": "What type of animal is a Komodo dragon?",
+      "A": "Snake",
+      "B": "Lizard",
+      "C": "Crocodile",
+      "D": "Turtle",
+      "answer": "B",
+      "funFact": "The Komodo dragon is the largest species of lizard, growing up to 10 feet in length. It is native to a few Indonesian islands."
+    },
+    {
+      "question": "Which animal can sleep for up to three years?",
+      "A": "Snail",
+      "B": "Bear",
+      "C": "Bat",
+      "D": "Frog",
+      "answer": "A",
+      "funFact": "Some species of snails can hibernate or enter a state of dormancy for up to three years when conditions are unfavorable."
+    },
+    {
+      "question": "What is the primary diet of a panda?",
+      "A": "Insects",
+      "B": "Bamboo",
+      "C": "Fish",
+      "D": "Fruit",
+      "answer": "B",
+      "funFact": "Pandas primarily eat bamboo, which makes up over 99% of their diet. They have a specialized wrist bone that acts like a thumb to help them grasp bamboo stalks."
+    },
+    {
+      "question": "Which animal is known as the 'king of the jungle'?",
+      "A": "Tiger",
+      "B": "Lion",
+      "C": "Elephant",
+      "D": "Bear",
+      "answer": "B",
+      "funFact": "Lions are often referred to as the 'king of the jungle' due to their majestic appearance and position as top predators in their habitats."
+    },
+    {
+      "question": "Which insect is known for its role in pollination and production of honey?",
+      "A": "Butterfly",
+      "B": "Bee",
+      "C": "Ant",
+      "D": "Beetle",
+      "answer": "B",
+      "funFact": "Bees are vital for pollination and are known for producing honey. They live in colonies and work together to collect nectar and produce honey."
+    }
+  ]

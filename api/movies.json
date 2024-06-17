@@ -1,0 +1,172 @@
+[
+    {
+      "question": "What was the first feature-length animated film ever released?",
+      "A": "Fantasia",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Cinderella",
+      "D": "Pinocchio",
+      "answer": "B",
+      "funFact": "Released in 1937, 'Snow White and the Seven Dwarfs' was Disney's first feature-length animated film and is considered the first of its kind in cinema history."
+    },
+    {
+      "question": "Which movie won the first Academy Award for Best Picture in 1929?",
+      "A": "Sunrise",
+      "B": "Wings",
+      "C": "The Jazz Singer",
+      "D": "The Broadway Melody",
+      "answer": "B",
+      "funFact": "'Wings' won the first Academy Award for Best Picture at the 1st Academy Awards in 1929. It was a silent film about World War I fighter pilots."
+    },
+    {
+      "question": "Who is the most nominated actor in Academy Awards history?",
+      "A": "Marlon Brando",
+      "B": "Jack Nicholson",
+      "C": "Daniel Day-Lewis",
+      "D": "Meryl Streep",
+      "answer": "D",
+      "funFact": "Meryl Streep holds the record for the most acting nominations in Academy Awards history, with over 20 nominations."
+    },
+    {
+      "question": "Which film is often considered the first 'talkie', revolutionizing the film industry in 1927?",
+      "A": "Metropolis",
+      "B": "The Jazz Singer",
+      "C": "Citizen Kane",
+      "D": "Gone with the Wind",
+      "answer": "B",
+      "funFact": "'The Jazz Singer', released in 1927, is considered the first 'talkie' because it featured synchronized dialogue sequences, revolutionizing the film industry."
+    },
+    {
+      "question": "Who directed the epic film 'Gone with the Wind'?",
+      "A": "Alfred Hitchcock",
+      "B": "David Lean",
+      "C": "Victor Fleming",
+      "D": "Cecil B. DeMille",
+      "answer": "C",
+      "funFact": "Victor Fleming directed 'Gone with the Wind', which won ten Academy Awards and is considered one of the greatest films ever made."
+    },
+    {
+      "question": "Which film features the famous line, 'Here's looking at you, kid'?",
+      "A": "Casablanca",
+      "B": "Citizen Kane",
+      "C": "Gone with the Wind",
+      "D": "The Maltese Falcon",
+      "answer": "A",
+      "funFact": "The famous line 'Here's looking at you, kid' is from the 1942 film 'Casablanca', spoken by Humphrey Bogart's character, Rick Blaine."
+    },
+    {
+      "question": "Which movie is known for the iconic shower scene directed by Alfred Hitchcock?",
+      "A": "Rear Window",
+      "B": "Vertigo",
+      "C": "Psycho",
+      "D": "North by Northwest",
+      "answer": "C",
+      "funFact": "The iconic shower scene in Alfred Hitchcock's 'Psycho' is one of the most famous scenes in cinema history and is known for its innovative editing and music."
+    },
+    {
+      "question": "Who starred as the titular character in the 1951 film 'A Streetcar Named Desire'?",
+      "A": "Marlon Brando",
+      "B": "James Dean",
+      "C": "Montgomery Clift",
+      "D": "Gregory Peck",
+      "answer": "A",
+      "funFact": "Marlon Brando starred as Stanley Kowalski in the 1951 film 'A Streetcar Named Desire', a role that became one of his most iconic performances."
+    },
+    {
+      "question": "Which film won the Academy Award for Best Picture in 1994, beating 'Pulp Fiction' and 'The Shawshank Redemption'?",
+      "A": "Forrest Gump",
+      "B": "Braveheart",
+      "C": "Titanic",
+      "D": "The English Patient",
+      "answer": "A",
+      "funFact": "'Forrest Gump' won the Academy Award for Best Picture in 1994, beating out other notable films such as 'Pulp Fiction' and 'The Shawshank Redemption'."
+    },
+    {
+      "question": "Which director is known for his films '2001: A Space Odyssey' and 'A Clockwork Orange'?",
+      "A": "Steven Spielberg",
+      "B": "Stanley Kubrick",
+      "C": "Martin Scorsese",
+      "D": "Francis Ford Coppola",
+      "answer": "B",
+      "funFact": "Stanley Kubrick is known for his innovative and influential films, including '2001: A Space Odyssey' and 'A Clockwork Orange'."
+    },
+    {
+      "question": "Which actor played the role of Hannibal Lecter in 'The Silence of the Lambs'?",
+      "A": "Robert De Niro",
+      "B": "Al Pacino",
+      "C": "Anthony Hopkins",
+      "D": "Jack Nicholson",
+      "answer": "C",
+      "funFact": "Anthony Hopkins played the role of Hannibal Lecter in 'The Silence of the Lambs', winning an Academy Award for Best Actor for his performance."
+    },
+    {
+      "question": "Which film is often cited as the first blockbuster and revolutionized the summer movie season?",
+      "A": "Star Wars",
+      "B": "E.T. the Extra-Terrestrial",
+      "C": "Jaws",
+      "D": "Raiders of the Lost Ark",
+      "answer": "C",
+      "funFact": "'Jaws', directed by Steven Spielberg and released in 1975, is often cited as the first blockbuster and revolutionized the summer movie season."
+    },
+    {
+      "question": "Which 1997 film won 11 Academy Awards, including Best Picture, and became the highest-grossing film of its time?",
+      "A": "Titanic",
+      "B": "The Lord of the Rings: The Return of the King",
+      "C": "Gladiator",
+      "D": "Avatar",
+      "answer": "A",
+      "funFact": "James Cameron's 'Titanic' won 11 Academy Awards, including Best Picture, and became the highest-grossing film of its time."
+    },
+    {
+      "question": "Which actress has won the most Academy Awards for Best Actress?",
+      "A": "Katharine Hepburn",
+      "B": "Meryl Streep",
+      "C": "Ingrid Bergman",
+      "D": "Bette Davis",
+      "answer": "A",
+      "funFact": "Katharine Hepburn holds the record for the most Academy Awards for Best Actress, with four wins over her career."
+    },
+    {
+      "question": "Which film features the famous quote, 'May the Force be with you'?",
+      "A": "Star Wars: Episode IV - A New Hope",
+      "B": "Star Trek: The Motion Picture",
+      "C": "The Matrix",
+      "D": "Blade Runner",
+      "answer": "A",
+      "funFact": "The famous quote 'May the Force be with you' is from 'Star Wars: Episode IV - A New Hope', spoken by multiple characters throughout the film series."
+    },
+    {
+      "question": "Which film, directed by Orson Welles, is often regarded as the greatest film ever made?",
+      "A": "Gone with the Wind",
+      "B": "Casablanca",
+      "C": "Citizen Kane",
+      "D": "Vertigo",
+      "answer": "C",
+      "funFact": "Orson Welles' 'Citizen Kane' is often regarded as the greatest film ever made due to its innovative narrative structure, cinematography, and storytelling."
+    },
+    {
+      "question": "Who directed the epic film 'Lawrence of Arabia'?",
+      "A": "David Lean",
+      "B": "John Ford",
+      "C": "William Wyler",
+      "D": "Alfred Hitchcock",
+      "answer": "A",
+      "funFact": "David Lean directed 'Lawrence of Arabia', which won seven Academy Awards and is considered one of the greatest films ever made."
+    },
+    {
+      "question": "Which movie features the song 'Over the Rainbow'?",
+      "A": "Singin' in the Rain",
+      "B": "The Wizard of Oz",
+      "C": "Mary Poppins",
+      "D": "My Fair Lady",
+      "answer": "B",
+      "funFact": "The song 'Over the Rainbow' is featured in 'The Wizard of Oz' and is sung by Judy Garland's character, Dorothy Gale."
+    },
+    {
+      "question": "Which film trilogy was directed by Peter Jackson and based on the novels by J.R.R. Tolkien?",
+      "A": "Harry Potter",
+      "B": "The Chronicles of Narnia",
+      "C": "The Lord of the Rings",
+      "D": "The Hunger Games",
+      "answer": "C",
+      "funFact": "Peter Jackson directed 'The Lord of the Rings"}
+]
