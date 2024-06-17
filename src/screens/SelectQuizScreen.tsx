@@ -5,7 +5,7 @@ import { StackNavigationProp } from '@react-navigation/stack';
 import { useNavigation } from '@react-navigation/native';
 import { RootStackParamList } from '../types';
 import { listAll, ref, getDownloadURL } from 'firebase/storage';
-import { storage } from '../../firebase';
+import { storage } from '../firebase';
 
 type SelectQuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'SelectQuiz'>;
 
@@ -17,7 +17,7 @@ const SelectQuizScreen: React.FC = () => {
   useEffect(() => {
     const fetchQuizFiles = async () => {
       try {
-        const listRef = ref(storage, 'path/to/quizzes'); // Adjust path to your quizzes folder
+        const listRef = ref(storage, ''); // Adjust path to your quizzes folder
         const res = await listAll(listRef);
         const files = res.items.map(itemRef => itemRef.name);
         setQuizFiles(files);
@@ -33,7 +33,7 @@ const SelectQuizScreen: React.FC = () => {
 
   const handleQuizSelect = async (fileName: string) => {
     try {
-      const fileRef = ref(storage, `path/to/quizzes/${fileName}`);
+      const fileRef = ref(storage, `${fileName}`);
       const url = await getDownloadURL(fileRef);
       const response = await fetch(url);
       const data = await response.json();
