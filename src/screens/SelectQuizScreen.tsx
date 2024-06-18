@@ -1,11 +1,11 @@
-// src/screens/SelectQuizScreen.tsx
 import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, FlatList } from 'react-native';
+import { View, Text, StyleSheet, ActivityIndicator, FlatList } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { useNavigation } from '@react-navigation/native';
 import { RootStackParamList } from '../types';
 import { listAll, ref, getDownloadURL } from 'firebase/storage';
 import { storage } from '../firebase';
+import FancyButton from '../components/FancyButton';
 
 type SelectQuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'SelectQuiz'>;
 
@@ -37,7 +37,7 @@ const SelectQuizScreen: React.FC = () => {
       const url = await getDownloadURL(fileRef);
       const response = await fetch(url);
       const data = await response.json();
-      navigation.navigate('Quiz', { quizData: data });
+      navigation.navigate('Quiz', { quizData: data, quizId: fileName });
     } catch (error) {
       console.error("Error fetching quiz data: ", error);
     }
@@ -58,9 +58,7 @@ const SelectQuizScreen: React.FC = () => {
         data={quizFiles}
         keyExtractor={(item) => item}
         renderItem={({ item }) => (
-          <TouchableOpacity style={styles.quizButton} onPress={() => handleQuizSelect(item)}>
-            <Text style={styles.quizButtonText}>{item}</Text>
-          </TouchableOpacity>
+          <FancyButton text={item} onPress={() => handleQuizSelect(item)} />
         )}
       />
     </View>
@@ -77,17 +75,6 @@ const styles = StyleSheet.create({
     fontSize: 24,
     marginBottom: 20,
     textAlign: 'center',
-  },
-  quizButton: {
-    backgroundColor: '#4CAF50',
-    padding: 15,
-    marginVertical: 10,
-    borderRadius: 5,
-    alignItems: 'center',
-  },
-  quizButtonText: {
-    color: '#fff',
-    fontSize: 18,
   },
 });
 

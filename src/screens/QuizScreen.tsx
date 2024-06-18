@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, ScrollView } from 'react-native';
 import * as Progress from 'react-native-progress';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
@@ -62,37 +62,39 @@ const QuizScreen: React.FC = () => {
   return (
     <View style={styles.container}>
       <Progress.Bar progress={progress} animated={true} width={null} style={styles.progressBar} />
-      <Text style={styles.question}>{currentQuestion.question}</Text>
-      {Object.entries(currentQuestion)
-        .filter(([key]) => key.match(/[A-D]/))
-        .map(([key, value]) => (
-          <TouchableOpacity
-            key={key}
-            style={[
-              styles.option,
-              showResult && selectedAnswer === key && key !== currentQuestion.answer && styles.incorrectOption,
-              showResult && selectedAnswer === key && key === currentQuestion.answer && styles.correctOption
-            ]}
-            onPress={() => handleAnswerPress(key)}
-            disabled={showResult}
-          >
-            <Text style={styles.optionText}>{key}: {value}</Text>
-          </TouchableOpacity>
-        ))}
-      {showResult && (
-        <View style={styles.resultContainer}>
-          <Text style={styles.result}>
-            {selectedAnswer === currentQuestion.answer ? 'Correct!' : 'Incorrect!'}
-          </Text>
-          <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
-          <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
-            <Text style={styles.nextButtonText}>Next Question</Text>
-          </TouchableOpacity>
-        </View>
-      )}
-      {selectedAnswer === currentQuestion.answer && (
-        <ConfettiCannon ref={confettiRef} count={200} origin={{x: -10, y: 0}} fadeOut />
-      )}
+      <ScrollView contentContainerStyle={styles.content}>
+        <Text style={styles.question}>{currentQuestion.question}</Text>
+        {Object.entries(currentQuestion)
+          .filter(([key]) => key.match(/[A-D]/))
+          .map(([key, value]) => (
+            <TouchableOpacity
+              key={key}
+              style={[
+                styles.option,
+                showResult && selectedAnswer === key && key !== currentQuestion.answer && styles.incorrectOption,
+                showResult && selectedAnswer === key && key === currentQuestion.answer && styles.correctOption
+              ]}
+              onPress={() => handleAnswerPress(key)}
+              disabled={showResult}
+            >
+              <Text style={styles.optionText}>{key}: {value}</Text>
+            </TouchableOpacity>
+          ))}
+        {showResult && (
+          <View style={styles.resultContainer}>
+            <Text style={styles.result}>
+              {selectedAnswer === currentQuestion.answer ? 'Correct!' : 'Incorrect!'}
+            </Text>
+            <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
+            <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
+              <Text style={styles.nextButtonText}>Next Question</Text>
+            </TouchableOpacity>
+          </View>
+        )}
+        {selectedAnswer === currentQuestion.answer && (
+          <ConfettiCannon ref={confettiRef} count={200} origin={{x: -10, y: 0}} fadeOut />
+        )}
+      </ScrollView>
     </View>
   );
 };
@@ -101,11 +103,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    justifyContent: 'space-between',
   },
   progressBar: {
     marginVertical: 20,
     width: '100%',
+  },
+  content: {
+    flexGrow: 1,
+    justifyContent: 'flex-start',
   },
   question: {
     fontSize: 20,
@@ -127,6 +132,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#f44336',
   },
   resultContainer: {
+    marginTop: 'auto',
     alignItems: 'center',
   },
   result: {
