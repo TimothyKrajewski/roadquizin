@@ -1,0 +1,154 @@
+[
+    {
+      "question": "Which event is traditionally considered the starting point of the French Revolution?",
+      "A": "The Reign of Terror",
+      "B": "The Tennis Court Oath",
+      "C": "The Storming of the Bastille",
+      "D": "The Execution of Louis XVI",
+      "answer": "C",
+      "funFact": "The Storming of the Bastille on July 14, 1789, is traditionally considered the starting point of the French Revolution. This event is celebrated annually in France as Bastille Day."
+    },
+    {
+      "question": "Who was the King of France at the start of the French Revolution?",
+      "A": "Louis XIV",
+      "B": "Louis XV",
+      "C": "Louis XVI",
+      "D": "Napoleon Bonaparte",
+      "answer": "C",
+      "funFact": "Louis XVI was the King of France at the start of the French Revolution. He was later executed by guillotine in 1793."
+    },
+    {
+      "question": "What was the name of the prison fortress that revolutionaries stormed on July 14, 1789?",
+      "A": "The Louvre",
+      "B": "Versailles",
+      "C": "The Bastille",
+      "D": "Tuileries Palace",
+      "answer": "C",
+      "funFact": "The Bastille was a prison fortress in Paris. Its storming by revolutionaries on July 14, 1789, symbolized the uprising against the monarchy and the beginning of the French Revolution."
+    },
+    {
+      "question": "What document, adopted in 1789, declared the rights of French citizens and was influenced by the American Declaration of Independence?",
+      "A": "The Napoleonic Code",
+      "B": "The Constitution of 1791",
+      "C": "The Declaration of the Rights of Man and of the Citizen",
+      "D": "The Civil Constitution of the Clergy",
+      "answer": "C",
+      "funFact": "The Declaration of the Rights of Man and of the Citizen, adopted in 1789, declared the rights of French citizens and was influenced by Enlightenment ideas and the American Declaration of Independence."
+    },
+    {
+      "question": "Which radical and influential political group was led by Maximilien Robespierre during the French Revolution?",
+      "A": "The Girondins",
+      "B": "The Jacobins",
+      "C": "The Feuillants",
+      "D": "The Montagnards",
+      "answer": "B",
+      "funFact": "The Jacobins, led by Maximilien Robespierre, were a radical and influential political group during the French Revolution. They played a key role in the Reign of Terror."
+    },
+    {
+      "question": "What was the period of extreme violence and political purges in 1793-1794 known as?",
+      "A": "The Enlightenment",
+      "B": "The Directory",
+      "C": "The Reign of Terror",
+      "D": "The Thermidorian Reaction",
+      "answer": "C",
+      "funFact": "The Reign of Terror, lasting from 1793 to 1794, was a period of extreme violence and political purges led by the Committee of Public Safety under Robespierre's leadership."
+    },
+    {
+      "question": "Who was executed by guillotine on January 21, 1793, marking the end of the French monarchy?",
+      "A": "Marie Antoinette",
+      "B": "Louis XVI",
+      "C": "Napoleon Bonaparte",
+      "D": "Maximilien Robespierre",
+      "answer": "B",
+      "funFact": "King Louis XVI was executed by guillotine on January 21, 1793, marking the end of the French monarchy and the rise of the French Republic."
+    },
+    {
+      "question": "Which French queen, known for her extravagant lifestyle, was executed during the French Revolution?",
+      "A": "Catherine de Medici",
+      "B": "Anne of Austria",
+      "C": "Marie Antoinette",
+      "D": "Josephine Bonaparte",
+      "answer": "C",
+      "funFact": "Marie Antoinette, the wife of King Louis XVI, was known for her extravagant lifestyle and was executed by guillotine on October 16, 1793."
+    },
+    {
+      "question": "What was the name of the legislative assembly that governed France from October 1791 until September 1792?",
+      "A": "The National Assembly",
+      "B": "The Legislative Assembly",
+      "C": "The Directory",
+      "D": "The Consulate",
+      "answer": "B",
+      "funFact": "The Legislative Assembly governed France from October 1791 until September 1792, after which it was replaced by the National Convention."
+    },
+    {
+      "question": "Which general rose to power during the French Revolution and eventually declared himself Emperor of France?",
+      "A": "Louis XVIII",
+      "B": "Charles X",
+      "C": "Maximilien Robespierre",
+      "D": "Napoleon Bonaparte",
+      "answer": "D",
+      "funFact": "Napoleon Bonaparte rose to power during the French Revolution and declared himself Emperor of France in 1804, establishing the First French Empire."
+    },
+    {
+      "question": "What event in 1799 marked the end of the French Revolution and the beginning of Napoleon's rise to power?",
+      "A": "The Storming of the Bastille",
+      "B": "The Reign of Terror",
+      "C": "The Thermidorian Reaction",
+      "D": "The Coup of 18 Brumaire",
+      "answer": "D",
+      "funFact": "The Coup of 18 Brumaire on November 9, 1799, marked the end of the French Revolution and the beginning of Napoleon Bonaparte's rise to power."
+    },
+    {
+      "question": "Which radical journalist and politician was assassinated in his bathtub by Charlotte Corday?",
+      "A": "Georges Danton",
+      "B": "Maximilien Robespierre",
+      "C": "Jean-Paul Marat",
+      "D": "Jacques-Louis David",
+      "answer": "C",
+      "funFact": "Jean-Paul Marat, a radical journalist and politician, was assassinated in his bathtub by Charlotte Corday on July 13, 1793."
+    },
+    {
+      "question": "What name was given to the moderate political faction during the French Revolution that favored a constitutional monarchy?",
+      "A": "The Jacobins",
+      "B": "The Girondins",
+      "C": "The Sans-culottes",
+      "D": "The Montagnards",
+      "answer": "B",
+      "funFact": "The Girondins were a moderate political faction during the French Revolution that favored a constitutional monarchy and were opposed by the more radical Jacobins."
+    },
+    {
+      "question": "What was the governing body that ruled France from 1795 to 1799, known for its corruption and inefficiency?",
+      "A": "The National Assembly",
+      "B": "The Directory",
+      "C": "The Consulate",
+      "D": "The Legislative Assembly",
+      "answer": "B",
+      "funFact": "The Directory was the governing body that ruled France from 1795 to 1799, known for its corruption and inefficiency, and was eventually overthrown by Napoleon Bonaparte."
+    },
+    {
+      "question": "Which document, issued in 1791, attempted to reorganize the Catholic Church in France and reduce its power?",
+      "A": "The Declaration of the Rights of Man and of the Citizen",
+      "B": "The Civil Constitution of the Clergy",
+      "C": "The Napoleonic Code",
+      "D": "The Constitution of 1791",
+      "answer": "B",
+      "funFact": "The Civil Constitution of the Clergy, issued in 1791, attempted to reorganize the Catholic Church in France and reduce its power by requiring clergy to swear allegiance to the state."
+    },
+    {
+      "question": "What revolutionary device became a symbol of the Reign of Terror?",
+      "A": "The Guillotine",
+      "B": "The Iron Maiden",
+      "C": "The Rack",
+      "D": "The Firing Squad",
+      "answer": "A",
+      "funFact": "The guillotine became a symbol of the Reign of Terror, used for executions during the French Revolution. It was intended to be a more humane method of execution."
+    },
+    {
+      "question": "Which palace did the women of Paris march to in October 1789, demanding bread and forcing the royal family to move to Paris?",
+      "A": "The Louvre",
+      "B": "Versailles",
+      "C": "The Tuileries Palace",
+      "D": "The Bastille",
+      "answer": "B",
+      "funFact": "In October 1789, the women of Paris marched to the Palace of Versailles, demanding bread and forcing King Louis XVI and his family to move to Paris."
+    }]

@@ -1,0 +1,182 @@
+[
+    {
+      "question": "What was the original name of Disney's Hollywood Studios when it first opened in 1989?",
+      "A": "Disney-MGM Studios",
+      "B": "Disney-Pixar Studios",
+      "C": "Disney-Universal Studios",
+      "D": "Disney-Cinemagic Studios",
+      "answer": "A",
+      "funFact": "Disney's Hollywood Studios was originally named Disney-MGM Studios when it first opened in 1989."
+    },
+    {
+      "question": "Which Disney park is home to the 'Pirates of the Caribbean' attraction that was the first to be built with Jack Sparrow animatronics?",
+      "A": "Magic Kingdom",
+      "B": "Disneyland Paris",
+      "C": "Tokyo Disneyland",
+      "D": "Disneyland",
+      "answer": "B",
+      "funFact": "Disneyland Paris was the first Disney park to include Jack Sparrow animatronics in the 'Pirates of the Caribbean' attraction."
+    },
+    {
+      "question": "What is the name of the exclusive, members-only club located in Disneyland's New Orleans Square?",
+      "A": "Club 55",
+      "B": "Club 33",
+      "C": "Club 21",
+      "D": "Club 66",
+      "answer": "B",
+      "funFact": "Club 33 is the exclusive, members-only club located in Disneyland's New Orleans Square."
+    },
+    {
+      "question": "Which attraction at Disney's Animal Kingdom features a 199-foot-tall artificial mountain?",
+      "A": "Expedition Everest",
+      "B": "Kilimanjaro Safaris",
+      "C": "Dinosaur",
+      "D": "Avatar Flight of Passage",
+      "answer": "A",
+      "funFact": "Expedition Everest at Disney's Animal Kingdom features a 199-foot-tall artificial mountain and is the tallest of all Disney theme park mountains."
+    },
+    {
+      "question": "What is the name of the underground tunnel system used by Cast Members at Magic Kingdom in Walt Disney World?",
+      "A": "Utilidors",
+      "B": "Backstage Pass",
+      "C": "Subway",
+      "D": "Underground Passage",
+      "answer": "A",
+      "funFact": "The underground tunnel system used by Cast Members at Magic Kingdom in Walt Disney World is called the Utilidors."
+    },
+    {
+      "question": "Which Disney park is the only one that is not owned by The Walt Disney Company?",
+      "A": "Shanghai Disneyland",
+      "B": "Hong Kong Disneyland",
+      "C": "Tokyo Disneyland",
+      "D": "Disneyland Paris",
+      "answer": "C",
+      "funFact": "Tokyo Disneyland is the only Disney park not owned by The Walt Disney Company; it is owned by the Oriental Land Company."
+    },
+    {
+      "question": "What is the name of the nighttime spectacular at EPCOT that debuted in 2021?",
+      "A": "IllumiNations: Reflections of Earth",
+      "B": "Happily Ever After",
+      "C": "Harmonious",
+      "D": "Fantasmic!",
+      "answer": "C",
+      "funFact": "Harmonious is the nighttime spectacular that debuted at EPCOT in 2021, replacing IllumiNations: Reflections of Earth."
+    },
+    {
+      "question": "In which Disney park can you find the attraction 'Mystic Manor'?",
+      "A": "Magic Kingdom",
+      "B": "Disneyland Paris",
+      "C": "Hong Kong Disneyland",
+      "D": "Tokyo Disneyland",
+      "answer": "C",
+      "funFact": "Mystic Manor is an attraction unique to Hong Kong Disneyland, offering a different take on the traditional haunted house."
+    },
+    {
+      "question": "Which attraction in Disneyland Park, Anaheim, was the first to use the innovative Omnimover ride system?",
+      "A": "Haunted Mansion",
+      "B": "Pirates of the Caribbean",
+      "C": "It's a Small World",
+      "D": "Adventure Thru Inner Space",
+      "answer": "D",
+      "funFact": "Adventure Thru Inner Space was the first attraction to use the Omnimover ride system when it opened in Disneyland Park, Anaheim, in 1967."
+    },
+    {
+      "question": "What was the name of the first ever Disney water park?",
+      "A": "Blizzard Beach",
+      "B": "River Country",
+      "C": "Typhoon Lagoon",
+      "D": "Volcano Bay",
+      "answer": "B",
+      "funFact": "River Country, which opened in 1976 at Walt Disney World, was Disney's first ever water park."
+    },
+    {
+      "question": "Which Disney park is known for having the largest castle of all the Disney parks?",
+      "A": "Magic Kingdom",
+      "B": "Disneyland",
+      "C": "Shanghai Disneyland",
+      "D": "Tokyo Disneyland",
+      "answer": "C",
+      "funFact": "Shanghai Disneyland's Enchanted Storybook Castle is the largest of all the Disney park castles."
+    },
+    {
+      "question": "What is the name of the Halloween event held annually at Disneyland and Magic Kingdom?",
+      "A": "Mickey's Not-So-Scary Halloween Party",
+      "B": "Disney's Halloween Time",
+      "C": "Villains Unleashed",
+      "D": "Fright Nights",
+      "answer": "A",
+      "funFact": "Mickey's Not-So-Scary Halloween Party is the annual Halloween event held at both Disneyland and Magic Kingdom."
+    },
+    {
+      "question": "Which Disney park features the attraction 'Journey to the Center of the Earth'?",
+      "A": "EPCOT",
+      "B": "Tokyo DisneySea",
+      "C": "Disneyland Paris",
+      "D": "Disney California Adventure",
+      "answer": "B",
+      "funFact": "Journey to the Center of the Earth is a unique attraction located at Tokyo DisneySea."
+    },
+    {
+      "question": "What was the original name of Epcot when it opened in 1982?",
+      "A": "Epcot Center",
+      "B": "Future World",
+      "C": "World Showcase",
+      "D": "Tomorrowland",
+      "answer": "A",
+      "funFact": "Epcot was originally named Epcot Center when it opened in 1982."
+    },
+    {
+      "question": "Which Disney park has an attraction called 'Crush's Coaster'?",
+      "A": "Disneyland Paris",
+      "B": "Disneyland",
+      "C": "Magic Kingdom",
+      "D": "Tokyo Disneyland",
+      "answer": "A",
+      "funFact": "Crush's Coaster is a popular attraction at Walt Disney Studios Park in Disneyland Paris."
+    },
+    {
+      "question": "Which Disney park features the 'TRON Lightcycle Power Run' attraction?",
+      "A": "Disneyland",
+      "B": "Magic Kingdom",
+      "C": "Shanghai Disneyland",
+      "D": "Disneyland Paris",
+      "answer": "C",
+      "funFact": "TRON Lightcycle Power Run is an exciting roller coaster attraction located at Shanghai Disneyland."
+    },
+    {
+      "question": "Which Disney park's castle is inspired by Neuschwanstein Castle in Germany?",
+      "A": "Cinderella Castle",
+      "B": "Sleeping Beauty Castle",
+      "C": "Enchanted Storybook Castle",
+      "D": "Château de la Belle au Bois Dormant",
+      "answer": "B",
+      "funFact": "Sleeping Beauty Castle at Disneyland is inspired by Neuschwanstein Castle in Germany."
+    },
+    {
+      "question": "Which Disney park features the unique attraction 'Aquatopia'?",
+      "A": "Tokyo Disneyland",
+      "B": "Hong Kong Disneyland",
+      "C": "Disneyland Paris",
+      "D": "Tokyo DisneySea",
+      "answer": "D",
+      "funFact": "Aquatopia is a unique water-based attraction located at Tokyo DisneySea."
+    },
+    {
+      "question": "Which Disney park is home to the 'Avatar: Flight of Passage' attraction?",
+      "A": "EPCOT",
+      "B": "Disneyland",
+      "C": "Disney's Animal Kingdom",
+      "D": "Hollywood Studios",
+      "answer": "C",
+      "funFact": "Avatar: Flight of Passage is an immersive attraction located in Pandora – The World of Avatar at Disney's Animal Kingdom."
+    },
+    {
+      "question": "Which Disney park's version of 'Space Mountain' is called 'Hyperspace Mountain'?",
+      "A": "Magic Kingdom",
+      "B": "Disneyland",
+      "C": "Disneyland Paris",
+      "D": "Tokyo Disneyland",
+      "answer": "C",
+      "funFact": "Disneyland Paris features 'Hyperspace Mountain', a Star Wars-themed version of the classic Space Mountain attraction."
+    }
+  ]

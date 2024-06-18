@@ -17,7 +17,7 @@ const HomeScreen: React.FC = () => {
         style={styles.img}
         source={require('../../assets/RoadQuizinIcon.png')}
       />
-      <Card style={styles.card} onPress={() => navigation.navigate('Quiz')}>
+      <Card style={styles.card} onPress={() => navigation.navigate('SelectQuiz')}>
         <Card.Content>
           <Title>Start Quiz</Title>
           <Paragraph>Test your knowledge with fun quizzes!</Paragraph>

@@ -1,33 +1,38 @@
-// src/screens/QuizScreen.tsx
-import React, { useState, useRef } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
+import React, { useState, useEffect, useRef } from 'react';
+import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, ScrollView } from 'react-native';
 import * as Progress from 'react-native-progress';
 import { StackNavigationProp } from '@react-navigation/stack';
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '../types';
-import presidents from '../../api/presidents.json';
+import { getDownloadURL, ref } from 'firebase/storage';
+import { storage } from '../firebase';
 import ConfettiCannon from 'react-native-confetti-cannon';
 
 type QuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Quiz'>;
-const questions = presidents;
+type QuizScreenRouteProp = RouteProp<RootStackParamList, 'Quiz'>;
 
 const QuizScreen: React.FC = () => {
+  const navigation = useNavigation<QuizScreenNavigationProp>();
+  const route = useRoute<QuizScreenRouteProp>();
+  const { quizData } = route.params;
+
+  const [questions, setQuestions] = useState<any[]>(quizData || []);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [showResult, setShowResult] = useState(false);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [incorrectAnswers, setIncorrectAnswers] = useState(0);
-  const [showConfetti, setShowConfetti] = useState(false);
-
-  const navigation = useNavigation<QuizScreenNavigationProp>();
-  const confettiRef = useRef(null);
+  const [loading, setLoading] = useState(false);
+  const confettiRef = useRef<any>();
 
   const handleAnswerPress = (answer: string) => {
     setSelectedAnswer(answer);
     setShowResult(true);
     if (answer === questions[currentQuestionIndex].answer) {
       setCorrectAnswers(correctAnswers + 1);
-      setShowConfetti(true);
+      if (confettiRef.current) {
+        confettiRef.current.start();
+      }
     } else {
       setIncorrectAnswers(incorrectAnswers + 1);
     }
@@ -38,11 +43,18 @@ const QuizScreen: React.FC = () => {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
       setSelectedAnswer(null);
       setShowResult(false);
-      setShowConfetti(false);
     } else {
       navigation.navigate('Results', { correctAnswers, incorrectAnswers });
     }
   };
+
+  if (!questions.length) {
+    return (
+      <View style={styles.container}>
+        <ActivityIndicator size="large" color="#0000ff" />
+      </View>
+    );
+  }
 
   const currentQuestion = questions[currentQuestionIndex];
   const progress = (currentQuestionIndex + 1) / questions.length;
@@ -50,7 +62,7 @@ const QuizScreen: React.FC = () => {
   return (
     <View style={styles.container}>
       <Progress.Bar progress={progress} animated={true} width={null} style={styles.progressBar} />
-      <View style={styles.contentContainer}>
+      <ScrollView contentContainerStyle={styles.content}>
         <Text style={styles.question}>{currentQuestion.question}</Text>
         {Object.entries(currentQuestion)
           .filter(([key]) => key.match(/[A-D]/))
@@ -68,27 +80,21 @@ const QuizScreen: React.FC = () => {
               <Text style={styles.optionText}>{key}: {value}</Text>
             </TouchableOpacity>
           ))}
-      </View>
-      {showResult && (
-        <View style={styles.footer}>
-          <Text style={styles.result}>
-            {selectedAnswer === currentQuestion.answer ? 'Correct!' : 'Incorrect!'}
-          </Text>
-          <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
-          <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
-            <Text style={styles.nextButtonText}>Next Question</Text>
-          </TouchableOpacity>
-        </View>
-      )}
-      {showConfetti && (
-        <ConfettiCannon
-          count={200}
-          origin={{x: -10, y: 0}}
-          fadeOut={true}
-          ref={confettiRef}
-          explosionSpeed={350}
-        />
-      )}
+        {showResult && (
+          <View style={styles.resultContainer}>
+            <Text style={styles.result}>
+              {selectedAnswer === currentQuestion.answer ? 'Correct!' : 'Incorrect!'}
+            </Text>
+            <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
+            <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
+              <Text style={styles.nextButtonText}>Next Question</Text>
+            </TouchableOpacity>
+          </View>
+        )}
+        {selectedAnswer === currentQuestion.answer && (
+          <ConfettiCannon ref={confettiRef} count={200} origin={{x: -10, y: 0}} fadeOut />
+        )}
+      </ScrollView>
     </View>
   );
 };
@@ -97,15 +103,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    justifyContent: 'space-between',
   },
   progressBar: {
     marginVertical: 20,
     width: '100%',
   },
-  contentContainer: {
-    flex: 1,
-    justifyContent: 'center',
+  content: {
+    flexGrow: 1,
+    justifyContent: 'flex-start',
   },
   question: {
     fontSize: 20,
@@ -126,25 +131,23 @@ const styles = StyleSheet.create({
   incorrectOption: {
     backgroundColor: '#f44336',
   },
-  footer: {
-    position: 'absolute',
-    bottom: 20,
-    left: 20,
-    right: 20,
+  resultContainer: {
+    marginTop: 'auto',
     alignItems: 'center',
   },
   result: {
     fontSize: 22,
-    marginBottom: 10,
+    marginTop: 20,
     textAlign: 'center',
   },
   funFact: {
     fontSize: 18,
-    marginBottom: 20,
+    marginTop: 10,
     fontStyle: 'italic',
     textAlign: 'center',
   },
   nextButton: {
+    marginTop: 20,
     padding: 15,
     backgroundColor: '#4CAF50',
     borderRadius: 5,

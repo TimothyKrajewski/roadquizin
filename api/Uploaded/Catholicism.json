@@ -1,0 +1,172 @@
+[
+    {
+      "question": "Who is the current Pope of the Roman Catholic Church as of 2024?",
+      "A": "Pope Benedict XVI",
+      "B": "Pope Francis",
+      "C": "Pope John Paul II",
+      "D": "Pope Pius XII",
+      "answer": "B",
+      "funFact": "Pope Francis, born Jorge Mario Bergoglio, became the Pope in 2013 and is the first Pope from the Americas."
+    },
+    {
+      "question": "What is the significance of the Sacrament of Confirmation in the Catholic Church?",
+      "A": "It marks the individual's entry into the Church",
+      "B": "It is the initiation into the Christian life",
+      "C": "It strengthens the grace of Baptism",
+      "D": "It is the forgiveness of sins",
+      "answer": "C",
+      "funFact": "The Sacrament of Confirmation strengthens the grace received at Baptism and is considered one of the three sacraments of initiation in the Catholic Church."
+    },
+    {
+      "question": "What is the name of the prayer that begins with 'Hail Mary, full of grace'?",
+      "A": "Our Father",
+      "B": "Glory Be",
+      "C": "Hail Mary",
+      "D": "Apostles' Creed",
+      "answer": "C",
+      "funFact": "The 'Hail Mary' prayer is a traditional Catholic prayer asking for the intercession of the Virgin Mary, the mother of Jesus."
+    },
+    {
+      "question": "What is the term for the belief that Mary, the mother of Jesus, was conceived without original sin?",
+      "A": "The Assumption",
+      "B": "The Immaculate Conception",
+      "C": "The Incarnation",
+      "D": "The Annunciation",
+      "answer": "B",
+      "funFact": "The Immaculate Conception refers to the belief that Mary was conceived without original sin, a dogma formally defined by the Catholic Church in 1854."
+    },
+    {
+      "question": "Which of the following is NOT one of the seven sacraments of the Catholic Church?",
+      "A": "Baptism",
+      "B": "Eucharist",
+      "C": "Ordination",
+      "D": "Tithing",
+      "answer": "D",
+      "funFact": "Tithing, or giving a portion of one's income to the Church, is not one of the seven sacraments. The seven sacraments include Baptism, Eucharist, Confirmation, Reconciliation, Anointing of the Sick, Marriage, and Holy Orders."
+    },
+    {
+      "question": "What is the name of the liturgical season leading up to Christmas in the Catholic Church?",
+      "A": "Lent",
+      "B": "Easter",
+      "C": "Advent",
+      "D": "Pentecost",
+      "answer": "C",
+      "funFact": "Advent is the liturgical season leading up to Christmas, a time of preparation and anticipation for the birth of Jesus."
+    },
+    {
+      "question": "Who is the patron saint of lost causes?",
+      "A": "St. Jude",
+      "B": "St. Francis",
+      "C": "St. Anthony",
+      "D": "St. Christopher",
+      "answer": "A",
+      "funFact": "St. Jude Thaddeus is known as the patron saint of lost causes and desperate situations."
+    },
+    {
+      "question": "What is the primary language used in the official documents and liturgy of the Roman Catholic Church?",
+      "A": "Greek",
+      "B": "Latin",
+      "C": "Hebrew",
+      "D": "Italian",
+      "answer": "B",
+      "funFact": "Latin is the primary language used in the official documents and liturgy of the Roman Catholic Church."
+    },
+    {
+      "question": "Which Catholic doctrine states that the bread and wine become the actual body and blood of Christ during Mass?",
+      "A": "Transfiguration",
+      "B": "Transubstantiation",
+      "C": "Transmutation",
+      "D": "Translocation",
+      "answer": "B",
+      "funFact": "The doctrine of Transubstantiation states that during Mass, the bread and wine become the actual body and blood of Christ."
+    },
+    {
+      "question": "What is the name of the council that took place from 1962 to 1965, bringing significant changes to the Catholic Church?",
+      "A": "Council of Trent",
+      "B": "First Vatican Council",
+      "C": "Second Vatican Council",
+      "D": "Council of Nicaea",
+      "answer": "C",
+      "funFact": "The Second Vatican Council, or Vatican II, took place from 1962 to 1965 and brought significant changes to the Catholic Church, including reforms in liturgy and increased engagement with the modern world."
+    },
+    {
+      "question": "Who is considered the first Pope of the Catholic Church?",
+      "A": "Pope Linus",
+      "B": "Pope Paul",
+      "C": "Pope Peter",
+      "D": "Pope John",
+      "answer": "C",
+      "funFact": "Saint Peter, one of Jesus' apostles, is considered the first Pope of the Catholic Church."
+    },
+    {
+      "question": "What is the term for the process of becoming a saint in the Catholic Church?",
+      "A": "Beatification",
+      "B": "Canonization",
+      "C": "Sanctification",
+      "D": "Veneration",
+      "answer": "B",
+      "funFact": "Canonization is the process by which the Catholic Church officially declares someone a saint."
+    },
+    {
+      "question": "Which saint is known as the 'Little Flower of Jesus' and is famous for her 'little way' of spirituality?",
+      "A": "St. Teresa of Avila",
+      "B": "St. Therese of Lisieux",
+      "C": "St. Catherine of Siena",
+      "D": "St. Clare of Assisi",
+      "answer": "B",
+      "funFact": "St. Therese of Lisieux, known as the 'Little Flower of Jesus,' is famous for her 'little way' of spirituality, emphasizing small acts of love and kindness."
+    },
+    {
+      "question": "What is the name of the prayer in which Catholics confess their sins to a priest?",
+      "A": "Confession",
+      "B": "Adoration",
+      "C": "Intercession",
+      "D": "Rosary",
+      "answer": "A",
+      "funFact": "The Sacrament of Confession, also known as Reconciliation, involves Catholics confessing their sins to a priest and receiving absolution."
+    },
+    {
+      "question": "Which city is the headquarters of the Roman Catholic Church?",
+      "A": "Rome",
+      "B": "Vatican City",
+      "C": "Jerusalem",
+      "D": "Nazareth",
+      "answer": "B",
+      "funFact": "Vatican City, an independent city-state enclaved within Rome, is the headquarters of the Roman Catholic Church and the residence of the Pope."
+    },
+    {
+      "question": "What is the title of the head of the College of Cardinals who becomes the Pope?",
+      "A": "Cardinal Secretary",
+      "B": "Archbishop",
+      "C": "Bishop",
+      "D": "Cardinal Camerlengo",
+      "answer": "D",
+      "funFact": "The Cardinal Camerlengo is the head of the College of Cardinals and plays a key role in the election of a new Pope."
+    },
+    {
+      "question": "Which Catholic saint is the patron saint of animals and the environment?",
+      "A": "St. Francis of Assisi",
+      "B": "St. Benedict",
+      "C": "St. Augustine",
+      "D": "St. Jerome",
+      "answer": "A",
+      "funFact": "St. Francis of Assisi is known as the patron saint of animals and the environment, and his feast day is celebrated on October 4."
+    },
+    {
+      "question": "What is the Catholic doctrine that states the Pope is infallible in matters of faith and morals when speaking ex cathedra?",
+      "A": "Papal Supremacy",
+      "B": "Papal Infallibility",
+      "C": "Papal Primacy",
+      "D": "Papal Authority",
+      "answer": "B",
+      "funFact": "Papal Infallibility is the doctrine that states the Pope is infallible in matters of faith and morals when speaking ex cathedra, or from the chair of Saint Peter."
+    },
+    {
+      "question": "What is the term for the small round wafer used in the Catholic Eucharist?",
+      "A": "Manna",
+      "B": "Host",
+      "C": "Communion Bread",
+      "D": "Chalice",
+      "answer": "B",
+      "funFact": "The small round wafer used in the Catholic Eucharist is called a host, which is consecrated during the Mass and believed to become the body of Christ."
+    }]

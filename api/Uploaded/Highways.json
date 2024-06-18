@@ -1,0 +1,92 @@
+[
+    {
+      "question": "Which interstate highway is the longest in the United States?",
+      "A": "I-80",
+      "B": "I-90",
+      "C": "I-10",
+      "D": "I-95",
+      "answer": "B",
+      "funFact": "Interstate 90 (I-90) is the longest Interstate Highway in the United States, stretching from Seattle, Washington, to Boston, Massachusetts."
+    },
+    {
+      "question": "Which interstate highway runs from Los Angeles, California, to Jacksonville, Florida?",
+      "A": "I-40",
+      "B": "I-70",
+      "C": "I-10",
+      "D": "I-20",
+      "answer": "C",
+      "funFact": "Interstate 10 (I-10) is one of the southernmost routes in the Interstate Highway System, running across the southern United States."
+    },
+    {
+      "question": "Which interstate highway is known as the 'Main Street of America'?",
+      "A": "I-70",
+      "B": "I-40",
+      "C": "I-95",
+      "D": "I-80",
+      "answer": "C",
+      "funFact": "Interstate 95 (I-95) is a major north-south Interstate Highway running along the East Coast from Miami, Florida, to Houlton, Maine."
+    },
+    {
+      "question": "Which interstate highway connects the cities of San Francisco and Cleveland?",
+      "A": "I-5",
+      "B": "I-90",
+      "C": "I-80",
+      "D": "I-70",
+      "answer": "C",
+      "funFact": "Interstate 80 (I-80) is a major east-west route that passes through states such as California, Nevada, Utah, and Ohio."
+    },
+    {
+      "question": "Which interstate highway is known for its scenic route through the Rocky Mountains?",
+      "A": "I-70",
+      "B": "I-90",
+      "C": "I-40",
+      "D": "I-10",
+      "answer": "A",
+      "funFact": "Interstate 70 (I-70) passes through the Rocky Mountains in Colorado, offering breathtaking views and significant elevation changes."
+    },
+    {
+      "question": "Which interstate highway runs through the Great Plains from Canada to Mexico?",
+      "A": "I-25",
+      "B": "I-35",
+      "C": "I-55",
+      "D": "I-65",
+      "answer": "B",
+      "funFact": "Interstate 35 (I-35) runs from Laredo, Texas, on the Mexican border to Duluth, Minnesota, near the Canadian border."
+    },
+    {
+      "question": "Which interstate highway is the primary east-west route in the southern United States?",
+      "A": "I-20",
+      "B": "I-30",
+      "C": "I-40",
+      "D": "I-10",
+      "answer": "D",
+      "funFact": "Interstate 10 (I-10) runs from Santa Monica, California, to Jacksonville, Florida, and is a major route for cross-country travel."
+    },
+    {
+      "question": "Which interstate highway runs from Seattle, Washington, to Boston, Massachusetts?",
+      "A": "I-80",
+      "B": "I-90",
+      "C": "I-10",
+      "D": "I-70",
+      "answer": "B",
+      "funFact": "Interstate 90 (I-90) is the northernmost coast-to-coast Interstate Highway in the United States, passing through cities like Chicago and Cleveland."
+    },
+    {
+      "question": "Which interstate highway is known as the 'NAFTA Superhighway'?",
+      "A": "I-35",
+      "B": "I-40",
+      "C": "I-70",
+      "D": "I-90",
+      "answer": "A",
+      "funFact": "Interstate 35 (I-35) is often called the 'NAFTA Superhighway' because it facilitates trade between the United States, Canada, and Mexico."
+    },
+    {
+      "question": "Which interstate highway passes through both the Grand Canyon and Yellowstone National Parks?",
+      "A": "I-15",
+      "B": "I-25",
+      "C": "I-40",
+      "D": "I-70",
+      "answer": "A",
+      "funFact": "Interstate 15 (I-15) runs through several major national parks and scenic areas, making it a popular route for tourists."
+    }
+  ]

@@ -1,0 +1,182 @@
+[
+    {
+      "question": "What year was The Walt Disney Company founded?",
+      "A": "1923",
+      "B": "1928",
+      "C": "1937",
+      "D": "1945",
+      "answer": "A",
+      "funFact": "The Walt Disney Company was founded on October 16, 1923, by Walt Disney and Roy O. Disney."
+    },
+    {
+      "question": "What was the first full-length animated feature produced by Disney?",
+      "A": "Fantasia",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Dumbo",
+      "D": "Pinocchio",
+      "answer": "B",
+      "funFact": "Snow White and the Seven Dwarfs, released in 1937, was Disney's first full-length animated feature."
+    },
+    {
+      "question": "Who was the original voice of Mickey Mouse?",
+      "A": "Walt Disney",
+      "B": "Jim MacDonald",
+      "C": "Wayne Allwine",
+      "D": "Clarence Nash",
+      "answer": "A",
+      "funFact": "Walt Disney himself provided the original voice for Mickey Mouse."
+    },
+    {
+      "question": "Which Disney character was the first to receive a star on the Hollywood Walk of Fame?",
+      "A": "Mickey Mouse",
+      "B": "Donald Duck",
+      "C": "Goofy",
+      "D": "Minnie Mouse",
+      "answer": "A",
+      "funFact": "Mickey Mouse was the first Disney character to receive a star on the Hollywood Walk of Fame, which he received in 1978."
+    },
+    {
+      "question": "What year did Disneyland open in Anaheim, California?",
+      "A": "1950",
+      "B": "1955",
+      "C": "1960",
+      "D": "1965",
+      "answer": "B",
+      "funFact": "Disneyland opened on July 17, 1955, in Anaheim, California."
+    },
+    {
+      "question": "Which animated Disney film was the first to be nominated for a Best Picture Oscar?",
+      "A": "The Lion King",
+      "B": "Beauty and the Beast",
+      "C": "Aladdin",
+      "D": "Snow White and the Seven Dwarfs",
+      "answer": "B",
+      "funFact": "Beauty and the Beast was the first animated film to be nominated for a Best Picture Oscar in 1992."
+    },
+    {
+      "question": "What was Walt Disney's first synchronized sound cartoon?",
+      "A": "Steamboat Willie",
+      "B": "Plane Crazy",
+      "C": "The Gallopin' Gaucho",
+      "D": "The Karnival Kid",
+      "answer": "A",
+      "funFact": "Steamboat Willie, released in 1928, was Walt Disney's first cartoon with synchronized sound and featured Mickey Mouse."
+    },
+    {
+      "question": "Which Disney film was the first to use the multiplane camera technique?",
+      "A": "Bambi",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "The Old Mill",
+      "D": "Fantasia",
+      "answer": "C",
+      "funFact": "The Old Mill, released in 1937, was the first Disney film to use the multiplane camera technique."
+    },
+    {
+      "question": "What is the name of the first color Mickey Mouse cartoon?",
+      "A": "The Band Concert",
+      "B": "Steamboat Willie",
+      "C": "Fantasia",
+      "D": "Flowers and Trees",
+      "answer": "A",
+      "funFact": "The Band Concert, released in 1935, was the first Mickey Mouse cartoon produced in color."
+    },
+    {
+      "question": "Which Disney film is the first to feature a soundtrack available for sale?",
+      "A": "Cinderella",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Fantasia",
+      "D": "The Lion King",
+      "answer": "B",
+      "funFact": "Snow White and the Seven Dwarfs was the first film to have a commercially available soundtrack."
+    },
+    {
+      "question": "What was the first live-action film produced by Disney?",
+      "A": "Treasure Island",
+      "B": "20,000 Leagues Under the Sea",
+      "C": "Old Yeller",
+      "D": "The Shaggy Dog",
+      "answer": "A",
+      "funFact": "Treasure Island, released in 1950, was Disney's first fully live-action film."
+    },
+    {
+      "question": "Which Disney song won the company's first Academy Award for Best Original Song?",
+      "A": "When You Wish Upon a Star",
+      "B": "Someday My Prince Will Come",
+      "C": "Zip-a-Dee-Doo-Dah",
+      "D": "A Dream is a Wish Your Heart Makes",
+      "answer": "A",
+      "funFact": "When You Wish Upon a Star from 'Pinocchio' won Disney's first Academy Award for Best Original Song in 1940."
+    },
+    {
+      "question": "Which Disney park was the first to open outside of the United States?",
+      "A": "Tokyo Disneyland",
+      "B": "Disneyland Paris",
+      "C": "Hong Kong Disneyland",
+      "D": "Shanghai Disneyland",
+      "answer": "A",
+      "funFact": "Tokyo Disneyland, which opened in 1983, was the first Disney park to open outside of the United States."
+    },
+    {
+      "question": "What was the last film Walt Disney worked on before his death?",
+      "A": "The Jungle Book",
+      "B": "The Aristocats",
+      "C": "101 Dalmatians",
+      "D": "Mary Poppins",
+      "answer": "A",
+      "funFact": "The Jungle Book, released in 1967, was the last animated feature Walt Disney worked on before his death."
+    },
+    {
+      "question": "Who took over as CEO of The Walt Disney Company after Walt Disney's death?",
+      "A": "Roy O. Disney",
+      "B": "Ron W. Miller",
+      "C": "Michael Eisner",
+      "D": "Robert Iger",
+      "answer": "A",
+      "funFact": "Roy O. Disney, Walt's brother, took over as CEO of The Walt Disney Company after Walt Disney's death in 1966."
+    },
+    {
+      "question": "Which animated feature marked the beginning of the Disney Renaissance?",
+      "A": "Aladdin",
+      "B": "The Lion King",
+      "C": "The Little Mermaid",
+      "D": "Beauty and the Beast",
+      "answer": "C",
+      "funFact": "The Little Mermaid, released in 1989, marked the beginning of the Disney Renaissance, a period of successful animated features."
+    },
+    {
+      "question": "What year did Disney acquire Pixar Animation Studios?",
+      "A": "2000",
+      "B": "2006",
+      "C": "2010",
+      "D": "2015",
+      "answer": "B",
+      "funFact": "Disney acquired Pixar Animation Studios in 2006 for $7.4 billion."
+    },
+    {
+      "question": "Which Disney CEO is credited with revitalizing the company and leading the acquisition of major properties like Pixar, Marvel, and Lucasfilm?",
+      "A": "Michael Eisner",
+      "B": "Robert Iger",
+      "C": "Roy E. Disney",
+      "D": "Jeffrey Katzenberg",
+      "answer": "B",
+      "funFact": "Robert Iger is credited with revitalizing Disney and leading the acquisition of major properties like Pixar, Marvel, and Lucasfilm."
+    },
+    {
+      "question": "What was the first Pixar film released after Disney acquired the company?",
+      "A": "Toy Story 3",
+      "B": "Up",
+      "C": "Ratatouille",
+      "D": "Cars",
+      "answer": "C",
+      "funFact": "Ratatouille, released in 2007, was the first Pixar film released after Disney acquired the company."
+    },
+    {
+      "question": "Which Disney film was the first to feature a princess of color?",
+      "A": "Mulan",
+      "B": "The Princess and the Frog",
+      "C": "Pocahontas",
+      "D": "Aladdin",
+      "answer": "C",
+      "funFact": "Pocahontas, released in 1995, was the first Disney film to feature a princess of color."
+    }
+  ]

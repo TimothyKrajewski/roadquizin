@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Who was the first character to be killed in the TV series 'Game of Thrones'?",
+      "A": "Eddard Stark",
+      "B": "Waymar Royce",
+      "C": "Jon Arryn",
+      "D": "Robert Baratheon",
+      "answer": "B",
+      "funFact": "Waymar Royce is the first character to be killed in the TV series 'Game of Thrones', during the prologue scene Beyond the Wall."
+    },
+    {
+      "question": "What is the name of Arya Stark's sword?",
+      "A": "Ice",
+      "B": "Oathkeeper",
+      "C": "Needle",
+      "D": "Longclaw",
+      "answer": "C",
+      "funFact": "Arya Stark names her sword 'Needle', a gift from her half-brother Jon Snow."
+    },
+    {
+      "question": "Which house's motto is 'Fire and Blood'?",
+      "A": "House Stark",
+      "B": "House Lannister",
+      "C": "House Targaryen",
+      "D": "House Baratheon",
+      "answer": "C",
+      "funFact": "House Targaryen's motto is 'Fire and Blood', reflecting their dragonlord heritage."
+    },
+    {
+      "question": "Who was known as the 'Mad King'?",
+      "A": "Robert Baratheon",
+      "B": "Aerys II Targaryen",
+      "C": "Rhaegar Targaryen",
+      "D": "Viserys Targaryen",
+      "answer": "B",
+      "funFact": "Aerys II Targaryen, also known as the 'Mad King', was the last Targaryen king to sit on the Iron Throne before Robert's Rebellion."
+    },
+    {
+      "question": "What is the ancestral seat of House Lannister?",
+      "A": "Winterfell",
+      "B": "Storm's End",
+      "C": "Highgarden",
+      "D": "Casterly Rock",
+      "answer": "D",
+      "funFact": "Casterly Rock is the ancestral seat of House Lannister, located on the western coast of Westeros."
+    },
+    {
+      "question": "Who becomes the Lord Commander of the Night's Watch after Jon Snow?",
+      "A": "Samwell Tarly",
+      "B": "Alliser Thorne",
+      "C": "Eddison Tollett",
+      "D": "Benjen Stark",
+      "answer": "C",
+      "funFact": "Eddison Tollett, also known as Dolorous Edd, becomes the Lord Commander of the Night's Watch after Jon Snow."
+    },
+    {
+      "question": "Who is known as the 'Kingslayer'?",
+      "A": "Jaime Lannister",
+      "B": "Ned Stark",
+      "C": "Jorah Mormont",
+      "D": "Robb Stark",
+      "answer": "A",
+      "funFact": "Jaime Lannister is known as the 'Kingslayer' for killing King Aerys II Targaryen during Robert's Rebellion."
+    },
+    {
+      "question": "What is the name of Daenerys Targaryen's largest dragon?",
+      "A": "Viserion",
+      "B": "Drogon",
+      "C": "Rhaegal",
+      "D": "Balerion",
+      "answer": "B",
+      "funFact": "Drogon is Daenerys Targaryen's largest and most aggressive dragon, named after her late husband Khal Drogo."
+    },
+    {
+      "question": "Who is the ruler of the Iron Islands and claims the title of King of the Iron Islands?",
+      "A": "Balon Greyjoy",
+      "B": "Theon Greyjoy",
+      "C": "Euron Greyjoy",
+      "D": "Yara Greyjoy",
+      "answer": "A",
+      "funFact": "Balon Greyjoy is the ruler of the Iron Islands and claims the title of King of the Iron Islands until his death."
+    },
+    {
+      "question": "Which character is known as 'The Red Woman'?",
+      "A": "Catelyn Stark",
+      "B": "Sansa Stark",
+      "C": "Melisandre",
+      "D": "Brienne of Tarth",
+      "answer": "C",
+      "funFact": "Melisandre, a priestess of the Lord of Light, is known as 'The Red Woman' due to her red clothing and hair."
+    },
+    {
+      "question": "What is the motto of House Stark?",
+      "A": "Hear Me Roar!",
+      "B": "We Do Not Sow",
+      "C": "Winter is Coming",
+      "D": "Fire and Blood",
+      "answer": "C",
+      "funFact": "The motto of House Stark is 'Winter is Coming', reflecting the harsh and unforgiving nature of their homeland in the North."
+    },
+    {
+      "question": "Who kills Tywin Lannister?",
+      "A": "Tyrion Lannister",
+      "B": "Jaime Lannister",
+      "C": "Cersei Lannister",
+      "D": "Arya Stark",
+      "answer": "A",
+      "funFact": "Tyrion Lannister kills his father Tywin Lannister with a crossbow in the privy."
+    },
+    {
+      "question": "What is the name of Jon Snow's direwolf?",
+      "A": "Ghost",
+      "B": "Nymeria",
+      "C": "Summer",
+      "D": "Shaggydog",
+      "answer": "A",
+      "funFact": "Ghost is the name of Jon Snow's albino direwolf."
+    },
+    {
+      "question": "Which castle is known as the 'Eyrie'?",
+      "A": "Dragonstone",
+      "B": "Riverrun",
+      "C": "The Twins",
+      "D": "The Eyrie",
+      "answer": "D",
+      "funFact": "The Eyrie is the ancestral seat of House Arryn, located high in the Mountains of the Moon in the Vale."
+    },
+    {
+      "question": "Who is the author of the 'A Song of Ice and Fire' series?",
+      "A": "J.K. Rowling",
+      "B": "George R.R. Martin",
+      "C": "J.R.R. Tolkien",
+      "D": "Patrick Rothfuss",
+      "answer": "B",
+      "funFact": "George R.R. Martin is the author of the 'A Song of Ice and Fire' series, which inspired the 'Game of Thrones' TV series."
+    },
+    {
+      "question": "Which character is the mother of dragons?",
+      "A": "Cersei Lannister",
+      "B": "Arya Stark",
+      "C": "Daenerys Targaryen",
+      "D": "Sansa Stark",
+      "answer": "C",
+      "funFact": "Daenerys Targaryen is known as the Mother of Dragons, having hatched three dragons from eggs given to her as a wedding gift."
+    },
+    {
+      "question": "Who is the youngest Stark child?",
+      "A": "Bran Stark",
+      "B": "Rickon Stark",
+      "C": "Arya Stark",
+      "D": "Sansa Stark",
+      "answer": "B",
+      "funFact": "Rickon Stark is the youngest child of Eddard and Catelyn Stark."
+    },
+    {
+      "question": "What is the name of the sword given to Jon Snow by Jeor Mormont?",
+      "A": "Ice",
+      "B": "Longclaw",
+      "C": "Oathkeeper",
+      "D": "Heartsbane",
+      "answer": "B",
+      "funFact": "Longclaw is the name of the Valyrian steel sword given to Jon Snow by Jeor Mormont."
+    },
+    {
+      "question": "Which city is known as the 'Queen of Cities' in Essos?",
+      "A": "Meereen",
+      "B": "Braavos",
+      "C": "Volantis",
+      "D": "Qarth",
+      "answer": "B",
+      "funFact": "Braavos is often referred to as the 'Queen of Cities' in Essos due to its wealth and influence."
+    },
+    {
+      "question": "Who is known as 'The Hound'?",
+      "A": "Jaime Lannister",
+      "B": "Theon Greyjoy",
+      "C": "Sandor Clegane",
+      "D": "Jorah Mormont",
+      "answer": "C",
+      "funFact": "Sandor Clegane is known as 'The Hound' due to his fierce reputation and the dog sigil of House Clegane."
+    }
+  ]

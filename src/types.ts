@@ -1,8 +1,8 @@
-// src/types.ts
 export type RootStackParamList = {
-    Home: undefined;
-    Quiz: undefined;
-    FunFacts: undefined;
-    Settings: undefined;
-    Results: { correctAnswers: number; incorrectAnswers: number };
-  };
+  Home: undefined;
+  SelectQuiz: undefined;
+  Quiz: { quizData: any, quizId: string };
+  FunFacts: undefined;
+  Settings: undefined;
+  Results: { correctAnswers: number; incorrectAnswers: number; quizId: string };
+};

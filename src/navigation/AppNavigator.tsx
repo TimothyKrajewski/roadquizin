@@ -1,8 +1,8 @@
-// src/navigation/AppNavigator.tsx
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import HomeScreen from '../screens/HomeScreen';
+import SelectQuizScreen from '../screens/SelectQuizScreen';
 import QuizScreen from '../screens/QuizScreen';
 import FunFactsScreen from '../screens/FunFactsScreen';
 import SettingsScreen from '../screens/SettingsScreen';
@@ -16,6 +16,7 @@ const AppNavigator: React.FC = () => {
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Home">
         <Stack.Screen name="Home" component={HomeScreen} />
+        <Stack.Screen name="SelectQuiz" component={SelectQuizScreen} />
         <Stack.Screen name="Quiz" component={QuizScreen} />
         <Stack.Screen name="FunFacts" component={FunFactsScreen} />
         <Stack.Screen name="Settings" component={SettingsScreen} />
