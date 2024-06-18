@@ -1,0 +1,91 @@
+[
+    {
+      "question": "Which ancient civilization is known for building the Pyramids of Giza?",
+      "A": "Sumerians",
+      "B": "Babylonians",
+      "C": "Egyptians",
+      "D": "Mayans",
+      "answer": "C",
+      "funFact": "The ancient Egyptians built the Pyramids of Giza as tombs for their pharaohs. The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "question": "Which ancient civilization developed the first known system of writing called cuneiform?",
+      "A": "Assyrians",
+      "B": "Sumerians",
+      "C": "Hittites",
+      "D": "Phoenicians",
+      "answer": "B",
+      "funFact": "The Sumerians of Mesopotamia developed cuneiform writing around 3400 BCE, which involved pressing symbols into clay tablets."
+    },
+    {
+      "question": "Which ancient civilization is credited with the creation of democracy?",
+      "A": "Romans",
+      "B": "Persians",
+      "C": "Greeks",
+      "D": "Indians",
+      "answer": "C",
+      "funFact": "The ancient Greeks, particularly in the city-state of Athens, are credited with the creation of democracy around the 5th century BCE."
+    },
+    {
+      "question": "Which ancient civilization built the city of Machu Picchu in the Andes Mountains?",
+      "A": "Aztecs",
+      "B": "Incas",
+      "C": "Olmecs",
+      "D": "Toltecs",
+      "answer": "B",
+      "funFact": "The Incas built Machu Picchu in the 15th century as an estate for the Inca emperor Pachacuti. It is located in present-day Peru."
+    },
+    {
+      "question": "Which ancient civilization is known for its code of laws, one of the earliest written legal codes?",
+      "A": "Hittites",
+      "B": "Phoenicians",
+      "C": "Babylonians",
+      "D": "Hebrews",
+      "answer": "C",
+      "funFact": "The Code of Hammurabi, developed by the Babylonian king Hammurabi around 1754 BCE, is one of the earliest and most complete written legal codes."
+    },
+    {
+      "question": "Which ancient civilization was centered in the Indus Valley and is known for its advanced urban planning?",
+      "A": "Aryans",
+      "B": "Harappans",
+      "C": "Mauryans",
+      "D": "Guptas",
+      "answer": "B",
+      "funFact": "The Harappan civilization, also known as the Indus Valley Civilization, was known for its advanced urban planning, including well-laid-out streets and sophisticated drainage systems."
+    },
+    {
+      "question": "Which ancient civilization is known for its extensive network of roads and aqueducts?",
+      "A": "Persians",
+      "B": "Romans",
+      "C": "Greeks",
+      "D": "Egyptians",
+      "answer": "B",
+      "funFact": "The Romans built an extensive network of roads and aqueducts, which facilitated trade and the movement of armies across the Roman Empire."
+    },
+    {
+      "question": "Which ancient civilization developed the concept of zero and made significant contributions to mathematics and astronomy?",
+      "A": "Chinese",
+      "B": "Romans",
+      "C": "Greeks",
+      "D": "Mayans",
+      "answer": "D",
+      "funFact": "The ancient Mayans developed the concept of zero and made significant contributions to mathematics, astronomy, and calendar systems."
+    },
+    {
+      "question": "Which ancient civilization is known for the Epic of Gilgamesh, one of the earliest known works of literary fiction?",
+      "A": "Assyrians",
+      "B": "Babylonians",
+      "C": "Sumerians",
+      "D": "Hittites",
+      "answer": "C",
+      "funFact": "The Epic of Gilgamesh, written by the Sumerians, is one of the earliest known works of literary fiction and tells the story of the hero Gilgamesh."
+    },
+    {
+      "question": "Which ancient civilization was ruled by a pharaoh and worshiped gods like Ra and Anubis?",
+      "A": "Mesopotamians",
+      "B": "Egyptians",
+      "C": "Greeks",
+      "D": "Romans",
+      "answer": "B",
+      "funFact": "The ancient Egyptians were ruled by pharaohs and worshiped a pantheon of gods, including Ra, the sun god, and Anubis, the god of mummification."
+    }]

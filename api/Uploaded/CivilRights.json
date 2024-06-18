@@ -1,0 +1,154 @@
+[
+    {
+      "question": "What landmark Supreme Court case in 1954 declared racial segregation in public schools unconstitutional?",
+      "A": "Plessy v. Ferguson",
+      "B": "Brown v. Board of Education",
+      "C": "Roe v. Wade",
+      "D": "Dred Scott v. Sandford",
+      "answer": "B",
+      "funFact": "In Brown v. Board of Education, the Supreme Court ruled that racial segregation in public schools was unconstitutional, overturning Plessy v. Ferguson's 'separate but equal' doctrine."
+    },
+    {
+      "question": "Who was the civil rights leader that delivered the famous 'I Have a Dream' speech during the March on Washington in 1963?",
+      "A": "Malcolm X",
+      "B": "Rosa Parks",
+      "C": "Martin Luther King Jr.",
+      "D": "Thurgood Marshall",
+      "answer": "C",
+      "funFact": "Martin Luther King Jr. delivered his iconic 'I Have a Dream' speech on August 28, 1963, during the March on Washington for Jobs and Freedom."
+    },
+    {
+      "question": "Which event is considered the beginning of the modern Civil Rights Movement, sparked by Rosa Parks' arrest in 1955?",
+      "A": "The Selma to Montgomery Marches",
+      "B": "The Birmingham Campaign",
+      "C": "The Montgomery Bus Boycott",
+      "D": "The Greensboro Sit-ins",
+      "answer": "C",
+      "funFact": "The Montgomery Bus Boycott began in December 1955 after Rosa Parks was arrested for refusing to give up her bus seat to a white person, leading to a year-long boycott of the Montgomery bus system."
+    },
+    {
+      "question": "Which organization, founded by Martin Luther King Jr. and others in 1957, played a key role in the Civil Rights Movement?",
+      "A": "NAACP",
+      "B": "SNCC",
+      "C": "CORE",
+      "D": "SCLC",
+      "answer": "D",
+      "funFact": "The Southern Christian Leadership Conference (SCLC) was founded in 1957 by Martin Luther King Jr. and other civil rights leaders to coordinate nonviolent protests and advance civil rights."
+    },
+    {
+      "question": "What was the goal of the Freedom Riders in 1961?",
+      "A": "To desegregate schools",
+      "B": "To register African American voters",
+      "C": "To desegregate interstate bus travel",
+      "D": "To end employment discrimination",
+      "answer": "C",
+      "funFact": "The Freedom Riders aimed to desegregate interstate bus travel by riding buses into the segregated southern United States, challenging local laws and customs."
+    },
+    {
+      "question": "Which act, signed into law by President Lyndon B. Johnson in 1964, banned discrimination based on race, color, religion, sex, or national origin?",
+      "A": "Voting Rights Act",
+      "B": "Civil Rights Act",
+      "C": "Fair Housing Act",
+      "D": "Equal Pay Act",
+      "answer": "B",
+      "funFact": "The Civil Rights Act of 1964 was a landmark piece of legislation that banned discrimination based on race, color, religion, sex, or national origin in employment and public accommodations."
+    },
+    {
+      "question": "Which event in 1965, involving a march from Selma to Montgomery, highlighted the need for voting rights legislation?",
+      "A": "Freedom Summer",
+      "B": "The March on Washington",
+      "C": "Bloody Sunday",
+      "D": "The Birmingham Campaign",
+      "answer": "C",
+      "funFact": "The Selma to Montgomery marches in 1965, particularly the violent confrontation known as 'Bloody Sunday,' highlighted the need for voting rights legislation and led to the passage of the Voting Rights Act of 1965."
+    },
+    {
+      "question": "Who was the first African American student to attend the University of Mississippi, escorted by federal marshals in 1962?",
+      "A": "Medgar Evers",
+      "B": "Ralph Abernathy",
+      "C": "James Meredith",
+      "D": "Stokely Carmichael",
+      "answer": "C",
+      "funFact": "James Meredith became the first African American student to attend the University of Mississippi in 1962, escorted by federal marshals amid violent opposition."
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution, passed in 1964, abolished the poll tax in federal elections?",
+      "A": "24th Amendment",
+      "B": "25th Amendment",
+      "C": "26th Amendment",
+      "D": "27th Amendment",
+      "answer": "A",
+      "funFact": "The 24th Amendment, passed in 1964, abolished the poll tax in federal elections, removing a barrier to voting for many African Americans."
+    },
+    {
+      "question": "Which civil rights leader was known for his advocacy of black nationalism and was assassinated in 1965?",
+      "A": "Martin Luther King Jr.",
+      "B": "Malcolm X",
+      "C": "Medgar Evers",
+      "D": "Huey Newton",
+      "answer": "B",
+      "funFact": "Malcolm X was a prominent civil rights leader known for his advocacy of black nationalism and was assassinated on February 21, 1965."
+    },
+    {
+      "question": "Which act, signed into law in 1965, aimed to overcome legal barriers preventing African Americans from exercising their right to vote?",
+      "A": "Civil Rights Act",
+      "B": "Voting Rights Act",
+      "C": "Fair Housing Act",
+      "D": "Equal Pay Act",
+      "answer": "B",
+      "funFact": "The Voting Rights Act of 1965 aimed to overcome legal barriers that prevented African Americans from exercising their right to vote, including literacy tests and other discriminatory practices."
+    },
+    {
+      "question": "Which event in 1963 was a pivotal moment for the Civil Rights Movement, drawing over 200,000 people to the nation's capital?",
+      "A": "The Selma to Montgomery Marches",
+      "B": "The March on Washington",
+      "C": "Freedom Summer",
+      "D": "The Birmingham Campaign",
+      "answer": "B",
+      "funFact": "The March on Washington for Jobs and Freedom, held on August 28, 1963, drew over 200,000 people to the nation's capital and was the site of Martin Luther King Jr.'s 'I Have a Dream' speech."
+    },
+    {
+      "question": "Who was the first African American Supreme Court Justice, appointed in 1967?",
+      "A": "Clarence Thomas",
+      "B": "Thurgood Marshall",
+      "C": "Constance Baker Motley",
+      "D": "William Hastie",
+      "answer": "B",
+      "funFact": "Thurgood Marshall was appointed as the first African American Supreme Court Justice in 1967 by President Lyndon B. Johnson."
+    },
+    {
+      "question": "Which legislation, passed in 1968, aimed to eliminate discrimination in the sale, rental, and financing of housing?",
+      "A": "Civil Rights Act",
+      "B": "Voting Rights Act",
+      "C": "Fair Housing Act",
+      "D": "Equal Pay Act",
+      "answer": "C",
+      "funFact": "The Fair Housing Act, passed in 1968, aimed to eliminate discrimination in the sale, rental, and financing of housing based on race, color, religion, sex, or national origin."
+    },
+    {
+      "question": "Which civil rights leader was assassinated in Memphis, Tennessee, on April 4, 1968?",
+      "A": "Malcolm X",
+      "B": "Medgar Evers",
+      "C": "Martin Luther King Jr.",
+      "D": "Ralph Abernathy",
+      "answer": "C",
+      "funFact": "Martin Luther King Jr. was assassinated on April 4, 1968, in Memphis, Tennessee, where he had gone to support striking sanitation workers."
+    },
+    {
+      "question": "Which organization, founded in 1909, played a significant role in the Civil Rights Movement by advocating for the rights of African Americans?",
+      "A": "SCLC",
+      "B": "CORE",
+      "C": "NAACP",
+      "D": "SNCC",
+      "answer": "C",
+      "funFact": "The National Association for the Advancement of Colored People (NAACP) was founded in 1909 and played a significant role in the Civil Rights Movement through legal challenges and advocacy."
+    },
+    {
+      "question": "Which 1964 campaign, aimed at registering African American voters in Mississippi, was marked by violence and the murder of three civil rights workers?",
+      "A": "The Selma to Montgomery Marches",
+      "B": "Freedom Summer",
+      "C": "The Birmingham Campaign",
+      "D": "The March on Washington",
+      "answer": "B",
+      "funFact": "Freedom Summer was a 1964 campaign aimed at registering African American voters in Mississippi and was marked by violence, including the murder of three civil rights workers."
+    }]

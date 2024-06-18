@@ -1,0 +1,172 @@
+[
+    {
+      "question": "Who wrote the novel '1984'?",
+      "A": "Aldous Huxley",
+      "B": "George Orwell",
+      "C": "Ray Bradbury",
+      "D": "J.D. Salinger",
+      "answer": "B",
+      "funFact": "'1984', written by George Orwell, is a dystopian novel that explores themes of totalitarianism, surveillance, and censorship."
+    },
+    {
+      "question": "Which novel begins with the line, 'Call me Ishmael'?",
+      "A": "Moby-Dick",
+      "B": "The Old Man and the Sea",
+      "C": "Treasure Island",
+      "D": "Robinson Crusoe",
+      "answer": "A",
+      "funFact": "Herman Melville's 'Moby-Dick' begins with the famous line, 'Call me Ishmael', setting the stage for the epic tale of Captain Ahab's pursuit of the white whale."
+    },
+    {
+      "question": "Who is the author of the 'Harry Potter' series?",
+      "A": "J.K. Rowling",
+      "B": "J.R.R. Tolkien",
+      "C": "C.S. Lewis",
+      "D": "Suzanne Collins",
+      "answer": "A",
+      "funFact": "J.K. Rowling is the author of the 'Harry Potter' series, which has become one of the best-selling book series in history."
+    },
+    {
+      "question": "What is the title of the first book in J.R.R. Tolkien's 'The Lord of the Rings' trilogy?",
+      "A": "The Two Towers",
+      "B": "The Return of the King",
+      "C": "The Fellowship of the Ring",
+      "D": "The Hobbit",
+      "answer": "C",
+      "funFact": "The first book in J.R.R. Tolkien's 'The Lord of the Rings' trilogy is 'The Fellowship of the Ring'."
+    },
+    {
+      "question": "Which classic novel features a character named Atticus Finch?",
+      "A": "To Kill a Mockingbird",
+      "B": "The Catcher in the Rye",
+      "C": "Pride and Prejudice",
+      "D": "The Great Gatsby",
+      "answer": "A",
+      "funFact": "Atticus Finch is a central character in Harper Lee's 'To Kill a Mockingbird', known for his moral integrity and defense of a black man accused of raping a white woman."
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "A": "Charlotte Brontë",
+      "B": "Emily Brontë",
+      "C": "Jane Austen",
+      "D": "Louisa May Alcott",
+      "answer": "C",
+      "funFact": "Jane Austen is the author of 'Pride and Prejudice', a beloved novel that explores themes of love, class, and social standing."
+    },
+    {
+      "question": "In 'The Catcher in the Rye', what is the name of the protagonist?",
+      "A": "Jay Gatsby",
+      "B": "Holden Caulfield",
+      "C": "Nick Carraway",
+      "D": "Tom Buchanan",
+      "answer": "B",
+      "funFact": "Holden Caulfield is the protagonist of J.D. Salinger's 'The Catcher in the Rye', a novel that delves into themes of teenage angst and alienation."
+    },
+    {
+      "question": "Which novel features a dystopian society where books are banned and 'firemen' burn any that are found?",
+      "A": "Brave New World",
+      "B": "Fahrenheit 451",
+      "C": "1984",
+      "D": "The Giver",
+      "answer": "B",
+      "funFact": "Ray Bradbury's 'Fahrenheit 451' is set in a dystopian society where books are banned and 'firemen' burn any that are found."
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "William Faulkner",
+      "D": "John Steinbeck",
+      "answer": "B",
+      "funFact": "F. Scott Fitzgerald is the author of 'The Great Gatsby', a novel that explores themes of wealth, class, and the American Dream in the 1920s."
+    },
+    {
+      "question": "What is the name of the young heroine in 'Alice's Adventures in Wonderland'?",
+      "A": "Dorothy",
+      "B": "Alice",
+      "C": "Wendy",
+      "D": "Lucy",
+      "answer": "B",
+      "funFact": "Alice is the young heroine in Lewis Carroll's 'Alice's Adventures in Wonderland', a whimsical tale of her journey through a fantastical world."
+    },
+    {
+      "question": "Which novel by Mark Twain features the characters Huck Finn and Tom Sawyer?",
+      "A": "The Adventures of Huckleberry Finn",
+      "B": "The Adventures of Tom Sawyer",
+      "C": "Life on the Mississippi",
+      "D": "A Connecticut Yankee in King Arthur's Court",
+      "answer": "A",
+      "funFact": "'The Adventures of Huckleberry Finn' by Mark Twain features Huck Finn and Tom Sawyer and is considered one of the great American novels."
+    },
+    {
+      "question": "Who is the author of 'One Hundred Years of Solitude'?",
+      "A": "Gabriel Garcia Marquez",
+      "B": "Mario Vargas Llosa",
+      "C": "Isabel Allende",
+      "D": "Jorge Luis Borges",
+      "answer": "A",
+      "funFact": "Gabriel Garcia Marquez is the author of 'One Hundred Years of Solitude', a landmark novel in the magical realism genre."
+    },
+    {
+      "question": "In which novel does the character Elizabeth Bennet appear?",
+      "A": "Emma",
+      "B": "Mansfield Park",
+      "C": "Sense and Sensibility",
+      "D": "Pride and Prejudice",
+      "answer": "D",
+      "funFact": "Elizabeth Bennet is the protagonist of Jane Austen's 'Pride and Prejudice'."
+    },
+    {
+      "question": "Who wrote 'The Chronicles of Narnia' series?",
+      "A": "J.R.R. Tolkien",
+      "B": "C.S. Lewis",
+      "C": "Philip Pullman",
+      "D": "J.K. Rowling",
+      "answer": "B",
+      "funFact": "C.S. Lewis is the author of 'The Chronicles of Narnia' series, a beloved fantasy series for children."
+    },
+    {
+      "question": "What is the title of the first book in the 'Harry Potter' series?",
+      "A": "Harry Potter and the Goblet of Fire",
+      "B": "Harry Potter and the Chamber of Secrets",
+      "C": "Harry Potter and the Sorcerer's Stone",
+      "D": "Harry Potter and the Prisoner of Azkaban",
+      "answer": "C",
+      "funFact": "'Harry Potter and the Sorcerer's Stone' (also known as 'Harry Potter and the Philosopher's Stone' outside the U.S.) is the first book in the series."
+    },
+    {
+      "question": "Which famous detective character was created by Arthur Conan Doyle?",
+      "A": "Hercule Poirot",
+      "B": "Sherlock Holmes",
+      "C": "Sam Spade",
+      "D": "Miss Marple",
+      "answer": "B",
+      "funFact": "Sherlock Holmes, created by Arthur Conan Doyle, is one of the most famous detective characters in literature."
+    },
+    {
+      "question": "Who wrote 'The Grapes of Wrath'?",
+      "A": "Ernest Hemingway",
+      "B": "William Faulkner",
+      "C": "John Steinbeck",
+      "D": "Jack London",
+      "answer": "C",
+      "funFact": "John Steinbeck is the author of 'The Grapes of Wrath', a novel that depicts the struggles of American farmers during the Great Depression."
+    },
+    {
+      "question": "Which book features the line, 'It was the best of times, it was the worst of times'?",
+      "A": "A Tale of Two Cities",
+      "B": "Great Expectations",
+      "C": "Bleak House",
+      "D": "David Copperfield",
+      "answer": "A",
+      "funFact": "Charles Dickens' novel 'A Tale of Two Cities' begins with the famous line, 'It was the best of times, it was the worst of times'."
+    },
+    {
+      "question": "Who wrote the dystopian novel 'Brave New World'?",
+      "A": "George Orwell",
+      "B": "Ray Bradbury",
+      "C": "Aldous Huxley",
+      "D": "Isaac Asimov",
+      "answer": "C",
+      "funFact": "Aldous Huxley is the author of 'Brave New World', a dystopian novel exploring themes of technology, control, and societal change."
+    }]

@@ -12,8 +12,9 @@ const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress }) => {
 
   const handlePressIn = () => {
     Animated.spring(scaleValue, {
-      toValue: 0.9,
-      friction: 3,
+      toValue: 0.95,
+      friction: 4,
+      tension: 300,
       useNativeDriver: true,
     }).start();
   };
@@ -21,10 +22,10 @@ const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress }) => {
   const handlePressOut = () => {
     Animated.spring(scaleValue, {
       toValue: 1,
-      friction: 3,
+      friction: 4,
+      tension: 300,
       useNativeDriver: true,
     }).start();
-    onPress();
   };
 
   return (
@@ -33,6 +34,7 @@ const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress }) => {
         style={styles.button}
         onPressIn={handlePressIn}
         onPressOut={handlePressOut}
+        onPress={onPress}
         activeOpacity={0.7}
       >
         <LinearGradient
@@ -77,7 +79,7 @@ const styles = StyleSheet.create({
     left: '-50%',
     height: '300%',
     top: '-100%',
-    animation: 'shimmer 1.5s infinite',
+    animation: 'shimmer .5s infinite',
   },
 });
 

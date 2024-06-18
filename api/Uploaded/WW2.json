@@ -1,0 +1,172 @@
+[
+    {
+      "question": "Which event marked the beginning of World War II?",
+      "A": "Attack on Pearl Harbor",
+      "B": "Invasion of Poland",
+      "C": "Battle of Britain",
+      "D": "D-Day",
+      "answer": "B",
+      "funFact": "World War II began on September 1, 1939, when Germany invaded Poland, prompting Britain and France to declare war on Germany."
+    },
+    {
+      "question": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+      "A": "Neville Chamberlain",
+      "B": "Winston Churchill",
+      "C": "Clement Attlee",
+      "D": "Anthony Eden",
+      "answer": "B",
+      "funFact": "Winston Churchill served as Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955."
+    },
+    {
+      "question": "Which battle is considered the turning point of the war in the Pacific?",
+      "A": "Battle of Midway",
+      "B": "Battle of the Coral Sea",
+      "C": "Battle of Guadalcanal",
+      "D": "Battle of Iwo Jima",
+      "answer": "A",
+      "funFact": "The Battle of Midway, fought in June 1942, is considered the turning point of the war in the Pacific due to the decisive victory by the United States Navy."
+    },
+    {
+      "question": "What was the code name for the Allied invasion of Normandy?",
+      "A": "Operation Overlord",
+      "B": "Operation Torch",
+      "C": "Operation Market Garden",
+      "D": "Operation Barbarossa",
+      "answer": "A",
+      "funFact": "Operation Overlord was the code name for the Allied invasion of Normandy on June 6, 1944, commonly known as D-Day."
+    },
+    {
+      "question": "Which conference in 1945 established the basis for post-war Europe and the formation of the United Nations?",
+      "A": "Tehran Conference",
+      "B": "Yalta Conference",
+      "C": "Potsdam Conference",
+      "D": "Casablanca Conference",
+      "answer": "B",
+      "funFact": "The Yalta Conference, held in February 1945, brought together Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin to discuss post-war Europe and the formation of the United Nations."
+    },
+    {
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "A": "Leon Trotsky",
+      "B": "Vladimir Lenin",
+      "C": "Joseph Stalin",
+      "D": "Nikita Khrushchev",
+      "answer": "C",
+      "funFact": "Joseph Stalin was the leader of the Soviet Union during World War II and played a major role in the defeat of Nazi Germany."
+    },
+    {
+      "question": "Which two cities were the atomic bombs dropped on in August 1945?",
+      "A": "Tokyo and Osaka",
+      "B": "Hiroshima and Nagasaki",
+      "C": "Kyoto and Yokohama",
+      "D": "Nagasaki and Kobe",
+      "answer": "B",
+      "funFact": "The atomic bombs were dropped on Hiroshima on August 6, 1945, and Nagasaki on August 9, 1945, leading to Japan's surrender."
+    },
+    {
+      "question": "What was the main objective of the Manhattan Project?",
+      "A": "Develop a jet engine",
+      "B": "Create the atomic bomb",
+      "C": "Decrypt German codes",
+      "D": "Build aircraft carriers",
+      "answer": "B",
+      "funFact": "The Manhattan Project was a secret U.S. project during World War II aimed at developing the atomic bomb."
+    },
+    {
+      "question": "Which battle was the last major German offensive campaign on the Western Front?",
+      "A": "Battle of Stalingrad",
+      "B": "Battle of Kursk",
+      "C": "Battle of the Bulge",
+      "D": "Battle of El Alamein",
+      "answer": "C",
+      "funFact": "The Battle of the Bulge, fought in the winter of 1944-1945, was the last major German offensive on the Western Front."
+    },
+    {
+      "question": "Which country was the first to be invaded by Germany during World War II?",
+      "A": "Czechoslovakia",
+      "B": "France",
+      "C": "Norway",
+      "D": "Poland",
+      "answer": "D",
+      "funFact": "Poland was the first country to be invaded by Germany on September 1, 1939, marking the beginning of World War II."
+    },
+    {
+      "question": "Who was the U.S. President at the start of World War II?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was the President of the United States at the start of World War II and served until his death in 1945."
+    },
+    {
+      "question": "Which country was not a member of the Axis Powers?",
+      "A": "Italy",
+      "B": "Germany",
+      "C": "Japan",
+      "D": "Soviet Union",
+      "answer": "D",
+      "funFact": "The Axis Powers consisted of Germany, Italy, and Japan. The Soviet Union was initially neutral but later joined the Allies."
+    },
+    {
+      "question": "Which British general led the forces in the North African Campaign against the Afrika Korps?",
+      "A": "Bernard Montgomery",
+      "B": "Harold Alexander",
+      "C": "Douglas MacArthur",
+      "D": "George Patton",
+      "answer": "A",
+      "funFact": "Field Marshal Bernard Montgomery, also known as 'Monty,' led the British Eighth Army to victory in the North African Campaign."
+    },
+    {
+      "question": "Which German city was heavily bombed by Allied forces in February 1945, resulting in a firestorm?",
+      "A": "Berlin",
+      "B": "Hamburg",
+      "C": "Dresden",
+      "D": "Munich",
+      "answer": "C",
+      "funFact": "The bombing of Dresden in February 1945 resulted in a devastating firestorm and the destruction of much of the city."
+    },
+    {
+      "question": "Which conference established the Allied strategy for the final stages of World War II in Europe?",
+      "A": "Casablanca Conference",
+      "B": "Tehran Conference",
+      "C": "Yalta Conference",
+      "D": "Potsdam Conference",
+      "answer": "B",
+      "funFact": "The Tehran Conference, held in November 1943, brought together Roosevelt, Churchill, and Stalin to discuss the Allied strategy for the final stages of World War II in Europe."
+    },
+    {
+      "question": "Which U.S. general was Supreme Commander of the Allied Expeditionary Forces in Europe?",
+      "A": "Omar Bradley",
+      "B": "George Patton",
+      "C": "Douglas MacArthur",
+      "D": "Dwight D. Eisenhower",
+      "answer": "D",
+      "funFact": "General Dwight D. Eisenhower served as the Supreme Commander of the Allied Expeditionary Forces in Europe, overseeing the successful D-Day invasion."
+    },
+    {
+      "question": "Which battle marked the first significant defeat for the Japanese navy, shifting the balance of power in the Pacific?",
+      "A": "Battle of the Coral Sea",
+      "B": "Battle of Midway",
+      "C": "Battle of Guadalcanal",
+      "D": "Battle of Leyte Gulf",
+      "answer": "B",
+      "funFact": "The Battle of Midway, fought in June 1942, was the first significant defeat for the Japanese navy and marked a turning point in the Pacific War."
+    },
+    {
+      "question": "What was the name of the first nuclear test conducted by the United States in July 1945?",
+      "A": "Little Boy",
+      "B": "Fat Man",
+      "C": "Trinity",
+      "D": "Manhattan",
+      "answer": "C",
+      "funFact": "The Trinity test, conducted on July 16, 1945, was the first nuclear test conducted by the United States, marking the dawn of the atomic age."
+    },
+    {
+      "question": "Which Allied operation aimed to capture the bridges in the Netherlands in September 1944?",
+      "A": "Operation Torch",
+      "B": "Operation Overlord",
+      "C": "Operation Market Garden",
+      "D": "Operation Husky",
+      "answer": "C",
+      "funFact": "Operation Market Garden was an ambitious Allied operation in September 1944 that aimed to capture key bridges in the Netherlands but ultimately failed to achieve its objectives."
+    }]

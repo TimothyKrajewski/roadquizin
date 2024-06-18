@@ -1,0 +1,137 @@
+[
+    {
+      "question": "What is the largest planet in our solar system?",
+      "A": "Earth",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn",
+      "answer": "C",
+      "funFact": "Jupiter is the largest planet in our solar system and has a diameter of about 142,984 km."
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "A": "William Shakespeare",
+      "B": "Charles Dickens",
+      "C": "Mark Twain",
+      "D": "Jane Austen",
+      "answer": "A",
+      "funFact": "William Shakespeare wrote 'Romeo and Juliet' in the early 1590s. It is one of his most popular and frequently performed plays."
+    },
+    {
+      "question": "What is the process by which plants make their food?",
+      "A": "Digestion",
+      "B": "Respiration",
+      "C": "Photosynthesis",
+      "D": "Fermentation",
+      "answer": "C",
+      "funFact": "Photosynthesis is the process by which green plants use sunlight to synthesize foods with the help of chlorophyll."
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "A": "Five",
+      "B": "Six",
+      "C": "Seven",
+      "D": "Eight",
+      "answer": "C",
+      "funFact": "There are seven continents on Earth: Africa, Antarctica, Asia, Europe, North America, Australia, and South America."
+    },
+    {
+      "question": "What is the capital of France?",
+      "A": "London",
+      "B": "Berlin",
+      "C": "Paris",
+      "D": "Madrid",
+      "answer": "C",
+      "funFact": "Paris, known as the 'City of Light,' is the capital and most populous city of France."
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "A": "Abraham Lincoln",
+      "B": "Thomas Jefferson",
+      "C": "George Washington",
+      "D": "John Adams",
+      "answer": "C",
+      "funFact": "George Washington was the first President of the United States, serving from 1789 to 1797."
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "A": "O2",
+      "B": "H2O",
+      "C": "CO2",
+      "D": "NaCl",
+      "answer": "B",
+      "funFact": "The chemical symbol for water is H2O, which means each molecule is made up of two hydrogen atoms and one oxygen atom."
+    },
+    {
+      "question": "How many states are there in the United States of America?",
+      "A": "48",
+      "B": "49",
+      "C": "50",
+      "D": "51",
+      "answer": "C",
+      "funFact": "There are 50 states in the United States of America, with Hawaii being the 50th state, admitted in 1959."
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "A": "90°C",
+      "B": "100°C",
+      "C": "110°C",
+      "D": "120°C",
+      "answer": "B",
+      "funFact": "The boiling point of water is 100°C at standard atmospheric pressure."
+    },
+    {
+      "question": "What is the main character's name in the book 'Charlotte's Web'?",
+      "A": "Harry",
+      "B": "Charlotte",
+      "C": "Wilbur",
+      "D": "Frodo",
+      "answer": "C",
+      "funFact": "Wilbur is the main character in 'Charlotte's Web,' a novel by E.B. White about a pig and his friendship with a spider named Charlotte."
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "A": "Gold",
+      "B": "Iron",
+      "C": "Diamond",
+      "D": "Silver",
+      "answer": "C",
+      "funFact": "Diamonds are the hardest natural substance on Earth, formed under high pressure and temperature conditions deep within the Earth."
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean",
+      "answer": "D",
+      "funFact": "The Pacific Ocean is the largest ocean on Earth, covering more than 63 million square miles."
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "A": "Amazon River",
+      "B": "Nile River",
+      "C": "Yangtze River",
+      "D": "Mississippi River",
+      "answer": "B",
+      "funFact": "The Nile River is traditionally considered the longest river in the world, flowing about 6,650 kilometers (4,130 miles) through northeastern Africa."
+    },
+    {
+      "question": "What is the primary gas found in the Earth's atmosphere?",
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Carbon Dioxide",
+      "D": "Helium",
+      "answer": "B",
+      "funFact": "Nitrogen makes up about 78% of the Earth's atmosphere, making it the most abundant gas."
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "A": "Mercury",
+      "B": "Venus",
+      "C": "Mars",
+      "D": "Jupiter",
+      "answer": "C",
+      "funFact": "Mars is known as the Red Planet due to its reddish appearance, which is caused by iron oxide (rust) on its surface."
+    }
+  ]

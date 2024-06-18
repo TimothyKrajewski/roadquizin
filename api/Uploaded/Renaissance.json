@@ -1,0 +1,163 @@
+[
+    {
+      "question": "Which city is often considered the birthplace of the Renaissance?",
+      "A": "Rome",
+      "B": "Florence",
+      "C": "Venice",
+      "D": "Milan",
+      "answer": "B",
+      "funFact": "Florence is widely considered the birthplace of the Renaissance, a period of renewed interest in art, science, and culture starting in the 14th century."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "A": "Michelangelo",
+      "B": "Raphael",
+      "C": "Leonardo da Vinci",
+      "D": "Donatello",
+      "answer": "C",
+      "funFact": "Leonardo da Vinci painted the Mona Lisa, one of the most famous and recognizable paintings in the world, housed in the Louvre Museum in Paris."
+    },
+    {
+      "question": "Which Renaissance figure is known for his work in both art and science, including the notebooks filled with inventions and anatomical studies?",
+      "A": "Galileo Galilei",
+      "B": "Nicolaus Copernicus",
+      "C": "Leonardo da Vinci",
+      "D": "Albrecht Dürer",
+      "answer": "C",
+      "funFact": "Leonardo da Vinci was a polymath who made significant contributions to both art and science, including detailed anatomical studies and designs for various inventions."
+    },
+    {
+      "question": "Which sculptor created the statue of David and painted the ceiling of the Sistine Chapel?",
+      "A": "Raphael",
+      "B": "Donatello",
+      "C": "Leonardo da Vinci",
+      "D": "Michelangelo",
+      "answer": "D",
+      "funFact": "Michelangelo created the famous statue of David and painted the ceiling of the Sistine Chapel in Vatican City, showcasing his extraordinary artistic talent."
+    },
+    {
+      "question": "What is the title of Niccolò Machiavelli's famous political treatise?",
+      "A": "Utopia",
+      "B": "The Prince",
+      "C": "The Divine Comedy",
+      "D": "In Praise of Folly",
+      "answer": "B",
+      "funFact": "Niccolò Machiavelli's political treatise 'The Prince' offers advice on political leadership and is known for its pragmatic and sometimes controversial views."
+    },
+    {
+      "question": "Which invention by Johannes Gutenberg in the 15th century played a crucial role in the spread of Renaissance ideas?",
+      "A": "Telescope",
+      "B": "Printing Press",
+      "C": "Steam Engine",
+      "D": "Compass",
+      "answer": "B",
+      "funFact": "Johannes Gutenberg's invention of the movable-type printing press around 1440 revolutionized the spread of information and played a crucial role in the dissemination of Renaissance ideas."
+    },
+    {
+      "question": "Which writer is known for penning the plays 'Hamlet' and 'Romeo and Juliet' during the Renaissance period?",
+      "A": "Geoffrey Chaucer",
+      "B": "Miguel de Cervantes",
+      "C": "Dante Alighieri",
+      "D": "William Shakespeare",
+      "answer": "D",
+      "funFact": "William Shakespeare, often regarded as the greatest playwright in the English language, wrote many of his famous plays, including 'Hamlet' and 'Romeo and Juliet,' during the Renaissance."
+    },
+    {
+      "question": "Which Renaissance artist painted 'The School of Athens,' depicting many classical philosophers in a grand hall?",
+      "A": "Leonardo da Vinci",
+      "B": "Michelangelo",
+      "C": "Raphael",
+      "D": "Titian",
+      "answer": "C",
+      "funFact": "Raphael painted 'The School of Athens,' a masterpiece of Renaissance art that depicts many classical philosophers, including Plato and Aristotle, in a grand architectural setting."
+    },
+    {
+      "question": "Which English monarch established the Church of England during the Renaissance?",
+      "A": "Henry VII",
+      "B": "Elizabeth I",
+      "C": "Henry VIII",
+      "D": "Mary I",
+      "answer": "C",
+      "funFact": "King Henry VIII established the Church of England in 1534, breaking away from the Roman Catholic Church after the Pope refused to annul his marriage to Catherine of Aragon."
+    },
+    {
+      "question": "Which Renaissance artist is known for his detailed engravings and contributions to printmaking?",
+      "A": "Michelangelo",
+      "B": "Leonardo da Vinci",
+      "C": "Raphael",
+      "D": "Albrecht Dürer",
+      "answer": "D",
+      "funFact": "Albrecht Dürer was a German Renaissance artist known for his detailed engravings, woodcuts, and contributions to the art of printmaking."
+    },
+    {
+      "question": "Which work by Dante Alighieri is considered one of the greatest literary works of the Renaissance?",
+      "A": "The Decameron",
+      "B": "The Divine Comedy",
+      "C": "Orlando Furioso",
+      "D": "Paradise Lost",
+      "answer": "B",
+      "funFact": "Dante Alighieri's 'The Divine Comedy' is an epic poem that describes the author's journey through Hell, Purgatory, and Heaven and is considered one of the greatest literary works of the Renaissance."
+    },
+    {
+      "question": "Which city-state was known as the cultural heart of the Italian Renaissance?",
+      "A": "Venice",
+      "B": "Florence",
+      "C": "Rome",
+      "D": "Milan",
+      "answer": "B",
+      "funFact": "Florence was the cultural heart of the Italian Renaissance, home to many of the era's greatest artists, thinkers, and patrons like the Medici family."
+    },
+    {
+      "question": "Which Renaissance figure is credited with creating the first human anatomy textbook, 'De humani corporis fabrica'?",
+      "A": "Andreas Vesalius",
+      "B": "Galen",
+      "C": "Paracelsus",
+      "D": "Hippocrates",
+      "answer": "A",
+      "funFact": "Andreas Vesalius is credited with creating 'De humani corporis fabrica,' the first comprehensive human anatomy textbook, which revolutionized the study of human anatomy."
+    },
+    {
+      "question": "Which architectural masterpiece, designed by Filippo Brunelleschi, is located in Florence?",
+      "A": "St. Peter's Basilica",
+      "B": "The Pantheon",
+      "C": "The Florence Cathedral (Il Duomo)",
+      "D": "The Leaning Tower of Pisa",
+      "answer": "C",
+      "funFact": "Filippo Brunelleschi designed the dome of the Florence Cathedral (Il Duomo), an architectural masterpiece of the Renaissance that remains one of Florence's most iconic landmarks."
+    },
+    {
+      "question": "Which Renaissance figure wrote 'Utopia,' a book describing an ideal society?",
+      "A": "Niccolò Machiavelli",
+      "B": "Thomas More",
+      "C": "Desiderius Erasmus",
+      "D": "Giovanni Boccaccio",
+      "answer": "B",
+      "funFact": "Thomas More wrote 'Utopia,' published in 1516, which describes an ideal society on an imaginary island and critiques the social and political issues of his time."
+    },
+    {
+      "question": "Which Renaissance scientist proposed the heliocentric theory, stating that the Earth orbits the Sun?",
+      "A": "Galileo Galilei",
+      "B": "Nicolaus Copernicus",
+      "C": "Johannes Kepler",
+      "D": "Isaac Newton",
+      "answer": "B",
+      "funFact": "Nicolaus Copernicus proposed the heliocentric theory in his work 'De revolutionibus orbium coelestium,' published in 1543, stating that the Earth orbits the Sun."
+    },
+    {
+      "question": "Which banking family was a major patron of the arts during the Renaissance in Florence?",
+      "A": "The Borgias",
+      "B": "The Sforzas",
+      "C": "The Medicis",
+      "D": "The Orsinis",
+      "answer": "C",
+      "funFact": "The Medici family was a powerful banking family in Florence and major patrons of the arts during the Renaissance, supporting artists like Michelangelo and Leonardo da Vinci."
+    },
+    {
+      "question": "Which Renaissance explorer completed the first circumnavigation of the globe?",
+      "A": "Christopher Columbus",
+      "B": "Vasco da Gama",
+      "C": "Ferdinand Magellan",
+      "D": "John Cabot",
+      "answer": "C",
+      "funFact": "Ferdinand Magellan's expedition, though he did not survive the entire journey, completed the first circumnavigation of the globe from 1519 to 1522."
+    }]

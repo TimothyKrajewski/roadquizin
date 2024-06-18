@@ -1,0 +1,182 @@
+[
+    {
+      "question": "What is the full name of the evil queen in 'Snow White and the Seven Dwarfs'?",
+      "A": "Grimhilde",
+      "B": "Maleficent",
+      "C": "Eudora",
+      "D": "Gothel",
+      "answer": "A",
+      "funFact": "The full name of the evil queen in 'Snow White and the Seven Dwarfs' is Queen Grimhilde, although her name is rarely mentioned in the film."
+    },
+    {
+      "question": "In 'The Little Mermaid', what is the name of Ariel's mother?",
+      "A": "Athena",
+      "B": "Aphrodite",
+      "C": "Alana",
+      "D": "Andrina",
+      "answer": "A",
+      "funFact": "Ariel's mother is named Queen Athena, and she is briefly mentioned in the original film and appears in the prequel 'The Little Mermaid: Ariel's Beginning'."
+    },
+    {
+      "question": "In 'Beauty and the Beast', what is the Beast's real name?",
+      "A": "Henry",
+      "B": "Adam",
+      "C": "Charles",
+      "D": "Philip",
+      "answer": "B",
+      "funFact": "The Beast's real name is Prince Adam, though it is never mentioned in the film itself. The name was confirmed by the creators and in the merchandise."
+    },
+    {
+      "question": "What is the name of Mulan's horse?",
+      "A": "Khan",
+      "B": "Maximus",
+      "C": "Pegasus",
+      "D": "Phillipe",
+      "answer": "A",
+      "funFact": "Mulan's horse is named Khan, who is a loyal and brave companion to her throughout her journey."
+    },
+    {
+      "question": "In 'The Hunchback of Notre Dame', who is the voice actor for the character Quasimodo?",
+      "A": "Tom Hulce",
+      "B": "Kevin Kline",
+      "C": "Tony Jay",
+      "D": "David Ogden Stiers",
+      "answer": "A",
+      "funFact": "Tom Hulce, best known for his role as Mozart in 'Amadeus', provided the voice for Quasimodo in 'The Hunchback of Notre Dame'."
+    },
+    {
+      "question": "In 'Hercules', what are the names of Hades' minions?",
+      "A": "Pain and Panic",
+      "B": "Fear and Loathing",
+      "C": "Shock and Awe",
+      "D": "Chaos and Mayhem",
+      "answer": "A",
+      "funFact": "Hades' bumbling minions in 'Hercules' are named Pain and Panic, who often fail in their attempts to carry out his plans."
+    },
+    {
+      "question": "What is the name of the fictional country where 'The Princess and the Frog' is set?",
+      "A": "New Orleans",
+      "B": "Maldonia",
+      "C": "Genovia",
+      "D": "Naboomboo",
+      "answer": "B",
+      "funFact": "While the story takes place in New Orleans, Prince Naveen is from the fictional country of Maldonia."
+    },
+    {
+      "question": "In 'Tarzan', who is the leader of the gorilla troop?",
+      "A": "Kerchak",
+      "B": "Kala",
+      "C": "Terk",
+      "D": "Sabor",
+      "answer": "A",
+      "funFact": "Kerchak is the leader of the gorilla troop and acts as a father figure to Tarzan, though he is initially distrustful of him."
+    },
+    {
+      "question": "Which Disney character makes a cameo appearance as a stuffed animal in 'Frozen'?",
+      "A": "Mickey Mouse",
+      "B": "Winnie the Pooh",
+      "C": "Sully",
+      "D": "Rapunzel",
+      "answer": "A",
+      "funFact": "Mickey Mouse makes a cameo appearance as a small stuffed animal in the trading post and sauna scene in 'Frozen'."
+    },
+    {
+      "question": "What is the name of the kingdom in 'Tangled'?",
+      "A": "Corona",
+      "B": "Arendelle",
+      "C": "DunBroch",
+      "D": "Andalasia",
+      "answer": "A",
+      "funFact": "The kingdom in 'Tangled' is named Corona. Interestingly, this name became more widely known during the COVID-19 pandemic."
+    },
+    {
+      "question": "In 'Aladdin', what is the name of Jasmine's tiger?",
+      "A": "Raja",
+      "B": "Ravi",
+      "C": "Rajah",
+      "D": "Rani",
+      "answer": "C",
+      "funFact": "Jasmine's loyal and protective pet tiger is named Rajah."
+    },
+    {
+      "question": "What is the name of the fashion designer in 'The Incredibles'?",
+      "A": "Edna Mode",
+      "B": "Mirage",
+      "C": "Evelyn Deavor",
+      "D": "Honey Lemon",
+      "answer": "A",
+      "funFact": "Edna Mode is the eccentric and brilliant fashion designer who creates the superhero suits for the Parr family in 'The Incredibles'."
+    },
+    {
+      "question": "In 'Zootopia', what is the full name of the rabbit police officer?",
+      "A": "Judy Hopps",
+      "B": "Judy Hops",
+      "C": "Judy Hopper",
+      "D": "Judy Hope",
+      "answer": "A",
+      "funFact": "Judy Hopps is the optimistic and determined rabbit who becomes the first bunny police officer in 'Zootopia'."
+    },
+    {
+      "question": "What is the name of the castle in 'The Little Mermaid'?",
+      "A": "Atlantis",
+      "B": "Agrabah",
+      "C": "Atlantica",
+      "D": "Arendelle",
+      "answer": "C",
+      "funFact": "The underwater kingdom in 'The Little Mermaid' is called Atlantica, where King Triton rules and Ariel lives."
+    },
+    {
+      "question": "In 'Moana', what is the name of Moana's pet pig?",
+      "A": "Hei Hei",
+      "B": "Pua",
+      "C": "Tui",
+      "D": "Maui",
+      "answer": "B",
+      "funFact": "Moana's adorable pet pig is named Pua. Hei Hei is her quirky pet rooster."
+    },
+    {
+      "question": "What is the name of the eagle in 'The Rescuers Down Under'?",
+      "A": "Marahute",
+      "B": "Alameda Slim",
+      "C": "Jake",
+      "D": "Bernard",
+      "answer": "A",
+      "funFact": "Marahute is the majestic golden eagle that the boy Cody befriends and helps rescue in 'The Rescuers Down Under'."
+    },
+    {
+      "question": "Which Disney princess has the fewest lines of dialogue?",
+      "A": "Aurora",
+      "B": "Snow White",
+      "C": "Cinderella",
+      "D": "Ariel",
+      "answer": "A",
+      "funFact": "Aurora, from 'Sleeping Beauty', has the fewest lines of dialogue of any Disney princess, speaking only 18 lines in the entire film."
+    },
+    {
+      "question": "In 'Wreck-It Ralph', which game is Vanellope von Schweetz from?",
+      "A": "Hero's Duty",
+      "B": "Fix-It Felix Jr.",
+      "C": "Sugar Rush",
+      "D": "Tapper",
+      "answer": "C",
+      "funFact": "Vanellope von Schweetz is from the candy-themed racing game 'Sugar Rush' in 'Wreck-It Ralph'."
+    },
+    {
+      "question": "In 'The Emperor's New Groove', what is the name of Kuzco's advisor who turns him into a llama?",
+      "A": "Yzma",
+      "B": "Pacha",
+      "C": "Kronk",
+      "D": "Chicha",
+      "answer": "A",
+      "funFact": "Yzma is the villainous advisor who turns Emperor Kuzco into a llama in 'The Emperor's New Groove'."
+    },
+    {
+      "question": "What is the name of the hidden kingdom in 'Atlantis: The Lost Empire'?",
+      "A": "Atlantis",
+      "B": "El Dorado",
+      "C": "Shangri-La",
+      "D": "Mu",
+      "answer": "A",
+      "funFact": "The hidden kingdom in 'Atlantis: The Lost Empire' is Atlantis, an advanced civilization that the protagonist, Milo Thatch, sets out to discover."
+    }
+  ]

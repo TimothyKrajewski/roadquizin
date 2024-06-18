@@ -1,0 +1,92 @@
+[
+    {
+      "question": "Which Shakespeare play features the characters of Oberon, Titania, and Puck?",
+      "A": "Hamlet",
+      "B": "A Midsummer Night's Dream",
+      "C": "Macbeth",
+      "D": "Othello",
+      "answer": "B",
+      "funFact": "A Midsummer Night's Dream is a comedy by William Shakespeare, believed to have been written in the mid-1590s."
+    },
+    {
+      "question": "What is the longest-running Broadway show of all time?",
+      "A": "Cats",
+      "B": "The Phantom of the Opera",
+      "C": "Les Misérables",
+      "D": "Chicago",
+      "answer": "B",
+      "funFact": "The Phantom of the Opera, composed by Andrew Lloyd Webber, has been running on Broadway since 1988."
+    },
+    {
+      "question": "Who wrote the play 'Death of a Salesman'?",
+      "A": "Arthur Miller",
+      "B": "Tennessee Williams",
+      "C": "Eugene O'Neill",
+      "D": "Edward Albee",
+      "answer": "A",
+      "funFact": "Arthur Miller wrote 'Death of a Salesman' in 1949, and it won the Pulitzer Prize for Drama."
+    },
+    {
+      "question": "Which musical features the song 'Do You Hear the People Sing?'?",
+      "A": "Les Misérables",
+      "B": "Miss Saigon",
+      "C": "Rent",
+      "D": "Hamilton",
+      "answer": "A",
+      "funFact": "Les Misérables is a musical based on the novel by Victor Hugo, and it features music by Claude-Michel Schönberg."
+    },
+    {
+      "question": "In which city is the Globe Theatre located?",
+      "A": "New York",
+      "B": "Paris",
+      "C": "London",
+      "D": "Rome",
+      "answer": "C",
+      "funFact": "The Globe Theatre is associated with William Shakespeare and was originally built in 1599 by Shakespeare's playing company."
+    },
+    {
+      "question": "Who wrote the play 'Waiting for Godot'?",
+      "A": "Samuel Beckett",
+      "B": "Harold Pinter",
+      "C": "Tom Stoppard",
+      "D": "Bertolt Brecht",
+      "answer": "A",
+      "funFact": "Samuel Beckett wrote 'Waiting for Godot', which premiered in 1953 and is considered one of the most significant plays of the 20th century."
+    },
+    {
+      "question": "Which composer created the music for the musical 'Wicked'?",
+      "A": "Stephen Sondheim",
+      "B": "Andrew Lloyd Webber",
+      "C": "Lin-Manuel Miranda",
+      "D": "Stephen Schwartz",
+      "answer": "D",
+      "funFact": "Stephen Schwartz composed the music and lyrics for 'Wicked', a musical based on the novel by Gregory Maguire."
+    },
+    {
+      "question": "What is the name of the theater award given annually for excellence in Broadway productions?",
+      "A": "The Tony Award",
+      "B": "The Oscar",
+      "C": "The Grammy",
+      "D": "The Emmy",
+      "answer": "A",
+      "funFact": "The Tony Awards are named after Antoinette Perry, co-founder of the American Theatre Wing, and have been awarded since 1947."
+    },
+    {
+      "question": "Who wrote the play 'A Streetcar Named Desire'?",
+      "A": "Arthur Miller",
+      "B": "Tennessee Williams",
+      "C": "Eugene O'Neill",
+      "D": "August Wilson",
+      "answer": "B",
+      "funFact": "Tennessee Williams wrote 'A Streetcar Named Desire', which premiered in 1947 and won the Pulitzer Prize for Drama in 1948."
+    },
+    {
+      "question": "Which musical features the characters of Elphaba and Glinda?",
+      "A": "The Lion King",
+      "B": "Wicked",
+      "C": "The Phantom of the Opera",
+      "D": "Les Misérables",
+      "answer": "B",
+      "funFact": "Elphaba and Glinda are the main characters in the musical 'Wicked', which tells the story of the witches of Oz before Dorothy's arrival."
+    }
+  ]

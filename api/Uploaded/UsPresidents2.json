@@ -1,0 +1,171 @@
+[
+    {
+      "question": "Which U.S. President had the shortest term in office, serving only 31 days?",
+      "A": "William Henry Harrison",
+      "B": "James A. Garfield",
+      "C": "Zachary Taylor",
+      "D": "Millard Fillmore",
+      "answer": "A",
+      "funFact": "William Henry Harrison served as the 9th President of the United States and had the shortest presidency, dying of pneumonia just 31 days after his inauguration."
+    },
+    {
+      "question": "Which U.S. President was the first to live in the White House?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "James Madison",
+      "answer": "B",
+      "funFact": "John Adams was the first President to live in the White House, moving in during November 1800, while it was still under construction."
+    },
+    {
+      "question": "Which U.S. President signed the Indian Removal Act, leading to the Trail of Tears?",
+      "A": "James Monroe",
+      "B": "Andrew Jackson",
+      "C": "Martin Van Buren",
+      "D": "John Quincy Adams",
+      "answer": "B",
+      "funFact": "Andrew Jackson signed the Indian Removal Act in 1830, which led to the forced relocation of Native American tribes and the tragic Trail of Tears."
+    },
+    {
+      "question": "Which U.S. President was a former Hollywood actor and served as the Governor of California before his presidency?",
+      "A": "Ronald Reagan",
+      "B": "Gerald Ford",
+      "C": "Richard Nixon",
+      "D": "Jimmy Carter",
+      "answer": "A",
+      "funFact": "Ronald Reagan was a Hollywood actor before entering politics and served as the Governor of California from 1967 to 1975 before becoming the 40th President of the United States."
+    },
+    {
+      "question": "Which U.S. President authorized the use of the atomic bomb during World War II?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "John F. Kennedy",
+      "answer": "B",
+      "funFact": "Harry S. Truman authorized the use of the atomic bomb on the Japanese cities of Hiroshima and Nagasaki in August 1945, leading to the end of World War II."
+    },
+    {
+      "question": "Which U.S. President signed the Camp David Accords, leading to a peace treaty between Egypt and Israel?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Jimmy Carter",
+      "D": "Ronald Reagan",
+      "answer": "C",
+      "funFact": "Jimmy Carter facilitated the Camp David Accords in 1978, which led to the signing of a peace treaty between Egypt and Israel, a significant achievement in Middle Eastern diplomacy."
+    },
+    {
+      "question": "Which U.S. President issued the Emancipation Proclamation?",
+      "A": "Abraham Lincoln",
+      "B": "Ulysses S. Grant",
+      "C": "Andrew Johnson",
+      "D": "James Buchanan",
+      "answer": "A",
+      "funFact": "Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, declaring all slaves in Confederate-held territory to be free."
+    },
+    {
+      "question": "Which U.S. President is known for his 'Square Deal' and for his role in the construction of the Panama Canal?",
+      "A": "Woodrow Wilson",
+      "B": "Theodore Roosevelt",
+      "C": "William Howard Taft",
+      "D": "Calvin Coolidge",
+      "answer": "B",
+      "funFact": "Theodore Roosevelt is known for his 'Square Deal' domestic policies and his role in the construction of the Panama Canal, which connected the Atlantic and Pacific Oceans."
+    },
+    {
+      "question": "Which U.S. President was involved in the Teapot Dome scandal, one of the largest scandals in U.S. history?",
+      "A": "Warren G. Harding",
+      "B": "Herbert Hoover",
+      "C": "Calvin Coolidge",
+      "D": "Woodrow Wilson",
+      "answer": "A",
+      "funFact": "Warren G. Harding's administration was marred by the Teapot Dome scandal, involving bribery and corruption in the leasing of oil reserves."
+    },
+    {
+      "question": "Which U.S. President signed the Civil Rights Act of 1964 into law?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson signed the Civil Rights Act of 1964 into law, prohibiting discrimination based on race, color, religion, sex, or national origin."
+    },
+    {
+      "question": "Which U.S. President was the only one to resign from office?",
+      "A": "Richard Nixon",
+      "B": "Gerald Ford",
+      "C": "Lyndon B. Johnson",
+      "D": "Herbert Hoover",
+      "answer": "A",
+      "funFact": "Richard Nixon resigned from office on August 8, 1974, in the wake of the Watergate scandal, making him the only U.S. President to do so."
+    },
+    {
+      "question": "Which U.S. President was in office during the signing of the North American Free Trade Agreement (NAFTA)?",
+      "A": "Ronald Reagan",
+      "B": "George H. W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "C",
+      "funFact": "Bill Clinton was in office when NAFTA was signed into law on December 8, 1993, promoting trade between the United States, Canada, and Mexico."
+    },
+    {
+      "question": "Which U.S. President initiated the New Deal programs to combat the Great Depression?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt initiated the New Deal programs during his presidency to provide relief, recovery, and reform during the Great Depression."
+    },
+    {
+      "question": "Which U.S. President led the country during the majority of the American Civil War?",
+      "A": "James Buchanan",
+      "B": "Andrew Johnson",
+      "C": "Abraham Lincoln",
+      "D": "Ulysses S. Grant",
+      "answer": "C",
+      "funFact": "Abraham Lincoln led the United States during the majority of the American Civil War and worked to preserve the Union and end slavery."
+    },
+    {
+      "question": "Which U.S. President was the principal author of the Declaration of Independence?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "James Madison",
+      "answer": "C",
+      "funFact": "Thomas Jefferson was the principal author of the Declaration of Independence, adopted on July 4, 1776."
+    },
+    {
+      "question": "Which U.S. President implemented the policy known as the 'Monroe Doctrine'?",
+      "A": "John Quincy Adams",
+      "B": "Andrew Jackson",
+      "C": "James Monroe",
+      "D": "John Tyler",
+      "answer": "C",
+      "funFact": "James Monroe implemented the Monroe Doctrine in 1823, which stated that the Americas were no longer open to colonization by European powers."
+    },
+    {
+      "question": "Which U.S. President signed the Affordable Care Act into law?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Bill Clinton",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "Barack Obama signed the Affordable Care Act into law on March 23, 2010, aiming to reduce healthcare costs and expand health insurance coverage."
+    },
+    {
+      "question": "Which U.S. President was in office during the Cuban Missile Crisis?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy was in office during the Cuban Missile Crisis in October 1962, a 13-day confrontation between the United States and the Soviet Union over Soviet missiles in Cuba."
+    },
+    {
+      "question": "Which U.S. President was the first to be impeached?",
+      "A": "Andrew Johnson",
+      "B": "Bill Clinton",
+      "C": "Richard Nixon",
+      "D": "Donald Trump",
+      "answer": "A",
+      "funFact": "Andrew Johnson was the first U.S. President to be impeached in 1868, but he was acquitted"}]
