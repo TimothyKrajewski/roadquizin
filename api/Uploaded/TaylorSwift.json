@@ -1,0 +1,179 @@
+[
+    {
+      "question": "What is the title of Taylor Swift's debut album?",
+      "A": "Fearless",
+      "B": "Speak Now",
+      "C": "Red",
+      "D": "Taylor Swift",
+      "answer": "D",
+      "funFact": "Taylor Swift's self-titled debut album was released in 2006 and marked the beginning of her career in country music."
+    },
+    {
+      "question": "Which Taylor Swift album includes the song 'Love Story'?",
+      "A": "Fearless",
+      "B": "Speak Now",
+      "C": "Red",
+      "D": "1989",
+      "answer": "A",
+      "funFact": "'Love Story' is one of Taylor Swift's most iconic songs and is featured on her second studio album, 'Fearless,' released in 2008."
+    },
+    {
+      "question": "In what year did Taylor Swift release her album '1989'?",
+      "A": "2012",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016",
+      "answer": "B",
+      "funFact": "'1989' marked Taylor Swift's official transition from country to pop music and won the Grammy Award for Album of the Year."
+    },
+    {
+      "question": "Which song earned Taylor Swift her first Grammy Award for Best Music Video?",
+      "A": "You Belong With Me",
+      "B": "Bad Blood",
+      "C": "Blank Space",
+      "D": "Mean",
+      "answer": "C",
+      "funFact": "The music video for 'Blank Space' won Taylor Swift her first Grammy Award for Best Music Video in 2016."
+    },
+    {
+      "question": "What is the name of Taylor Swift's re-recorded version of her 2008 album 'Fearless'?",
+      "A": "Fearless (Revisited)",
+      "B": "Fearless (Taylor's Version)",
+      "C": "Fearless (Redux)",
+      "D": "Fearless (Reimagined)",
+      "answer": "B",
+      "funFact": "In 2021, Taylor Swift released 'Fearless (Taylor's Version),' a re-recorded version of her 2008 album, as part of her efforts to own her master recordings."
+    },
+    {
+      "question": "Which Taylor Swift song includes the lyrics 'You made a rebel of a careless man's careful daughter'?",
+      "A": "Love Story",
+      "B": "White Horse",
+      "C": "You Belong With Me",
+      "D": "Mine",
+      "answer": "D",
+      "funFact": "These lyrics are from the song 'Mine,' which is the lead single from Taylor Swift's third studio album, 'Speak Now.'"
+    },
+    {
+      "question": "Taylor Swift's album 'Red' features a duet with which British singer-songwriter?",
+      "A": "Ed Sheeran",
+      "B": "Sam Smith",
+      "C": "Adele",
+      "D": "James Blunt",
+      "answer": "A",
+      "funFact": "Ed Sheeran collaborated with Taylor Swift on the song 'Everything Has Changed,' which is featured on her album 'Red.'"
+    },
+    {
+      "question": "In which music video does Taylor Swift dress up as a nerdy girl and a popular girl?",
+      "A": "Love Story",
+      "B": "Blank Space",
+      "C": "You Belong With Me",
+      "D": "Shake It Off",
+      "answer": "C",
+      "funFact": "In the music video for 'You Belong With Me,' Taylor Swift plays both a nerdy girl and a popular cheerleader."
+    },
+    {
+      "question": "Which Taylor Swift album won the Grammy Award for Album of the Year in 2010?",
+      "A": "Fearless",
+      "B": "Speak Now",
+      "C": "Red",
+      "D": "1989",
+      "answer": "A",
+      "funFact": "'Fearless' won the Grammy Award for Album of the Year in 2010, making Taylor Swift the youngest artist to win the award at the time."
+    },
+    {
+      "question": "What is the name of Taylor Swift's 2020 surprise album released during the COVID-19 pandemic?",
+      "A": "Lover",
+      "B": "Folklore",
+      "C": "Evermore",
+      "D": "Reputation",
+      "answer": "B",
+      "funFact": "Taylor Swift released 'Folklore' as a surprise album in July 2020, featuring a more indie-folk sound compared to her previous work."
+    },
+    {
+      "question": "Which song from Taylor Swift's album 'Reputation' features the line 'I swear I don't love the drama, it loves me'?",
+      "A": "Look What You Made Me Do",
+      "B": "End Game",
+      "C": "Delicate",
+      "D": "This Is Why We Can't Have Nice Things",
+      "answer": "D",
+      "funFact": "The line 'I swear I don't love the drama, it loves me' is from the song 'This Is Why We Can't Have Nice Things' on the album 'Reputation.'"
+    },
+    {
+      "question": "Taylor Swift wrote 'Better Man' for which country music group?",
+      "A": "Lady A",
+      "B": "Little Big Town",
+      "C": "Zac Brown Band",
+      "D": "Florida Georgia Line",
+      "answer": "B",
+      "funFact": "Taylor Swift wrote 'Better Man,' which was recorded and released by the country group Little Big Town."
+    },
+    {
+      "question": "In which city was Taylor Swift born?",
+      "A": "Nashville, Tennessee",
+      "B": "Reading, Pennsylvania",
+      "C": "Wyomissing, Pennsylvania",
+      "D": "New York City, New York",
+      "answer": "B",
+      "funFact": "Taylor Swift was born in Reading, Pennsylvania, and raised on a Christmas tree farm in nearby Wyomissing."
+    },
+    {
+      "question": "Which Taylor Swift music video won the MTV Video Music Award for Best Female Video in 2009?",
+      "A": "Love Story",
+      "B": "You Belong With Me",
+      "C": "Teardrops on My Guitar",
+      "D": "Our Song",
+      "answer": "B",
+      "funFact": "The music video for 'You Belong With Me' won the MTV Video Music Award for Best Female Video in 2009."
+    },
+    {
+      "question": "What is the title of Taylor Swift's documentary film released on Netflix in 2020?",
+      "A": "Miss Americana",
+      "B": "The Taylor Swift Story",
+      "C": "Lover",
+      "D": "Fearless: The Journey",
+      "answer": "A",
+      "funFact": "'Miss Americana' is a documentary film about Taylor Swift, released on Netflix in 2020, that gives an intimate look at her life and career."
+    },
+    {
+      "question": "Which song from Taylor Swift's '1989' album features the lyrics 'Got a long list of ex-lovers, they'll tell you I'm insane'?",
+      "A": "Shake It Off",
+      "B": "Bad Blood",
+      "C": "Blank Space",
+      "D": "Wildest Dreams",
+      "answer": "C",
+      "funFact": "These lyrics are from the song 'Blank Space,' one of the hit singles from Taylor Swift's '1989' album."
+    },
+    {
+      "question": "Which Taylor Swift album features the song 'We Are Never Ever Getting Back Together'?",
+      "A": "Speak Now",
+      "B": "Red",
+      "C": "1989",
+      "D": "Fearless",
+      "answer": "B",
+      "funFact": "'We Are Never Ever Getting Back Together' is one of the lead singles from Taylor Swift's fourth studio album, 'Red.'"
+    },
+    {
+      "question": "Taylor Swift's song 'Exile' is a collaboration with which band?",
+      "A": "Bon Iver",
+      "B": "The National",
+      "C": "Mumford & Sons",
+      "D": "Fleet Foxes",
+      "answer": "A",
+      "funFact": "'Exile' is a duet with Justin Vernon of Bon Iver and is featured on Taylor Swift's 2020 album 'Folklore.'"
+    },
+    {
+      "question": "What year did Taylor Swift release her album 'Speak Now'?",
+      "A": "2008",
+      "B": "2010",
+      "C": "2012",
+      "D": "2014",
+      "answer": "B",
+      "funFact": "Taylor Swift released her third studio album, 'Speak Now,' in 2010. It includes hits like 'Mine' and 'Back to December.'"
+    },
+    {
+      "question": "Which song did Taylor Swift perform at the 2021 Grammy Awards?",
+      "A": "Cardigan",
+      "B": "Willow",
+      "C": "August",
+      "D": "All of the above",
+      "answer": "D"}]

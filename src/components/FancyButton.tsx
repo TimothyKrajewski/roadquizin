@@ -1,16 +1,21 @@
-import React, { useRef } from 'react';
+import React, { useRef, useState } from 'react';
 import { TouchableOpacity, Text, StyleSheet, Animated, View } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
+import { MaterialIcons } from '@expo/vector-icons';
 
 type FancyButtonProps = {
   text: string;
   onPress: () => void;
+  completed?: boolean;
 };
 
-const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress }) => {
+const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress, completed }) => {
   const scaleValue = useRef(new Animated.Value(1)).current;
+  const [isScrolling, setIsScrolling] = useState(false);
+  const [pressIn, setPressIn] = useState(false);
 
   const handlePressIn = () => {
+    setPressIn(true);
     Animated.spring(scaleValue, {
       toValue: 0.95,
       friction: 4,
@@ -20,6 +25,10 @@ const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress }) => {
   };
 
   const handlePressOut = () => {
+    if (!isScrolling && pressIn) {
+      onPress();
+    }
+    setPressIn(false);
     Animated.spring(scaleValue, {
       toValue: 1,
       friction: 4,
@@ -34,16 +43,18 @@ const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress }) => {
         style={styles.button}
         onPressIn={handlePressIn}
         onPressOut={handlePressOut}
-        onPress={onPress}
         activeOpacity={0.7}
+        delayPressIn={50}
+        delayPressOut={50}
       >
         <LinearGradient
-          colors={['#ffc4ec', '#efdbfd', '#ffedd6']}
+          colors={['#ffc0cb', '#d3d3d3']}
           start={{ x: 0, y: 0 }}
           end={{ x: 1, y: 1 }}
           style={styles.gradient}
         >
           <Text style={styles.text}>{text}</Text>
+          {completed && <MaterialIcons name="check" size={20} color="green" style={styles.checkIcon} />}
           <View style={styles.shimmer}></View>
         </LinearGradient>
       </TouchableOpacity>
@@ -64,11 +75,16 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     position: 'relative',
+    flexDirection: 'row',
   },
   text: {
     fontSize: 18,
     fontWeight: '600',
     color: '#333',
+    flex: 1,
+  },
+  checkIcon: {
+    marginLeft: 10,
   },
   shimmer: {
     ...StyleSheet.absoluteFillObject,

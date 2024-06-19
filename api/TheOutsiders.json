@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Who directed the movie 'The Outsiders'?",
+      "A": "Steven Spielberg",
+      "B": "Francis Ford Coppola",
+      "C": "Martin Scorsese",
+      "D": "George Lucas",
+      "answer": "B",
+      "funFact": "Francis Ford Coppola, known for directing 'The Godfather' series, directed 'The Outsiders' in 1983."
+    },
+    {
+      "question": "Which actor played the character Ponyboy Curtis?",
+      "A": "Rob Lowe",
+      "B": "Matt Dillon",
+      "C": "C. Thomas Howell",
+      "D": "Tom Cruise",
+      "answer": "C",
+      "funFact": "C. Thomas Howell played Ponyboy Curtis, the main protagonist of 'The Outsiders.'"
+    },
+    {
+      "question": "What is the name of the gang to which Ponyboy and his friends belong?",
+      "A": "The Socs",
+      "B": "The Jets",
+      "C": "The Greasers",
+      "D": "The Sharks",
+      "answer": "C",
+      "funFact": "Ponyboy and his friends are part of the Greasers, a gang from the poorer part of town."
+    },
+    {
+      "question": "Who wrote the novel on which the movie 'The Outsiders' is based?",
+      "A": "J.K. Rowling",
+      "B": "S.E. Hinton",
+      "C": "Stephen King",
+      "D": "J.D. Salinger",
+      "answer": "B",
+      "funFact": "S.E. Hinton wrote the novel 'The Outsiders' when she was just 16 years old."
+    },
+    {
+      "question": "Which character says the line, 'Stay gold, Ponyboy'?",
+      "A": "Johnny",
+      "B": "Dally",
+      "C": "Sodapop",
+      "D": "Two-Bit",
+      "answer": "A",
+      "funFact": "Johnny Cade says the iconic line 'Stay gold, Ponyboy' as a reminder to Ponyboy to remain innocent and good."
+    },
+    {
+      "question": "What event causes Johnny and Ponyboy to go on the run?",
+      "A": "A car accident",
+      "B": "A fight with the Socs",
+      "C": "A robbery",
+      "D": "A fire",
+      "answer": "B",
+      "funFact": "Johnny and Ponyboy go on the run after Johnny kills a Soc named Bob in self-defense during a fight."
+    },
+    {
+      "question": "Which actor played the character Dallas 'Dally' Winston?",
+      "A": "Patrick Swayze",
+      "B": "Ralph Macchio",
+      "C": "Matt Dillon",
+      "D": "Emilio Estevez",
+      "answer": "C",
+      "funFact": "Matt Dillon played Dallas 'Dally' Winston, a tough and loyal member of the Greasers."
+    },
+    {
+      "question": "What poem does Ponyboy recite to Johnny while they are hiding out in the church?",
+      "A": "The Road Not Taken",
+      "B": "O Captain! My Captain!",
+      "C": "Nothing Gold Can Stay",
+      "D": "Annabel Lee",
+      "answer": "C",
+      "funFact": "Ponyboy recites 'Nothing Gold Can Stay' by Robert Frost, which reflects on the fleeting nature of innocence and beauty."
+    },
+    {
+      "question": "What happens to the church where Johnny and Ponyboy are hiding?",
+      "A": "It is struck by lightning",
+      "B": "It catches fire",
+      "C": "It is demolished",
+      "D": "It floods",
+      "answer": "B",
+      "funFact": "The church catches fire, and Johnny and Ponyboy become heroes by rescuing children trapped inside."
+    },
+    {
+      "question": "Which actor played the character Sodapop Curtis?",
+      "A": "Tom Cruise",
+      "B": "Rob Lowe",
+      "C": "Patrick Swayze",
+      "D": "Emilio Estevez",
+      "answer": "B",
+      "funFact": "Rob Lowe played Sodapop Curtis, Ponyboy's charming and handsome older brother."
+    },
+    {
+      "question": "What is the main conflict in 'The Outsiders'?",
+      "A": "A war between two cities",
+      "B": "A rivalry between two gangs",
+      "C": "A family feud",
+      "D": "A school competition",
+      "answer": "B",
+      "funFact": "The main conflict in 'The Outsiders' is the rivalry between the Greasers and the Socs, two gangs from different socioeconomic backgrounds."
+    },
+    {
+      "question": "Who takes care of Ponyboy and his brothers after their parents die?",
+      "A": "Their grandparents",
+      "B": "Their uncle",
+      "C": "Their aunt",
+      "D": "Their older brother",
+      "answer": "D",
+      "funFact": "Darry Curtis, their older brother, takes care of Ponyboy and Sodapop after their parents die in a car accident."
+    },
+    {
+      "question": "What happens to Johnny at the end of the movie?",
+      "A": "He moves away",
+      "B": "He joins the Socs",
+      "C": "He dies from his injuries",
+      "D": "He is sent to jail",
+      "answer": "C",
+      "funFact": "Johnny dies from his injuries sustained in the church fire, leaving the Greasers devastated."
+    },
+    {
+      "question": "Which actor played the character Johnny Cade?",
+      "A": "Tom Cruise",
+      "B": "Patrick Swayze",
+      "C": "Ralph Macchio",
+      "D": "Matt Dillon",
+      "answer": "C",
+      "funFact": "Ralph Macchio played Johnny Cade, the sensitive and troubled member of the Greasers."
+    },
+    {
+      "question": "What advice does Johnny give to Ponyboy before he dies?",
+      "A": "Run away",
+      "B": "Stay gold",
+      "C": "Fight back",
+      "D": "Keep quiet",
+      "answer": "B",
+      "funFact": "Before he dies, Johnny tells Ponyboy to 'stay gold,' encouraging him to hold onto his goodness and innocence."
+    },
+    {
+      "question": "What happens to Dallas 'Dally' Winston after Johnny's death?",
+      "A": "He moves away",
+      "B": "He turns himself in",
+      "C": "He commits suicide by cop",
+      "D": "He leaves the gang",
+      "answer": "C",
+      "funFact": "Dallas 'Dally' Winston commits suicide by cop, unable to cope with the loss of Johnny."
+    },
+    {
+      "question": "Which actor made a brief appearance as a Soc named Steve Randle?",
+      "A": "Tom Cruise",
+      "B": "Emilio Estevez",
+      "C": "Matt Dillon",
+      "D": "Rob Lowe",
+      "answer": "B",
+      "funFact": "Emilio Estevez made a brief appearance as Steve Randle, a member of the Socs."
+    },
+    {
+      "question": "What does the term 'Socs' stand for?",
+      "A": "Soccer Players",
+      "B": "Socials",
+      "C": "Sociologists",
+      "D": "Socialites",
+      "answer": "B",
+      "funFact": "The term 'Socs' stands for 'Socials,' referring to the wealthy and privileged gang in 'The Outsiders.'"
+    },
+    {
+      "question": "Who played the role of Darrel 'Darry' Curtis?",
+      "A": "Tom Cruise",
+      "B": "Patrick Swayze",
+      "C": "Rob Lowe",
+      "D": "Emilio Estevez",
+      "answer": "B",
+      "funFact": "Patrick Swayze played Darrel 'Darry' Curtis, the responsible and protective older brother of Ponyboy and Sodapop."
+    },
+    {
+      "question": "What is the main theme of 'The Outsiders'?",
+      "A": "The importance of education",
+      "B": "The power of friendship",
+      "C": "The struggle between rich and poor",
+      "D": "The value of family",
+      "answer": "C",
+      "funFact": "The main theme of 'The Outsiders' is the struggle between rich and poor, as represented by the rivalry between the Socs and the Greasers."
+    }
+  ]

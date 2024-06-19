@@ -1,0 +1,254 @@
+[
+    {
+      "question": "Who was the first African American to serve as President of the United States?",
+      "A": "Barack Obama",
+      "B": "Colin Powell",
+      "C": "Jesse Jackson",
+      "D": "Martin Luther King Jr.",
+      "answer": "A",
+      "funFact": "Barack Obama served as the 44th President of the United States from 2009 to 2017 and was the first African American president."
+    },
+    {
+      "question": "What was the landmark Supreme Court case that declared racial segregation in public schools unconstitutional?",
+      "A": "Plessy v. Ferguson",
+      "B": "Brown v. Board of Education",
+      "C": "Roe v. Wade",
+      "D": "Dred Scott v. Sandford",
+      "answer": "B",
+      "funFact": "The 1954 case Brown v. Board of Education overturned the 'separate but equal' doctrine established by Plessy v. Ferguson and mandated desegregation of schools."
+    },
+    {
+      "question": "Which civil rights leader delivered the famous 'I Have a Dream' speech during the March on Washington in 1963?",
+      "A": "Malcolm X",
+      "B": "Rosa Parks",
+      "C": "Martin Luther King Jr.",
+      "D": "Thurgood Marshall",
+      "answer": "C",
+      "funFact": "Martin Luther King Jr.'s 'I Have a Dream' speech is one of the most iconic speeches in American history and was delivered on August 28, 1963."
+    },
+    {
+      "question": "What was the name of the 1955 incident in which a 14-year-old African American boy was lynched for allegedly offending a white woman?",
+      "A": "The Selma March",
+      "B": "The Montgomery Bus Boycott",
+      "C": "The Emmett Till Murder",
+      "D": "The Little Rock Nine",
+      "answer": "C",
+      "funFact": "Emmett Till's brutal murder in Mississippi sparked national outrage and became a catalyst for the Civil Rights Movement."
+    },
+    {
+      "question": "Who was the first African American Supreme Court Justice?",
+      "A": "Clarence Thomas",
+      "B": "Thurgood Marshall",
+      "C": "Ruth Bader Ginsburg",
+      "D": "Sonia Sotomayor",
+      "answer": "B",
+      "funFact": "Thurgood Marshall, appointed by President Lyndon B. Johnson, served on the Supreme Court from 1967 to 1991 and was known for his work on civil rights cases."
+    },
+    {
+      "question": "Which organization was founded in 1909 to fight for civil rights and end racial discrimination?",
+      "A": "The Southern Christian Leadership Conference (SCLC)",
+      "B": "The National Urban League",
+      "C": "The NAACP (National Association for the Advancement of Colored People)",
+      "D": "The Black Panther Party",
+      "answer": "C",
+      "funFact": "The NAACP was founded on February 12, 1909, and is the oldest and largest civil rights organization in the United States."
+    },
+    {
+      "question": "What event is often considered the beginning of the Civil Rights Movement?",
+      "A": "The Greensboro Sit-ins",
+      "B": "The March on Washington",
+      "C": "The Montgomery Bus Boycott",
+      "D": "The Freedom Rides",
+      "answer": "C",
+      "funFact": "The Montgomery Bus Boycott began in 1955 after Rosa Parks was arrested for refusing to give up her bus seat to a white person, leading to a city-wide boycott."
+    },
+    {
+      "question": "Which civil rights leader was assassinated in Memphis, Tennessee, on April 4, 1968?",
+      "A": "Malcolm X",
+      "B": "Medgar Evers",
+      "C": "Fred Hampton",
+      "D": "Martin Luther King Jr.",
+      "answer": "D",
+      "funFact": "Martin Luther King Jr. was assassinated at the Lorraine Motel in Memphis, Tennessee, while supporting a sanitation workers' strike."
+    },
+    {
+      "question": "What was the purpose of the Freedom Rides in 1961?",
+      "A": "To register African American voters in the South",
+      "B": "To desegregate public buses and facilities",
+      "C": "To protest school segregation",
+      "D": "To demand fair housing practices",
+      "answer": "B",
+      "funFact": "The Freedom Rides were organized to test the Supreme Court's decision in Boynton v. Virginia, which declared segregation in interstate bus and rail stations unconstitutional."
+    },
+    {
+      "question": "Who was the first African American woman to win an Academy Award for Best Actress?",
+      "A": "Halle Berry",
+      "B": "Whoopi Goldberg",
+      "C": "Dorothy Dandridge",
+      "D": "Cicely Tyson",
+      "answer": "A",
+      "funFact": "Halle Berry won the Academy Award for Best Actress in 2002 for her role in the film 'Monster's Ball,' becoming the first African American woman to do so."
+    },
+    {
+      "question": "Which landmark legislation, passed in 1964, aimed to end segregation and discrimination in public places and employment?",
+      "A": "The Voting Rights Act",
+      "B": "The Civil Rights Act",
+      "C": "The Fair Housing Act",
+      "D": "The Equal Pay Act",
+      "answer": "B",
+      "funFact": "The Civil Rights Act of 1964, signed into law by President Lyndon B. Johnson, is one of the most comprehensive civil rights laws in U.S. history."
+    },
+    {
+      "question": "Who was known as the 'Mother of the Civil Rights Movement' for her role in the Montgomery Bus Boycott?",
+      "A": "Rosa Parks",
+      "B": "Ella Baker",
+      "C": "Fannie Lou Hamer",
+      "D": "Shirley Chisholm",
+      "answer": "A",
+      "funFact": "Rosa Parks' act of defiance by refusing to give up her bus seat to a white man led to the Montgomery Bus Boycott, a pivotal event in the Civil Rights Movement."
+    },
+    {
+      "question": "What was the main goal of the Black Panther Party, founded in 1966?",
+      "A": "To promote Black nationalism",
+      "B": "To provide community social programs",
+      "C": "To advocate for Black separatism",
+      "D": "To support nonviolent protest",
+      "answer": "B",
+      "funFact": "The Black Panther Party was known for its community social programs, such as free breakfast for children, health clinics, and educational programs."
+    },
+    {
+      "question": "Which Supreme Court case declared that racial segregation in public transportation was unconstitutional?",
+      "A": "Plessy v. Ferguson",
+      "B": "Brown v. Board of Education",
+      "C": "Morgan v. Virginia",
+      "D": "Shelley v. Kraemer",
+      "answer": "C",
+      "funFact": "The 1946 case Morgan v. Virginia ruled that segregation on interstate buses was unconstitutional, setting the stage for future civil rights advancements."
+    },
+    {
+      "question": "Which U.S. President signed the Voting Rights Act into law in 1965?",
+      "A": "John F. Kennedy",
+      "B": "Richard Nixon",
+      "C": "Lyndon B. Johnson",
+      "D": "Jimmy Carter",
+      "answer": "C",
+      "funFact": "The Voting Rights Act of 1965 was signed into law by President Lyndon B. Johnson and aimed to eliminate barriers to voting for African Americans."
+    },
+    {
+      "question": "Who founded the Universal Negro Improvement Association (UNIA) in 1914?",
+      "A": "W.E.B. Du Bois",
+      "B": "Frederick Douglass",
+      "C": "Marcus Garvey",
+      "D": "Booker T. Washington",
+      "answer": "C",
+      "funFact": "Marcus Garvey founded the UNIA to promote Black self-reliance, unity, and the establishment of an independent Black nation."
+    },
+    {
+      "question": "What was the significance of the 1963 Birmingham campaign?",
+      "A": "It was the first major civil rights protest",
+      "B": "It led to the desegregation of Birmingham's public facilities",
+      "C": "It resulted in the passage of the Voting Rights Act",
+      "D": "It marked the end of school segregation",
+      "answer": "B",
+      "funFact": "The Birmingham campaign, led by Martin Luther King Jr., aimed to desegregate the city's public facilities and was met with violent resistance, drawing national attention."
+    },
+    {
+        "question": "Which activist and leader co-founded the Southern Christian Leadership Conference (SCLC) with Martin Luther King Jr.?",
+        "A": "James Farmer",
+        "B": "Bayard Rustin",
+        "C": "Ralph Abernathy",
+        "D": "Stokely Carmichael",
+        "answer": "C",
+        "funFact": "Ralph Abernathy co-founded the SCLC with Martin Luther King Jr. and was a close associate in the Civil Rights Movement."
+      },
+      {
+        "question": "What was the purpose of the Selma to Montgomery marches in 1965?",
+        "A": "To desegregate public schools",
+        "B": "To protest the Vietnam War",
+        "C": "To demand voting rights for African Americans",
+        "D": "To promote fair housing practices",
+        "answer": "C",
+        "funFact": "The Selma to Montgomery marches aimed to highlight the need for voting rights for African Americans and led to the passage of the Voting Rights Act of 1965."
+      },
+      {
+        "question": "Who was the first African American woman elected to the U.S. Congress?",
+        "A": "Barbara Jordan",
+        "B": "Shirley Chisholm",
+        "C": "Maxine Waters",
+        "D": "Carol Moseley Braun",
+        "answer": "B",
+        "funFact": "Shirley Chisholm was elected to the U.S. House of Representatives in 1968 and became the first African American woman to run for President in 1972."
+      },
+      {
+        "question": "Which organization, founded in 1966, advocated for Black Power and self-defense?",
+        "A": "The Black Panther Party",
+        "B": "The Southern Christian Leadership Conference",
+        "C": "The NAACP",
+        "D": "The Congress of Racial Equality",
+        "answer": "A",
+        "funFact": "The Black Panther Party was founded by Huey Newton and Bobby Seale in 1966 to advocate for self-defense, community programs, and Black empowerment."
+      },
+      {
+        "question": "What was the outcome of the 1992 Los Angeles riots?",
+        "A": "Desegregation of schools",
+        "B": "Police reform and increased awareness of racial injustice",
+        "C": "Passage of the Civil Rights Act",
+        "D": "End of racial profiling",
+        "answer": "B",
+        "funFact": "The 1992 Los Angeles riots were sparked by the acquittal of police officers in the beating of Rodney King, leading to widespread violence and increased awareness of racial injustice and police brutality."
+      },
+      {
+        "question": "Who was known as the 'Angel of Harlem' for her contributions to the Civil Rights Movement?",
+        "A": "Dorothy Height",
+        "B": "Ella Baker",
+        "C": "Fannie Lou Hamer",
+        "D": "Mamie Till-Mobley",
+        "answer": "C",
+        "funFact": "Fannie Lou Hamer was a civil rights activist known for her work in voting rights and her powerful speech at the 1964 Democratic National Convention."
+      },
+      {
+        "question": "Which 1967 Supreme Court case declared interracial marriage bans unconstitutional?",
+        "A": "Roe v. Wade",
+        "B": "Brown v. Board of Education",
+        "C": "Loving v. Virginia",
+        "D": "Gideon v. Wainwright",
+        "answer": "C",
+        "funFact": "Loving v. Virginia was a landmark civil rights decision in which the Supreme Court struck down laws banning interracial marriage."
+      },
+      {
+        "question": "Who was the first African American to win the Nobel Peace Prize?",
+        "A": "Martin Luther King Jr.",
+        "B": "Ralph Bunche",
+        "C": "W.E.B. Du Bois",
+        "D": "Frederick Douglass",
+        "answer": "B",
+        "funFact": "Ralph Bunche was awarded the Nobel Peace Prize in 1950 for his mediation efforts in Palestine, becoming the first African American to receive the honor."
+      },
+      {
+        "question": "What was the significance of the 1968 Fair Housing Act?",
+        "A": "It ended school segregation",
+        "B": "It outlawed discriminatory housing practices",
+        "C": "It granted voting rights to African Americans",
+        "D": "It desegregated public transportation",
+        "answer": "B",
+        "funFact": "The Fair Housing Act of 1968 aimed to eliminate discrimination in housing practices and ensure equal housing opportunities for all."
+      },
+      {
+        "question": "Which event is considered the largest civil rights protest in U.S. history?",
+        "A": "The Selma to Montgomery Marches",
+        "B": "The March on Washington for Jobs and Freedom",
+        "C": "The Freedom Rides",
+        "D": "The Birmingham Campaign",
+        "answer": "B",
+        "funFact": "The March on Washington for Jobs and Freedom, held on August 28, 1963, drew over 250,000 participants and featured Martin Luther King Jr.'s iconic 'I Have a Dream' speech."
+      },
+      {
+        "question": "Who was known for the phrase 'By any means necessary' in the context of the Civil Rights Movement?",
+        "A": "Martin Luther King Jr.",
+        "B": "Medgar Evers",
+        "C": "Malcolm X",
+        "D": "Rosa Parks",
+        "answer": "C",
+        "funFact": "Malcolm X used the phrase 'By any means necessary' to emphasize the need for African Americans to achieve equality and justice by any means required."
+      }
+]
