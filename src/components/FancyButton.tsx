@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, { useRef, useState } from 'react';
 import { TouchableOpacity, Text, StyleSheet, Animated, View } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { MaterialIcons } from '@expo/vector-icons';
@@ -11,8 +11,11 @@ type FancyButtonProps = {
 
 const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress, completed }) => {
   const scaleValue = useRef(new Animated.Value(1)).current;
+  const [isScrolling, setIsScrolling] = useState(false);
+  const [pressIn, setPressIn] = useState(false);
 
   const handlePressIn = () => {
+    setPressIn(true);
     Animated.spring(scaleValue, {
       toValue: 0.95,
       friction: 4,
@@ -22,13 +25,16 @@ const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress, completed }) =
   };
 
   const handlePressOut = () => {
+    if (!isScrolling && pressIn) {
+      onPress();
+    }
+    setPressIn(false);
     Animated.spring(scaleValue, {
       toValue: 1,
       friction: 4,
       tension: 300,
       useNativeDriver: true,
     }).start();
-    onPress();
   };
 
   return (
@@ -38,6 +44,8 @@ const FancyButton: React.FC<FancyButtonProps> = ({ text, onPress, completed }) =
         onPressIn={handlePressIn}
         onPressOut={handlePressOut}
         activeOpacity={0.7}
+        delayPressIn={50}
+        delayPressOut={50}
       >
         <LinearGradient
           colors={['#ffc0cb', '#d3d3d3']}

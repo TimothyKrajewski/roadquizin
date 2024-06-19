@@ -6,8 +6,8 @@ import { RootStackParamList } from '../types';
 import { ref, listAll, getDownloadURL } from 'firebase/storage';
 import { storage } from '../firebase';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import LoadingIndicator from '../components/LoadingIndicator';
 import FancyButton from '../components/FancyButton';
+import HelixLoader from '../components/HelixLoader';
 
 type SelectQuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'SelectQuiz'>;
 
@@ -50,8 +50,8 @@ const SelectQuizScreen: React.FC = () => {
 
   if (loading) {
     return (
-      <View style={styles.container}>
-        <LoadingIndicator />
+      <View style={styles.loaderContainer}>
+        <HelixLoader />
       </View>
     );
   }
@@ -68,6 +68,7 @@ const SelectQuizScreen: React.FC = () => {
             completed={item.completed}
           />
         )}
+        scrollEnabled
       />
     </View>
   );
@@ -79,6 +80,11 @@ const styles = StyleSheet.create({
     padding: 20,
     justifyContent: 'center',
   },
+  loaderContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
 });
 
-export default SelectQuizScreen;
+export default SelectQuizScreen; 
