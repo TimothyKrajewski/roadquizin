@@ -37,7 +37,7 @@ const SelectQuizScreen: React.FC = () => {
       const url = await getDownloadURL(fileRef);
       const response = await fetch(url);
       const data = await response.json();
-      navigation.navigate('Quiz', { quizData: data, quizId: fileName });
+      navigation.navigate('Quiz', { quizData: data, quizName: fileName });
     } catch (error) {
       console.error("Error fetching quiz data: ", error);
     }

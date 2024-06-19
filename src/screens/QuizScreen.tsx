@@ -14,7 +14,7 @@ type QuizScreenRouteProp = RouteProp<RootStackParamList, 'Quiz'>;
 const QuizScreen: React.FC = () => {
   const navigation = useNavigation<QuizScreenNavigationProp>();
   const route = useRoute<QuizScreenRouteProp>();
-  const { quizData } = route.params;
+  const { quizData, quizName } = route.params;  // Ensure quizName is passed as a parameter
 
   const [questions, setQuestions] = useState<any[]>(quizData || []);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -44,7 +44,7 @@ const QuizScreen: React.FC = () => {
       setSelectedAnswer(null);
       setShowResult(false);
     } else {
-      navigation.navigate('Results', { correctAnswers, incorrectAnswers });
+      navigation.navigate('Results', { correctAnswers, incorrectAnswers, quizName });
     }
   };
 
@@ -85,6 +85,11 @@ const QuizScreen: React.FC = () => {
             <Text style={styles.result}>
               {selectedAnswer === currentQuestion.answer ? 'Correct!' : 'Incorrect!'}
             </Text>
+            {selectedAnswer !== currentQuestion.answer && (
+              <Text style={styles.correctAnswer}>
+                The correct answer is: {currentQuestion.answer}: {currentQuestion[currentQuestion.answer]}
+              </Text>
+            )}
             <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
             <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
               <Text style={styles.nextButtonText}>Next Question</Text>
@@ -92,7 +97,7 @@ const QuizScreen: React.FC = () => {
           </View>
         )}
         {selectedAnswer === currentQuestion.answer && (
-          <ConfettiCannon ref={confettiRef} count={200} origin={{x: -10, y: 0}} fadeOut />
+          <ConfettiCannon ref={confettiRef} count={200} origin={{ x: -10, y: 0 }} fadeOut />
         )}
       </ScrollView>
     </View>
@@ -115,6 +120,7 @@ const styles = StyleSheet.create({
   question: {
     fontSize: 20,
     marginBottom: 20,
+    color: '#333',
   },
   option: {
     backgroundColor: '#ddd',
@@ -124,6 +130,7 @@ const styles = StyleSheet.create({
   },
   optionText: {
     fontSize: 18,
+    color: '#333',
   },
   correctOption: {
     backgroundColor: '#4CAF50',
@@ -139,12 +146,20 @@ const styles = StyleSheet.create({
     fontSize: 22,
     marginTop: 20,
     textAlign: 'center',
+    color: '#333',
+  },
+  correctAnswer: {
+    fontSize: 18,
+    marginTop: 10,
+    color: '#4CAF50',
+    textAlign: 'center',
   },
   funFact: {
     fontSize: 18,
     marginTop: 10,
     fontStyle: 'italic',
     textAlign: 'center',
+    color: '#333',
   },
   nextButton: {
     marginTop: 20,
