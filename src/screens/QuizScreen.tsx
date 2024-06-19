@@ -7,6 +7,7 @@ import { RootStackParamList } from '../types';
 import { getDownloadURL, ref } from 'firebase/storage';
 import { storage } from '../firebase';
 import ConfettiCannon from 'react-native-confetti-cannon';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 type QuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Quiz'>;
 type QuizScreenRouteProp = RouteProp<RootStackParamList, 'Quiz'>;
@@ -23,7 +24,19 @@ const QuizScreen: React.FC = () => {
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [incorrectAnswers, setIncorrectAnswers] = useState(0);
   const [loading, setLoading] = useState(false);
+  const [allPlayMode, setAllPlayMode] = useState(false);
+  const [showHints, setShowHints] = useState(false);
   const confettiRef = useRef<any>();
+
+  useEffect(() => {
+    const fetchAllPlayMode = async () => {
+      const storedAllPlayMode = await AsyncStorage.getItem('allPlayMode');
+      if (storedAllPlayMode !== null) {
+        setAllPlayMode(JSON.parse(storedAllPlayMode));
+      }
+    };
+    fetchAllPlayMode();
+  }, []);
 
   const handleAnswerPress = (answer: string) => {
     setSelectedAnswer(answer);
@@ -43,6 +56,7 @@ const QuizScreen: React.FC = () => {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
       setSelectedAnswer(null);
       setShowResult(false);
+      setShowHints(false);
     } else {
       navigation.navigate('Results', { correctAnswers, incorrectAnswers, quizName });
     }
@@ -64,37 +78,82 @@ const QuizScreen: React.FC = () => {
       <Progress.Bar progress={progress} animated={true} width={null} style={styles.progressBar} />
       <ScrollView contentContainerStyle={styles.content}>
         <Text style={styles.question}>{currentQuestion.question}</Text>
-        {Object.entries(currentQuestion)
-          .filter(([key]) => key.match(/[A-D]/))
-          .map(([key, value]) => (
+        {allPlayMode ? (
+          <>
             <TouchableOpacity
-              key={key}
-              style={[
-                styles.option,
-                showResult && selectedAnswer === key && key !== currentQuestion.answer && styles.incorrectOption,
-                showResult && selectedAnswer === key && key === currentQuestion.answer && styles.correctOption
-              ]}
-              onPress={() => handleAnswerPress(key)}
-              disabled={showResult}
+              style={styles.revealButton}
+              onPress={() => setShowResult(true)}
             >
-              <Text style={styles.optionText}>{key}: {value}</Text>
+              <Text style={styles.revealButtonText}>Reveal Answer</Text>
             </TouchableOpacity>
-          ))}
-        {showResult && (
-          <View style={styles.resultContainer}>
-            <Text style={styles.result}>
-              {selectedAnswer === currentQuestion.answer ? 'Correct!' : 'Incorrect!'}
-            </Text>
-            {selectedAnswer !== currentQuestion.answer && (
-              <Text style={styles.correctAnswer}>
-                The correct answer is: {currentQuestion.answer}: {currentQuestion[currentQuestion.answer]}
-              </Text>
+            <TouchableOpacity
+              style={styles.hintButton}
+              onPress={() => setShowHints(true)}
+            >
+              <Text style={styles.hintButtonText}>Need a Hint?</Text>
+            </TouchableOpacity>
+            {showResult && (
+              <>
+                <Text style={styles.result}>
+                  Answer: {currentQuestion[currentQuestion.answer]}
+                </Text>
+                <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
+                <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
+                  <Text style={styles.nextButtonText}>Next Question</Text>
+                </TouchableOpacity>
+              </>
             )}
-            <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
-            <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
-              <Text style={styles.nextButtonText}>Next Question</Text>
-            </TouchableOpacity>
-          </View>
+            {showHints && !showResult && (
+              <>
+                {Object.entries(currentQuestion)
+                  .filter(([key]) => key.match(/[A-D]/))
+                  .map(([key, value]) => (
+                    <TouchableOpacity
+                      key={key}
+                      style={styles.option}
+                      onPress={() => handleAnswerPress(key)}
+                    >
+                      <Text style={styles.optionText}>{value}</Text>
+                    </TouchableOpacity>
+                  ))}
+              </>
+            )}
+          </>
+        ) : (
+          <>
+            {Object.entries(currentQuestion)
+              .filter(([key]) => key.match(/[A-D]/))
+              .map(([key, value]) => (
+                <TouchableOpacity
+                  key={key}
+                  style={[
+                    styles.option,
+                    showResult && selectedAnswer === key && key !== currentQuestion.answer && styles.incorrectOption,
+                    showResult && selectedAnswer === key && key === currentQuestion.answer && styles.correctOption
+                  ]}
+                  onPress={() => handleAnswerPress(key)}
+                  disabled={showResult}
+                >
+                  <Text style={styles.optionText}>{key}: {value}</Text>
+                </TouchableOpacity>
+              ))}
+            {showResult && (
+              <View style={styles.resultContainer}>
+                <Text style={styles.result}>
+                  {selectedAnswer === currentQuestion.answer ? 'Correct!' : 'Incorrect!'}
+                </Text>
+                {selectedAnswer !== currentQuestion.answer && (
+                  <Text style={styles.correctAnswer}>
+                    The correct answer is: {currentQuestion[currentQuestion.answer]}
+                  </Text>
+                )}
+                <Text style={styles.funFact}>{currentQuestion.funFact}</Text>
+                <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
+                  <Text style={styles.nextButtonText}>Next Question</Text>
+                </TouchableOpacity>
+              </View>
+            )}
+          </>
         )}
         {selectedAnswer === currentQuestion.answer && (
           <ConfettiCannon ref={confettiRef} count={200} origin={{ x: -10, y: 0 }} fadeOut />
@@ -169,6 +228,28 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   nextButtonText: {
+    color: '#fff',
+    fontSize: 18,
+  },
+  revealButton: {
+    marginTop: 20,
+    padding: 15,
+    backgroundColor: '#2196F3',
+    borderRadius: 5,
+    alignItems: 'center',
+  },
+  revealButtonText: {
+    color: '#fff',
+    fontSize: 18,
+  },
+  hintButton: {
+    marginTop: 20,
+    padding: 15,
+    backgroundColor: '#FFC107',
+    borderRadius: 5,
+    alignItems: 'center',
+  },
+  hintButtonText: {
     color: '#fff',
     fontSize: 18,
   },

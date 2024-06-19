@@ -6,4 +6,5 @@ export type RootStackParamList = {
   Results: { correctAnswers: number; incorrectAnswers: number; quizName: string };
   FunFacts: undefined;
   Settings: undefined;
+  QuizHistory: undefined;
 };
