@@ -9,10 +9,16 @@ type SettingsScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Set
 
 const SettingsScreen: React.FC = () => {
   const navigation = useNavigation<SettingsScreenNavigationProp>();
+  const [offlineMode, setOfflineMode] = useState(false);
   const [allPlayMode, setAllPlayMode] = useState(false);
 
   useEffect(() => {
     const fetchSettings = async () => {
+      const storedOfflineMode = await AsyncStorage.getItem('offlineMode');
+      if (storedOfflineMode !== null) {
+        setOfflineMode(JSON.parse(storedOfflineMode));
+      }
+
       const storedAllPlayMode = await AsyncStorage.getItem('allPlayMode');
       if (storedAllPlayMode !== null) {
         setAllPlayMode(JSON.parse(storedAllPlayMode));
@@ -20,6 +26,11 @@ const SettingsScreen: React.FC = () => {
     };
     fetchSettings();
   }, []);
+
+  const toggleOfflineMode = async () => {
+    setOfflineMode((previousState) => !previousState);
+    await AsyncStorage.setItem('offlineMode', JSON.stringify(!offlineMode));
+  };
 
   const toggleAllPlayMode = async () => {
     setAllPlayMode((previousState) => !previousState);
@@ -30,8 +41,17 @@ const SettingsScreen: React.FC = () => {
     navigation.navigate('QuizHistory');
   };
 
+  const handleNavigateToRequestQuiz = () => {
+    navigation.navigate('RequestQuiz');
+  };
+
   return (
     <View style={styles.container}>
+      <Text style={styles.label}>Enable Offline Mode</Text>
+      <Switch
+        value={offlineMode}
+        onValueChange={toggleOfflineMode}
+      />
       <Text style={styles.label}>Enable All Play Mode</Text>
       <Switch
         value={allPlayMode}
@@ -39,6 +59,9 @@ const SettingsScreen: React.FC = () => {
       />
       <TouchableOpacity style={styles.historyButton} onPress={handleNavigateToQuizHistory}>
         <Text style={styles.historyButtonText}>Quiz History</Text>
+      </TouchableOpacity>
+      <TouchableOpacity style={styles.requestButton} onPress={handleNavigateToRequestQuiz}>
+        <Text style={styles.requestButtonText}>Request a Quiz Topic</Text>
       </TouchableOpacity>
     </View>
   );
@@ -62,6 +85,17 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   historyButtonText: {
+    color: '#fff',
+    fontSize: 18,
+  },
+  requestButton: {
+    marginTop: 20,
+    padding: 15,
+    backgroundColor: '#2196F3',
+    borderRadius: 5,
+    alignItems: 'center',
+  },
+  requestButtonText: {
     color: '#fff',
     fontSize: 18,
   },

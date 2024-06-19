@@ -7,4 +7,5 @@ export type RootStackParamList = {
   FunFacts: undefined;
   Settings: undefined;
   QuizHistory: undefined;
+  RequestQuiz: undefined;  // Add this line
 };

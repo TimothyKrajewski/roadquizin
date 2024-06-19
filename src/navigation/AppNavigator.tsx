@@ -8,6 +8,7 @@ import FunFactsScreen from '../screens/FunFactsScreen';
 import SettingsScreen from '../screens/SettingsScreen';
 import ResultsScreen from '../screens/ResultsScreen';
 import QuizHistoryScreen from '../screens/QuizHistoryScreen';
+import RequestQuizScreen from '../screens/RequestQuizScreen';
 import { RootStackParamList } from '../types';
 
 const Stack = createStackNavigator<RootStackParamList>();
@@ -22,6 +23,7 @@ const AppNavigator: React.FC = () => {
         <Stack.Screen name="FunFacts" component={FunFactsScreen} />
         <Stack.Screen name="Settings" component={SettingsScreen} />
         <Stack.Screen name="QuizHistory" component={QuizHistoryScreen} />
+        <Stack.Screen name="RequestQuiz" component={RequestQuizScreen} />
         <Stack.Screen
           name="Results"
           component={ResultsScreen}

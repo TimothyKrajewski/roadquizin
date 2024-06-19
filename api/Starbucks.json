@@ -1,0 +1,182 @@
+[
+    {
+      "question": "When and where was the first Starbucks store opened?",
+      "A": "1971, Seattle",
+      "B": "1985, New York",
+      "C": "1990, Los Angeles",
+      "D": "1975, San Francisco",
+      "answer": "A",
+      "funFact": "The first Starbucks store was opened in 1971 in Seattle, Washington, at Pike Place Market."
+    },
+    {
+      "question": "Who is the current CEO of Starbucks (as of 2023)?",
+      "A": "Howard Schultz",
+      "B": "Kevin Johnson",
+      "C": "James Quincey",
+      "D": "Daniel Boulud",
+      "answer": "B",
+      "funFact": "Kevin Johnson became the CEO of Starbucks in 2017, succeeding Howard Schultz."
+    },
+    {
+      "question": "What is Starbucks' best-selling drink?",
+      "A": "Pumpkin Spice Latte",
+      "B": "Caffè Americano",
+      "C": "Caramel Macchiato",
+      "D": "Caffè Latte",
+      "answer": "D",
+      "funFact": "The Caffè Latte is Starbucks' best-selling drink, made with espresso and steamed milk."
+    },
+    {
+      "question": "What is the name of Starbucks' loyalty program?",
+      "A": "Star Rewards",
+      "B": "Starbucks Stars",
+      "C": "Starbucks Rewards",
+      "D": "Coffee Club",
+      "answer": "C",
+      "funFact": "Starbucks Rewards is the company's loyalty program that allows customers to earn stars and redeem them for free items."
+    },
+    {
+      "question": "What year did Starbucks first introduce the Pumpkin Spice Latte?",
+      "A": "2003",
+      "B": "2005",
+      "C": "2010",
+      "D": "2012",
+      "answer": "A",
+      "funFact": "Starbucks introduced the Pumpkin Spice Latte in 2003, and it has since become a seasonal favorite."
+    },
+    {
+      "question": "What company did Starbucks acquire in 2012 to expand its bakery offerings?",
+      "A": "Panera Bread",
+      "B": "La Boulange",
+      "C": "Krispy Kreme",
+      "D": "Au Bon Pain",
+      "answer": "B",
+      "funFact": "Starbucks acquired La Boulange, a San Francisco-based bakery, in 2012 to enhance its food offerings."
+    },
+    {
+      "question": "Which Starbucks drink is known for its layered appearance?",
+      "A": "Caffè Americano",
+      "B": "Caramel Macchiato",
+      "C": "Flat White",
+      "D": "Caffè Mocha",
+      "answer": "B",
+      "funFact": "The Caramel Macchiato is known for its layered appearance, with espresso poured over steamed milk and vanilla syrup, topped with caramel drizzle."
+    },
+    {
+      "question": "What does the name 'Starbucks' refer to?",
+      "A": "A famous ship",
+      "B": "A character in a book",
+      "C": "A constellation",
+      "D": "A coffee bean",
+      "answer": "B",
+      "funFact": "The name 'Starbucks' is inspired by Starbuck, a character from Herman Melville's novel 'Moby-Dick.'"
+    },
+    {
+      "question": "What is the smallest cup size available at Starbucks?",
+      "A": "Tall",
+      "B": "Short",
+      "C": "Grande",
+      "D": "Venti",
+      "answer": "B",
+      "funFact": "The smallest cup size available at Starbucks is the Short, which is 8 ounces."
+    },
+    {
+      "question": "Which of these is a popular seasonal Starbucks drink?",
+      "A": "Iced Caramel Macchiato",
+      "B": "Mocha Frappuccino",
+      "C": "Eggnog Latte",
+      "D": "Flat White",
+      "answer": "C",
+      "funFact": "The Eggnog Latte is a popular seasonal drink available at Starbucks during the holiday season."
+    },
+    {
+      "question": "What year did Starbucks go public?",
+      "A": "1985",
+      "B": "1990",
+      "C": "1992",
+      "D": "1995",
+      "answer": "C",
+      "funFact": "Starbucks went public in 1992, and its stock is traded on the NASDAQ under the symbol SBUX."
+    },
+    {
+      "question": "Which milk alternative did Starbucks introduce in 2016?",
+      "A": "Almond Milk",
+      "B": "Soy Milk",
+      "C": "Oat Milk",
+      "D": "Coconut Milk",
+      "answer": "A",
+      "funFact": "Starbucks introduced Almond Milk as a milk alternative in 2016, following the popularity of its Soy and Coconut Milk options."
+    },
+    {
+      "question": "What is the Starbucks 'Secret Menu'?",
+      "A": "An official menu available only to members",
+      "B": "A list of discontinued drinks",
+      "C": "Customized drinks created by customers",
+      "D": "A seasonal menu available during holidays",
+      "answer": "C",
+      "funFact": "The Starbucks 'Secret Menu' is a collection of customized drinks created by customers and shared online."
+    },
+    {
+      "question": "What is the name of the Starbucks drink that combines espresso with steamed half-and-half?",
+      "A": "Flat White",
+      "B": "Caffè Americano",
+      "C": "Breve",
+      "D": "Macchiato",
+      "answer": "C",
+      "funFact": "A Breve is a Starbucks drink that combines espresso with steamed half-and-half, resulting in a rich and creamy beverage."
+    },
+    {
+      "question": "Which country has the most Starbucks locations?",
+      "A": "China",
+      "B": "Canada",
+      "C": "United Kingdom",
+      "D": "United States",
+      "answer": "D",
+      "funFact": "The United States has the most Starbucks locations, with thousands of stores across the country."
+    },
+    {
+      "question": "What year did Starbucks launch its mobile ordering feature?",
+      "A": "2012",
+      "B": "2014",
+      "C": "2015",
+      "D": "2017",
+      "answer": "C",
+      "funFact": "Starbucks launched its mobile ordering feature in 2015, allowing customers to order and pay for their drinks using the Starbucks app."
+    },
+    {
+      "question": "Which of these is a Starbucks Frappuccino flavor?",
+      "A": "Matcha Green Tea",
+      "B": "Vanilla Bean",
+      "C": "Strawberries and Crème",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Starbucks offers a variety of Frappuccino flavors, including Matcha Green Tea, Vanilla Bean, and Strawberries and Crème."
+    },
+    {
+      "question": "What is the name of the Starbucks initiative to provide free college education to employees?",
+      "A": "Starbucks Scholars",
+      "B": "Starbucks College Achievement Plan",
+      "C": "Starbucks Education Fund",
+      "D": "Starbucks University",
+      "answer": "B",
+      "funFact": "The Starbucks College Achievement Plan is an initiative that provides free college education to Starbucks employees through a partnership with Arizona State University."
+    },
+    {
+      "question": "Which of the following is NOT a size option at Starbucks?",
+      "A": "Short",
+      "B": "Tall",
+      "C": "Venti",
+      "D": "Petite",
+      "answer": "D",
+      "funFact": "Starbucks offers Short, Tall, Grande, Venti, and Trenta sizes, but not a Petite size."
+    },
+    {
+      "question": "What year did Starbucks open its first store outside of North America?",
+      "A": "1987",
+      "B": "1990",
+      "C": "1994",
+      "D": "1996",
+      "answer": "D",
+      "funFact": "Starbucks opened its first store outside of North America in Tokyo, Japan, in 1996."
+    }
+  ]

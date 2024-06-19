@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, ScrollView, Alert } from 'react-native';
 import * as Progress from 'react-native-progress';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
@@ -8,6 +8,7 @@ import { getDownloadURL, ref } from 'firebase/storage';
 import { storage } from '../firebase';
 import ConfettiCannon from 'react-native-confetti-cannon';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import * as FileSystem from 'expo-file-system';
 
 type QuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Quiz'>;
 type QuizScreenRouteProp = RouteProp<RootStackParamList, 'Quiz'>;
@@ -24,8 +25,10 @@ const QuizScreen: React.FC = () => {
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [incorrectAnswers, setIncorrectAnswers] = useState(0);
   const [loading, setLoading] = useState(false);
+  const [offlineMode, setOfflineMode] = useState(false);
   const [allPlayMode, setAllPlayMode] = useState(false);
   const [showHints, setShowHints] = useState(false);
+  const [streak, setStreak] = useState(0);
   const confettiRef = useRef<any>();
 
   useEffect(() => {
@@ -35,19 +38,50 @@ const QuizScreen: React.FC = () => {
         setAllPlayMode(JSON.parse(storedAllPlayMode));
       }
     };
+
+    const fetchOfflineMode = async () => {
+      const storedOfflineMode = await AsyncStorage.getItem('offlineMode');
+      if (storedOfflineMode !== null) {
+        setOfflineMode(JSON.parse(storedOfflineMode));
+      }
+    };
+
     fetchAllPlayMode();
+    fetchOfflineMode();
+
+    if (offlineMode) {
+      fetchQuizFromLocalStorage();
+    } else {
+      setQuestions(quizData || []);
+    }
   }, []);
+
+  const fetchQuizFromLocalStorage = async () => {
+    try {
+      const fileUri = `${FileSystem.documentDirectory}api/uploaded/${quizName}.json`;
+      const fileContent = await FileSystem.readAsStringAsync(fileUri);
+      const localQuestions = JSON.parse(fileContent);
+      setQuestions(localQuestions);
+    } catch (error) {
+      Alert.alert('Error', `Failed to load quiz from local storage. ${error.message}`);
+      console.error('Failed to load quiz from local storage.', error);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   const handleAnswerPress = (answer: string) => {
     setSelectedAnswer(answer);
     setShowResult(true);
     if (answer === questions[currentQuestionIndex].answer) {
       setCorrectAnswers(correctAnswers + 1);
+      setStreak(streak + 1);
       if (confettiRef.current) {
         confettiRef.current.start();
       }
     } else {
       setIncorrectAnswers(incorrectAnswers + 1);
+      setStreak(0);
     }
   };
 
@@ -62,10 +96,18 @@ const QuizScreen: React.FC = () => {
     }
   };
 
-  if (!questions.length) {
+  if (loading) {
     return (
       <View style={styles.container}>
         <ActivityIndicator size="large" color="#0000ff" />
+      </View>
+    );
+  }
+
+  if (!questions.length) {
+    return (
+      <View style={styles.container}>
+        <Text>No questions available.</Text>
       </View>
     );
   }
@@ -76,6 +118,7 @@ const QuizScreen: React.FC = () => {
   return (
     <View style={styles.container}>
       <Progress.Bar progress={progress} animated={true} width={null} style={styles.progressBar} />
+      <Text style={styles.streak}>Streak: {streak}</Text>
       <ScrollView contentContainerStyle={styles.content}>
         <Text style={styles.question}>{currentQuestion.question}</Text>
         {allPlayMode ? (
@@ -175,6 +218,12 @@ const styles = StyleSheet.create({
   content: {
     flexGrow: 1,
     justifyContent: 'flex-start',
+  },
+  streak: {
+    fontSize: 18,
+    color: '#333',
+    textAlign: 'center',
+    marginBottom: 10,
   },
   question: {
     fontSize: 20,

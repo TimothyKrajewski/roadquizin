@@ -24,9 +24,6 @@ const LoadingIndicator: React.FC = () => {
       <Animated.View style={{ transform: [{ rotate }] }}>
         <MaterialIcons name="edit" size={50} color="black" />
       </Animated.View>
-      <View style={styles.paper}>
-        <MaterialIcons name="assignment" size={100} color="gray" />
-      </View>
     </View>
   );
 };
