@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, FlatList } from 'react-native';
+import { View, StyleSheet, FlatList } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { useNavigation } from '@react-navigation/native';
 import { RootStackParamList } from '../types';
-import { getStorage, ref, listAll, getDownloadURL } from 'firebase/storage';
+import { ref, listAll, getDownloadURL } from 'firebase/storage';
+import { storage } from '../firebase';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import Icon from 'react-native-vector-icons/FontAwesome';
+import LoadingIndicator from '../components/LoadingIndicator';
+import FancyButton from '../components/FancyButton';
 
 type SelectQuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'SelectQuiz'>;
 
@@ -17,7 +19,6 @@ const SelectQuizScreen: React.FC = () => {
   useEffect(() => {
     const fetchQuizzes = async () => {
       try {
-        const storage = getStorage();
         const listRef = ref(storage, '');
         const res = await listAll(listRef);
         const quizPromises = res.items.map(async (itemRef) => {
@@ -50,7 +51,7 @@ const SelectQuizScreen: React.FC = () => {
   if (loading) {
     return (
       <View style={styles.container}>
-        <Text>Loading quizzes...</Text>
+        <LoadingIndicator />
       </View>
     );
   }
@@ -61,13 +62,11 @@ const SelectQuizScreen: React.FC = () => {
         data={quizzes}
         keyExtractor={(item) => item.name}
         renderItem={({ item }) => (
-          <TouchableOpacity
-            style={styles.quizButton}
+          <FancyButton
+            text={item.name}
             onPress={() => handleQuizPress(item.name, item.url)}
-          >
-            <Text style={styles.quizButtonText}>{item.name}</Text>
-            {item.completed && <Icon name="check" size={20} color="green" style={styles.checkIcon} />}
-          </TouchableOpacity>
+            completed={item.completed}
+          />
         )}
       />
     </View>
@@ -79,21 +78,6 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 20,
     justifyContent: 'center',
-  },
-  quizButton: {
-    padding: 15,
-    marginVertical: 10,
-    backgroundColor: '#ddd',
-    borderRadius: 5,
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-  },
-  quizButtonText: {
-    fontSize: 18,
-  },
-  checkIcon: {
-    marginLeft: 10,
   },
 });
 
