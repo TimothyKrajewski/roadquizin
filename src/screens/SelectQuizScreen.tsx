@@ -1,64 +1,73 @@
-import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, ActivityIndicator, FlatList } from 'react-native';
+import React, { useEffect, useState } from 'react';
+import { View, Text, StyleSheet, TouchableOpacity, FlatList } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { useNavigation } from '@react-navigation/native';
 import { RootStackParamList } from '../types';
-import { listAll, ref, getDownloadURL } from 'firebase/storage';
-import { storage } from '../firebase';
-import FancyButton from '../components/FancyButton';
+import { getStorage, ref, listAll, getDownloadURL } from 'firebase/storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import Icon from 'react-native-vector-icons/FontAwesome';
 
 type SelectQuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'SelectQuiz'>;
 
 const SelectQuizScreen: React.FC = () => {
-  const [quizFiles, setQuizFiles] = useState<string[]>([]);
-  const [loading, setLoading] = useState(true);
   const navigation = useNavigation<SelectQuizScreenNavigationProp>();
+  const [quizzes, setQuizzes] = useState<{ name: string; url: string; completed: boolean }[]>([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const fetchQuizFiles = async () => {
+    const fetchQuizzes = async () => {
       try {
-        const listRef = ref(storage, ''); // Adjust path to your quizzes folder
+        const storage = getStorage();
+        const listRef = ref(storage, '');
         const res = await listAll(listRef);
-        const files = res.items.map(itemRef => itemRef.name);
-        setQuizFiles(files);
+        const quizPromises = res.items.map(async (itemRef) => {
+          const url = await getDownloadURL(itemRef);
+          const highScore = await AsyncStorage.getItem(`highScore_${itemRef.name}`);
+          return {
+            name: itemRef.name,
+            url,
+            completed: highScore !== null,
+          };
+        });
+        const quizzes = await Promise.all(quizPromises);
+        setQuizzes(quizzes);
         setLoading(false);
       } catch (error) {
-        console.error("Error listing quiz files: ", error);
+        console.error('Failed to fetch quizzes.', error);
         setLoading(false);
       }
     };
 
-    fetchQuizFiles();
+    fetchQuizzes();
   }, []);
 
-  const handleQuizSelect = async (fileName: string) => {
-    try {
-      const fileRef = ref(storage, `${fileName}`);
-      const url = await getDownloadURL(fileRef);
-      const response = await fetch(url);
-      const data = await response.json();
-      navigation.navigate('Quiz', { quizData: data, quizName: fileName });
-    } catch (error) {
-      console.error("Error fetching quiz data: ", error);
-    }
+  const handleQuizPress = async (quizName: string, quizUrl: string) => {
+    const response = await fetch(quizUrl);
+    const quizData = await response.json();
+    navigation.navigate('Quiz', { quizData, quizName });
   };
 
   if (loading) {
     return (
       <View style={styles.container}>
-        <ActivityIndicator size="large" color="#0000ff" />
+        <Text>Loading quizzes...</Text>
       </View>
     );
   }
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Select a Quiz</Text>
       <FlatList
-        data={quizFiles}
-        keyExtractor={(item) => item}
+        data={quizzes}
+        keyExtractor={(item) => item.name}
         renderItem={({ item }) => (
-          <FancyButton text={item} onPress={() => handleQuizSelect(item)} />
+          <TouchableOpacity
+            style={styles.quizButton}
+            onPress={() => handleQuizPress(item.name, item.url)}
+          >
+            <Text style={styles.quizButtonText}>{item.name}</Text>
+            {item.completed && <Icon name="check" size={20} color="green" style={styles.checkIcon} />}
+          </TouchableOpacity>
         )}
       />
     </View>
@@ -71,10 +80,20 @@ const styles = StyleSheet.create({
     padding: 20,
     justifyContent: 'center',
   },
-  title: {
-    fontSize: 24,
-    marginBottom: 20,
-    textAlign: 'center',
+  quizButton: {
+    padding: 15,
+    marginVertical: 10,
+    backgroundColor: '#ddd',
+    borderRadius: 5,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  quizButtonText: {
+    fontSize: 18,
+  },
+  checkIcon: {
+    marginLeft: 10,
   },
 });
 
