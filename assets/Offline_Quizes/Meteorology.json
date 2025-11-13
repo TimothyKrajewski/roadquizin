@@ -148,8 +148,8 @@
         "A": "Meteorology",
         "B": "Atmospheric science",
         "C": "Weather science",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Meteorology is also called atmospheric science, studying weather, climate, and atmospheric processes."
     },
     {

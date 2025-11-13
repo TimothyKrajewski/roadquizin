@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is the largest fish in the world?",
-      "A": "Blue whale",
-      "B": "Whale shark",
-      "C": "Great white shark",
-      "D": "Manta ray",
-      "answer": "B",
-      "funFact": "The whale shark is the largest fish in the world, reaching lengths of up to 40 feet and weighing up to 20 tons. Despite its size, it's a gentle filter feeder."
+        "question": "What is the largest fish in the world?",
+        "A": "Blue whale",
+        "B": "Whale shark",
+        "C": "Great white shark",
+        "D": "Manta ray",
+        "answer": "B",
+        "funFact": "The whale shark is the largest fish in the world, reaching lengths of up to 40 feet and weighing up to 20 tons. Despite its size, it's a gentle filter feeder."
     },
     {
-      "question": "What is the fastest fish in the ocean?",
-      "A": "Tuna",
-      "B": "Sailfish",
-      "C": "Marlin",
-      "D": "Shark",
-      "answer": "B",
-      "funFact": "The sailfish is the fastest fish in the ocean, capable of speeds up to 68 mph (110 km/h). It uses its speed to hunt schools of fish."
+        "question": "What is the fastest fish in the ocean?",
+        "A": "Tuna",
+        "B": "Sailfish",
+        "C": "Marlin",
+        "D": "Shark",
+        "answer": "B",
+        "funFact": "The sailfish is the fastest fish in the ocean, capable of speeds up to 68 mph (110 km/h). It uses its speed to hunt schools of fish."
     },
     {
-      "question": "How do fish breathe?",
-      "A": "With lungs",
-      "B": "With gills",
-      "C": "Through their skin",
-      "D": "With their mouth",
-      "answer": "B",
-      "funFact": "Fish breathe through gills, which extract oxygen from water. Water flows over the gills, where oxygen is absorbed and carbon dioxide is released."
+        "question": "How do fish breathe?",
+        "A": "With lungs",
+        "B": "With gills",
+        "C": "Through their skin",
+        "D": "With their mouth",
+        "answer": "B",
+        "funFact": "Fish breathe through gills, which extract oxygen from water. Water flows over the gills, where oxygen is absorbed and carbon dioxide is released."
     },
     {
-      "question": "What percentage of a fish's body is water?",
-      "A": "About 60%",
-      "B": "About 70%",
-      "C": "About 80%",
-      "D": "About 90%",
-      "answer": "C",
-      "funFact": "Fish are composed of about 80% water, similar to the water content of the ocean they live in. This helps maintain their internal balance."
+        "question": "What percentage of a fish's body is water?",
+        "A": "About 60%",
+        "B": "About 70%",
+        "C": "About 80%",
+        "D": "About 90%",
+        "answer": "C",
+        "funFact": "Fish are composed of about 80% water, similar to the water content of the ocean they live in. This helps maintain their internal balance."
     },
     {
-      "question": "What is the name for a group of fish?",
-      "A": "School",
-      "B": "Shoal",
-      "C": "Both A and B",
-      "D": "Flock",
-      "answer": "C",
-      "funFact": "A group of fish is called a school (when swimming together in a coordinated way) or a shoal (when swimming together loosely). Both terms are correct."
+        "question": "What is the name for a group of fish?",
+        "A": "School",
+        "B": "Shoal",
+        "C": "Neither A nor B",
+        "D": "Flock",
+        "answer": "A",
+        "funFact": "A group of fish is called a school (when swimming together in a coordinated way) or a shoal (when swimming together loosely). Both terms are correct."
     },
     {
-      "question": "What is the smallest fish in the world?",
-      "A": "Guppy",
-      "B": "Paedocypris",
-      "C": "Minnow",
-      "D": "Goldfish",
-      "answer": "B",
-      "funFact": "The Paedocypris fish is the smallest fish in the world, measuring only about 0.3 inches (7.9 mm) when fully grown. It's found in the swamps of Sumatra."
+        "question": "What is the smallest fish in the world?",
+        "A": "Guppy",
+        "B": "Paedocypris",
+        "C": "Minnow",
+        "D": "Goldfish",
+        "answer": "B",
+        "funFact": "The Paedocypris fish is the smallest fish in the world, measuring only about 0.3 inches (7.9 mm) when fully grown. It's found in the swamps of Sumatra."
     },
     {
-      "question": "How many hearts does a fish have?",
-      "A": "1",
-      "B": "2",
-      "C": "3",
-      "D": "4",
-      "answer": "A",
-      "funFact": "Fish have one heart, just like humans. Their heart pumps blood through their gills to get oxygen and then throughout their body."
+        "question": "How many hearts does a fish have?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "answer": "A",
+        "funFact": "Fish have one heart, just like humans. Their heart pumps blood through their gills to get oxygen and then throughout their body."
     },
     {
-      "question": "What is the most common fish in the ocean?",
-      "A": "Tuna",
-      "B": "Salmon",
-      "C": "Bristlemouth",
-      "D": "Cod",
-      "answer": "C",
-      "funFact": "The bristlemouth is the most common fish in the ocean, with billions of them in the deep sea. They're small, bioluminescent fish that live in the twilight zone."
+        "question": "What is the most common fish in the ocean?",
+        "A": "Tuna",
+        "B": "Salmon",
+        "C": "Bristlemouth",
+        "D": "Cod",
+        "answer": "C",
+        "funFact": "The bristlemouth is the most common fish in the ocean, with billions of them in the deep sea. They're small, bioluminescent fish that live in the twilight zone."
     },
     {
-      "question": "What is a fish without a jaw called?",
-      "A": "Cartilaginous fish",
-      "B": "Bony fish",
-      "C": "Jawless fish",
-      "D": "All fish have jaws",
-      "answer": "C",
-      "funFact": "Jawless fish, like lampreys and hagfish, are primitive fish that don't have jaws. They're the most ancient group of vertebrates."
+        "question": "What is a fish without a jaw called?",
+        "A": "Cartilaginous fish",
+        "B": "Bony fish",
+        "C": "Jawless fish",
+        "D": "All fish have jaws",
+        "answer": "C",
+        "funFact": "Jawless fish, like lampreys and hagfish, are primitive fish that don't have jaws. They're the most ancient group of vertebrates."
     },
     {
-      "question": "Can fish see in color?",
-      "A": "No, they only see in black and white",
-      "B": "Yes, most fish can see colors",
-      "C": "Only some fish can see colors",
-      "D": "Fish are blind",
-      "answer": "B",
-      "funFact": "Most fish can see colors, and many have better color vision than humans. Some fish can even see ultraviolet light, which humans cannot see."
+        "question": "Can fish see in color?",
+        "A": "No, they only see in black and white",
+        "B": "Yes, most fish can see colors",
+        "C": "Only some fish can see colors",
+        "D": "Fish are blind",
+        "answer": "B",
+        "funFact": "Most fish can see colors, and many have better color vision than humans. Some fish can even see ultraviolet light, which humans cannot see."
     }
 ]
-

@@ -1,93 +1,92 @@
 [
     {
-      "question": "Who wrote '1984'?",
-      "A": "Aldous Huxley",
-      "B": "George Orwell",
-      "C": "Ray Bradbury",
-      "D": "H.G. Wells",
-      "answer": "B",
-      "funFact": "George Orwell wrote '1984' in 1949, creating a dystopian vision of totalitarian surveillance that introduced concepts like Big Brother and thoughtcrime."
+        "question": "Who wrote '1984'?",
+        "A": "Aldous Huxley",
+        "B": "George Orwell",
+        "C": "Ray Bradbury",
+        "D": "H.G. Wells",
+        "answer": "B",
+        "funFact": "George Orwell wrote '1984' in 1949, creating a dystopian vision of totalitarian surveillance that introduced concepts like Big Brother and thoughtcrime."
     },
     {
-      "question": "What is the name of the whale in 'Moby-Dick'?",
-      "A": "Moby Dick",
-      "B": "Captain Ahab",
-      "C": "Ishmael",
-      "D": "Queequeg",
-      "answer": "A",
-      "funFact": "Moby Dick is the name of the great white whale that Captain Ahab obsessively hunts in Herman Melville's 1851 novel, which has become a symbol of nature's power and mystery."
+        "question": "What is the name of the whale in 'Moby-Dick'?",
+        "A": "Moby Dick",
+        "B": "Captain Ahab",
+        "C": "Ishmael",
+        "D": "Queequeg",
+        "answer": "A",
+        "funFact": "Moby Dick is the name of the great white whale that Captain Ahab obsessively hunts in Herman Melville's 1851 novel, which has become a symbol of nature's power and mystery."
     },
     {
-      "question": "Who wrote 'Pride and Prejudice'?",
-      "A": "Charlotte Brontë",
-      "B": "Emily Brontë",
-      "C": "Jane Austen",
-      "D": "Virginia Woolf",
-      "answer": "C",
-      "funFact": "Jane Austen wrote 'Pride and Prejudice' in 1813, creating one of literature's most beloved romantic stories featuring Elizabeth Bennet and Mr. Darcy."
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "A": "Charlotte Brontë",
+        "B": "Emily Brontë",
+        "C": "Jane Austen",
+        "D": "Virginia Woolf",
+        "answer": "C",
+        "funFact": "Jane Austen wrote 'Pride and Prejudice' in 1813, creating one of literature's most beloved romantic stories featuring Elizabeth Bennet and Mr. Darcy."
     },
     {
-      "question": "What is the first name of the author who wrote 'The Great Gatsby'?",
-      "A": "Ernest",
-      "B": "F. Scott",
-      "C": "William",
-      "D": "John",
-      "answer": "B",
-      "funFact": "F. Scott Fitzgerald wrote 'The Great Gatsby' in 1925, capturing the essence of the Jazz Age and the American Dream in this classic novel."
+        "question": "What is the first name of the author who wrote 'The Great Gatsby'?",
+        "A": "Ernest",
+        "B": "F. Scott",
+        "C": "William",
+        "D": "John",
+        "answer": "B",
+        "funFact": "F. Scott Fitzgerald wrote 'The Great Gatsby' in 1925, capturing the essence of the Jazz Age and the American Dream in this classic novel."
     },
     {
-      "question": "Who wrote 'To Kill a Mockingbird'?",
-      "A": "Harper Lee",
-      "B": "Truman Capote",
-      "C": "Maya Angelou",
-      "D": "Toni Morrison",
-      "answer": "A",
-      "funFact": "Harper Lee wrote 'To Kill a Mockingbird' in 1960, addressing themes of racial injustice and moral growth through the eyes of young Scout Finch."
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "A": "Harper Lee",
+        "B": "Truman Capote",
+        "C": "Maya Angelou",
+        "D": "Toni Morrison",
+        "answer": "A",
+        "funFact": "Harper Lee wrote 'To Kill a Mockingbird' in 1960, addressing themes of racial injustice and moral growth through the eyes of young Scout Finch."
     },
     {
-      "question": "What is the name of the island in 'Lord of the Flies'?",
-      "A": "The island has no name",
-      "B": "Treasure Island",
-      "C": "Robinson Island",
-      "D": "Piggy Island",
-      "answer": "A",
-      "funFact": "The island in William Golding's 'Lord of the Flies' is never given a specific name, emphasizing its role as a microcosm of society rather than a specific place."
+        "question": "What is the name of the island in 'Lord of the Flies'?",
+        "A": "The island has no name",
+        "B": "Treasure Island",
+        "C": "Robinson Island",
+        "D": "Piggy Island",
+        "answer": "A",
+        "funFact": "The island in William Golding's 'Lord of the Flies' is never given a specific name, emphasizing its role as a microcosm of society rather than a specific place."
     },
     {
-      "question": "Who wrote 'The Catcher in the Rye'?",
-      "A": "J.D. Salinger",
-      "B": "Kurt Vonnegut",
-      "C": "Jack Kerouac",
-      "D": "Allen Ginsberg",
-      "answer": "A",
-      "funFact": "J.D. Salinger wrote 'The Catcher in the Rye' in 1951, creating the iconic character Holden Caulfield, who has become a symbol of teenage alienation."
+        "question": "Who wrote 'The Catcher in the Rye'?",
+        "A": "J.D. Salinger",
+        "B": "Kurt Vonnegut",
+        "C": "Jack Kerouac",
+        "D": "Allen Ginsberg",
+        "answer": "A",
+        "funFact": "J.D. Salinger wrote 'The Catcher in the Rye' in 1951, creating the iconic character Holden Caulfield, who has become a symbol of teenage alienation."
     },
     {
-      "question": "What is the name of the main character in 'The Adventures of Huckleberry Finn'?",
-      "A": "Tom Sawyer",
-      "B": "Huckleberry Finn",
-      "C": "Jim",
-      "D": "Pap",
-      "answer": "B",
-      "funFact": "Huckleberry Finn is the narrator and protagonist of Mark Twain's 1884 novel, which follows his journey down the Mississippi River with the escaped slave Jim."
+        "question": "What is the name of the main character in 'The Adventures of Huckleberry Finn'?",
+        "A": "Tom Sawyer",
+        "B": "Huckleberry Finn",
+        "C": "Jim",
+        "D": "Pap",
+        "answer": "B",
+        "funFact": "Huckleberry Finn is the narrator and protagonist of Mark Twain's 1884 novel, which follows his journey down the Mississippi River with the escaped slave Jim."
     },
     {
-      "question": "Who wrote 'Frankenstein'?",
-      "A": "Mary Shelley",
-      "B": "Bram Stoker",
-      "C": "Edgar Allan Poe",
-      "D": "H.P. Lovecraft",
-      "answer": "A",
-      "funFact": "Mary Shelley wrote 'Frankenstein' in 1818 when she was just 18 years old, creating one of the first science fiction novels and a lasting gothic horror story."
+        "question": "Who wrote 'Frankenstein'?",
+        "A": "Mary Shelley",
+        "B": "Bram Stoker",
+        "C": "Edgar Allan Poe",
+        "D": "H.P. Lovecraft",
+        "answer": "A",
+        "funFact": "Mary Shelley wrote 'Frankenstein' in 1818 when she was just 18 years old, creating one of the first science fiction novels and a lasting gothic horror story."
     },
     {
-      "question": "What is the name of the estate in 'Wuthering Heights'?",
-      "A": "Thrushcross Grange",
-      "B": "Wuthering Heights",
-      "C": "Both A and B",
-      "D": "Pemberley",
-      "answer": "C",
-      "funFact": "Emily Brontë's 'Wuthering Heights' features two estates: Wuthering Heights (the Earnshaw home) and Thrushcross Grange (the Linton home), representing different social classes and ways of life."
+        "question": "What is the name of the estate in 'Wuthering Heights'?",
+        "A": "Thrushcross Grange",
+        "B": "Wuthering Heights",
+        "C": "Neither A nor B",
+        "D": "Pemberley",
+        "answer": "A",
+        "funFact": "Emily Brontë's 'Wuthering Heights' features two estates: Wuthering Heights (the Earnshaw home) and Thrushcross Grange (the Linton home), representing different social classes and ways of life."
     }
 ]
-

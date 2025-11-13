@@ -1,183 +1,182 @@
 [
     {
-      "question": "What event triggered World War I?",
-      "A": "The assassination of Archduke Franz Ferdinand",
-      "B": "June 28, 1914",
-      "C": "Both A and B",
-      "D": "The invasion of Belgium",
-      "answer": "C",
-      "funFact": "The assassination of Archduke Franz Ferdinand of Austria-Hungary on June 28, 1914, triggered a chain of events that led to World War I."
+        "question": "What event triggered World War I?",
+        "A": "The assassination of Archduke Franz Ferdinand",
+        "B": "June 28, 1914",
+        "C": "Neither A nor B",
+        "D": "The invasion of Belgium",
+        "answer": "A",
+        "funFact": "The assassination of Archduke Franz Ferdinand of Austria-Hungary on June 28, 1914, triggered a chain of events that led to World War I."
     },
     {
-      "question": "What were the underlying causes of World War I?",
-      "A": "Militarism, alliances, imperialism, nationalism",
-      "B": "MAIN causes",
-      "C": "Both A and B",
-      "D": "Single cause",
-      "answer": "C",
-      "funFact": "The underlying causes of World War I are often summarized as MAIN: Militarism, Alliances, Imperialism, and Nationalism."
+        "question": "What were the underlying causes of World War I?",
+        "A": "Militarism, alliances, imperialism, nationalism",
+        "B": "MAIN causes",
+        "C": "Neither A nor B",
+        "D": "Single cause",
+        "answer": "A",
+        "funFact": "The underlying causes of World War I are often summarized as MAIN: Militarism, Alliances, Imperialism, and Nationalism."
     },
     {
-      "question": "What was militarism?",
-      "A": "Arms race",
-      "B": "Building up military forces",
-      "C": "Both A and B",
-      "D": "Disarmament",
-      "answer": "C",
-      "funFact": "Militarism was the arms race and building up of military forces. European powers competed to have the largest and best armies and navies."
+        "question": "What was militarism?",
+        "A": "Arms race",
+        "B": "Building up military forces",
+        "C": "Neither A nor B",
+        "D": "Disarmament",
+        "answer": "A",
+        "funFact": "Militarism was the arms race and building up of military forces. European powers competed to have the largest and best armies and navies."
     },
     {
-      "question": "What were the alliances?",
-      "A": "Triple Entente and Triple Alliance",
-      "B": "Countries pledged to support each other",
-      "C": "Both A and B",
-      "D": "No alliances",
-      "answer": "C",
-      "funFact": "The Triple Entente (France, Britain, Russia) and Triple Alliance (Germany, Austria-Hungary, Italy) were alliances that pulled countries into war."
+        "question": "What were the alliances?",
+        "A": "Triple Entente and Triple Alliance",
+        "B": "Countries pledged to support each other",
+        "C": "Neither A nor B",
+        "D": "No alliances",
+        "answer": "A",
+        "funFact": "The Triple Entente (France, Britain, Russia) and Triple Alliance (Germany, Austria-Hungary, Italy) were alliances that pulled countries into war."
     },
     {
-      "question": "What was imperialism?",
-      "A": "Competition for colonies",
-      "B": "European powers expanding empires",
-      "C": "Both A and B",
-      "D": "No competition",
-      "answer": "C",
-      "funFact": "Imperialism was the competition for colonies and expansion of empires. European powers competed for territory in Africa and Asia."
+        "question": "What was imperialism?",
+        "A": "Competition for colonies",
+        "B": "European powers expanding empires",
+        "C": "Neither A nor B",
+        "D": "No competition",
+        "answer": "A",
+        "funFact": "Imperialism was the competition for colonies and expansion of empires. European powers competed for territory in Africa and Asia."
     },
     {
-      "question": "What was nationalism?",
-      "A": "Pride in one's country",
-      "B": "Led to conflicts",
-      "C": "Both A and B",
-      "D": "No impact",
-      "answer": "C",
-      "funFact": "Nationalism was intense pride in one's country, which led to conflicts and the desire to prove national superiority."
+        "question": "What was nationalism?",
+        "A": "Pride in one's country",
+        "B": "Led to conflicts",
+        "C": "Neither A nor B",
+        "D": "No impact",
+        "answer": "A",
+        "funFact": "Nationalism was intense pride in one's country, which led to conflicts and the desire to prove national superiority."
     },
     {
-      "question": "What was the Balkan Powder Keg?",
-      "A": "Unstable region",
-      "B": "Multiple conflicts",
-      "C": "Both A and B",
-      "D": "Stable region",
-      "answer": "C",
-      "funFact": "The Balkans were called the 'Powder Keg' because they were an unstable region with multiple ethnic conflicts and great power interests."
+        "question": "What was the Balkan Powder Keg?",
+        "A": "Unstable region",
+        "B": "Multiple conflicts",
+        "C": "Neither A nor B",
+        "D": "Stable region",
+        "answer": "A",
+        "funFact": "The Balkans were called the 'Powder Keg' because they were an unstable region with multiple ethnic conflicts and great power interests."
     },
     {
-      "question": "What was the Schlieffen Plan?",
-      "A": "German plan to quickly defeat France",
-      "B": "Through Belgium",
-      "C": "Both A and B",
-      "D": "Defensive plan",
-      "answer": "C",
-      "funFact": "The Schlieffen Plan was Germany's strategy to quickly defeat France by going through Belgium, then turning to fight Russia."
+        "question": "What was the Schlieffen Plan?",
+        "A": "German plan to quickly defeat France",
+        "B": "Through Belgium",
+        "C": "Neither A nor B",
+        "D": "Defensive plan",
+        "answer": "A",
+        "funFact": "The Schlieffen Plan was Germany's strategy to quickly defeat France by going through Belgium, then turning to fight Russia."
     },
     {
-      "question": "What was the blank check?",
-      "A": "Germany's promise to support Austria-Hungary",
-      "B": "Unconditional support",
-      "C": "Both A and B",
-      "D": "Limited support",
-      "answer": "C",
-      "funFact": "The 'blank check' was Germany's promise of unconditional support to Austria-Hungary after the assassination, encouraging them to declare war on Serbia."
+        "question": "What was the blank check?",
+        "A": "Germany's promise to support Austria-Hungary",
+        "B": "Unconditional support",
+        "C": "Neither A nor B",
+        "D": "Limited support",
+        "answer": "A",
+        "funFact": "The 'blank check' was Germany's promise of unconditional support to Austria-Hungary after the assassination, encouraging them to declare war on Serbia."
     },
     {
-      "question": "What was the July Crisis?",
-      "A": "Month of diplomatic crisis",
-      "B": "After assassination",
-      "C": "Both A and B",
-      "D": "Before assassination",
-      "answer": "C",
-      "funFact": "The July Crisis was the month of diplomatic crisis after the assassination, where countries made decisions that led to war."
+        "question": "What was the July Crisis?",
+        "A": "Month of diplomatic crisis",
+        "B": "After assassination",
+        "C": "Neither A nor B",
+        "D": "Before assassination",
+        "answer": "A",
+        "funFact": "The July Crisis was the month of diplomatic crisis after the assassination, where countries made decisions that led to war."
     },
     {
-      "question": "What was the role of Serbia?",
-      "A": "Assassination happened there",
-      "B": "Austria-Hungary blamed Serbia",
-      "C": "Both A and B",
-      "D": "No role",
-      "answer": "C",
-      "funFact": "The assassination happened in Serbia, and Austria-Hungary blamed the Serbian government, leading to an ultimatum and eventually war."
+        "question": "What was the role of Serbia?",
+        "A": "Assassination happened there",
+        "B": "Austria-Hungary blamed Serbia",
+        "C": "Neither A nor B",
+        "D": "No role",
+        "answer": "A",
+        "funFact": "The assassination happened in Serbia, and Austria-Hungary blamed the Serbian government, leading to an ultimatum and eventually war."
     },
     {
-      "question": "What was the role of Russia?",
-      "A": "Supported Serbia",
-      "B": "Mobilized its army",
-      "C": "Both A and B",
-      "D": "Stayed neutral",
-      "answer": "C",
-      "funFact": "Russia supported Serbia and mobilized its army, which Germany saw as a threat and led to Germany declaring war on Russia."
+        "question": "What was the role of Russia?",
+        "A": "Supported Serbia",
+        "B": "Mobilized its army",
+        "C": "Neither A nor B",
+        "D": "Stayed neutral",
+        "answer": "A",
+        "funFact": "Russia supported Serbia and mobilized its army, which Germany saw as a threat and led to Germany declaring war on Russia."
     },
     {
-      "question": "What was the role of France?",
-      "A": "Allied with Russia",
-      "B": "Mobilized when Germany did",
-      "C": "Both A and B",
-      "D": "Stayed neutral",
-      "answer": "C",
-      "funFact": "France was allied with Russia and mobilized when Germany did. Germany declared war on France as part of the Schlieffen Plan."
+        "question": "What was the role of France?",
+        "A": "Allied with Russia",
+        "B": "Mobilized when Germany did",
+        "C": "Neither A nor B",
+        "D": "Stayed neutral",
+        "answer": "A",
+        "funFact": "France was allied with Russia and mobilized when Germany did. Germany declared war on France as part of the Schlieffen Plan."
     },
     {
-      "question": "What was the role of Britain?",
-      "A": "Entered when Germany invaded Belgium",
-      "B": "Had treaty to protect Belgium",
-      "C": "Both A and B",
-      "D": "Stayed neutral",
-      "answer": "C",
-      "funFact": "Britain entered the war when Germany invaded Belgium, which Britain had a treaty to protect. This brought the British Empire into the war."
+        "question": "What was the role of Britain?",
+        "A": "Entered when Germany invaded Belgium",
+        "B": "Had treaty to protect Belgium",
+        "C": "Neither A nor B",
+        "D": "Stayed neutral",
+        "answer": "A",
+        "funFact": "Britain entered the war when Germany invaded Belgium, which Britain had a treaty to protect. This brought the British Empire into the war."
     },
     {
-      "question": "What was the domino effect?",
-      "A": "One declaration led to another",
-      "B": "Alliances pulled countries in",
-      "C": "Both A and B",
-      "D": "No effect",
-      "answer": "C",
-      "funFact": "The domino effect occurred as one country's declaration of war led to another, with alliances pulling countries into the conflict."
+        "question": "What was the domino effect?",
+        "A": "One declaration led to another",
+        "B": "Alliances pulled countries in",
+        "C": "Neither A nor B",
+        "D": "No effect",
+        "answer": "A",
+        "funFact": "The domino effect occurred as one country's declaration of war led to another, with alliances pulling countries into the conflict."
     },
     {
-      "question": "What was the role of the United States?",
-      "A": "Stayed neutral initially",
-      "B": "Entered in 1917",
-      "C": "Both A and B",
-      "D": "Entered immediately",
-      "answer": "C",
-      "funFact": "The United States stayed neutral initially but entered the war in 1917 after German U-boat attacks and the Zimmerman Telegram."
+        "question": "What was the role of the United States?",
+        "A": "Stayed neutral initially",
+        "B": "Entered in 1917",
+        "C": "Neither A nor B",
+        "D": "Entered immediately",
+        "answer": "A",
+        "funFact": "The United States stayed neutral initially but entered the war in 1917 after German U-boat attacks and the Zimmerman Telegram."
     },
     {
-      "question": "What was the Zimmerman Telegram?",
-      "A": "German message to Mexico",
-      "B": "Proposed alliance against US",
-      "C": "Both A and B",
-      "D": "No impact",
-      "answer": "C",
-      "funFact": "The Zimmerman Telegram was a German message to Mexico proposing an alliance against the United States. Its interception helped bring the US into the war."
+        "question": "What was the Zimmerman Telegram?",
+        "A": "German message to Mexico",
+        "B": "Proposed alliance against US",
+        "C": "Neither A nor B",
+        "D": "No impact",
+        "answer": "A",
+        "funFact": "The Zimmerman Telegram was a German message to Mexico proposing an alliance against the United States. Its interception helped bring the US into the war."
     },
     {
-      "question": "What was unrestricted submarine warfare?",
-      "A": "Germany sank ships without warning",
-      "B": "Including neutral ships",
-      "C": "Both A and B",
-      "D": "Only enemy ships",
-      "answer": "C",
-      "funFact": "Unrestricted submarine warfare was Germany's policy of sinking ships without warning, including neutral ships. This helped bring the US into the war."
+        "question": "What was unrestricted submarine warfare?",
+        "A": "Germany sank ships without warning",
+        "B": "Including neutral ships",
+        "C": "Neither A nor B",
+        "D": "Only enemy ships",
+        "answer": "A",
+        "funFact": "Unrestricted submarine warfare was Germany's policy of sinking ships without warning, including neutral ships. This helped bring the US into the war."
     },
     {
-      "question": "What was the impact of the causes?",
-      "A": "Led to devastating war",
-      "B": "Millions of deaths",
-      "C": "Both A and B",
-      "D": "Minor conflict",
-      "answer": "C",
-      "funFact": "The combination of these causes led to a devastating war that killed millions and changed the world forever."
+        "question": "What was the impact of the causes?",
+        "A": "Led to devastating war",
+        "B": "Millions of deaths",
+        "C": "Neither A nor B",
+        "D": "Minor conflict",
+        "answer": "A",
+        "funFact": "The combination of these causes led to a devastating war that killed millions and changed the world forever."
     },
     {
-      "question": "What was the lesson learned?",
-      "A": "Need for better diplomacy",
-      "B": "Avoidance of war",
-      "C": "Both A and B",
-      "D": "No lesson",
-      "answer": "C",
-      "funFact": "The lesson learned was the need for better diplomacy and avoidance of war. However, these lessons weren't fully learned, leading to World War II."
+        "question": "What was the lesson learned?",
+        "A": "Need for better diplomacy",
+        "B": "Avoidance of war",
+        "C": "Neither A nor B",
+        "D": "No lesson",
+        "answer": "A",
+        "funFact": "The lesson learned was the need for better diplomacy and avoidance of war. However, these lessons weren't fully learned, leading to World War II."
     }
 ]
-

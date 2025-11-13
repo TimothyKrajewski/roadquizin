@@ -76,8 +76,8 @@
         "A": "Social mediaology",
         "B": "Social media studies",
         "C": "Digital media",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Social media is studied through digital media, communication studies, and social media research."
     },
     {
@@ -121,8 +121,8 @@
         "A": "Social mediaology",
         "B": "Digital communication",
         "C": "Social networking",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Social media involves digital communication, social networking, and how people interact online."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Social mediaology",
         "B": "Social media research",
         "C": "Digital sociology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Social media is studied through communication, sociology, psychology, and digital media research."
     },
     {

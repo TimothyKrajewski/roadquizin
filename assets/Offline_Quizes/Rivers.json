@@ -40,8 +40,8 @@
         "A": "Riverology",
         "B": "River geography",
         "C": "Potamology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and potamology (the study of rivers)."
     },
     {
@@ -58,8 +58,8 @@
         "A": "Riverology",
         "B": "River ecology",
         "C": "Hydrology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through hydrology, ecology, and geography."
     },
     {
@@ -76,8 +76,8 @@
         "A": "Riverology",
         "B": "River studies",
         "C": "Geography",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and environmental science."
     },
     {
@@ -94,8 +94,8 @@
         "A": "Riverology",
         "B": "River geography",
         "C": "Water studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and water resource management."
     },
     {
@@ -112,8 +112,8 @@
         "A": "Riverology",
         "B": "River research",
         "C": "Geographic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and environmental research."
     },
     {
@@ -130,8 +130,8 @@
         "A": "Riverology",
         "B": "River studies",
         "C": "Hydrological research",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and environmental science, exploring their flow and ecosystems."
     },
     {
@@ -148,8 +148,8 @@
         "A": "Riverology",
         "B": "River geography",
         "C": "Environmental studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and environmental research."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Riverology",
         "B": "River research",
         "C": "Geographic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and environmental science, understanding their importance and ecosystems."
     },
     {

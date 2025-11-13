@@ -175,8 +175,8 @@
         "A": "Climateology",
         "B": "Climate science",
         "C": "Weather studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Climate change is studied through climate science, meteorology, and environmental science, using data and models to understand and predict changes."
     }
 ]

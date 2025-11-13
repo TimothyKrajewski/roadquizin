@@ -108,12 +108,12 @@
       "funFact": "Joseph Stalin was the leader of the Soviet Union during World War II. He led the country through the Great Patriotic War against Nazi Germany."
     },
     {
-      "question": "What was the name of the systematic murder of six million Jews?",
+      "question": "What was the name of the systematic murder of six million Jews by Nazi Germany?",
       "A": "The Holocaust",
-      "B": "The Final Solution",
-      "C": "Both A and B",
-      "D": "The Genocide",
-      "answer": "C",
+      "B": "The Great Purge",
+      "C": "The Genocide",
+      "D": "The Massacre",
+      "answer": "A",
       "funFact": "The Holocaust, also known as the Final Solution, was the systematic murder of six million Jews and millions of others by Nazi Germany during World War II."
     },
     {
@@ -189,13 +189,13 @@
       "funFact": "Ultra was the code name for the intelligence gained by breaking German Enigma codes. It was crucial to Allied success in the war."
     },
     {
-      "question": "What was the name of the conference where the Allies planned the post-war world?",
+      "question": "What was the name of the 1945 conference where Allied leaders planned the post-war world?",
       "A": "Yalta Conference",
       "B": "Potsdam Conference",
       "C": "Tehran Conference",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "The Yalta, Potsdam, and Tehran conferences were major meetings where the Allied leaders planned strategy and the post-war world order."
+      "D": "Casablanca Conference",
+      "answer": "A",
+      "funFact": "The Yalta Conference in February 1945 was where Roosevelt, Churchill, and Stalin met to plan the post-war world order and divide Germany."
     },
     {
       "question": "What was the total number of casualties in World War II?",

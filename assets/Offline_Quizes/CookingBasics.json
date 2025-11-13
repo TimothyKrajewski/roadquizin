@@ -139,8 +139,8 @@
         "A": "Cookingology",
         "B": "Culinary arts",
         "C": "Food science",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "The study of cooking involves culinary arts (technique and creativity) and food science (the chemistry and physics of cooking)."
     },
     {

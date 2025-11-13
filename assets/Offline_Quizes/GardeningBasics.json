@@ -1,183 +1,182 @@
 [
     {
-      "question": "What is gardening?",
-      "A": "Growing plants",
-      "B": "Flowers, vegetables, herbs",
-      "C": "Both A and B",
-      "D": "Only flowers",
-      "answer": "C",
-      "funFact": "Gardening is the practice of growing plants, including flowers, vegetables, herbs, and other plants for beauty, food, or enjoyment."
+        "question": "What is gardening?",
+        "A": "Growing plants",
+        "B": "Flowers, vegetables, herbs",
+        "C": "Neither A nor B",
+        "D": "Only flowers",
+        "answer": "A",
+        "funFact": "Gardening is the practice of growing plants, including flowers, vegetables, herbs, and other plants for beauty, food, or enjoyment."
     },
     {
-      "question": "What is soil?",
-      "A": "Foundation for plants",
-      "B": "Needs to be healthy",
-      "C": "Both A and B",
-      "D": "Not important",
-      "answer": "C",
-      "funFact": "Soil is the foundation for plants and needs to be healthy with good nutrients, drainage, and texture for plants to thrive."
+        "question": "What is soil?",
+        "A": "Foundation for plants",
+        "B": "Needs to be healthy",
+        "C": "Neither A nor B",
+        "D": "Not important",
+        "answer": "A",
+        "funFact": "Soil is the foundation for plants and needs to be healthy with good nutrients, drainage, and texture for plants to thrive."
     },
     {
-      "question": "What is sunlight?",
-      "A": "Essential for plants",
-      "B": "Different plants need different amounts",
-      "C": "Both A and B",
-      "D": "Not needed",
-      "answer": "C",
-      "funFact": "Sunlight is essential for plants through photosynthesis. Different plants need different amounts - full sun, partial shade, or full shade."
+        "question": "What is sunlight?",
+        "A": "Essential for plants",
+        "B": "Different plants need different amounts",
+        "C": "Neither A nor B",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "Sunlight is essential for plants through photosynthesis. Different plants need different amounts - full sun, partial shade, or full shade."
     },
     {
-      "question": "What is water?",
-      "A": "Essential for plants",
-      "B": "Right amount important",
-      "C": "Both A and B",
-      "D": "Not needed",
-      "answer": "C",
-      "funFact": "Water is essential for plants, but the right amount is important. Too much or too little can harm plants."
+        "question": "What is water?",
+        "A": "Essential for plants",
+        "B": "Right amount important",
+        "C": "Neither A nor B",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "Water is essential for plants, but the right amount is important. Too much or too little can harm plants."
     },
     {
-      "question": "What is fertilizer?",
-      "A": "Provides nutrients",
-      "B": "Helps plants grow",
-      "C": "Both A and B",
-      "D": "Not needed",
-      "answer": "C",
-      "funFact": "Fertilizer provides nutrients that help plants grow. It can be organic (compost) or synthetic (chemical)."
+        "question": "What is fertilizer?",
+        "A": "Provides nutrients",
+        "B": "Helps plants grow",
+        "C": "Neither A nor B",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "Fertilizer provides nutrients that help plants grow. It can be organic (compost) or synthetic (chemical)."
     },
     {
-      "question": "What is composting?",
-      "A": "Recycling organic matter",
-      "B": "Creates rich soil",
-      "C": "Both A and B",
-      "D": "Waste only",
-      "answer": "C",
-      "funFact": "Composting is recycling organic matter (food scraps, leaves) to create rich soil. It's natural and beneficial."
+        "question": "What is composting?",
+        "A": "Recycling organic matter",
+        "B": "Creates rich soil",
+        "C": "Neither A nor B",
+        "D": "Waste only",
+        "answer": "A",
+        "funFact": "Composting is recycling organic matter (food scraps, leaves) to create rich soil. It's natural and beneficial."
     },
     {
-      "question": "What is mulching?",
-      "A": "Covering soil",
-      "B": "Retains moisture, prevents weeds",
-      "C": "Both A and B",
-      "D": "Not helpful",
-      "answer": "C",
-      "funFact": "Mulching is covering soil with material like wood chips or straw. It retains moisture and prevents weeds."
+        "question": "What is mulching?",
+        "A": "Covering soil",
+        "B": "Retains moisture, prevents weeds",
+        "C": "Neither A nor B",
+        "D": "Not helpful",
+        "answer": "A",
+        "funFact": "Mulching is covering soil with material like wood chips or straw. It retains moisture and prevents weeds."
     },
     {
-      "question": "What is pruning?",
-      "A": "Cutting plants",
-      "B": "Shapes and promotes growth",
-      "C": "Both A and B",
-      "D": "Hurts plants",
-      "answer": "C",
-      "funFact": "Pruning is cutting plants to shape them and promote healthy growth. Done correctly, it helps plants thrive."
+        "question": "What is pruning?",
+        "A": "Cutting plants",
+        "B": "Shapes and promotes growth",
+        "C": "Neither A nor B",
+        "D": "Hurts plants",
+        "answer": "A",
+        "funFact": "Pruning is cutting plants to shape them and promote healthy growth. Done correctly, it helps plants thrive."
     },
     {
-      "question": "What are annuals?",
-      "A": "Plants that live one year",
-      "B": "Plant each year",
-      "C": "Both A and B",
-      "D": "Live forever",
-      "answer": "C",
-      "funFact": "Annuals are plants that complete their life cycle in one year. You plant them each year for seasonal color."
+        "question": "What are annuals?",
+        "A": "Plants that live one year",
+        "B": "Plant each year",
+        "C": "Neither A nor B",
+        "D": "Live forever",
+        "answer": "A",
+        "funFact": "Annuals are plants that complete their life cycle in one year. You plant them each year for seasonal color."
     },
     {
-      "question": "What are perennials?",
-      "A": "Plants that come back",
-      "B": "Year after year",
-      "C": "Both A and B",
-      "D": "Die after one year",
-      "answer": "C",
-      "funFact": "Perennials are plants that come back year after year. They're a long-term investment in your garden."
+        "question": "What are perennials?",
+        "A": "Plants that come back",
+        "B": "Year after year",
+        "C": "Neither A nor B",
+        "D": "Die after one year",
+        "answer": "A",
+        "funFact": "Perennials are plants that come back year after year. They're a long-term investment in your garden."
     },
     {
-      "question": "What are vegetables?",
-      "A": "Edible plants",
-      "B": "Grown for food",
-      "C": "Both A and B",
-      "D": "Only decorative",
-      "answer": "C",
-      "funFact": "Vegetables are edible plants grown for food. Growing your own vegetables is rewarding and provides fresh produce."
+        "question": "What are vegetables?",
+        "A": "Edible plants",
+        "B": "Grown for food",
+        "C": "Neither A nor B",
+        "D": "Only decorative",
+        "answer": "A",
+        "funFact": "Vegetables are edible plants grown for food. Growing your own vegetables is rewarding and provides fresh produce."
     },
     {
-      "question": "What are herbs?",
-      "A": "Flavorful plants",
-      "B": "Used in cooking",
-      "C": "Both A and B",
-      "D": "Not useful",
-      "answer": "C",
-      "funFact": "Herbs are flavorful plants used in cooking. They're easy to grow and add fresh flavor to meals."
+        "question": "What are herbs?",
+        "A": "Flavorful plants",
+        "B": "Used in cooking",
+        "C": "Neither A nor B",
+        "D": "Not useful",
+        "answer": "A",
+        "funFact": "Herbs are flavorful plants used in cooking. They're easy to grow and add fresh flavor to meals."
     },
     {
-      "question": "What is a seed?",
-      "A": "Starts a plant",
-      "B": "Contains plant embryo",
-      "C": "Both A and B",
-      "D": "Not needed",
-      "answer": "C",
-      "funFact": "A seed starts a plant and contains the plant embryo. Seeds need the right conditions (water, warmth, soil) to germinate."
+        "question": "What is a seed?",
+        "A": "Starts a plant",
+        "B": "Contains plant embryo",
+        "C": "Neither A nor B",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "A seed starts a plant and contains the plant embryo. Seeds need the right conditions (water, warmth, soil) to germinate."
     },
     {
-      "question": "What is germination?",
-      "A": "Seed sprouting",
-      "B": "Beginning of growth",
-      "C": "Both A and B",
-      "D": "Plant dying",
-      "answer": "C",
-      "funFact": "Germination is when a seed sprouts and begins to grow. It requires water, warmth, and sometimes light."
+        "question": "What is germination?",
+        "A": "Seed sprouting",
+        "B": "Beginning of growth",
+        "C": "Neither A nor B",
+        "D": "Plant dying",
+        "answer": "A",
+        "funFact": "Germination is when a seed sprouts and begins to grow. It requires water, warmth, and sometimes light."
     },
     {
-      "question": "What is transplanting?",
-      "A": "Moving plants",
-      "B": "From one place to another",
-      "C": "Both A and B",
-      "D": "Not done",
-      "answer": "C",
-      "funFact": "Transplanting is moving plants from one place to another, like from a pot to the ground or between locations."
+        "question": "What is transplanting?",
+        "A": "Moving plants",
+        "B": "From one place to another",
+        "C": "Neither A nor B",
+        "D": "Not done",
+        "answer": "A",
+        "funFact": "Transplanting is moving plants from one place to another, like from a pot to the ground or between locations."
     },
     {
-      "question": "What are pests?",
-      "A": "Insects and animals",
-      "B": "Can damage plants",
-      "C": "Both A and B",
-      "D": "Helpful",
-      "answer": "C",
-      "funFact": "Pests are insects and animals that can damage plants. Managing them is important for a healthy garden."
+        "question": "What are pests?",
+        "A": "Insects and animals",
+        "B": "Can damage plants",
+        "C": "Neither A nor B",
+        "D": "Helpful",
+        "answer": "A",
+        "funFact": "Pests are insects and animals that can damage plants. Managing them is important for a healthy garden."
     },
     {
-      "question": "What are weeds?",
-      "A": "Unwanted plants",
-      "B": "Compete with garden plants",
-      "C": "Both A and B",
-      "D": "Helpful",
-      "answer": "C",
-      "funFact": "Weeds are unwanted plants that compete with your garden plants for water, nutrients, and space."
+        "question": "What are weeds?",
+        "A": "Unwanted plants",
+        "B": "Compete with garden plants",
+        "C": "Neither A nor B",
+        "D": "Helpful",
+        "answer": "A",
+        "funFact": "Weeds are unwanted plants that compete with your garden plants for water, nutrients, and space."
     },
     {
-      "question": "What is the growing season?",
-      "A": "Time plants can grow",
-      "B": "Varies by climate",
-      "C": "Both A and B",
-      "D": "Same everywhere",
-      "answer": "C",
-      "funFact": "The growing season is the time when plants can grow outdoors. It varies by climate - longer in warm areas, shorter in cold."
+        "question": "What is the growing season?",
+        "A": "Time plants can grow",
+        "B": "Varies by climate",
+        "C": "Neither A nor B",
+        "D": "Same everywhere",
+        "answer": "A",
+        "funFact": "The growing season is the time when plants can grow outdoors. It varies by climate - longer in warm areas, shorter in cold."
     },
     {
-      "question": "What is hardiness?",
-      "A": "Plant's cold tolerance",
-      "B": "Hardiness zones",
-      "C": "Both A and B",
-      "D": "Not important",
-      "answer": "C",
-      "funFact": "Hardiness is a plant's cold tolerance. Hardiness zones help you choose plants that will survive in your climate."
+        "question": "What is hardiness?",
+        "A": "Plant's cold tolerance",
+        "B": "Hardiness zones",
+        "C": "Neither A nor B",
+        "D": "Not important",
+        "answer": "A",
+        "funFact": "Hardiness is a plant's cold tolerance. Hardiness zones help you choose plants that will survive in your climate."
     },
     {
-      "question": "What is the joy of gardening?",
-      "A": "Connecting with nature",
-      "B": "Growing your own food",
-      "C": "Both A and B",
-      "D": "No joy",
-      "answer": "C",
-      "funFact": "The joy of gardening includes connecting with nature, growing your own food, and the satisfaction of nurturing plants."
+        "question": "What is the joy of gardening?",
+        "A": "Connecting with nature",
+        "B": "Growing your own food",
+        "C": "Neither A nor B",
+        "D": "No joy",
+        "answer": "A",
+        "funFact": "The joy of gardening includes connecting with nature, growing your own food, and the satisfaction of nurturing plants."
     }
 ]
-

@@ -1,183 +1,182 @@
 [
     {
-      "question": "Who has thrown the most touchdown passes in NFL history?",
-      "A": "Tom Brady",
-      "B": "Peyton Manning",
-      "C": "Drew Brees",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Tom Brady has thrown the most touchdown passes in NFL history with over 600 touchdowns. He's considered one of the greatest quarterbacks ever."
+        "question": "Who has thrown the most touchdown passes in NFL history?",
+        "A": "Tom Brady",
+        "B": "Peyton Manning",
+        "C": "Drew Brees",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Tom Brady has thrown the most touchdown passes in NFL history with over 600 touchdowns. He's considered one of the greatest quarterbacks ever."
     },
     {
-      "question": "Who has the most career passing yards?",
-      "A": "Tom Brady",
-      "B": "Peyton Manning",
-      "C": "Drew Brees",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Tom Brady has the most career passing yards in NFL history with over 84,000 yards. He played for 23 seasons."
+        "question": "Who has the most career passing yards?",
+        "A": "Tom Brady",
+        "B": "Peyton Manning",
+        "C": "Drew Brees",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Tom Brady has the most career passing yards in NFL history with over 84,000 yards. He played for 23 seasons."
     },
     {
-      "question": "Who has the most career rushing yards?",
-      "A": "Emmitt Smith",
-      "B": "Walter Payton",
-      "C": "Barry Sanders",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Emmitt Smith has the most career rushing yards in NFL history with 18,355 yards. He played for the Dallas Cowboys and Arizona Cardinals."
+        "question": "Who has the most career rushing yards?",
+        "A": "Emmitt Smith",
+        "B": "Walter Payton",
+        "C": "Barry Sanders",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Emmitt Smith has the most career rushing yards in NFL history with 18,355 yards. He played for the Dallas Cowboys and Arizona Cardinals."
     },
     {
-      "question": "Who has the most career receiving yards?",
-      "A": "Jerry Rice",
-      "B": "Larry Fitzgerald",
-      "C": "Terrell Owens",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Jerry Rice has the most career receiving yards in NFL history with 22,895 yards. He's considered the greatest wide receiver ever."
+        "question": "Who has the most career receiving yards?",
+        "A": "Jerry Rice",
+        "B": "Larry Fitzgerald",
+        "C": "Terrell Owens",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Jerry Rice has the most career receiving yards in NFL history with 22,895 yards. He's considered the greatest wide receiver ever."
     },
     {
-      "question": "Who has the most career touchdowns?",
-      "A": "Jerry Rice",
-      "B": "Emmitt Smith",
-      "C": "Tom Brady",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Jerry Rice has the most career touchdowns in NFL history with 208 touchdowns (197 receiving, 10 rushing, 1 fumble recovery)."
+        "question": "Who has the most career touchdowns?",
+        "A": "Jerry Rice",
+        "B": "Emmitt Smith",
+        "C": "Tom Brady",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Jerry Rice has the most career touchdowns in NFL history with 208 touchdowns (197 receiving, 10 rushing, 1 fumble recovery)."
     },
     {
-      "question": "Who has won the most Super Bowls as a player?",
-      "A": "Tom Brady",
-      "B": "7 Super Bowls",
-      "C": "Both A and B",
-      "D": "Joe Montana",
-      "answer": "C",
-      "funFact": "Tom Brady has won 7 Super Bowls as a player, more than any other player. He won 6 with the Patriots and 1 with the Buccaneers."
+        "question": "Who has won the most Super Bowls as a player?",
+        "A": "Tom Brady",
+        "B": "7 Super Bowls",
+        "C": "Neither A nor B",
+        "D": "Joe Montana",
+        "answer": "A",
+        "funFact": "Tom Brady has won 7 Super Bowls as a player, more than any other player. He won 6 with the Patriots and 1 with the Buccaneers."
     },
     {
-      "question": "Who is considered the greatest quarterback?",
-      "A": "Tom Brady",
-      "B": "Joe Montana",
-      "C": "Peyton Manning",
-      "D": "Debated",
-      "answer": "D",
-      "funFact": "The greatest quarterback is debated, with Tom Brady, Joe Montana, and Peyton Manning often mentioned. Brady has the most Super Bowl wins."
+        "question": "Who is considered the greatest quarterback?",
+        "A": "Tom Brady",
+        "B": "Joe Montana",
+        "C": "Peyton Manning",
+        "D": "Debated",
+        "answer": "D",
+        "funFact": "The greatest quarterback is debated, with Tom Brady, Joe Montana, and Peyton Manning often mentioned. Brady has the most Super Bowl wins."
     },
     {
-      "question": "Who is considered the greatest running back?",
-      "A": "Jim Brown",
-      "B": "Walter Payton",
-      "C": "Barry Sanders",
-      "D": "Debated",
-      "answer": "D",
-      "funFact": "The greatest running back is debated, with Jim Brown, Walter Payton, and Barry Sanders often mentioned. Each had unique strengths."
+        "question": "Who is considered the greatest running back?",
+        "A": "Jim Brown",
+        "B": "Walter Payton",
+        "C": "Barry Sanders",
+        "D": "Debated",
+        "answer": "D",
+        "funFact": "The greatest running back is debated, with Jim Brown, Walter Payton, and Barry Sanders often mentioned. Each had unique strengths."
     },
     {
-      "question": "Who is considered the greatest wide receiver?",
-      "A": "Jerry Rice",
-      "B": "Randy Moss",
-      "C": "Terrell Owens",
-      "D": "Jerry Rice is widely considered",
-      "answer": "D",
-      "funFact": "Jerry Rice is widely considered the greatest wide receiver ever, holding numerous records including most career receiving yards and touchdowns."
+        "question": "Who is considered the greatest wide receiver?",
+        "A": "Jerry Rice",
+        "B": "Randy Moss",
+        "C": "Terrell Owens",
+        "D": "Jerry Rice is widely considered",
+        "answer": "D",
+        "funFact": "Jerry Rice is widely considered the greatest wide receiver ever, holding numerous records including most career receiving yards and touchdowns."
     },
     {
-      "question": "Who has the most career sacks?",
-      "A": "Bruce Smith",
-      "B": "Reggie White",
-      "C": "Lawrence Taylor",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Bruce Smith has the most career sacks in NFL history with 200 sacks. He played for the Buffalo Bills and Washington Redskins."
+        "question": "Who has the most career sacks?",
+        "A": "Bruce Smith",
+        "B": "Reggie White",
+        "C": "Lawrence Taylor",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Bruce Smith has the most career sacks in NFL history with 200 sacks. He played for the Buffalo Bills and Washington Redskins."
     },
     {
-      "question": "Who has the most career interceptions?",
-      "A": "Paul Krause",
-      "B": "Emmitt Thomas",
-      "C": "Rod Woodson",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Paul Krause has the most career interceptions in NFL history with 81 interceptions. He played for the Minnesota Vikings and Washington Redskins."
+        "question": "Who has the most career interceptions?",
+        "A": "Paul Krause",
+        "B": "Emmitt Thomas",
+        "C": "Rod Woodson",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Paul Krause has the most career interceptions in NFL history with 81 interceptions. He played for the Minnesota Vikings and Washington Redskins."
     },
     {
-      "question": "Who has won the most MVP awards?",
-      "A": "Peyton Manning",
-      "B": "5 MVP awards",
-      "C": "Both A and B",
-      "D": "Tom Brady",
-      "answer": "C",
-      "funFact": "Peyton Manning has won the most NFL MVP awards with 5. He won in 2003, 2004, 2008, 2009, and 2013."
+        "question": "Who has won the most MVP awards?",
+        "A": "Peyton Manning",
+        "B": "5 MVP awards",
+        "C": "Neither A nor B",
+        "D": "Tom Brady",
+        "answer": "A",
+        "funFact": "Peyton Manning has won the most NFL MVP awards with 5. He won in 2003, 2004, 2008, 2009, and 2013."
     },
     {
-      "question": "Who has the longest field goal?",
-      "A": "Matt Prater",
-      "B": "64 yards",
-      "C": "Both A and B",
-      "D": "Justin Tucker",
-      "answer": "C",
-      "funFact": "Matt Prater holds the record for the longest field goal in NFL history with 64 yards, set in 2013 while playing for the Denver Broncos."
+        "question": "Who has the longest field goal?",
+        "A": "Matt Prater",
+        "B": "64 yards",
+        "C": "Neither A nor B",
+        "D": "Justin Tucker",
+        "answer": "A",
+        "funFact": "Matt Prater holds the record for the longest field goal in NFL history with 64 yards, set in 2013 while playing for the Denver Broncos."
     },
     {
-      "question": "Who has the most career points?",
-      "A": "Adam Vinatieri",
-      "B": "Over 2,600 points",
-      "C": "Both A and B",
-      "D": "Morten Andersen",
-      "answer": "C",
-      "funFact": "Adam Vinatieri has the most career points in NFL history with over 2,600 points. He's a kicker who played for 24 seasons."
+        "question": "Who has the most career points?",
+        "A": "Adam Vinatieri",
+        "B": "Over 2,600 points",
+        "C": "Neither A nor B",
+        "D": "Morten Andersen",
+        "answer": "A",
+        "funFact": "Adam Vinatieri has the most career points in NFL history with over 2,600 points. He's a kicker who played for 24 seasons."
     },
     {
-      "question": "Who has the most career completions?",
-      "A": "Tom Brady",
-      "B": "Drew Brees",
-      "C": "Peyton Manning",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "Tom Brady has the most career completions in NFL history with over 7,700 completions. He played for 23 seasons."
+        "question": "Who has the most career completions?",
+        "A": "Tom Brady",
+        "B": "Drew Brees",
+        "C": "Peyton Manning",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "Tom Brady has the most career completions in NFL history with over 7,700 completions. He played for 23 seasons."
     },
     {
-      "question": "Who has the longest touchdown run?",
-      "A": "Tony Dorsett",
-      "B": "99 yards",
-      "C": "Both A and B",
-      "D": "Barry Sanders",
-      "answer": "C",
-      "funFact": "Tony Dorsett has the longest touchdown run in NFL history with 99 yards, set in 1983 while playing for the Dallas Cowboys."
+        "question": "Who has the longest touchdown run?",
+        "A": "Tony Dorsett",
+        "B": "99 yards",
+        "C": "Neither A nor B",
+        "D": "Barry Sanders",
+        "answer": "A",
+        "funFact": "Tony Dorsett has the longest touchdown run in NFL history with 99 yards, set in 1983 while playing for the Dallas Cowboys."
     },
     {
-      "question": "Who has the longest touchdown pass?",
-      "A": "99 yards",
-      "B": "Multiple players",
-      "C": "Both A and B",
-      "D": "Tom Brady",
-      "answer": "C",
-      "funFact": "The longest touchdown pass in NFL history is 99 yards, achieved by multiple quarterbacks including Frank Filchock, George Izo, and others."
+        "question": "Who has the longest touchdown pass?",
+        "A": "99 yards",
+        "B": "Multiple players",
+        "C": "Neither A nor B",
+        "D": "Tom Brady",
+        "answer": "A",
+        "funFact": "The longest touchdown pass in NFL history is 99 yards, achieved by multiple quarterbacks including Frank Filchock, George Izo, and others."
     },
     {
-      "question": "Who has the most career games played?",
-      "A": "Adam Vinatieri",
-      "B": "365 games",
-      "C": "Both A and B",
-      "D": "Tom Brady",
-      "answer": "C",
-      "funFact": "Adam Vinatieri has played the most career games in NFL history with 365 games. He played for 24 seasons as a kicker."
+        "question": "Who has the most career games played?",
+        "A": "Adam Vinatieri",
+        "B": "365 games",
+        "C": "Neither A nor B",
+        "D": "Tom Brady",
+        "answer": "A",
+        "funFact": "Adam Vinatieri has played the most career games in NFL history with 365 games. He played for 24 seasons as a kicker."
     },
     {
-      "question": "Who has the most career Pro Bowl selections?",
-      "A": "Tom Brady",
-      "B": "Peyton Manning",
-      "C": "Jerry Rice",
-      "D": "All are close",
-      "answer": "D",
-      "funFact": "Several players have many Pro Bowl selections. Tom Brady, Peyton Manning, and Jerry Rice all have 14 or more Pro Bowl selections."
+        "question": "Who has the most career Pro Bowl selections?",
+        "A": "Tom Brady",
+        "B": "Peyton Manning",
+        "C": "Jerry Rice",
+        "D": "All are close",
+        "answer": "D",
+        "funFact": "Several players have many Pro Bowl selections. Tom Brady, Peyton Manning, and Jerry Rice all have 14 or more Pro Bowl selections."
     },
     {
-      "question": "Who is in the Hall of Fame?",
-      "A": "Greatest players and coaches",
-      "B": "Over 300 members",
-      "C": "Both A and B",
-      "D": "Only players",
-      "answer": "C",
-      "funFact": "The Pro Football Hall of Fame includes the greatest players, coaches, and contributors. There are over 300 members inducted since 1963."
+        "question": "Who is in the Hall of Fame?",
+        "A": "Greatest players and coaches",
+        "B": "Over 300 members",
+        "C": "Neither A nor B",
+        "D": "Only players",
+        "answer": "A",
+        "funFact": "The Pro Football Hall of Fame includes the greatest players, coaches, and contributors. There are over 300 members inducted since 1963."
     }
 ]
-

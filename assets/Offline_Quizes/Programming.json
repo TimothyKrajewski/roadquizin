@@ -49,8 +49,8 @@
         "A": "Programmingology",
         "B": "Computer science",
         "C": "Software engineering",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Programming is studied through computer science, software engineering, and computer programming courses."
     },
     {
@@ -94,8 +94,8 @@
         "A": "Programmingology",
         "B": "Computer programming",
         "C": "Software development",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Programming involves computer science, software development, and writing code to solve problems and create applications."
     },
     {
@@ -139,8 +139,8 @@
         "A": "Programmingology",
         "B": "Computer science",
         "C": "Code studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Programming is studied through computer science, software engineering, and programming courses."
     },
     {

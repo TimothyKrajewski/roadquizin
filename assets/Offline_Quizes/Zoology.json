@@ -153,13 +153,13 @@
         "funFact": "The bee hummingbird is the smallest bird, measuring only 2 inches long."
     },
     {
-        "question": "What is the only mammal that lays eggs?",
+        "question": "What is an example of a mammal that lays eggs?",
         "A": "Duck-billed Platypus",
-        "B": "Echidna",
-        "C": "Both A and B",
-        "D": "None",
-        "answer": "C",
-        "funFact": "Both the platypus and echidna are monotremes, the only egg-laying mammals."
+        "B": "Kangaroo",
+        "C": "Opossum",
+        "D": "Koala",
+        "answer": "A",
+        "funFact": "The duck-billed platypus is a monotreme, one of only two types of egg-laying mammals (the other is the echidna)."
     },
     {
         "question": "What is the largest fish?",

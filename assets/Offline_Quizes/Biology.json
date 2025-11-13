@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is the basic unit of life?",
-      "A": "Tissue",
-      "B": "Organ",
-      "C": "Cell",
-      "D": "Molecule",
-      "answer": "C",
-      "funFact": "The cell is the basic unit of life. All living organisms are composed of one or more cells, and cells are the smallest units that can carry out all life processes."
+        "question": "What is the basic unit of life?",
+        "A": "Tissue",
+        "B": "Organ",
+        "C": "Cell",
+        "D": "Molecule",
+        "answer": "C",
+        "funFact": "The cell is the basic unit of life. All living organisms are composed of one or more cells, and cells are the smallest units that can carry out all life processes."
     },
     {
-      "question": "What process do plants use to make their own food?",
-      "A": "Respiration",
-      "B": "Photosynthesis",
-      "C": "Digestion",
-      "D": "Fermentation",
-      "answer": "B",
-      "funFact": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce glucose (food) and oxygen."
+        "question": "What process do plants use to make their own food?",
+        "A": "Respiration",
+        "B": "Photosynthesis",
+        "C": "Digestion",
+        "D": "Fermentation",
+        "answer": "B",
+        "funFact": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce glucose (food) and oxygen."
     },
     {
-      "question": "How many chambers does a human heart have?",
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5",
-      "answer": "C",
-      "funFact": "The human heart has four chambers: two atria (upper chambers) and two ventricles (lower chambers), which work together to pump blood throughout the body."
+        "question": "How many chambers does a human heart have?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "C",
+        "funFact": "The human heart has four chambers: two atria (upper chambers) and two ventricles (lower chambers), which work together to pump blood throughout the body."
     },
     {
-      "question": "What is the powerhouse of the cell?",
-      "A": "Nucleus",
-      "B": "Mitochondria",
-      "C": "Ribosome",
-      "D": "Golgi apparatus",
-      "answer": "B",
-      "funFact": "Mitochondria are often called the 'powerhouse of the cell' because they produce ATP (adenosine triphosphate), the main energy currency of cells."
+        "question": "What is the powerhouse of the cell?",
+        "A": "Nucleus",
+        "B": "Mitochondria",
+        "C": "Ribosome",
+        "D": "Golgi apparatus",
+        "answer": "B",
+        "funFact": "Mitochondria are often called the 'powerhouse of the cell' because they produce ATP (adenosine triphosphate), the main energy currency of cells."
     },
     {
-      "question": "What is the largest organ in the human body?",
-      "A": "Liver",
-      "B": "Lungs",
-      "C": "Skin",
-      "D": "Intestines",
-      "answer": "C",
-      "funFact": "The skin is the largest organ in the human body, covering an average area of about 20 square feet and weighing approximately 8 pounds."
+        "question": "What is the largest organ in the human body?",
+        "A": "Liver",
+        "B": "Lungs",
+        "C": "Skin",
+        "D": "Intestines",
+        "answer": "C",
+        "funFact": "The skin is the largest organ in the human body, covering an average area of about 20 square feet and weighing approximately 8 pounds."
     },
     {
-      "question": "What molecule carries genetic information?",
-      "A": "RNA",
-      "B": "DNA",
-      "C": "Protein",
-      "D": "Lipid",
-      "answer": "B",
-      "funFact": "DNA (deoxyribonucleic acid) carries the genetic information that determines all the characteristics of living organisms."
+        "question": "What molecule carries genetic information?",
+        "A": "RNA",
+        "B": "DNA",
+        "C": "Protein",
+        "D": "Lipid",
+        "answer": "B",
+        "funFact": "DNA (deoxyribonucleic acid) carries the genetic information that determines all the characteristics of living organisms."
     },
     {
-      "question": "What is the process by which cells divide to create new cells?",
-      "A": "Meiosis",
-      "B": "Mitosis",
-      "C": "Both A and B",
-      "D": "Photosynthesis",
-      "answer": "C",
-      "funFact": "Both mitosis (cell division for growth and repair) and meiosis (cell division for reproduction) create new cells, but they serve different purposes."
+        "question": "What is the process by which cells divide to create new cells?",
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Neither A nor B",
+        "D": "Photosynthesis",
+        "answer": "A",
+        "funFact": "Both mitosis (cell division for growth and repair) and meiosis (cell division for reproduction) create new cells, but they serve different purposes."
     },
     {
-      "question": "What is the study of heredity and variation of inherited characteristics called?",
-      "A": "Ecology",
-      "B": "Genetics",
-      "C": "Anatomy",
-      "D": "Physiology",
-      "answer": "B",
-      "funFact": "Genetics is the study of heredity and how traits are passed from parents to offspring through genes."
+        "question": "What is the study of heredity and variation of inherited characteristics called?",
+        "A": "Ecology",
+        "B": "Genetics",
+        "C": "Anatomy",
+        "D": "Physiology",
+        "answer": "B",
+        "funFact": "Genetics is the study of heredity and how traits are passed from parents to offspring through genes."
     },
     {
-      "question": "What type of blood do humans have?",
-      "A": "Cold-blooded",
-      "B": "Warm-blooded",
-      "C": "Both",
-      "D": "Neither",
-      "answer": "B",
-      "funFact": "Humans are warm-blooded (endothermic), meaning we maintain a constant internal body temperature regardless of the external environment."
+        "question": "What type of blood do humans have?",
+        "A": "Cold-blooded",
+        "B": "Warm-blooded",
+        "C": "Both",
+        "D": "Neither",
+        "answer": "B",
+        "funFact": "Humans are warm-blooded (endothermic), meaning we maintain a constant internal body temperature regardless of the external environment."
     },
     {
-      "question": "What is the name of the process where organisms evolve over time?",
-      "A": "Natural selection",
-      "B": "Evolution",
-      "C": "Adaptation",
-      "D": "Mutation",
-      "answer": "B",
-      "funFact": "Evolution is the process by which species change over time through natural selection, genetic drift, and other mechanisms, leading to the diversity of life on Earth."
+        "question": "What is the name of the process where organisms evolve over time?",
+        "A": "Natural selection",
+        "B": "Evolution",
+        "C": "Adaptation",
+        "D": "Mutation",
+        "answer": "B",
+        "funFact": "Evolution is the process by which species change over time through natural selection, genetic drift, and other mechanisms, leading to the diversity of life on Earth."
     }
 ]
-

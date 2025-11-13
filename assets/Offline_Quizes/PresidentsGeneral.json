@@ -1,228 +1,227 @@
 [
     {
-      "question": "Who was the first President of the United States?",
-      "A": "John Adams",
-      "B": "Thomas Jefferson",
-      "C": "George Washington",
-      "D": "Benjamin Franklin",
-      "answer": "C",
-      "funFact": "George Washington was the first President of the United States, serving from 1789 to 1797. He's known as the 'Father of His Country' and set many precedents for the office."
+        "question": "Who was the first President of the United States?",
+        "A": "John Adams",
+        "B": "Thomas Jefferson",
+        "C": "George Washington",
+        "D": "Benjamin Franklin",
+        "answer": "C",
+        "funFact": "George Washington was the first President of the United States, serving from 1789 to 1797. He's known as the 'Father of His Country' and set many precedents for the office."
     },
     {
-      "question": "Who was the President during the Civil War?",
-      "A": "Andrew Johnson",
-      "B": "Abraham Lincoln",
-      "C": "Ulysses S. Grant",
-      "D": "James Buchanan",
-      "answer": "B",
-      "funFact": "Abraham Lincoln was President during the Civil War (1861-1865) and issued the Emancipation Proclamation, which declared slaves in Confederate states free."
+        "question": "Who was the President during the Civil War?",
+        "A": "Andrew Johnson",
+        "B": "Abraham Lincoln",
+        "C": "Ulysses S. Grant",
+        "D": "James Buchanan",
+        "answer": "B",
+        "funFact": "Abraham Lincoln was President during the Civil War (1861-1865) and issued the Emancipation Proclamation, which declared slaves in Confederate states free."
     },
     {
-      "question": "Who was the President during World War II?",
-      "A": "Herbert Hoover",
-      "B": "Franklin D. Roosevelt",
-      "C": "Harry S. Truman",
-      "D": "Both B and C",
-      "answer": "D",
-      "funFact": "Franklin D. Roosevelt was President for most of World War II (1933-1945), and Harry S. Truman succeeded him in 1945 and made the decision to drop atomic bombs on Japan."
+        "question": "Who was the President during World War II?",
+        "A": "Herbert Hoover",
+        "B": "Franklin D. Roosevelt",
+        "C": "Harry S. Truman",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Franklin D. Roosevelt was President for most of World War II (1933-1945), and Harry S. Truman succeeded him in 1945 and made the decision to drop atomic bombs on Japan."
     },
     {
-      "question": "Who was the youngest person to become President?",
-      "A": "Bill Clinton",
-      "B": "John F. Kennedy",
-      "C": "Theodore Roosevelt",
-      "D": "Barack Obama",
-      "answer": "C",
-      "funFact": "Theodore Roosevelt became President at age 42 after William McKinley's assassination in 1901. John F. Kennedy was the youngest elected President at age 43."
+        "question": "Who was the youngest person to become President?",
+        "A": "Bill Clinton",
+        "B": "John F. Kennedy",
+        "C": "Theodore Roosevelt",
+        "D": "Barack Obama",
+        "answer": "C",
+        "funFact": "Theodore Roosevelt became President at age 42 after William McKinley's assassination in 1901. John F. Kennedy was the youngest elected President at age 43."
     },
     {
-      "question": "Which President is on the $1 bill?",
-      "A": "Thomas Jefferson",
-      "B": "Abraham Lincoln",
-      "C": "George Washington",
-      "D": "Andrew Jackson",
-      "answer": "C",
-      "funFact": "George Washington appears on the $1 bill. He's also on the quarter and is the only person to appear on a currently circulating U.S. coin and bill."
+        "question": "Which President is on the $1 bill?",
+        "A": "Thomas Jefferson",
+        "B": "Abraham Lincoln",
+        "C": "George Washington",
+        "D": "Andrew Jackson",
+        "answer": "C",
+        "funFact": "George Washington appears on the $1 bill. He's also on the quarter and is the only person to appear on a currently circulating U.S. coin and bill."
     },
     {
-      "question": "Who was the only President to serve more than two terms?",
-      "A": "Theodore Roosevelt",
-      "B": "Franklin D. Roosevelt",
-      "C": "Ulysses S. Grant",
-      "D": "Dwight D. Eisenhower",
-      "answer": "B",
-      "funFact": "Franklin D. Roosevelt was elected to four terms (1933-1945), the only President to serve more than two terms. The 22nd Amendment now limits Presidents to two terms."
+        "question": "Who was the only President to serve more than two terms?",
+        "A": "Theodore Roosevelt",
+        "B": "Franklin D. Roosevelt",
+        "C": "Ulysses S. Grant",
+        "D": "Dwight D. Eisenhower",
+        "answer": "B",
+        "funFact": "Franklin D. Roosevelt was elected to four terms (1933-1945), the only President to serve more than two terms. The 22nd Amendment now limits Presidents to two terms."
     },
     {
-      "question": "Who was the President when the Berlin Wall fell?",
-      "A": "Ronald Reagan",
-      "B": "George H.W. Bush",
-      "C": "Jimmy Carter",
-      "D": "Bill Clinton",
-      "answer": "B",
-      "funFact": "George H.W. Bush was President when the Berlin Wall fell in 1989, marking the end of the Cold War and the reunification of Germany."
+        "question": "Who was the President when the Berlin Wall fell?",
+        "A": "Ronald Reagan",
+        "B": "George H.W. Bush",
+        "C": "Jimmy Carter",
+        "D": "Bill Clinton",
+        "answer": "B",
+        "funFact": "George H.W. Bush was President when the Berlin Wall fell in 1989, marking the end of the Cold War and the reunification of Germany."
     },
     {
-      "question": "Who was the first African American President?",
-      "A": "Barack Obama",
-      "B": "Colin Powell",
-      "C": "Jesse Jackson",
-      "D": "Kamala Harris",
-      "answer": "A",
-      "funFact": "Barack Obama was the first African American President of the United States, serving from 2009 to 2017. He was also the first President born in Hawaii."
+        "question": "Who was the first African American President?",
+        "A": "Barack Obama",
+        "B": "Colin Powell",
+        "C": "Jesse Jackson",
+        "D": "Kamala Harris",
+        "answer": "A",
+        "funFact": "Barack Obama was the first African American President of the United States, serving from 2009 to 2017. He was also the first President born in Hawaii."
     },
     {
-      "question": "Which President is known for the Louisiana Purchase?",
-      "A": "George Washington",
-      "B": "John Adams",
-      "C": "Thomas Jefferson",
-      "D": "James Madison",
-      "answer": "C",
-      "funFact": "Thomas Jefferson orchestrated the Louisiana Purchase in 1803, doubling the size of the United States by acquiring 827,000 square miles from France for $15 million."
+        "question": "Which President is known for the Louisiana Purchase?",
+        "A": "George Washington",
+        "B": "John Adams",
+        "C": "Thomas Jefferson",
+        "D": "James Madison",
+        "answer": "C",
+        "funFact": "Thomas Jefferson orchestrated the Louisiana Purchase in 1803, doubling the size of the United States by acquiring 827,000 square miles from France for $15 million."
     },
     {
-      "question": "Who was the President during the Great Depression?",
-      "A": "Herbert Hoover",
-      "B": "Franklin D. Roosevelt",
-      "C": "Both A and B",
-      "D": "Calvin Coolidge",
-      "answer": "C",
-      "funFact": "Herbert Hoover was President when the Great Depression began in 1929, and Franklin D. Roosevelt succeeded him in 1933 and implemented the New Deal to address the crisis."
+        "question": "Who was the President during the Great Depression?",
+        "A": "Herbert Hoover",
+        "B": "Franklin D. Roosevelt",
+        "C": "Neither A nor B",
+        "D": "Calvin Coolidge",
+        "answer": "A",
+        "funFact": "Herbert Hoover was President when the Great Depression began in 1929, and Franklin D. Roosevelt succeeded him in 1933 and implemented the New Deal to address the crisis."
     },
     {
-      "question": "Who was the President during the Cuban Missile Crisis?",
-      "A": "Dwight D. Eisenhower",
-      "B": "John F. Kennedy",
-      "C": "Lyndon B. Johnson",
-      "D": "Richard Nixon",
-      "answer": "B",
-      "funFact": "John F. Kennedy was President during the Cuban Missile Crisis in 1962, a 13-day confrontation that brought the world to the brink of nuclear war."
+        "question": "Who was the President during the Cuban Missile Crisis?",
+        "A": "Dwight D. Eisenhower",
+        "B": "John F. Kennedy",
+        "C": "Lyndon B. Johnson",
+        "D": "Richard Nixon",
+        "answer": "B",
+        "funFact": "John F. Kennedy was President during the Cuban Missile Crisis in 1962, a 13-day confrontation that brought the world to the brink of nuclear war."
     },
     {
-      "question": "Who was the President when the United States entered World War I?",
-      "A": "Theodore Roosevelt",
-      "B": "William Howard Taft",
-      "C": "Woodrow Wilson",
-      "D": "Warren G. Harding",
-      "answer": "C",
-      "funFact": "Woodrow Wilson was President when the United States entered World War I in 1917. He later proposed the League of Nations as part of his Fourteen Points."
+        "question": "Who was the President when the United States entered World War I?",
+        "A": "Theodore Roosevelt",
+        "B": "William Howard Taft",
+        "C": "Woodrow Wilson",
+        "D": "Warren G. Harding",
+        "answer": "C",
+        "funFact": "Woodrow Wilson was President when the United States entered World War I in 1917. He later proposed the League of Nations as part of his Fourteen Points."
     },
     {
-      "question": "Who was the President when the Panama Canal was completed?",
-      "A": "Theodore Roosevelt",
-      "B": "William Howard Taft",
-      "C": "Woodrow Wilson",
-      "D": "Calvin Coolidge",
-      "answer": "C",
-      "funFact": "The Panama Canal was completed in 1914 during Woodrow Wilson's presidency, though construction began under Theodore Roosevelt, who initiated the project."
+        "question": "Who was the President when the Panama Canal was completed?",
+        "A": "Theodore Roosevelt",
+        "B": "William Howard Taft",
+        "C": "Woodrow Wilson",
+        "D": "Calvin Coolidge",
+        "answer": "C",
+        "funFact": "The Panama Canal was completed in 1914 during Woodrow Wilson's presidency, though construction began under Theodore Roosevelt, who initiated the project."
     },
     {
-      "question": "Who was the President when the first man walked on the Moon?",
-      "A": "John F. Kennedy",
-      "B": "Lyndon B. Johnson",
-      "C": "Richard Nixon",
-      "D": "Gerald Ford",
-      "answer": "C",
-      "funFact": "Richard Nixon was President when Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969. John F. Kennedy had set the goal to land on the Moon by the end of the 1960s."
+        "question": "Who was the President when the first man walked on the Moon?",
+        "A": "John F. Kennedy",
+        "B": "Lyndon B. Johnson",
+        "C": "Richard Nixon",
+        "D": "Gerald Ford",
+        "answer": "C",
+        "funFact": "Richard Nixon was President when Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969. John F. Kennedy had set the goal to land on the Moon by the end of the 1960s."
     },
     {
-      "question": "Who was the President when the Civil Rights Act of 1964 was signed?",
-      "A": "John F. Kennedy",
-      "B": "Lyndon B. Johnson",
-      "C": "Richard Nixon",
-      "D": "Dwight D. Eisenhower",
-      "answer": "B",
-      "funFact": "Lyndon B. Johnson signed the Civil Rights Act of 1964, one of the most significant pieces of civil rights legislation in American history, outlawing discrimination based on race, color, religion, sex, or national origin."
+        "question": "Who was the President when the Civil Rights Act of 1964 was signed?",
+        "A": "John F. Kennedy",
+        "B": "Lyndon B. Johnson",
+        "C": "Richard Nixon",
+        "D": "Dwight D. Eisenhower",
+        "answer": "B",
+        "funFact": "Lyndon B. Johnson signed the Civil Rights Act of 1964, one of the most significant pieces of civil rights legislation in American history, outlawing discrimination based on race, color, religion, sex, or national origin."
     },
     {
-      "question": "Who was the President when the Vietnam War ended?",
-      "A": "Lyndon B. Johnson",
-      "B": "Richard Nixon",
-      "C": "Gerald Ford",
-      "D": "Jimmy Carter",
-      "answer": "C",
-      "funFact": "Gerald Ford was President when the Vietnam War officially ended in 1975, though the last U.S. troops had been withdrawn in 1973 during Richard Nixon's presidency."
+        "question": "Who was the President when the Vietnam War ended?",
+        "A": "Lyndon B. Johnson",
+        "B": "Richard Nixon",
+        "C": "Gerald Ford",
+        "D": "Jimmy Carter",
+        "answer": "C",
+        "funFact": "Gerald Ford was President when the Vietnam War officially ended in 1975, though the last U.S. troops had been withdrawn in 1973 during Richard Nixon's presidency."
     },
     {
-      "question": "Who was the President when the Watergate scandal occurred?",
-      "A": "Lyndon B. Johnson",
-      "B": "Richard Nixon",
-      "C": "Gerald Ford",
-      "D": "Jimmy Carter",
-      "answer": "B",
-      "funFact": "Richard Nixon was President during the Watergate scandal, which led to his resignation in 1974. It remains one of the biggest political scandals in U.S. history."
+        "question": "Who was the President when the Watergate scandal occurred?",
+        "A": "Lyndon B. Johnson",
+        "B": "Richard Nixon",
+        "C": "Gerald Ford",
+        "D": "Jimmy Carter",
+        "answer": "B",
+        "funFact": "Richard Nixon was President during the Watergate scandal, which led to his resignation in 1974. It remains one of the biggest political scandals in U.S. history."
     },
     {
-      "question": "Who was the President when the 9/11 attacks occurred?",
-      "A": "Bill Clinton",
-      "B": "George W. Bush",
-      "C": "Barack Obama",
-      "D": "George H.W. Bush",
-      "answer": "B",
-      "funFact": "George W. Bush was President when the 9/11 attacks occurred on September 11, 2001. This event led to the War on Terror and the invasion of Afghanistan."
+        "question": "Who was the President when the 9/11 attacks occurred?",
+        "A": "Bill Clinton",
+        "B": "George W. Bush",
+        "C": "Barack Obama",
+        "D": "George H.W. Bush",
+        "answer": "B",
+        "funFact": "George W. Bush was President when the 9/11 attacks occurred on September 11, 2001. This event led to the War on Terror and the invasion of Afghanistan."
     },
     {
-      "question": "Who was the President when the Cold War ended?",
-      "A": "Ronald Reagan",
-      "B": "George H.W. Bush",
-      "C": "Bill Clinton",
-      "D": "Jimmy Carter",
-      "answer": "B",
-      "funFact": "George H.W. Bush was President when the Cold War effectively ended with the fall of the Berlin Wall in 1989 and the dissolution of the Soviet Union in 1991."
+        "question": "Who was the President when the Cold War ended?",
+        "A": "Ronald Reagan",
+        "B": "George H.W. Bush",
+        "C": "Bill Clinton",
+        "D": "Jimmy Carter",
+        "answer": "B",
+        "funFact": "George H.W. Bush was President when the Cold War effectively ended with the fall of the Berlin Wall in 1989 and the dissolution of the Soviet Union in 1991."
     },
     {
-      "question": "Who was the President when the first transcontinental railroad was completed?",
-      "A": "Abraham Lincoln",
-      "B": "Andrew Johnson",
-      "C": "Ulysses S. Grant",
-      "D": "Rutherford B. Hayes",
-      "answer": "C",
-      "funFact": "Ulysses S. Grant was President when the first transcontinental railroad was completed in 1869, connecting the East and West coasts of the United States."
+        "question": "Who was the President when the first transcontinental railroad was completed?",
+        "A": "Abraham Lincoln",
+        "B": "Andrew Johnson",
+        "C": "Ulysses S. Grant",
+        "D": "Rutherford B. Hayes",
+        "answer": "C",
+        "funFact": "Ulysses S. Grant was President when the first transcontinental railroad was completed in 1869, connecting the East and West coasts of the United States."
     },
     {
-      "question": "Who was the President when the Statue of Liberty was dedicated?",
-      "A": "Chester A. Arthur",
-      "B": "Grover Cleveland",
-      "C": "Benjamin Harrison",
-      "D": "William McKinley",
-      "answer": "B",
-      "funFact": "Grover Cleveland was President when the Statue of Liberty was dedicated in 1886. The statue was a gift from France to celebrate the friendship between the two nations."
+        "question": "Who was the President when the Statue of Liberty was dedicated?",
+        "A": "Chester A. Arthur",
+        "B": "Grover Cleveland",
+        "C": "Benjamin Harrison",
+        "D": "William McKinley",
+        "answer": "B",
+        "funFact": "Grover Cleveland was President when the Statue of Liberty was dedicated in 1886. The statue was a gift from France to celebrate the friendship between the two nations."
     },
     {
-      "question": "Who was the President when the first atomic bomb was dropped?",
-      "A": "Franklin D. Roosevelt",
-      "B": "Harry S. Truman",
-      "C": "Dwight D. Eisenhower",
-      "D": "Herbert Hoover",
-      "answer": "B",
-      "funFact": "Harry S. Truman was President when the first atomic bomb was dropped on Hiroshima, Japan, on August 6, 1945. He made the decision to use atomic weapons to end World War II."
+        "question": "Who was the President when the first atomic bomb was dropped?",
+        "A": "Franklin D. Roosevelt",
+        "B": "Harry S. Truman",
+        "C": "Dwight D. Eisenhower",
+        "D": "Herbert Hoover",
+        "answer": "B",
+        "funFact": "Harry S. Truman was President when the first atomic bomb was dropped on Hiroshima, Japan, on August 6, 1945. He made the decision to use atomic weapons to end World War II."
     },
     {
-      "question": "Who was the President when the first successful airplane flight occurred?",
-      "A": "Theodore Roosevelt",
-      "B": "William Howard Taft",
-      "C": "Woodrow Wilson",
-      "D": "Warren G. Harding",
-      "answer": "A",
-      "funFact": "Theodore Roosevelt was President when the Wright Brothers made the first successful powered airplane flight at Kitty Hawk, North Carolina, on December 17, 1903."
+        "question": "Who was the President when the first successful airplane flight occurred?",
+        "A": "Theodore Roosevelt",
+        "B": "William Howard Taft",
+        "C": "Woodrow Wilson",
+        "D": "Warren G. Harding",
+        "answer": "A",
+        "funFact": "Theodore Roosevelt was President when the Wright Brothers made the first successful powered airplane flight at Kitty Hawk, North Carolina, on December 17, 1903."
     },
     {
-      "question": "Who was the President when the first transatlantic telephone call was made?",
-      "A": "Calvin Coolidge",
-      "B": "Herbert Hoover",
-      "C": "Franklin D. Roosevelt",
-      "D": "Warren G. Harding",
-      "answer": "A",
-      "funFact": "Calvin Coolidge was President when the first transatlantic telephone call was made in 1927, connecting New York and London."
+        "question": "Who was the President when the first transatlantic telephone call was made?",
+        "A": "Calvin Coolidge",
+        "B": "Herbert Hoover",
+        "C": "Franklin D. Roosevelt",
+        "D": "Warren G. Harding",
+        "answer": "A",
+        "funFact": "Calvin Coolidge was President when the first transatlantic telephone call was made in 1927, connecting New York and London."
     },
     {
-      "question": "Who was the President when the first television broadcast occurred?",
-      "A": "Herbert Hoover",
-      "B": "Franklin D. Roosevelt",
-      "C": "Harry S. Truman",
-      "D": "Calvin Coolidge",
-      "answer": "A",
-      "funFact": "Herbert Hoover was President when the first experimental television broadcast occurred in 1928. Regular television broadcasting began in the 1930s."
+        "question": "Who was the President when the first television broadcast occurred?",
+        "A": "Herbert Hoover",
+        "B": "Franklin D. Roosevelt",
+        "C": "Harry S. Truman",
+        "D": "Calvin Coolidge",
+        "answer": "A",
+        "funFact": "Herbert Hoover was President when the first experimental television broadcast occurred in 1928. Regular television broadcasting began in the 1930s."
     }
 ]
-

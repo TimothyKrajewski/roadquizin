@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is the largest sea in the world?",
-      "A": "Mediterranean Sea",
-      "B": "Caribbean Sea",
-      "C": "South China Sea",
-      "D": "Philippine Sea",
-      "answer": "D",
-      "funFact": "The Philippine Sea is the largest sea in the world, covering approximately 2 million square miles in the western Pacific Ocean."
+        "question": "What is the largest sea in the world?",
+        "A": "Mediterranean Sea",
+        "B": "Caribbean Sea",
+        "C": "South China Sea",
+        "D": "Philippine Sea",
+        "answer": "D",
+        "funFact": "The Philippine Sea is the largest sea in the world, covering approximately 2 million square miles in the western Pacific Ocean."
     },
     {
-      "question": "What sea is located between Europe and Africa?",
-      "A": "Red Sea",
-      "B": "Mediterranean Sea",
-      "C": "Black Sea",
-      "D": "Aegean Sea",
-      "answer": "B",
-      "funFact": "The Mediterranean Sea is located between Europe and Africa, connecting to the Atlantic Ocean through the Strait of Gibraltar. It's one of the most historically important seas."
+        "question": "What sea is located between Europe and Africa?",
+        "A": "Red Sea",
+        "B": "Mediterranean Sea",
+        "C": "Black Sea",
+        "D": "Aegean Sea",
+        "answer": "B",
+        "funFact": "The Mediterranean Sea is located between Europe and Africa, connecting to the Atlantic Ocean through the Strait of Gibraltar. It's one of the most historically important seas."
     },
     {
-      "question": "What sea is known for its high salt content?",
-      "A": "Mediterranean Sea",
-      "B": "Dead Sea",
-      "C": "Red Sea",
-      "D": "Black Sea",
-      "answer": "B",
-      "funFact": "The Dead Sea has the highest salt content of any body of water on Earth, about 10 times saltier than the ocean, making it nearly impossible to sink."
+        "question": "What sea is known for its high salt content?",
+        "A": "Mediterranean Sea",
+        "B": "Dead Sea",
+        "C": "Red Sea",
+        "D": "Black Sea",
+        "answer": "B",
+        "funFact": "The Dead Sea has the highest salt content of any body of water on Earth, about 10 times saltier than the ocean, making it nearly impossible to sink."
     },
     {
-      "question": "What sea is located between Saudi Arabia and Africa?",
-      "A": "Mediterranean Sea",
-      "B": "Red Sea",
-      "C": "Black Sea",
-      "D": "Aegean Sea",
-      "answer": "B",
-      "funFact": "The Red Sea is located between Saudi Arabia and Africa, connecting to the Mediterranean Sea via the Suez Canal. It's known for its coral reefs and marine life."
+        "question": "What sea is located between Saudi Arabia and Africa?",
+        "A": "Mediterranean Sea",
+        "B": "Red Sea",
+        "C": "Black Sea",
+        "D": "Aegean Sea",
+        "answer": "B",
+        "funFact": "The Red Sea is located between Saudi Arabia and Africa, connecting to the Mediterranean Sea via the Suez Canal. It's known for its coral reefs and marine life."
     },
     {
-      "question": "What sea is located between Asia and Europe?",
-      "A": "Mediterranean Sea",
-      "B": "Black Sea",
-      "C": "Caspian Sea",
-      "D": "Aral Sea",
-      "answer": "B",
-      "funFact": "The Black Sea is located between Asia and Europe, bordered by six countries. Despite its name, it's actually a deep blue color."
+        "question": "What sea is located between Asia and Europe?",
+        "A": "Mediterranean Sea",
+        "B": "Black Sea",
+        "C": "Caspian Sea",
+        "D": "Aral Sea",
+        "answer": "B",
+        "funFact": "The Black Sea is located between Asia and Europe, bordered by six countries. Despite its name, it's actually a deep blue color."
     },
     {
-      "question": "What is the saltiest sea?",
-      "A": "Mediterranean Sea",
-      "B": "Red Sea",
-      "C": "Dead Sea",
-      "D": "All of the above",
-      "answer": "C",
-      "funFact": "The Dead Sea is the saltiest body of water, though it's technically a lake. The Red Sea is the saltiest actual sea, about 40% saltier than the average ocean."
+        "question": "What is the saltiest sea?",
+        "A": "Mediterranean Sea",
+        "B": "Red Sea",
+        "C": "Dead Sea",
+        "D": "None of the above",
+        "answer": "C",
+        "funFact": "The Dead Sea is the saltiest body of water, though it's technically a lake. The Red Sea is the saltiest actual sea, about 40% saltier than the average ocean."
     },
     {
-      "question": "What sea is located in the Caribbean?",
-      "A": "Caribbean Sea",
-      "B": "Gulf of Mexico",
-      "C": "Both A and B",
-      "D": "Mediterranean Sea",
-      "answer": "A",
-      "funFact": "The Caribbean Sea is located in the Caribbean region, bordered by Central America, South America, and the Caribbean islands. It's known for its warm waters and coral reefs."
+        "question": "What sea is located in the Caribbean?",
+        "A": "Caribbean Sea",
+        "B": "Gulf of Mexico",
+        "C": "Neither A nor B",
+        "D": "Mediterranean Sea",
+        "answer": "A",
+        "funFact": "The Caribbean Sea is located in the Caribbean region, bordered by Central America, South America, and the Caribbean islands. It's known for its warm waters and coral reefs."
     },
     {
-      "question": "What sea is actually a lake?",
-      "A": "Black Sea",
-      "B": "Caspian Sea",
-      "C": "Red Sea",
-      "D": "Mediterranean Sea",
-      "answer": "B",
-      "funFact": "The Caspian Sea is actually the world's largest lake, not a sea. It's called a sea because of its size and saltwater content, but it's landlocked."
+        "question": "What sea is actually a lake?",
+        "A": "Black Sea",
+        "B": "Caspian Sea",
+        "C": "Red Sea",
+        "D": "Mediterranean Sea",
+        "answer": "B",
+        "funFact": "The Caspian Sea is actually the world's largest lake, not a sea. It's called a sea because of its size and saltwater content, but it's landlocked."
     },
     {
-      "question": "What sea is located between Greece and Turkey?",
-      "A": "Mediterranean Sea",
-      "B": "Aegean Sea",
-      "C": "Black Sea",
-      "D": "Adriatic Sea",
-      "answer": "B",
-      "funFact": "The Aegean Sea is located between Greece and Turkey, dotted with numerous islands. It's part of the Mediterranean Sea and has been important throughout history."
+        "question": "What sea is located between Greece and Turkey?",
+        "A": "Mediterranean Sea",
+        "B": "Aegean Sea",
+        "C": "Black Sea",
+        "D": "Adriatic Sea",
+        "answer": "B",
+        "funFact": "The Aegean Sea is located between Greece and Turkey, dotted with numerous islands. It's part of the Mediterranean Sea and has been important throughout history."
     },
     {
-      "question": "What sea is known for the Suez Canal?",
-      "A": "Mediterranean Sea",
-      "B": "Red Sea",
-      "C": "Black Sea",
-      "D": "Aegean Sea",
-      "answer": "B",
-      "funFact": "The Red Sea is connected to the Mediterranean Sea via the Suez Canal, one of the world's most important shipping routes, opened in 1869."
+        "question": "What sea is known for the Suez Canal?",
+        "A": "Mediterranean Sea",
+        "B": "Red Sea",
+        "C": "Black Sea",
+        "D": "Aegean Sea",
+        "answer": "B",
+        "funFact": "The Red Sea is connected to the Mediterranean Sea via the Suez Canal, one of the world's most important shipping routes, opened in 1869."
     }
 ]
-

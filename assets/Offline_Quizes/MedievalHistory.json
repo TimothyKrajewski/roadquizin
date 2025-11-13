@@ -1,210 +1,209 @@
 [
     {
-      "question": "What was the name of the period after the fall of the Roman Empire?",
-      "A": "Renaissance",
-      "B": "Middle Ages",
-      "C": "Enlightenment",
-      "D": "Industrial Revolution",
-      "answer": "B",
-      "funFact": "The Middle Ages (also called the Medieval Period) lasted from about 500 to 1500 AD. It began after the fall of the Western Roman Empire."
+        "question": "What was the name of the period after the fall of the Roman Empire?",
+        "A": "Renaissance",
+        "B": "Middle Ages",
+        "C": "Enlightenment",
+        "D": "Industrial Revolution",
+        "answer": "B",
+        "funFact": "The Middle Ages (also called the Medieval Period) lasted from about 500 to 1500 AD. It began after the fall of the Western Roman Empire."
     },
     {
-      "question": "What was the name of the Frankish king who was crowned Holy Roman Emperor?",
-      "A": "Charlemagne",
-      "B": "Charles Martel",
-      "C": "Pepin the Short",
-      "D": "Louis the Pious",
-      "answer": "A",
-      "funFact": "Charlemagne (Charles the Great) was crowned Holy Roman Emperor in 800 AD by Pope Leo III. He united much of Western Europe and promoted learning and culture."
+        "question": "What was the name of the Frankish king who was crowned Holy Roman Emperor?",
+        "A": "Charlemagne",
+        "B": "Charles Martel",
+        "C": "Pepin the Short",
+        "D": "Louis the Pious",
+        "answer": "A",
+        "funFact": "Charlemagne (Charles the Great) was crowned Holy Roman Emperor in 800 AD by Pope Leo III. He united much of Western Europe and promoted learning and culture."
     },
     {
-      "question": "What was the name of the series of religious wars to reclaim the Holy Land?",
-      "A": "Hundred Years' War",
-      "B": "Crusades",
-      "C": "Reconquista",
-      "D": "Thirty Years' War",
-      "answer": "B",
-      "funFact": "The Crusades were a series of religious wars from 1096 to 1291 where European Christians tried to reclaim the Holy Land from Muslim control."
+        "question": "What was the name of the series of religious wars to reclaim the Holy Land?",
+        "A": "Hundred Years' War",
+        "B": "Crusades",
+        "C": "Reconquista",
+        "D": "Thirty Years' War",
+        "answer": "B",
+        "funFact": "The Crusades were a series of religious wars from 1096 to 1291 where European Christians tried to reclaim the Holy Land from Muslim control."
     },
     {
-      "question": "What was the name of the plague that killed millions in the 14th century?",
-      "A": "Black Death",
-      "B": "Spanish Flu",
-      "C": "Smallpox",
-      "D": "Cholera",
-      "answer": "A",
-      "funFact": "The Black Death (bubonic plague) killed an estimated 75-200 million people in Europe and Asia in the 14th century, reducing Europe's population by 30-60%."
+        "question": "What was the name of the plague that killed millions in the 14th century?",
+        "A": "Black Death",
+        "B": "Spanish Flu",
+        "C": "Smallpox",
+        "D": "Cholera",
+        "answer": "A",
+        "funFact": "The Black Death (bubonic plague) killed an estimated 75-200 million people in Europe and Asia in the 14th century, reducing Europe's population by 30-60%."
     },
     {
-      "question": "What was the name of the English king who signed the Magna Carta?",
-      "A": "Richard the Lionheart",
-      "B": "John",
-      "C": "Henry II",
-      "D": "Edward I",
-      "answer": "B",
-      "funFact": "King John of England signed the Magna Carta in 1215, limiting the power of the monarchy and establishing the principle that everyone, including the king, is subject to the law."
+        "question": "What was the name of the English king who signed the Magna Carta?",
+        "A": "Richard the Lionheart",
+        "B": "John",
+        "C": "Henry II",
+        "D": "Edward I",
+        "answer": "B",
+        "funFact": "King John of England signed the Magna Carta in 1215, limiting the power of the monarchy and establishing the principle that everyone, including the king, is subject to the law."
     },
     {
-      "question": "What was the name of the Mongol leader who conquered much of Asia and Europe?",
-      "A": "Genghis Khan",
-      "B": "Kublai Khan",
-      "C": "Attila the Hun",
-      "D": "Tamerlane",
-      "answer": "A",
-      "funFact": "Genghis Khan (c. 1162-1227) founded the Mongol Empire, which became the largest contiguous empire in history, stretching from Eastern Europe to the Sea of Japan."
+        "question": "What was the name of the Mongol leader who conquered much of Asia and Europe?",
+        "A": "Genghis Khan",
+        "B": "Kublai Khan",
+        "C": "Attila the Hun",
+        "D": "Tamerlane",
+        "answer": "A",
+        "funFact": "Genghis Khan (c. 1162-1227) founded the Mongol Empire, which became the largest contiguous empire in history, stretching from Eastern Europe to the Sea of Japan."
     },
     {
-      "question": "What was the name of the war between England and France that lasted over 100 years?",
-      "A": "Hundred Years' War",
-      "B": "War of the Roses",
-      "C": "Thirty Years' War",
-      "D": "Seven Years' War",
-      "answer": "A",
-      "funFact": "The Hundred Years' War (1337-1453) was a series of conflicts between England and France over the French throne. It actually lasted 116 years."
+        "question": "What was the name of the war between England and France that lasted over 100 years?",
+        "A": "Hundred Years' War",
+        "B": "War of the Roses",
+        "C": "Thirty Years' War",
+        "D": "Seven Years' War",
+        "answer": "A",
+        "funFact": "The Hundred Years' War (1337-1453) was a series of conflicts between England and France over the French throne. It actually lasted 116 years."
     },
     {
-      "question": "What was the name of the French peasant girl who led armies during the Hundred Years' War?",
-      "A": "Eleanor of Aquitaine",
-      "B": "Joan of Arc",
-      "C": "Isabella of France",
-      "D": "Catherine de Medici",
-      "answer": "B",
-      "funFact": "Joan of Arc (1412-1431) was a French peasant girl who claimed to receive visions from God. She led French armies to victory but was later burned at the stake for heresy."
+        "question": "What was the name of the French peasant girl who led armies during the Hundred Years' War?",
+        "A": "Eleanor of Aquitaine",
+        "B": "Joan of Arc",
+        "C": "Isabella of France",
+        "D": "Catherine de Medici",
+        "answer": "B",
+        "funFact": "Joan of Arc (1412-1431) was a French peasant girl who claimed to receive visions from God. She led French armies to victory but was later burned at the stake for heresy."
     },
     {
-      "question": "What was the name of the English civil war between two royal houses?",
-      "A": "Hundred Years' War",
-      "B": "War of the Roses",
-      "C": "English Civil War",
-      "D": "Glorious Revolution",
-      "answer": "B",
-      "funFact": "The War of the Roses (1455-1487) was a civil war between the House of Lancaster (red rose) and the House of York (white rose) for the English throne."
+        "question": "What was the name of the English civil war between two royal houses?",
+        "A": "Hundred Years' War",
+        "B": "War of the Roses",
+        "C": "English Civil War",
+        "D": "Glorious Revolution",
+        "answer": "B",
+        "funFact": "The War of the Roses (1455-1487) was a civil war between the House of Lancaster (red rose) and the House of York (white rose) for the English throne."
     },
     {
-      "question": "What was the name of the Byzantine emperor who codified Roman law?",
-      "A": "Justinian I",
-      "B": "Constantine the Great",
-      "C": "Theodosius I",
-      "D": "Heraclius",
-      "answer": "A",
-      "funFact": "Justinian I (527-565) was a Byzantine emperor who codified Roman law in the Corpus Juris Civilis. This legal code influenced law throughout Europe for centuries."
+        "question": "What was the name of the Byzantine emperor who codified Roman law?",
+        "A": "Justinian I",
+        "B": "Constantine the Great",
+        "C": "Theodosius I",
+        "D": "Heraclius",
+        "answer": "A",
+        "funFact": "Justinian I (527-565) was a Byzantine emperor who codified Roman law in the Corpus Juris Civilis. This legal code influenced law throughout Europe for centuries."
     },
     {
-      "question": "What was the name of the Islamic empire that ruled Spain for centuries?",
-      "A": "Ottoman Empire",
-      "B": "Umayyad Caliphate",
-      "C": "Abbasid Caliphate",
-      "D": "Mamluk Sultanate",
-      "answer": "B",
-      "funFact": "The Umayyad Caliphate ruled much of Spain (Al-Andalus) from 711 to 1492. This period was known for cultural and scientific achievements."
+        "question": "What was the name of the Islamic empire that ruled Spain for centuries?",
+        "A": "Ottoman Empire",
+        "B": "Umayyad Caliphate",
+        "C": "Abbasid Caliphate",
+        "D": "Mamluk Sultanate",
+        "answer": "B",
+        "funFact": "The Umayyad Caliphate ruled much of Spain (Al-Andalus) from 711 to 1492. This period was known for cultural and scientific achievements."
     },
     {
-      "question": "What was the name of the Viking explorer who reached North America?",
-      "A": "Leif Erikson",
-      "B": "Eric the Red",
-      "C": "Ragnar Lothbrok",
-      "D": "Harald Hardrada",
-      "answer": "A",
-      "funFact": "Leif Erikson is believed to have reached North America around 1000 AD, nearly 500 years before Christopher Columbus. He established a settlement in what is now Newfoundland."
+        "question": "What was the name of the Viking explorer who reached North America?",
+        "A": "Leif Erikson",
+        "B": "Eric the Red",
+        "C": "Ragnar Lothbrok",
+        "D": "Harald Hardrada",
+        "answer": "A",
+        "funFact": "Leif Erikson is believed to have reached North America around 1000 AD, nearly 500 years before Christopher Columbus. He established a settlement in what is now Newfoundland."
     },
     {
-      "question": "What was the name of the English king who was killed at the Battle of Bosworth Field?",
-      "A": "Richard III",
-      "B": "Edward IV",
-      "C": "Henry VI",
-      "D": "Henry VII",
-      "answer": "A",
-      "funFact": "Richard III was killed at the Battle of Bosworth Field in 1485, ending the War of the Roses. His death marked the end of the Plantagenet dynasty and the beginning of the Tudor dynasty."
+        "question": "What was the name of the English king who was killed at the Battle of Bosworth Field?",
+        "A": "Richard III",
+        "B": "Edward IV",
+        "C": "Henry VI",
+        "D": "Henry VII",
+        "answer": "A",
+        "funFact": "Richard III was killed at the Battle of Bosworth Field in 1485, ending the War of the Roses. His death marked the end of the Plantagenet dynasty and the beginning of the Tudor dynasty."
     },
     {
-      "question": "What was the name of the Italian city-state that was a major trading power?",
-      "A": "Venice",
-      "B": "Florence",
-      "C": "Milan",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Venice, Florence, and Milan were all powerful Italian city-states during the Middle Ages. Venice was particularly known for its naval power and trade."
+        "question": "What was the name of the Italian city-state that was a major trading power?",
+        "A": "Venice",
+        "B": "Florence",
+        "C": "Milan",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Venice, Florence, and Milan were all powerful Italian city-states during the Middle Ages. Venice was particularly known for its naval power and trade."
     },
     {
-      "question": "What was the name of the Spanish queen who funded Christopher Columbus's voyage?",
-      "A": "Isabella I",
-      "B": "Eleanor of Aquitaine",
-      "C": "Catherine of Aragon",
-      "D": "Mary I",
-      "answer": "A",
-      "funFact": "Isabella I of Castile, along with her husband Ferdinand II of Aragon, funded Christopher Columbus's voyage in 1492. They also completed the Reconquista of Spain."
+        "question": "What was the name of the Spanish queen who funded Christopher Columbus's voyage?",
+        "A": "Isabella I",
+        "B": "Eleanor of Aquitaine",
+        "C": "Catherine of Aragon",
+        "D": "Mary I",
+        "answer": "A",
+        "funFact": "Isabella I of Castile, along with her husband Ferdinand II of Aragon, funded Christopher Columbus's voyage in 1492. They also completed the Reconquista of Spain."
     },
     {
-      "question": "What was the name of the English king who conquered England in 1066?",
-      "A": "Harold Godwinson",
-      "B": "William the Conqueror",
-      "C": "Edward the Confessor",
-      "D": "Harald Hardrada",
-      "answer": "B",
-      "funFact": "William the Conqueror (William I) invaded England and won the Battle of Hastings in 1066. This event marked the beginning of Norman rule in England."
+        "question": "What was the name of the English king who conquered England in 1066?",
+        "A": "Harold Godwinson",
+        "B": "William the Conqueror",
+        "C": "Edward the Confessor",
+        "D": "Harald Hardrada",
+        "answer": "B",
+        "funFact": "William the Conqueror (William I) invaded England and won the Battle of Hastings in 1066. This event marked the beginning of Norman rule in England."
     },
     {
-      "question": "What was the name of the Islamic scholar and physician known as Avicenna?",
-      "A": "Ibn Sina",
-      "B": "Al-Razi",
-      "C": "Ibn Rushd",
-      "D": "Al-Khwarizmi",
-      "answer": "A",
-      "funFact": "Ibn Sina (980-1037), known in the West as Avicenna, was a Persian polymath. His medical encyclopedia 'The Canon of Medicine' was used in Europe for centuries."
+        "question": "What was the name of the Islamic scholar and physician known as Avicenna?",
+        "A": "Ibn Sina",
+        "B": "Al-Razi",
+        "C": "Ibn Rushd",
+        "D": "Al-Khwarizmi",
+        "answer": "A",
+        "funFact": "Ibn Sina (980-1037), known in the West as Avicenna, was a Persian polymath. His medical encyclopedia 'The Canon of Medicine' was used in Europe for centuries."
     },
     {
-      "question": "What was the name of the Holy Roman Emperor who was excommunicated by the Pope?",
-      "A": "Charlemagne",
-      "B": "Henry IV",
-      "C": "Frederick Barbarossa",
-      "D": "Otto I",
-      "answer": "B",
-      "funFact": "Henry IV was excommunicated by Pope Gregory VII in 1076 during the Investiture Controversy. He famously stood barefoot in the snow for three days to beg forgiveness."
+        "question": "What was the name of the Holy Roman Emperor who was excommunicated by the Pope?",
+        "A": "Charlemagne",
+        "B": "Henry IV",
+        "C": "Frederick Barbarossa",
+        "D": "Otto I",
+        "answer": "B",
+        "funFact": "Henry IV was excommunicated by Pope Gregory VII in 1076 during the Investiture Controversy. He famously stood barefoot in the snow for three days to beg forgiveness."
     },
     {
-      "question": "What was the name of the English king who was forced to sign the Magna Carta?",
-      "A": "Richard the Lionheart",
-      "B": "John",
-      "C": "Henry II",
-      "D": "Edward I",
-      "answer": "B",
-      "funFact": "King John was forced to sign the Magna Carta in 1215 by rebellious barons. This document limited royal power and established important legal principles."
+        "question": "What was the name of the English king who was forced to sign the Magna Carta?",
+        "A": "Richard the Lionheart",
+        "B": "John",
+        "C": "Henry II",
+        "D": "Edward I",
+        "answer": "B",
+        "funFact": "King John was forced to sign the Magna Carta in 1215 by rebellious barons. This document limited royal power and established important legal principles."
     },
     {
-      "question": "What was the name of the period of cultural and intellectual revival in Europe?",
-      "A": "Middle Ages",
-      "B": "Renaissance",
-      "C": "Enlightenment",
-      "D": "Reformation",
-      "answer": "B",
-      "funFact": "The Renaissance (14th-17th centuries) was a period of cultural and intellectual revival in Europe. It began in Italy and spread throughout Europe, marking the transition from the Middle Ages to the modern era."
+        "question": "What was the name of the period of cultural and intellectual revival in Europe?",
+        "A": "Middle Ages",
+        "B": "Renaissance",
+        "C": "Enlightenment",
+        "D": "Reformation",
+        "answer": "B",
+        "funFact": "The Renaissance (14th-17th centuries) was a period of cultural and intellectual revival in Europe. It began in Italy and spread throughout Europe, marking the transition from the Middle Ages to the modern era."
     },
     {
-      "question": "What was the name of the English king who was known as the 'Lionheart'?",
-      "A": "Richard I",
-      "B": "John",
-      "C": "Henry II",
-      "D": "Edward I",
-      "answer": "A",
-      "funFact": "Richard I (Richard the Lionheart) was an English king who spent most of his reign on crusade. He was known for his military prowess and chivalry."
+        "question": "What was the name of the English king who was known as the 'Lionheart'?",
+        "A": "Richard I",
+        "B": "John",
+        "C": "Henry II",
+        "D": "Edward I",
+        "answer": "A",
+        "funFact": "Richard I (Richard the Lionheart) was an English king who spent most of his reign on crusade. He was known for his military prowess and chivalry."
     },
     {
-      "question": "What was the name of the Byzantine capital that fell to the Ottomans?",
-      "A": "Rome",
-      "B": "Constantinople",
-      "C": "Alexandria",
-      "D": "Antioch",
-      "answer": "B",
-      "funFact": "Constantinople (now Istanbul) fell to the Ottoman Turks in 1453, marking the end of the Byzantine Empire. This event is often considered the end of the Middle Ages."
+        "question": "What was the name of the Byzantine capital that fell to the Ottomans?",
+        "A": "Rome",
+        "B": "Constantinople",
+        "C": "Alexandria",
+        "D": "Antioch",
+        "answer": "B",
+        "funFact": "Constantinople (now Istanbul) fell to the Ottoman Turks in 1453, marking the end of the Byzantine Empire. This event is often considered the end of the Middle Ages."
     },
     {
-      "question": "What was the name of the English king who established the Tudor dynasty?",
-      "A": "Richard III",
-      "B": "Edward IV",
-      "C": "Henry VI",
-      "D": "Henry VII",
-      "answer": "D",
-      "funFact": "Henry VII established the Tudor dynasty after winning the Battle of Bosworth Field in 1485. He was the father of Henry VIII and grandfather of Elizabeth I."
+        "question": "What was the name of the English king who established the Tudor dynasty?",
+        "A": "Richard III",
+        "B": "Edward IV",
+        "C": "Henry VI",
+        "D": "Henry VII",
+        "answer": "D",
+        "funFact": "Henry VII established the Tudor dynasty after winning the Battle of Bosworth Field in 1485. He was the father of Henry VIII and grandfather of Elizabeth I."
     }
 ]
-

@@ -1,183 +1,182 @@
 [
     {
-      "question": "What was the Battle of the Marne?",
-      "A": "First major battle",
-      "B": "Stopped German advance",
-      "C": "Both A and B",
-      "D": "German victory",
-      "answer": "C",
-      "funFact": "The First Battle of the Marne (September 1914) was the first major battle and stopped the German advance toward Paris, ending hopes of a quick German victory."
+        "question": "What was the Battle of the Marne?",
+        "A": "First major battle",
+        "B": "Stopped German advance",
+        "C": "Neither A nor B",
+        "D": "German victory",
+        "answer": "A",
+        "funFact": "The First Battle of the Marne (September 1914) was the first major battle and stopped the German advance toward Paris, ending hopes of a quick German victory."
     },
     {
-      "question": "What was the Battle of Verdun?",
-      "A": "Longest battle",
-      "B": "1916, over 700,000 casualties",
-      "C": "Both A and B",
-      "D": "Short battle",
-      "answer": "C",
-      "funFact": "The Battle of Verdun (February-December 1916) was the longest battle of World War I, lasting 10 months and resulting in over 700,000 casualties."
+        "question": "What was the Battle of Verdun?",
+        "A": "Longest battle",
+        "B": "1916, over 700,000 casualties",
+        "C": "Neither A nor B",
+        "D": "Short battle",
+        "answer": "A",
+        "funFact": "The Battle of Verdun (February-December 1916) was the longest battle of World War I, lasting 10 months and resulting in over 700,000 casualties."
     },
     {
-      "question": "What was the Battle of the Somme?",
-      "A": "Bloodiest battle",
-      "B": "1916, over 1 million casualties",
-      "C": "Both A and B",
-      "D": "Minor battle",
-      "answer": "C",
-      "funFact": "The Battle of the Somme (July-November 1916) was one of the bloodiest battles, with over 1 million casualties. It saw the first use of tanks."
+        "question": "What was the Battle of the Somme?",
+        "A": "Bloodiest battle",
+        "B": "1916, over 1 million casualties",
+        "C": "Neither A nor B",
+        "D": "Minor battle",
+        "answer": "A",
+        "funFact": "The Battle of the Somme (July-November 1916) was one of the bloodiest battles, with over 1 million casualties. It saw the first use of tanks."
     },
     {
-      "question": "What was the Battle of Ypres?",
-      "A": "Multiple battles",
-      "B": "First use of poison gas",
-      "C": "Both A and B",
-      "D": "Single battle",
-      "answer": "C",
-      "funFact": "There were multiple Battles of Ypres. The Second Battle (1915) saw the first use of poison gas (chlorine) in modern warfare."
+        "question": "What was the Battle of Ypres?",
+        "A": "Multiple battles",
+        "B": "First use of poison gas",
+        "C": "Neither A nor B",
+        "D": "Single battle",
+        "answer": "A",
+        "funFact": "There were multiple Battles of Ypres. The Second Battle (1915) saw the first use of poison gas (chlorine) in modern warfare."
     },
     {
-      "question": "What was the Battle of Tannenberg?",
-      "A": "German victory",
-      "B": "1914, destroyed Russian army",
-      "C": "Both A and B",
-      "D": "Russian victory",
-      "answer": "C",
-      "funFact": "The Battle of Tannenberg (August 1914) was a major German victory that destroyed the Russian Second Army and established German dominance on the Eastern Front."
+        "question": "What was the Battle of Tannenberg?",
+        "A": "German victory",
+        "B": "1914, destroyed Russian army",
+        "C": "Neither A nor B",
+        "D": "Russian victory",
+        "answer": "A",
+        "funFact": "The Battle of Tannenberg (August 1914) was a major German victory that destroyed the Russian Second Army and established German dominance on the Eastern Front."
     },
     {
-      "question": "What was the Battle of Gallipoli?",
-      "A": "Allied attempt to open Dardanelles",
-      "B": "1915-1916, failed",
-      "C": "Both A and B",
-      "D": "Successful",
-      "answer": "C",
-      "funFact": "The Battle of Gallipoli (1915-1916) was an Allied attempt to open the Dardanelles and capture Constantinople. It failed with heavy casualties."
+        "question": "What was the Battle of Gallipoli?",
+        "A": "Allied attempt to open Dardanelles",
+        "B": "1915-1916, failed",
+        "C": "Neither A nor B",
+        "D": "Successful",
+        "answer": "A",
+        "funFact": "The Battle of Gallipoli (1915-1916) was an Allied attempt to open the Dardanelles and capture Constantinople. It failed with heavy casualties."
     },
     {
-      "question": "What was the Battle of Jutland?",
-      "A": "Largest naval battle",
-      "B": "1916, indecisive",
-      "C": "Both A and B",
-      "D": "Clear victory",
-      "answer": "C",
-      "funFact": "The Battle of Jutland (May 1916) was the largest naval battle of World War I. It was indecisive but confirmed British naval superiority."
+        "question": "What was the Battle of Jutland?",
+        "A": "Largest naval battle",
+        "B": "1916, indecisive",
+        "C": "Neither A nor B",
+        "D": "Clear victory",
+        "answer": "A",
+        "funFact": "The Battle of Jutland (May 1916) was the largest naval battle of World War I. It was indecisive but confirmed British naval superiority."
     },
     {
-      "question": "What was the Battle of Passchendaele?",
-      "A": "Third Battle of Ypres",
-      "B": "1917, mud and rain",
-      "C": "Both A and B",
-      "D": "Dry conditions",
-      "answer": "C",
-      "funFact": "The Battle of Passchendaele (Third Battle of Ypres, 1917) was fought in terrible mud and rain conditions, with limited gains for heavy casualties."
+        "question": "What was the Battle of Passchendaele?",
+        "A": "Third Battle of Ypres",
+        "B": "1917, mud and rain",
+        "C": "Neither A nor B",
+        "D": "Dry conditions",
+        "answer": "A",
+        "funFact": "The Battle of Passchendaele (Third Battle of Ypres, 1917) was fought in terrible mud and rain conditions, with limited gains for heavy casualties."
     },
     {
-      "question": "What was the Spring Offensive?",
-      "A": "Germany's last major attack",
-      "B": "1918, initially successful",
-      "C": "Both A and B",
-      "D": "Failed immediately",
-      "answer": "C",
-      "funFact": "The Spring Offensive (1918) was Germany's last major attempt to win the war. It initially succeeded but ultimately failed as American troops arrived."
+        "question": "What was the Spring Offensive?",
+        "A": "Germany's last major attack",
+        "B": "1918, initially successful",
+        "C": "Neither A nor B",
+        "D": "Failed immediately",
+        "answer": "A",
+        "funFact": "The Spring Offensive (1918) was Germany's last major attempt to win the war. It initially succeeded but ultimately failed as American troops arrived."
     },
     {
-      "question": "What was the Hundred Days Offensive?",
-      "A": "Allied final push",
-      "B": "1918, led to German defeat",
-      "C": "Both A and B",
-      "D": "German offensive",
-      "answer": "C",
-      "funFact": "The Hundred Days Offensive (August-November 1918) was the Allied final push that led to German defeat and the end of the war."
+        "question": "What was the Hundred Days Offensive?",
+        "A": "Allied final push",
+        "B": "1918, led to German defeat",
+        "C": "Neither A nor B",
+        "D": "German offensive",
+        "answer": "A",
+        "funFact": "The Hundred Days Offensive (August-November 1918) was the Allied final push that led to German defeat and the end of the war."
     },
     {
-      "question": "What was trench warfare?",
-      "A": "Fighting from trenches",
-      "B": "Characterized by stalemate",
-      "C": "Both A and B",
-      "D": "Mobile warfare",
-      "answer": "C",
-      "funFact": "Trench warfare was fighting from dug-out trenches, characterized by stalemate, disease, and horrific conditions. It dominated the Western Front."
+        "question": "What was trench warfare?",
+        "A": "Fighting from trenches",
+        "B": "Characterized by stalemate",
+        "C": "Neither A nor B",
+        "D": "Mobile warfare",
+        "answer": "A",
+        "funFact": "Trench warfare was fighting from dug-out trenches, characterized by stalemate, disease, and horrific conditions. It dominated the Western Front."
     },
     {
-      "question": "What was no man's land?",
-      "A": "Area between trenches",
-      "B": "Dangerous to cross",
-      "C": "Both A and B",
-      "D": "Safe area",
-      "answer": "C",
-      "funFact": "No man's land was the area between opposing trenches. It was extremely dangerous to cross, covered with barbed wire and exposed to enemy fire."
+        "question": "What was no man's land?",
+        "A": "Area between trenches",
+        "B": "Dangerous to cross",
+        "C": "Neither A nor B",
+        "D": "Safe area",
+        "answer": "A",
+        "funFact": "No man's land was the area between opposing trenches. It was extremely dangerous to cross, covered with barbed wire and exposed to enemy fire."
     },
     {
-      "question": "What was the use of poison gas?",
-      "A": "First used at Ypres",
-      "B": "Chlorine, mustard gas",
-      "C": "Both A and B",
-      "D": "Never used",
-      "answer": "C",
-      "funFact": "Poison gas was first used at the Second Battle of Ypres (1915). Types included chlorine, phosgene, and mustard gas, causing horrific injuries."
+        "question": "What was the use of poison gas?",
+        "A": "First used at Ypres",
+        "B": "Chlorine, mustard gas",
+        "C": "Neither A nor B",
+        "D": "Never used",
+        "answer": "A",
+        "funFact": "Poison gas was first used at the Second Battle of Ypres (1915). Types included chlorine, phosgene, and mustard gas, causing horrific injuries."
     },
     {
-      "question": "What was the use of tanks?",
-      "A": "First used at the Somme",
-      "B": "1916, new weapon",
-      "C": "Both A and B",
-      "D": "Never used",
-      "answer": "C",
-      "funFact": "Tanks were first used at the Battle of the Somme (1916). They were a new weapon designed to break through trench lines."
+        "question": "What was the use of tanks?",
+        "A": "First used at the Somme",
+        "B": "1916, new weapon",
+        "C": "Neither A nor B",
+        "D": "Never used",
+        "answer": "A",
+        "funFact": "Tanks were first used at the Battle of the Somme (1916). They were a new weapon designed to break through trench lines."
     },
     {
-      "question": "What was the use of aircraft?",
-      "A": "Reconnaissance and combat",
-      "B": "New technology",
-      "C": "Both A and B",
-      "D": "Not used",
-      "answer": "C",
-      "funFact": "Aircraft were used for reconnaissance and combat. World War I saw the development of fighter planes and aerial combat."
+        "question": "What was the use of aircraft?",
+        "A": "Reconnaissance and combat",
+        "B": "New technology",
+        "C": "Neither A nor B",
+        "D": "Not used",
+        "answer": "A",
+        "funFact": "Aircraft were used for reconnaissance and combat. World War I saw the development of fighter planes and aerial combat."
     },
     {
-      "question": "What was the Eastern Front?",
-      "A": "Fighting between Germany and Russia",
-      "B": "More mobile than Western Front",
-      "C": "Both A and B",
-      "D": "Same as Western Front",
-      "answer": "C",
-      "funFact": "The Eastern Front was fighting between Germany and Russia. It was more mobile than the Western Front, with fewer trenches."
+        "question": "What was the Eastern Front?",
+        "A": "Fighting between Germany and Russia",
+        "B": "More mobile than Western Front",
+        "C": "Neither A nor B",
+        "D": "Same as Western Front",
+        "answer": "A",
+        "funFact": "The Eastern Front was fighting between Germany and Russia. It was more mobile than the Western Front, with fewer trenches."
     },
     {
-      "question": "What was the Italian Front?",
-      "A": "Fighting in the Alps",
-      "B": "Italy vs. Austria-Hungary",
-      "C": "Both A and B",
-      "D": "In France",
-      "answer": "C",
-      "funFact": "The Italian Front was fighting in the Alps between Italy and Austria-Hungary. It featured difficult mountain warfare."
+        "question": "What was the Italian Front?",
+        "A": "Fighting in the Alps",
+        "B": "Italy vs. Austria-Hungary",
+        "C": "Neither A nor B",
+        "D": "In France",
+        "answer": "A",
+        "funFact": "The Italian Front was fighting in the Alps between Italy and Austria-Hungary. It featured difficult mountain warfare."
     },
     {
-      "question": "What was the impact of battles?",
-      "A": "Millions of casualties",
-      "B": "Changed warfare forever",
-      "C": "Both A and B",
-      "D": "Minor impact",
-      "answer": "C",
-      "funFact": "World War I battles resulted in millions of casualties and changed warfare forever, introducing new weapons and tactics."
+        "question": "What was the impact of battles?",
+        "A": "Millions of casualties",
+        "B": "Changed warfare forever",
+        "C": "Neither A nor B",
+        "D": "Minor impact",
+        "answer": "A",
+        "funFact": "World War I battles resulted in millions of casualties and changed warfare forever, introducing new weapons and tactics."
     },
     {
-      "question": "What was the legacy of battles?",
-      "A": "Memorials and cemeteries",
-      "B": "Remembered today",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The legacy of World War I battles includes memorials and cemeteries that are still visited today, honoring those who fought and died."
+        "question": "What was the legacy of battles?",
+        "A": "Memorials and cemeteries",
+        "B": "Remembered today",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The legacy of World War I battles includes memorials and cemeteries that are still visited today, honoring those who fought and died."
     },
     {
-      "question": "What was the lesson of battles?",
-      "A": "Cost of war",
-      "B": "Need for peace",
-      "C": "Both A and B",
-      "D": "No lesson",
-      "answer": "C",
-      "funFact": "The lesson of these battles was the terrible cost of war and the need for peace. However, this lesson wasn't fully learned, leading to World War II."
+        "question": "What was the lesson of battles?",
+        "A": "Cost of war",
+        "B": "Need for peace",
+        "C": "Neither A nor B",
+        "D": "No lesson",
+        "answer": "A",
+        "funFact": "The lesson of these battles was the terrible cost of war and the need for peace. However, this lesson wasn't fully learned, leading to World War II."
     }
 ]
-

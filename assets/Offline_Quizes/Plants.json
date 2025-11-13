@@ -1,93 +1,92 @@
 [
     {
-      "question": "What process do plants use to make their own food?",
-      "A": "Respiration",
-      "B": "Photosynthesis",
-      "C": "Digestion",
-      "D": "Fermentation",
-      "answer": "B",
-      "funFact": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce glucose (food) and oxygen. This is how plants make their own food."
+        "question": "What process do plants use to make their own food?",
+        "A": "Respiration",
+        "B": "Photosynthesis",
+        "C": "Digestion",
+        "D": "Fermentation",
+        "answer": "B",
+        "funFact": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce glucose (food) and oxygen. This is how plants make their own food."
     },
     {
-      "question": "What is the green pigment in plants called?",
-      "A": "Carotene",
-      "B": "Chlorophyll",
-      "C": "Xanthophyll",
-      "D": "Anthocyanin",
-      "answer": "B",
-      "funFact": "Chlorophyll is the green pigment in plants that captures light energy for photosynthesis. It's what makes plants green and is essential for converting sunlight into energy."
+        "question": "What is the green pigment in plants called?",
+        "A": "Carotene",
+        "B": "Chlorophyll",
+        "C": "Xanthophyll",
+        "D": "Anthocyanin",
+        "answer": "B",
+        "funFact": "Chlorophyll is the green pigment in plants that captures light energy for photosynthesis. It's what makes plants green and is essential for converting sunlight into energy."
     },
     {
-      "question": "What part of the plant absorbs water and nutrients from the soil?",
-      "A": "Stem",
-      "B": "Leaves",
-      "C": "Roots",
-      "D": "Flowers",
-      "answer": "C",
-      "funFact": "Roots absorb water and nutrients from the soil and anchor the plant in the ground. They also store food for some plants."
+        "question": "What part of the plant absorbs water and nutrients from the soil?",
+        "A": "Stem",
+        "B": "Leaves",
+        "C": "Roots",
+        "D": "Flowers",
+        "answer": "C",
+        "funFact": "Roots absorb water and nutrients from the soil and anchor the plant in the ground. They also store food for some plants."
     },
     {
-      "question": "What is the largest type of plant?",
-      "A": "Tree",
-      "B": "Shrub",
-      "C": "Flower",
-      "D": "Grass",
-      "answer": "A",
-      "funFact": "Trees are the largest type of plant. The tallest tree in the world is a coast redwood in California, measuring over 380 feet tall."
+        "question": "What is the largest type of plant?",
+        "A": "Tree",
+        "B": "Shrub",
+        "C": "Flower",
+        "D": "Grass",
+        "answer": "A",
+        "funFact": "Trees are the largest type of plant. The tallest tree in the world is a coast redwood in California, measuring over 380 feet tall."
     },
     {
-      "question": "What gas do plants release during photosynthesis?",
-      "A": "Carbon dioxide",
-      "B": "Nitrogen",
-      "C": "Oxygen",
-      "D": "Hydrogen",
-      "answer": "C",
-      "funFact": "Plants release oxygen during photosynthesis. This oxygen is essential for most life on Earth, as animals and humans need it to breathe."
+        "question": "What gas do plants release during photosynthesis?",
+        "A": "Carbon dioxide",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Hydrogen",
+        "answer": "C",
+        "funFact": "Plants release oxygen during photosynthesis. This oxygen is essential for most life on Earth, as animals and humans need it to breathe."
     },
     {
-      "question": "What do plants need to grow?",
-      "A": "Sunlight, water, and soil",
-      "B": "Sunlight, water, and air",
-      "C": "Water, soil, and air",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Plants need sunlight (for photosynthesis), water (for growth and photosynthesis), air (for carbon dioxide and oxygen), and soil (for nutrients and support) to grow."
+        "question": "What do plants need to grow?",
+        "A": "Sunlight, water, and soil",
+        "B": "Sunlight, water, and air",
+        "C": "Water, soil, and air",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Plants need sunlight (for photosynthesis), water (for growth and photosynthesis), air (for carbon dioxide and oxygen), and soil (for nutrients and support) to grow."
     },
     {
-      "question": "What is the name for a plant that lives for more than two years?",
-      "A": "Annual",
-      "B": "Biennial",
-      "C": "Perennial",
-      "D": "Ephemeral",
-      "answer": "C",
-      "funFact": "A perennial is a plant that lives for more than two years. Annuals complete their life cycle in one year, and biennials take two years."
+        "question": "What is the name for a plant that lives for more than two years?",
+        "A": "Annual",
+        "B": "Biennial",
+        "C": "Perennial",
+        "D": "Ephemeral",
+        "answer": "C",
+        "funFact": "A perennial is a plant that lives for more than two years. Annuals complete their life cycle in one year, and biennials take two years."
     },
     {
-      "question": "What is the process by which plants lose water through their leaves?",
-      "A": "Photosynthesis",
-      "B": "Transpiration",
-      "C": "Respiration",
-      "D": "Evaporation",
-      "answer": "B",
-      "funFact": "Transpiration is the process by which plants lose water vapor through their leaves. This helps pull water and nutrients up from the roots."
+        "question": "What is the process by which plants lose water through their leaves?",
+        "A": "Photosynthesis",
+        "B": "Transpiration",
+        "C": "Respiration",
+        "D": "Evaporation",
+        "answer": "B",
+        "funFact": "Transpiration is the process by which plants lose water vapor through their leaves. This helps pull water and nutrients up from the roots."
     },
     {
-      "question": "What is the name for the part of the plant that produces seeds?",
-      "A": "Root",
-      "B": "Stem",
-      "C": "Leaf",
-      "D": "Flower",
-      "answer": "D",
-      "funFact": "Flowers are the reproductive parts of plants that produce seeds. After pollination, flowers develop into fruits containing seeds."
+        "question": "What is the name for the part of the plant that produces seeds?",
+        "A": "Root",
+        "B": "Stem",
+        "C": "Leaf",
+        "D": "Flower",
+        "answer": "D",
+        "funFact": "Flowers are the reproductive parts of plants that produce seeds. After pollination, flowers develop into fruits containing seeds."
     },
     {
-      "question": "What is the largest flower in the world?",
-      "A": "Sunflower",
-      "B": "Rafflesia",
-      "C": "Rose",
-      "D": "Orchid",
-      "answer": "B",
-      "funFact": "The Rafflesia is the largest flower in the world, growing up to 3 feet in diameter and weighing up to 15 pounds. It's also known for its strong, unpleasant odor."
+        "question": "What is the largest flower in the world?",
+        "A": "Sunflower",
+        "B": "Rafflesia",
+        "C": "Rose",
+        "D": "Orchid",
+        "answer": "B",
+        "funFact": "The Rafflesia is the largest flower in the world, growing up to 3 feet in diameter and weighing up to 15 pounds. It's also known for its strong, unpleasant odor."
     }
 ]
-

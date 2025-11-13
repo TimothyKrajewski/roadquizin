@@ -40,8 +40,8 @@
         "A": "Poetryology",
         "B": "Poetry studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Poetry is studied through literary studies, creative writing, and poetry analysis."
     },
     {
@@ -85,8 +85,8 @@
         "A": "Poetryology",
         "B": "Poetry analysis",
         "C": "Literary criticism",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Poetry is studied through literary analysis, creative writing, and literary criticism."
     },
     {
@@ -130,8 +130,8 @@
         "A": "Poetryology",
         "B": "Poetry studies",
         "C": "Creative writing",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Poetry is studied through creative writing, literary analysis, and poetry workshops."
     },
     {

@@ -1,183 +1,182 @@
 [
     {
-      "question": "What is the NFL Draft?",
-      "A": "Where teams select college players",
-      "B": "Held annually in April",
-      "C": "Both A and B",
-      "D": "In May",
-      "answer": "C",
-      "funFact": "The NFL Draft is where teams select college players. It's held annually in April and consists of 7 rounds with 32 picks per round."
+        "question": "What is the NFL Draft?",
+        "A": "Where teams select college players",
+        "B": "Held annually in April",
+        "C": "Neither A nor B",
+        "D": "In May",
+        "answer": "A",
+        "funFact": "The NFL Draft is where teams select college players. It's held annually in April and consists of 7 rounds with 32 picks per round."
     },
     {
-      "question": "How many rounds is the NFL Draft?",
-      "A": "5",
-      "B": "6",
-      "C": "7",
-      "D": "8",
-      "answer": "C",
-      "funFact": "The NFL Draft consists of 7 rounds, with 32 picks per round (one for each team). Teams can trade picks with other teams."
+        "question": "How many rounds is the NFL Draft?",
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "answer": "C",
+        "funFact": "The NFL Draft consists of 7 rounds, with 32 picks per round (one for each team). Teams can trade picks with other teams."
     },
     {
-      "question": "How many total picks are in the draft?",
-      "A": "224",
-      "B": "256",
-      "C": "288",
-      "D": "320",
-      "answer": "A",
-      "funFact": "The NFL Draft has 224 total picks (7 rounds × 32 teams), though this can vary due to compensatory picks awarded to teams."
+        "question": "How many total picks are in the draft?",
+        "A": "224",
+        "B": "256",
+        "C": "288",
+        "D": "320",
+        "answer": "A",
+        "funFact": "The NFL Draft has 224 total picks (7 rounds × 32 teams), though this can vary due to compensatory picks awarded to teams."
     },
     {
-      "question": "What is the first overall pick?",
-      "A": "Most valuable pick",
-      "B": "Worst team from previous season",
-      "C": "Both A and B",
-      "D": "Random",
-      "answer": "C",
-      "funFact": "The first overall pick is the most valuable and is awarded to the team with the worst record from the previous season (unless traded)."
+        "question": "What is the first overall pick?",
+        "A": "Most valuable pick",
+        "B": "Worst team from previous season",
+        "C": "Neither A nor B",
+        "D": "Random",
+        "answer": "A",
+        "funFact": "The first overall pick is the most valuable and is awarded to the team with the worst record from the previous season (unless traded)."
     },
     {
-      "question": "What is draft order?",
-      "A": "Based on previous season's record",
-      "B": "Worst teams pick first",
-      "C": "Both A and B",
-      "D": "Random",
-      "answer": "C",
-      "funFact": "Draft order is based on the previous season's record, with the worst teams picking first. This helps maintain competitive balance."
+        "question": "What is draft order?",
+        "A": "Based on previous season's record",
+        "B": "Worst teams pick first",
+        "C": "Neither A nor B",
+        "D": "Random",
+        "answer": "A",
+        "funFact": "Draft order is based on the previous season's record, with the worst teams picking first. This helps maintain competitive balance."
     },
     {
-      "question": "What is a draft pick trade?",
-      "A": "Teams can trade picks",
-      "B": "For other picks or players",
-      "C": "Both A and B",
-      "D": "Not allowed",
-      "answer": "C",
-      "funFact": "Teams can trade draft picks with other teams for other picks or players. This allows teams to move up or down in the draft order."
+        "question": "What is a draft pick trade?",
+        "A": "Teams can trade picks",
+        "B": "For other picks or players",
+        "C": "Neither A nor B",
+        "D": "Not allowed",
+        "answer": "A",
+        "funFact": "Teams can trade draft picks with other teams for other picks or players. This allows teams to move up or down in the draft order."
     },
     {
-      "question": "What is the NFL Combine?",
-      "A": "Where prospects are evaluated",
-      "B": "Physical and mental tests",
-      "C": "Both A and B",
-      "D": "A game",
-      "answer": "C",
-      "funFact": "The NFL Combine is where college prospects are evaluated through physical and mental tests. It helps teams evaluate players before the draft."
+        "question": "What is the NFL Combine?",
+        "A": "Where prospects are evaluated",
+        "B": "Physical and mental tests",
+        "C": "Neither A nor B",
+        "D": "A game",
+        "answer": "A",
+        "funFact": "The NFL Combine is where college prospects are evaluated through physical and mental tests. It helps teams evaluate players before the draft."
     },
     {
-      "question": "What is a prospect?",
-      "A": "College player eligible for draft",
-      "B": "Evaluated by teams",
-      "C": "Both A and B",
-      "D": "Professional player",
-      "answer": "C",
-      "funFact": "A prospect is a college player eligible for the draft. Teams extensively evaluate prospects through game film, combine, and interviews."
+        "question": "What is a prospect?",
+        "A": "College player eligible for draft",
+        "B": "Evaluated by teams",
+        "C": "Neither A nor B",
+        "D": "Professional player",
+        "answer": "A",
+        "funFact": "A prospect is a college player eligible for the draft. Teams extensively evaluate prospects through game film, combine, and interviews."
     },
     {
-      "question": "What is a bust?",
-      "A": "High pick who doesn't perform",
-      "B": "Disappointing selection",
-      "C": "Both A and B",
-      "D": "Successful pick",
-      "answer": "C",
-      "funFact": "A bust is a high draft pick who doesn't perform well in the NFL. It's a disappointing selection that doesn't meet expectations."
+        "question": "What is a bust?",
+        "A": "High pick who doesn't perform",
+        "B": "Disappointing selection",
+        "C": "Neither A nor B",
+        "D": "Successful pick",
+        "answer": "A",
+        "funFact": "A bust is a high draft pick who doesn't perform well in the NFL. It's a disappointing selection that doesn't meet expectations."
     },
     {
-      "question": "What is a steal?",
-      "A": "Low pick who performs well",
-      "B": "Great value selection",
-      "C": "Both A and B",
-      "D": "High pick",
-      "answer": "C",
-      "funFact": "A steal is a low draft pick who performs well in the NFL. It's a great value selection that exceeds expectations."
+        "question": "What is a steal?",
+        "A": "Low pick who performs well",
+        "B": "Great value selection",
+        "C": "Neither A nor B",
+        "D": "High pick",
+        "answer": "A",
+        "funFact": "A steal is a low draft pick who performs well in the NFL. It's a great value selection that exceeds expectations."
     },
     {
-      "question": "What is a quarterback?",
-      "A": "Most important position",
-      "B": "Often drafted high",
-      "C": "Both A and B",
-      "D": "Least important",
-      "answer": "C",
-      "funFact": "Quarterback is the most important position and is often drafted high. Many teams prioritize finding a franchise quarterback."
+        "question": "What is a quarterback?",
+        "A": "Most important position",
+        "B": "Often drafted high",
+        "C": "Neither A nor B",
+        "D": "Least important",
+        "answer": "A",
+        "funFact": "Quarterback is the most important position and is often drafted high. Many teams prioritize finding a franchise quarterback."
     },
     {
-      "question": "What is a running back?",
-      "A": "Offensive position",
-      "B": "Carries the ball",
-      "C": "Both A and B",
-      "D": "Defensive position",
-      "answer": "C",
-      "funFact": "A running back is an offensive position that carries the ball. Running backs are often drafted in the early to middle rounds."
+        "question": "What is a running back?",
+        "A": "Offensive position",
+        "B": "Carries the ball",
+        "C": "Neither A nor B",
+        "D": "Defensive position",
+        "answer": "A",
+        "funFact": "A running back is an offensive position that carries the ball. Running backs are often drafted in the early to middle rounds."
     },
     {
-      "question": "What is a wide receiver?",
-      "A": "Catches passes",
-      "B": "Offensive position",
-      "C": "Both A and B",
-      "D": "Defensive position",
-      "answer": "C",
-      "funFact": "A wide receiver catches passes and is an offensive position. Wide receivers are often drafted in the early to middle rounds."
+        "question": "What is a wide receiver?",
+        "A": "Catches passes",
+        "B": "Offensive position",
+        "C": "Neither A nor B",
+        "D": "Defensive position",
+        "answer": "A",
+        "funFact": "A wide receiver catches passes and is an offensive position. Wide receivers are often drafted in the early to middle rounds."
     },
     {
-      "question": "What is a defensive player?",
-      "A": "Plays on defense",
-      "B": "Includes linemen, linebackers, defensive backs",
-      "C": "Both A and B",
-      "D": "Only linemen",
-      "answer": "C",
-      "funFact": "A defensive player plays on defense and includes linemen, linebackers, and defensive backs. Defense is crucial for team success."
+        "question": "What is a defensive player?",
+        "A": "Plays on defense",
+        "B": "Includes linemen, linebackers, defensive backs",
+        "C": "Neither A nor B",
+        "D": "Only linemen",
+        "answer": "A",
+        "funFact": "A defensive player plays on defense and includes linemen, linebackers, and defensive backs. Defense is crucial for team success."
     },
     {
-      "question": "What is an undrafted free agent?",
-      "A": "Player not drafted",
-      "B": "Can sign with any team",
-      "C": "Both A and B",
-      "D": "Cannot play",
-      "answer": "C",
-      "funFact": "An undrafted free agent is a player not selected in the draft. They can sign with any team and sometimes become successful players."
+        "question": "What is an undrafted free agent?",
+        "A": "Player not drafted",
+        "B": "Can sign with any team",
+        "C": "Neither A nor B",
+        "D": "Cannot play",
+        "answer": "A",
+        "funFact": "An undrafted free agent is a player not selected in the draft. They can sign with any team and sometimes become successful players."
     },
     {
-      "question": "What is the importance of the draft?",
-      "A": "Builds teams",
-      "B": "Future of franchises",
-      "C": "Both A and B",
-      "D": "Unimportant",
-      "answer": "C",
-      "funFact": "The draft is crucial for building teams and is the future of franchises. Good drafts can turn teams into contenders."
+        "question": "What is the importance of the draft?",
+        "A": "Builds teams",
+        "B": "Future of franchises",
+        "C": "Neither A nor B",
+        "D": "Unimportant",
+        "answer": "A",
+        "funFact": "The draft is crucial for building teams and is the future of franchises. Good drafts can turn teams into contenders."
     },
     {
-      "question": "What is draft analysis?",
-      "A": "Evaluating picks",
-      "B": "Media coverage",
-      "C": "Both A and B",
-      "D": "No analysis",
-      "answer": "C",
-      "funFact": "Draft analysis involves evaluating picks and is heavily covered by media. Experts analyze each pick and grade teams' drafts."
+        "question": "What is draft analysis?",
+        "A": "Evaluating picks",
+        "B": "Media coverage",
+        "C": "Neither A nor B",
+        "D": "No analysis",
+        "answer": "A",
+        "funFact": "Draft analysis involves evaluating picks and is heavily covered by media. Experts analyze each pick and grade teams' drafts."
     },
     {
-      "question": "What is the draft's impact?",
-      "A": "Shapes teams for years",
-      "B": "Can make or break franchises",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "The draft shapes teams for years and can make or break franchises. Successful drafts are essential for long-term success."
+        "question": "What is the draft's impact?",
+        "A": "Shapes teams for years",
+        "B": "Can make or break franchises",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "The draft shapes teams for years and can make or break franchises. Successful drafts are essential for long-term success."
     },
     {
-      "question": "What is the future of the draft?",
-      "A": "Will continue",
-      "B": "May evolve",
-      "C": "Both A and B",
-      "D": "Will end",
-      "answer": "C",
-      "funFact": "The draft will continue to be a major event, though it may evolve with changes to the game and evaluation methods."
+        "question": "What is the future of the draft?",
+        "A": "Will continue",
+        "B": "May evolve",
+        "C": "Neither A nor B",
+        "D": "Will end",
+        "answer": "A",
+        "funFact": "The draft will continue to be a major event, though it may evolve with changes to the game and evaluation methods."
     },
     {
-      "question": "What is the draft's popularity?",
-      "A": "Very popular",
-      "B": "Major television event",
-      "C": "Both A and B",
-      "D": "Unpopular",
-      "answer": "C",
-      "funFact": "The NFL Draft is very popular and is a major television event. Millions of fans watch to see which players their teams select."
+        "question": "What is the draft's popularity?",
+        "A": "Very popular",
+        "B": "Major television event",
+        "C": "Neither A nor B",
+        "D": "Unpopular",
+        "answer": "A",
+        "funFact": "The NFL Draft is very popular and is a major television event. Millions of fans watch to see which players their teams select."
     }
 ]
-

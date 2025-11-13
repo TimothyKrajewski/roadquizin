@@ -121,8 +121,8 @@
         "A": "South Americanology",
         "B": "Latin American studies",
         "C": "Geography",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "South American countries are studied through geography, Latin American studies, and regional studies."
     },
     {
@@ -139,8 +139,8 @@
         "A": "South Americanology",
         "B": "South American geography",
         "C": "Regional studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "South American countries are studied through geography, history, and regional studies."
     },
     {
@@ -157,8 +157,8 @@
         "A": "South Americanology",
         "B": "South American studies",
         "C": "Geography",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "South American countries are studied through geography, history, and cultural studies."
     },
     {
@@ -175,8 +175,8 @@
         "A": "South Americanology",
         "B": "South American geography",
         "C": "Regional studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "South American countries are studied through geography, history, and regional studies."
     }
 ]

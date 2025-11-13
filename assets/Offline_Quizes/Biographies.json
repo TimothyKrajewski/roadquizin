@@ -22,8 +22,8 @@
         "A": "Biographyology",
         "B": "Biography studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Biographies are studied through literary studies, history, and biographical research."
     },
     {
@@ -67,8 +67,8 @@
         "A": "Biographyology",
         "B": "Biography analysis",
         "C": "Historical research",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Biographies are studied through literary studies, history, and biographical research."
     },
     {
@@ -112,8 +112,8 @@
         "A": "Biographyology",
         "B": "Biography studies",
         "C": "Life writing",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Biographies are studied through literary studies, history, and life writing research."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Biographyology",
         "B": "Biography research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Biographies are studied through literary studies, history, and biographical research, exploring how lives are documented and told."
     },
     {

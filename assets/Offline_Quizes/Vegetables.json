@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is the most popular vegetable in the world?",
-      "A": "Carrot",
-      "B": "Potato",
-      "C": "Tomato",
-      "D": "Onion",
-      "answer": "B",
-      "funFact": "The potato is the most popular vegetable in the world, consumed in over 100 countries. It's a staple food for over a billion people."
+        "question": "What is the most popular vegetable in the world?",
+        "A": "Carrot",
+        "B": "Potato",
+        "C": "Tomato",
+        "D": "Onion",
+        "answer": "B",
+        "funFact": "The potato is the most popular vegetable in the world, consumed in over 100 countries. It's a staple food for over a billion people."
     },
     {
-      "question": "What vegetable is actually a fruit?",
-      "A": "Tomato",
-      "B": "Cucumber",
-      "C": "Pepper",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Botanically, tomatoes, cucumbers, and peppers are all fruits because they contain seeds and develop from the flower of the plant, though they're used as vegetables in cooking."
+        "question": "What vegetable is actually a fruit?",
+        "A": "Tomato",
+        "B": "Cucumber",
+        "C": "Pepper",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Botanically, tomatoes, cucumbers, and peppers are all fruits because they contain seeds and develop from the flower of the plant, though they're used as vegetables in cooking."
     },
     {
-      "question": "What vegetable is known for improving eyesight?",
-      "A": "Carrot",
-      "B": "Broccoli",
-      "C": "Spinach",
-      "D": "Peas",
-      "answer": "A",
-      "funFact": "Carrots are rich in beta-carotene, which the body converts to vitamin A, essential for good vision. However, eating carrots won't cure existing vision problems."
+        "question": "What vegetable is known for improving eyesight?",
+        "A": "Carrot",
+        "B": "Broccoli",
+        "C": "Spinach",
+        "D": "Peas",
+        "answer": "A",
+        "funFact": "Carrots are rich in beta-carotene, which the body converts to vitamin A, essential for good vision. However, eating carrots won't cure existing vision problems."
     },
     {
-      "question": "What is the largest vegetable?",
-      "A": "Pumpkin",
-      "B": "Cabbage",
-      "C": "Zucchini",
-      "D": "All can be large",
-      "answer": "D",
-      "funFact": "Pumpkins can weigh over 2,000 pounds, cabbages can reach 100 pounds, and zucchinis can grow very large. The largest depends on the specific variety."
+        "question": "What is the largest vegetable?",
+        "A": "Pumpkin",
+        "B": "Cabbage",
+        "C": "Zucchini",
+        "D": "All can be large",
+        "answer": "D",
+        "funFact": "Pumpkins can weigh over 2,000 pounds, cabbages can reach 100 pounds, and zucchinis can grow very large. The largest depends on the specific variety."
     },
     {
-      "question": "What vegetable is in the same family as broccoli?",
-      "A": "Cauliflower",
-      "B": "Cabbage",
-      "C": "Brussels sprouts",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Broccoli, cauliflower, cabbage, and Brussels sprouts are all in the same plant family (Brassicaceae) and are closely related."
+        "question": "What vegetable is in the same family as broccoli?",
+        "A": "Cauliflower",
+        "B": "Cabbage",
+        "C": "Brussels sprouts",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Broccoli, cauliflower, cabbage, and Brussels sprouts are all in the same plant family (Brassicaceae) and are closely related."
     },
     {
-      "question": "What part of the plant is a carrot?",
-      "A": "Root",
-      "B": "Stem",
-      "C": "Leaf",
-      "D": "Flower",
-      "answer": "A",
-      "funFact": "A carrot is a root vegetable - the root of the carrot plant. Root vegetables store nutrients underground."
+        "question": "What part of the plant is a carrot?",
+        "A": "Root",
+        "B": "Stem",
+        "C": "Leaf",
+        "D": "Flower",
+        "answer": "A",
+        "funFact": "A carrot is a root vegetable - the root of the carrot plant. Root vegetables store nutrients underground."
     },
     {
-      "question": "What vegetable is known as 'nature's multivitamin'?",
-      "A": "Spinach",
-      "B": "Kale",
-      "C": "Broccoli",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Spinach, kale, and broccoli are all incredibly nutrient-dense vegetables, rich in vitamins, minerals, and antioxidants, earning them the nickname 'nature's multivitamin.'"
+        "question": "What vegetable is known as 'nature's multivitamin'?",
+        "A": "Spinach",
+        "B": "Kale",
+        "C": "Broccoli",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Spinach, kale, and broccoli are all incredibly nutrient-dense vegetables, rich in vitamins, minerals, and antioxidants, earning them the nickname 'nature's multivitamin.'"
     },
     {
-      "question": "What vegetable is a bulb?",
-      "A": "Carrot",
-      "B": "Onion",
-      "C": "Potato",
-      "D": "Radish",
-      "answer": "B",
-      "funFact": "An onion is a bulb vegetable - a modified stem that stores food underground. The layers of an onion are actually modified leaves."
+        "question": "What vegetable is a bulb?",
+        "A": "Carrot",
+        "B": "Onion",
+        "C": "Potato",
+        "D": "Radish",
+        "answer": "B",
+        "funFact": "An onion is a bulb vegetable - a modified stem that stores food underground. The layers of an onion are actually modified leaves."
     },
     {
-      "question": "What is the most consumed vegetable in the United States?",
-      "A": "Potato",
-      "B": "Tomato",
-      "C": "Onion",
-      "D": "Lettuce",
-      "answer": "A",
-      "funFact": "The potato is the most consumed vegetable in the United States, often eaten as french fries, mashed potatoes, or baked potatoes."
+        "question": "What is the most consumed vegetable in the United States?",
+        "A": "Potato",
+        "B": "Tomato",
+        "C": "Onion",
+        "D": "Lettuce",
+        "answer": "A",
+        "funFact": "The potato is the most consumed vegetable in the United States, often eaten as french fries, mashed potatoes, or baked potatoes."
     },
     {
-      "question": "What vegetable is known for making people cry?",
-      "A": "Garlic",
-      "B": "Onion",
-      "C": "Pepper",
-      "D": "All of the above",
-      "answer": "B",
-      "funFact": "Onions make people cry because cutting them releases a gas that reacts with the water in your eyes to form sulfuric acid, which irritates the eyes."
+        "question": "What vegetable is known for making people cry?",
+        "A": "Garlic",
+        "B": "Onion",
+        "C": "Pepper",
+        "D": "None of the above",
+        "answer": "B",
+        "funFact": "Onions make people cry because cutting them releases a gas that reacts with the water in your eyes to form sulfuric acid, which irritates the eyes."
     }
 ]
-

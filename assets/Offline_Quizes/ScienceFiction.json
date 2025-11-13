@@ -31,8 +31,8 @@
         "A": "Sci-fiology",
         "B": "Science fiction studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Science fiction is studied through literary studies, genre studies, and science fiction research."
     },
     {
@@ -76,8 +76,8 @@
         "A": "Sci-fiology",
         "B": "Science fiction analysis",
         "C": "Genre studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Science fiction is studied through literary studies, genre analysis, and science fiction research."
     },
     {
@@ -121,8 +121,8 @@
         "A": "Sci-fiology",
         "B": "Science fiction studies",
         "C": "Speculative fiction",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Science fiction is studied through literary studies, genre research, and speculative fiction analysis."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Sci-fiology",
         "B": "Science fiction research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Science fiction is studied through literary studies, genre research, and science fiction analysis, exploring its themes and impact."
     }
 ]

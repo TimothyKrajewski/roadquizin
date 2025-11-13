@@ -1,228 +1,227 @@
 [
     {
-      "question": "What ancient civilization is credited with inventing ice cream?",
-      "A": "Ancient China",
-      "B": "Ancient Rome",
-      "C": "Ancient Egypt",
-      "D": "Ancient Greece",
-      "answer": "A",
-      "funFact": "Ancient China is credited with inventing ice cream around 200 BC. They made a frozen mixture of milk and rice, which was a luxury reserved for royalty."
+        "question": "What ancient civilization is credited with inventing ice cream?",
+        "A": "Ancient China",
+        "B": "Ancient Rome",
+        "C": "Ancient Egypt",
+        "D": "Ancient Greece",
+        "answer": "A",
+        "funFact": "Ancient China is credited with inventing ice cream around 200 BC. They made a frozen mixture of milk and rice, which was a luxury reserved for royalty."
     },
     {
-      "question": "What was the original purpose of ketchup?",
-      "A": "A condiment for fries",
-      "B": "A medicine",
-      "C": "A fish sauce",
-      "D": "A dessert topping",
-      "answer": "C",
-      "funFact": "Ketchup originally came from China as 'ke-tsiap,' a fermented fish sauce. It didn't contain tomatoes until the 1800s when Americans added them."
+        "question": "What was the original purpose of ketchup?",
+        "A": "A condiment for fries",
+        "B": "A medicine",
+        "C": "A fish sauce",
+        "D": "A dessert topping",
+        "answer": "C",
+        "funFact": "Ketchup originally came from China as 'ke-tsiap,' a fermented fish sauce. It didn't contain tomatoes until the 1800s when Americans added them."
     },
     {
-      "question": "What food was once considered poisonous and called 'the devil's apple'?",
-      "A": "Tomatoes",
-      "B": "Potatoes",
-      "C": "Eggplants",
-      "D": "Peppers",
-      "answer": "A",
-      "funFact": "Tomatoes were once considered poisonous in Europe and called 'the devil's apple.' People thought they were deadly because they're part of the nightshade family."
+        "question": "What food was once considered poisonous and called 'the devil's apple'?",
+        "A": "Tomatoes",
+        "B": "Potatoes",
+        "C": "Eggplants",
+        "D": "Peppers",
+        "answer": "A",
+        "funFact": "Tomatoes were once considered poisonous in Europe and called 'the devil's apple.' People thought they were deadly because they're part of the nightshade family."
     },
     {
-      "question": "What was the original use of Coca-Cola?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Coca-Cola was originally invented in 1886 as a medicine by Dr. John Pemberton. It was marketed as a cure for headaches, fatigue, and other ailments."
+        "question": "What was the original use of Coca-Cola?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Coca-Cola was originally invented in 1886 as a medicine by Dr. John Pemberton. It was marketed as a cure for headaches, fatigue, and other ailments."
     },
     {
-      "question": "What food was once so valuable it was used as currency?",
-      "A": "Salt",
-      "B": "Sugar",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
+        "question": "What food was once so valuable it was used as currency?",
+        "A": "Salt",
+        "B": "Sugar",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
     },
     {
-      "question": "What was the original purpose of Worcestershire sauce?",
-      "A": "A condiment",
-      "B": "A failed attempt to recreate Indian sauce",
-      "C": "A medicine",
-      "D": "A cleaning product",
-      "answer": "B",
-      "funFact": "Worcestershire sauce was created by accident when two chemists tried to recreate an Indian sauce. They left it to ferment and forgot about it, then discovered it tasted good."
+        "question": "What was the original purpose of Worcestershire sauce?",
+        "A": "A condiment",
+        "B": "A failed attempt to recreate Indian sauce",
+        "C": "A medicine",
+        "D": "A cleaning product",
+        "answer": "B",
+        "funFact": "Worcestershire sauce was created by accident when two chemists tried to recreate an Indian sauce. They left it to ferment and forgot about it, then discovered it tasted good."
     },
     {
-      "question": "What food was banned in the United States for over 50 years?",
-      "A": "Absinthe",
-      "B": "Raw milk cheese",
-      "C": "Foie gras",
-      "D": "All of the above",
-      "answer": "A",
-      "funFact": "Absinthe was banned in the United States from 1912 to 2007 due to concerns about its hallucinogenic properties, though modern research shows it's no more dangerous than other alcohol."
+        "question": "What food was banned in the United States for over 50 years?",
+        "A": "Absinthe",
+        "B": "Raw milk cheese",
+        "C": "Foie gras",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Absinthe was banned in the United States from 1912 to 2007 due to concerns about its hallucinogenic properties, though modern research shows it's no more dangerous than other alcohol."
     },
     {
-      "question": "What was the original purpose of fortune cookies?",
-      "A": "A Chinese dessert",
-      "B": "A Japanese invention",
-      "C": "An American invention",
-      "D": "A Korean snack",
-      "answer": "C",
-      "funFact": "Fortune cookies are actually an American invention, not Chinese. They were created in California in the early 1900s, likely by Japanese immigrants."
+        "question": "What was the original purpose of fortune cookies?",
+        "A": "A Chinese dessert",
+        "B": "A Japanese invention",
+        "C": "An American invention",
+        "D": "A Korean snack",
+        "answer": "C",
+        "funFact": "Fortune cookies are actually an American invention, not Chinese. They were created in California in the early 1900s, likely by Japanese immigrants."
     },
     {
-      "question": "What food was once considered a luxury and was more expensive than caviar?",
-      "A": "Lobster",
-      "B": "Oysters",
-      "C": "Potatoes",
-      "D": "Bananas",
-      "answer": "A",
-      "funFact": "Lobster was once so abundant that it was considered food for the poor and prisoners. It became a luxury item in the 1800s and was sometimes more expensive than caviar."
+        "question": "What food was once considered a luxury and was more expensive than caviar?",
+        "A": "Lobster",
+        "B": "Oysters",
+        "C": "Potatoes",
+        "D": "Bananas",
+        "answer": "A",
+        "funFact": "Lobster was once so abundant that it was considered food for the poor and prisoners. It became a luxury item in the 1800s and was sometimes more expensive than caviar."
     },
     {
-      "question": "What was the original purpose of chewing gum?",
-      "A": "A candy",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A tool for Native Americans",
-      "answer": "D",
-      "funFact": "Chewing gum originally came from the sap of the sapodilla tree, which Native Americans chewed. It was later commercialized and became the gum we know today."
+        "question": "What was the original purpose of chewing gum?",
+        "A": "A candy",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A tool for Native Americans",
+        "answer": "D",
+        "funFact": "Chewing gum originally came from the sap of the sapodilla tree, which Native Americans chewed. It was later commercialized and became the gum we know today."
     },
     {
-      "question": "What food was once used as a form of birth control?",
-      "A": "Carrots",
-      "B": "Parsley",
-      "C": "Dill",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "In ancient times, carrots, parsley, and dill were all believed to have contraceptive properties. Women would eat large amounts hoping to prevent pregnancy."
+        "question": "What food was once used as a form of birth control?",
+        "A": "Carrots",
+        "B": "Parsley",
+        "C": "Dill",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "In ancient times, carrots, parsley, and dill were all believed to have contraceptive properties. Women would eat large amounts hoping to prevent pregnancy."
     },
     {
-      "question": "What was the original purpose of margarine?",
-      "A": "A butter substitute",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking oil",
-      "answer": "A",
-      "funFact": "Margarine was invented in 1869 by French chemist Hippolyte Mège-Mouriès as a cheaper alternative to butter for the French military and lower classes."
+        "question": "What was the original purpose of margarine?",
+        "A": "A butter substitute",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking oil",
+        "answer": "A",
+        "funFact": "Margarine was invented in 1869 by French chemist Hippolyte Mège-Mouriès as a cheaper alternative to butter for the French military and lower classes."
     },
     {
-      "question": "What food was once considered a delicacy and was served at royal banquets?",
-      "A": "Pineapples",
-      "B": "Oranges",
-      "C": "Bananas",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Pineapples, oranges, and bananas were all once considered exotic luxuries in Europe. Pineapples were so rare that people would rent them as centerpieces for parties."
+        "question": "What food was once considered a delicacy and was served at royal banquets?",
+        "A": "Pineapples",
+        "B": "Oranges",
+        "C": "Bananas",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Pineapples, oranges, and bananas were all once considered exotic luxuries in Europe. Pineapples were so rare that people would rent them as centerpieces for parties."
     },
     {
-      "question": "What was the original purpose of Jell-O?",
-      "A": "A dessert",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Jell-O was originally marketed as a health food and medicine. It was promoted as easy to digest and good for invalids and children."
+        "question": "What was the original purpose of Jell-O?",
+        "A": "A dessert",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Jell-O was originally marketed as a health food and medicine. It was promoted as easy to digest and good for invalids and children."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Rome?",
-      "A": "Salt",
-      "B": "Wheat",
-      "C": "Olive oil",
-      "D": "Wine",
-      "answer": "A",
-      "funFact": "Salt was so valuable in ancient Rome that it was used as currency. Roman soldiers were sometimes paid in salt, which is where the word 'salary' comes from."
+        "question": "What food was once used as a form of currency in ancient Rome?",
+        "A": "Salt",
+        "B": "Wheat",
+        "C": "Olive oil",
+        "D": "Wine",
+        "answer": "A",
+        "funFact": "Salt was so valuable in ancient Rome that it was used as currency. Roman soldiers were sometimes paid in salt, which is where the word 'salary' comes from."
     },
     {
-      "question": "What was the original purpose of cornflakes?",
-      "A": "A breakfast cereal",
-      "B": "A medicine to prevent masturbation",
-      "C": "A snack food",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Cornflakes were invented by Dr. John Harvey Kellogg in 1894 as part of a bland diet to prevent masturbation, which he believed caused various health problems."
+        "question": "What was the original purpose of cornflakes?",
+        "A": "A breakfast cereal",
+        "B": "A medicine to prevent masturbation",
+        "C": "A snack food",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Cornflakes were invented by Dr. John Harvey Kellogg in 1894 as part of a bland diet to prevent masturbation, which he believed caused various health problems."
     },
     {
-      "question": "What food was once considered a luxury and was only eaten by the wealthy?",
-      "A": "Chocolate",
-      "B": "Coffee",
-      "C": "Tea",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Chocolate, coffee, and tea were all once considered luxury items only affordable by the wealthy. They were expensive imports from distant lands."
+        "question": "What food was once considered a luxury and was only eaten by the wealthy?",
+        "A": "Chocolate",
+        "B": "Coffee",
+        "C": "Tea",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Chocolate, coffee, and tea were all once considered luxury items only affordable by the wealthy. They were expensive imports from distant lands."
     },
     {
-      "question": "What was the original purpose of Tabasco sauce?",
-      "A": "A condiment",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Tabasco sauce was originally created as a medicine by Edmund McIlhenny in 1868. He believed it had health benefits and would help with digestion."
+        "question": "What was the original purpose of Tabasco sauce?",
+        "A": "A condiment",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Tabasco sauce was originally created as a medicine by Edmund McIlhenny in 1868. He believed it had health benefits and would help with digestion."
     },
     {
-      "question": "What food was once used as a form of punishment in ancient times?",
-      "A": "Bread and water",
-      "B": "Salt",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "A",
-      "funFact": "Bread and water was a common form of punishment in ancient times, given to prisoners as a minimal diet. It was considered harsh and unpleasant."
+        "question": "What food was once used as a form of punishment in ancient times?",
+        "A": "Bread and water",
+        "B": "Salt",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Bread and water was a common form of punishment in ancient times, given to prisoners as a minimal diet. It was considered harsh and unpleasant."
     },
     {
-      "question": "What was the original purpose of Dr. Pepper?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Dr. Pepper was originally created in 1885 as a medicine by pharmacist Charles Alderton. It was marketed as a digestive aid and energy booster."
+        "question": "What was the original purpose of Dr. Pepper?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Dr. Pepper was originally created in 1885 as a medicine by pharmacist Charles Alderton. It was marketed as a digestive aid and energy booster."
     },
     {
-      "question": "What food was once considered a luxury and was only served at special occasions?",
-      "A": "Sugar",
-      "B": "Salt",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Sugar, salt, and spices were all once considered luxury items only affordable by the wealthy. They were expensive imports and were only used on special occasions."
+        "question": "What food was once considered a luxury and was only served at special occasions?",
+        "A": "Sugar",
+        "B": "Salt",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Sugar, salt, and spices were all once considered luxury items only affordable by the wealthy. They were expensive imports and were only used on special occasions."
     },
     {
-      "question": "What was the original purpose of Pepsi-Cola?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Pepsi-Cola was originally created in 1893 as 'Brad's Drink' by Caleb Bradham, a pharmacist who believed it aided digestion and had health benefits."
+        "question": "What was the original purpose of Pepsi-Cola?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Pepsi-Cola was originally created in 1893 as 'Brad's Drink' by Caleb Bradham, a pharmacist who believed it aided digestion and had health benefits."
     },
     {
-      "question": "What food was once used as a form of currency in ancient China?",
-      "A": "Tea",
-      "B": "Rice",
-      "C": "Salt",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient China?",
+        "A": "Tea",
+        "B": "Rice",
+        "C": "Salt",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What was the original purpose of 7-Up?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "7-Up was originally created in 1929 as 'Bib-Label Lithiated Lemon-Lime Soda' and contained lithium, a mood-stabilizing drug. It was marketed as a hangover cure."
+        "question": "What was the original purpose of 7-Up?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "7-Up was originally created in 1929 as 'Bib-Label Lithiated Lemon-Lime Soda' and contained lithium, a mood-stabilizing drug. It was marketed as a hangover cure."
     },
     {
-      "question": "What food was once considered a luxury and was only eaten by royalty?",
-      "A": "Pineapples",
-      "B": "Chocolate",
-      "C": "Ice cream",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Pineapples, chocolate, and ice cream were all once considered luxury items only affordable by royalty. They were expensive imports and difficult to obtain."
+        "question": "What food was once considered a luxury and was only eaten by royalty?",
+        "A": "Pineapples",
+        "B": "Chocolate",
+        "C": "Ice cream",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Pineapples, chocolate, and ice cream were all once considered luxury items only affordable by royalty. They were expensive imports and difficult to obtain."
     }
 ]
-

@@ -1,183 +1,182 @@
 [
     {
-      "question": "What is stroke play?",
-      "A": "Counting total strokes",
-      "B": "Lowest score wins",
-      "C": "Both A and B",
-      "D": "Match play",
-      "answer": "C",
-      "funFact": "Stroke play is a format where you count total strokes over the round. The golfer with the lowest total score wins."
+        "question": "What is stroke play?",
+        "A": "Counting total strokes",
+        "B": "Lowest score wins",
+        "C": "Neither A nor B",
+        "D": "Match play",
+        "answer": "A",
+        "funFact": "Stroke play is a format where you count total strokes over the round. The golfer with the lowest total score wins."
     },
     {
-      "question": "What is match play?",
-      "A": "Hole-by-hole competition",
-      "B": "Win more holes than opponent",
-      "C": "Both A and B",
-      "D": "Total strokes",
-      "answer": "C",
-      "funFact": "Match play is a format where you compete hole-by-hole. The golfer who wins more holes than their opponent wins the match."
+        "question": "What is match play?",
+        "A": "Hole-by-hole competition",
+        "B": "Win more holes than opponent",
+        "C": "Neither A nor B",
+        "D": "Total strokes",
+        "answer": "A",
+        "funFact": "Match play is a format where you compete hole-by-hole. The golfer who wins more holes than their opponent wins the match."
     },
     {
-      "question": "What is a penalty stroke?",
-      "A": "Extra stroke added",
-      "B": "For rule violations",
-      "C": "Both A and B",
-      "D": "No penalty",
-      "answer": "C",
-      "funFact": "A penalty stroke is an extra stroke added to your score for rule violations, such as hitting into a water hazard."
+        "question": "What is a penalty stroke?",
+        "A": "Extra stroke added",
+        "B": "For rule violations",
+        "C": "Neither A nor B",
+        "D": "No penalty",
+        "answer": "A",
+        "funFact": "A penalty stroke is an extra stroke added to your score for rule violations, such as hitting into a water hazard."
     },
     {
-      "question": "What is out of bounds?",
-      "A": "Outside course boundaries",
-      "B": "Penalty stroke and re-tee",
-      "C": "Both A and B",
-      "D": "No penalty",
-      "answer": "C",
-      "funFact": "Out of bounds means the ball is outside the course boundaries. This results in a penalty stroke and you must re-tee or drop."
+        "question": "What is out of bounds?",
+        "A": "Outside course boundaries",
+        "B": "Penalty stroke and re-tee",
+        "C": "Neither A nor B",
+        "D": "No penalty",
+        "answer": "A",
+        "funFact": "Out of bounds means the ball is outside the course boundaries. This results in a penalty stroke and you must re-tee or drop."
     },
     {
-      "question": "What is a lost ball?",
-      "A": "Cannot find ball",
-      "B": "Penalty stroke",
-      "C": "Both A and B",
-      "D": "No penalty",
-      "answer": "C",
-      "funFact": "A lost ball is when you cannot find your ball within 5 minutes. This results in a penalty stroke and you must play another ball."
+        "question": "What is a lost ball?",
+        "A": "Cannot find ball",
+        "B": "Penalty stroke",
+        "C": "Neither A nor B",
+        "D": "No penalty",
+        "answer": "A",
+        "funFact": "A lost ball is when you cannot find your ball within 5 minutes. This results in a penalty stroke and you must play another ball."
     },
     {
-      "question": "What is an unplayable lie?",
-      "A": "Cannot play ball",
-      "B": "Can take penalty and drop",
-      "C": "Both A and B",
-      "D": "Must play it",
-      "answer": "C",
-      "funFact": "An unplayable lie is when you cannot play your ball. You can take a penalty stroke and drop the ball in a playable position."
+        "question": "What is an unplayable lie?",
+        "A": "Cannot play ball",
+        "B": "Can take penalty and drop",
+        "C": "Neither A nor B",
+        "D": "Must play it",
+        "answer": "A",
+        "funFact": "An unplayable lie is when you cannot play your ball. You can take a penalty stroke and drop the ball in a playable position."
     },
     {
-      "question": "What is a provisional ball?",
-      "A": "Second ball played",
-      "B": "If first might be lost",
-      "C": "Both A and B",
-      "D": "Not allowed",
-      "answer": "C",
-      "funFact": "A provisional ball is a second ball played if your first might be lost or out of bounds. It saves time if the first is indeed lost."
+        "question": "What is a provisional ball?",
+        "A": "Second ball played",
+        "B": "If first might be lost",
+        "C": "Neither A nor B",
+        "D": "Not allowed",
+        "answer": "A",
+        "funFact": "A provisional ball is a second ball played if your first might be lost or out of bounds. It saves time if the first is indeed lost."
     },
     {
-      "question": "What is the order of play?",
-      "A": "Farthest from hole plays first",
-      "B": "On tee, honors (lowest score)",
-      "C": "Both A and B",
-      "D": "Random",
-      "answer": "C",
-      "funFact": "The order of play is that the farthest from the hole plays first. On the tee, honors (lowest score on previous hole) goes first."
+        "question": "What is the order of play?",
+        "A": "Farthest from hole plays first",
+        "B": "On tee, honors (lowest score)",
+        "C": "Neither A nor B",
+        "D": "Random",
+        "answer": "A",
+        "funFact": "The order of play is that the farthest from the hole plays first. On the tee, honors (lowest score on previous hole) goes first."
     },
     {
-      "question": "What is ready golf?",
-      "A": "Play when ready",
-      "B": "Speed up play",
-      "C": "Both A and B",
-      "D": "Wait always",
-      "answer": "C",
-      "funFact": "Ready golf means playing when ready (if safe) rather than strictly following order of play. It speeds up play."
+        "question": "What is ready golf?",
+        "A": "Play when ready",
+        "B": "Speed up play",
+        "C": "Neither A nor B",
+        "D": "Wait always",
+        "answer": "A",
+        "funFact": "Ready golf means playing when ready (if safe) rather than strictly following order of play. It speeds up play."
     },
     {
-      "question": "What is the 14-club rule?",
-      "A": "Maximum 14 clubs",
-      "B": "In your bag",
-      "C": "Both A and B",
-      "D": "Unlimited",
-      "answer": "C",
-      "funFact": "The 14-club rule limits you to a maximum of 14 clubs in your bag during a round. More than 14 results in penalties."
+        "question": "What is the 14-club rule?",
+        "A": "Maximum 14 clubs",
+        "B": "In your bag",
+        "C": "Neither A nor B",
+        "D": "Unlimited",
+        "answer": "A",
+        "funFact": "The 14-club rule limits you to a maximum of 14 clubs in your bag during a round. More than 14 results in penalties."
     },
     {
-      "question": "What is the flagstick?",
-      "A": "Can leave in or remove",
-      "B": "When putting",
-      "C": "Both A and B",
-      "D": "Must remove",
-      "answer": "C",
-      "funFact": "The flagstick can be left in the hole or removed when putting. Modern rules allow leaving it in, which can help."
+        "question": "What is the flagstick?",
+        "A": "Can leave in or remove",
+        "B": "When putting",
+        "C": "Neither A nor B",
+        "D": "Must remove",
+        "answer": "A",
+        "funFact": "The flagstick can be left in the hole or removed when putting. Modern rules allow leaving it in, which can help."
     },
     {
-      "question": "What is a gimme?",
-      "A": "Short putt conceded",
-      "B": "In match play",
-      "C": "Both A and B",
-      "D": "Not allowed",
-      "answer": "C",
-      "funFact": "A gimme is a short putt that's conceded (given) in match play. It's not allowed in stroke play."
+        "question": "What is a gimme?",
+        "A": "Short putt conceded",
+        "B": "In match play",
+        "C": "Neither A nor B",
+        "D": "Not allowed",
+        "answer": "A",
+        "funFact": "A gimme is a short putt that's conceded (given) in match play. It's not allowed in stroke play."
     },
     {
-      "question": "What is a mulligan?",
-      "A": "Do-over shot",
-      "B": "Not in official rules",
-      "C": "Both A and B",
-      "D": "Official rule",
-      "answer": "C",
-      "funFact": "A mulligan is a do-over shot, but it's not in the official rules. It's only used in casual play."
+        "question": "What is a mulligan?",
+        "A": "Do-over shot",
+        "B": "Not in official rules",
+        "C": "Neither A nor B",
+        "D": "Official rule",
+        "answer": "A",
+        "funFact": "A mulligan is a do-over shot, but it's not in the official rules. It's only used in casual play."
     },
     {
-      "question": "What is etiquette?",
-      "A": "Proper behavior",
-      "B": "Respect for course and others",
-      "C": "Both A and B",
-      "D": "Not important",
-      "answer": "C",
-      "funFact": "Golf etiquette is proper behavior and respect for the course and other players. It's an important part of the game."
+        "question": "What is etiquette?",
+        "A": "Proper behavior",
+        "B": "Respect for course and others",
+        "C": "Neither A nor B",
+        "D": "Not important",
+        "answer": "A",
+        "funFact": "Golf etiquette is proper behavior and respect for the course and other players. It's an important part of the game."
     },
     {
-      "question": "What is pace of play?",
-      "A": "Speed of play",
-      "B": "Keep up with group ahead",
-      "C": "Both A and B",
-      "D": "No concern",
-      "answer": "C",
-      "funFact": "Pace of play is the speed of play. You should keep up with the group ahead and not delay others."
+        "question": "What is pace of play?",
+        "A": "Speed of play",
+        "B": "Keep up with group ahead",
+        "C": "Neither A nor B",
+        "D": "No concern",
+        "answer": "A",
+        "funFact": "Pace of play is the speed of play. You should keep up with the group ahead and not delay others."
     },
     {
-      "question": "What is repairing the course?",
-      "A": "Fix ball marks",
-      "B": "Replace divots",
-      "C": "Both A and B",
-      "D": "Not necessary",
-      "answer": "C",
-      "funFact": "Repairing the course includes fixing ball marks on greens and replacing divots in fairways. It's good etiquette."
+        "question": "What is repairing the course?",
+        "A": "Fix ball marks",
+        "B": "Replace divots",
+        "C": "Neither A nor B",
+        "D": "Not necessary",
+        "answer": "A",
+        "funFact": "Repairing the course includes fixing ball marks on greens and replacing divots in fairways. It's good etiquette."
     },
     {
-      "question": "What is the rules of golf?",
-      "A": "Governed by USGA and R&A",
-      "B": "Standardized worldwide",
-      "C": "Both A and B",
-      "D": "Different everywhere",
-      "answer": "C",
-      "funFact": "The rules of golf are governed by the USGA (United States) and R&A (Royal and Ancient, Scotland), ensuring consistency worldwide."
+        "question": "What is the rules of golf?",
+        "A": "Governed by USGA and R&A",
+        "B": "Standardized worldwide",
+        "C": "Neither A nor B",
+        "D": "Different everywhere",
+        "answer": "A",
+        "funFact": "The rules of golf are governed by the USGA (United States) and R&A (Royal and Ancient, Scotland), ensuring consistency worldwide."
     },
     {
-      "question": "What is a rules official?",
-      "A": "Enforces rules",
-      "B": "Helps with rulings",
-      "C": "Both A and B",
-      "D": "Not needed",
-      "answer": "C",
-      "funFact": "A rules official enforces rules and helps with rulings during tournaments. They ensure fair play."
+        "question": "What is a rules official?",
+        "A": "Enforces rules",
+        "B": "Helps with rulings",
+        "C": "Neither A nor B",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "A rules official enforces rules and helps with rulings during tournaments. They ensure fair play."
     },
     {
-      "question": "What is the importance of rules?",
-      "A": "Fair play",
-      "B": "Consistency",
-      "C": "Both A and B",
-      "D": "Not important",
-      "answer": "C",
-      "funFact": "Rules ensure fair play and consistency. They're essential for the integrity of the game."
+        "question": "What is the importance of rules?",
+        "A": "Fair play",
+        "B": "Consistency",
+        "C": "Neither A nor B",
+        "D": "Not important",
+        "answer": "A",
+        "funFact": "Rules ensure fair play and consistency. They're essential for the integrity of the game."
     },
     {
-      "question": "What is learning the rules?",
-      "A": "Important for all golfers",
-      "B": "Avoid penalties",
-      "C": "Both A and B",
-      "D": "Not necessary",
-      "answer": "C",
-      "funFact": "Learning the rules is important for all golfers to avoid penalties and play the game correctly. Knowledge helps your game."
+        "question": "What is learning the rules?",
+        "A": "Important for all golfers",
+        "B": "Avoid penalties",
+        "C": "Neither A nor B",
+        "D": "Not necessary",
+        "answer": "A",
+        "funFact": "Learning the rules is important for all golfers to avoid penalties and play the game correctly. Knowledge helps your game."
     }
 ]
-

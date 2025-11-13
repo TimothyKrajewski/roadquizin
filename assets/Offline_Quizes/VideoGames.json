@@ -40,8 +40,8 @@
         "A": "Gameology",
         "B": "Game studies",
         "C": "Ludology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Video games are studied through game studies, ludology (study of games), and interactive media research."
     },
     {
@@ -85,8 +85,8 @@
         "A": "Gameology",
         "B": "Game design",
         "C": "Interactive media",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Video games involve game design, programming, art, music, and storytelling, making it a multidisciplinary field."
     },
     {
@@ -130,8 +130,8 @@
         "A": "Gameology",
         "B": "Game studies",
         "C": "Digital games",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Video games are studied through game studies, digital media, and interactive entertainment research."
     },
     {
@@ -184,8 +184,8 @@
         "A": "Gameology",
         "B": "Game research",
         "C": "Interactive entertainment",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Video games are studied through game research, interactive media, and entertainment technology studies."
     }
 ]

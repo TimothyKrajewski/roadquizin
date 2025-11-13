@@ -1,183 +1,182 @@
 [
     {
-      "question": "What was the Roman army?",
-      "A": "Highly disciplined",
-      "B": "Well-trained and organized",
-      "C": "Both A and B",
-      "D": "Unorganized",
-      "answer": "C",
-      "funFact": "The Roman army was highly disciplined, well-trained, and organized. It was one of the most effective military forces in history."
+        "question": "What was the Roman army?",
+        "A": "Highly disciplined",
+        "B": "Well-trained and organized",
+        "C": "Neither A nor B",
+        "D": "Unorganized",
+        "answer": "A",
+        "funFact": "The Roman army was highly disciplined, well-trained, and organized. It was one of the most effective military forces in history."
     },
     {
-      "question": "What was a legion?",
-      "A": "A Roman military unit",
-      "B": "About 5,000 soldiers",
-      "C": "Both A and B",
-      "D": "A small group",
-      "answer": "C",
-      "funFact": "A legion was a Roman military unit of about 5,000 soldiers. Legions were the backbone of the Roman army and were highly organized."
+        "question": "What was a legion?",
+        "A": "A Roman military unit",
+        "B": "About 5,000 soldiers",
+        "C": "Neither A nor B",
+        "D": "A small group",
+        "answer": "A",
+        "funFact": "A legion was a Roman military unit of about 5,000 soldiers. Legions were the backbone of the Roman army and were highly organized."
     },
     {
-      "question": "What was a centurion?",
-      "A": "A Roman officer",
-      "B": "Commanded about 100 men",
-      "C": "Both A and B",
-      "D": "A general",
-      "answer": "C",
-      "funFact": "A centurion was a Roman officer who commanded about 100 men (a century). Centurions were experienced soldiers and were crucial to the army's effectiveness."
+        "question": "What was a centurion?",
+        "A": "A Roman officer",
+        "B": "Commanded about 100 men",
+        "C": "Neither A nor B",
+        "D": "A general",
+        "answer": "A",
+        "funFact": "A centurion was a Roman officer who commanded about 100 men (a century). Centurions were experienced soldiers and were crucial to the army's effectiveness."
     },
     {
-      "question": "What was a Roman soldier's equipment?",
-      "A": "Gladius (sword)",
-      "B": "Pilum (spear)",
-      "C": "Shield and armor",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "A Roman soldier's equipment included a gladius (short sword), pilum (throwing spear), shield, and armor. This equipment was standardized and effective."
+        "question": "What was a Roman soldier's equipment?",
+        "A": "Gladius (sword)",
+        "B": "Pilum (spear)",
+        "C": "Shield and armor",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "A Roman soldier's equipment included a gladius (short sword), pilum (throwing spear), shield, and armor. This equipment was standardized and effective."
     },
     {
-      "question": "What was the gladius?",
-      "A": "A Roman short sword",
-      "B": "Effective in close combat",
-      "C": "Both A and B",
-      "D": "A long sword",
-      "answer": "C",
-      "funFact": "The gladius was a Roman short sword that was highly effective in close combat. It was designed for stabbing rather than slashing."
+        "question": "What was the gladius?",
+        "A": "A Roman short sword",
+        "B": "Effective in close combat",
+        "C": "Neither A nor B",
+        "D": "A long sword",
+        "answer": "A",
+        "funFact": "The gladius was a Roman short sword that was highly effective in close combat. It was designed for stabbing rather than slashing."
     },
     {
-      "question": "What was the pilum?",
-      "A": "A Roman throwing spear",
-      "B": "Designed to bend on impact",
-      "C": "Both A and B",
-      "D": "A sword",
-      "answer": "C",
-      "funFact": "The pilum was a Roman throwing spear designed to bend on impact, making it difficult for enemies to throw back. It was used before close combat."
+        "question": "What was the pilum?",
+        "A": "A Roman throwing spear",
+        "B": "Designed to bend on impact",
+        "C": "Neither A nor B",
+        "D": "A sword",
+        "answer": "A",
+        "funFact": "The pilum was a Roman throwing spear designed to bend on impact, making it difficult for enemies to throw back. It was used before close combat."
     },
     {
-      "question": "What was a Roman shield?",
-      "A": "Rectangular and curved",
-      "B": "Provided good protection",
-      "C": "Both A and B",
-      "D": "Round",
-      "answer": "C",
-      "funFact": "A Roman shield (scutum) was rectangular and curved, providing excellent protection. Soldiers could form a shield wall (testudo) for defense."
+        "question": "What was a Roman shield?",
+        "A": "Rectangular and curved",
+        "B": "Provided good protection",
+        "C": "Neither A nor B",
+        "D": "Round",
+        "answer": "A",
+        "funFact": "A Roman shield (scutum) was rectangular and curved, providing excellent protection. Soldiers could form a shield wall (testudo) for defense."
     },
     {
-      "question": "What was the testudo?",
-      "A": "A shield formation",
-      "B": "Turtle formation",
-      "C": "Both A and B",
-      "D": "A weapon",
-      "answer": "C",
-      "funFact": "The testudo (turtle) was a shield formation where soldiers held their shields overhead and in front, creating a protective shell. It was effective against arrows."
+        "question": "What was the testudo?",
+        "A": "A shield formation",
+        "B": "Turtle formation",
+        "C": "Neither A nor B",
+        "D": "A weapon",
+        "answer": "A",
+        "funFact": "The testudo (turtle) was a shield formation where soldiers held their shields overhead and in front, creating a protective shell. It was effective against arrows."
     },
     {
-      "question": "What was a Roman soldier's training?",
-      "A": "Intensive",
-      "B": "Emphasized discipline and fitness",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "Roman soldier training was intensive and emphasized discipline and fitness. Soldiers trained daily with weapons and practiced formations."
+        "question": "What was a Roman soldier's training?",
+        "A": "Intensive",
+        "B": "Emphasized discipline and fitness",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "Roman soldier training was intensive and emphasized discipline and fitness. Soldiers trained daily with weapons and practiced formations."
     },
     {
-      "question": "What was a Roman soldier's service?",
-      "A": "Long-term",
-      "B": "Usually 20-25 years",
-      "C": "Both A and B",
-      "D": "Short-term",
-      "answer": "C",
-      "funFact": "Roman soldiers served long terms, usually 20-25 years. Upon retirement, they received land or money as a pension."
+        "question": "What was a Roman soldier's service?",
+        "A": "Long-term",
+        "B": "Usually 20-25 years",
+        "C": "Neither A nor B",
+        "D": "Short-term",
+        "answer": "A",
+        "funFact": "Roman soldiers served long terms, usually 20-25 years. Upon retirement, they received land or money as a pension."
     },
     {
-      "question": "What was the Roman navy?",
-      "A": "Important for control of the Mediterranean",
-      "B": "Used for transport and combat",
-      "C": "Both A and B",
-      "D": "Nonexistent",
-      "answer": "C",
-      "funFact": "The Roman navy was important for control of the Mediterranean. It was used for transport, combat, and protecting trade routes."
+        "question": "What was the Roman navy?",
+        "A": "Important for control of the Mediterranean",
+        "B": "Used for transport and combat",
+        "C": "Neither A nor B",
+        "D": "Nonexistent",
+        "answer": "A",
+        "funFact": "The Roman navy was important for control of the Mediterranean. It was used for transport, combat, and protecting trade routes."
     },
     {
-      "question": "What was a Roman siege engine?",
-      "A": "Used to attack cities",
-      "B": "Included ballistae and catapults",
-      "C": "Both A and B",
-      "D": "Nonexistent",
-      "answer": "C",
-      "funFact": "Roman siege engines were used to attack cities and included ballistae (large crossbows) and catapults. They were highly effective."
+        "question": "What was a Roman siege engine?",
+        "A": "Used to attack cities",
+        "B": "Included ballistae and catapults",
+        "C": "Neither A nor B",
+        "D": "Nonexistent",
+        "answer": "A",
+        "funFact": "Roman siege engines were used to attack cities and included ballistae (large crossbows) and catapults. They were highly effective."
     },
     {
-      "question": "What was the Roman military's organization?",
-      "A": "Highly structured",
-      "B": "Clear chain of command",
-      "C": "Both A and B",
-      "D": "Unorganized",
-      "answer": "C",
-      "funFact": "The Roman military was highly structured with a clear chain of command. This organization was key to its effectiveness."
+        "question": "What was the Roman military's organization?",
+        "A": "Highly structured",
+        "B": "Clear chain of command",
+        "C": "Neither A nor B",
+        "D": "Unorganized",
+        "answer": "A",
+        "funFact": "The Roman military was highly structured with a clear chain of command. This organization was key to its effectiveness."
     },
     {
-      "question": "What was the Roman military's discipline?",
-      "A": "Very strict",
-      "B": "Punishments were harsh",
-      "C": "Both A and B",
-      "D": "Lenient",
-      "answer": "C",
-      "funFact": "Roman military discipline was very strict, and punishments were harsh. Soldiers who disobeyed could be flogged or even executed."
+        "question": "What was the Roman military's discipline?",
+        "A": "Very strict",
+        "B": "Punishments were harsh",
+        "C": "Neither A nor B",
+        "D": "Lenient",
+        "answer": "A",
+        "funFact": "Roman military discipline was very strict, and punishments were harsh. Soldiers who disobeyed could be flogged or even executed."
     },
     {
-      "question": "What was the Roman military's engineering?",
-      "A": "Excellent",
-      "B": "Built roads and fortifications",
-      "C": "Both A and B",
-      "D": "Poor",
-      "answer": "C",
-      "funFact": "Roman military engineering was excellent. Soldiers built roads, bridges, and fortifications, which were crucial to Roman expansion."
+        "question": "What was the Roman military's engineering?",
+        "A": "Excellent",
+        "B": "Built roads and fortifications",
+        "C": "Neither A nor B",
+        "D": "Poor",
+        "answer": "A",
+        "funFact": "Roman military engineering was excellent. Soldiers built roads, bridges, and fortifications, which were crucial to Roman expansion."
     },
     {
-      "question": "What was the Roman military's tactics?",
-      "A": "Adaptive",
-      "B": "Used formations effectively",
-      "C": "Both A and B",
-      "D": "Rigid",
-      "answer": "C",
-      "funFact": "Roman military tactics were adaptive and used formations effectively. The army could adapt to different enemies and terrain."
+        "question": "What was the Roman military's tactics?",
+        "A": "Adaptive",
+        "B": "Used formations effectively",
+        "C": "Neither A nor B",
+        "D": "Rigid",
+        "answer": "A",
+        "funFact": "Roman military tactics were adaptive and used formations effectively. The army could adapt to different enemies and terrain."
     },
     {
-      "question": "What was the Roman military's impact?",
-      "A": "Conquered vast territories",
-      "B": "Maintained the empire",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "The Roman military conquered vast territories and maintained the empire. It was the foundation of Roman power and expansion."
+        "question": "What was the Roman military's impact?",
+        "A": "Conquered vast territories",
+        "B": "Maintained the empire",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "The Roman military conquered vast territories and maintained the empire. It was the foundation of Roman power and expansion."
     },
     {
-      "question": "What was the Roman military's decline?",
-      "A": "Due to many factors",
-      "B": "Included barbarian invasions",
-      "C": "Both A and B",
-      "D": "Never declined",
-      "answer": "C",
-      "funFact": "The Roman military declined due to many factors, including barbarian invasions, economic problems, and political instability. The army became less effective over time."
+        "question": "What was the Roman military's decline?",
+        "A": "Due to many factors",
+        "B": "Included barbarian invasions",
+        "C": "Neither A nor B",
+        "D": "Never declined",
+        "answer": "A",
+        "funFact": "The Roman military declined due to many factors, including barbarian invasions, economic problems, and political instability. The army became less effective over time."
     },
     {
-      "question": "What was the Roman military's legacy?",
-      "A": "Influenced later armies",
-      "B": "Concepts still used today",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The Roman military influenced later armies, and many of its concepts (discipline, organization, engineering) are still used in modern militaries."
+        "question": "What was the Roman military's legacy?",
+        "A": "Influenced later armies",
+        "B": "Concepts still used today",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The Roman military influenced later armies, and many of its concepts (discipline, organization, engineering) are still used in modern militaries."
     },
     {
-      "question": "What was the Roman military's size?",
-      "A": "Varied over time",
-      "B": "At its peak, about 300,000-400,000",
-      "C": "Both A and B",
-      "D": "Always small",
-      "answer": "C",
-      "funFact": "The Roman military's size varied over time. At its peak, it numbered about 300,000-400,000 soldiers, though this varied by period."
+        "question": "What was the Roman military's size?",
+        "A": "Varied over time",
+        "B": "At its peak, about 300,000-400,000",
+        "C": "Neither A nor B",
+        "D": "Always small",
+        "answer": "A",
+        "funFact": "The Roman military's size varied over time. At its peak, it numbered about 300,000-400,000 soldiers, though this varied by period."
     }
 ]
-

@@ -1,93 +1,92 @@
 [
     {
-      "question": "How many players are on a basketball team on the court at one time?",
-      "A": "4",
-      "B": "5",
-      "C": "6",
-      "D": "7",
-      "answer": "B",
-      "funFact": "A basketball team has 5 players on the court at one time: typically two guards, two forwards, and one center."
+        "question": "How many players are on a basketball team on the court at one time?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "answer": "B",
+        "funFact": "A basketball team has 5 players on the court at one time: typically two guards, two forwards, and one center."
     },
     {
-      "question": "What is the maximum score in a single turn in bowling?",
-      "A": "10",
-      "B": "20",
-      "C": "30",
-      "D": "40",
-      "answer": "C",
-      "funFact": "The maximum score in a single turn in bowling is 30 points, achieved by rolling three consecutive strikes (a turkey)."
+        "question": "What is the maximum score in a single turn in bowling?",
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40",
+        "answer": "C",
+        "funFact": "The maximum score in a single turn in bowling is 30 points, achieved by rolling three consecutive strikes (a turkey)."
     },
     {
-      "question": "How many holes are in a standard round of golf?",
-      "A": "9",
-      "B": "18",
-      "C": "27",
-      "D": "36",
-      "answer": "B",
-      "funFact": "A standard round of golf consists of 18 holes, though 9-hole courses also exist. The 18-hole standard was established at St. Andrews in Scotland."
+        "question": "How many holes are in a standard round of golf?",
+        "A": "9",
+        "B": "18",
+        "C": "27",
+        "D": "36",
+        "answer": "B",
+        "funFact": "A standard round of golf consists of 18 holes, though 9-hole courses also exist. The 18-hole standard was established at St. Andrews in Scotland."
     },
     {
-      "question": "What is the distance of a marathon?",
-      "A": "20.1 miles",
-      "B": "24.2 miles",
-      "C": "26.2 miles",
-      "D": "28.3 miles",
-      "answer": "C",
-      "funFact": "A marathon is exactly 26.2 miles (42.195 kilometers), a distance based on the legend of Pheidippides running from Marathon to Athens in 490 BCE."
+        "question": "What is the distance of a marathon?",
+        "A": "20.1 miles",
+        "B": "24.2 miles",
+        "C": "26.2 miles",
+        "D": "28.3 miles",
+        "answer": "C",
+        "funFact": "A marathon is exactly 26.2 miles (42.195 kilometers), a distance based on the legend of Pheidippides running from Marathon to Athens in 490 BCE."
     },
     {
-      "question": "In which sport would you perform a slam dunk?",
-      "A": "Volleyball",
-      "B": "Basketball",
-      "C": "Tennis",
-      "D": "Badminton",
-      "answer": "B",
-      "funFact": "A slam dunk is a basketball move where a player jumps and forcefully throws the ball downward through the basket, one of the most exciting plays in the sport."
+        "question": "In which sport would you perform a slam dunk?",
+        "A": "Volleyball",
+        "B": "Basketball",
+        "C": "Tennis",
+        "D": "Badminton",
+        "answer": "B",
+        "funFact": "A slam dunk is a basketball move where a player jumps and forcefully throws the ball downward through the basket, one of the most exciting plays in the sport."
     },
     {
-      "question": "How many players are on a soccer team on the field at one time?",
-      "A": "9",
-      "B": "10",
-      "C": "11",
-      "D": "12",
-      "answer": "C",
-      "funFact": "A soccer team has 11 players on the field at one time: one goalkeeper and 10 outfield players, typically arranged in formations like 4-4-2 or 4-3-3."
+        "question": "How many players are on a soccer team on the field at one time?",
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12",
+        "answer": "C",
+        "funFact": "A soccer team has 11 players on the field at one time: one goalkeeper and 10 outfield players, typically arranged in formations like 4-4-2 or 4-3-3."
     },
     {
-      "question": "What is the highest score possible in a single game of tennis?",
-      "A": "There is no maximum",
-      "B": "100",
-      "C": "50",
-      "D": "25",
-      "answer": "A",
-      "funFact": "There is no maximum score in tennis. A player must win by two points, so games can continue indefinitely until one player achieves a two-point lead."
+        "question": "What is the highest score possible in a single game of tennis?",
+        "A": "There is no maximum",
+        "B": "100",
+        "C": "50",
+        "D": "25",
+        "answer": "A",
+        "funFact": "There is no maximum score in tennis. A player must win by two points, so games can continue indefinitely until one player achieves a two-point lead."
     },
     {
-      "question": "In which sport is the term 'home run' used?",
-      "A": "Cricket",
-      "B": "Baseball",
-      "C": "Softball",
-      "D": "Both B and C",
-      "answer": "D",
-      "funFact": "A home run is used in both baseball and softball, occurring when a batter hits the ball out of the playing field in fair territory, allowing them to circle all bases and score."
+        "question": "In which sport is the term 'home run' used?",
+        "A": "Cricket",
+        "B": "Baseball",
+        "C": "Softball",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "A home run is used in both baseball and softball, occurring when a batter hits the ball out of the playing field in fair territory, allowing them to circle all bases and score."
     },
     {
-      "question": "How many periods are in a standard ice hockey game?",
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5",
-      "answer": "B",
-      "funFact": "A standard ice hockey game consists of three 20-minute periods, with intermissions between periods. Overtime periods are played if the game is tied."
+        "question": "How many periods are in a standard ice hockey game?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "B",
+        "funFact": "A standard ice hockey game consists of three 20-minute periods, with intermissions between periods. Overtime periods are played if the game is tied."
     },
     {
-      "question": "What is the name of the trophy awarded to the winner of the FIFA World Cup?",
-      "A": "Jules Rimet Trophy",
-      "B": "FIFA World Cup Trophy",
-      "C": "Both A and B",
-      "D": "The Golden Ball",
-      "answer": "B",
-      "funFact": "The FIFA World Cup Trophy is the current trophy awarded to World Cup winners since 1974. The original Jules Rimet Trophy was retired after Brazil won it three times."
+        "question": "What is the name of the trophy awarded to the winner of the FIFA World Cup?",
+        "A": "Jules Rimet Trophy",
+        "B": "FIFA World Cup Trophy",
+        "C": "Neither A nor B",
+        "D": "The Golden Ball",
+        "answer": "B",
+        "funFact": "The FIFA World Cup Trophy is the current trophy awarded to World Cup winners since 1974. The original Jules Rimet Trophy was retired after Brazil won it three times."
     }
 ]
-

@@ -1,93 +1,92 @@
 [
     {
-      "question": "What was the social and economic system that dominated medieval Europe called?",
-      "A": "Capitalism",
-      "B": "Feudalism",
-      "C": "Socialism",
-      "D": "Mercantilism",
-      "answer": "B",
-      "funFact": "Feudalism was the dominant social and economic system in medieval Europe, based on the exchange of land for military service and loyalty."
+        "question": "What was the social and economic system that dominated medieval Europe called?",
+        "A": "Capitalism",
+        "B": "Feudalism",
+        "C": "Socialism",
+        "D": "Mercantilism",
+        "answer": "B",
+        "funFact": "Feudalism was the dominant social and economic system in medieval Europe, based on the exchange of land for military service and loyalty."
     },
     {
-      "question": "Which disease killed approximately one-third of Europe's population in the 14th century?",
-      "A": "Smallpox",
-      "B": "The Black Death",
-      "C": "Cholera",
-      "D": "Typhus",
-      "answer": "B",
-      "funFact": "The Black Death (bubonic plague) killed an estimated 75-200 million people in Europe and Asia between 1347 and 1351, approximately one-third of Europe's population."
+        "question": "Which disease killed approximately one-third of Europe's population in the 14th century?",
+        "A": "Smallpox",
+        "B": "The Black Death",
+        "C": "Cholera",
+        "D": "Typhus",
+        "answer": "B",
+        "funFact": "The Black Death (bubonic plague) killed an estimated 75-200 million people in Europe and Asia between 1347 and 1351, approximately one-third of Europe's population."
     },
     {
-      "question": "What was a knight's code of conduct called?",
-      "A": "Chivalry",
-      "B": "Honor",
-      "C": "Valor",
-      "D": "Nobility",
-      "answer": "A",
-      "funFact": "Chivalry was the medieval knightly system with its religious, moral, and social code, emphasizing honor, courage, and service to others."
+        "question": "What was a knight's code of conduct called?",
+        "A": "Chivalry",
+        "B": "Honor",
+        "C": "Valor",
+        "D": "Nobility",
+        "answer": "A",
+        "funFact": "Chivalry was the medieval knightly system with its religious, moral, and social code, emphasizing honor, courage, and service to others."
     },
     {
-      "question": "Which famous battle in 1066 changed the course of English history?",
-      "A": "Battle of Hastings",
-      "B": "Battle of Agincourt",
-      "C": "Battle of Crecy",
-      "D": "Battle of Bosworth",
-      "answer": "A",
-      "funFact": "The Battle of Hastings in 1066 saw William the Conqueror defeat King Harold II, leading to Norman rule of England and significant changes in English culture and language."
+        "question": "Which famous battle in 1066 changed the course of English history?",
+        "A": "Battle of Hastings",
+        "B": "Battle of Agincourt",
+        "C": "Battle of Crecy",
+        "D": "Battle of Bosworth",
+        "answer": "A",
+        "funFact": "The Battle of Hastings in 1066 saw William the Conqueror defeat King Harold II, leading to Norman rule of England and significant changes in English culture and language."
     },
     {
-      "question": "What were the military expeditions to the Holy Land called?",
-      "A": "Pilgrimages",
-      "B": "Crusades",
-      "C": "Jihads",
-      "D": "Expeditions",
-      "answer": "B",
-      "funFact": "The Crusades were a series of religious wars between Christians and Muslims from 1096 to 1291, aimed at controlling the Holy Land."
+        "question": "What were the military expeditions to the Holy Land called?",
+        "A": "Pilgrimages",
+        "B": "Crusades",
+        "C": "Jihads",
+        "D": "Expeditions",
+        "answer": "B",
+        "funFact": "The Crusades were a series of religious wars between Christians and Muslims from 1096 to 1291, aimed at controlling the Holy Land."
     },
     {
-      "question": "What was the main architectural style of medieval cathedrals?",
-      "A": "Baroque",
-      "B": "Renaissance",
-      "C": "Gothic",
-      "D": "Romanesque",
-      "answer": "C",
-      "funFact": "Gothic architecture, characterized by pointed arches, ribbed vaults, and flying buttresses, was the dominant style for medieval cathedrals, allowing for taller buildings and larger windows."
+        "question": "What was the main architectural style of medieval cathedrals?",
+        "A": "Baroque",
+        "B": "Renaissance",
+        "C": "Gothic",
+        "D": "Romanesque",
+        "answer": "C",
+        "funFact": "Gothic architecture, characterized by pointed arches, ribbed vaults, and flying buttresses, was the dominant style for medieval cathedrals, allowing for taller buildings and larger windows."
     },
     {
-      "question": "Who was known as the 'Maid of Orléans'?",
-      "A": "Eleanor of Aquitaine",
-      "B": "Joan of Arc",
-      "C": "Isabella of Castile",
-      "D": "Matilda of Tuscany",
-      "answer": "B",
-      "funFact": "Joan of Arc, known as the 'Maid of Orléans,' was a French peasant girl who claimed divine visions and led French forces to victory during the Hundred Years' War before being burned at the stake in 1431."
+        "question": "Who was known as the 'Maid of Orléans'?",
+        "A": "Eleanor of Aquitaine",
+        "B": "Joan of Arc",
+        "C": "Isabella of Castile",
+        "D": "Matilda of Tuscany",
+        "answer": "B",
+        "funFact": "Joan of Arc, known as the 'Maid of Orléans,' was a French peasant girl who claimed divine visions and led French forces to victory during the Hundred Years' War before being burned at the stake in 1431."
     },
     {
-      "question": "What was the Magna Carta?",
-      "A": "A peace treaty",
-      "B": "A charter limiting the power of the English king",
-      "C": "A declaration of war",
-      "D": "A trade agreement",
-      "answer": "B",
-      "funFact": "The Magna Carta, signed in 1215, was a charter that limited the power of the English king and established the principle that everyone, including the king, was subject to the law."
+        "question": "What was the Magna Carta?",
+        "A": "A peace treaty",
+        "B": "A charter limiting the power of the English king",
+        "C": "A declaration of war",
+        "D": "A trade agreement",
+        "answer": "B",
+        "funFact": "The Magna Carta, signed in 1215, was a charter that limited the power of the English king and established the principle that everyone, including the king, was subject to the law."
     },
     {
-      "question": "What was a medieval castle's defensive structure called?",
-      "A": "Keep",
-      "B": "Moat",
-      "C": "Drawbridge",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Medieval castles had multiple defensive features including keeps (towers), moats (water-filled ditches), drawbridges, and battlements to protect against attacks."
+        "question": "What was a medieval castle's defensive structure called?",
+        "A": "Keep",
+        "B": "Moat",
+        "C": "Drawbridge",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Medieval castles had multiple defensive features including keeps (towers), moats (water-filled ditches), drawbridges, and battlements to protect against attacks."
     },
     {
-      "question": "Which empire was the main rival to medieval Europe in the East?",
-      "A": "Ottoman Empire",
-      "B": "Byzantine Empire",
-      "C": "Persian Empire",
-      "D": "Mongol Empire",
-      "answer": "B",
-      "funFact": "The Byzantine Empire, the continuation of the Eastern Roman Empire, was a major power in the medieval period and often conflicted with Western European powers."
+        "question": "Which empire was the main rival to medieval Europe in the East?",
+        "A": "Ottoman Empire",
+        "B": "Byzantine Empire",
+        "C": "Persian Empire",
+        "D": "Mongol Empire",
+        "answer": "B",
+        "funFact": "The Byzantine Empire, the continuation of the Eastern Roman Empire, was a major power in the medieval period and often conflicted with Western European powers."
     }
 ]
-

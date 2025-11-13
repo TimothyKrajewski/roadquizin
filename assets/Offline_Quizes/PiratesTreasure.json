@@ -1,183 +1,182 @@
 [
     {
-      "question": "What was pirate treasure usually?",
-      "A": "Gold coins",
-      "B": "Jewels",
-      "C": "Spices and goods",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Pirate treasure could include gold coins, jewels, spices, silk, sugar, and other valuable goods. The romantic image of buried treasure chests is largely fictional."
+        "question": "What was pirate treasure usually?",
+        "A": "Gold coins",
+        "B": "Jewels",
+        "C": "Spices and goods",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Pirate treasure could include gold coins, jewels, spices, silk, sugar, and other valuable goods. The romantic image of buried treasure chests is largely fictional."
     },
     {
-      "question": "Did pirates really bury treasure?",
-      "A": "Yes, always",
-      "B": "No, never",
-      "C": "Rarely",
-      "D": "Only in stories",
-      "answer": "C",
-      "funFact": "Pirates rarely buried treasure. Most treasure was spent quickly on supplies, repairs, and entertainment. Buried treasure was more common in fiction than reality."
+        "question": "Did pirates really bury treasure?",
+        "A": "Yes, always",
+        "B": "No, never",
+        "C": "Rarely",
+        "D": "Only in stories",
+        "answer": "C",
+        "funFact": "Pirates rarely buried treasure. Most treasure was spent quickly on supplies, repairs, and entertainment. Buried treasure was more common in fiction than reality."
     },
     {
-      "question": "What was the most valuable treasure?",
-      "A": "Gold",
-      "B": "Silver",
-      "C": "Spices",
-      "D": "All were valuable",
-      "answer": "D",
-      "funFact": "All types of treasure were valuable, but spices were often worth more than their weight in gold. Spices like pepper, cinnamon, and nutmeg were extremely valuable."
+        "question": "What was the most valuable treasure?",
+        "A": "Gold",
+        "B": "Silver",
+        "C": "Spices",
+        "D": "All were valuable",
+        "answer": "D",
+        "funFact": "All types of treasure were valuable, but spices were often worth more than their weight in gold. Spices like pepper, cinnamon, and nutmeg were extremely valuable."
     },
     {
-      "question": "What was Spanish treasure?",
-      "A": "Gold and silver from the Americas",
-      "B": "Jewels",
-      "C": "Both A and B",
-      "D": "Spices",
-      "answer": "C",
-      "funFact": "Spanish treasure ships carried gold and silver from the Americas, as well as jewels and other valuables. These ships were prime targets for pirates."
+        "question": "What was Spanish treasure?",
+        "A": "Gold and silver from the Americas",
+        "B": "Jewels",
+        "C": "Neither A nor B",
+        "D": "Spices",
+        "answer": "A",
+        "funFact": "Spanish treasure ships carried gold and silver from the Americas, as well as jewels and other valuables. These ships were prime targets for pirates."
     },
     {
-      "question": "What was a treasure fleet?",
-      "A": "A group of treasure ships",
-      "B": "Spanish ships carrying treasure",
-      "C": "Both A and B",
-      "D": "A pirate fleet",
-      "answer": "C",
-      "funFact": "A treasure fleet was a group of Spanish ships that sailed together for protection, carrying treasure from the Americas to Spain. Pirates sometimes attacked these fleets."
+        "question": "What was a treasure fleet?",
+        "A": "A group of treasure ships",
+        "B": "Spanish ships carrying treasure",
+        "C": "Neither A nor B",
+        "D": "A pirate fleet",
+        "answer": "A",
+        "funFact": "A treasure fleet was a group of Spanish ships that sailed together for protection, carrying treasure from the Americas to Spain. Pirates sometimes attacked these fleets."
     },
     {
-      "question": "What was the value of typical pirate treasure?",
-      "A": "Small amounts",
-      "B": "Large amounts",
-      "C": "Varied greatly",
-      "D": "Unknown",
-      "answer": "C",
-      "funFact": "The value of pirate treasure varied greatly. Some captures were worth millions in today's money, while others were relatively small."
+        "question": "What was the value of typical pirate treasure?",
+        "A": "Small amounts",
+        "B": "Large amounts",
+        "C": "Varied greatly",
+        "D": "Unknown",
+        "answer": "C",
+        "funFact": "The value of pirate treasure varied greatly. Some captures were worth millions in today's money, while others were relatively small."
     },
     {
-      "question": "What was treasure divided by?",
-      "A": "Rank",
-      "B": "Performance",
-      "C": "Both A and B",
-      "D": "Equally",
-      "answer": "A",
-      "funFact": "Treasure was typically divided by rank, with the captain getting the largest share. The shares were outlined in the pirate's code."
+        "question": "What was treasure divided by?",
+        "A": "Rank",
+        "B": "Performance",
+        "C": "Neither A nor B",
+        "D": "Equally",
+        "answer": "A",
+        "funFact": "Treasure was typically divided by rank, with the captain getting the largest share. The shares were outlined in the pirate's code."
     },
     {
-      "question": "What was a captain's share?",
-      "A": "The largest share",
-      "B": "Usually 2-3 times a crew member's share",
-      "C": "Both A and B",
-      "D": "Equal to crew",
-      "answer": "C",
-      "funFact": "A captain's share was the largest share of treasure, usually 2-3 times a regular crew member's share. This reflected the captain's responsibility and risk."
+        "question": "What was a captain's share?",
+        "A": "The largest share",
+        "B": "Usually 2-3 times a crew member's share",
+        "C": "Neither A nor B",
+        "D": "Equal to crew",
+        "answer": "A",
+        "funFact": "A captain's share was the largest share of treasure, usually 2-3 times a regular crew member's share. This reflected the captain's responsibility and risk."
     },
     {
-      "question": "What was a quartermaster's share?",
-      "A": "Usually 1.5-2 times a crew member's share",
-      "B": "Equal to captain",
-      "C": "Less than crew",
-      "D": "Unknown",
-      "answer": "A",
-      "funFact": "A quartermaster's share was usually 1.5-2 times a regular crew member's share. The quartermaster was second in command and handled discipline and supplies."
+        "question": "What was a quartermaster's share?",
+        "A": "Usually 1.5-2 times a crew member's share",
+        "B": "Equal to captain",
+        "C": "Less than crew",
+        "D": "Unknown",
+        "answer": "A",
+        "funFact": "A quartermaster's share was usually 1.5-2 times a regular crew member's share. The quartermaster was second in command and handled discipline and supplies."
     },
     {
-      "question": "What was a crew member's share?",
-      "A": "One share",
-      "B": "The base unit",
-      "C": "Both A and B",
-      "D": "Half a share",
-      "answer": "C",
-      "funFact": "A crew member's share was one share, the base unit for dividing treasure. All other shares were multiples of this base share."
+        "question": "What was a crew member's share?",
+        "A": "One share",
+        "B": "The base unit",
+        "C": "Neither A nor B",
+        "D": "Half a share",
+        "answer": "A",
+        "funFact": "A crew member's share was one share, the base unit for dividing treasure. All other shares were multiples of this base share."
     },
     {
-      "question": "What was treasure used for?",
-      "A": "Supplies",
-      "B": "Repairs",
-      "C": "Entertainment",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Treasure was used for supplies, ship repairs, and entertainment. Pirates spent their money quickly, often in port towns on food, drink, and other pleasures."
+        "question": "What was treasure used for?",
+        "A": "Supplies",
+        "B": "Repairs",
+        "C": "Entertainment",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Treasure was used for supplies, ship repairs, and entertainment. Pirates spent their money quickly, often in port towns on food, drink, and other pleasures."
     },
     {
-      "question": "What was the most famous buried treasure?",
-      "A": "Captain Kidd's treasure",
-      "B": "Blackbeard's treasure",
-      "C": "Both A and B",
-      "D": "None existed",
-      "answer": "C",
-      "funFact": "Captain Kidd's and Blackbeard's treasures are the most famous, though there's little evidence they actually buried treasure. Most treasure was spent quickly."
+        "question": "What was the most famous buried treasure?",
+        "A": "Captain Kidd's treasure",
+        "B": "Blackbeard's treasure",
+        "C": "Neither A nor B",
+        "D": "None existed",
+        "answer": "A",
+        "funFact": "Captain Kidd's and Blackbeard's treasures are the most famous, though there's little evidence they actually buried treasure. Most treasure was spent quickly."
     },
     {
-      "question": "What was treasure hunting?",
-      "A": "Searching for buried treasure",
-      "B": "Attacking ships",
-      "C": "Both A and B",
-      "D": "Mining",
-      "answer": "B",
-      "funFact": "Treasure hunting for pirates meant attacking ships and taking their cargo. The romantic image of treasure hunting for buried chests is largely fictional."
+        "question": "What was treasure hunting?",
+        "A": "Searching for buried treasure",
+        "B": "Attacking ships",
+        "C": "Neither A nor B",
+        "D": "Mining",
+        "answer": "B",
+        "funFact": "Treasure hunting for pirates meant attacking ships and taking their cargo. The romantic image of treasure hunting for buried chests is largely fictional."
     },
     {
-      "question": "What was a treasure map?",
-      "A": "A map showing buried treasure",
-      "B": "Largely fictional",
-      "C": "Both A and B",
-      "D": "A navigation chart",
-      "answer": "C",
-      "funFact": "Treasure maps showing buried treasure are largely fictional. Real pirates used maps for navigation, not for finding buried treasure."
+        "question": "What was a treasure map?",
+        "A": "A map showing buried treasure",
+        "B": "Largely fictional",
+        "C": "Neither A nor B",
+        "D": "A navigation chart",
+        "answer": "A",
+        "funFact": "Treasure maps showing buried treasure are largely fictional. Real pirates used maps for navigation, not for finding buried treasure."
     },
     {
-      "question": "What was the Whydah treasure?",
-      "A": "Black Sam Bellamy's treasure",
-      "B": "Discovered in 1984",
-      "C": "Both A and B",
-      "D": "Fictional",
-      "answer": "C",
-      "funFact": "The Whydah treasure was Black Sam Bellamy's treasure, discovered off Cape Cod in 1984. It's the only authenticated pirate treasure ever found."
+        "question": "What was the Whydah treasure?",
+        "A": "Black Sam Bellamy's treasure",
+        "B": "Discovered in 1984",
+        "C": "Neither A nor B",
+        "D": "Fictional",
+        "answer": "A",
+        "funFact": "The Whydah treasure was Black Sam Bellamy's treasure, discovered off Cape Cod in 1984. It's the only authenticated pirate treasure ever found."
     },
     {
-      "question": "What was the value of the Whydah treasure?",
-      "A": "Millions of dollars",
-      "B": "Over $400 million",
-      "C": "Both A and B",
-      "D": "Unknown",
-      "answer": "C",
-      "funFact": "The Whydah treasure is estimated to be worth over $400 million. It included gold, silver, jewels, and artifacts from over 50 captured ships."
+        "question": "What was the value of the Whydah treasure?",
+        "A": "Millions of dollars",
+        "B": "Over $400 million",
+        "C": "Neither A nor B",
+        "D": "Unknown",
+        "answer": "A",
+        "funFact": "The Whydah treasure is estimated to be worth over $400 million. It included gold, silver, jewels, and artifacts from over 50 captured ships."
     },
     {
-      "question": "What was treasure insurance?",
-      "A": "Protection for treasure ships",
-      "B": "Escort by naval vessels",
-      "C": "Both A and B",
-      "D": "Nonexistent",
-      "answer": "C",
-      "funFact": "Treasure ships were often protected by naval escorts and sailed in fleets for safety. This made them harder targets for pirates."
+        "question": "What was treasure insurance?",
+        "A": "Protection for treasure ships",
+        "B": "Escort by naval vessels",
+        "C": "Neither A nor B",
+        "D": "Nonexistent",
+        "answer": "A",
+        "funFact": "Treasure ships were often protected by naval escorts and sailed in fleets for safety. This made them harder targets for pirates."
     },
     {
-      "question": "What was treasure's impact on piracy?",
-      "A": "Motivated pirates",
-      "B": "Made piracy profitable",
-      "C": "Both A and B",
-      "D": "Had no impact",
-      "answer": "C",
-      "funFact": "Treasure motivated pirates and made piracy profitable. The promise of wealth attracted many to piracy, though most pirates didn't become wealthy."
+        "question": "What was treasure's impact on piracy?",
+        "A": "Motivated pirates",
+        "B": "Made piracy profitable",
+        "C": "Neither A nor B",
+        "D": "Had no impact",
+        "answer": "A",
+        "funFact": "Treasure motivated pirates and made piracy profitable. The promise of wealth attracted many to piracy, though most pirates didn't become wealthy."
     },
     {
-      "question": "What was treasure's role in ending piracy?",
-      "A": "Governments protected treasure ships",
-      "B": "Made piracy less profitable",
-      "C": "Both A and B",
-      "D": "Had no role",
-      "answer": "C",
-      "funFact": "Governments increased protection of treasure ships and trade routes, making piracy less profitable. This contributed to the end of the Golden Age of Piracy."
+        "question": "What was treasure's role in ending piracy?",
+        "A": "Governments protected treasure ships",
+        "B": "Made piracy less profitable",
+        "C": "Neither A nor B",
+        "D": "Had no role",
+        "answer": "A",
+        "funFact": "Governments increased protection of treasure ships and trade routes, making piracy less profitable. This contributed to the end of the Golden Age of Piracy."
     },
     {
-      "question": "What is modern treasure hunting?",
-      "A": "Searching for sunken ships",
-      "B": "Archaeological exploration",
-      "C": "Both A and B",
-      "D": "Fiction",
-      "answer": "C",
-      "funFact": "Modern treasure hunting involves searching for sunken ships and archaeological exploration. Several pirate shipwrecks have been discovered, including the Whydah."
+        "question": "What is modern treasure hunting?",
+        "A": "Searching for sunken ships",
+        "B": "Archaeological exploration",
+        "C": "Neither A nor B",
+        "D": "Fiction",
+        "answer": "A",
+        "funFact": "Modern treasure hunting involves searching for sunken ships and archaeological exploration. Several pirate shipwrecks have been discovered, including the Whydah."
     }
 ]
-

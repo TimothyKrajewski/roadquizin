@@ -31,8 +31,8 @@
         "A": "Desertology",
         "B": "Desert geography",
         "C": "Arid land studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and arid land studies, exploring their unique ecosystems."
     },
     {
@@ -49,8 +49,8 @@
         "A": "Desertology",
         "B": "Desert ecology",
         "C": "Arid zone research",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through ecology, geography, and environmental science."
     },
     {
@@ -67,8 +67,8 @@
         "A": "Desertology",
         "B": "Desert studies",
         "C": "Geography",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and environmental science."
     },
     {
@@ -85,8 +85,8 @@
         "A": "Desertology",
         "B": "Desert geography",
         "C": "Environmental studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and environmental research."
     },
     {
@@ -103,8 +103,8 @@
         "A": "Desertology",
         "B": "Desert research",
         "C": "Geographic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and environmental science."
     },
     {
@@ -121,8 +121,8 @@
         "A": "Desertology",
         "B": "Desert studies",
         "C": "Arid land research",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and environmental science, exploring their unique characteristics."
     },
     {
@@ -139,8 +139,8 @@
         "A": "Desertology",
         "B": "Desert geography",
         "C": "Environmental studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and environmental research."
     },
     {
@@ -157,8 +157,8 @@
         "A": "Desertology",
         "B": "Desert research",
         "C": "Geographic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and environmental science, exploring their formation and ecosystems."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Desertology",
         "B": "Desert studies",
         "C": "Arid zone research",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Deserts are studied through geography, ecology, and environmental science, understanding their unique characteristics."
     }
 ]

@@ -1,183 +1,182 @@
 [
     {
-      "question": "What are the four major championships?",
-      "A": "Masters, US Open, British Open, PGA Championship",
-      "B": "Most prestigious tournaments",
-      "C": "Both A and B",
-      "D": "Regular tournaments",
-      "answer": "C",
-      "funFact": "The four major championships are the Masters, US Open, British Open (The Open), and PGA Championship. They're the most prestigious tournaments."
+        "question": "What are the four major championships?",
+        "A": "Masters, US Open, British Open, PGA Championship",
+        "B": "Most prestigious tournaments",
+        "C": "Neither A nor B",
+        "D": "Regular tournaments",
+        "answer": "A",
+        "funFact": "The four major championships are the Masters, US Open, British Open (The Open), and PGA Championship. They're the most prestigious tournaments."
     },
     {
-      "question": "What is the Masters?",
-      "A": "Played at Augusta National",
-      "B": "First major of year",
-      "C": "Both A and B",
-      "D": "Last major",
-      "answer": "C",
-      "funFact": "The Masters is played at Augusta National Golf Club in Georgia. It's the first major of the year, held in April."
+        "question": "What is the Masters?",
+        "A": "Played at Augusta National",
+        "B": "First major of year",
+        "C": "Neither A nor B",
+        "D": "Last major",
+        "answer": "A",
+        "funFact": "The Masters is played at Augusta National Golf Club in Georgia. It's the first major of the year, held in April."
     },
     {
-      "question": "What is the US Open?",
-      "A": "Played at different courses",
-      "B": "Second major of year",
-      "C": "Both A and B",
-      "D": "Same course",
-      "answer": "C",
-      "funFact": "The US Open is played at different courses each year. It's the second major, held in June, and is known for difficult course setups."
+        "question": "What is the US Open?",
+        "A": "Played at different courses",
+        "B": "Second major of year",
+        "C": "Neither A nor B",
+        "D": "Same course",
+        "answer": "A",
+        "funFact": "The US Open is played at different courses each year. It's the second major, held in June, and is known for difficult course setups."
     },
     {
-      "question": "What is the British Open?",
-      "B": "Oldest major",
-      "C": "Both A and B",
-      "D": "Newest major",
-      "A": "Played at links courses",
-      "answer": "C",
-      "funFact": "The British Open (The Open Championship) is the oldest major, first held in 1860. It's played at links courses in the UK."
+        "question": "What is the British Open?",
+        "B": "Oldest major",
+        "C": "Neither A nor B",
+        "D": "Newest major",
+        "A": "Played at links courses",
+        "answer": "A",
+        "funFact": "The British Open (The Open Championship) is the oldest major, first held in 1860. It's played at links courses in the UK."
     },
     {
-      "question": "What is the PGA Championship?",
-      "A": "Fourth major",
-      "B": "Played in May",
-      "C": "Both A and B",
-      "D": "First major",
-      "answer": "C",
-      "funFact": "The PGA Championship is the fourth major of the year, typically played in May. It's organized by the PGA of America."
+        "question": "What is the PGA Championship?",
+        "A": "Fourth major",
+        "B": "Played in May",
+        "C": "Neither A nor B",
+        "D": "First major",
+        "answer": "A",
+        "funFact": "The PGA Championship is the fourth major of the year, typically played in May. It's organized by the PGA of America."
     },
     {
-      "question": "What is the Grand Slam?",
-      "A": "Winning all four majors in one year",
-      "B": "Only Bobby Jones did it",
-      "C": "Both A and B",
-      "D": "Winning one major",
-      "answer": "C",
-      "funFact": "The Grand Slam is winning all four majors in one year. Only Bobby Jones achieved this in 1930 (though the majors were different then)."
+        "question": "What is the Grand Slam?",
+        "A": "Winning all four majors in one year",
+        "B": "Only Bobby Jones did it",
+        "C": "Neither A nor B",
+        "D": "Winning one major",
+        "answer": "A",
+        "funFact": "The Grand Slam is winning all four majors in one year. Only Bobby Jones achieved this in 1930 (though the majors were different then)."
     },
     {
-      "question": "What is the Career Grand Slam?",
-      "A": "Winning all four majors in career",
-      "B": "Few players achieved it",
-      "C": "Both A and B",
-      "D": "Winning one major",
-      "answer": "C",
-      "funFact": "The Career Grand Slam is winning all four majors at some point in a career. Only a few players have achieved this."
+        "question": "What is the Career Grand Slam?",
+        "A": "Winning all four majors in career",
+        "B": "Few players achieved it",
+        "C": "Neither A nor B",
+        "D": "Winning one major",
+        "answer": "A",
+        "funFact": "The Career Grand Slam is winning all four majors at some point in a career. Only a few players have achieved this."
     },
     {
-      "question": "What is the green jacket?",
-      "A": "Awarded to Masters winner",
-      "B": "Symbol of victory",
-      "C": "Both A and B",
-      "D": "Regular jacket",
-      "answer": "C",
-      "funFact": "The green jacket is awarded to the Masters winner. It's a symbol of victory and is one of golf's most iconic prizes."
+        "question": "What is the green jacket?",
+        "A": "Awarded to Masters winner",
+        "B": "Symbol of victory",
+        "C": "Neither A nor B",
+        "D": "Regular jacket",
+        "answer": "A",
+        "funFact": "The green jacket is awarded to the Masters winner. It's a symbol of victory and is one of golf's most iconic prizes."
     },
     {
-      "question": "What is the Claret Jug?",
-      "A": "Trophy for British Open",
-      "B": "Iconic trophy",
-      "C": "Both A and B",
-      "D": "Regular trophy",
-      "answer": "C",
-      "funFact": "The Claret Jug is the trophy awarded to the British Open winner. It's one of golf's most iconic trophies."
+        "question": "What is the Claret Jug?",
+        "A": "Trophy for British Open",
+        "B": "Iconic trophy",
+        "C": "Neither A nor B",
+        "D": "Regular trophy",
+        "answer": "A",
+        "funFact": "The Claret Jug is the trophy awarded to the British Open winner. It's one of golf's most iconic trophies."
     },
     {
-      "question": "What is the Wanamaker Trophy?",
-      "A": "Trophy for PGA Championship",
-      "B": "Large trophy",
-      "C": "Both A and B",
-      "D": "Small trophy",
-      "answer": "C",
-      "funFact": "The Wanamaker Trophy is awarded to the PGA Championship winner. It's a large, impressive trophy."
+        "question": "What is the Wanamaker Trophy?",
+        "A": "Trophy for PGA Championship",
+        "B": "Large trophy",
+        "C": "Neither A nor B",
+        "D": "Small trophy",
+        "answer": "A",
+        "funFact": "The Wanamaker Trophy is awarded to the PGA Championship winner. It's a large, impressive trophy."
     },
     {
-      "question": "What is the US Open trophy?",
-      "A": "Trophy for US Open",
-      "B": "Different each year",
-      "C": "Both A and B",
-      "D": "Same as Masters",
-      "answer": "C",
-      "funFact": "The US Open trophy is awarded to the winner. The design has changed over the years."
+        "question": "What is the US Open trophy?",
+        "A": "Trophy for US Open",
+        "B": "Different each year",
+        "C": "Neither A nor B",
+        "D": "Same as Masters",
+        "answer": "A",
+        "funFact": "The US Open trophy is awarded to the winner. The design has changed over the years."
     },
     {
-      "question": "What is the importance of majors?",
-      "A": "Define greatness",
-      "B": "Most prestigious",
-      "C": "Both A and B",
-      "D": "Regular tournaments",
-      "answer": "C",
-      "funFact": "Major championships define greatness in golf and are the most prestigious tournaments. Winning majors is the ultimate goal."
+        "question": "What is the importance of majors?",
+        "A": "Define greatness",
+        "B": "Most prestigious",
+        "C": "Neither A nor B",
+        "D": "Regular tournaments",
+        "answer": "A",
+        "funFact": "Major championships define greatness in golf and are the most prestigious tournaments. Winning majors is the ultimate goal."
     },
     {
-      "question": "What is the history of majors?",
-      "A": "Evolved over time",
-      "B": "British Open oldest",
-      "C": "Both A and B",
-      "D": "Always same",
-      "answer": "C",
-      "funFact": "The majors have evolved over time. The British Open is the oldest (1860), while the Masters is the newest (1934)."
+        "question": "What is the history of majors?",
+        "A": "Evolved over time",
+        "B": "British Open oldest",
+        "C": "Neither A nor B",
+        "D": "Always same",
+        "answer": "A",
+        "funFact": "The majors have evolved over time. The British Open is the oldest (1860), while the Masters is the newest (1934)."
     },
     {
-      "question": "What is the format of majors?",
-      "A": "72 holes",
-      "B": "4 rounds",
-      "C": "Both A and B",
-      "D": "18 holes",
-      "answer": "C",
-      "funFact": "Major championships are played over 72 holes (4 rounds of 18 holes). The lowest total score wins."
+        "question": "What is the format of majors?",
+        "A": "72 holes",
+        "B": "4 rounds",
+        "C": "Neither A nor B",
+        "D": "18 holes",
+        "answer": "A",
+        "funFact": "Major championships are played over 72 holes (4 rounds of 18 holes). The lowest total score wins."
     },
     {
-      "question": "What is the cut?",
-      "A": "Players eliminated after 2 rounds",
-      "B": "Top scores continue",
-      "C": "Both A and B",
-      "D": "No elimination",
-      "answer": "C",
-      "funFact": "The cut eliminates players after 2 rounds. Only players with scores above the cut line continue to the final 2 rounds."
+        "question": "What is the cut?",
+        "A": "Players eliminated after 2 rounds",
+        "B": "Top scores continue",
+        "C": "Neither A nor B",
+        "D": "No elimination",
+        "answer": "A",
+        "funFact": "The cut eliminates players after 2 rounds. Only players with scores above the cut line continue to the final 2 rounds."
     },
     {
-      "question": "What is the prize money?",
-      "A": "Millions of dollars",
-      "B": "Highest in golf",
-      "C": "Both A and B",
-      "D": "Small amounts",
-      "answer": "C",
-      "funFact": "Major championships offer millions of dollars in prize money, with the highest purses in golf."
+        "question": "What is the prize money?",
+        "A": "Millions of dollars",
+        "B": "Highest in golf",
+        "C": "Neither A nor B",
+        "D": "Small amounts",
+        "answer": "A",
+        "funFact": "Major championships offer millions of dollars in prize money, with the highest purses in golf."
     },
     {
-      "question": "What is the prestige?",
-      "A": "Highest in golf",
-      "B": "Career-defining",
-      "C": "Both A and B",
-      "D": "Regular tournaments",
-      "answer": "C",
-      "funFact": "Major championships have the highest prestige in golf. Winning a major is career-defining for any golfer."
+        "question": "What is the prestige?",
+        "A": "Highest in golf",
+        "B": "Career-defining",
+        "C": "Neither A nor B",
+        "D": "Regular tournaments",
+        "answer": "A",
+        "funFact": "Major championships have the highest prestige in golf. Winning a major is career-defining for any golfer."
     },
     {
-      "question": "What is the viewership?",
-      "A": "Millions watch",
-      "B": "Most-watched golf",
-      "C": "Both A and B",
-      "D": "Few viewers",
-      "answer": "C",
-      "funFact": "Major championships are watched by millions of people worldwide. They're the most-watched golf tournaments."
+        "question": "What is the viewership?",
+        "A": "Millions watch",
+        "B": "Most-watched golf",
+        "C": "Neither A nor B",
+        "D": "Few viewers",
+        "answer": "A",
+        "funFact": "Major championships are watched by millions of people worldwide. They're the most-watched golf tournaments."
     },
     {
-      "question": "What is the legacy?",
-      "A": "Historic moments",
-      "B": "Remembered forever",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "Major championships create historic moments that are remembered forever. They're part of golf's rich history."
+        "question": "What is the legacy?",
+        "A": "Historic moments",
+        "B": "Remembered forever",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "Major championships create historic moments that are remembered forever. They're part of golf's rich history."
     },
     {
-      "question": "What is the future?",
-      "A": "Will continue",
-      "B": "Most important tournaments",
-      "C": "Both A and B",
-      "D": "Will end",
-      "answer": "C",
-      "funFact": "Major championships will continue to be the most important tournaments in golf, defining greatness for generations to come."
+        "question": "What is the future?",
+        "A": "Will continue",
+        "B": "Most important tournaments",
+        "C": "Neither A nor B",
+        "D": "Will end",
+        "answer": "A",
+        "funFact": "Major championships will continue to be the most important tournaments in golf, defining greatness for generations to come."
     }
 ]
-

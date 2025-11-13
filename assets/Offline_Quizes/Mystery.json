@@ -31,8 +31,8 @@
         "A": "Mysteryology",
         "B": "Mystery studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mystery literature is studied through literary studies, genre analysis, and detective fiction research."
     },
     {
@@ -76,8 +76,8 @@
         "A": "Mysteryology",
         "B": "Mystery analysis",
         "C": "Detective fiction",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mystery literature is studied through literary studies, genre analysis, and detective fiction research."
     },
     {
@@ -121,8 +121,8 @@
         "A": "Mysteryology",
         "B": "Mystery studies",
         "C": "Crime fiction",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mystery literature is studied through literary studies, genre research, and crime fiction analysis."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Mysteryology",
         "B": "Mystery research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mystery literature is studied through literary studies, genre research, and detective fiction analysis, exploring its techniques and appeal."
     }
 ]

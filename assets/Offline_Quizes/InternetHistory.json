@@ -40,8 +40,8 @@
         "A": "Internetology",
         "B": "Internet history",
         "C": "Digital history",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Internet history is studied through computer science history, digital history, and technology studies."
     },
     {
@@ -85,8 +85,8 @@
         "A": "Internetology",
         "B": "Digital archaeology",
         "C": "Network history",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Internet history involves studying the development of networks, protocols, and how the internet has evolved."
     },
     {
@@ -130,8 +130,8 @@
         "A": "Internetology",
         "B": "Internet studies",
         "C": "Digital history",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Internet history is studied through computer science, digital history, and technology studies."
     },
     {
@@ -139,8 +139,8 @@
         "A": "AOL",
         "B": "CompuServe",
         "C": "Prodigy",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Early commercial internet services included CompuServe (1969), Prodigy (1984), and AOL (1985), bringing the internet to consumers."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Internetology",
         "B": "Internet history",
         "C": "Digital archaeology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Internet history involves studying the development of networks, protocols, and how the internet has changed society."
     },
     {

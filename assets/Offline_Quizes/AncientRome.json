@@ -139,8 +139,8 @@
         "A": "Romanology",
         "B": "Classical studies",
         "C": "History",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Ancient Rome is studied through classical studies, Roman history, archaeology, and Latin literature."
     },
     {

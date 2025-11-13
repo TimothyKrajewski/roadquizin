@@ -1,93 +1,92 @@
 [
     {
-      "question": "What are clouds made of?",
-      "A": "Water vapor",
-      "B": "Tiny water droplets or ice crystals",
-      "C": "Dust",
-      "D": "All of the above",
-      "answer": "B",
-      "funFact": "Clouds are made of tiny water droplets or ice crystals suspended in the air. When water vapor condenses, it forms these droplets or crystals."
+        "question": "What are clouds made of?",
+        "A": "Water vapor",
+        "B": "Tiny water droplets or ice crystals",
+        "C": "Dust",
+        "D": "None of the above",
+        "answer": "B",
+        "funFact": "Clouds are made of tiny water droplets or ice crystals suspended in the air. When water vapor condenses, it forms these droplets or crystals."
     },
     {
-      "question": "How are clouds formed?",
-      "A": "Water evaporates and condenses",
-      "B": "Dust collects in the sky",
-      "C": "Air cools and water vapor condenses",
-      "D": "Both A and C",
-      "answer": "D",
-      "funFact": "Clouds form when water evaporates from Earth's surface, rises into the atmosphere, cools, and condenses into tiny water droplets or ice crystals around particles in the air."
+        "question": "How are clouds formed?",
+        "A": "Water evaporates and condenses",
+        "B": "Dust collects in the sky",
+        "C": "Air cools and water vapor condenses",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Clouds form when water evaporates from Earth's surface, rises into the atmosphere, cools, and condenses into tiny water droplets or ice crystals around particles in the air."
     },
     {
-      "question": "What are the puffy, white clouds called?",
-      "A": "Stratus",
-      "B": "Cumulus",
-      "C": "Cirrus",
-      "D": "Nimbus",
-      "answer": "B",
-      "funFact": "Cumulus clouds are the puffy, white clouds that look like cotton balls. They're often associated with fair weather but can develop into storm clouds."
+        "question": "What are the puffy, white clouds called?",
+        "A": "Stratus",
+        "B": "Cumulus",
+        "C": "Cirrus",
+        "D": "Nimbus",
+        "answer": "B",
+        "funFact": "Cumulus clouds are the puffy, white clouds that look like cotton balls. They're often associated with fair weather but can develop into storm clouds."
     },
     {
-      "question": "What are the thin, wispy clouds high in the sky called?",
-      "A": "Stratus",
-      "B": "Cumulus",
-      "C": "Cirrus",
-      "D": "Nimbus",
-      "answer": "C",
-      "funFact": "Cirrus clouds are thin, wispy clouds found at high altitudes (above 20,000 feet). They're made of ice crystals and often indicate fair weather or approaching storms."
+        "question": "What are the thin, wispy clouds high in the sky called?",
+        "A": "Stratus",
+        "B": "Cumulus",
+        "C": "Cirrus",
+        "D": "Nimbus",
+        "answer": "C",
+        "funFact": "Cirrus clouds are thin, wispy clouds found at high altitudes (above 20,000 feet). They're made of ice crystals and often indicate fair weather or approaching storms."
     },
     {
-      "question": "What are the flat, gray clouds that cover the sky called?",
-      "A": "Stratus",
-      "B": "Cumulus",
-      "C": "Cirrus",
-      "D": "Nimbus",
-      "answer": "A",
-      "funFact": "Stratus clouds are flat, gray clouds that cover the sky like a blanket. They often bring drizzle or light rain and can make the sky look overcast."
+        "question": "What are the flat, gray clouds that cover the sky called?",
+        "A": "Stratus",
+        "B": "Cumulus",
+        "C": "Cirrus",
+        "D": "Nimbus",
+        "answer": "A",
+        "funFact": "Stratus clouds are flat, gray clouds that cover the sky like a blanket. They often bring drizzle or light rain and can make the sky look overcast."
     },
     {
-      "question": "What type of cloud produces thunderstorms?",
-      "A": "Cumulonimbus",
-      "B": "Stratus",
-      "C": "Cirrus",
-      "D": "Cumulus",
-      "answer": "A",
-      "funFact": "Cumulonimbus clouds are large, towering clouds that produce thunderstorms, heavy rain, lightning, and sometimes hail or tornadoes."
+        "question": "What type of cloud produces thunderstorms?",
+        "A": "Cumulonimbus",
+        "B": "Stratus",
+        "C": "Cirrus",
+        "D": "Cumulus",
+        "answer": "A",
+        "funFact": "Cumulonimbus clouds are large, towering clouds that produce thunderstorms, heavy rain, lightning, and sometimes hail or tornadoes."
     },
     {
-      "question": "At what altitude are clouds typically found?",
-      "A": "Only near the ground",
-      "B": "At various altitudes",
-      "C": "Only high in the sky",
-      "D": "Always at the same height",
-      "answer": "B",
-      "funFact": "Clouds are found at various altitudes: low clouds (below 6,500 feet), middle clouds (6,500-20,000 feet), and high clouds (above 20,000 feet)."
+        "question": "At what altitude are clouds typically found?",
+        "A": "Only near the ground",
+        "B": "At various altitudes",
+        "C": "Only high in the sky",
+        "D": "Always at the same height",
+        "answer": "B",
+        "funFact": "Clouds are found at various altitudes: low clouds (below 6,500 feet), middle clouds (6,500-20,000 feet), and high clouds (above 20,000 feet)."
     },
     {
-      "question": "What is fog?",
-      "A": "A type of cloud",
-      "B": "A cloud that touches the ground",
-      "C": "Water vapor",
-      "D": "All of the above",
-      "answer": "B",
-      "funFact": "Fog is essentially a cloud that touches the ground. It forms when air near the ground cools and water vapor condenses into tiny water droplets."
+        "question": "What is fog?",
+        "A": "A type of cloud",
+        "B": "A cloud that touches the ground",
+        "C": "Water vapor",
+        "D": "None of the above",
+        "answer": "B",
+        "funFact": "Fog is essentially a cloud that touches the ground. It forms when air near the ground cools and water vapor condenses into tiny water droplets."
     },
     {
-      "question": "What color are rain clouds?",
-      "A": "White",
-      "B": "Gray or dark",
-      "C": "Blue",
-      "D": "Red",
-      "answer": "B",
-      "funFact": "Rain clouds (nimbus clouds) are typically gray or dark because they're thick with water droplets that block sunlight, making them appear darker."
+        "question": "What color are rain clouds?",
+        "A": "White",
+        "B": "Gray or dark",
+        "C": "Blue",
+        "D": "Red",
+        "answer": "B",
+        "funFact": "Rain clouds (nimbus clouds) are typically gray or dark because they're thick with water droplets that block sunlight, making them appear darker."
     },
     {
-      "question": "How many main types of clouds are there?",
-      "A": "3",
-      "B": "4",
-      "C": "10",
-      "D": "Many, with 10 main types",
-      "answer": "D",
-      "funFact": "There are many types of clouds, but the main cloud types are organized into 10 basic categories based on their altitude and appearance: cirrus, cirrocumulus, cirrostratus, altocumulus, altostratus, nimbostratus, cumulus, cumulonimbus, stratus, and stratocumulus."
+        "question": "How many main types of clouds are there?",
+        "A": "3",
+        "B": "4",
+        "C": "10",
+        "D": "Many, with 10 main types",
+        "answer": "D",
+        "funFact": "There are many types of clouds, but the main cloud types are organized into 10 basic categories based on their altitude and appearance: cirrus, cirrocumulus, cirrostratus, altocumulus, altostratus, nimbostratus, cumulus, cumulonimbus, stratus, and stratocumulus."
     }
 ]
-

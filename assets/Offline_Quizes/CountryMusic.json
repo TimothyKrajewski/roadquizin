@@ -103,8 +103,8 @@
         "A": "Countryology",
         "B": "Musicology",
         "C": "Country studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Country music is studied through musicology, cultural studies, and country music history."
     },
     {

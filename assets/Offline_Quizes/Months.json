@@ -1,93 +1,92 @@
 [
     {
-      "question": "How many months are in a year?",
-      "A": "10",
-      "B": "11",
-      "C": "12",
-      "D": "13",
-      "answer": "C",
-      "funFact": "There are 12 months in a year, based on the approximate number of lunar cycles (about 12.37) that occur in one solar year."
+        "question": "How many months are in a year?",
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13",
+        "answer": "C",
+        "funFact": "There are 12 months in a year, based on the approximate number of lunar cycles (about 12.37) that occur in one solar year."
     },
     {
-      "question": "What is the first month of the year?",
-      "A": "February",
-      "B": "January",
-      "C": "March",
-      "D": "December",
-      "answer": "B",
-      "funFact": "January is the first month of the year in the Gregorian calendar, named after the Roman god Janus, who had two faces looking forward and backward."
+        "question": "What is the first month of the year?",
+        "A": "February",
+        "B": "January",
+        "C": "March",
+        "D": "December",
+        "answer": "B",
+        "funFact": "January is the first month of the year in the Gregorian calendar, named after the Roman god Janus, who had two faces looking forward and backward."
     },
     {
-      "question": "What month has the fewest days?",
-      "A": "January",
-      "B": "February",
-      "C": "November",
-      "D": "April",
-      "answer": "B",
-      "funFact": "February has the fewest days, with 28 days in a common year and 29 days in a leap year. All other months have 30 or 31 days."
+        "question": "What month has the fewest days?",
+        "A": "January",
+        "B": "February",
+        "C": "November",
+        "D": "April",
+        "answer": "B",
+        "funFact": "February has the fewest days, with 28 days in a common year and 29 days in a leap year. All other months have 30 or 31 days."
     },
     {
-      "question": "What month is named after the Roman god of war?",
-      "A": "January",
-      "B": "February",
-      "C": "March",
-      "D": "April",
-      "answer": "C",
-      "funFact": "March is named after Mars, the Roman god of war. In ancient Rome, March was the first month of the year."
+        "question": "What month is named after the Roman god of war?",
+        "A": "January",
+        "B": "February",
+        "C": "March",
+        "D": "April",
+        "answer": "C",
+        "funFact": "March is named after Mars, the Roman god of war. In ancient Rome, March was the first month of the year."
     },
     {
-      "question": "What month has 31 days?",
-      "A": "February",
-      "B": "April",
-      "C": "June",
-      "D": "All of the above except February",
-      "answer": "D",
-      "funFact": "Months with 31 days include: January, March, May, July, August, October, and December. February has 28 (29 in leap years), and the rest have 30."
+        "question": "What month has 31 days?",
+        "A": "February",
+        "B": "April",
+        "C": "June",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Months with 31 days include: January, March, May, July, August, October, and December. February has 28 (29 in leap years), and the rest have 30."
     },
     {
-      "question": "What is the last month of the year?",
-      "A": "October",
-      "B": "November",
-      "C": "December",
-      "D": "January",
-      "answer": "C",
-      "funFact": "December is the last month of the year, named from the Latin word 'decem' meaning ten, as it was the tenth month in the ancient Roman calendar."
+        "question": "What is the last month of the year?",
+        "A": "October",
+        "B": "November",
+        "C": "December",
+        "D": "January",
+        "answer": "C",
+        "funFact": "December is the last month of the year, named from the Latin word 'decem' meaning ten, as it was the tenth month in the ancient Roman calendar."
     },
     {
-      "question": "What month is known for spring in the Northern Hemisphere?",
-      "A": "January",
-      "B": "March",
-      "C": "May",
-      "D": "July",
-      "answer": "B",
-      "funFact": "March marks the beginning of spring in the Northern Hemisphere, with the vernal equinox occurring around March 20-21."
+        "question": "What month is known for spring in the Northern Hemisphere?",
+        "A": "January",
+        "B": "March",
+        "C": "May",
+        "D": "July",
+        "answer": "B",
+        "funFact": "March marks the beginning of spring in the Northern Hemisphere, with the vernal equinox occurring around March 20-21."
     },
     {
-      "question": "What month is known for summer in the Northern Hemisphere?",
-      "A": "April",
-      "B": "June",
-      "C": "August",
-      "D": "September",
-      "answer": "B",
-      "funFact": "June marks the beginning of summer in the Northern Hemisphere, with the summer solstice occurring around June 20-21, the longest day of the year."
+        "question": "What month is known for summer in the Northern Hemisphere?",
+        "A": "April",
+        "B": "June",
+        "C": "August",
+        "D": "September",
+        "answer": "B",
+        "funFact": "June marks the beginning of summer in the Northern Hemisphere, with the summer solstice occurring around June 20-21, the longest day of the year."
     },
     {
-      "question": "What month has Halloween?",
-      "A": "September",
-      "B": "October",
-      "C": "November",
-      "D": "December",
-      "answer": "B",
-      "funFact": "Halloween is celebrated on October 31st. October is also known for autumn colors, harvest festivals, and in some places, Oktoberfest."
+        "question": "What month has Halloween?",
+        "A": "September",
+        "B": "October",
+        "C": "November",
+        "D": "December",
+        "answer": "B",
+        "funFact": "Halloween is celebrated on October 31st. October is also known for autumn colors, harvest festivals, and in some places, Oktoberfest."
     },
     {
-      "question": "What month is named after Julius Caesar?",
-      "A": "June",
-      "B": "July",
-      "C": "August",
-      "D": "September",
-      "answer": "B",
-      "funFact": "July is named after Julius Caesar, who was born in this month. The month was originally called 'Quintilis' (fifth month) in the Roman calendar."
+        "question": "What month is named after Julius Caesar?",
+        "A": "June",
+        "B": "July",
+        "C": "August",
+        "D": "September",
+        "answer": "B",
+        "funFact": "July is named after Julius Caesar, who was born in this month. The month was originally called 'Quintilis' (fifth month) in the Roman calendar."
     }
 ]
-

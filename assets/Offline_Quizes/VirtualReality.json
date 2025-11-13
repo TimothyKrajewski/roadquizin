@@ -49,8 +49,8 @@
         "A": "VRology",
         "B": "Virtual reality",
         "C": "Immersive technology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "VR is studied through computer science, human-computer interaction, and immersive technology research."
     },
     {
@@ -175,8 +175,8 @@
         "A": "VRology",
         "B": "Virtual reality research",
         "C": "Immersive computing",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "VR research involves computer science, human-computer interaction, psychology, and immersive computing."
     }
 ]

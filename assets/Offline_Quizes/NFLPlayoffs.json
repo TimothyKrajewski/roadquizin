@@ -1,183 +1,182 @@
 [
     {
-      "question": "How many teams make the NFL playoffs?",
-      "A": "12",
-      "B": "14",
-      "C": "16",
-      "D": "18",
-      "answer": "B",
-      "funFact": "14 teams make the NFL playoffs - 7 from each conference (AFC and NFC). This was expanded from 12 teams in 2020."
+        "question": "How many teams make the NFL playoffs?",
+        "A": "12",
+        "B": "14",
+        "C": "16",
+        "D": "18",
+        "answer": "B",
+        "funFact": "14 teams make the NFL playoffs - 7 from each conference (AFC and NFC). This was expanded from 12 teams in 2020."
     },
     {
-      "question": "How many teams from each conference make the playoffs?",
-      "A": "6",
-      "B": "7",
-      "C": "8",
-      "D": "9",
-      "answer": "B",
-      "funFact": "7 teams from each conference make the playoffs - the 4 division winners and 3 wild card teams with the best records."
+        "question": "How many teams from each conference make the playoffs?",
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9",
+        "answer": "B",
+        "funFact": "7 teams from each conference make the playoffs - the 4 division winners and 3 wild card teams with the best records."
     },
     {
-      "question": "What is a division winner?",
-      "A": "Team that wins its division",
-      "B": "Automatically qualifies for playoffs",
-      "C": "Both A and B",
-      "D": "Wild card team",
-      "answer": "C",
-      "funFact": "A division winner is the team that wins its division (each conference has 4 divisions). Division winners automatically qualify for the playoffs."
+        "question": "What is a division winner?",
+        "A": "Team that wins its division",
+        "B": "Automatically qualifies for playoffs",
+        "C": "Neither A nor B",
+        "D": "Wild card team",
+        "answer": "A",
+        "funFact": "A division winner is the team that wins its division (each conference has 4 divisions). Division winners automatically qualify for the playoffs."
     },
     {
-      "question": "What is a wild card team?",
-      "A": "Team with best record that didn't win division",
-      "B": "3 per conference",
-      "C": "Both A and B",
-      "D": "Division winner",
-      "answer": "C",
-      "funFact": "A wild card team is a team with the best record that didn't win its division. There are 3 wild card teams per conference."
+        "question": "What is a wild card team?",
+        "A": "Team with best record that didn't win division",
+        "B": "3 per conference",
+        "C": "Neither A nor B",
+        "D": "Division winner",
+        "answer": "A",
+        "funFact": "A wild card team is a team with the best record that didn't win its division. There are 3 wild card teams per conference."
     },
     {
-      "question": "What is a first-round bye?",
-      "A": "Top seed in each conference",
-      "B": "Skips first round",
-      "C": "Both A and B",
-      "D": "All teams play",
-      "answer": "C",
-      "funFact": "The top seed in each conference gets a first-round bye, meaning they skip the first round and automatically advance to the divisional round."
+        "question": "What is a first-round bye?",
+        "A": "Top seed in each conference",
+        "B": "Skips first round",
+        "C": "Neither A nor B",
+        "D": "All teams play",
+        "answer": "A",
+        "funFact": "The top seed in each conference gets a first-round bye, meaning they skip the first round and automatically advance to the divisional round."
     },
     {
-      "question": "What is the playoff format?",
-      "A": "Single-elimination",
-      "B": "Lose and you're out",
-      "C": "Both A and B",
-      "D": "Double-elimination",
-      "answer": "C",
-      "funFact": "The NFL playoffs are single-elimination - lose one game and you're out. This makes every game crucial and exciting."
+        "question": "What is the playoff format?",
+        "A": "Single-elimination",
+        "B": "Lose and you're out",
+        "C": "Neither A nor B",
+        "D": "Double-elimination",
+        "answer": "A",
+        "funFact": "The NFL playoffs are single-elimination - lose one game and you're out. This makes every game crucial and exciting."
     },
     {
-      "question": "What are the playoff rounds?",
-      "A": "Wild Card, Divisional, Conference Championship, Super Bowl",
-      "B": "4 rounds",
-      "C": "Both A and B",
-      "D": "3 rounds",
-      "answer": "C",
-      "funFact": "The NFL playoffs have 4 rounds: Wild Card Round, Divisional Round, Conference Championship, and Super Bowl."
+        "question": "What are the playoff rounds?",
+        "A": "Wild Card, Divisional, Conference Championship, Super Bowl",
+        "B": "4 rounds",
+        "C": "Neither A nor B",
+        "D": "3 rounds",
+        "answer": "A",
+        "funFact": "The NFL playoffs have 4 rounds: Wild Card Round, Divisional Round, Conference Championship, and Super Bowl."
     },
     {
-      "question": "What is the Wild Card Round?",
-      "A": "First round of playoffs",
-      "B": "6 teams play, 2 get byes",
-      "C": "Both A and B",
-      "D": "All teams play",
-      "answer": "C",
-      "funFact": "The Wild Card Round is the first round of the playoffs. 6 teams play (3 games), while the top 2 seeds in each conference get byes."
+        "question": "What is the Wild Card Round?",
+        "A": "First round of playoffs",
+        "B": "6 teams play, 2 get byes",
+        "C": "Neither A nor B",
+        "D": "All teams play",
+        "answer": "A",
+        "funFact": "The Wild Card Round is the first round of the playoffs. 6 teams play (3 games), while the top 2 seeds in each conference get byes."
     },
     {
-      "question": "What is the Divisional Round?",
-      "A": "Second round",
-      "B": "8 teams play",
-      "C": "Both A and B",
-      "D": "4 teams play",
-      "answer": "C",
-      "funFact": "The Divisional Round is the second round, where 8 teams play (4 games) - the 2 teams with byes plus the 6 winners from the Wild Card Round."
+        "question": "What is the Divisional Round?",
+        "A": "Second round",
+        "B": "8 teams play",
+        "C": "Neither A nor B",
+        "D": "4 teams play",
+        "answer": "A",
+        "funFact": "The Divisional Round is the second round, where 8 teams play (4 games) - the 2 teams with byes plus the 6 winners from the Wild Card Round."
     },
     {
-      "question": "What is the Conference Championship?",
-      "A": "Third round",
-      "B": "Determines Super Bowl participants",
-      "C": "Both A and B",
-      "D": "Super Bowl",
-      "answer": "C",
-      "funFact": "The Conference Championship is the third round, where the 2 remaining teams in each conference play to determine who goes to the Super Bowl."
+        "question": "What is the Conference Championship?",
+        "A": "Third round",
+        "B": "Determines Super Bowl participants",
+        "C": "Neither A nor B",
+        "D": "Super Bowl",
+        "answer": "A",
+        "funFact": "The Conference Championship is the third round, where the 2 remaining teams in each conference play to determine who goes to the Super Bowl."
     },
     {
-      "question": "What is home-field advantage?",
-      "A": "Higher seed plays at home",
-      "B": "Throughout playoffs",
-      "C": "Both A and B",
-      "D": "Neutral site",
-      "answer": "C",
-      "funFact": "Home-field advantage means the higher seed plays at home throughout the playoffs. The Super Bowl is played at a neutral site."
+        "question": "What is home-field advantage?",
+        "A": "Higher seed plays at home",
+        "B": "Throughout playoffs",
+        "C": "Neither A nor B",
+        "D": "Neutral site",
+        "answer": "A",
+        "funFact": "Home-field advantage means the higher seed plays at home throughout the playoffs. The Super Bowl is played at a neutral site."
     },
     {
-      "question": "What is seeding?",
-      "A": "Ranking of teams",
-      "B": "Based on regular season record",
-      "C": "Both A and B",
-      "D": "Random",
-      "answer": "C",
-      "funFact": "Seeding is the ranking of teams based on their regular season record. Higher seeds (lower numbers) get home-field advantage."
+        "question": "What is seeding?",
+        "A": "Ranking of teams",
+        "B": "Based on regular season record",
+        "C": "Neither A nor B",
+        "D": "Random",
+        "answer": "A",
+        "funFact": "Seeding is the ranking of teams based on their regular season record. Higher seeds (lower numbers) get home-field advantage."
     },
     {
-      "question": "What is the Super Bowl?",
-      "A": "Championship game",
-      "B": "AFC vs NFC champions",
-      "C": "Both A and B",
-      "D": "Regular season game",
-      "answer": "C",
-      "funFact": "The Super Bowl is the championship game between the AFC and NFC champions. It's the final game of the NFL season."
+        "question": "What is the Super Bowl?",
+        "A": "Championship game",
+        "B": "AFC vs NFC champions",
+        "C": "Neither A nor B",
+        "D": "Regular season game",
+        "answer": "A",
+        "funFact": "The Super Bowl is the championship game between the AFC and NFC champions. It's the final game of the NFL season."
     },
     {
-      "question": "What is overtime in the playoffs?",
-      "A": "Continues until there's a winner",
-      "B": "No ties",
-      "C": "Both A and B",
-      "D": "10 minutes only",
-      "answer": "C",
-      "funFact": "In the playoffs, overtime continues until there's a winner - no ties. The first team to score wins (unless both score touchdowns, then it continues)."
+        "question": "What is overtime in the playoffs?",
+        "A": "Continues until there's a winner",
+        "B": "No ties",
+        "C": "Neither A nor B",
+        "D": "10 minutes only",
+        "answer": "A",
+        "funFact": "In the playoffs, overtime continues until there's a winner - no ties. The first team to score wins (unless both score touchdowns, then it continues)."
     },
     {
-      "question": "What is the playoff bracket?",
-      "A": "Tournament structure",
-      "B": "Shows path to Super Bowl",
-      "C": "Both A and B",
-      "D": "Random",
-      "answer": "C",
-      "funFact": "The playoff bracket shows the tournament structure and each team's path to the Super Bowl. It's a single-elimination bracket."
+        "question": "What is the playoff bracket?",
+        "A": "Tournament structure",
+        "B": "Shows path to Super Bowl",
+        "C": "Neither A nor B",
+        "D": "Random",
+        "answer": "A",
+        "funFact": "The playoff bracket shows the tournament structure and each team's path to the Super Bowl. It's a single-elimination bracket."
     },
     {
-      "question": "What is a playoff upset?",
-      "A": "Lower seed beats higher seed",
-      "B": "Common in NFL",
-      "C": "Both A and B",
-      "D": "Rare",
-      "answer": "C",
-      "funFact": "A playoff upset occurs when a lower seed beats a higher seed. Upsets are common in the NFL due to the single-elimination format."
+        "question": "What is a playoff upset?",
+        "A": "Lower seed beats higher seed",
+        "B": "Common in NFL",
+        "C": "Neither A nor B",
+        "D": "Rare",
+        "answer": "A",
+        "funFact": "A playoff upset occurs when a lower seed beats a higher seed. Upsets are common in the NFL due to the single-elimination format."
     },
     {
-      "question": "What is the playoff schedule?",
-      "A": "Wild Card Weekend",
-      "B": "Divisional Weekend, Conference Championships, Super Bowl",
-      "C": "Both A and B",
-      "D": "All in one week",
-      "answer": "C",
-      "funFact": "The playoff schedule includes Wild Card Weekend, Divisional Weekend, Conference Championships, and the Super Bowl, spread over several weeks."
+        "question": "What is the playoff schedule?",
+        "A": "Wild Card Weekend",
+        "B": "Divisional Weekend, Conference Championships, Super Bowl",
+        "C": "Neither A nor B",
+        "D": "All in one week",
+        "answer": "A",
+        "funFact": "The playoff schedule includes Wild Card Weekend, Divisional Weekend, Conference Championships, and the Super Bowl, spread over several weeks."
     },
     {
-      "question": "What is the importance of the playoffs?",
-      "A": "Determines champion",
-      "B": "Most important games",
-      "C": "Both A and B",
-      "D": "Less important",
-      "answer": "C",
-      "funFact": "The playoffs determine the NFL champion and are the most important games of the season. Teams work all year to make the playoffs."
+        "question": "What is the importance of the playoffs?",
+        "A": "Determines champion",
+        "B": "Most important games",
+        "C": "Neither A nor B",
+        "D": "Less important",
+        "answer": "A",
+        "funFact": "The playoffs determine the NFL champion and are the most important games of the season. Teams work all year to make the playoffs."
     },
     {
-      "question": "What is the playoff atmosphere?",
-      "A": "Intense",
-      "B": "High stakes",
-      "C": "Both A and B",
-      "D": "Relaxed",
-      "answer": "C",
-      "funFact": "The playoff atmosphere is intense with high stakes. Every play matters, and the pressure is immense for players and coaches."
+        "question": "What is the playoff atmosphere?",
+        "A": "Intense",
+        "B": "High stakes",
+        "C": "Neither A nor B",
+        "D": "Relaxed",
+        "answer": "A",
+        "funFact": "The playoff atmosphere is intense with high stakes. Every play matters, and the pressure is immense for players and coaches."
     },
     {
-      "question": "What is the legacy of the playoffs?",
-      "A": "Creates legends",
-      "B": "Memorable moments",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The playoffs create legends and memorable moments. Some of the greatest plays and games in NFL history have happened in the playoffs."
+        "question": "What is the legacy of the playoffs?",
+        "A": "Creates legends",
+        "B": "Memorable moments",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The playoffs create legends and memorable moments. Some of the greatest plays and games in NFL history have happened in the playoffs."
     }
 ]
-

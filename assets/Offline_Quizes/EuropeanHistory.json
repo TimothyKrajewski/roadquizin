@@ -1,228 +1,227 @@
 [
     {
-      "question": "What was the name of the period after the fall of the Roman Empire?",
-      "A": "Renaissance",
-      "B": "Middle Ages",
-      "C": "Enlightenment",
-      "D": "Industrial Revolution",
-      "answer": "B",
-      "funFact": "The Middle Ages (also called the Medieval Period) lasted from about 500 to 1500 AD. It began after the fall of the Western Roman Empire."
+        "question": "What was the name of the period after the fall of the Roman Empire?",
+        "A": "Renaissance",
+        "B": "Middle Ages",
+        "C": "Enlightenment",
+        "D": "Industrial Revolution",
+        "answer": "B",
+        "funFact": "The Middle Ages (also called the Medieval Period) lasted from about 500 to 1500 AD. It began after the fall of the Western Roman Empire."
     },
     {
-      "question": "What was the name of the Frankish king who was crowned Holy Roman Emperor?",
-      "A": "Charlemagne",
-      "B": "Charles Martel",
-      "C": "Pepin the Short",
-      "D": "Louis the Pious",
-      "answer": "A",
-      "funFact": "Charlemagne (Charles the Great) was crowned Holy Roman Emperor in 800 AD by Pope Leo III. He united much of Western Europe and promoted learning and culture."
+        "question": "What was the name of the Frankish king who was crowned Holy Roman Emperor?",
+        "A": "Charlemagne",
+        "B": "Charles Martel",
+        "C": "Pepin the Short",
+        "D": "Louis the Pious",
+        "answer": "A",
+        "funFact": "Charlemagne (Charles the Great) was crowned Holy Roman Emperor in 800 AD by Pope Leo III. He united much of Western Europe and promoted learning and culture."
     },
     {
-      "question": "What was the name of the series of religious wars to reclaim the Holy Land?",
-      "A": "Hundred Years' War",
-      "B": "Crusades",
-      "C": "Reconquista",
-      "D": "Thirty Years' War",
-      "answer": "B",
-      "funFact": "The Crusades were a series of religious wars from 1096 to 1291 where European Christians tried to reclaim the Holy Land from Muslim control."
+        "question": "What was the name of the series of religious wars to reclaim the Holy Land?",
+        "A": "Hundred Years' War",
+        "B": "Crusades",
+        "C": "Reconquista",
+        "D": "Thirty Years' War",
+        "answer": "B",
+        "funFact": "The Crusades were a series of religious wars from 1096 to 1291 where European Christians tried to reclaim the Holy Land from Muslim control."
     },
     {
-      "question": "What was the name of the plague that killed millions in the 14th century?",
-      "A": "Black Death",
-      "B": "Spanish Flu",
-      "C": "Smallpox",
-      "D": "Cholera",
-      "answer": "A",
-      "funFact": "The Black Death (bubonic plague) killed an estimated 75-200 million people in Europe and Asia in the 14th century, reducing Europe's population by 30-60%."
+        "question": "What was the name of the plague that killed millions in the 14th century?",
+        "A": "Black Death",
+        "B": "Spanish Flu",
+        "C": "Smallpox",
+        "D": "Cholera",
+        "answer": "A",
+        "funFact": "The Black Death (bubonic plague) killed an estimated 75-200 million people in Europe and Asia in the 14th century, reducing Europe's population by 30-60%."
     },
     {
-      "question": "What was the name of the war between England and France that lasted over 100 years?",
-      "A": "Hundred Years' War",
-      "B": "War of the Roses",
-      "C": "Thirty Years' War",
-      "D": "Seven Years' War",
-      "answer": "A",
-      "funFact": "The Hundred Years' War (1337-1453) was a series of conflicts between England and France over the French throne. It actually lasted 116 years."
+        "question": "What was the name of the war between England and France that lasted over 100 years?",
+        "A": "Hundred Years' War",
+        "B": "War of the Roses",
+        "C": "Thirty Years' War",
+        "D": "Seven Years' War",
+        "answer": "A",
+        "funFact": "The Hundred Years' War (1337-1453) was a series of conflicts between England and France over the French throne. It actually lasted 116 years."
     },
     {
-      "question": "What was the name of the English civil war between two royal houses?",
-      "A": "Hundred Years' War",
-      "B": "War of the Roses",
-      "C": "English Civil War",
-      "D": "Glorious Revolution",
-      "answer": "B",
-      "funFact": "The War of the Roses (1455-1487) was a civil war between the House of Lancaster (red rose) and the House of York (white rose) for the English throne."
+        "question": "What was the name of the English civil war between two royal houses?",
+        "A": "Hundred Years' War",
+        "B": "War of the Roses",
+        "C": "English Civil War",
+        "D": "Glorious Revolution",
+        "answer": "B",
+        "funFact": "The War of the Roses (1455-1487) was a civil war between the House of Lancaster (red rose) and the House of York (white rose) for the English throne."
     },
     {
-      "question": "What was the name of the period of cultural and intellectual revival in Europe?",
-      "A": "Middle Ages",
-      "B": "Renaissance",
-      "C": "Enlightenment",
-      "D": "Reformation",
-      "answer": "B",
-      "funFact": "The Renaissance (14th-17th centuries) was a period of cultural and intellectual revival in Europe. It began in Italy and spread throughout Europe."
+        "question": "What was the name of the period of cultural and intellectual revival in Europe?",
+        "A": "Middle Ages",
+        "B": "Renaissance",
+        "C": "Enlightenment",
+        "D": "Reformation",
+        "answer": "B",
+        "funFact": "The Renaissance (14th-17th centuries) was a period of cultural and intellectual revival in Europe. It began in Italy and spread throughout Europe."
     },
     {
-      "question": "What was the name of the movement that split Western Christianity?",
-      "A": "Renaissance",
-      "B": "Reformation",
-      "C": "Enlightenment",
-      "D": "Industrial Revolution",
-      "answer": "B",
-      "funFact": "The Protestant Reformation (1517-1648) split Western Christianity into Catholic and Protestant branches. It was started by Martin Luther's 95 Theses."
+        "question": "What was the name of the movement that split Western Christianity?",
+        "A": "Renaissance",
+        "B": "Reformation",
+        "C": "Enlightenment",
+        "D": "Industrial Revolution",
+        "answer": "B",
+        "funFact": "The Protestant Reformation (1517-1648) split Western Christianity into Catholic and Protestant branches. It was started by Martin Luther's 95 Theses."
     },
     {
-      "question": "What was the name of the war fought over religion in the 17th century?",
-      "A": "Hundred Years' War",
-      "B": "Thirty Years' War",
-      "C": "Seven Years' War",
-      "D": "War of the Roses",
-      "answer": "B",
-      "funFact": "The Thirty Years' War (1618-1648) was fought primarily in Central Europe over religion and territory. It was one of the most destructive wars in European history."
+        "question": "What was the name of the war fought over religion in the 17th century?",
+        "A": "Hundred Years' War",
+        "B": "Thirty Years' War",
+        "C": "Seven Years' War",
+        "D": "War of the Roses",
+        "answer": "B",
+        "funFact": "The Thirty Years' War (1618-1648) was fought primarily in Central Europe over religion and territory. It was one of the most destructive wars in European history."
     },
     {
-      "question": "What was the name of the period of intellectual and philosophical movement?",
-      "A": "Renaissance",
-      "B": "Reformation",
-      "C": "Enlightenment",
-      "D": "Industrial Revolution",
-      "answer": "C",
-      "funFact": "The Enlightenment (17th-18th centuries) was a period of intellectual and philosophical movement that emphasized reason, science, and individual rights."
+        "question": "What was the name of the period of intellectual and philosophical movement?",
+        "A": "Renaissance",
+        "B": "Reformation",
+        "C": "Enlightenment",
+        "D": "Industrial Revolution",
+        "answer": "C",
+        "funFact": "The Enlightenment (17th-18th centuries) was a period of intellectual and philosophical movement that emphasized reason, science, and individual rights."
     },
     {
-      "question": "What was the name of the French Revolution?",
-      "A": "1787",
-      "B": "1789",
-      "C": "1791",
-      "D": "1793",
-      "answer": "B",
-      "funFact": "The French Revolution began in 1789 with the storming of the Bastille. It led to the overthrow of the monarchy and the rise of Napoleon Bonaparte."
+        "question": "What was the name of the French Revolution?",
+        "A": "1787",
+        "B": "1789",
+        "C": "1791",
+        "D": "1793",
+        "answer": "B",
+        "funFact": "The French Revolution began in 1789 with the storming of the Bastille. It led to the overthrow of the monarchy and the rise of Napoleon Bonaparte."
     },
     {
-      "question": "What was the name of the French emperor who conquered much of Europe?",
-      "A": "Louis XVI",
-      "B": "Napoleon Bonaparte",
-      "C": "Louis XVIII",
-      "D": "Charles X",
-      "answer": "B",
-      "funFact": "Napoleon Bonaparte (1769-1821) was a French military leader who became emperor and conquered much of Europe. He was finally defeated at the Battle of Waterloo in 1815."
+        "question": "What was the name of the French emperor who conquered much of Europe?",
+        "A": "Louis XVI",
+        "B": "Napoleon Bonaparte",
+        "C": "Louis XVIII",
+        "D": "Charles X",
+        "answer": "B",
+        "funFact": "Napoleon Bonaparte (1769-1821) was a French military leader who became emperor and conquered much of Europe. He was finally defeated at the Battle of Waterloo in 1815."
     },
     {
-      "question": "What was the name of the battle where Napoleon was finally defeated?",
-      "A": "Battle of Austerlitz",
-      "B": "Battle of Waterloo",
-      "C": "Battle of Trafalgar",
-      "D": "Battle of Leipzig",
-      "answer": "B",
-      "funFact": "The Battle of Waterloo (1815) was Napoleon's final defeat. He was defeated by a coalition of British, Prussian, and other European forces."
+        "question": "What was the name of the battle where Napoleon was finally defeated?",
+        "A": "Battle of Austerlitz",
+        "B": "Battle of Waterloo",
+        "C": "Battle of Trafalgar",
+        "D": "Battle of Leipzig",
+        "answer": "B",
+        "funFact": "The Battle of Waterloo (1815) was Napoleon's final defeat. He was defeated by a coalition of British, Prussian, and other European forces."
     },
     {
-      "question": "What was the name of the period of rapid industrialization?",
-      "A": "Renaissance",
-      "B": "Enlightenment",
-      "C": "Industrial Revolution",
-      "D": "Reformation",
-      "answer": "C",
-      "funFact": "The Industrial Revolution (18th-19th centuries) was a period of rapid industrialization that transformed Europe and the world. It began in Britain and spread throughout Europe."
+        "question": "What was the name of the period of rapid industrialization?",
+        "A": "Renaissance",
+        "B": "Enlightenment",
+        "C": "Industrial Revolution",
+        "D": "Reformation",
+        "answer": "C",
+        "funFact": "The Industrial Revolution (18th-19th centuries) was a period of rapid industrialization that transformed Europe and the world. It began in Britain and spread throughout Europe."
     },
     {
-      "question": "What was the name of the war fought between Russia and several European powers?",
-      "A": "Crimean War",
-      "B": "Russo-Turkish War",
-      "C": "Napoleonic Wars",
-      "D": "Seven Years' War",
-      "answer": "A",
-      "funFact": "The Crimean War (1853-1856) was fought between Russia and an alliance of Britain, France, the Ottoman Empire, and Sardinia. It was one of the first 'modern' wars."
+        "question": "What was the name of the war fought between Russia and several European powers?",
+        "A": "Crimean War",
+        "B": "Russo-Turkish War",
+        "C": "Napoleonic Wars",
+        "D": "Seven Years' War",
+        "answer": "A",
+        "funFact": "The Crimean War (1853-1856) was fought between Russia and an alliance of Britain, France, the Ottoman Empire, and Sardinia. It was one of the first 'modern' wars."
     },
     {
-      "question": "What was the name of the unification of Germany?",
-      "A": "1861",
-      "B": "1871",
-      "C": "1881",
-      "D": "1891",
-      "answer": "B",
-      "funFact": "Germany was unified in 1871 under the leadership of Otto von Bismarck. The German Empire was proclaimed in the Hall of Mirrors at Versailles."
+        "question": "What was the name of the unification of Germany?",
+        "A": "1861",
+        "B": "1871",
+        "C": "1881",
+        "D": "1891",
+        "answer": "B",
+        "funFact": "Germany was unified in 1871 under the leadership of Otto von Bismarck. The German Empire was proclaimed in the Hall of Mirrors at Versailles."
     },
     {
-      "question": "What was the name of the unification of Italy?",
-      "A": "1851",
-      "B": "1861",
-      "C": "1871",
-      "D": "1881",
-      "answer": "B",
-      "funFact": "Italy was unified in 1861 under the leadership of figures like Giuseppe Garibaldi and Count Camillo di Cavour. The Kingdom of Italy was proclaimed."
+        "question": "What was the name of the unification of Italy?",
+        "A": "1851",
+        "B": "1861",
+        "C": "1871",
+        "D": "1881",
+        "answer": "B",
+        "funFact": "Italy was unified in 1861 under the leadership of figures like Giuseppe Garibaldi and Count Camillo di Cavour. The Kingdom of Italy was proclaimed."
     },
     {
-      "question": "What was the name of the war that began World War I?",
-      "A": "The assassination of Archduke Franz Ferdinand",
-      "B": "The invasion of Belgium",
-      "C": "The sinking of the Lusitania",
-      "D": "The Russian Revolution",
-      "answer": "A",
-      "funFact": "World War I began in 1914 after the assassination of Archduke Franz Ferdinand of Austria-Hungary. This triggered a chain of events that led to war."
+        "question": "What was the name of the war that began World War I?",
+        "A": "The assassination of Archduke Franz Ferdinand",
+        "B": "The invasion of Belgium",
+        "C": "The sinking of the Lusitania",
+        "D": "The Russian Revolution",
+        "answer": "A",
+        "funFact": "World War I began in 1914 after the assassination of Archduke Franz Ferdinand of Austria-Hungary. This triggered a chain of events that led to war."
     },
     {
-      "question": "What was the name of the treaty that ended World War I?",
-      "A": "Treaty of Versailles",
-      "B": "Treaty of Paris",
-      "C": "Treaty of Berlin",
-      "D": "Treaty of London",
-      "answer": "A",
-      "funFact": "The Treaty of Versailles, signed in 1919, officially ended World War I. It imposed harsh penalties on Germany and is often cited as a cause of World War II."
+        "question": "What was the name of the treaty that ended World War I?",
+        "A": "Treaty of Versailles",
+        "B": "Treaty of Paris",
+        "C": "Treaty of Berlin",
+        "D": "Treaty of London",
+        "answer": "A",
+        "funFact": "The Treaty of Versailles, signed in 1919, officially ended World War I. It imposed harsh penalties on Germany and is often cited as a cause of World War II."
     },
     {
-      "question": "What was the name of the Spanish Civil War?",
-      "A": "1933-1936",
-      "B": "1936-1939",
-      "C": "1939-1942",
-      "D": "1942-1945",
-      "answer": "B",
-      "funFact": "The Spanish Civil War (1936-1939) was fought between the Republican government and Nationalist forces led by Francisco Franco. It was a prelude to World War II."
+        "question": "What was the name of the Spanish Civil War?",
+        "A": "1933-1936",
+        "B": "1936-1939",
+        "C": "1939-1942",
+        "D": "1942-1945",
+        "answer": "B",
+        "funFact": "The Spanish Civil War (1936-1939) was fought between the Republican government and Nationalist forces led by Francisco Franco. It was a prelude to World War II."
     },
     {
-      "question": "What was the name of the fall of the Berlin Wall?",
-      "A": "1987",
-      "B": "1989",
-      "C": "1991",
-      "D": "1993",
-      "answer": "B",
-      "funFact": "The Berlin Wall fell on November 9, 1989, marking the end of the Cold War and the reunification of Germany. It had divided East and West Berlin for 28 years."
+        "question": "What was the name of the fall of the Berlin Wall?",
+        "A": "1987",
+        "B": "1989",
+        "C": "1991",
+        "D": "1993",
+        "answer": "B",
+        "funFact": "The Berlin Wall fell on November 9, 1989, marking the end of the Cold War and the reunification of Germany. It had divided East and West Berlin for 28 years."
     },
     {
-      "question": "What was the name of the dissolution of the Soviet Union?",
-      "A": "1989",
-      "B": "1990",
-      "C": "1991",
-      "D": "1992",
-      "answer": "C",
-      "funFact": "The Soviet Union was dissolved in 1991, ending the Cold War. This led to the independence of 15 former Soviet republics and the end of communist rule in Eastern Europe."
+        "question": "What was the name of the dissolution of the Soviet Union?",
+        "A": "1989",
+        "B": "1990",
+        "C": "1991",
+        "D": "1992",
+        "answer": "C",
+        "funFact": "The Soviet Union was dissolved in 1991, ending the Cold War. This led to the independence of 15 former Soviet republics and the end of communist rule in Eastern Europe."
     },
     {
-      "question": "What was the name of the European Union?",
-      "A": "European Community",
-      "B": "European Economic Community",
-      "C": "European Union",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "The European Union evolved from the European Economic Community (EEC), which was created in 1957. It became the European Union in 1993 with the Maastricht Treaty."
+        "question": "What was the name of the European Union?",
+        "A": "European Community",
+        "B": "European Economic Community",
+        "C": "European Union",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "The European Union evolved from the European Economic Community (EEC), which was created in 1957. It became the European Union in 1993 with the Maastricht Treaty."
     },
     {
-      "question": "What was the name of the British prime minister during World War II?",
-      "A": "Neville Chamberlain",
-      "B": "Winston Churchill",
-      "C": "Clement Attlee",
-      "D": "Anthony Eden",
-      "answer": "B",
-      "funFact": "Winston Churchill was the British prime minister during most of World War II. He led Britain through its darkest hours and inspired the nation with his speeches."
+        "question": "What was the name of the British prime minister during World War II?",
+        "A": "Neville Chamberlain",
+        "B": "Winston Churchill",
+        "C": "Clement Attlee",
+        "D": "Anthony Eden",
+        "answer": "B",
+        "funFact": "Winston Churchill was the British prime minister during most of World War II. He led Britain through its darkest hours and inspired the nation with his speeches."
     },
     {
-      "question": "What was the name of the French general who led the Free French Forces?",
-      "A": "Philippe Pétain",
-      "B": "Charles de Gaulle",
-      "C": "Henri Giraud",
-      "D": "Jean de Lattre de Tassigny",
-      "answer": "B",
-      "funFact": "Charles de Gaulle led the Free French Forces during World War II and later became president of France. He is considered one of France's greatest leaders."
+        "question": "What was the name of the French general who led the Free French Forces?",
+        "A": "Philippe Pétain",
+        "B": "Charles de Gaulle",
+        "C": "Henri Giraud",
+        "D": "Jean de Lattre de Tassigny",
+        "answer": "B",
+        "funFact": "Charles de Gaulle led the Free French Forces during World War II and later became president of France. He is considered one of France's greatest leaders."
     }
 ]
-

@@ -40,8 +40,8 @@
         "A": "Mountainology",
         "B": "Mountain geography",
         "C": "Orology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and orology (the study of mountains)."
     },
     {
@@ -58,8 +58,8 @@
         "A": "Mountainology",
         "B": "Mountain ecology",
         "C": "Alpine studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, ecology, and alpine research."
     },
     {
@@ -76,8 +76,8 @@
         "A": "Mountainology",
         "B": "Mountain studies",
         "C": "Geography",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and environmental science."
     },
     {
@@ -94,8 +94,8 @@
         "A": "Mountainology",
         "B": "Mountain geography",
         "C": "Geological studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and environmental research."
     },
     {
@@ -112,8 +112,8 @@
         "A": "Mountainology",
         "B": "Mountain research",
         "C": "Geographic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and environmental science."
     },
     {
@@ -130,8 +130,8 @@
         "A": "Mountainology",
         "B": "Mountain studies",
         "C": "Alpine research",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and alpine research, exploring their formation and ecosystems."
     },
     {
@@ -148,8 +148,8 @@
         "A": "Mountainology",
         "B": "Mountain geography",
         "C": "Environmental studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and environmental science."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Mountainology",
         "B": "Mountain research",
         "C": "Geographic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and environmental research, understanding their formation and importance."
     },
     {

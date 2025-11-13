@@ -121,8 +121,8 @@
         "A": "Classicalology",
         "B": "Musicology",
         "C": "Classical studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Classical music is studied through musicology, music theory, and classical studies programs."
     },
     {

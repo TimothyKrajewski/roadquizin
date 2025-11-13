@@ -40,8 +40,8 @@
         "A": "Shakespeareology",
         "B": "Shakespeare studies",
         "C": "English literature",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Shakespeare is studied through English literature, drama, and Shakespeare studies programs."
     },
     {
@@ -85,8 +85,8 @@
         "A": "Shakespeareology",
         "B": "Shakespeare studies",
         "C": "Renaissance literature",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Shakespeare is studied through English literature, drama, and Renaissance studies."
     },
     {
@@ -130,8 +130,8 @@
         "A": "Shakespeareology",
         "B": "Shakespeare research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Shakespeare is studied through literary studies, drama, and theater research."
     },
     {

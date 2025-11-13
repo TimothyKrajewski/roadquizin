@@ -22,8 +22,8 @@
         "A": "Novelology",
         "B": "Novel studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Novels are studied through literary studies, English literature, and novel analysis courses."
     },
     {
@@ -67,8 +67,8 @@
         "A": "Novelology",
         "B": "Novel analysis",
         "C": "Literary criticism",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Novels are studied through literary analysis, criticism, and English literature courses."
     },
     {
@@ -112,8 +112,8 @@
         "A": "Novelology",
         "B": "Novel studies",
         "C": "Creative writing",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Novels are studied through literary studies, creative writing, and novel analysis."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Novelology",
         "B": "Novel research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Novels are studied through literary studies, English literature, and creative writing programs."
     },
     {

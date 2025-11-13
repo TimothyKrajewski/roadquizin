@@ -144,12 +144,12 @@
         "funFact": "Robin works at the video store with Steve and helps the group in their investigations."
     },
     {
-        "question": "What is the name of the character who was Eleven's friend?",
+        "question": "What is the name of the character who was Eleven's friend and also known as Eight?",
         "A": "Kali",
-        "B": "Eight",
-        "C": "Both A and B",
-        "D": "None",
-        "answer": "C",
+        "B": "Max",
+        "C": "Robin",
+        "D": "Nancy",
+        "answer": "A",
         "funFact": "Kali (also known as Eight) is another child with powers who escaped from the lab and can create illusions."
     },
     {

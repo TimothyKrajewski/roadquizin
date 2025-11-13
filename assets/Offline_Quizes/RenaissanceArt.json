@@ -85,8 +85,8 @@
         "A": "Renaissanceology",
         "B": "Art history",
         "C": "Renaissance studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Renaissance art is studied through art history, Renaissance studies, and cultural history."
     },
     {

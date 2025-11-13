@@ -40,8 +40,8 @@
         "A": "Koreanology",
         "B": "History",
         "C": "Military history",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "The Korean War is studied through history, military history, and international relations."
     },
     {

@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is the largest reptile in the world?",
-      "A": "Komodo dragon",
-      "B": "Crocodile",
-      "C": "Python",
-      "D": "Alligator",
-      "answer": "B",
-      "funFact": "The saltwater crocodile is the largest reptile in the world, reaching lengths of up to 23 feet and weighing over 2,000 pounds."
+        "question": "What is the largest reptile in the world?",
+        "A": "Komodo dragon",
+        "B": "Crocodile",
+        "C": "Python",
+        "D": "Alligator",
+        "answer": "B",
+        "funFact": "The saltwater crocodile is the largest reptile in the world, reaching lengths of up to 23 feet and weighing over 2,000 pounds."
     },
     {
-      "question": "What are reptiles covered with?",
-      "A": "Fur",
-      "B": "Feathers",
-      "C": "Scales",
-      "D": "Skin",
-      "answer": "C",
-      "funFact": "Reptiles are covered with scales, which help protect their bodies and prevent water loss. Scales are made of keratin, the same protein found in hair and nails."
+        "question": "What are reptiles covered with?",
+        "A": "Fur",
+        "B": "Feathers",
+        "C": "Scales",
+        "D": "Skin",
+        "answer": "C",
+        "funFact": "Reptiles are covered with scales, which help protect their bodies and prevent water loss. Scales are made of keratin, the same protein found in hair and nails."
     },
     {
-      "question": "How do reptiles control their body temperature?",
-      "A": "By sweating",
-      "B": "By shivering",
-      "C": "By moving to different locations",
-      "D": "They can't control it",
-      "answer": "C",
-      "funFact": "Reptiles are ectothermic (cold-blooded), meaning they control their body temperature by moving to sunny or shady areas, not by generating internal heat."
+        "question": "How do reptiles control their body temperature?",
+        "A": "By sweating",
+        "B": "By shivering",
+        "C": "By moving to different locations",
+        "D": "They can't control it",
+        "answer": "C",
+        "funFact": "Reptiles are ectothermic (cold-blooded), meaning they control their body temperature by moving to sunny or shady areas, not by generating internal heat."
     },
     {
-      "question": "What is the longest snake in the world?",
-      "A": "King cobra",
-      "B": "Reticulated python",
-      "C": "Anaconda",
-      "D": "Boa constrictor",
-      "answer": "B",
-      "funFact": "The reticulated python is the longest snake in the world, reaching lengths of up to 30 feet. It's found in Southeast Asia."
+        "question": "What is the longest snake in the world?",
+        "A": "King cobra",
+        "B": "Reticulated python",
+        "C": "Anaconda",
+        "D": "Boa constrictor",
+        "answer": "B",
+        "funFact": "The reticulated python is the longest snake in the world, reaching lengths of up to 30 feet. It's found in Southeast Asia."
     },
     {
-      "question": "What is the largest lizard in the world?",
-      "A": "Iguana",
-      "B": "Komodo dragon",
-      "C": "Monitor lizard",
-      "D": "Gecko",
-      "answer": "B",
-      "funFact": "The Komodo dragon is the largest lizard in the world, reaching lengths of up to 10 feet and weighing up to 200 pounds. It's found only on a few Indonesian islands."
+        "question": "What is the largest lizard in the world?",
+        "A": "Iguana",
+        "B": "Komodo dragon",
+        "C": "Monitor lizard",
+        "D": "Gecko",
+        "answer": "B",
+        "funFact": "The Komodo dragon is the largest lizard in the world, reaching lengths of up to 10 feet and weighing up to 200 pounds. It's found only on a few Indonesian islands."
     },
     {
-      "question": "What do turtles have that protects them?",
-      "A": "Scales",
-      "B": "Shell",
-      "C": "Spikes",
-      "D": "Armor",
-      "answer": "B",
-      "funFact": "Turtles have a hard shell that protects them from predators. The shell is actually part of their skeleton, made up of bones covered by plates called scutes."
+        "question": "What do turtles have that protects them?",
+        "A": "Scales",
+        "B": "Shell",
+        "C": "Spikes",
+        "D": "Armor",
+        "answer": "B",
+        "funFact": "Turtles have a hard shell that protects them from predators. The shell is actually part of their skeleton, made up of bones covered by plates called scutes."
     },
     {
-      "question": "What is the fastest reptile?",
-      "A": "Lizard",
-      "B": "Snake",
-      "C": "Turtle",
-      "D": "Crocodile",
-      "answer": "A",
-      "funFact": "The spiny-tailed iguana is one of the fastest reptiles, capable of running at speeds up to 21 mph (34 km/h)."
+        "question": "What is the fastest reptile?",
+        "A": "Lizard",
+        "B": "Snake",
+        "C": "Turtle",
+        "D": "Crocodile",
+        "answer": "A",
+        "funFact": "The spiny-tailed iguana is one of the fastest reptiles, capable of running at speeds up to 21 mph (34 km/h)."
     },
     {
-      "question": "How do snakes move?",
-      "A": "By walking",
-      "B": "By slithering",
-      "C": "By jumping",
-      "D": "By flying",
-      "answer": "B",
-      "funFact": "Snakes move by slithering, using their muscles and scales to push against the ground. They have no legs, so they use their entire body to move."
+        "question": "How do snakes move?",
+        "A": "By walking",
+        "B": "By slithering",
+        "C": "By jumping",
+        "D": "By flying",
+        "answer": "B",
+        "funFact": "Snakes move by slithering, using their muscles and scales to push against the ground. They have no legs, so they use their entire body to move."
     },
     {
-      "question": "What is the smallest reptile in the world?",
-      "A": "Gecko",
-      "B": "Brookesia nana",
-      "C": "Anole",
-      "D": "Skink",
-      "answer": "B",
-      "funFact": "Brookesia nana, a tiny chameleon found in Madagascar, is the smallest reptile in the world, measuring less than an inch long."
+        "question": "What is the smallest reptile in the world?",
+        "A": "Gecko",
+        "B": "Brookesia nana",
+        "C": "Anole",
+        "D": "Skink",
+        "answer": "B",
+        "funFact": "Brookesia nana, a tiny chameleon found in Madagascar, is the smallest reptile in the world, measuring less than an inch long."
     },
     {
-      "question": "What do reptiles lay?",
-      "A": "Live young",
-      "B": "Eggs",
-      "C": "Both A and B",
-      "D": "Neither",
-      "answer": "C",
-      "funFact": "Most reptiles lay eggs, but some give birth to live young. For example, some snakes and lizards are viviparous (give live birth) while others are oviparous (lay eggs)."
+        "question": "What do reptiles lay?",
+        "A": "Live young",
+        "B": "Eggs",
+        "C": "Neither A nor B",
+        "D": "Neither",
+        "answer": "A",
+        "funFact": "Most reptiles lay eggs, but some give birth to live young. For example, some snakes and lizards are viviparous (give live birth) while others are oviparous (lay eggs)."
     }
 ]
-

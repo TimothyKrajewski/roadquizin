@@ -1,183 +1,182 @@
 [
     {
-      "question": "What is the name of the iconic ride at Disneyland that takes you through 'it's a small world'?",
-      "A": "It's a Small World",
-      "B": "Pirates of the Caribbean",
-      "C": "Haunted Mansion",
-      "D": "Space Mountain",
-      "answer": "A",
-      "funFact": "'it's a small world' opened at Disneyland in 1966 and was created for the 1964 New York World's Fair. The song is one of the most recognizable Disney tunes."
+        "question": "What is the name of the iconic ride at Disneyland that takes you through 'it's a small world'?",
+        "A": "It's a Small World",
+        "B": "Pirates of the Caribbean",
+        "C": "Haunted Mansion",
+        "D": "Space Mountain",
+        "answer": "A",
+        "funFact": "'it's a small world' opened at Disneyland in 1966 and was created for the 1964 New York World's Fair. The song is one of the most recognizable Disney tunes."
     },
     {
-      "question": "What is the name of the roller coaster in the dark at Disneyland?",
-      "A": "Space Mountain",
-      "B": "Big Thunder Mountain",
-      "C": "Matterhorn Bobsleds",
-      "D": "Splash Mountain",
-      "answer": "A",
-      "funFact": "Space Mountain opened at Disneyland in 1977 and was the first indoor roller coaster. It takes riders on a journey through outer space in complete darkness."
+        "question": "What is the name of the roller coaster in the dark at Disneyland?",
+        "A": "Space Mountain",
+        "B": "Big Thunder Mountain",
+        "C": "Matterhorn Bobsleds",
+        "D": "Splash Mountain",
+        "answer": "A",
+        "funFact": "Space Mountain opened at Disneyland in 1977 and was the first indoor roller coaster. It takes riders on a journey through outer space in complete darkness."
     },
     {
-      "question": "What is the name of the ride based on pirates at Disneyland?",
-      "A": "Pirates of the Caribbean",
-      "B": "Jungle Cruise",
-      "C": "Indiana Jones Adventure",
-      "D": "Haunted Mansion",
-      "answer": "A",
-      "funFact": "Pirates of the Caribbean opened at Disneyland in 1967 and was the last attraction that Walt Disney personally supervised. It inspired the popular film series."
+        "question": "What is the name of the ride based on pirates at Disneyland?",
+        "A": "Pirates of the Caribbean",
+        "B": "Jungle Cruise",
+        "C": "Indiana Jones Adventure",
+        "D": "Haunted Mansion",
+        "answer": "A",
+        "funFact": "Pirates of the Caribbean opened at Disneyland in 1967 and was the last attraction that Walt Disney personally supervised. It inspired the popular film series."
     },
     {
-      "question": "What is the name of the spooky ride at Disneyland?",
-      "A": "Haunted Mansion",
-      "B": "Tower of Terror",
-      "C": "Pirates of the Caribbean",
-      "D": "Space Mountain",
-      "answer": "A",
-      "funFact": "The Haunted Mansion opened at Disneyland in 1969. It features 999 happy haunts and uses advanced audio-animatronics and special effects."
+        "question": "What is the name of the spooky ride at Disneyland?",
+        "A": "Haunted Mansion",
+        "B": "Tower of Terror",
+        "C": "Pirates of the Caribbean",
+        "D": "Space Mountain",
+        "answer": "A",
+        "funFact": "The Haunted Mansion opened at Disneyland in 1969. It features 999 happy haunts and uses advanced audio-animatronics and special effects."
     },
     {
-      "question": "What is the name of the water ride at Disneyland that features a big drop?",
-      "A": "Splash Mountain",
-      "B": "Grizzly River Run",
-      "C": "Kali River Rapids",
-      "D": "Jungle Cruise",
-      "answer": "A",
-      "funFact": "Splash Mountain opened at Disneyland in 1989 and is based on the animated sequences from Song of the South. It features a 52.5-foot drop."
+        "question": "What is the name of the water ride at Disneyland that features a big drop?",
+        "A": "Splash Mountain",
+        "B": "Grizzly River Run",
+        "C": "Kali River Rapids",
+        "D": "Jungle Cruise",
+        "answer": "A",
+        "funFact": "Splash Mountain opened at Disneyland in 1989 and is based on the animated sequences from Song of the South. It features a 52.5-foot drop."
     },
     {
-      "question": "What is the name of the ride based on Indiana Jones at Disneyland?",
-      "A": "Indiana Jones Adventure",
-      "B": "Temple of the Forbidden Eye",
-      "C": "Both A and B",
-      "D": "Raiders of the Lost Ark",
-      "answer": "C",
-      "funFact": "Indiana Jones Adventure: Temple of the Forbidden Eye opened at Disneyland in 1995. It's an immersive dark ride that takes guests through an ancient temple."
+        "question": "What is the name of the ride based on Indiana Jones at Disneyland?",
+        "A": "Indiana Jones Adventure",
+        "B": "Temple of the Forbidden Eye",
+        "C": "Neither A nor B",
+        "D": "Raiders of the Lost Ark",
+        "answer": "A",
+        "funFact": "Indiana Jones Adventure: Temple of the Forbidden Eye opened at Disneyland in 1995. It's an immersive dark ride that takes guests through an ancient temple."
     },
     {
-      "question": "What is the name of the ride that takes you through different countries at Epcot?",
-      "A": "World Showcase",
-      "B": "Spaceship Earth",
-      "C": "Test Track",
-      "D": "Soarin'",
-      "answer": "A",
-      "funFact": "World Showcase at Epcot features 11 pavilions representing different countries. Guests can walk through each country and experience their culture, food, and attractions."
+        "question": "What is the name of the ride that takes you through different countries at Epcot?",
+        "A": "World Showcase",
+        "B": "Spaceship Earth",
+        "C": "Test Track",
+        "D": "Soarin'",
+        "answer": "A",
+        "funFact": "World Showcase at Epcot features 11 pavilions representing different countries. Guests can walk through each country and experience their culture, food, and attractions."
     },
     {
-      "question": "What is the name of the ride that simulates flying at Epcot?",
-      "A": "Soarin'",
-      "B": "Test Track",
-      "C": "Spaceship Earth",
-      "D": "Mission: SPACE",
-      "answer": "A",
-      "funFact": "Soarin' Around the World (formerly Soarin' Over California) simulates hang gliding over famous landmarks. It uses a large-format film and motion simulation."
+        "question": "What is the name of the ride that simulates flying at Epcot?",
+        "A": "Soarin'",
+        "B": "Test Track",
+        "C": "Spaceship Earth",
+        "D": "Mission: SPACE",
+        "answer": "A",
+        "funFact": "Soarin' Around the World (formerly Soarin' Over California) simulates hang gliding over famous landmarks. It uses a large-format film and motion simulation."
     },
     {
-      "question": "What is the name of the ride that tests cars at Epcot?",
-      "A": "Test Track",
-      "B": "Radiator Springs Racers",
-      "C": "Autopia",
-      "D": "Speedway",
-      "answer": "A",
-      "funFact": "Test Track at Epcot allows guests to design and test virtual cars, then experience them on a high-speed test track. It reaches speeds of up to 65 mph."
+        "question": "What is the name of the ride that tests cars at Epcot?",
+        "A": "Test Track",
+        "B": "Radiator Springs Racers",
+        "C": "Autopia",
+        "D": "Speedway",
+        "answer": "A",
+        "funFact": "Test Track at Epcot allows guests to design and test virtual cars, then experience them on a high-speed test track. It reaches speeds of up to 65 mph."
     },
     {
-      "question": "What is the name of the ride that takes you through space at Epcot?",
-      "A": "Mission: SPACE",
-      "B": "Space Mountain",
-      "C": "Star Tours",
-      "D": "Astro Orbiter",
-      "answer": "A",
-      "funFact": "Mission: SPACE at Epcot simulates a mission to Mars. It uses a centrifuge to create G-forces and offers two intensity levels: Green (milder) and Orange (intense)."
+        "question": "What is the name of the ride that takes you through space at Epcot?",
+        "A": "Mission: SPACE",
+        "B": "Space Mountain",
+        "C": "Star Tours",
+        "D": "Astro Orbiter",
+        "answer": "A",
+        "funFact": "Mission: SPACE at Epcot simulates a mission to Mars. It uses a centrifuge to create G-forces and offers two intensity levels: Green (milder) and Orange (intense)."
     },
     {
-      "question": "What is the name of the ride based on Star Wars at Disney's Hollywood Studios?",
-      "A": "Star Tours",
-      "B": "Star Wars: Rise of the Resistance",
-      "C": "Millennium Falcon: Smugglers Run",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Disney's Hollywood Studios has multiple Star Wars attractions: Star Tours (opened 1987), Star Wars: Rise of the Resistance (2019), and Millennium Falcon: Smugglers Run (2019)."
+        "question": "What is the name of the ride based on Star Wars at Disney's Hollywood Studios?",
+        "A": "Star Tours",
+        "B": "Star Wars: Rise of the Resistance",
+        "C": "Millennium Falcon: Smugglers Run",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Disney's Hollywood Studios has multiple Star Wars attractions: Star Tours (opened 1987), Star Wars: Rise of the Resistance (2019), and Millennium Falcon: Smugglers Run (2019)."
     },
     {
-      "question": "What is the name of the ride that drops you in a hotel at Disney's Hollywood Studios?",
-      "A": "The Twilight Zone Tower of Terror",
-      "B": "Haunted Mansion",
-      "C": "Space Mountain",
-      "D": "Splash Mountain",
-      "answer": "A",
-      "funFact": "The Twilight Zone Tower of Terror opened at Disney's Hollywood Studios in 1994. It's a drop ride themed to The Twilight Zone television series."
+        "question": "What is the name of the ride that drops you in a hotel at Disney's Hollywood Studios?",
+        "A": "The Twilight Zone Tower of Terror",
+        "B": "Haunted Mansion",
+        "C": "Space Mountain",
+        "D": "Splash Mountain",
+        "answer": "A",
+        "funFact": "The Twilight Zone Tower of Terror opened at Disney's Hollywood Studios in 1994. It's a drop ride themed to The Twilight Zone television series."
     },
     {
-      "question": "What is the name of the ride based on Toy Story at Disney's Hollywood Studios?",
-      "A": "Toy Story Mania!",
-      "B": "Slinky Dog Dash",
-      "C": "Alien Swirling Saucers",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Toy Story Land at Disney's Hollywood Studios features multiple attractions: Toy Story Mania! (2008), Slinky Dog Dash (2018), and Alien Swirling Saucers (2018)."
+        "question": "What is the name of the ride based on Toy Story at Disney's Hollywood Studios?",
+        "A": "Toy Story Mania!",
+        "B": "Slinky Dog Dash",
+        "C": "Alien Swirling Saucers",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Toy Story Land at Disney's Hollywood Studios features multiple attractions: Toy Story Mania! (2008), Slinky Dog Dash (2018), and Alien Swirling Saucers (2018)."
     },
     {
-      "question": "What is the name of the ride that takes you through the Avatar world at Animal Kingdom?",
-      "A": "Avatar Flight of Passage",
-      "B": "Na'vi River Journey",
-      "C": "Both A and B",
-      "D": "Pandora: The World of Avatar",
-      "answer": "C",
-      "funFact": "Pandora: The World of Avatar at Animal Kingdom features two attractions: Avatar Flight of Passage (a flight simulator) and Na'vi River Journey (a boat ride)."
+        "question": "What is the name of the ride that takes you through the Avatar world at Animal Kingdom?",
+        "A": "Avatar Flight of Passage",
+        "B": "Na'vi River Journey",
+        "C": "Neither A nor B",
+        "D": "Pandora: The World of Avatar",
+        "answer": "A",
+        "funFact": "Pandora: The World of Avatar at Animal Kingdom features two attractions: Avatar Flight of Passage (a flight simulator) and Na'vi River Journey (a boat ride)."
     },
     {
-      "question": "What is the name of the ride that takes you on a safari at Animal Kingdom?",
-      "A": "Kilimanjaro Safaris",
-      "B": "Jungle Cruise",
-      "C": "Wildlife Express Train",
-      "D": "Expedition Everest",
-      "answer": "A",
-      "funFact": "Kilimanjaro Safaris at Animal Kingdom takes guests on a 20-minute safari through the African savanna, where they can see real animals like elephants, giraffes, and lions."
+        "question": "What is the name of the ride that takes you on a safari at Animal Kingdom?",
+        "A": "Kilimanjaro Safaris",
+        "B": "Jungle Cruise",
+        "C": "Wildlife Express Train",
+        "D": "Expedition Everest",
+        "answer": "A",
+        "funFact": "Kilimanjaro Safaris at Animal Kingdom takes guests on a 20-minute safari through the African savanna, where they can see real animals like elephants, giraffes, and lions."
     },
     {
-      "question": "What is the name of the roller coaster at Animal Kingdom that goes backwards?",
-      "A": "Expedition Everest",
-      "B": "Big Thunder Mountain",
-      "C": "Space Mountain",
-      "D": "Matterhorn Bobsleds",
-      "answer": "A",
-      "funFact": "Expedition Everest at Animal Kingdom features a section where the train goes backwards in the dark. It's themed to the Yeti and the Himalayas."
+        "question": "What is the name of the roller coaster at Animal Kingdom that goes backwards?",
+        "A": "Expedition Everest",
+        "B": "Big Thunder Mountain",
+        "C": "Space Mountain",
+        "D": "Matterhorn Bobsleds",
+        "answer": "A",
+        "funFact": "Expedition Everest at Animal Kingdom features a section where the train goes backwards in the dark. It's themed to the Yeti and the Himalayas."
     },
     {
-      "question": "What is the name of the ride that takes you through different movie scenes at Disney's Hollywood Studios?",
-      "A": "The Great Movie Ride",
-      "B": "Mickey and Minnie's Runaway Railway",
-      "C": "Both A and B",
-      "D": "Star Tours",
-      "answer": "B",
-      "funFact": "Mickey and Minnie's Runaway Railway opened in 2020, replacing The Great Movie Ride. It's the first ride-through attraction starring Mickey and Minnie Mouse."
+        "question": "What is the name of the ride that takes you through different movie scenes at Disney's Hollywood Studios?",
+        "A": "The Great Movie Ride",
+        "B": "Mickey and Minnie's Runaway Railway",
+        "C": "Neither A nor B",
+        "D": "Star Tours",
+        "answer": "B",
+        "funFact": "Mickey and Minnie's Runaway Railway opened in 2020, replacing The Great Movie Ride. It's the first ride-through attraction starring Mickey and Minnie Mouse."
     },
     {
-      "question": "What is the name of the ride that takes you through different countries at Epcot?",
-      "A": "World Showcase",
-      "B": "Spaceship Earth",
-      "C": "Test Track",
-      "D": "Soarin'",
-      "answer": "A",
-      "funFact": "World Showcase at Epcot is not a ride but a walkable area with 11 country pavilions. However, some pavilions have rides like Gran Fiesta Tour in Mexico and Frozen Ever After in Norway."
+        "question": "What is the name of the ride that takes you through different countries at Epcot?",
+        "A": "World Showcase",
+        "B": "Spaceship Earth",
+        "C": "Test Track",
+        "D": "Soarin'",
+        "answer": "A",
+        "funFact": "World Showcase at Epcot is not a ride but a walkable area with 11 country pavilions. However, some pavilions have rides like Gran Fiesta Tour in Mexico and Frozen Ever After in Norway."
     },
     {
-      "question": "What is the name of the ride that takes you through the history of communication at Epcot?",
-      "A": "Spaceship Earth",
-      "B": "Test Track",
-      "C": "Mission: SPACE",
-      "D": "Soarin'",
-      "answer": "A",
-      "funFact": "Spaceship Earth is the iconic geodesic sphere at Epcot that takes guests through the history of human communication, from cave paintings to the internet."
+        "question": "What is the name of the ride that takes you through the history of communication at Epcot?",
+        "A": "Spaceship Earth",
+        "B": "Test Track",
+        "C": "Mission: SPACE",
+        "D": "Soarin'",
+        "answer": "A",
+        "funFact": "Spaceship Earth is the iconic geodesic sphere at Epcot that takes guests through the history of human communication, from cave paintings to the internet."
     },
     {
-      "question": "What is the name of the ride that takes you through a haunted hotel at Disneyland Paris?",
-      "A": "Phantom Manor",
-      "B": "Haunted Mansion",
-      "C": "Tower of Terror",
-      "D": "Pirates of the Caribbean",
-      "answer": "A",
-      "funFact": "Phantom Manor is the Haunted Mansion equivalent at Disneyland Paris. It has a unique backstory set in the American Old West and features a different narrative than the original."
+        "question": "What is the name of the ride that takes you through a haunted hotel at Disneyland Paris?",
+        "A": "Phantom Manor",
+        "B": "Haunted Mansion",
+        "C": "Tower of Terror",
+        "D": "Pirates of the Caribbean",
+        "answer": "A",
+        "funFact": "Phantom Manor is the Haunted Mansion equivalent at Disneyland Paris. It has a unique backstory set in the American Old West and features a different narrative than the original."
     }
 ]
-

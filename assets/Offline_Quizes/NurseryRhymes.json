@@ -1,93 +1,92 @@
 [
     {
-      "question": "What did Humpty Dumpty do?",
-      "A": "Sat on a wall",
-      "B": "Jumped over a wall",
-      "C": "Built a wall",
-      "D": "Climbed a wall",
-      "answer": "A",
-      "funFact": "Humpty Dumpty sat on a wall in the famous nursery rhyme. Despite all the king's horses and men, they couldn't put Humpty together again."
+        "question": "What did Humpty Dumpty do?",
+        "A": "Sat on a wall",
+        "B": "Jumped over a wall",
+        "C": "Built a wall",
+        "D": "Climbed a wall",
+        "answer": "A",
+        "funFact": "Humpty Dumpty sat on a wall in the famous nursery rhyme. Despite all the king's horses and men, they couldn't put Humpty together again."
     },
     {
-      "question": "What did Little Miss Muffet sit on?",
-      "A": "A tuffet",
-      "B": "A cushion",
-      "C": "A chair",
-      "D": "A stool",
-      "answer": "A",
-      "funFact": "Little Miss Muffet sat on a tuffet, eating her curds and whey. A tuffet is a small stool or low seat."
+        "question": "What did Little Miss Muffet sit on?",
+        "A": "A tuffet",
+        "B": "A cushion",
+        "C": "A chair",
+        "D": "A stool",
+        "answer": "A",
+        "funFact": "Little Miss Muffet sat on a tuffet, eating her curds and whey. A tuffet is a small stool or low seat."
     },
     {
-      "question": "How many bags of wool did Baa Baa Black Sheep have?",
-      "A": "One",
-      "B": "Two",
-      "C": "Three",
-      "D": "Four",
-      "answer": "C",
-      "funFact": "Baa Baa Black Sheep had three bags full of wool - one for the master, one for the dame, and one for the little boy who lives down the lane."
+        "question": "How many bags of wool did Baa Baa Black Sheep have?",
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "answer": "C",
+        "funFact": "Baa Baa Black Sheep had three bags full of wool - one for the master, one for the dame, and one for the little boy who lives down the lane."
     },
     {
-      "question": "What did Jack and Jill go up the hill to fetch?",
-      "A": "A pail of water",
-      "B": "A bucket of milk",
-      "C": "A basket of apples",
-      "D": "A jug of water",
-      "answer": "A",
-      "funFact": "Jack and Jill went up the hill to fetch a pail of water. Jack fell down and broke his crown, and Jill came tumbling after."
+        "question": "What did Jack and Jill go up the hill to fetch?",
+        "A": "A pail of water",
+        "B": "A bucket of milk",
+        "C": "A basket of apples",
+        "D": "A jug of water",
+        "answer": "A",
+        "funFact": "Jack and Jill went up the hill to fetch a pail of water. Jack fell down and broke his crown, and Jill came tumbling after."
     },
     {
-      "question": "What did the cow jump over?",
-      "A": "The moon",
-      "B": "The sun",
-      "C": "A fence",
-      "D": "A wall",
-      "answer": "A",
-      "funFact": "In 'Hey Diddle Diddle,' the cow jumped over the moon. This is one of the most famous and whimsical nursery rhymes."
+        "question": "What did the cow jump over?",
+        "A": "The moon",
+        "B": "The sun",
+        "C": "A fence",
+        "D": "A wall",
+        "answer": "A",
+        "funFact": "In 'Hey Diddle Diddle,' the cow jumped over the moon. This is one of the most famous and whimsical nursery rhymes."
     },
     {
-      "question": "What did the little piggy do?",
-      "A": "Went to market",
-      "B": "Stayed home",
-      "C": "Had roast beef",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "'This Little Piggy' is a nursery rhyme about five little piggies, with each doing something different, often recited while counting a child's toes."
+        "question": "What did the little piggy do?",
+        "A": "Went to market",
+        "B": "Stayed home",
+        "C": "Had roast beef",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "'This Little Piggy' is a nursery rhyme about five little piggies, with each doing something different, often recited while counting a child's toes."
     },
     {
-      "question": "What did Old Mother Hubbard go to get?",
-      "A": "A bone",
-      "B": "Some bread",
-      "C": "A bone for her dog",
-      "D": "Some milk",
-      "answer": "C",
-      "funFact": "Old Mother Hubbard went to the cupboard to get her poor dog a bone, but when she got there, the cupboard was bare."
+        "question": "What did Old Mother Hubbard go to get?",
+        "A": "A bone",
+        "B": "Some bread",
+        "C": "A bone for her dog",
+        "D": "Some milk",
+        "answer": "C",
+        "funFact": "Old Mother Hubbard went to the cupboard to get her poor dog a bone, but when she got there, the cupboard was bare."
     },
     {
-      "question": "What did the cat play?",
-      "A": "A fiddle",
-      "B": "A piano",
-      "C": "A guitar",
-      "D": "A drum",
-      "answer": "A",
-      "funFact": "In 'Hey Diddle Diddle,' the cat and the fiddle are mentioned, though the rhyme is more about the whimsical scene than the cat actually playing."
+        "question": "What did the cat play?",
+        "A": "A fiddle",
+        "B": "A piano",
+        "C": "A guitar",
+        "D": "A drum",
+        "answer": "A",
+        "funFact": "In 'Hey Diddle Diddle,' the cat and the fiddle are mentioned, though the rhyme is more about the whimsical scene than the cat actually playing."
     },
     {
-      "question": "What did Mary have?",
-      "A": "A little lamb",
-      "B": "A little dog",
-      "C": "A little cat",
-      "D": "A little bird",
-      "answer": "A",
-      "funFact": "Mary had a little lamb, whose fleece was white as snow. And everywhere that Mary went, the lamb was sure to go."
+        "question": "What did Mary have?",
+        "A": "A little lamb",
+        "B": "A little dog",
+        "C": "A little cat",
+        "D": "A little bird",
+        "answer": "A",
+        "funFact": "Mary had a little lamb, whose fleece was white as snow. And everywhere that Mary went, the lamb was sure to go."
     },
     {
-      "question": "What did the three little kittens lose?",
-      "A": "Their mittens",
-      "B": "Their hats",
-      "C": "Their shoes",
-      "D": "Their toys",
-      "answer": "A",
-      "funFact": "The three little kittens lost their mittens, and they began to cry. Their mother scolded them, but then they found their mittens."
+        "question": "What did the three little kittens lose?",
+        "A": "Their mittens",
+        "B": "Their hats",
+        "C": "Their shoes",
+        "D": "Their toys",
+        "answer": "A",
+        "funFact": "The three little kittens lost their mittens, and they began to cry. Their mother scolded them, but then they found their mittens."
     }
 ]
-

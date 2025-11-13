@@ -1,183 +1,182 @@
 [
     {
-      "question": "Who has the most career passing touchdowns?",
-      "A": "Tom Brady",
-      "B": "Over 600 touchdowns",
-      "C": "Both A and B",
-      "D": "Peyton Manning",
-      "answer": "C",
-      "funFact": "Tom Brady has the most career passing touchdowns in NFL history with over 600 touchdowns. He played for 23 seasons."
+        "question": "Who has the most career passing touchdowns?",
+        "A": "Tom Brady",
+        "B": "Over 600 touchdowns",
+        "C": "Neither A nor B",
+        "D": "Peyton Manning",
+        "answer": "A",
+        "funFact": "Tom Brady has the most career passing touchdowns in NFL history with over 600 touchdowns. He played for 23 seasons."
     },
     {
-      "question": "Who has the most career passing yards?",
-      "A": "Tom Brady",
-      "B": "Over 84,000 yards",
-      "C": "Both A and B",
-      "D": "Drew Brees",
-      "answer": "C",
-      "funFact": "Tom Brady has the most career passing yards in NFL history with over 84,000 yards. He played for the Patriots and Buccaneers."
+        "question": "Who has the most career passing yards?",
+        "A": "Tom Brady",
+        "B": "Over 84,000 yards",
+        "C": "Neither A nor B",
+        "D": "Drew Brees",
+        "answer": "A",
+        "funFact": "Tom Brady has the most career passing yards in NFL history with over 84,000 yards. He played for the Patriots and Buccaneers."
     },
     {
-      "question": "Who has the most career rushing yards?",
-      "A": "Emmitt Smith",
-      "B": "18,355 yards",
-      "C": "Both A and B",
-      "D": "Walter Payton",
-      "answer": "C",
-      "funFact": "Emmitt Smith has the most career rushing yards in NFL history with 18,355 yards. He played for the Cowboys and Cardinals."
+        "question": "Who has the most career rushing yards?",
+        "A": "Emmitt Smith",
+        "B": "18,355 yards",
+        "C": "Neither A nor B",
+        "D": "Walter Payton",
+        "answer": "A",
+        "funFact": "Emmitt Smith has the most career rushing yards in NFL history with 18,355 yards. He played for the Cowboys and Cardinals."
     },
     {
-      "question": "Who has the most career receiving yards?",
-      "A": "Jerry Rice",
-      "B": "22,895 yards",
-      "C": "Both A and B",
-      "D": "Larry Fitzgerald",
-      "answer": "C",
-      "funFact": "Jerry Rice has the most career receiving yards in NFL history with 22,895 yards. He's considered the greatest wide receiver ever."
+        "question": "Who has the most career receiving yards?",
+        "A": "Jerry Rice",
+        "B": "22,895 yards",
+        "C": "Neither A nor B",
+        "D": "Larry Fitzgerald",
+        "answer": "A",
+        "funFact": "Jerry Rice has the most career receiving yards in NFL history with 22,895 yards. He's considered the greatest wide receiver ever."
     },
     {
-      "question": "Who has the most career touchdowns?",
-      "A": "Jerry Rice",
-      "B": "208 touchdowns",
-      "C": "Both A and B",
-      "D": "Emmitt Smith",
-      "answer": "C",
-      "funFact": "Jerry Rice has the most career touchdowns in NFL history with 208 touchdowns (197 receiving, 10 rushing, 1 fumble recovery)."
+        "question": "Who has the most career touchdowns?",
+        "A": "Jerry Rice",
+        "B": "208 touchdowns",
+        "C": "Neither A nor B",
+        "D": "Emmitt Smith",
+        "answer": "A",
+        "funFact": "Jerry Rice has the most career touchdowns in NFL history with 208 touchdowns (197 receiving, 10 rushing, 1 fumble recovery)."
     },
     {
-      "question": "Who has the most career sacks?",
-      "A": "Bruce Smith",
-      "B": "200 sacks",
-      "C": "Both A and B",
-      "D": "Reggie White",
-      "answer": "C",
-      "funFact": "Bruce Smith has the most career sacks in NFL history with 200 sacks. He played for the Bills and Redskins."
+        "question": "Who has the most career sacks?",
+        "A": "Bruce Smith",
+        "B": "200 sacks",
+        "C": "Neither A nor B",
+        "D": "Reggie White",
+        "answer": "A",
+        "funFact": "Bruce Smith has the most career sacks in NFL history with 200 sacks. He played for the Bills and Redskins."
     },
     {
-      "question": "Who has the most career interceptions?",
-      "A": "Paul Krause",
-      "B": "81 interceptions",
-      "C": "Both A and B",
-      "D": "Emmitt Thomas",
-      "answer": "C",
-      "funFact": "Paul Krause has the most career interceptions in NFL history with 81 interceptions. He played for the Vikings and Redskins."
+        "question": "Who has the most career interceptions?",
+        "A": "Paul Krause",
+        "B": "81 interceptions",
+        "C": "Neither A nor B",
+        "D": "Emmitt Thomas",
+        "answer": "A",
+        "funFact": "Paul Krause has the most career interceptions in NFL history with 81 interceptions. He played for the Vikings and Redskins."
     },
     {
-      "question": "What is the longest field goal?",
-      "A": "64 yards",
-      "B": "By Matt Prater",
-      "C": "Both A and B",
-      "D": "66 yards",
-      "answer": "C",
-      "funFact": "The longest field goal in NFL history is 64 yards, kicked by Matt Prater in 2013 while playing for the Denver Broncos."
+        "question": "What is the longest field goal?",
+        "A": "64 yards",
+        "B": "By Matt Prater",
+        "C": "Neither A nor B",
+        "D": "66 yards",
+        "answer": "A",
+        "funFact": "The longest field goal in NFL history is 64 yards, kicked by Matt Prater in 2013 while playing for the Denver Broncos."
     },
     {
-      "question": "What is the longest touchdown run?",
-      "A": "99 yards",
-      "B": "By Tony Dorsett",
-      "C": "Both A and B",
-      "D": "100 yards",
-      "answer": "C",
-      "funFact": "The longest touchdown run in NFL history is 99 yards, achieved by Tony Dorsett in 1983 while playing for the Dallas Cowboys."
+        "question": "What is the longest touchdown run?",
+        "A": "99 yards",
+        "B": "By Tony Dorsett",
+        "C": "Neither A nor B",
+        "D": "100 yards",
+        "answer": "A",
+        "funFact": "The longest touchdown run in NFL history is 99 yards, achieved by Tony Dorsett in 1983 while playing for the Dallas Cowboys."
     },
     {
-      "question": "What is the longest touchdown pass?",
-      "A": "99 yards",
-      "B": "Multiple players",
-      "C": "Both A and B",
-      "D": "100 yards",
-      "answer": "C",
-      "funFact": "The longest touchdown pass in NFL history is 99 yards, achieved by multiple quarterbacks including Frank Filchock and George Izo."
+        "question": "What is the longest touchdown pass?",
+        "A": "99 yards",
+        "B": "Multiple players",
+        "C": "Neither A nor B",
+        "D": "100 yards",
+        "answer": "A",
+        "funFact": "The longest touchdown pass in NFL history is 99 yards, achieved by multiple quarterbacks including Frank Filchock and George Izo."
     },
     {
-      "question": "What is the most points in a single game?",
-      "A": "73 points",
-      "B": "By Chicago Bears",
-      "C": "Both A and B",
-      "D": "70 points",
-      "answer": "C",
-      "funFact": "The most points scored by a team in a single NFL game is 73, achieved by the Chicago Bears in 1940 against the Washington Redskins."
+        "question": "What is the most points in a single game?",
+        "A": "73 points",
+        "B": "By Chicago Bears",
+        "C": "Neither A nor B",
+        "D": "70 points",
+        "answer": "A",
+        "funFact": "The most points scored by a team in a single NFL game is 73, achieved by the Chicago Bears in 1940 against the Washington Redskins."
     },
     {
-      "question": "What is the most passing yards in a single game?",
-      "A": "554 yards",
-      "B": "By Norm Van Brocklin",
-      "C": "Both A and B",
-      "D": "600 yards",
-      "answer": "C",
-      "funFact": "The most passing yards in a single NFL game is 554 yards, achieved by Norm Van Brocklin in 1951 while playing for the Los Angeles Rams."
+        "question": "What is the most passing yards in a single game?",
+        "A": "554 yards",
+        "B": "By Norm Van Brocklin",
+        "C": "Neither A nor B",
+        "D": "600 yards",
+        "answer": "A",
+        "funFact": "The most passing yards in a single NFL game is 554 yards, achieved by Norm Van Brocklin in 1951 while playing for the Los Angeles Rams."
     },
     {
-      "question": "What is the most rushing yards in a single game?",
-      "A": "296 yards",
-      "B": "By Adrian Peterson",
-      "C": "Both A and B",
-      "D": "300 yards",
-      "answer": "C",
-      "funFact": "The most rushing yards in a single NFL game is 296 yards, achieved by Adrian Peterson in 2007 while playing for the Minnesota Vikings."
+        "question": "What is the most rushing yards in a single game?",
+        "A": "296 yards",
+        "B": "By Adrian Peterson",
+        "C": "Neither A nor B",
+        "D": "300 yards",
+        "answer": "A",
+        "funFact": "The most rushing yards in a single NFL game is 296 yards, achieved by Adrian Peterson in 2007 while playing for the Minnesota Vikings."
     },
     {
-      "question": "What is the most receiving yards in a single game?",
-      "A": "336 yards",
-      "B": "By Flipper Anderson",
-      "C": "Both A and B",
-      "D": "350 yards",
-      "answer": "C",
-      "funFact": "The most receiving yards in a single NFL game is 336 yards, achieved by Flipper Anderson in 1989 while playing for the Los Angeles Rams."
+        "question": "What is the most receiving yards in a single game?",
+        "A": "336 yards",
+        "B": "By Flipper Anderson",
+        "C": "Neither A nor B",
+        "D": "350 yards",
+        "answer": "A",
+        "funFact": "The most receiving yards in a single NFL game is 336 yards, achieved by Flipper Anderson in 1989 while playing for the Los Angeles Rams."
     },
     {
-      "question": "What is the longest winning streak?",
-      "A": "21 games",
-      "B": "By New England Patriots",
-      "C": "Both A and B",
-      "D": "20 games",
-      "answer": "C",
-      "funFact": "The longest winning streak in NFL history is 21 games, achieved by the New England Patriots from 2003 to 2004."
+        "question": "What is the longest winning streak?",
+        "A": "21 games",
+        "B": "By New England Patriots",
+        "C": "Neither A nor B",
+        "D": "20 games",
+        "answer": "A",
+        "funFact": "The longest winning streak in NFL history is 21 games, achieved by the New England Patriots from 2003 to 2004."
     },
     {
-      "question": "What is the most Super Bowl wins by a team?",
-      "A": "6 wins",
-      "B": "Pittsburgh Steelers and New England Patriots",
-      "C": "Both A and B",
-      "D": "7 wins",
-      "answer": "C",
-      "funFact": "The most Super Bowl wins by a team is 6, achieved by both the Pittsburgh Steelers and New England Patriots."
+        "question": "What is the most Super Bowl wins by a team?",
+        "A": "6 wins",
+        "B": "Pittsburgh Steelers and New England Patriots",
+        "C": "Neither A nor B",
+        "D": "7 wins",
+        "answer": "A",
+        "funFact": "The most Super Bowl wins by a team is 6, achieved by both the Pittsburgh Steelers and New England Patriots."
     },
     {
-      "question": "What is the most Super Bowl wins by a player?",
-      "A": "7 wins",
-      "B": "By Tom Brady",
-      "C": "Both A and B",
-      "D": "6 wins",
-      "answer": "C",
-      "funFact": "The most Super Bowl wins by a player is 7, achieved by Tom Brady (6 with Patriots, 1 with Buccaneers)."
+        "question": "What is the most Super Bowl wins by a player?",
+        "A": "7 wins",
+        "B": "By Tom Brady",
+        "C": "Neither A nor B",
+        "D": "6 wins",
+        "answer": "A",
+        "funFact": "The most Super Bowl wins by a player is 7, achieved by Tom Brady (6 with Patriots, 1 with Buccaneers)."
     },
     {
-      "question": "What is the most career points?",
-      "A": "Over 2,600 points",
-      "B": "By Adam Vinatieri",
-      "C": "Both A and B",
-      "D": "2,000 points",
-      "answer": "C",
-      "funFact": "The most career points in NFL history is over 2,600 points, achieved by Adam Vinatieri, a kicker who played for 24 seasons."
+        "question": "What is the most career points?",
+        "A": "Over 2,600 points",
+        "B": "By Adam Vinatieri",
+        "C": "Neither A nor B",
+        "D": "2,000 points",
+        "answer": "A",
+        "funFact": "The most career points in NFL history is over 2,600 points, achieved by Adam Vinatieri, a kicker who played for 24 seasons."
     },
     {
-      "question": "What is the most career games played?",
-      "A": "365 games",
-      "B": "By Adam Vinatieri",
-      "C": "Both A and B",
-      "D": "350 games",
-      "answer": "C",
-      "funFact": "The most career games played in NFL history is 365 games, achieved by Adam Vinatieri, who played for 24 seasons as a kicker."
+        "question": "What is the most career games played?",
+        "A": "365 games",
+        "B": "By Adam Vinatieri",
+        "C": "Neither A nor B",
+        "D": "350 games",
+        "answer": "A",
+        "funFact": "The most career games played in NFL history is 365 games, achieved by Adam Vinatieri, who played for 24 seasons as a kicker."
     },
     {
-      "question": "What is the most consecutive games played?",
-      "A": "352 games",
-      "B": "By Brett Favre",
-      "C": "Both A and B",
-      "D": "300 games",
-      "answer": "C",
-      "funFact": "The most consecutive games played in NFL history is 352 games, achieved by Brett Favre, a quarterback who played from 1992 to 2010."
+        "question": "What is the most consecutive games played?",
+        "A": "352 games",
+        "B": "By Brett Favre",
+        "C": "Neither A nor B",
+        "D": "300 games",
+        "answer": "A",
+        "funFact": "The most consecutive games played in NFL history is 352 games, achieved by Brett Favre, a quarterback who played from 1992 to 2010."
     }
 ]
-

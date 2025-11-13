@@ -58,8 +58,8 @@
         "A": "Robotics",
         "B": "Robot engineering",
         "C": "Automation",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Robotics involves engineering, computer science, AI, and automation to create intelligent machines."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Robotics",
         "B": "Robot engineering",
         "C": "Automation science",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Robotics is an interdisciplinary field combining mechanical engineering, electrical engineering, computer science, and AI."
     }
 ]

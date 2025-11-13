@@ -1,183 +1,182 @@
 [
     {
-      "question": "When was the first Super Bowl?",
-      "A": "1965",
-      "B": "1966",
-      "C": "1967",
-      "D": "1968",
-      "answer": "C",
-      "funFact": "The first Super Bowl was played in 1967 (Super Bowl I) between the Green Bay Packers and Kansas City Chiefs. The Packers won 35-10."
+        "question": "When was the first Super Bowl?",
+        "A": "1965",
+        "B": "1966",
+        "C": "1967",
+        "D": "1968",
+        "answer": "C",
+        "funFact": "The first Super Bowl was played in 1967 (Super Bowl I) between the Green Bay Packers and Kansas City Chiefs. The Packers won 35-10."
     },
     {
-      "question": "What is the Super Bowl?",
-      "A": "The NFL championship game",
-      "B": "Played between AFC and NFC champions",
-      "C": "Both A and B",
-      "D": "A regular season game",
-      "answer": "C",
-      "funFact": "The Super Bowl is the NFL championship game, played between the AFC and NFC champions. It's the most-watched television event in the United States."
+        "question": "What is the Super Bowl?",
+        "A": "The NFL championship game",
+        "B": "Played between AFC and NFC champions",
+        "C": "Neither A nor B",
+        "D": "A regular season game",
+        "answer": "A",
+        "funFact": "The Super Bowl is the NFL championship game, played between the AFC and NFC champions. It's the most-watched television event in the United States."
     },
     {
-      "question": "What team has won the most Super Bowls?",
-      "A": "Pittsburgh Steelers",
-      "B": "New England Patriots",
-      "C": "Both A and B",
-      "D": "Dallas Cowboys",
-      "answer": "C",
-      "funFact": "The Pittsburgh Steelers and New England Patriots are tied with 6 Super Bowl wins each."
+        "question": "What team has won the most Super Bowls?",
+        "A": "Pittsburgh Steelers",
+        "B": "New England Patriots",
+        "C": "Neither A nor B",
+        "D": "Dallas Cowboys",
+        "answer": "A",
+        "funFact": "The Pittsburgh Steelers and New England Patriots are tied with 6 Super Bowl wins each."
     },
     {
-      "question": "What team has appeared in the most Super Bowls?",
-      "A": "New England Patriots",
-      "B": "Dallas Cowboys",
-      "C": "Pittsburgh Steelers",
-      "D": "All are close",
-      "answer": "A",
-      "funFact": "The New England Patriots have appeared in 11 Super Bowls, the most of any team. They won 6 and lost 5."
+        "question": "What team has appeared in the most Super Bowls?",
+        "A": "New England Patriots",
+        "B": "Dallas Cowboys",
+        "C": "Pittsburgh Steelers",
+        "D": "All are close",
+        "answer": "A",
+        "funFact": "The New England Patriots have appeared in 11 Super Bowls, the most of any team. They won 6 and lost 5."
     },
     {
-      "question": "What is the most-watched Super Bowl?",
-      "A": "Super Bowl XLIX (2015)",
-      "B": "Super Bowl LI (2017)",
-      "C": "Super Bowl LIII (2019)",
-      "D": "All are very high",
-      "answer": "D",
-      "funFact": "Super Bowl viewership is consistently very high, with over 100 million viewers. Super Bowl XLIX (2015) had over 114 million viewers."
+        "question": "What is the most-watched Super Bowl?",
+        "A": "Super Bowl XLIX (2015)",
+        "B": "Super Bowl LI (2017)",
+        "C": "Super Bowl LIII (2019)",
+        "D": "All are very high",
+        "answer": "D",
+        "funFact": "Super Bowl viewership is consistently very high, with over 100 million viewers. Super Bowl XLIX (2015) had over 114 million viewers."
     },
     {
-      "question": "What is the Super Bowl halftime show?",
-      "A": "Musical performance",
-      "B": "Major entertainment event",
-      "C": "Both A and B",
-      "D": "No entertainment",
-      "answer": "C",
-      "funFact": "The Super Bowl halftime show is a major musical performance that has featured artists like The Rolling Stones, Beyoncé, and The Weeknd."
+        "question": "What is the Super Bowl halftime show?",
+        "A": "Musical performance",
+        "B": "Major entertainment event",
+        "C": "Neither A nor B",
+        "D": "No entertainment",
+        "answer": "A",
+        "funFact": "The Super Bowl halftime show is a major musical performance that has featured artists like The Rolling Stones, Beyoncé, and The Weeknd."
     },
     {
-      "question": "What are Super Bowl commercials?",
-      "A": "Most expensive TV ads",
-      "B": "Often creative and memorable",
-      "C": "Both A and B",
-      "D": "Regular ads",
-      "answer": "C",
-      "funFact": "Super Bowl commercials are the most expensive TV ads, costing millions of dollars for 30 seconds. They're often creative and memorable."
+        "question": "What are Super Bowl commercials?",
+        "A": "Most expensive TV ads",
+        "B": "Often creative and memorable",
+        "C": "Neither A nor B",
+        "D": "Regular ads",
+        "answer": "A",
+        "funFact": "Super Bowl commercials are the most expensive TV ads, costing millions of dollars for 30 seconds. They're often creative and memorable."
     },
     {
-      "question": "What is the Vince Lombardi Trophy?",
-      "A": "Awarded to Super Bowl winner",
-      "B": "Named after legendary coach",
-      "C": "Both A and B",
-      "D": "Regular trophy",
-      "answer": "C",
-      "funFact": "The Vince Lombardi Trophy is awarded to the Super Bowl winner. It's named after Vince Lombardi, the legendary Green Bay Packers coach."
+        "question": "What is the Vince Lombardi Trophy?",
+        "A": "Awarded to Super Bowl winner",
+        "B": "Named after legendary coach",
+        "C": "Neither A nor B",
+        "D": "Regular trophy",
+        "answer": "A",
+        "funFact": "The Vince Lombardi Trophy is awarded to the Super Bowl winner. It's named after Vince Lombardi, the legendary Green Bay Packers coach."
     },
     {
-      "question": "What is the Super Bowl MVP?",
-      "A": "Most Valuable Player",
-      "B": "Awarded to best player in game",
-      "C": "Both A and B",
-      "D": "Team award",
-      "answer": "C",
-      "funFact": "The Super Bowl MVP (Most Valuable Player) is awarded to the best player in the game. Quarterbacks have won it most often."
+        "question": "What is the Super Bowl MVP?",
+        "A": "Most Valuable Player",
+        "B": "Awarded to best player in game",
+        "C": "Neither A nor B",
+        "D": "Team award",
+        "answer": "A",
+        "funFact": "The Super Bowl MVP (Most Valuable Player) is awarded to the best player in the game. Quarterbacks have won it most often."
     },
     {
-      "question": "What is the largest Super Bowl comeback?",
-      "A": "25 points",
-      "B": "28 points",
-      "C": "31 points",
-      "D": "35 points",
-      "answer": "B",
-      "funFact": "The largest Super Bowl comeback was 28 points by the New England Patriots in Super Bowl LI (2017). They came back from 28-3 to win 34-28 in overtime."
+        "question": "What is the largest Super Bowl comeback?",
+        "A": "25 points",
+        "B": "28 points",
+        "C": "31 points",
+        "D": "35 points",
+        "answer": "B",
+        "funFact": "The largest Super Bowl comeback was 28 points by the New England Patriots in Super Bowl LI (2017). They came back from 28-3 to win 34-28 in overtime."
     },
     {
-      "question": "What is the highest-scoring Super Bowl?",
-      "A": "Super Bowl XXIX (1995)",
-      "B": "75 total points",
-      "C": "Both A and B",
-      "D": "Super Bowl LII",
-      "answer": "C",
-      "funFact": "Super Bowl XXIX (1995) had 75 total points, with the San Francisco 49ers beating the San Diego Chargers 49-26."
+        "question": "What is the highest-scoring Super Bowl?",
+        "A": "Super Bowl XXIX (1995)",
+        "B": "75 total points",
+        "C": "Neither A nor B",
+        "D": "Super Bowl LII",
+        "answer": "A",
+        "funFact": "Super Bowl XXIX (1995) had 75 total points, with the San Francisco 49ers beating the San Diego Chargers 49-26."
     },
     {
-      "question": "What is the lowest-scoring Super Bowl?",
-      "A": "Super Bowl LIII (2019)",
-      "B": "16 total points",
-      "C": "Both A and B",
-      "D": "Super Bowl VII",
-      "answer": "C",
-      "funFact": "Super Bowl LIII (2019) had only 16 total points, with the New England Patriots beating the Los Angeles Rams 13-3."
+        "question": "What is the lowest-scoring Super Bowl?",
+        "A": "Super Bowl LIII (2019)",
+        "B": "16 total points",
+        "C": "Neither A nor B",
+        "D": "Super Bowl VII",
+        "answer": "A",
+        "funFact": "Super Bowl LIII (2019) had only 16 total points, with the New England Patriots beating the Los Angeles Rams 13-3."
     },
     {
-      "question": "What team has never won a Super Bowl?",
-      "A": "Buffalo Bills",
-      "B": "Minnesota Vikings",
-      "C": "Atlanta Falcons",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "The Buffalo Bills, Minnesota Vikings, and Atlanta Falcons are among the teams that have appeared in Super Bowls but never won."
+        "question": "What team has never won a Super Bowl?",
+        "A": "Buffalo Bills",
+        "B": "Minnesota Vikings",
+        "C": "Atlanta Falcons",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "The Buffalo Bills, Minnesota Vikings, and Atlanta Falcons are among the teams that have appeared in Super Bowls but never won."
     },
     {
-      "question": "What is Super Bowl Sunday?",
-      "A": "Major American holiday",
-      "B": "Most-watched TV event",
-      "C": "Both A and B",
-      "D": "Regular Sunday",
-      "answer": "C",
-      "funFact": "Super Bowl Sunday is treated like a major American holiday, with parties, food, and the most-watched TV event of the year."
+        "question": "What is Super Bowl Sunday?",
+        "A": "Major American holiday",
+        "B": "Most-watched TV event",
+        "C": "Neither A nor B",
+        "D": "Regular Sunday",
+        "answer": "A",
+        "funFact": "Super Bowl Sunday is treated like a major American holiday, with parties, food, and the most-watched TV event of the year."
     },
     {
-      "question": "What is the Super Bowl location?",
-      "A": "Rotates each year",
-      "B": "Warm-weather or domed stadiums",
-      "C": "Both A and B",
-      "D": "Always same place",
-      "answer": "C",
-      "funFact": "The Super Bowl location rotates each year, typically in warm-weather cities or domed stadiums to ensure good playing conditions."
+        "question": "What is the Super Bowl location?",
+        "A": "Rotates each year",
+        "B": "Warm-weather or domed stadiums",
+        "C": "Neither A nor B",
+        "D": "Always same place",
+        "answer": "A",
+        "funFact": "The Super Bowl location rotates each year, typically in warm-weather cities or domed stadiums to ensure good playing conditions."
     },
     {
-      "question": "What is the Super Bowl coin toss?",
-      "A": "Determines who receives first",
-      "B": "Tradition before the game",
-      "C": "Both A and B",
-      "D": "After the game",
-      "answer": "C",
-      "funFact": "The Super Bowl coin toss determines which team receives the ball first. It's a tradition that happens before the game."
+        "question": "What is the Super Bowl coin toss?",
+        "A": "Determines who receives first",
+        "B": "Tradition before the game",
+        "C": "Neither A nor B",
+        "D": "After the game",
+        "answer": "A",
+        "funFact": "The Super Bowl coin toss determines which team receives the ball first. It's a tradition that happens before the game."
     },
     {
-      "question": "What is the Super Bowl trophy presentation?",
-      "A": "After the game",
-      "B": "Commissioner presents trophy",
-      "C": "Both A and B",
-      "D": "Before the game",
-      "answer": "C",
-      "funFact": "The Super Bowl trophy presentation happens after the game, with the NFL commissioner presenting the Vince Lombardi Trophy to the winning team."
+        "question": "What is the Super Bowl trophy presentation?",
+        "A": "After the game",
+        "B": "Commissioner presents trophy",
+        "C": "Neither A nor B",
+        "D": "Before the game",
+        "answer": "A",
+        "funFact": "The Super Bowl trophy presentation happens after the game, with the NFL commissioner presenting the Vince Lombardi Trophy to the winning team."
     },
     {
-      "question": "What is the Super Bowl's economic impact?",
-      "A": "Billions of dollars",
-      "B": "On host city",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "The Super Bowl has an economic impact of billions of dollars on the host city, from tourism, hotels, restaurants, and local businesses."
+        "question": "What is the Super Bowl's economic impact?",
+        "A": "Billions of dollars",
+        "B": "On host city",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "The Super Bowl has an economic impact of billions of dollars on the host city, from tourism, hotels, restaurants, and local businesses."
     },
     {
-      "question": "What is the Super Bowl's cultural impact?",
-      "A": "Significant",
-      "B": "Major cultural event",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "The Super Bowl has a significant cultural impact and is a major cultural event, bringing together millions of Americans regardless of team affiliation."
+        "question": "What is the Super Bowl's cultural impact?",
+        "A": "Significant",
+        "B": "Major cultural event",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "The Super Bowl has a significant cultural impact and is a major cultural event, bringing together millions of Americans regardless of team affiliation."
     },
     {
-      "question": "What is the future of the Super Bowl?",
-      "A": "Continued growth",
-      "B": "International expansion possible",
-      "C": "Both A and B",
-      "D": "Declining",
-      "answer": "C",
-      "funFact": "The Super Bowl will likely continue to grow, and there's discussion about potentially playing it internationally in the future."
+        "question": "What is the future of the Super Bowl?",
+        "A": "Continued growth",
+        "B": "International expansion possible",
+        "C": "Neither A nor B",
+        "D": "Declining",
+        "answer": "A",
+        "funFact": "The Super Bowl will likely continue to grow, and there's discussion about potentially playing it internationally in the future."
     }
 ]
-

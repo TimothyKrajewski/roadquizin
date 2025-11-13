@@ -1,228 +1,227 @@
 [
     {
-      "question": "Which state has the longest coastline?",
-      "A": "California",
-      "B": "Florida",
-      "C": "Alaska",
-      "D": "Texas",
-      "answer": "C",
-      "funFact": "Alaska has the longest coastline of any state, with over 6,600 miles of coastline, more than all other states combined."
+        "question": "Which state has the longest coastline?",
+        "A": "California",
+        "B": "Florida",
+        "C": "Alaska",
+        "D": "Texas",
+        "answer": "C",
+        "funFact": "Alaska has the longest coastline of any state, with over 6,600 miles of coastline, more than all other states combined."
     },
     {
-      "question": "Which state has the most lakes?",
-      "A": "Minnesota",
-      "B": "Alaska",
-      "C": "Michigan",
-      "D": "Wisconsin",
-      "answer": "A",
-      "funFact": "Minnesota is known as the 'Land of 10,000 Lakes' and actually has over 11,000 lakes. Alaska has the most total water area, but Minnesota has the most named lakes."
+        "question": "Which state has the most lakes?",
+        "A": "Minnesota",
+        "B": "Alaska",
+        "C": "Michigan",
+        "D": "Wisconsin",
+        "answer": "A",
+        "funFact": "Minnesota is known as the 'Land of 10,000 Lakes' and actually has over 11,000 lakes. Alaska has the most total water area, but Minnesota has the most named lakes."
     },
     {
-      "question": "Which state has the highest point in the contiguous United States?",
-      "A": "Colorado",
-      "B": "California",
-      "C": "Washington",
-      "D": "Wyoming",
-      "answer": "B",
-      "funFact": "California has the highest point in the contiguous United States: Mount Whitney at 14,505 feet. The highest point overall is Denali in Alaska at 20,310 feet."
+        "question": "Which state has the highest point in the contiguous United States?",
+        "A": "Colorado",
+        "B": "California",
+        "C": "Washington",
+        "D": "Wyoming",
+        "answer": "B",
+        "funFact": "California has the highest point in the contiguous United States: Mount Whitney at 14,505 feet. The highest point overall is Denali in Alaska at 20,310 feet."
     },
     {
-      "question": "Which state has the lowest point in the United States?",
-      "A": "Nevada",
-      "B": "Arizona",
-      "C": "California",
-      "D": "Utah",
-      "answer": "C",
-      "funFact": "California has the lowest point in the United States: Badwater Basin in Death Valley at 282 feet below sea level. It's also the hottest place on Earth."
+        "question": "Which state has the lowest point in the United States?",
+        "A": "Nevada",
+        "B": "Arizona",
+        "C": "California",
+        "D": "Utah",
+        "answer": "C",
+        "funFact": "California has the lowest point in the United States: Badwater Basin in Death Valley at 282 feet below sea level. It's also the hottest place on Earth."
     },
     {
-      "question": "Which state is the flattest?",
-      "A": "Kansas",
-      "B": "Florida",
-      "C": "Nebraska",
-      "D": "Delaware",
-      "answer": "B",
-      "funFact": "Florida is the flattest state, with an average elevation of only 100 feet above sea level. Its highest point, Britton Hill, is only 345 feet above sea level."
+        "question": "Which state is the flattest?",
+        "A": "Kansas",
+        "B": "Florida",
+        "C": "Nebraska",
+        "D": "Delaware",
+        "answer": "B",
+        "funFact": "Florida is the flattest state, with an average elevation of only 100 feet above sea level. Its highest point, Britton Hill, is only 345 feet above sea level."
     },
     {
-      "question": "Which state has the most rivers?",
-      "A": "Alaska",
-      "B": "Texas",
-      "C": "Montana",
-      "D": "Colorado",
-      "answer": "A",
-      "funFact": "Alaska has the most rivers, with over 3,000 rivers and streams. The Yukon River, one of the longest in North America, flows through Alaska."
+        "question": "Which state has the most rivers?",
+        "A": "Alaska",
+        "B": "Texas",
+        "C": "Montana",
+        "D": "Colorado",
+        "answer": "A",
+        "funFact": "Alaska has the most rivers, with over 3,000 rivers and streams. The Yukon River, one of the longest in North America, flows through Alaska."
     },
     {
-      "question": "Which state has the Grand Canyon?",
-      "A": "Nevada",
-      "B": "Utah",
-      "C": "Arizona",
-      "D": "New Mexico",
-      "answer": "C",
-      "funFact": "Arizona has the Grand Canyon, one of the world's natural wonders. The canyon is 277 miles long, up to 18 miles wide, and over a mile deep."
+        "question": "Which state has the Grand Canyon?",
+        "A": "Nevada",
+        "B": "Utah",
+        "C": "Arizona",
+        "D": "New Mexico",
+        "answer": "C",
+        "funFact": "Arizona has the Grand Canyon, one of the world's natural wonders. The canyon is 277 miles long, up to 18 miles wide, and over a mile deep."
     },
     {
-      "question": "Which state has the most national parks?",
-      "A": "California",
-      "B": "Alaska",
-      "C": "Utah",
-      "D": "Colorado",
-      "answer": "A",
-      "funFact": "California has the most national parks with 9, including Yosemite, Sequoia, and Death Valley. Alaska has 8 national parks, but they're much larger."
+        "question": "Which state has the most national parks?",
+        "A": "California",
+        "B": "Alaska",
+        "C": "Utah",
+        "D": "Colorado",
+        "answer": "A",
+        "funFact": "California has the most national parks with 9, including Yosemite, Sequoia, and Death Valley. Alaska has 8 national parks, but they're much larger."
     },
     {
-      "question": "Which state has the most mountains?",
-      "A": "Colorado",
-      "B": "Alaska",
-      "C": "Montana",
-      "D": "Wyoming",
-      "answer": "B",
-      "funFact": "Alaska has the most mountains, including 17 of the 20 highest peaks in the United States. Denali is the highest peak in North America."
+        "question": "Which state has the most mountains?",
+        "A": "Colorado",
+        "B": "Alaska",
+        "C": "Montana",
+        "D": "Wyoming",
+        "answer": "B",
+        "funFact": "Alaska has the most mountains, including 17 of the 20 highest peaks in the United States. Denali is the highest peak in North America."
     },
     {
-      "question": "Which state has the most desert area?",
-      "A": "Nevada",
-      "B": "Arizona",
-      "C": "California",
-      "D": "New Mexico",
-      "answer": "A",
-      "funFact": "Nevada has the most desert area, with about 86% of the state being desert. The Great Basin Desert covers most of Nevada."
+        "question": "Which state has the most desert area?",
+        "A": "Nevada",
+        "B": "Arizona",
+        "C": "California",
+        "D": "New Mexico",
+        "answer": "A",
+        "funFact": "Nevada has the most desert area, with about 86% of the state being desert. The Great Basin Desert covers most of Nevada."
     },
     {
-      "question": "Which state has the longest river?",
-      "A": "Missouri",
-      "B": "Montana",
-      "C": "Texas",
-      "D": "Alaska",
-      "answer": "A",
-      "funFact": "The Missouri River, which flows through Missouri, is the longest river in the United States at 2,341 miles. However, the Mississippi-Missouri system is longer."
+        "question": "Which state has the longest river?",
+        "A": "Missouri",
+        "B": "Montana",
+        "C": "Texas",
+        "D": "Alaska",
+        "answer": "A",
+        "funFact": "The Missouri River, which flows through Missouri, is the longest river in the United States at 2,341 miles. However, the Mississippi-Missouri system is longer."
     },
     {
-      "question": "Which state has the largest lake entirely within its borders?",
-      "A": "Michigan",
-      "B": "Minnesota",
-      "C": "Alaska",
-      "D": "New York",
-      "answer": "A",
-      "funFact": "Michigan has the largest lake entirely within its borders: Lake Michigan, though it's shared with other states. The largest lake entirely within one state is Great Salt Lake in Utah."
+        "question": "Which state has the largest lake entirely within its borders?",
+        "A": "Michigan",
+        "B": "Minnesota",
+        "C": "Alaska",
+        "D": "New York",
+        "answer": "A",
+        "funFact": "Michigan has the largest lake entirely within its borders: Lake Michigan, though it's shared with other states. The largest lake entirely within one state is Great Salt Lake in Utah."
     },
     {
-      "question": "Which state has the most islands?",
-      "A": "Alaska",
-      "B": "Hawaii",
-      "C": "Florida",
-      "D": "Maine",
-      "answer": "A",
-      "funFact": "Alaska has the most islands, with over 2,600 named islands. The Aleutian Islands chain alone has over 300 islands."
+        "question": "Which state has the most islands?",
+        "A": "Alaska",
+        "B": "Hawaii",
+        "C": "Florida",
+        "D": "Maine",
+        "answer": "A",
+        "funFact": "Alaska has the most islands, with over 2,600 named islands. The Aleutian Islands chain alone has over 300 islands."
     },
     {
-      "question": "Which state has the most caves?",
-      "A": "Kentucky",
-      "B": "Tennessee",
-      "C": "Missouri",
-      "D": "Virginia",
-      "answer": "A",
-      "funFact": "Kentucky has the most caves, with over 5,000 known caves. Mammoth Cave in Kentucky is the world's longest cave system."
+        "question": "Which state has the most caves?",
+        "A": "Kentucky",
+        "B": "Tennessee",
+        "C": "Missouri",
+        "D": "Virginia",
+        "answer": "A",
+        "funFact": "Kentucky has the most caves, with over 5,000 known caves. Mammoth Cave in Kentucky is the world's longest cave system."
     },
     {
-      "question": "Which state has the most coastline on the Great Lakes?",
-      "A": "Michigan",
-      "B": "Wisconsin",
-      "C": "Minnesota",
-      "D": "New York",
-      "answer": "A",
-      "funFact": "Michigan has the most coastline on the Great Lakes, with over 3,200 miles of shoreline. It's the only state that touches four of the five Great Lakes."
+        "question": "Which state has the most coastline on the Great Lakes?",
+        "A": "Michigan",
+        "B": "Wisconsin",
+        "C": "Minnesota",
+        "D": "New York",
+        "answer": "A",
+        "funFact": "Michigan has the most coastline on the Great Lakes, with over 3,200 miles of shoreline. It's the only state that touches four of the five Great Lakes."
     },
     {
-      "question": "Which state has the most waterfalls?",
-      "A": "Oregon",
-      "B": "Washington",
-      "C": "California",
-      "D": "Alaska",
-      "answer": "A",
-      "funFact": "Oregon has the most waterfalls, with over 200 named waterfalls. Multnomah Falls is one of the most famous, at 620 feet tall."
+        "question": "Which state has the most waterfalls?",
+        "A": "Oregon",
+        "B": "Washington",
+        "C": "California",
+        "D": "Alaska",
+        "answer": "A",
+        "funFact": "Oregon has the most waterfalls, with over 200 named waterfalls. Multnomah Falls is one of the most famous, at 620 feet tall."
     },
     {
-      "question": "Which state has the most volcanoes?",
-      "A": "Alaska",
-      "B": "Hawaii",
-      "C": "California",
-      "D": "Washington",
-      "answer": "A",
-      "funFact": "Alaska has the most volcanoes, with over 130 volcanoes, more than any other state. Many are still active, including Mount Redoubt and Mount Spurr."
+        "question": "Which state has the most volcanoes?",
+        "A": "Alaska",
+        "B": "Hawaii",
+        "C": "California",
+        "D": "Washington",
+        "answer": "A",
+        "funFact": "Alaska has the most volcanoes, with over 130 volcanoes, more than any other state. Many are still active, including Mount Redoubt and Mount Spurr."
     },
     {
-      "question": "Which state has the most forest area?",
-      "A": "Alaska",
-      "B": "Maine",
-      "C": "Oregon",
-      "D": "California",
-      "answer": "A",
-      "funFact": "Alaska has the most forest area, with over 126 million acres of forest, covering about 35% of the state. It's home to the Tongass National Forest, the largest in the U.S."
+        "question": "Which state has the most forest area?",
+        "A": "Alaska",
+        "B": "Maine",
+        "C": "Oregon",
+        "D": "California",
+        "answer": "A",
+        "funFact": "Alaska has the most forest area, with over 126 million acres of forest, covering about 35% of the state. It's home to the Tongass National Forest, the largest in the U.S."
     },
     {
-      "question": "Which state has the most farmland?",
-      "A": "Texas",
-      "B": "Iowa",
-      "C": "Nebraska",
-      "D": "Kansas",
-      "answer": "A",
-      "funFact": "Texas has the most farmland, with over 127 million acres. However, Iowa and Illinois have more cropland specifically."
+        "question": "Which state has the most farmland?",
+        "A": "Texas",
+        "B": "Iowa",
+        "C": "Nebraska",
+        "D": "Kansas",
+        "answer": "A",
+        "funFact": "Texas has the most farmland, with over 127 million acres. However, Iowa and Illinois have more cropland specifically."
     },
     {
-      "question": "Which state has the most national forests?",
-      "A": "Alaska",
-      "B": "California",
-      "C": "Idaho",
-      "D": "Montana",
-      "answer": "A",
-      "funFact": "Alaska has the most national forests, with the Tongass and Chugach National Forests covering millions of acres. The Tongass is the largest national forest in the U.S."
+        "question": "Which state has the most national forests?",
+        "A": "Alaska",
+        "B": "California",
+        "C": "Idaho",
+        "D": "Montana",
+        "answer": "A",
+        "funFact": "Alaska has the most national forests, with the Tongass and Chugach National Forests covering millions of acres. The Tongass is the largest national forest in the U.S."
     },
     {
-      "question": "Which state has the most state parks?",
-      "A": "California",
-      "B": "New York",
-      "C": "Florida",
-      "D": "Texas",
-      "answer": "A",
-      "funFact": "California has the most state parks, with over 280 state parks and recreation areas, covering over 1.5 million acres."
+        "question": "Which state has the most state parks?",
+        "A": "California",
+        "B": "New York",
+        "C": "Florida",
+        "D": "Texas",
+        "answer": "A",
+        "funFact": "California has the most state parks, with over 280 state parks and recreation areas, covering over 1.5 million acres."
     },
     {
-      "question": "Which state has the most coastline on the Atlantic Ocean?",
-      "A": "Florida",
-      "B": "Maine",
-      "C": "North Carolina",
-      "D": "South Carolina",
-      "answer": "A",
-      "funFact": "Florida has the most coastline on the Atlantic Ocean among East Coast states, with over 580 miles of Atlantic coastline, plus additional Gulf of Mexico coastline."
+        "question": "Which state has the most coastline on the Atlantic Ocean?",
+        "A": "Florida",
+        "B": "Maine",
+        "C": "North Carolina",
+        "D": "South Carolina",
+        "answer": "A",
+        "funFact": "Florida has the most coastline on the Atlantic Ocean among East Coast states, with over 580 miles of Atlantic coastline, plus additional Gulf of Mexico coastline."
     },
     {
-      "question": "Which state has the most border with Canada?",
-      "A": "Alaska",
-      "B": "Montana",
-      "C": "Michigan",
-      "D": "Maine",
-      "answer": "A",
-      "funFact": "Alaska has the longest border with Canada, sharing a 1,538-mile border. However, if considering only the contiguous U.S., Montana has the longest border with Canada."
+        "question": "Which state has the most border with Canada?",
+        "A": "Alaska",
+        "B": "Montana",
+        "C": "Michigan",
+        "D": "Maine",
+        "answer": "A",
+        "funFact": "Alaska has the longest border with Canada, sharing a 1,538-mile border. However, if considering only the contiguous U.S., Montana has the longest border with Canada."
     },
     {
-      "question": "Which state has the most border with Mexico?",
-      "A": "Texas",
-      "B": "California",
-      "C": "Arizona",
-      "D": "New Mexico",
-      "answer": "A",
-      "funFact": "Texas has the longest border with Mexico, at 1,254 miles. It shares this border with the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas."
+        "question": "Which state has the most border with Mexico?",
+        "A": "Texas",
+        "B": "California",
+        "C": "Arizona",
+        "D": "New Mexico",
+        "answer": "A",
+        "funFact": "Texas has the longest border with Mexico, at 1,254 miles. It shares this border with the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas."
     },
     {
-      "question": "Which state is completely surrounded by water?",
-      "A": "Hawaii",
-      "B": "Alaska",
-      "C": "Rhode Island",
-      "D": "Both A and C",
-      "answer": "A",
-      "funFact": "Hawaii is the only state completely surrounded by water, as it's an island chain in the Pacific Ocean. Rhode Island has water on most sides but shares a land border with Massachusetts and Connecticut."
+        "question": "Which state is completely surrounded by water?",
+        "A": "Hawaii",
+        "B": "Alaska",
+        "C": "Rhode Island",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Hawaii is the only state completely surrounded by water, as it's an island chain in the Pacific Ocean. Rhode Island has water on most sides but shares a land border with Massachusetts and Connecticut."
     }
 ]
-

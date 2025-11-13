@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is a myth?",
-      "A": "A true story",
-      "B": "A traditional story explaining natural phenomena or cultural beliefs",
-      "C": "A modern story",
-      "D": "A scientific fact",
-      "answer": "B",
-      "funFact": "A myth is a traditional story that explains natural phenomena, cultural beliefs, or the origins of the world. Myths often involve gods, heroes, and supernatural beings."
+        "question": "What is a myth?",
+        "A": "A true story",
+        "B": "A traditional story explaining natural phenomena or cultural beliefs",
+        "C": "A modern story",
+        "D": "A scientific fact",
+        "answer": "B",
+        "funFact": "A myth is a traditional story that explains natural phenomena, cultural beliefs, or the origins of the world. Myths often involve gods, heroes, and supernatural beings."
     },
     {
-      "question": "What is a legend?",
-      "A": "A completely fictional story",
-      "B": "A story based on historical events with exaggerated elements",
-      "C": "A scientific explanation",
-      "D": "A modern novel",
-      "answer": "B",
-      "funFact": "A legend is a story based on historical events or people but with exaggerated or fantastical elements. Legends often feature heroic figures and extraordinary deeds."
+        "question": "What is a legend?",
+        "A": "A completely fictional story",
+        "B": "A story based on historical events with exaggerated elements",
+        "C": "A scientific explanation",
+        "D": "A modern novel",
+        "answer": "B",
+        "funFact": "A legend is a story based on historical events or people but with exaggerated or fantastical elements. Legends often feature heroic figures and extraordinary deeds."
     },
     {
-      "question": "What is the difference between a myth and a legend?",
-      "A": "They are the same",
-      "B": "Myths explain natural phenomena, legends are based on historical events",
-      "C": "Legends are older than myths",
-      "D": "Myths are true, legends are false",
-      "answer": "B",
-      "funFact": "Myths typically explain natural phenomena or cultural beliefs (like why the seasons change), while legends are stories based on historical events with exaggerated elements (like King Arthur)."
+        "question": "What is the difference between a myth and a legend?",
+        "A": "They are the same",
+        "B": "Myths explain natural phenomena, legends are based on historical events",
+        "C": "Legends are older than myths",
+        "D": "Myths are true, legends are false",
+        "answer": "B",
+        "funFact": "Myths typically explain natural phenomena or cultural beliefs (like why the seasons change), while legends are stories based on historical events with exaggerated elements (like King Arthur)."
     },
     {
-      "question": "What is a folktale?",
-      "A": "A story passed down through generations",
-      "B": "A modern story",
-      "C": "A scientific fact",
-      "D": "A type of myth",
-      "answer": "A",
-      "funFact": "A folktale is a traditional story passed down through generations, often by word of mouth. Folktales include fairy tales, fables, and stories that teach moral lessons."
+        "question": "What is a folktale?",
+        "A": "A story passed down through generations",
+        "B": "A modern story",
+        "C": "A scientific fact",
+        "D": "A type of myth",
+        "answer": "A",
+        "funFact": "A folktale is a traditional story passed down through generations, often by word of mouth. Folktales include fairy tales, fables, and stories that teach moral lessons."
     },
     {
-      "question": "What is the most famous legend about a sword?",
-      "A": "Excalibur",
-      "B": "The Sword of Damocles",
-      "C": "The Sword in the Stone",
-      "D": "Both A and C",
-      "answer": "D",
-      "funFact": "Excalibur and the Sword in the Stone are both part of the King Arthur legend. The Sword in the Stone proved Arthur was the rightful king, and Excalibur was his magical sword."
+        "question": "What is the most famous legend about a sword?",
+        "A": "Excalibur",
+        "B": "The Sword of Damocles",
+        "C": "The Sword in the Stone",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Excalibur and the Sword in the Stone are both part of the King Arthur legend. The Sword in the Stone proved Arthur was the rightful king, and Excalibur was his magical sword."
     },
     {
-      "question": "What is a fable?",
-      "A": "A story with gods",
-      "B": "A story with talking animals that teaches a moral",
-      "C": "A historical story",
-      "D": "A modern story",
-      "answer": "B",
-      "funFact": "A fable is a short story, often with talking animals, that teaches a moral lesson. Aesop's Fables are the most famous examples, like 'The Tortoise and the Hare.'"
+        "question": "What is a fable?",
+        "A": "A story with gods",
+        "B": "A story with talking animals that teaches a moral",
+        "C": "A historical story",
+        "D": "A modern story",
+        "answer": "B",
+        "funFact": "A fable is a short story, often with talking animals, that teaches a moral lesson. Aesop's Fables are the most famous examples, like 'The Tortoise and the Hare.'"
     },
     {
-      "question": "What is the legend of Robin Hood about?",
-      "A": "A king",
-      "B": "An outlaw who robbed from the rich and gave to the poor",
-      "C": "A knight",
-      "D": "A wizard",
-      "answer": "B",
-      "funFact": "The legend of Robin Hood tells of an outlaw who robbed from the rich and gave to the poor in medieval England. He's often associated with Sherwood Forest and his band of Merry Men."
+        "question": "What is the legend of Robin Hood about?",
+        "A": "A king",
+        "B": "An outlaw who robbed from the rich and gave to the poor",
+        "C": "A knight",
+        "D": "A wizard",
+        "answer": "B",
+        "funFact": "The legend of Robin Hood tells of an outlaw who robbed from the rich and gave to the poor in medieval England. He's often associated with Sherwood Forest and his band of Merry Men."
     },
     {
-      "question": "What is a fairy tale?",
-      "A": "A story with fairies only",
-      "B": "A magical story often with fairies, princes, and princesses",
-      "C": "A true story",
-      "D": "A scientific story",
-      "answer": "B",
-      "funFact": "A fairy tale is a magical story, often featuring fairies, princes, princesses, and magical creatures. Examples include 'Cinderella,' 'Snow White,' and 'Sleeping Beauty.'"
+        "question": "What is a fairy tale?",
+        "A": "A story with fairies only",
+        "B": "A magical story often with fairies, princes, and princesses",
+        "C": "A true story",
+        "D": "A scientific story",
+        "answer": "B",
+        "funFact": "A fairy tale is a magical story, often featuring fairies, princes, princesses, and magical creatures. Examples include 'Cinderella,' 'Snow White,' and 'Sleeping Beauty.'"
     },
     {
-      "question": "What is the most famous myth about a flood?",
-      "A": "The Great Flood in the Bible",
-      "B": "The story of Noah's Ark",
-      "C": "The Epic of Gilgamesh",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Flood myths appear in many cultures, including the Biblical story of Noah's Ark, the Epic of Gilgamesh from Mesopotamia, and similar stories from Greek, Hindu, and Native American traditions."
+        "question": "What is the most famous myth about a flood?",
+        "A": "The Great Flood in the Bible",
+        "B": "The story of Noah's Ark",
+        "C": "The Epic of Gilgamesh",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Flood myths appear in many cultures, including the Biblical story of Noah's Ark, the Epic of Gilgamesh from Mesopotamia, and similar stories from Greek, Hindu, and Native American traditions."
     },
     {
-      "question": "Why are myths and legends important?",
-      "A": "They are just entertainment",
-      "B": "They preserve cultural values and explain the world",
-      "C": "They are historical facts",
-      "D": "They are not important",
-      "answer": "B",
-      "funFact": "Myths and legends are important because they preserve cultural values, explain natural phenomena, teach moral lessons, and help people understand their place in the world and their connection to their ancestors."
+        "question": "Why are myths and legends important?",
+        "A": "They are just entertainment",
+        "B": "They preserve cultural values and explain the world",
+        "C": "They are historical facts",
+        "D": "They are not important",
+        "answer": "B",
+        "funFact": "Myths and legends are important because they preserve cultural values, explain natural phenomena, teach moral lessons, and help people understand their place in the world and their connection to their ancestors."
     }
 ]
-

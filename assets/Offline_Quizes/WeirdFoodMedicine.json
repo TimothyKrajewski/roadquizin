@@ -1,228 +1,227 @@
 [
     {
-      "question": "What was the original purpose of Coca-Cola?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Coca-Cola was originally invented in 1886 as a medicine by Dr. John Pemberton. It was marketed as a cure for headaches, fatigue, and other ailments."
+        "question": "What was the original purpose of Coca-Cola?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Coca-Cola was originally invented in 1886 as a medicine by Dr. John Pemberton. It was marketed as a cure for headaches, fatigue, and other ailments."
     },
     {
-      "question": "What was the original purpose of Dr. Pepper?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Dr. Pepper was originally created in 1885 as a medicine by pharmacist Charles Alderton. It was marketed as a digestive aid and energy booster."
+        "question": "What was the original purpose of Dr. Pepper?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Dr. Pepper was originally created in 1885 as a medicine by pharmacist Charles Alderton. It was marketed as a digestive aid and energy booster."
     },
     {
-      "question": "What was the original purpose of Pepsi-Cola?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Pepsi-Cola was originally created in 1893 as 'Brad's Drink' by Caleb Bradham, a pharmacist who believed it aided digestion and had health benefits."
+        "question": "What was the original purpose of Pepsi-Cola?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Pepsi-Cola was originally created in 1893 as 'Brad's Drink' by Caleb Bradham, a pharmacist who believed it aided digestion and had health benefits."
     },
     {
-      "question": "What was the original purpose of 7-Up?",
-      "A": "A soft drink",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "7-Up was originally created in 1929 as 'Bib-Label Lithiated Lemon-Lime Soda' and contained lithium, a mood-stabilizing drug. It was marketed as a hangover cure."
+        "question": "What was the original purpose of 7-Up?",
+        "A": "A soft drink",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "7-Up was originally created in 1929 as 'Bib-Label Lithiated Lemon-Lime Soda' and contained lithium, a mood-stabilizing drug. It was marketed as a hangover cure."
     },
     {
-      "question": "What was the original purpose of Jell-O?",
-      "A": "A dessert",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Jell-O was originally marketed as a health food and medicine. It was promoted as easy to digest and good for invalids and children."
+        "question": "What was the original purpose of Jell-O?",
+        "A": "A dessert",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Jell-O was originally marketed as a health food and medicine. It was promoted as easy to digest and good for invalids and children."
     },
     {
-      "question": "What was the original purpose of cornflakes?",
-      "A": "A breakfast cereal",
-      "B": "A medicine to prevent masturbation",
-      "C": "A snack food",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Cornflakes were invented by Dr. John Harvey Kellogg in 1894 as part of a bland diet to prevent masturbation, which he believed caused various health problems."
+        "question": "What was the original purpose of cornflakes?",
+        "A": "A breakfast cereal",
+        "B": "A medicine to prevent masturbation",
+        "C": "A snack food",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Cornflakes were invented by Dr. John Harvey Kellogg in 1894 as part of a bland diet to prevent masturbation, which he believed caused various health problems."
     },
     {
-      "question": "What was the original purpose of Tabasco sauce?",
-      "A": "A condiment",
-      "B": "A medicine",
-      "C": "A cleaning product",
-      "D": "A cooking ingredient",
-      "answer": "B",
-      "funFact": "Tabasco sauce was originally created as a medicine by Edmund McIlhenny in 1868. He believed it had health benefits and would help with digestion."
+        "question": "What was the original purpose of Tabasco sauce?",
+        "A": "A condiment",
+        "B": "A medicine",
+        "C": "A cleaning product",
+        "D": "A cooking ingredient",
+        "answer": "B",
+        "funFact": "Tabasco sauce was originally created as a medicine by Edmund McIlhenny in 1868. He believed it had health benefits and would help with digestion."
     },
     {
-      "question": "What food was once used as a medicine in ancient times?",
-      "A": "Honey",
-      "B": "Garlic",
-      "C": "Ginger",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Honey, garlic, and ginger were all used as medicines in ancient times. Honey was used to treat wounds, garlic was believed to have healing properties, and ginger was used to aid digestion."
+        "question": "What food was once used as a medicine in ancient times?",
+        "A": "Honey",
+        "B": "Garlic",
+        "C": "Ginger",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Honey, garlic, and ginger were all used as medicines in ancient times. Honey was used to treat wounds, garlic was believed to have healing properties, and ginger was used to aid digestion."
     },
     {
-      "question": "What food was once used as a medicine in ancient Greece?",
-      "A": "Olive oil",
-      "B": "Honey",
-      "C": "Wine",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Olive oil, honey, and wine were all used as medicines in ancient Greece. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Greece?",
+        "A": "Olive oil",
+        "B": "Honey",
+        "C": "Wine",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Olive oil, honey, and wine were all used as medicines in ancient Greece. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Egypt?",
-      "A": "Onions",
-      "B": "Garlic",
-      "C": "Honey",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Onions, garlic, and honey were all used as medicines in ancient Egypt. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Egypt?",
+        "A": "Onions",
+        "B": "Garlic",
+        "C": "Honey",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Onions, garlic, and honey were all used as medicines in ancient Egypt. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Rome?",
-      "A": "Garlic",
-      "B": "Honey",
-      "C": "Wine",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Garlic, honey, and wine were all used as medicines in ancient Rome. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Rome?",
+        "A": "Garlic",
+        "B": "Honey",
+        "C": "Wine",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Garlic, honey, and wine were all used as medicines in ancient Rome. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient China?",
-      "A": "Ginseng",
-      "B": "Ginger",
-      "C": "Green tea",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Ginseng, ginger, and green tea were all used as medicines in ancient China. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient China?",
+        "A": "Ginseng",
+        "B": "Ginger",
+        "C": "Green tea",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Ginseng, ginger, and green tea were all used as medicines in ancient China. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient India?",
-      "A": "Turmeric",
-      "B": "Ginger",
-      "C": "Honey",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Turmeric, ginger, and honey were all used as medicines in ancient India. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient India?",
+        "A": "Turmeric",
+        "B": "Ginger",
+        "C": "Honey",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Turmeric, ginger, and honey were all used as medicines in ancient India. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in medieval Europe?",
-      "A": "Garlic",
-      "B": "Honey",
-      "C": "Wine",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Garlic, honey, and wine were all used as medicines in medieval Europe. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in medieval Europe?",
+        "A": "Garlic",
+        "B": "Honey",
+        "C": "Wine",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Garlic, honey, and wine were all used as medicines in medieval Europe. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Persia?",
-      "A": "Saffron",
-      "B": "Honey",
-      "C": "Rose water",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Saffron, honey, and rose water were all used as medicines in ancient Persia. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Persia?",
+        "A": "Saffron",
+        "B": "Honey",
+        "C": "Rose water",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Saffron, honey, and rose water were all used as medicines in ancient Persia. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Japan?",
-      "A": "Green tea",
-      "B": "Ginger",
-      "C": "Miso",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Green tea, ginger, and miso were all used as medicines in ancient Japan. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Japan?",
+        "A": "Green tea",
+        "B": "Ginger",
+        "C": "Miso",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Green tea, ginger, and miso were all used as medicines in ancient Japan. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Arabia?",
-      "A": "Dates",
-      "B": "Honey",
-      "C": "Black seed",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Dates, honey, and black seed were all used as medicines in ancient Arabia. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Arabia?",
+        "A": "Dates",
+        "B": "Honey",
+        "C": "Black seed",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Dates, honey, and black seed were all used as medicines in ancient Arabia. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Africa?",
-      "A": "Baobab",
-      "B": "Honey",
-      "C": "Aloe vera",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Baobab, honey, and aloe vera were all used as medicines in ancient Africa. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Africa?",
+        "A": "Baobab",
+        "B": "Honey",
+        "C": "Aloe vera",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Baobab, honey, and aloe vera were all used as medicines in ancient Africa. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Americas?",
-      "A": "Cacao",
-      "B": "Quinoa",
-      "C": "Chili peppers",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Cacao, quinoa, and chili peppers were all used as medicines in ancient Americas. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Americas?",
+        "A": "Cacao",
+        "B": "Quinoa",
+        "C": "Chili peppers",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Cacao, quinoa, and chili peppers were all used as medicines in ancient Americas. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Oceania?",
-      "A": "Coconut",
-      "B": "Ginger",
-      "C": "Turmeric",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Coconut, ginger, and turmeric were all used as medicines in ancient Oceania. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Oceania?",
+        "A": "Coconut",
+        "B": "Ginger",
+        "C": "Turmeric",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Coconut, ginger, and turmeric were all used as medicines in ancient Oceania. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Scandinavia?",
-      "A": "Honey",
-      "B": "Berries",
-      "C": "Fish oil",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Honey, berries, and fish oil were all used as medicines in ancient Scandinavia. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Scandinavia?",
+        "A": "Honey",
+        "B": "Berries",
+        "C": "Fish oil",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Honey, berries, and fish oil were all used as medicines in ancient Scandinavia. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Celtic cultures?",
-      "A": "Honey",
-      "B": "Herbs",
-      "C": "Berries",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Honey, herbs, and berries were all used as medicines in ancient Celtic cultures. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Celtic cultures?",
+        "A": "Honey",
+        "B": "Herbs",
+        "C": "Berries",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Honey, herbs, and berries were all used as medicines in ancient Celtic cultures. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Slavic cultures?",
-      "A": "Honey",
-      "B": "Garlic",
-      "C": "Herbs",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Honey, garlic, and herbs were all used as medicines in ancient Slavic cultures. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Slavic cultures?",
+        "A": "Honey",
+        "B": "Garlic",
+        "C": "Herbs",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Honey, garlic, and herbs were all used as medicines in ancient Slavic cultures. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Native American cultures?",
-      "A": "Echinacea",
-      "B": "Ginseng",
-      "C": "Willow bark",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Echinacea, ginseng, and willow bark were all used as medicines in ancient Native American cultures. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Native American cultures?",
+        "A": "Echinacea",
+        "B": "Ginseng",
+        "C": "Willow bark",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Echinacea, ginseng, and willow bark were all used as medicines in ancient Native American cultures. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once used as a medicine in ancient Australian Aboriginal cultures?",
-      "A": "Tea tree oil",
-      "B": "Eucalyptus",
-      "C": "Honey",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Tea tree oil, eucalyptus, and honey were all used as medicines in ancient Australian Aboriginal cultures. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a medicine in ancient Australian Aboriginal cultures?",
+        "A": "Tea tree oil",
+        "B": "Eucalyptus",
+        "C": "Honey",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Tea tree oil, eucalyptus, and honey were all used as medicines in ancient Australian Aboriginal cultures. They were believed to have healing properties and were used to treat various ailments."
     }
 ]
-

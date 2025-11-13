@@ -166,8 +166,8 @@
         "A": "Marine chemistry",
         "B": "Chemical oceanography",
         "C": "Ocean chemistry",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Chemical oceanography studies the composition and chemical processes in seawater."
     },
     {

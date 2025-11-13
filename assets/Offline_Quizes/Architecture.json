@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is the name of the famous tower in Paris?",
-      "A": "Big Ben",
-      "B": "Leaning Tower of Pisa",
-      "C": "Eiffel Tower",
-      "D": "CN Tower",
-      "answer": "C",
-      "funFact": "The Eiffel Tower in Paris was built in 1889 for the World's Fair. It's 1,063 feet tall and was initially criticized but has become an iconic symbol of France."
+        "question": "What is the name of the famous tower in Paris?",
+        "A": "Big Ben",
+        "B": "Leaning Tower of Pisa",
+        "C": "Eiffel Tower",
+        "D": "CN Tower",
+        "answer": "C",
+        "funFact": "The Eiffel Tower in Paris was built in 1889 for the World's Fair. It's 1,063 feet tall and was initially criticized but has become an iconic symbol of France."
     },
     {
-      "question": "What is the name of the ancient wonder in Egypt?",
-      "A": "The Sphinx",
-      "B": "The Great Pyramid of Giza",
-      "C": "The Temple of Karnak",
-      "D": "The Valley of the Kings",
-      "answer": "B",
-      "funFact": "The Great Pyramid of Giza is the oldest and largest of the three pyramids at Giza, built around 2580-2560 BCE. It's the only remaining wonder of the ancient world."
+        "question": "What is the name of the ancient wonder in Egypt?",
+        "A": "The Sphinx",
+        "B": "The Great Pyramid of Giza",
+        "C": "The Temple of Karnak",
+        "D": "The Valley of the Kings",
+        "answer": "B",
+        "funFact": "The Great Pyramid of Giza is the oldest and largest of the three pyramids at Giza, built around 2580-2560 BCE. It's the only remaining wonder of the ancient world."
     },
     {
-      "question": "What architectural style is characterized by pointed arches and flying buttresses?",
-      "A": "Romanesque",
-      "B": "Gothic",
-      "C": "Baroque",
-      "D": "Renaissance",
-      "answer": "B",
-      "funFact": "Gothic architecture, developed in the 12th century, is characterized by pointed arches, ribbed vaults, flying buttresses, and large stained glass windows."
+        "question": "What architectural style is characterized by pointed arches and flying buttresses?",
+        "A": "Romanesque",
+        "B": "Gothic",
+        "C": "Baroque",
+        "D": "Renaissance",
+        "answer": "B",
+        "funFact": "Gothic architecture, developed in the 12th century, is characterized by pointed arches, ribbed vaults, flying buttresses, and large stained glass windows."
     },
     {
-      "question": "What is the name of the famous leaning tower in Italy?",
-      "A": "Eiffel Tower",
-      "B": "Leaning Tower of Pisa",
-      "C": "Big Ben",
-      "D": "Tower Bridge",
-      "answer": "B",
-      "funFact": "The Leaning Tower of Pisa began leaning during construction in the 12th century due to unstable foundation soil. It's now a famous tourist attraction."
+        "question": "What is the name of the famous leaning tower in Italy?",
+        "A": "Eiffel Tower",
+        "B": "Leaning Tower of Pisa",
+        "C": "Big Ben",
+        "D": "Tower Bridge",
+        "answer": "B",
+        "funFact": "The Leaning Tower of Pisa began leaning during construction in the 12th century due to unstable foundation soil. It's now a famous tourist attraction."
     },
     {
-      "question": "What is the name of the famous building in Sydney, Australia?",
-      "A": "Sydney Tower",
-      "B": "Sydney Opera House",
-      "C": "Sydney Harbour Bridge",
-      "D": "Sydney Museum",
-      "answer": "B",
-      "funFact": "The Sydney Opera House, designed by Jørn Utzon, is one of the most distinctive buildings in the world, with its sail-like roof structure."
+        "question": "What is the name of the famous building in Sydney, Australia?",
+        "A": "Sydney Tower",
+        "B": "Sydney Opera House",
+        "C": "Sydney Harbour Bridge",
+        "D": "Sydney Museum",
+        "answer": "B",
+        "funFact": "The Sydney Opera House, designed by Jørn Utzon, is one of the most distinctive buildings in the world, with its sail-like roof structure."
     },
     {
-      "question": "What is the Colosseum?",
-      "A": "A temple",
-      "B": "An amphitheater",
-      "C": "A palace",
-      "D": "A bridge",
-      "answer": "B",
-      "funFact": "The Colosseum in Rome is an ancient amphitheater built in 80 CE, where gladiator contests and public spectacles were held. It could seat up to 50,000 spectators."
+        "question": "What is the Colosseum?",
+        "A": "A temple",
+        "B": "An amphitheater",
+        "C": "A palace",
+        "D": "A bridge",
+        "answer": "B",
+        "funFact": "The Colosseum in Rome is an ancient amphitheater built in 80 CE, where gladiator contests and public spectacles were held. It could seat up to 50,000 spectators."
     },
     {
-      "question": "What is the name of the famous bridge in San Francisco?",
-      "A": "Brooklyn Bridge",
-      "B": "Golden Gate Bridge",
-      "C": "London Bridge",
-      "D": "Tower Bridge",
-      "answer": "B",
-      "funFact": "The Golden Gate Bridge in San Francisco is one of the most photographed bridges in the world, spanning 1.7 miles across the Golden Gate strait."
+        "question": "What is the name of the famous bridge in San Francisco?",
+        "A": "Brooklyn Bridge",
+        "B": "Golden Gate Bridge",
+        "C": "London Bridge",
+        "D": "Tower Bridge",
+        "answer": "B",
+        "funFact": "The Golden Gate Bridge in San Francisco is one of the most photographed bridges in the world, spanning 1.7 miles across the Golden Gate strait."
     },
     {
-      "question": "What is the name of the famous clock tower in London?",
-      "A": "Big Ben",
-      "B": "Tower Bridge",
-      "C": "London Eye",
-      "D": "Westminster Abbey",
-      "answer": "A",
-      "funFact": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London, though it's often used to refer to the clock tower itself."
+        "question": "What is the name of the famous clock tower in London?",
+        "A": "Big Ben",
+        "B": "Tower Bridge",
+        "C": "London Eye",
+        "D": "Westminster Abbey",
+        "answer": "A",
+        "funFact": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London, though it's often used to refer to the clock tower itself."
     },
     {
-      "question": "What is the Parthenon?",
-      "A": "A Roman temple",
-      "B": "A Greek temple",
-      "C": "An Egyptian pyramid",
-      "D": "A medieval castle",
-      "answer": "B",
-      "funFact": "The Parthenon is a temple dedicated to Athena Parthenos on the Acropolis in Athens, Greece. Built between 447-432 BCE, it's a masterpiece of Greek architecture."
+        "question": "What is the Parthenon?",
+        "A": "A Roman temple",
+        "B": "A Greek temple",
+        "C": "An Egyptian pyramid",
+        "D": "A medieval castle",
+        "answer": "B",
+        "funFact": "The Parthenon is a temple dedicated to Athena Parthenos on the Acropolis in Athens, Greece. Built between 447-432 BCE, it's a masterpiece of Greek architecture."
     },
     {
-      "question": "What is the name of the famous building in New York with a pointed top?",
-      "A": "Empire State Building",
-      "B": "Chrysler Building",
-      "C": "One World Trade Center",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "The Empire State Building, Chrysler Building, and One World Trade Center are all famous New York skyscrapers with distinctive pointed or spire-like tops."
+        "question": "What is the name of the famous building in New York with a pointed top?",
+        "A": "Empire State Building",
+        "B": "Chrysler Building",
+        "C": "One World Trade Center",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "The Empire State Building, Chrysler Building, and One World Trade Center are all famous New York skyscrapers with distinctive pointed or spire-like tops."
     }
 ]
-

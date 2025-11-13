@@ -1,183 +1,182 @@
 [
     {
-      "question": "How many holes in a standard course?",
-      "A": "9",
-      "B": "18",
-      "C": "27",
-      "D": "36",
-      "answer": "B",
-      "funFact": "A standard golf course has 18 holes, though 9-hole courses also exist. Most professional tournaments are played on 18-hole courses."
+        "question": "How many holes in a standard course?",
+        "A": "9",
+        "B": "18",
+        "C": "27",
+        "D": "36",
+        "answer": "B",
+        "funFact": "A standard golf course has 18 holes, though 9-hole courses also exist. Most professional tournaments are played on 18-hole courses."
     },
     {
-      "question": "What is a links course?",
-      "A": "Coastal course",
-      "B": "Natural terrain",
-      "C": "Both A and B",
-      "D": "Mountain course",
-      "answer": "C",
-      "funFact": "A links course is a coastal course with natural terrain, typically in Scotland and Ireland. The British Open is often played on links courses."
+        "question": "What is a links course?",
+        "A": "Coastal course",
+        "B": "Natural terrain",
+        "C": "Neither A nor B",
+        "D": "Mountain course",
+        "answer": "A",
+        "funFact": "A links course is a coastal course with natural terrain, typically in Scotland and Ireland. The British Open is often played on links courses."
     },
     {
-      "question": "What is a parkland course?",
-      "A": "Inland course",
-      "B": "Trees and manicured",
-      "C": "Both A and B",
-      "D": "Desert course",
-      "answer": "C",
-      "funFact": "A parkland course is an inland course with trees and manicured fairways. Most American courses are parkland style."
+        "question": "What is a parkland course?",
+        "A": "Inland course",
+        "B": "Trees and manicured",
+        "C": "Neither A nor B",
+        "D": "Desert course",
+        "answer": "A",
+        "funFact": "A parkland course is an inland course with trees and manicured fairways. Most American courses are parkland style."
     },
     {
-      "question": "What is a desert course?",
-      "A": "In desert areas",
-      "B": "Cactus and sand",
-      "C": "Both A and B",
-      "D": "Coastal",
-      "answer": "C",
-      "funFact": "A desert course is in desert areas with cactus and sand. These courses are common in Arizona and Nevada."
+        "question": "What is a desert course?",
+        "A": "In desert areas",
+        "B": "Cactus and sand",
+        "C": "Neither A nor B",
+        "D": "Coastal",
+        "answer": "A",
+        "funFact": "A desert course is in desert areas with cactus and sand. These courses are common in Arizona and Nevada."
     },
     {
-      "question": "What is a mountain course?",
-      "A": "In mountains",
-      "B": "Elevation changes",
-      "C": "Both A and B",
-      "D": "Flat",
-      "answer": "C",
-      "funFact": "A mountain course is in mountains with significant elevation changes. These courses offer beautiful views and challenges."
+        "question": "What is a mountain course?",
+        "A": "In mountains",
+        "B": "Elevation changes",
+        "C": "Neither A nor B",
+        "D": "Flat",
+        "answer": "A",
+        "funFact": "A mountain course is in mountains with significant elevation changes. These courses offer beautiful views and challenges."
     },
     {
-      "question": "What is par?",
-      "A": "Expected strokes",
-      "B": "For hole or course",
-      "C": "Both A and B",
-      "D": "Actual score",
-      "answer": "C",
-      "funFact": "Par is the expected number of strokes for a hole or course. Most courses are par 72 (4 par 3s, 10 par 4s, 4 par 5s)."
+        "question": "What is par?",
+        "A": "Expected strokes",
+        "B": "For hole or course",
+        "C": "Neither A nor B",
+        "D": "Actual score",
+        "answer": "A",
+        "funFact": "Par is the expected number of strokes for a hole or course. Most courses are par 72 (4 par 3s, 10 par 4s, 4 par 5s)."
     },
     {
-      "question": "What is the tee box?",
-      "A": "Starting area",
-      "B": "For each hole",
-      "C": "Both A and B",
-      "D": "The green",
-      "answer": "C",
-      "funFact": "The tee box is the starting area for each hole. Different tee boxes (colors) allow different skill levels to play."
+        "question": "What is the tee box?",
+        "A": "Starting area",
+        "B": "For each hole",
+        "C": "Neither A nor B",
+        "D": "The green",
+        "answer": "A",
+        "funFact": "The tee box is the starting area for each hole. Different tee boxes (colors) allow different skill levels to play."
     },
     {
-      "question": "What is the fairway?",
-      "A": "Mowed area to green",
-      "B": "Ideal path",
-      "C": "Both A and B",
-      "D": "Rough",
-      "answer": "C",
-      "funFact": "The fairway is the mowed area between tee and green. It's the ideal path with shorter grass for easier shots."
+        "question": "What is the fairway?",
+        "A": "Mowed area to green",
+        "B": "Ideal path",
+        "C": "Neither A nor B",
+        "D": "Rough",
+        "answer": "A",
+        "funFact": "The fairway is the mowed area between tee and green. It's the ideal path with shorter grass for easier shots."
     },
     {
-      "question": "What is the green?",
-      "A": "Area around hole",
-      "B": "Very short grass",
-      "C": "Both A and B",
-      "D": "Rough",
-      "answer": "C",
-      "funFact": "The green is the area around the hole with very short grass, where you putt the ball into the hole."
+        "question": "What is the green?",
+        "A": "Area around hole",
+        "B": "Very short grass",
+        "C": "Neither A nor B",
+        "D": "Rough",
+        "answer": "A",
+        "funFact": "The green is the area around the hole with very short grass, where you putt the ball into the hole."
     },
     {
-      "question": "What is the rough?",
-      "A": "Longer grass",
-      "B": "Off fairway",
-      "C": "Both A and B",
-      "D": "Fairway",
-      "answer": "C",
-      "funFact": "The rough is longer grass off the fairway. It's more difficult to hit from and penalizes errant shots."
+        "question": "What is the rough?",
+        "A": "Longer grass",
+        "B": "Off fairway",
+        "C": "Neither A nor B",
+        "D": "Fairway",
+        "answer": "A",
+        "funFact": "The rough is longer grass off the fairway. It's more difficult to hit from and penalizes errant shots."
     },
     {
-      "question": "What is a bunker?",
-      "A": "Sand trap",
-      "B": "Hazard",
-      "C": "Both A and B",
-      "D": "Water",
-      "answer": "C",
-      "funFact": "A bunker (sand trap) is a hazard filled with sand. It's designed to challenge golfers and requires skill to escape."
+        "question": "What is a bunker?",
+        "A": "Sand trap",
+        "B": "Hazard",
+        "C": "Neither A nor B",
+        "D": "Water",
+        "answer": "A",
+        "funFact": "A bunker (sand trap) is a hazard filled with sand. It's designed to challenge golfers and requires skill to escape."
     },
     {
-      "question": "What is a water hazard?",
-      "A": "Water on course",
-      "B": "Pond, lake, stream",
-      "C": "Both A and B",
-      "D": "Sand",
-      "answer": "C",
-      "funFact": "A water hazard is any body of water on the course. Hitting into it results in a penalty stroke."
+        "question": "What is a water hazard?",
+        "A": "Water on course",
+        "B": "Pond, lake, stream",
+        "C": "Neither A nor B",
+        "D": "Sand",
+        "answer": "A",
+        "funFact": "A water hazard is any body of water on the course. Hitting into it results in a penalty stroke."
     },
     {
-      "question": "What is course maintenance?",
-      "A": "Keeping course in good condition",
-      "B": "Mowing, watering, etc.",
-      "C": "Both A and B",
-      "D": "Not needed",
-      "answer": "C",
-      "funFact": "Course maintenance keeps the course in good condition through mowing, watering, and other care. It's essential for playability."
+        "question": "What is course maintenance?",
+        "A": "Keeping course in good condition",
+        "B": "Mowing, watering, etc.",
+        "C": "Neither A nor B",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "Course maintenance keeps the course in good condition through mowing, watering, and other care. It's essential for playability."
     },
     {
-      "question": "What is a signature hole?",
-      "A": "Most memorable hole",
-      "B": "Often photographed",
-      "C": "Both A and B",
-      "D": "Regular hole",
-      "answer": "C",
-      "funFact": "A signature hole is the most memorable hole on a course, often photographed and remembered by players."
+        "question": "What is a signature hole?",
+        "A": "Most memorable hole",
+        "B": "Often photographed",
+        "C": "Neither A nor B",
+        "D": "Regular hole",
+        "answer": "A",
+        "funFact": "A signature hole is the most memorable hole on a course, often photographed and remembered by players."
     },
     {
-      "question": "What is course rating?",
-      "A": "Difficulty rating",
-      "B": "For handicap",
-      "C": "Both A and B",
-      "D": "Not used",
-      "answer": "C",
-      "funFact": "Course rating is a difficulty rating used for handicaps. It helps level the playing field between different courses."
+        "question": "What is course rating?",
+        "A": "Difficulty rating",
+        "B": "For handicap",
+        "C": "Neither A nor B",
+        "D": "Not used",
+        "answer": "A",
+        "funFact": "Course rating is a difficulty rating used for handicaps. It helps level the playing field between different courses."
     },
     {
-      "question": "What is slope rating?",
-      "A": "Relative difficulty",
-      "B": "For handicap",
-      "C": "Both A and B",
-      "D": "Not used",
-      "answer": "C",
-      "funFact": "Slope rating measures relative difficulty for bogey golfers versus scratch golfers. It's used in handicap calculations."
+        "question": "What is slope rating?",
+        "A": "Relative difficulty",
+        "B": "For handicap",
+        "C": "Neither A nor B",
+        "D": "Not used",
+        "answer": "A",
+        "funFact": "Slope rating measures relative difficulty for bogey golfers versus scratch golfers. It's used in handicap calculations."
     },
     {
-      "question": "What is a championship course?",
-      "A": "Hosts major tournaments",
-      "B": "Very difficult",
-      "C": "Both A and B",
-      "D": "Easy",
-      "answer": "C",
-      "funFact": "A championship course hosts major tournaments and is typically very difficult, designed to challenge the best players."
+        "question": "What is a championship course?",
+        "A": "Hosts major tournaments",
+        "B": "Very difficult",
+        "C": "Neither A nor B",
+        "D": "Easy",
+        "answer": "A",
+        "funFact": "A championship course hosts major tournaments and is typically very difficult, designed to challenge the best players."
     },
     {
-      "question": "What is course design?",
-      "A": "Art and science",
-      "B": "Strategic challenges",
-      "C": "Both A and B",
-      "D": "Random",
-      "answer": "C",
-      "funFact": "Course design is both art and science, creating strategic challenges that test all aspects of a golfer's game."
+        "question": "What is course design?",
+        "A": "Art and science",
+        "B": "Strategic challenges",
+        "C": "Neither A nor B",
+        "D": "Random",
+        "answer": "A",
+        "funFact": "Course design is both art and science, creating strategic challenges that test all aspects of a golfer's game."
     },
     {
-      "question": "What is the future of courses?",
-      "A": "More courses",
-      "B": "Better maintenance",
-      "C": "Both A and B",
-      "D": "Fewer courses",
-      "answer": "C",
-      "funFact": "The future includes more courses and better maintenance, though environmental concerns are also important."
+        "question": "What is the future of courses?",
+        "A": "More courses",
+        "B": "Better maintenance",
+        "C": "Neither A nor B",
+        "D": "Fewer courses",
+        "answer": "A",
+        "funFact": "The future includes more courses and better maintenance, though environmental concerns are also important."
     },
     {
-      "question": "What is the importance of courses?",
-      "A": "Defines the game",
-      "B": "Each is unique",
-      "C": "Both A and B",
-      "D": "All same",
-      "answer": "C",
-      "funFact": "Courses define the game, and each course is unique, offering different challenges and experiences for golfers."
+        "question": "What is the importance of courses?",
+        "A": "Defines the game",
+        "B": "Each is unique",
+        "C": "Neither A nor B",
+        "D": "All same",
+        "answer": "A",
+        "funFact": "Courses define the game, and each course is unique, offering different challenges and experiences for golfers."
     }
 ]
-

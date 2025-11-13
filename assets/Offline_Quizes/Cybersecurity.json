@@ -94,8 +94,8 @@
         "A": "Cybersecurity",
         "B": "Information security",
         "C": "Computer security",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Cybersecurity is also called information security or computer security, involving protecting digital information and systems."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Cybersecurity",
         "B": "Information assurance",
         "C": "Network security",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Cybersecurity involves information assurance, network security, and protecting digital assets from threats."
     },
     {

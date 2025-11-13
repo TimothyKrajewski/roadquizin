@@ -1,93 +1,92 @@
 [
     {
-      "question": "What is the most popular board game in the world?",
-      "A": "Chess",
-      "B": "Monopoly",
-      "C": "Scrabble",
-      "D": "Checkers",
-      "answer": "B",
-      "funFact": "Monopoly is the most popular board game in the world, with over 275 million copies sold. It was first published in 1935 and is available in 114 countries."
+        "question": "What is the most popular board game in the world?",
+        "A": "Chess",
+        "B": "Monopoly",
+        "C": "Scrabble",
+        "D": "Checkers",
+        "answer": "B",
+        "funFact": "Monopoly is the most popular board game in the world, with over 275 million copies sold. It was first published in 1935 and is available in 114 countries."
     },
     {
-      "question": "How many squares are on a chessboard?",
-      "A": "48",
-      "B": "64",
-      "C": "81",
-      "D": "100",
-      "answer": "B",
-      "funFact": "A chessboard has 64 squares arranged in an 8x8 grid, alternating between light and dark colors."
+        "question": "How many squares are on a chessboard?",
+        "A": "48",
+        "B": "64",
+        "C": "81",
+        "D": "100",
+        "answer": "B",
+        "funFact": "A chessboard has 64 squares arranged in an 8x8 grid, alternating between light and dark colors."
     },
     {
-      "question": "What is the objective of checkers?",
-      "A": "To capture all opponent pieces",
-      "B": "To reach the other side",
-      "C": "To block the opponent",
-      "D": "To capture the king",
-      "answer": "A",
-      "funFact": "The objective of checkers is to capture all of your opponent's pieces or block them so they cannot move."
+        "question": "What is the objective of checkers?",
+        "A": "To capture all opponent pieces",
+        "B": "To reach the other side",
+        "C": "To block the opponent",
+        "D": "To capture the king",
+        "answer": "A",
+        "funFact": "The objective of checkers is to capture all of your opponent's pieces or block them so they cannot move."
     },
     {
-      "question": "What card game uses 52 cards?",
-      "A": "Uno",
-      "B": "Poker",
-      "C": "Both A and B",
-      "D": "Go Fish",
-      "answer": "B",
-      "funFact": "Poker uses a standard deck of 52 cards. Uno uses a special deck of 108 cards. Many card games use the standard 52-card deck."
+        "question": "What card game uses 52 cards?",
+        "A": "Uno",
+        "B": "Poker",
+        "C": "Neither A nor B",
+        "D": "Go Fish",
+        "answer": "B",
+        "funFact": "Poker uses a standard deck of 52 cards. Uno uses a special deck of 108 cards. Many card games use the standard 52-card deck."
     },
     {
-      "question": "What is the highest value card in most card games?",
-      "A": "King",
-      "B": "Queen",
-      "C": "Ace",
-      "D": "Jack",
-      "answer": "C",
-      "funFact": "The Ace is typically the highest value card in most card games, though it can also be the lowest in some games like poker where it can be high or low."
+        "question": "What is the highest value card in most card games?",
+        "A": "King",
+        "B": "Queen",
+        "C": "Ace",
+        "D": "Jack",
+        "answer": "C",
+        "funFact": "The Ace is typically the highest value card in most card games, though it can also be the lowest in some games like poker where it can be high or low."
     },
     {
-      "question": "What game involves moving pieces around a board to reach 'Home'?",
-      "A": "Chess",
-      "B": "Checkers",
-      "C": "Backgammon",
-      "D": "Snakes and Ladders",
-      "answer": "C",
-      "funFact": "Backgammon is a board game where players move pieces around the board to get them 'home' and then bear them off. It's one of the oldest known board games."
+        "question": "What game involves moving pieces around a board to reach 'Home'?",
+        "A": "Chess",
+        "B": "Checkers",
+        "C": "Backgammon",
+        "D": "Snakes and Ladders",
+        "answer": "C",
+        "funFact": "Backgammon is a board game where players move pieces around the board to get them 'home' and then bear them off. It's one of the oldest known board games."
     },
     {
-      "question": "What is the name of the game where you form words from lettered tiles?",
-      "A": "Boggle",
-      "B": "Scrabble",
-      "C": "Words with Friends",
-      "D": "Both B and C",
-      "answer": "D",
-      "funFact": "Scrabble and Words with Friends are word games where players form words from lettered tiles. Scrabble was invented in 1938 and has sold over 150 million sets."
+        "question": "What is the name of the game where you form words from lettered tiles?",
+        "A": "Boggle",
+        "B": "Scrabble",
+        "C": "Words with Friends",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Scrabble and Words with Friends are word games where players form words from lettered tiles. Scrabble was invented in 1938 and has sold over 150 million sets."
     },
     {
-      "question": "How many pieces does each player start with in chess?",
-      "A": "14",
-      "B": "16",
-      "C": "18",
-      "D": "20",
-      "answer": "B",
-      "funFact": "Each player starts with 16 pieces in chess: one king, one queen, two rooks, two knights, two bishops, and eight pawns."
+        "question": "How many pieces does each player start with in chess?",
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": "20",
+        "answer": "B",
+        "funFact": "Each player starts with 16 pieces in chess: one king, one queen, two rooks, two knights, two bishops, and eight pawns."
     },
     {
-      "question": "What is the objective of chess?",
-      "A": "To capture all pieces",
-      "B": "To checkmate the king",
-      "C": "To reach the other side",
-      "D": "To block the opponent",
-      "answer": "B",
-      "funFact": "The objective of chess is to checkmate the opponent's king, which means the king is in a position to be captured and cannot escape."
+        "question": "What is the objective of chess?",
+        "A": "To capture all pieces",
+        "B": "To checkmate the king",
+        "C": "To reach the other side",
+        "D": "To block the opponent",
+        "answer": "B",
+        "funFact": "The objective of chess is to checkmate the opponent's king, which means the king is in a position to be captured and cannot escape."
     },
     {
-      "question": "What game involves rolling dice and moving pieces around a board?",
-      "A": "Monopoly",
-      "B": "Snakes and Ladders",
-      "C": "Backgammon",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Monopoly, Snakes and Ladders, and Backgammon all involve rolling dice and moving pieces around a board, though each has different rules and objectives."
+        "question": "What game involves rolling dice and moving pieces around a board?",
+        "A": "Monopoly",
+        "B": "Snakes and Ladders",
+        "C": "Backgammon",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Monopoly, Snakes and Ladders, and Backgammon all involve rolling dice and moving pieces around a board, though each has different rules and objectives."
     }
 ]
-

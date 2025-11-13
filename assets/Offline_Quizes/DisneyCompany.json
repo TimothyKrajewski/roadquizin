@@ -1,183 +1,182 @@
 [
     {
-      "question": "When was The Walt Disney Company founded?",
-      "A": "1920",
-      "B": "1923",
-      "C": "1926",
-      "D": "1928",
-      "answer": "B",
-      "funFact": "The Walt Disney Company was founded on October 16, 1923, by Walt and Roy Disney. It was originally called the Disney Brothers Studio."
+        "question": "When was The Walt Disney Company founded?",
+        "A": "1920",
+        "B": "1923",
+        "C": "1926",
+        "D": "1928",
+        "answer": "B",
+        "funFact": "The Walt Disney Company was founded on October 16, 1923, by Walt and Roy Disney. It was originally called the Disney Brothers Studio."
     },
     {
-      "question": "What was the original name of The Walt Disney Company?",
-      "A": "Disney Brothers Studio",
-      "B": "Walt Disney Productions",
-      "C": "Disney Entertainment",
-      "D": "Mickey Mouse Studios",
-      "answer": "A",
-      "funFact": "The company was originally called Disney Brothers Studio when it was founded in 1923. It was later renamed Walt Disney Productions and then The Walt Disney Company."
+        "question": "What was the original name of The Walt Disney Company?",
+        "A": "Disney Brothers Studio",
+        "B": "Walt Disney Productions",
+        "C": "Disney Entertainment",
+        "D": "Mickey Mouse Studios",
+        "answer": "A",
+        "funFact": "The company was originally called Disney Brothers Studio when it was founded in 1923. It was later renamed Walt Disney Productions and then The Walt Disney Company."
     },
     {
-      "question": "What year did Disney acquire Pixar?",
-      "A": "2004",
-      "B": "2005",
-      "C": "2006",
-      "D": "2007",
-      "answer": "C",
-      "funFact": "Disney acquired Pixar in 2006 for $7.4 billion. This brought together two of the most successful animation studios in history."
+        "question": "What year did Disney acquire Pixar?",
+        "A": "2004",
+        "B": "2005",
+        "C": "2006",
+        "D": "2007",
+        "answer": "C",
+        "funFact": "Disney acquired Pixar in 2006 for $7.4 billion. This brought together two of the most successful animation studios in history."
     },
     {
-      "question": "What year did Disney acquire Marvel?",
-      "A": "2007",
-      "B": "2008",
-      "C": "2009",
-      "D": "2010",
-      "answer": "C",
-      "funFact": "Disney acquired Marvel Entertainment in 2009 for $4.24 billion. This gave Disney access to popular characters like Iron Man, Spider-Man, and the Avengers."
+        "question": "What year did Disney acquire Marvel?",
+        "A": "2007",
+        "B": "2008",
+        "C": "2009",
+        "D": "2010",
+        "answer": "C",
+        "funFact": "Disney acquired Marvel Entertainment in 2009 for $4.24 billion. This gave Disney access to popular characters like Iron Man, Spider-Man, and the Avengers."
     },
     {
-      "question": "What year did Disney acquire Lucasfilm?",
-      "A": "2010",
-      "B": "2011",
-      "C": "2012",
-      "D": "2013",
-      "answer": "C",
-      "funFact": "Disney acquired Lucasfilm in 2012 for $4.05 billion. This gave Disney the rights to Star Wars and Indiana Jones franchises."
+        "question": "What year did Disney acquire Lucasfilm?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "2013",
+        "answer": "C",
+        "funFact": "Disney acquired Lucasfilm in 2012 for $4.05 billion. This gave Disney the rights to Star Wars and Indiana Jones franchises."
     },
     {
-      "question": "What year did Disney acquire 21st Century Fox?",
-      "A": "2017",
-      "B": "2018",
-      "C": "2019",
-      "D": "2020",
-      "answer": "C",
-      "funFact": "Disney acquired 21st Century Fox in 2019 for $71.3 billion. This was one of the largest media acquisitions in history."
+        "question": "What year did Disney acquire 21st Century Fox?",
+        "A": "2017",
+        "B": "2018",
+        "C": "2019",
+        "D": "2020",
+        "answer": "C",
+        "funFact": "Disney acquired 21st Century Fox in 2019 for $71.3 billion. This was one of the largest media acquisitions in history."
     },
     {
-      "question": "What is the name of Disney's streaming service?",
-      "A": "Disney+",
-      "B": "Disney Now",
-      "C": "Disney Play",
-      "D": "Disney Stream",
-      "answer": "A",
-      "funFact": "Disney+ launched in November 2019 and is Disney's streaming service. It features Disney, Pixar, Marvel, Star Wars, and National Geographic content."
+        "question": "What is the name of Disney's streaming service?",
+        "A": "Disney+",
+        "B": "Disney Now",
+        "C": "Disney Play",
+        "D": "Disney Stream",
+        "answer": "A",
+        "funFact": "Disney+ launched in November 2019 and is Disney's streaming service. It features Disney, Pixar, Marvel, Star Wars, and National Geographic content."
     },
     {
-      "question": "What year did Disney+ launch?",
-      "A": "2017",
-      "B": "2018",
-      "C": "2019",
-      "D": "2020",
-      "answer": "C",
-      "funFact": "Disney+ launched on November 12, 2019, in the United States. It quickly gained millions of subscribers and became a major competitor to Netflix."
+        "question": "What year did Disney+ launch?",
+        "A": "2017",
+        "B": "2018",
+        "C": "2019",
+        "D": "2020",
+        "answer": "C",
+        "funFact": "Disney+ launched on November 12, 2019, in the United States. It quickly gained millions of subscribers and became a major competitor to Netflix."
     },
     {
-      "question": "What is the name of Disney's cable television network?",
-      "A": "Disney Channel",
-      "B": "Disney XD",
-      "C": "Disney Junior",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Disney operates multiple cable networks: Disney Channel (launched 1983), Disney XD (2009), and Disney Junior (2012)."
+        "question": "What is the name of Disney's cable television network?",
+        "A": "Disney Channel",
+        "B": "Disney XD",
+        "C": "Disney Junior",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Disney operates multiple cable networks: Disney Channel (launched 1983), Disney XD (2009), and Disney Junior (2012)."
     },
     {
-      "question": "What is the name of Disney's cruise line?",
-      "A": "Disney Cruise Line",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream",
-      "answer": "A",
-      "funFact": "Disney Cruise Line was launched in 1998 with the Disney Magic. It now operates multiple ships including the Disney Wonder, Dream, Fantasy, and Wish."
+        "question": "What is the name of Disney's cruise line?",
+        "A": "Disney Cruise Line",
+        "B": "Disney Magic",
+        "C": "Disney Wonder",
+        "D": "Disney Dream",
+        "answer": "A",
+        "funFact": "Disney Cruise Line was launched in 1998 with the Disney Magic. It now operates multiple ships including the Disney Wonder, Dream, Fantasy, and Wish."
     },
     {
-      "question": "What is the name of Disney's publishing division?",
-      "A": "Disney Publishing",
-      "B": "Disney Books",
-      "C": "Disney Press",
-      "D": "All of the above",
-      "answer": "A",
-      "funFact": "Disney Publishing Worldwide is Disney's publishing division. It publishes books, magazines, and digital content based on Disney properties."
+        "question": "What is the name of Disney's publishing division?",
+        "A": "Disney Publishing",
+        "B": "Disney Books",
+        "C": "Disney Press",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Disney Publishing Worldwide is Disney's publishing division. It publishes books, magazines, and digital content based on Disney properties."
     },
     {
-      "question": "What is the name of Disney's record label?",
-      "A": "Walt Disney Records",
-      "B": "Disney Music",
-      "C": "Hollywood Records",
-      "D": "Both A and C",
-      "answer": "D",
-      "funFact": "Disney operates multiple record labels: Walt Disney Records (for Disney-branded music) and Hollywood Records (for other artists)."
+        "question": "What is the name of Disney's record label?",
+        "A": "Walt Disney Records",
+        "B": "Disney Music",
+        "C": "Hollywood Records",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Disney operates multiple record labels: Walt Disney Records (for Disney-branded music) and Hollywood Records (for other artists)."
     },
     {
-      "question": "What is the name of Disney's video game division?",
-      "A": "Disney Interactive",
-      "B": "Disney Games",
-      "C": "Disney Play",
-      "D": "Disney Entertainment",
-      "answer": "A",
-      "funFact": "Disney Interactive was Disney's video game division, though it was restructured in 2016. Disney now licenses its properties to other game developers."
+        "question": "What is the name of Disney's video game division?",
+        "A": "Disney Interactive",
+        "B": "Disney Games",
+        "C": "Disney Play",
+        "D": "Disney Entertainment",
+        "answer": "A",
+        "funFact": "Disney Interactive was Disney's video game division, though it was restructured in 2016. Disney now licenses its properties to other game developers."
     },
     {
-      "question": "What is the name of Disney's consumer products division?",
-      "A": "Disney Consumer Products",
-      "B": "Disney Merchandise",
-      "C": "Disney Store",
-      "D": "All of the above",
-      "answer": "A",
-      "funFact": "Disney Consumer Products (now part of Disney Parks, Experiences and Products) manages Disney's merchandise, licensing, and retail operations."
+        "question": "What is the name of Disney's consumer products division?",
+        "A": "Disney Consumer Products",
+        "B": "Disney Merchandise",
+        "C": "Disney Store",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Disney Consumer Products (now part of Disney Parks, Experiences and Products) manages Disney's merchandise, licensing, and retail operations."
     },
     {
-      "question": "What is the name of Disney's theatrical production division?",
-      "A": "Disney Theatrical Productions",
-      "B": "Disney Broadway",
-      "C": "Disney Stage",
-      "D": "Disney Live",
-      "answer": "A",
-      "funFact": "Disney Theatrical Productions produces Broadway shows and touring productions. It's responsible for shows like The Lion King, Aladdin, and Frozen."
+        "question": "What is the name of Disney's theatrical production division?",
+        "A": "Disney Theatrical Productions",
+        "B": "Disney Broadway",
+        "C": "Disney Stage",
+        "D": "Disney Live",
+        "answer": "A",
+        "funFact": "Disney Theatrical Productions produces Broadway shows and touring productions. It's responsible for shows like The Lion King, Aladdin, and Frozen."
     },
     {
-      "question": "What is the name of Disney's first Broadway show?",
-      "A": "Beauty and the Beast",
-      "B": "The Lion King",
-      "C": "Aladdin",
-      "D": "Mary Poppins",
-      "answer": "A",
-      "funFact": "Beauty and the Beast was Disney's first Broadway show, opening in 1994. It ran for over 5,000 performances before closing in 2007."
+        "question": "What is the name of Disney's first Broadway show?",
+        "A": "Beauty and the Beast",
+        "B": "The Lion King",
+        "C": "Aladdin",
+        "D": "Mary Poppins",
+        "answer": "A",
+        "funFact": "Beauty and the Beast was Disney's first Broadway show, opening in 1994. It ran for over 5,000 performances before closing in 2007."
     },
     {
-      "question": "What is the name of Disney's longest-running Broadway show?",
-      "A": "The Lion King",
-      "B": "Beauty and the Beast",
-      "C": "Aladdin",
-      "D": "Frozen",
-      "answer": "A",
-      "funFact": "The Lion King is Disney's longest-running Broadway show, opening in 1997 and still running. It's one of the highest-grossing Broadway shows of all time."
+        "question": "What is the name of Disney's longest-running Broadway show?",
+        "A": "The Lion King",
+        "B": "Beauty and the Beast",
+        "C": "Aladdin",
+        "D": "Frozen",
+        "answer": "A",
+        "funFact": "The Lion King is Disney's longest-running Broadway show, opening in 1997 and still running. It's one of the highest-grossing Broadway shows of all time."
     },
     {
-      "question": "What is the name of Disney's first theme park?",
-      "A": "Disneyland",
-      "B": "Walt Disney World",
-      "C": "Tokyo Disneyland",
-      "D": "Disneyland Paris",
-      "answer": "A",
-      "funFact": "Disneyland in Anaheim, California, opened in 1955 and was Disney's first theme park. It was the only park designed and built under Walt Disney's direct supervision."
+        "question": "What is the name of Disney's first theme park?",
+        "A": "Disneyland",
+        "B": "Walt Disney World",
+        "C": "Tokyo Disneyland",
+        "D": "Disneyland Paris",
+        "answer": "A",
+        "funFact": "Disneyland in Anaheim, California, opened in 1955 and was Disney's first theme park. It was the only park designed and built under Walt Disney's direct supervision."
     },
     {
-      "question": "What is the name of Disney's largest theme park resort?",
-      "A": "Walt Disney World",
-      "B": "Disneyland",
-      "C": "Tokyo Disney Resort",
-      "D": "Disneyland Paris",
-      "answer": "A",
-      "funFact": "Walt Disney World in Florida is Disney's largest theme park resort, covering over 25,000 acres. It includes four theme parks, two water parks, and numerous hotels."
+        "question": "What is the name of Disney's largest theme park resort?",
+        "A": "Walt Disney World",
+        "B": "Disneyland",
+        "C": "Tokyo Disney Resort",
+        "D": "Disneyland Paris",
+        "answer": "A",
+        "funFact": "Walt Disney World in Florida is Disney's largest theme park resort, covering over 25,000 acres. It includes four theme parks, two water parks, and numerous hotels."
     },
     {
-      "question": "What is the name of Disney's first international theme park?",
-      "A": "Tokyo Disneyland",
-      "B": "Disneyland Paris",
-      "C": "Hong Kong Disneyland",
-      "D": "Shanghai Disneyland",
-      "answer": "A",
-      "funFact": "Tokyo Disneyland opened in 1983 and was Disney's first international theme park. It's owned and operated by The Oriental Land Company, not Disney."
+        "question": "What is the name of Disney's first international theme park?",
+        "A": "Tokyo Disneyland",
+        "B": "Disneyland Paris",
+        "C": "Hong Kong Disneyland",
+        "D": "Shanghai Disneyland",
+        "answer": "A",
+        "funFact": "Tokyo Disneyland opened in 1983 and was Disney's first international theme park. It's owned and operated by The Oriental Land Company, not Disney."
     }
 ]
-

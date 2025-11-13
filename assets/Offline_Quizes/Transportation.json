@@ -1,93 +1,92 @@
 [
     {
-      "question": "Who is credited with inventing the automobile?",
-      "A": "Henry Ford",
-      "B": "Karl Benz",
-      "C": "Gottlieb Daimler",
-      "D": "Both B and C",
-      "answer": "D",
-      "funFact": "Karl Benz is credited with inventing the first practical automobile in 1885-1886, while Gottlieb Daimler also developed early automobiles around the same time. Henry Ford revolutionized car manufacturing with the assembly line."
+        "question": "Who is credited with inventing the automobile?",
+        "A": "Henry Ford",
+        "B": "Karl Benz",
+        "C": "Gottlieb Daimler",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Karl Benz is credited with inventing the first practical automobile in 1885-1886, while Gottlieb Daimler also developed early automobiles around the same time. Henry Ford revolutionized car manufacturing with the assembly line."
     },
     {
-      "question": "What did the Wright Brothers invent?",
-      "A": "The automobile",
-      "B": "The airplane",
-      "C": "The bicycle",
-      "D": "The helicopter",
-      "answer": "B",
-      "funFact": "The Wright Brothers, Orville and Wilbur, made the first successful powered flight in 1903 at Kitty Hawk, North Carolina, inventing the airplane."
+        "question": "What did the Wright Brothers invent?",
+        "A": "The automobile",
+        "B": "The airplane",
+        "C": "The bicycle",
+        "D": "The helicopter",
+        "answer": "B",
+        "funFact": "The Wright Brothers, Orville and Wilbur, made the first successful powered flight in 1903 at Kitty Hawk, North Carolina, inventing the airplane."
     },
     {
-      "question": "What is the fastest mode of transportation?",
-      "A": "Airplane",
-      "B": "Bullet train",
-      "C": "Rocket",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Rockets are the fastest, reaching speeds over 17,000 mph. Commercial airplanes travel around 500-600 mph, and bullet trains can reach speeds over 200 mph."
+        "question": "What is the fastest mode of transportation?",
+        "A": "Airplane",
+        "B": "Bullet train",
+        "C": "Rocket",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Rockets are the fastest, reaching speeds over 17,000 mph. Commercial airplanes travel around 500-600 mph, and bullet trains can reach speeds over 200 mph."
     },
     {
-      "question": "What was the first form of transportation?",
-      "A": "The wheel",
-      "B": "Walking",
-      "C": "Boats",
-      "D": "Horses",
-      "answer": "B",
-      "funFact": "Walking was the first form of transportation. Humans have been walking for millions of years, long before the invention of wheels, boats, or domesticated animals."
+        "question": "What was the first form of transportation?",
+        "A": "The wheel",
+        "B": "Walking",
+        "C": "Boats",
+        "D": "Horses",
+        "answer": "B",
+        "funFact": "Walking was the first form of transportation. Humans have been walking for millions of years, long before the invention of wheels, boats, or domesticated animals."
     },
     {
-      "question": "What is the name of the high-speed train in Japan?",
-      "A": "Maglev",
-      "B": "Shinkansen",
-      "C": "TGV",
-      "D": "ICE",
-      "answer": "B",
-      "funFact": "The Shinkansen, also known as the 'bullet train,' is Japan's high-speed rail network, first opened in 1964 and capable of speeds over 200 mph."
+        "question": "What is the name of the high-speed train in Japan?",
+        "A": "Maglev",
+        "B": "Shinkansen",
+        "C": "TGV",
+        "D": "ICE",
+        "answer": "B",
+        "funFact": "The Shinkansen, also known as the 'bullet train,' is Japan's high-speed rail network, first opened in 1964 and capable of speeds over 200 mph."
     },
     {
-      "question": "What powers most cars today?",
-      "A": "Steam",
-      "B": "Electricity",
-      "C": "Internal combustion engine",
-      "D": "Solar power",
-      "answer": "C",
-      "funFact": "Most cars today are powered by internal combustion engines that burn gasoline or diesel fuel, though electric cars are becoming increasingly popular."
+        "question": "What powers most cars today?",
+        "A": "Steam",
+        "B": "Electricity",
+        "C": "Internal combustion engine",
+        "D": "Solar power",
+        "answer": "C",
+        "funFact": "Most cars today are powered by internal combustion engines that burn gasoline or diesel fuel, though electric cars are becoming increasingly popular."
     },
     {
-      "question": "What is the largest mode of transportation?",
-      "A": "Airplane",
-      "B": "Ship",
-      "C": "Train",
-      "D": "Truck",
-      "answer": "B",
-      "funFact": "Ships are the largest mode of transportation. Container ships can be over 1,300 feet long and carry thousands of containers, making them essential for global trade."
+        "question": "What is the largest mode of transportation?",
+        "A": "Airplane",
+        "B": "Ship",
+        "C": "Train",
+        "D": "Truck",
+        "answer": "B",
+        "funFact": "Ships are the largest mode of transportation. Container ships can be over 1,300 feet long and carry thousands of containers, making them essential for global trade."
     },
     {
-      "question": "What was the first successful steamboat?",
-      "A": "Titanic",
-      "B": "Clermont",
-      "C": "Mayflower",
-      "D": "Santa Maria",
-      "answer": "B",
-      "funFact": "Robert Fulton's Clermont, launched in 1807, was the first commercially successful steamboat, revolutionizing river transportation in America."
+        "question": "What was the first successful steamboat?",
+        "A": "Titanic",
+        "B": "Clermont",
+        "C": "Mayflower",
+        "D": "Santa Maria",
+        "answer": "B",
+        "funFact": "Robert Fulton's Clermont, launched in 1807, was the first commercially successful steamboat, revolutionizing river transportation in America."
     },
     {
-      "question": "What is the name for a vehicle that travels underwater?",
-      "A": "Submarine",
-      "B": "Ship",
-      "C": "Boat",
-      "D": "Yacht",
-      "answer": "A",
-      "funFact": "A submarine is a watercraft capable of independent operation underwater. The first military submarine was used during the American Civil War."
+        "question": "What is the name for a vehicle that travels underwater?",
+        "A": "Submarine",
+        "B": "Ship",
+        "C": "Boat",
+        "D": "Yacht",
+        "answer": "A",
+        "funFact": "A submarine is a watercraft capable of independent operation underwater. The first military submarine was used during the American Civil War."
     },
     {
-      "question": "What is the fastest commercial airplane?",
-      "A": "Boeing 747",
-      "B": "Concorde",
-      "C": "Airbus A380",
-      "D": "Boeing 787",
-      "answer": "B",
-      "funFact": "The Concorde was the fastest commercial airplane, capable of speeds over 1,300 mph (Mach 2), more than twice the speed of sound. It was retired in 2003."
+        "question": "What is the fastest commercial airplane?",
+        "A": "Boeing 747",
+        "B": "Concorde",
+        "C": "Airbus A380",
+        "D": "Boeing 787",
+        "answer": "B",
+        "funFact": "The Concorde was the fastest commercial airplane, capable of speeds over 1,300 mph (Mach 2), more than twice the speed of sound. It was retired in 2003."
     }
 ]
-

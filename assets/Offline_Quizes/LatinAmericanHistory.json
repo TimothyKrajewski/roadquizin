@@ -1,183 +1,182 @@
 [
     {
-      "question": "What was the name of the ancient Mesoamerican civilization?",
-      "A": "Aztec",
-      "B": "Maya",
-      "C": "Inca",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "The Aztec, Maya, and Inca were all powerful ancient civilizations in Latin America. The Maya built great cities, the Aztecs had a vast empire, and the Incas built a road network."
+        "question": "What was the name of the ancient Mesoamerican civilization?",
+        "A": "Aztec",
+        "B": "Maya",
+        "C": "Inca",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "The Aztec, Maya, and Inca were all powerful ancient civilizations in Latin America. The Maya built great cities, the Aztecs had a vast empire, and the Incas built a road network."
     },
     {
-      "question": "What was the name of the Spanish conquistador who conquered the Aztecs?",
-      "A": "Hernán Cortés",
-      "B": "Francisco Pizarro",
-      "C": "Diego de Almagro",
-      "D": "Pedro de Valdivia",
-      "answer": "A",
-      "funFact": "Hernán Cortés (1485-1547) was the Spanish conquistador who conquered the Aztec Empire in 1521. He captured the Aztec capital of Tenochtitlan."
+        "question": "What was the name of the Spanish conquistador who conquered the Aztecs?",
+        "A": "Hernán Cortés",
+        "B": "Francisco Pizarro",
+        "C": "Diego de Almagro",
+        "D": "Pedro de Valdivia",
+        "answer": "A",
+        "funFact": "Hernán Cortés (1485-1547) was the Spanish conquistador who conquered the Aztec Empire in 1521. He captured the Aztec capital of Tenochtitlan."
     },
     {
-      "question": "What was the name of the Spanish conquistador who conquered the Incas?",
-      "A": "Hernán Cortés",
-      "B": "Francisco Pizarro",
-      "C": "Diego de Almagro",
-      "D": "Pedro de Valdivia",
-      "answer": "B",
-      "funFact": "Francisco Pizarro (1471-1541) was the Spanish conquistador who conquered the Inca Empire in 1533. He captured the Inca emperor Atahualpa."
+        "question": "What was the name of the Spanish conquistador who conquered the Incas?",
+        "A": "Hernán Cortés",
+        "B": "Francisco Pizarro",
+        "C": "Diego de Almagro",
+        "D": "Pedro de Valdivia",
+        "answer": "B",
+        "funFact": "Francisco Pizarro (1471-1541) was the Spanish conquistador who conquered the Inca Empire in 1533. He captured the Inca emperor Atahualpa."
     },
     {
-      "question": "What was the name of the Brazilian independence leader?",
-      "A": "Pedro I",
-      "B": "Pedro II",
-      "C": "José Bonifácio",
-      "D": "Dom João VI",
-      "answer": "A",
-      "funFact": "Pedro I declared Brazil's independence from Portugal in 1822 and became the first emperor of Brazil. He is known as 'Dom Pedro, the Liberator.'"
+        "question": "What was the name of the Brazilian independence leader?",
+        "A": "Pedro I",
+        "B": "Pedro II",
+        "C": "José Bonifácio",
+        "D": "Dom João VI",
+        "answer": "A",
+        "funFact": "Pedro I declared Brazil's independence from Portugal in 1822 and became the first emperor of Brazil. He is known as 'Dom Pedro, the Liberator.'"
     },
     {
-      "question": "What was the name of the Mexican independence leader?",
-      "A": "Miguel Hidalgo",
-      "B": "José María Morelos",
-      "C": "Agustín de Iturbide",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Miguel Hidalgo, José María Morelos, and Agustín de Iturbide were all leaders of the Mexican War of Independence (1810-1821)."
+        "question": "What was the name of the Mexican independence leader?",
+        "A": "Miguel Hidalgo",
+        "B": "José María Morelos",
+        "C": "Agustín de Iturbide",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Miguel Hidalgo, José María Morelos, and Agustín de Iturbide were all leaders of the Mexican War of Independence (1810-1821)."
     },
     {
-      "question": "What was the name of the South American independence leader known as 'The Liberator'?",
-      "A": "Simón Bolívar",
-      "B": "José de San Martín",
-      "C": "Bernardo O'Higgins",
-      "D": "Antonio José de Sucre",
-      "answer": "A",
-      "funFact": "Simón Bolívar (1783-1830) was a Venezuelan military leader who liberated much of South America from Spanish rule. He is known as 'The Liberator.'"
+        "question": "What was the name of the South American independence leader known as 'The Liberator'?",
+        "A": "Simón Bolívar",
+        "B": "José de San Martín",
+        "C": "Bernardo O'Higgins",
+        "D": "Antonio José de Sucre",
+        "answer": "A",
+        "funFact": "Simón Bolívar (1783-1830) was a Venezuelan military leader who liberated much of South America from Spanish rule. He is known as 'The Liberator.'"
     },
     {
-      "question": "What was the name of the Argentine independence leader?",
-      "A": "Simón Bolívar",
-      "B": "José de San Martín",
-      "C": "Bernardo O'Higgins",
-      "D": "Antonio José de Sucre",
-      "answer": "B",
-      "funFact": "José de San Martín (1778-1850) was an Argentine general who liberated Argentina, Chile, and Peru from Spanish rule. He is a national hero in Argentina."
+        "question": "What was the name of the Argentine independence leader?",
+        "A": "Simón Bolívar",
+        "B": "José de San Martín",
+        "C": "Bernardo O'Higgins",
+        "D": "Antonio José de Sucre",
+        "answer": "B",
+        "funFact": "José de San Martín (1778-1850) was an Argentine general who liberated Argentina, Chile, and Peru from Spanish rule. He is a national hero in Argentina."
     },
     {
-      "question": "What was the name of the Mexican Revolution?",
-      "A": "1905-1915",
-      "B": "1910-1920",
-      "C": "1915-1925",
-      "D": "1920-1930",
-      "answer": "B",
-      "funFact": "The Mexican Revolution (1910-1920) was a major armed struggle that transformed Mexican politics and society. It led to the creation of the modern Mexican state."
+        "question": "What was the name of the Mexican Revolution?",
+        "A": "1905-1915",
+        "B": "1910-1920",
+        "C": "1915-1925",
+        "D": "1920-1930",
+        "answer": "B",
+        "funFact": "The Mexican Revolution (1910-1920) was a major armed struggle that transformed Mexican politics and society. It led to the creation of the modern Mexican state."
     },
     {
-      "question": "What was the name of the Cuban Revolution?",
-      "A": "1953-1959",
-      "B": "1956-1962",
-      "C": "1959-1965",
-      "D": "1962-1968",
-      "answer": "A",
-      "funFact": "The Cuban Revolution (1953-1959) was led by Fidel Castro and overthrew the government of Fulgencio Batista. It established a communist government in Cuba."
+        "question": "What was the name of the Cuban Revolution?",
+        "A": "1953-1959",
+        "B": "1956-1962",
+        "C": "1959-1965",
+        "D": "1962-1968",
+        "answer": "A",
+        "funFact": "The Cuban Revolution (1953-1959) was led by Fidel Castro and overthrew the government of Fulgencio Batista. It established a communist government in Cuba."
     },
     {
-      "question": "What was the name of the Cuban revolutionary leader?",
-      "A": "Fidel Castro",
-      "B": "Che Guevara",
-      "C": "Raúl Castro",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Fidel Castro, Che Guevara, and Raúl Castro were all leaders of the Cuban Revolution. Fidel Castro ruled Cuba from 1959 to 2008."
+        "question": "What was the name of the Cuban revolutionary leader?",
+        "A": "Fidel Castro",
+        "B": "Che Guevara",
+        "C": "Raúl Castro",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Fidel Castro, Che Guevara, and Raúl Castro were all leaders of the Cuban Revolution. Fidel Castro ruled Cuba from 1959 to 2008."
     },
     {
-      "question": "What was the name of the Chilean dictator?",
-      "A": "Salvador Allende",
-      "B": "Augusto Pinochet",
-      "C": "Eduardo Frei",
-      "D": "Patricio Aylwin",
-      "answer": "B",
-      "funFact": "Augusto Pinochet (1915-2006) was a Chilean dictator who ruled from 1973 to 1990. He came to power in a military coup that overthrew Salvador Allende."
+        "question": "What was the name of the Chilean dictator?",
+        "A": "Salvador Allende",
+        "B": "Augusto Pinochet",
+        "C": "Eduardo Frei",
+        "D": "Patricio Aylwin",
+        "answer": "B",
+        "funFact": "Augusto Pinochet (1915-2006) was a Chilean dictator who ruled from 1973 to 1990. He came to power in a military coup that overthrew Salvador Allende."
     },
     {
-      "question": "What was the name of the Argentine military dictatorship?",
-      "A": "1966-1973",
-      "B": "1973-1976",
-      "C": "1976-1983",
-      "D": "1983-1989",
-      "answer": "C",
-      "funFact": "The Argentine military dictatorship (1976-1983) was a period of state terrorism known as the 'Dirty War.' An estimated 30,000 people were 'disappeared.'"
+        "question": "What was the name of the Argentine military dictatorship?",
+        "A": "1966-1973",
+        "B": "1973-1976",
+        "C": "1976-1983",
+        "D": "1983-1989",
+        "answer": "C",
+        "funFact": "The Argentine military dictatorship (1976-1983) was a period of state terrorism known as the 'Dirty War.' An estimated 30,000 people were 'disappeared.'"
     },
     {
-      "question": "What was the name of the ancient Mayan city?",
-      "A": "Tenochtitlan",
-      "B": "Cuzco",
-      "C": "Tikal",
-      "D": "All of the above",
-      "answer": "C",
-      "funFact": "Tikal was a major ancient Mayan city in Guatemala. It was one of the largest and most powerful Mayan cities, with a population of up to 90,000 people."
+        "question": "What was the name of the ancient Mayan city?",
+        "A": "Tenochtitlan",
+        "B": "Cuzco",
+        "C": "Tikal",
+        "D": "None of the above",
+        "answer": "C",
+        "funFact": "Tikal was a major ancient Mayan city in Guatemala. It was one of the largest and most powerful Mayan cities, with a population of up to 90,000 people."
     },
     {
-      "question": "What was the name of the ancient Aztec capital?",
-      "A": "Tenochtitlan",
-      "B": "Cuzco",
-      "C": "Tikal",
-      "D": "Machu Picchu",
-      "answer": "A",
-      "funFact": "Tenochtitlan was the capital of the Aztec Empire, located on an island in Lake Texcoco. It was one of the largest cities in the world when the Spanish arrived."
+        "question": "What was the name of the ancient Aztec capital?",
+        "A": "Tenochtitlan",
+        "B": "Cuzco",
+        "C": "Tikal",
+        "D": "Machu Picchu",
+        "answer": "A",
+        "funFact": "Tenochtitlan was the capital of the Aztec Empire, located on an island in Lake Texcoco. It was one of the largest cities in the world when the Spanish arrived."
     },
     {
-      "question": "What was the name of the ancient Inca capital?",
-      "A": "Tenochtitlan",
-      "B": "Cuzco",
-      "C": "Tikal",
-      "D": "Machu Picchu",
-      "answer": "B",
-      "funFact": "Cuzco was the capital of the Inca Empire. It was considered the center of the world by the Incas and was a major religious and administrative center."
+        "question": "What was the name of the ancient Inca capital?",
+        "A": "Tenochtitlan",
+        "B": "Cuzco",
+        "C": "Tikal",
+        "D": "Machu Picchu",
+        "answer": "B",
+        "funFact": "Cuzco was the capital of the Inca Empire. It was considered the center of the world by the Incas and was a major religious and administrative center."
     },
     {
-      "question": "What was the name of the ancient Inca city?",
-      "A": "Tenochtitlan",
-      "B": "Cuzco",
-      "C": "Tikal",
-      "D": "Machu Picchu",
-      "answer": "D",
-      "funFact": "Machu Picchu was an ancient Inca city built in the 15th century. It was abandoned before the Spanish arrived and was rediscovered in 1911."
+        "question": "What was the name of the ancient Inca city?",
+        "A": "Tenochtitlan",
+        "B": "Cuzco",
+        "C": "Tikal",
+        "D": "Machu Picchu",
+        "answer": "D",
+        "funFact": "Machu Picchu was an ancient Inca city built in the 15th century. It was abandoned before the Spanish arrived and was rediscovered in 1911."
     },
     {
-      "question": "What was the name of the Brazilian military dictatorship?",
-      "A": "1960-1970",
-      "B": "1964-1985",
-      "C": "1970-1980",
-      "D": "1980-1990",
-      "answer": "B",
-      "funFact": "The Brazilian military dictatorship (1964-1985) was a period of authoritarian rule. It began with a military coup and ended with a return to democracy."
+        "question": "What was the name of the Brazilian military dictatorship?",
+        "A": "1960-1970",
+        "B": "1964-1985",
+        "C": "1970-1980",
+        "D": "1980-1990",
+        "answer": "B",
+        "funFact": "The Brazilian military dictatorship (1964-1985) was a period of authoritarian rule. It began with a military coup and ended with a return to democracy."
     },
     {
-      "question": "What was the name of the Colombian drug cartel?",
-      "A": "Medellín Cartel",
-      "B": "Cali Cartel",
-      "C": "Both A and B",
-      "D": "Sinaloa Cartel",
-      "answer": "C",
-      "funFact": "The Medellín and Cali cartels were powerful Colombian drug cartels in the 1980s and 1990s. They controlled much of the cocaine trade to the United States."
+        "question": "What was the name of the Colombian drug cartel?",
+        "A": "Medellín Cartel",
+        "B": "Cali Cartel",
+        "C": "Neither A nor B",
+        "D": "Sinaloa Cartel",
+        "answer": "A",
+        "funFact": "The Medellín and Cali cartels were powerful Colombian drug cartels in the 1980s and 1990s. They controlled much of the cocaine trade to the United States."
     },
     {
-      "question": "What was the name of the Panamanian dictator?",
-      "A": "Omar Torrijos",
-      "B": "Manuel Noriega",
-      "C": "Ricardo Martinelli",
-      "D": "Juan Carlos Varela",
-      "answer": "B",
-      "funFact": "Manuel Noriega (1934-2017) was a Panamanian dictator who ruled from 1983 to 1989. He was removed from power by a U.S. invasion in 1989."
+        "question": "What was the name of the Panamanian dictator?",
+        "A": "Omar Torrijos",
+        "B": "Manuel Noriega",
+        "C": "Ricardo Martinelli",
+        "D": "Juan Carlos Varela",
+        "answer": "B",
+        "funFact": "Manuel Noriega (1934-2017) was a Panamanian dictator who ruled from 1983 to 1989. He was removed from power by a U.S. invasion in 1989."
     },
     {
-      "question": "What was the name of the Venezuelan independence leader?",
-      "A": "Simón Bolívar",
-      "B": "José de San Martín",
-      "C": "Bernardo O'Higgins",
-      "D": "Antonio José de Sucre",
-      "answer": "A",
-      "funFact": "Simón Bolívar was born in Venezuela and liberated much of South America from Spanish rule. He is a national hero in Venezuela and throughout Latin America."
+        "question": "What was the name of the Venezuelan independence leader?",
+        "A": "Simón Bolívar",
+        "B": "José de San Martín",
+        "C": "Bernardo O'Higgins",
+        "D": "Antonio José de Sucre",
+        "answer": "A",
+        "funFact": "Simón Bolívar was born in Venezuela and liberated much of South America from Spanish rule. He is a national hero in Venezuela and throughout Latin America."
     }
 ]
-

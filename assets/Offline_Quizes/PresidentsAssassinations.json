@@ -1,228 +1,227 @@
 [
     {
-      "question": "How many U.S. Presidents have been assassinated?",
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5",
-      "answer": "C",
-      "funFact": "Four U.S. Presidents have been assassinated: Abraham Lincoln (1865), James A. Garfield (1881), William McKinley (1901), and John F. Kennedy (1963)."
+        "question": "How many U.S. Presidents have been assassinated?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "C",
+        "funFact": "Four U.S. Presidents have been assassinated: Abraham Lincoln (1865), James A. Garfield (1881), William McKinley (1901), and John F. Kennedy (1963)."
     },
     {
-      "question": "Who was the first President to be assassinated?",
-      "A": "William Henry Harrison",
-      "B": "Zachary Taylor",
-      "C": "Abraham Lincoln",
-      "D": "James A. Garfield",
-      "answer": "C",
-      "funFact": "Abraham Lincoln was the first President to be assassinated, shot by John Wilkes Booth at Ford's Theatre on April 14, 1865, and died the next day."
+        "question": "Who was the first President to be assassinated?",
+        "A": "William Henry Harrison",
+        "B": "Zachary Taylor",
+        "C": "Abraham Lincoln",
+        "D": "James A. Garfield",
+        "answer": "C",
+        "funFact": "Abraham Lincoln was the first President to be assassinated, shot by John Wilkes Booth at Ford's Theatre on April 14, 1865, and died the next day."
     },
     {
-      "question": "Who assassinated Abraham Lincoln?",
-      "A": "Lee Harvey Oswald",
-      "B": "John Wilkes Booth",
-      "C": "Charles Guiteau",
-      "D": "Leon Czolgosz",
-      "answer": "B",
-      "funFact": "John Wilkes Booth, a Confederate sympathizer and actor, assassinated Abraham Lincoln at Ford's Theatre. He was later tracked down and killed by Union soldiers."
+        "question": "Who assassinated Abraham Lincoln?",
+        "A": "Lee Harvey Oswald",
+        "B": "John Wilkes Booth",
+        "C": "Charles Guiteau",
+        "D": "Leon Czolgosz",
+        "answer": "B",
+        "funFact": "John Wilkes Booth, a Confederate sympathizer and actor, assassinated Abraham Lincoln at Ford's Theatre. He was later tracked down and killed by Union soldiers."
     },
     {
-      "question": "Where was Abraham Lincoln assassinated?",
-      "A": "The White House",
-      "B": "Ford's Theatre",
-      "C": "The Capitol",
-      "D": "A train station",
-      "answer": "B",
-      "funFact": "Abraham Lincoln was assassinated at Ford's Theatre in Washington, D.C., while watching the play 'Our American Cousin' on April 14, 1865."
+        "question": "Where was Abraham Lincoln assassinated?",
+        "A": "The White House",
+        "B": "Ford's Theatre",
+        "C": "The Capitol",
+        "D": "A train station",
+        "answer": "B",
+        "funFact": "Abraham Lincoln was assassinated at Ford's Theatre in Washington, D.C., while watching the play 'Our American Cousin' on April 14, 1865."
     },
     {
-      "question": "Who was the second President to be assassinated?",
-      "A": "Abraham Lincoln",
-      "B": "James A. Garfield",
-      "C": "William McKinley",
-      "D": "John F. Kennedy",
-      "answer": "B",
-      "funFact": "James A. Garfield was the second President to be assassinated, shot by Charles Guiteau on July 2, 1881. He died from complications of his wounds on September 19, 1881."
+        "question": "Who was the second President to be assassinated?",
+        "A": "Abraham Lincoln",
+        "B": "James A. Garfield",
+        "C": "William McKinley",
+        "D": "John F. Kennedy",
+        "answer": "B",
+        "funFact": "James A. Garfield was the second President to be assassinated, shot by Charles Guiteau on July 2, 1881. He died from complications of his wounds on September 19, 1881."
     },
     {
-      "question": "Who assassinated James A. Garfield?",
-      "A": "John Wilkes Booth",
-      "B": "Charles Guiteau",
-      "C": "Leon Czolgosz",
-      "D": "Lee Harvey Oswald",
-      "answer": "B",
-      "funFact": "Charles Guiteau, a disappointed office seeker, assassinated James A. Garfield at a train station in Washington, D.C. Guiteau was executed for the crime."
+        "question": "Who assassinated James A. Garfield?",
+        "A": "John Wilkes Booth",
+        "B": "Charles Guiteau",
+        "C": "Leon Czolgosz",
+        "D": "Lee Harvey Oswald",
+        "answer": "B",
+        "funFact": "Charles Guiteau, a disappointed office seeker, assassinated James A. Garfield at a train station in Washington, D.C. Guiteau was executed for the crime."
     },
     {
-      "question": "Who was the third President to be assassinated?",
-      "A": "James A. Garfield",
-      "B": "William McKinley",
-      "C": "John F. Kennedy",
-      "D": "Theodore Roosevelt",
-      "answer": "B",
-      "funFact": "William McKinley was the third President to be assassinated, shot by Leon Czolgosz at the Pan-American Exposition in Buffalo, New York, on September 6, 1901. He died on September 14, 1901."
+        "question": "Who was the third President to be assassinated?",
+        "A": "James A. Garfield",
+        "B": "William McKinley",
+        "C": "John F. Kennedy",
+        "D": "Theodore Roosevelt",
+        "answer": "B",
+        "funFact": "William McKinley was the third President to be assassinated, shot by Leon Czolgosz at the Pan-American Exposition in Buffalo, New York, on September 6, 1901. He died on September 14, 1901."
     },
     {
-      "question": "Who assassinated William McKinley?",
-      "A": "Charles Guiteau",
-      "B": "Leon Czolgosz",
-      "C": "Lee Harvey Oswald",
-      "D": "John Wilkes Booth",
-      "answer": "B",
-      "funFact": "Leon Czolgosz, an anarchist, assassinated William McKinley at the Pan-American Exposition. Czolgosz was executed by electric chair for the crime."
+        "question": "Who assassinated William McKinley?",
+        "A": "Charles Guiteau",
+        "B": "Leon Czolgosz",
+        "C": "Lee Harvey Oswald",
+        "D": "John Wilkes Booth",
+        "answer": "B",
+        "funFact": "Leon Czolgosz, an anarchist, assassinated William McKinley at the Pan-American Exposition. Czolgosz was executed by electric chair for the crime."
     },
     {
-      "question": "Who was the fourth President to be assassinated?",
-      "A": "William McKinley",
-      "B": "Theodore Roosevelt",
-      "C": "John F. Kennedy",
-      "D": "Ronald Reagan",
-      "answer": "C",
-      "funFact": "John F. Kennedy was the fourth and most recent President to be assassinated, shot in Dallas, Texas, on November 22, 1963. He was the youngest President to die in office."
+        "question": "Who was the fourth President to be assassinated?",
+        "A": "William McKinley",
+        "B": "Theodore Roosevelt",
+        "C": "John F. Kennedy",
+        "D": "Ronald Reagan",
+        "answer": "C",
+        "funFact": "John F. Kennedy was the fourth and most recent President to be assassinated, shot in Dallas, Texas, on November 22, 1963. He was the youngest President to die in office."
     },
     {
-      "question": "Who assassinated John F. Kennedy?",
-      "A": "Lee Harvey Oswald",
-      "B": "Jack Ruby",
-      "C": "James Earl Ray",
-      "D": "Sirhan Sirhan",
-      "answer": "A",
-      "funFact": "Lee Harvey Oswald was charged with assassinating John F. Kennedy, though he was killed by Jack Ruby before he could stand trial. The assassination remains controversial."
+        "question": "Who assassinated John F. Kennedy?",
+        "A": "Lee Harvey Oswald",
+        "B": "Jack Ruby",
+        "C": "James Earl Ray",
+        "D": "Sirhan Sirhan",
+        "answer": "A",
+        "funFact": "Lee Harvey Oswald was charged with assassinating John F. Kennedy, though he was killed by Jack Ruby before he could stand trial. The assassination remains controversial."
     },
     {
-      "question": "Where was John F. Kennedy assassinated?",
-      "A": "Washington, D.C.",
-      "B": "Dallas, Texas",
-      "C": "Boston, Massachusetts",
-      "D": "Los Angeles, California",
-      "answer": "B",
-      "funFact": "John F. Kennedy was assassinated in Dallas, Texas, on November 22, 1963, while riding in a motorcade through Dealey Plaza."
+        "question": "Where was John F. Kennedy assassinated?",
+        "A": "Washington, D.C.",
+        "B": "Dallas, Texas",
+        "C": "Boston, Massachusetts",
+        "D": "Los Angeles, California",
+        "answer": "B",
+        "funFact": "John F. Kennedy was assassinated in Dallas, Texas, on November 22, 1963, while riding in a motorcade through Dealey Plaza."
     },
     {
-      "question": "Which President survived an assassination attempt but was not killed?",
-      "A": "Theodore Roosevelt",
-      "B": "Ronald Reagan",
-      "C": "Gerald Ford",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Several Presidents survived assassination attempts: Theodore Roosevelt was shot in 1912 but continued his speech; Ronald Reagan was shot in 1981 but recovered; and Gerald Ford survived two attempts in 1975."
+        "question": "Which President survived an assassination attempt but was not killed?",
+        "A": "Theodore Roosevelt",
+        "B": "Ronald Reagan",
+        "C": "Gerald Ford",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Several Presidents survived assassination attempts: Theodore Roosevelt was shot in 1912 but continued his speech; Ronald Reagan was shot in 1981 but recovered; and Gerald Ford survived two attempts in 1975."
     },
     {
-      "question": "Which President was shot but survived, then continued his speech?",
-      "A": "Theodore Roosevelt",
-      "B": "Ronald Reagan",
-      "C": "Gerald Ford",
-      "D": "Andrew Jackson",
-      "answer": "A",
-      "funFact": "Theodore Roosevelt was shot in the chest in 1912 while campaigning, but the bullet was slowed by his glasses case and speech. He continued speaking for 90 minutes before seeking medical attention."
+        "question": "Which President was shot but survived, then continued his speech?",
+        "A": "Theodore Roosevelt",
+        "B": "Ronald Reagan",
+        "C": "Gerald Ford",
+        "D": "Andrew Jackson",
+        "answer": "A",
+        "funFact": "Theodore Roosevelt was shot in the chest in 1912 while campaigning, but the bullet was slowed by his glasses case and speech. He continued speaking for 90 minutes before seeking medical attention."
     },
     {
-      "question": "Which President was shot and nearly died but recovered?",
-      "A": "Theodore Roosevelt",
-      "B": "Ronald Reagan",
-      "C": "Gerald Ford",
-      "D": "Bill Clinton",
-      "answer": "B",
-      "funFact": "Ronald Reagan was shot by John Hinckley Jr. in 1981, just 69 days into his presidency. He was seriously wounded but made a full recovery and served two full terms."
+        "question": "Which President was shot and nearly died but recovered?",
+        "A": "Theodore Roosevelt",
+        "B": "Ronald Reagan",
+        "C": "Gerald Ford",
+        "D": "Bill Clinton",
+        "answer": "B",
+        "funFact": "Ronald Reagan was shot by John Hinckley Jr. in 1981, just 69 days into his presidency. He was seriously wounded but made a full recovery and served two full terms."
     },
     {
-      "question": "Which President survived two assassination attempts in the same month?",
-      "A": "Theodore Roosevelt",
-      "B": "Ronald Reagan",
-      "C": "Gerald Ford",
-      "D": "Bill Clinton",
-      "answer": "C",
-      "funFact": "Gerald Ford survived two assassination attempts in September 1975, both by women. Lynette 'Squeaky' Fromme and Sara Jane Moore both attempted to assassinate him."
+        "question": "Which President survived two assassination attempts in the same month?",
+        "A": "Theodore Roosevelt",
+        "B": "Ronald Reagan",
+        "C": "Gerald Ford",
+        "D": "Bill Clinton",
+        "answer": "C",
+        "funFact": "Gerald Ford survived two assassination attempts in September 1975, both by women. Lynette 'Squeaky' Fromme and Sara Jane Moore both attempted to assassinate him."
     },
     {
-      "question": "Which President had the most assassination attempts?",
-      "A": "Abraham Lincoln",
-      "B": "Theodore Roosevelt",
-      "C": "Franklin D. Roosevelt",
-      "D": "Andrew Jackson",
-      "answer": "D",
-      "funFact": "Andrew Jackson survived the first known assassination attempt on a U.S. President in 1835, when Richard Lawrence fired two pistols at him, but both guns misfired."
+        "question": "Which President had the most assassination attempts?",
+        "A": "Abraham Lincoln",
+        "B": "Theodore Roosevelt",
+        "C": "Franklin D. Roosevelt",
+        "D": "Andrew Jackson",
+        "answer": "D",
+        "funFact": "Andrew Jackson survived the first known assassination attempt on a U.S. President in 1835, when Richard Lawrence fired two pistols at him, but both guns misfired."
     },
     {
-      "question": "Which President was assassinated the longest after leaving office?",
-      "A": "None were assassinated after leaving office",
-      "B": "William McKinley",
-      "C": "John F. Kennedy",
-      "D": "All were assassinated while in office",
-      "answer": "D",
-      "funFact": "All four assassinated Presidents (Lincoln, Garfield, McKinley, and Kennedy) were killed while in office. No former President has been assassinated."
+        "question": "Which President was assassinated the longest after leaving office?",
+        "A": "None were assassinated after leaving office",
+        "B": "William McKinley",
+        "C": "John F. Kennedy",
+        "D": "All were assassinated while in office",
+        "answer": "D",
+        "funFact": "All four assassinated Presidents (Lincoln, Garfield, McKinley, and Kennedy) were killed while in office. No former President has been assassinated."
     },
     {
-      "question": "Which President's assassination led to the creation of the Secret Service?",
-      "A": "Abraham Lincoln",
-      "B": "James A. Garfield",
-      "C": "William McKinley",
-      "D": "John F. Kennedy",
-      "answer": "A",
-      "funFact": "Abraham Lincoln's assassination in 1865 led to the creation of the Secret Service, though it was originally created to combat counterfeiting. Presidential protection became a priority after McKinley's assassination."
+        "question": "Which President's assassination led to the creation of the Secret Service?",
+        "A": "Abraham Lincoln",
+        "B": "James A. Garfield",
+        "C": "William McKinley",
+        "D": "John F. Kennedy",
+        "answer": "A",
+        "funFact": "Abraham Lincoln's assassination in 1865 led to the creation of the Secret Service, though it was originally created to combat counterfeiting. Presidential protection became a priority after McKinley's assassination."
     },
     {
-      "question": "Which President's assassination was the quickest (died soonest after being shot)?",
-      "A": "Abraham Lincoln",
-      "B": "James A. Garfield",
-      "C": "William McKinley",
-      "D": "John F. Kennedy",
-      "answer": "D",
-      "funFact": "John F. Kennedy died almost immediately after being shot, while Lincoln died the next day, McKinley died 8 days later, and Garfield died 79 days after being shot."
+        "question": "Which President's assassination was the quickest (died soonest after being shot)?",
+        "A": "Abraham Lincoln",
+        "B": "James A. Garfield",
+        "C": "William McKinley",
+        "D": "John F. Kennedy",
+        "answer": "D",
+        "funFact": "John F. Kennedy died almost immediately after being shot, while Lincoln died the next day, McKinley died 8 days later, and Garfield died 79 days after being shot."
     },
     {
-      "question": "Which President's assassination took the longest (died longest after being shot)?",
-      "A": "Abraham Lincoln",
-      "B": "James A. Garfield",
-      "C": "William McKinley",
-      "D": "John F. Kennedy",
-      "answer": "B",
-      "funFact": "James A. Garfield died 79 days after being shot on July 2, 1881, suffering from infections caused by unsanitary medical treatment. Modern antiseptic techniques might have saved him."
+        "question": "Which President's assassination took the longest (died longest after being shot)?",
+        "A": "Abraham Lincoln",
+        "B": "James A. Garfield",
+        "C": "William McKinley",
+        "D": "John F. Kennedy",
+        "answer": "B",
+        "funFact": "James A. Garfield died 79 days after being shot on July 2, 1881, suffering from infections caused by unsanitary medical treatment. Modern antiseptic techniques might have saved him."
     },
     {
-      "question": "Which President was the oldest when assassinated?",
-      "A": "Abraham Lincoln",
-      "B": "James A. Garfield",
-      "C": "William McKinley",
-      "D": "John F. Kennedy",
-      "answer": "C",
-      "funFact": "William McKinley was 58 years old when assassinated. Lincoln was 56, Garfield was 49, and Kennedy was 46 (the youngest President to die in office)."
+        "question": "Which President was the oldest when assassinated?",
+        "A": "Abraham Lincoln",
+        "B": "James A. Garfield",
+        "C": "William McKinley",
+        "D": "John F. Kennedy",
+        "answer": "C",
+        "funFact": "William McKinley was 58 years old when assassinated. Lincoln was 56, Garfield was 49, and Kennedy was 46 (the youngest President to die in office)."
     },
     {
-      "question": "Which President was the youngest when assassinated?",
-      "A": "Abraham Lincoln",
-      "B": "James A. Garfield",
-      "C": "William McKinley",
-      "D": "John F. Kennedy",
-      "answer": "D",
-      "funFact": "John F. Kennedy was 46 years old when assassinated, making him the youngest President to die in office. He was also the youngest person ever elected President."
+        "question": "Which President was the youngest when assassinated?",
+        "A": "Abraham Lincoln",
+        "B": "James A. Garfield",
+        "C": "William McKinley",
+        "D": "John F. Kennedy",
+        "answer": "D",
+        "funFact": "John F. Kennedy was 46 years old when assassinated, making him the youngest President to die in office. He was also the youngest person ever elected President."
     },
     {
-      "question": "Which President's assassination led to the 25th Amendment?",
-      "A": "Abraham Lincoln",
-      "B": "James A. Garfield",
-      "C": "John F. Kennedy",
-      "D": "Ronald Reagan",
-      "answer": "C",
-      "funFact": "John F. Kennedy's assassination in 1963 highlighted the need for clear procedures for presidential succession and disability, leading to the 25th Amendment in 1967."
+        "question": "Which President's assassination led to the 25th Amendment?",
+        "A": "Abraham Lincoln",
+        "B": "James A. Garfield",
+        "C": "John F. Kennedy",
+        "D": "Ronald Reagan",
+        "answer": "C",
+        "funFact": "John F. Kennedy's assassination in 1963 highlighted the need for clear procedures for presidential succession and disability, leading to the 25th Amendment in 1967."
     },
     {
-      "question": "Which President's assassination attempt led to stricter gun control laws?",
-      "A": "John F. Kennedy",
-      "B": "Ronald Reagan",
-      "C": "Gerald Ford",
-      "D": "Bill Clinton",
-      "answer": "B",
-      "funFact": "Ronald Reagan's assassination attempt in 1981 led to the Brady Handgun Violence Prevention Act (Brady Bill) in 1993, requiring background checks for gun purchases."
+        "question": "Which President's assassination attempt led to stricter gun control laws?",
+        "A": "John F. Kennedy",
+        "B": "Ronald Reagan",
+        "C": "Gerald Ford",
+        "D": "Bill Clinton",
+        "answer": "B",
+        "funFact": "Ronald Reagan's assassination attempt in 1981 led to the Brady Handgun Violence Prevention Act (Brady Bill) in 1993, requiring background checks for gun purchases."
     },
     {
-      "question": "How many Presidents have died in office from natural causes?",
-      "A": "2",
-      "B": "4",
-      "C": "6",
-      "D": "8",
-      "answer": "B",
-      "funFact": "Four Presidents have died in office from natural causes: William Henry Harrison (pneumonia, 1841), Zachary Taylor (illness, 1850), Warren G. Harding (heart attack, 1923), and Franklin D. Roosevelt (cerebral hemorrhage, 1945)."
+        "question": "How many Presidents have died in office from natural causes?",
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8",
+        "answer": "B",
+        "funFact": "Four Presidents have died in office from natural causes: William Henry Harrison (pneumonia, 1841), Zachary Taylor (illness, 1850), Warren G. Harding (heart attack, 1923), and Franklin D. Roosevelt (cerebral hemorrhage, 1945)."
     }
 ]
-

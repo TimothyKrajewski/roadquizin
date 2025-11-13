@@ -1,93 +1,92 @@
 [
     {
-      "question": "Which country's flag has a red circle on a white background?",
-      "A": "China",
-      "B": "Japan",
-      "C": "South Korea",
-      "D": "Vietnam",
-      "answer": "B",
-      "funFact": "Japan's flag features a red circle (representing the sun) on a white background. It's called the 'Nisshōki' or 'Hinomaru' and represents Japan as the 'Land of the Rising Sun.'"
+        "question": "Which country's flag has a red circle on a white background?",
+        "A": "China",
+        "B": "Japan",
+        "C": "South Korea",
+        "D": "Vietnam",
+        "answer": "B",
+        "funFact": "Japan's flag features a red circle (representing the sun) on a white background. It's called the 'Nisshōki' or 'Hinomaru' and represents Japan as the 'Land of the Rising Sun.'"
     },
     {
-      "question": "Which country's flag has a maple leaf?",
-      "A": "United States",
-      "B": "Canada",
-      "C": "Australia",
-      "D": "New Zealand",
-      "answer": "B",
-      "funFact": "Canada's flag features a red maple leaf on a white square with red borders. The maple leaf is a symbol of Canada and appears on the flag adopted in 1965."
+        "question": "Which country's flag has a maple leaf?",
+        "A": "United States",
+        "B": "Canada",
+        "C": "Australia",
+        "D": "New Zealand",
+        "answer": "B",
+        "funFact": "Canada's flag features a red maple leaf on a white square with red borders. The maple leaf is a symbol of Canada and appears on the flag adopted in 1965."
     },
     {
-      "question": "Which country's flag has a Union Jack in the corner?",
-      "A": "Australia and New Zealand",
-      "B": "Canada",
-      "C": "United States",
-      "D": "All of the above",
-      "answer": "A",
-      "funFact": "Both Australia and New Zealand have the Union Jack (British flag) in the upper left corner, reflecting their historical ties to the United Kingdom."
+        "question": "Which country's flag has a Union Jack in the corner?",
+        "A": "Australia and New Zealand",
+        "B": "Canada",
+        "C": "United States",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Both Australia and New Zealand have the Union Jack (British flag) in the upper left corner, reflecting their historical ties to the United Kingdom."
     },
     {
-      "question": "Which country's flag is red, white, and blue with stars and stripes?",
-      "A": "United Kingdom",
-      "B": "France",
-      "C": "United States",
-      "D": "Russia",
-      "answer": "C",
-      "funFact": "The United States flag has 13 horizontal stripes (red and white) representing the original colonies and 50 stars representing the 50 states."
+        "question": "Which country's flag is red, white, and blue with stars and stripes?",
+        "A": "United Kingdom",
+        "B": "France",
+        "C": "United States",
+        "D": "Russia",
+        "answer": "C",
+        "funFact": "The United States flag has 13 horizontal stripes (red and white) representing the original colonies and 50 stars representing the 50 states."
     },
     {
-      "question": "Which country's flag is a tricolor of blue, white, and red vertical stripes?",
-      "A": "Italy",
-      "B": "France",
-      "C": "Russia",
-      "D": "Netherlands",
-      "answer": "B",
-      "funFact": "France's flag is a tricolor of blue, white, and red vertical stripes. It was adopted during the French Revolution and represents liberty, equality, and fraternity."
+        "question": "Which country's flag is a tricolor of blue, white, and red vertical stripes?",
+        "A": "Italy",
+        "B": "France",
+        "C": "Russia",
+        "D": "Netherlands",
+        "answer": "B",
+        "funFact": "France's flag is a tricolor of blue, white, and red vertical stripes. It was adopted during the French Revolution and represents liberty, equality, and fraternity."
     },
     {
-      "question": "Which country's flag has a red background with a yellow star?",
-      "A": "China",
-      "B": "Vietnam",
-      "C": "North Korea",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "China, Vietnam, and North Korea all have flags with red backgrounds and yellow/gold stars, though the designs differ. Red often represents revolution, and stars represent unity."
+        "question": "Which country's flag has a red background with a yellow star?",
+        "A": "China",
+        "B": "Vietnam",
+        "C": "North Korea",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "China, Vietnam, and North Korea all have flags with red backgrounds and yellow/gold stars, though the designs differ. Red often represents revolution, and stars represent unity."
     },
     {
-      "question": "Which country's flag has a white cross on a red background?",
-      "A": "Switzerland",
-      "B": "Denmark",
-      "C": "Sweden",
-      "D": "Norway",
-      "answer": "A",
-      "funFact": "Switzerland's flag is a white cross on a red square background. It's one of only two square national flags in the world (the other is Vatican City)."
+        "question": "Which country's flag has a white cross on a red background?",
+        "A": "Switzerland",
+        "B": "Denmark",
+        "C": "Sweden",
+        "D": "Norway",
+        "answer": "A",
+        "funFact": "Switzerland's flag is a white cross on a red square background. It's one of only two square national flags in the world (the other is Vatican City)."
     },
     {
-      "question": "Which country's flag has a green background with a white crescent and star?",
-      "A": "Pakistan",
-      "B": "Turkey",
-      "C": "Algeria",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Pakistan, Turkey, and Algeria all have flags with green backgrounds and white crescents and stars, though the designs vary. The crescent and star are Islamic symbols."
+        "question": "Which country's flag has a green background with a white crescent and star?",
+        "A": "Pakistan",
+        "B": "Turkey",
+        "C": "Algeria",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Pakistan, Turkey, and Algeria all have flags with green backgrounds and white crescents and stars, though the designs vary. The crescent and star are Islamic symbols."
     },
     {
-      "question": "Which country's flag is known as the 'Union Jack'?",
-      "A": "United States",
-      "B": "United Kingdom",
-      "C": "Australia",
-      "D": "Canada",
-      "answer": "B",
-      "funFact": "The Union Jack is the flag of the United Kingdom, combining the crosses of England (red cross), Scotland (white diagonal cross), and Ireland (red diagonal cross)."
+        "question": "Which country's flag is known as the 'Union Jack'?",
+        "A": "United States",
+        "B": "United Kingdom",
+        "C": "Australia",
+        "D": "Canada",
+        "answer": "B",
+        "funFact": "The Union Jack is the flag of the United Kingdom, combining the crosses of England (red cross), Scotland (white diagonal cross), and Ireland (red diagonal cross)."
     },
     {
-      "question": "Which country's flag has horizontal stripes of orange, white, and green?",
-      "A": "India",
-      "B": "Ireland",
-      "C": "Italy",
-      "D": "Ivory Coast",
-      "answer": "A",
-      "funFact": "India's flag has horizontal stripes of saffron (orange), white, and green, with a blue Ashoka Chakra (wheel) in the center. The colors represent courage, peace, and prosperity."
+        "question": "Which country's flag has horizontal stripes of orange, white, and green?",
+        "A": "India",
+        "B": "Ireland",
+        "C": "Italy",
+        "D": "Ivory Coast",
+        "answer": "A",
+        "funFact": "India's flag has horizontal stripes of saffron (orange), white, and green, with a blue Ashoka Chakra (wheel) in the center. The colors represent courage, peace, and prosperity."
     }
 ]
-

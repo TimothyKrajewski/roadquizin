@@ -121,8 +121,8 @@
         "A": "An experiment showing particle behavior",
         "B": "An experiment demonstrating wave-particle duality",
         "C": "An experiment with light",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "The double-slit experiment demonstrates wave-particle duality by showing particles create interference patterns like waves."
     },
     {

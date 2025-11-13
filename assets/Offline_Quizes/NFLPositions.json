@@ -1,183 +1,182 @@
 [
     {
-      "question": "How many players are on the field per team?",
-      "A": "10",
-      "B": "11",
-      "C": "12",
-      "D": "13",
-      "answer": "B",
-      "funFact": "Each team has 11 players on the field at a time - 11 on offense and 11 on defense. Teams can substitute players between plays."
+        "question": "How many players are on the field per team?",
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13",
+        "answer": "B",
+        "funFact": "Each team has 11 players on the field at a time - 11 on offense and 11 on defense. Teams can substitute players between plays."
     },
     {
-      "question": "What is a quarterback?",
-      "A": "Most important offensive position",
-      "B": "Throws passes and leads offense",
-      "C": "Both A and B",
-      "D": "Defensive position",
-      "answer": "C",
-      "funFact": "A quarterback is the most important offensive position. They throw passes, hand off the ball, and lead the offense."
+        "question": "What is a quarterback?",
+        "A": "Most important offensive position",
+        "B": "Throws passes and leads offense",
+        "C": "Neither A nor B",
+        "D": "Defensive position",
+        "answer": "A",
+        "funFact": "A quarterback is the most important offensive position. They throw passes, hand off the ball, and lead the offense."
     },
     {
-      "question": "What is a running back?",
-      "A": "Carries the ball",
-      "B": "Also catches passes",
-      "C": "Both A and B",
-      "D": "Only runs",
-      "answer": "C",
-      "funFact": "A running back primarily carries the ball but also catches passes and blocks. There are different types like halfbacks and fullbacks."
+        "question": "What is a running back?",
+        "A": "Carries the ball",
+        "B": "Also catches passes",
+        "C": "Neither A nor B",
+        "D": "Only runs",
+        "answer": "A",
+        "funFact": "A running back primarily carries the ball but also catches passes and blocks. There are different types like halfbacks and fullbacks."
     },
     {
-      "question": "What is a wide receiver?",
-      "A": "Catches passes",
-      "B": "Runs routes",
-      "C": "Both A and B",
-      "D": "Blocks only",
-      "answer": "C",
-      "funFact": "A wide receiver catches passes and runs routes to get open. They're key targets for the quarterback."
+        "question": "What is a wide receiver?",
+        "A": "Catches passes",
+        "B": "Runs routes",
+        "C": "Neither A nor B",
+        "D": "Blocks only",
+        "answer": "A",
+        "funFact": "A wide receiver catches passes and runs routes to get open. They're key targets for the quarterback."
     },
     {
-      "question": "What is a tight end?",
-      "A": "Combines receiver and blocker",
-      "B": "Can catch passes or block",
-      "C": "Both A and B",
-      "D": "Only blocks",
-      "answer": "C",
-      "funFact": "A tight end combines the skills of a receiver and blocker. They can catch passes or block depending on the play."
+        "question": "What is a tight end?",
+        "A": "Combines receiver and blocker",
+        "B": "Can catch passes or block",
+        "C": "Neither A nor B",
+        "D": "Only blocks",
+        "answer": "A",
+        "funFact": "A tight end combines the skills of a receiver and blocker. They can catch passes or block depending on the play."
     },
     {
-      "question": "What is an offensive lineman?",
-      "A": "Blocks for offense",
-      "B": "Includes tackles, guards, center",
-      "C": "Both A and B",
-      "D": "Only center",
-      "answer": "C",
-      "funFact": "An offensive lineman blocks for the offense. The line includes tackles (outside), guards (inside), and a center (snaps the ball)."
+        "question": "What is an offensive lineman?",
+        "A": "Blocks for offense",
+        "B": "Includes tackles, guards, center",
+        "C": "Neither A nor B",
+        "D": "Only center",
+        "answer": "A",
+        "funFact": "An offensive lineman blocks for the offense. The line includes tackles (outside), guards (inside), and a center (snaps the ball)."
     },
     {
-      "question": "What is a defensive lineman?",
-      "A": "Rushes quarterback",
-      "B": "Stops running plays",
-      "C": "Both A and B",
-      "D": "Only covers receivers",
-      "answer": "C",
-      "funFact": "A defensive lineman rushes the quarterback and stops running plays. They're the first line of defense."
+        "question": "What is a defensive lineman?",
+        "A": "Rushes quarterback",
+        "B": "Stops running plays",
+        "C": "Neither A nor B",
+        "D": "Only covers receivers",
+        "answer": "A",
+        "funFact": "A defensive lineman rushes the quarterback and stops running plays. They're the first line of defense."
     },
     {
-      "question": "What is a linebacker?",
-      "A": "Defensive position",
-      "B": "Stops runs and covers passes",
-      "C": "Both A and B",
-      "D": "Only rushes",
-      "answer": "C",
-      "funFact": "A linebacker is a defensive position that stops running plays and covers passes. They're versatile defensive players."
+        "question": "What is a linebacker?",
+        "A": "Defensive position",
+        "B": "Stops runs and covers passes",
+        "C": "Neither A nor B",
+        "D": "Only rushes",
+        "answer": "A",
+        "funFact": "A linebacker is a defensive position that stops running plays and covers passes. They're versatile defensive players."
     },
     {
-      "question": "What is a cornerback?",
-      "A": "Covers wide receivers",
-      "B": "Defensive back",
-      "C": "Both A and B",
-      "D": "Only tackles",
-      "answer": "C",
-      "funFact": "A cornerback covers wide receivers and is a defensive back. They're responsible for preventing completions."
+        "question": "What is a cornerback?",
+        "A": "Covers wide receivers",
+        "B": "Defensive back",
+        "C": "Neither A nor B",
+        "D": "Only tackles",
+        "answer": "A",
+        "funFact": "A cornerback covers wide receivers and is a defensive back. They're responsible for preventing completions."
     },
     {
-      "question": "What is a safety?",
-      "B": "Defensive back",
-      "C": "Both A and B",
-      "D": "Only rushes",
-      "A": "Last line of defense",
-      "answer": "C",
-      "funFact": "A safety is the last line of defense and is a defensive back. They help cover deep passes and support the run."
+        "question": "What is a safety?",
+        "B": "Defensive back",
+        "C": "Neither A nor B",
+        "D": "Only rushes",
+        "A": "Last line of defense",
+        "answer": "A",
+        "funFact": "A safety is the last line of defense and is a defensive back. They help cover deep passes and support the run."
     },
     {
-      "question": "What is a kicker?",
-      "A": "Kicks field goals and extra points",
-      "B": "Special teams",
-      "C": "Both A and B",
-      "D": "Only punts",
-      "answer": "C",
-      "funFact": "A kicker kicks field goals and extra points and is part of special teams. They're crucial for scoring points."
+        "question": "What is a kicker?",
+        "A": "Kicks field goals and extra points",
+        "B": "Special teams",
+        "C": "Neither A nor B",
+        "D": "Only punts",
+        "answer": "A",
+        "funFact": "A kicker kicks field goals and extra points and is part of special teams. They're crucial for scoring points."
     },
     {
-      "question": "What is a punter?",
-      "A": "Kicks ball to opponent",
-      "B": "Special teams",
-      "C": "Both A and B",
-      "D": "Only kicks field goals",
-      "answer": "C",
-      "funFact": "A punter kicks the ball to the opponent and is part of special teams. They're used on fourth down to change field position."
+        "question": "What is a punter?",
+        "A": "Kicks ball to opponent",
+        "B": "Special teams",
+        "C": "Neither A nor B",
+        "D": "Only kicks field goals",
+        "answer": "A",
+        "funFact": "A punter kicks the ball to the opponent and is part of special teams. They're used on fourth down to change field position."
     },
     {
-      "question": "What is a returner?",
-      "A": "Returns kicks and punts",
-      "B": "Special teams",
-      "C": "Both A and B",
-      "D": "Only kicks",
-      "answer": "C",
-      "funFact": "A returner returns kicks and punts and is part of special teams. They try to gain yards after catching the ball."
+        "question": "What is a returner?",
+        "A": "Returns kicks and punts",
+        "B": "Special teams",
+        "C": "Neither A nor B",
+        "D": "Only kicks",
+        "answer": "A",
+        "funFact": "A returner returns kicks and punts and is part of special teams. They try to gain yards after catching the ball."
     },
     {
-      "question": "What is the importance of positions?",
-      "A": "Each has specific role",
-      "B": "Team needs all positions",
-      "C": "Both A and B",
-      "D": "Some unimportant",
-      "answer": "C",
-      "funFact": "Each position has a specific role, and teams need all positions to succeed. Football is the ultimate team sport."
+        "question": "What is the importance of positions?",
+        "A": "Each has specific role",
+        "B": "Team needs all positions",
+        "C": "Neither A nor B",
+        "D": "Some unimportant",
+        "answer": "A",
+        "funFact": "Each position has a specific role, and teams need all positions to succeed. Football is the ultimate team sport."
     },
     {
-      "question": "What is position flexibility?",
-      "A": "Some players play multiple positions",
-      "B": "Valuable skill",
-      "C": "Both A and B",
-      "D": "Not allowed",
-      "answer": "C",
-      "funFact": "Some players can play multiple positions, which is a valuable skill. It gives teams more flexibility and options."
+        "question": "What is position flexibility?",
+        "A": "Some players play multiple positions",
+        "B": "Valuable skill",
+        "C": "Neither A nor B",
+        "D": "Not allowed",
+        "answer": "A",
+        "funFact": "Some players can play multiple positions, which is a valuable skill. It gives teams more flexibility and options."
     },
     {
-      "question": "What is the salary by position?",
-      "A": "Varies greatly",
-      "B": "Quarterbacks highest paid",
-      "C": "Both A and B",
-      "D": "All equal",
-      "answer": "C",
-      "funFact": "Salaries vary greatly by position, with quarterbacks typically being the highest paid. Other positions earn less but still well."
+        "question": "What is the salary by position?",
+        "A": "Varies greatly",
+        "B": "Quarterbacks highest paid",
+        "C": "Neither A nor B",
+        "D": "All equal",
+        "answer": "A",
+        "funFact": "Salaries vary greatly by position, with quarterbacks typically being the highest paid. Other positions earn less but still well."
     },
     {
-      "question": "What is the draft by position?",
-      "A": "Some positions drafted higher",
-      "B": "Quarterbacks often first",
-      "C": "Both A and B",
-      "D": "Random",
-      "answer": "C",
-      "funFact": "Some positions are drafted higher than others. Quarterbacks are often selected first overall due to their importance."
+        "question": "What is the draft by position?",
+        "A": "Some positions drafted higher",
+        "B": "Quarterbacks often first",
+        "C": "Neither A nor B",
+        "D": "Random",
+        "answer": "A",
+        "funFact": "Some positions are drafted higher than others. Quarterbacks are often selected first overall due to their importance."
     },
     {
-      "question": "What is the evolution of positions?",
-      "A": "Positions have evolved",
-      "B": "New roles created",
-      "C": "Both A and B",
-      "D": "Never changed",
-      "answer": "C",
-      "funFact": "Positions have evolved over time, and new roles have been created. The game continues to change and adapt."
+        "question": "What is the evolution of positions?",
+        "A": "Positions have evolved",
+        "B": "New roles created",
+        "C": "Neither A nor B",
+        "D": "Never changed",
+        "answer": "A",
+        "funFact": "Positions have evolved over time, and new roles have been created. The game continues to change and adapt."
     },
     {
-      "question": "What is the future of positions?",
-      "A": "Will continue to evolve",
-      "B": "New positions may emerge",
-      "C": "Both A and B",
-      "D": "Will stay same",
-      "answer": "C",
-      "funFact": "Positions will continue to evolve, and new positions may emerge as the game changes. Football is always adapting."
+        "question": "What is the future of positions?",
+        "A": "Will continue to evolve",
+        "B": "New positions may emerge",
+        "C": "Neither A nor B",
+        "D": "Will stay same",
+        "answer": "A",
+        "funFact": "Positions will continue to evolve, and new positions may emerge as the game changes. Football is always adapting."
     },
     {
-      "question": "What is the importance of understanding positions?",
-      "A": "Essential for understanding game",
-      "B": "Each position matters",
-      "C": "Both A and B",
-      "D": "Unimportant",
-      "answer": "C",
-      "funFact": "Understanding positions is essential for understanding the game. Each position matters and contributes to team success."
+        "question": "What is the importance of understanding positions?",
+        "A": "Essential for understanding game",
+        "B": "Each position matters",
+        "C": "Neither A nor B",
+        "D": "Unimportant",
+        "answer": "A",
+        "funFact": "Understanding positions is essential for understanding the game. Each position matters and contributes to team success."
     }
 ]
-

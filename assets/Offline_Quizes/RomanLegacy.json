@@ -1,183 +1,182 @@
 [
     {
-      "question": "What is the Roman legacy?",
-      "A": "Enduring",
-      "B": "Shaped Western civilization",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The Roman legacy is enduring and has shaped Western civilization. Roman ideas, institutions, and culture continue to influence the modern world."
+        "question": "What is the Roman legacy?",
+        "A": "Enduring",
+        "B": "Shaped Western civilization",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The Roman legacy is enduring and has shaped Western civilization. Roman ideas, institutions, and culture continue to influence the modern world."
     },
     {
-      "question": "What is the legacy of Roman law?",
-      "A": "Influenced modern law",
-      "B": "Concepts still used today",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "Roman law influenced modern law, and many concepts (like 'innocent until proven guilty') are still used today. Roman law forms the basis of many legal systems."
+        "question": "What is the legacy of Roman law?",
+        "A": "Influenced modern law",
+        "B": "Concepts still used today",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "Roman law influenced modern law, and many concepts (like 'innocent until proven guilty') are still used today. Roman law forms the basis of many legal systems."
     },
     {
-      "question": "What is the legacy of the Roman language?",
-      "A": "Latin influenced many languages",
-      "B": "English, Spanish, French, Italian",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Latin, the Roman language, influenced many modern languages including English, Spanish, French, and Italian. Many English words have Latin roots."
+        "question": "What is the legacy of the Roman language?",
+        "A": "Latin influenced many languages",
+        "B": "English, Spanish, French, Italian",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Latin, the Roman language, influenced many modern languages including English, Spanish, French, and Italian. Many English words have Latin roots."
     },
     {
-      "question": "What is the legacy of Roman architecture?",
-      "A": "Influenced architecture for centuries",
-      "B": "Arches, domes, concrete",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "Roman architecture influenced architecture for centuries. Techniques like arches, domes, and concrete are still used in modern construction."
+        "question": "What is the legacy of Roman architecture?",
+        "A": "Influenced architecture for centuries",
+        "B": "Arches, domes, concrete",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "Roman architecture influenced architecture for centuries. Techniques like arches, domes, and concrete are still used in modern construction."
     },
     {
-      "question": "What is the legacy of Roman government?",
-      "A": "Influenced modern governments",
-      "B": "Republic, checks and balances",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Roman government influenced modern governments. Concepts like the republic, checks and balances, and representative government have Roman roots."
+        "question": "What is the legacy of Roman government?",
+        "A": "Influenced modern governments",
+        "B": "Republic, checks and balances",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Roman government influenced modern governments. Concepts like the republic, checks and balances, and representative government have Roman roots."
     },
     {
-      "question": "What is the legacy of Roman engineering?",
-      "A": "Roads, aqueducts, bridges",
-      "B": "Techniques still used",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "Roman engineering (roads, aqueducts, bridges) was highly advanced, and many techniques are still used today. Roman concrete is still studied by engineers."
+        "question": "What is the legacy of Roman engineering?",
+        "A": "Roads, aqueducts, bridges",
+        "B": "Techniques still used",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "Roman engineering (roads, aqueducts, bridges) was highly advanced, and many techniques are still used today. Roman concrete is still studied by engineers."
     },
     {
-      "question": "What is the legacy of Roman military?",
-      "A": "Influenced military tactics",
-      "B": "Organization and discipline",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "The Roman military influenced military tactics, organization, and discipline. Many military concepts have Roman origins."
+        "question": "What is the legacy of Roman military?",
+        "A": "Influenced military tactics",
+        "B": "Organization and discipline",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "The Roman military influenced military tactics, organization, and discipline. Many military concepts have Roman origins."
     },
     {
-      "question": "What is the legacy of Roman culture?",
-      "A": "Literature, art, philosophy",
-      "B": "Influenced Western culture",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "Roman culture (literature, art, philosophy) influenced Western culture. Roman ideas and values continue to shape modern society."
+        "question": "What is the legacy of Roman culture?",
+        "A": "Literature, art, philosophy",
+        "B": "Influenced Western culture",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "Roman culture (literature, art, philosophy) influenced Western culture. Roman ideas and values continue to shape modern society."
     },
     {
-      "question": "What is the legacy of Roman religion?",
-      "A": "Influenced Christianity",
-      "B": "Adopted by the Church",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Roman religion influenced Christianity, and the Catholic Church adopted many Roman practices and structures. The Pope's title 'Pontifex Maximus' is Roman."
+        "question": "What is the legacy of Roman religion?",
+        "A": "Influenced Christianity",
+        "B": "Adopted by the Church",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Roman religion influenced Christianity, and the Catholic Church adopted many Roman practices and structures. The Pope's title 'Pontifex Maximus' is Roman."
     },
     {
-      "question": "What is the legacy of the Roman Empire?",
-      "A": "Model for later empires",
-      "B": "Influenced European history",
-      "C": "Both A and B",
-      "D": "No legacy",
-      "answer": "C",
-      "funFact": "The Roman Empire served as a model for later empires and influenced European history for centuries. The Holy Roman Empire claimed to be its successor."
+        "question": "What is the legacy of the Roman Empire?",
+        "A": "Model for later empires",
+        "B": "Influenced European history",
+        "C": "Neither A nor B",
+        "D": "No legacy",
+        "answer": "A",
+        "funFact": "The Roman Empire served as a model for later empires and influenced European history for centuries. The Holy Roman Empire claimed to be its successor."
     },
     {
-      "question": "What is the legacy in modern countries?",
-      "A": "Many countries have Roman roots",
-      "B": "Language, law, culture",
-      "C": "Both A and B",
-      "D": "No connection",
-      "answer": "C",
-      "funFact": "Many modern countries have Roman roots in language, law, and culture. Countries like Italy, Spain, France, and others were part of the Roman Empire."
+        "question": "What is the legacy in modern countries?",
+        "A": "Many countries have Roman roots",
+        "B": "Language, law, culture",
+        "C": "Neither A nor B",
+        "D": "No connection",
+        "answer": "A",
+        "funFact": "Many modern countries have Roman roots in language, law, and culture. Countries like Italy, Spain, France, and others were part of the Roman Empire."
     },
     {
-      "question": "What is the legacy in the United States?",
-      "A": "Government structure",
-      "B": "Senate, checks and balances",
-      "C": "Both A and B",
-      "D": "No connection",
-      "answer": "C",
-      "funFact": "The United States government structure (Senate, checks and balances) has Roman roots. The Founding Fathers were inspired by Roman republicanism."
+        "question": "What is the legacy in the United States?",
+        "A": "Government structure",
+        "B": "Senate, checks and balances",
+        "C": "Neither A nor B",
+        "D": "No connection",
+        "answer": "A",
+        "funFact": "The United States government structure (Senate, checks and balances) has Roman roots. The Founding Fathers were inspired by Roman republicanism."
     },
     {
-      "question": "What is the legacy in language?",
-      "A": "Latin roots",
-      "B": "Scientific and legal terms",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Many English words have Latin roots, especially scientific and legal terms. Latin is still used in medicine, law, and science."
+        "question": "What is the legacy in language?",
+        "A": "Latin roots",
+        "B": "Scientific and legal terms",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Many English words have Latin roots, especially scientific and legal terms. Latin is still used in medicine, law, and science."
     },
     {
-      "question": "What is the legacy in education?",
-      "A": "Classical education",
-      "B": "Study of Latin and Roman history",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Classical education traditionally included the study of Latin and Roman history. This education system influenced Western education for centuries."
+        "question": "What is the legacy in education?",
+        "A": "Classical education",
+        "B": "Study of Latin and Roman history",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Classical education traditionally included the study of Latin and Roman history. This education system influenced Western education for centuries."
     },
     {
-      "question": "What is the legacy in art?",
-      "A": "Influenced Renaissance art",
-      "B": "Classical ideals",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Roman art influenced Renaissance art, and classical ideals continue to influence art today. Many artists have been inspired by Roman works."
+        "question": "What is the legacy in art?",
+        "A": "Influenced Renaissance art",
+        "B": "Classical ideals",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Roman art influenced Renaissance art, and classical ideals continue to influence art today. Many artists have been inspired by Roman works."
     },
     {
-      "question": "What is the legacy in literature?",
-      "A": "Influenced Western literature",
-      "B": "Epic poetry, history, philosophy",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Roman literature influenced Western literature. Genres like epic poetry, history, and philosophy have Roman origins and continue to be important."
+        "question": "What is the legacy in literature?",
+        "A": "Influenced Western literature",
+        "B": "Epic poetry, history, philosophy",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Roman literature influenced Western literature. Genres like epic poetry, history, and philosophy have Roman origins and continue to be important."
     },
     {
-      "question": "What is the legacy in science?",
-      "A": "Preserved and advanced knowledge",
-      "B": "Engineering and medicine",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Romans preserved and advanced knowledge in engineering and medicine. Many Roman scientific works were preserved and influenced later scientists."
+        "question": "What is the legacy in science?",
+        "A": "Preserved and advanced knowledge",
+        "B": "Engineering and medicine",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Romans preserved and advanced knowledge in engineering and medicine. Many Roman scientific works were preserved and influenced later scientists."
     },
     {
-      "question": "What is the legacy in philosophy?",
-      "A": "Stoicism, Epicureanism",
-      "B": "Influenced later philosophers",
-      "C": "Both A and B",
-      "D": "No influence",
-      "answer": "C",
-      "funFact": "Roman philosophy (Stoicism, Epicureanism) influenced later philosophers. Roman thinkers like Marcus Aurelius and Seneca are still read today."
+        "question": "What is the legacy in philosophy?",
+        "A": "Stoicism, Epicureanism",
+        "B": "Influenced later philosophers",
+        "C": "Neither A nor B",
+        "D": "No influence",
+        "answer": "A",
+        "funFact": "Roman philosophy (Stoicism, Epicureanism) influenced later philosophers. Roman thinkers like Marcus Aurelius and Seneca are still read today."
     },
     {
-      "question": "What is the legacy in modern times?",
-      "A": "Still studied and admired",
-      "B": "Influences continue",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The Roman legacy is still studied and admired, and its influences continue. Roman history, culture, and achievements remain important in modern education."
+        "question": "What is the legacy in modern times?",
+        "A": "Still studied and admired",
+        "B": "Influences continue",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The Roman legacy is still studied and admired, and its influences continue. Roman history, culture, and achievements remain important in modern education."
     },
     {
-      "question": "What is the overall impact of the Roman legacy?",
-      "A": "Fundamental to Western civilization",
-      "B": "Shaped the modern world",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "The Roman legacy is fundamental to Western civilization and has shaped the modern world. Without Rome, the world would be very different."
+        "question": "What is the overall impact of the Roman legacy?",
+        "A": "Fundamental to Western civilization",
+        "B": "Shaped the modern world",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "The Roman legacy is fundamental to Western civilization and has shaped the modern world. Without Rome, the world would be very different."
     }
 ]
-

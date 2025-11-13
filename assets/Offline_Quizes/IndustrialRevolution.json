@@ -112,8 +112,8 @@
         "A": "Industrialology",
         "B": "History",
         "C": "Economic history",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "The Industrial Revolution is studied through history, economic history, and social history."
     },
     {

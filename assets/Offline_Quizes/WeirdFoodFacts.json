@@ -1,219 +1,218 @@
 [
     {
-      "question": "What food was once used as a form of currency?",
-      "A": "Salt",
-      "B": "Sugar",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
+        "question": "What food was once used as a form of currency?",
+        "A": "Salt",
+        "B": "Sugar",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
     },
     {
-      "question": "What food was once considered poisonous?",
-      "A": "Tomatoes",
-      "B": "Potatoes",
-      "C": "Eggplants",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Tomatoes, potatoes, and eggplants were all once considered poisonous because they're part of the nightshade family. People were afraid to eat them for centuries."
+        "question": "What food was once considered poisonous?",
+        "A": "Tomatoes",
+        "B": "Potatoes",
+        "C": "Eggplants",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Tomatoes, potatoes, and eggplants were all once considered poisonous because they're part of the nightshade family. People were afraid to eat them for centuries."
     },
     {
-      "question": "What food was once so valuable it was used as a dowry?",
-      "A": "Salt",
-      "B": "Sugar",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Salt, sugar, and spices were all so valuable that they were used as dowries in ancient times. They were considered more valuable than gold in some cultures."
+        "question": "What food was once so valuable it was used as a dowry?",
+        "A": "Salt",
+        "B": "Sugar",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Salt, sugar, and spices were all so valuable that they were used as dowries in ancient times. They were considered more valuable than gold in some cultures."
     },
     {
-      "question": "What food was once used as a form of medicine?",
-      "A": "Chocolate",
-      "B": "Coffee",
-      "C": "Tea",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Chocolate, coffee, and tea were all originally used as medicines. Chocolate was thought to cure various ailments, coffee was used as a stimulant, and tea was believed to have healing properties."
+        "question": "What food was once used as a form of medicine?",
+        "A": "Chocolate",
+        "B": "Coffee",
+        "C": "Tea",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Chocolate, coffee, and tea were all originally used as medicines. Chocolate was thought to cure various ailments, coffee was used as a stimulant, and tea was believed to have healing properties."
     },
     {
-      "question": "What food was once considered a luxury and was only eaten by royalty?",
-      "A": "Pineapples",
-      "B": "Chocolate",
-      "C": "Ice cream",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Pineapples, chocolate, and ice cream were all once considered luxury items only affordable by royalty. They were expensive imports and difficult to obtain."
+        "question": "What food was once considered a luxury and was only eaten by royalty?",
+        "A": "Pineapples",
+        "B": "Chocolate",
+        "C": "Ice cream",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Pineapples, chocolate, and ice cream were all once considered luxury items only affordable by royalty. They were expensive imports and difficult to obtain."
     },
     {
-      "question": "What food was once used as a form of birth control?",
-      "A": "Carrots",
-      "B": "Parsley",
-      "C": "Dill",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "In ancient times, carrots, parsley, and dill were all believed to have contraceptive properties. Women would eat large amounts hoping to prevent pregnancy."
+        "question": "What food was once used as a form of birth control?",
+        "A": "Carrots",
+        "B": "Parsley",
+        "C": "Dill",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "In ancient times, carrots, parsley, and dill were all believed to have contraceptive properties. Women would eat large amounts hoping to prevent pregnancy."
     },
     {
-      "question": "What food was once used as a form of punishment?",
-      "A": "Bread and water",
-      "B": "Salt",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "A",
-      "funFact": "Bread and water was a common form of punishment in ancient times, given to prisoners as a minimal diet. It was considered harsh and unpleasant."
+        "question": "What food was once used as a form of punishment?",
+        "A": "Bread and water",
+        "B": "Salt",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Bread and water was a common form of punishment in ancient times, given to prisoners as a minimal diet. It was considered harsh and unpleasant."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Rome?",
-      "A": "Salt",
-      "B": "Wheat",
-      "C": "Olive oil",
-      "D": "Wine",
-      "answer": "A",
-      "funFact": "Salt was so valuable in ancient Rome that it was used as currency. Roman soldiers were sometimes paid in salt, which is where the word 'salary' comes from."
+        "question": "What food was once used as a form of currency in ancient Rome?",
+        "A": "Salt",
+        "B": "Wheat",
+        "C": "Olive oil",
+        "D": "Wine",
+        "answer": "A",
+        "funFact": "Salt was so valuable in ancient Rome that it was used as currency. Roman soldiers were sometimes paid in salt, which is where the word 'salary' comes from."
     },
     {
-      "question": "What food was once considered a delicacy and was served at royal banquets?",
-      "A": "Pineapples",
-      "B": "Oranges",
-      "C": "Bananas",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Pineapples, oranges, and bananas were all once considered exotic luxuries in Europe. Pineapples were so rare that people would rent them as centerpieces for parties."
+        "question": "What food was once considered a delicacy and was served at royal banquets?",
+        "A": "Pineapples",
+        "B": "Oranges",
+        "C": "Bananas",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Pineapples, oranges, and bananas were all once considered exotic luxuries in Europe. Pineapples were so rare that people would rent them as centerpieces for parties."
     },
     {
-      "question": "What food was once used as a form of currency in ancient China?",
-      "A": "Tea",
-      "B": "Rice",
-      "C": "Salt",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient China?",
+        "A": "Tea",
+        "B": "Rice",
+        "C": "Salt",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once considered a luxury and was only served at special occasions?",
-      "A": "Sugar",
-      "B": "Salt",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Sugar, salt, and spices were all once considered luxury items only affordable by the wealthy. They were expensive imports and were only used on special occasions."
+        "question": "What food was once considered a luxury and was only served at special occasions?",
+        "A": "Sugar",
+        "B": "Salt",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Sugar, salt, and spices were all once considered luxury items only affordable by the wealthy. They were expensive imports and were only used on special occasions."
     },
     {
-      "question": "What food was once used as a form of medicine in ancient times?",
-      "A": "Honey",
-      "B": "Garlic",
-      "C": "Ginger",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Honey, garlic, and ginger were all used as medicines in ancient times. Honey was used to treat wounds, garlic was believed to have healing properties, and ginger was used to aid digestion."
+        "question": "What food was once used as a form of medicine in ancient times?",
+        "A": "Honey",
+        "B": "Garlic",
+        "C": "Ginger",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Honey, garlic, and ginger were all used as medicines in ancient times. Honey was used to treat wounds, garlic was believed to have healing properties, and ginger was used to aid digestion."
     },
     {
-      "question": "What food was once considered a luxury and was only eaten by the wealthy?",
-      "A": "Chocolate",
-      "B": "Coffee",
-      "C": "Tea",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Chocolate, coffee, and tea were all once considered luxury items only affordable by the wealthy. They were expensive imports from distant lands."
+        "question": "What food was once considered a luxury and was only eaten by the wealthy?",
+        "A": "Chocolate",
+        "B": "Coffee",
+        "C": "Tea",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Chocolate, coffee, and tea were all once considered luxury items only affordable by the wealthy. They were expensive imports from distant lands."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Egypt?",
-      "A": "Wheat",
-      "B": "Barley",
-      "C": "Beer",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Wheat, barley, and beer were all used as forms of currency in ancient Egypt. Workers were often paid in bread and beer, which were staples of the Egyptian diet."
+        "question": "What food was once used as a form of currency in ancient Egypt?",
+        "A": "Wheat",
+        "B": "Barley",
+        "C": "Beer",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Wheat, barley, and beer were all used as forms of currency in ancient Egypt. Workers were often paid in bread and beer, which were staples of the Egyptian diet."
     },
     {
-      "question": "What food was once considered a delicacy and was served at royal banquets in ancient Rome?",
-      "A": "Peacock",
-      "B": "Flamingo",
-      "C": "Dormouse",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Peacock, flamingo, and dormouse were all considered delicacies in ancient Rome and were served at royal banquets. They were expensive and difficult to obtain."
+        "question": "What food was once considered a delicacy and was served at royal banquets in ancient Rome?",
+        "A": "Peacock",
+        "B": "Flamingo",
+        "C": "Dormouse",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Peacock, flamingo, and dormouse were all considered delicacies in ancient Rome and were served at royal banquets. They were expensive and difficult to obtain."
     },
     {
-      "question": "What food was once used as a form of medicine in ancient Greece?",
-      "A": "Olive oil",
-      "B": "Honey",
-      "C": "Wine",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Olive oil, honey, and wine were all used as medicines in ancient Greece. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a form of medicine in ancient Greece?",
+        "A": "Olive oil",
+        "B": "Honey",
+        "C": "Wine",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Olive oil, honey, and wine were all used as medicines in ancient Greece. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once considered a luxury and was only eaten by royalty in ancient China?",
-      "A": "Shark fin soup",
-      "B": "Bird's nest soup",
-      "C": "Abalone",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Shark fin soup, bird's nest soup, and abalone were all considered luxury items in ancient China and were only eaten by royalty. They were expensive and difficult to obtain."
+        "question": "What food was once considered a luxury and was only eaten by royalty in ancient China?",
+        "A": "Shark fin soup",
+        "B": "Bird's nest soup",
+        "C": "Abalone",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Shark fin soup, bird's nest soup, and abalone were all considered luxury items in ancient China and were only eaten by royalty. They were expensive and difficult to obtain."
     },
     {
-      "question": "What food was once used as a form of currency in ancient India?",
-      "A": "Rice",
-      "B": "Spices",
-      "C": "Salt",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Rice, spices, and salt were all used as forms of currency in ancient India. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient India?",
+        "A": "Rice",
+        "B": "Spices",
+        "C": "Salt",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Rice, spices, and salt were all used as forms of currency in ancient India. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once considered a delicacy and was served at royal banquets in ancient Persia?",
-      "A": "Caviar",
-      "B": "Saffron",
-      "C": "Pomegranates",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Caviar, saffron, and pomegranates were all considered delicacies in ancient Persia and were served at royal banquets. They were expensive and difficult to obtain."
+        "question": "What food was once considered a delicacy and was served at royal banquets in ancient Persia?",
+        "A": "Caviar",
+        "B": "Saffron",
+        "C": "Pomegranates",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Caviar, saffron, and pomegranates were all considered delicacies in ancient Persia and were served at royal banquets. They were expensive and difficult to obtain."
     },
     {
-      "question": "What food was once used as a form of medicine in ancient Egypt?",
-      "A": "Onions",
-      "B": "Garlic",
-      "C": "Honey",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Onions, garlic, and honey were all used as medicines in ancient Egypt. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a form of medicine in ancient Egypt?",
+        "A": "Onions",
+        "B": "Garlic",
+        "C": "Honey",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Onions, garlic, and honey were all used as medicines in ancient Egypt. They were believed to have healing properties and were used to treat various ailments."
     },
     {
-      "question": "What food was once considered a luxury and was only eaten by the wealthy in ancient Greece?",
-      "A": "Olives",
-      "B": "Figs",
-      "C": "Grapes",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Olives, figs, and grapes were all considered luxury items in ancient Greece and were only eaten by the wealthy. They were expensive and difficult to obtain."
+        "question": "What food was once considered a luxury and was only eaten by the wealthy in ancient Greece?",
+        "A": "Olives",
+        "B": "Figs",
+        "C": "Grapes",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Olives, figs, and grapes were all considered luxury items in ancient Greece and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Mesopotamia?",
-      "A": "Barley",
-      "B": "Wheat",
-      "C": "Dates",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Barley, wheat, and dates were all used as forms of currency in ancient Mesopotamia. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Mesopotamia?",
+        "A": "Barley",
+        "B": "Wheat",
+        "C": "Dates",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Barley, wheat, and dates were all used as forms of currency in ancient Mesopotamia. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once considered a delicacy and was served at royal banquets in ancient Japan?",
-      "A": "Sushi",
-      "B": "Sashimi",
-      "C": "Sea urchin",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Sushi, sashimi, and sea urchin were all considered delicacies in ancient Japan and were served at royal banquets. They were expensive and difficult to obtain."
+        "question": "What food was once considered a delicacy and was served at royal banquets in ancient Japan?",
+        "A": "Sushi",
+        "B": "Sashimi",
+        "C": "Sea urchin",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Sushi, sashimi, and sea urchin were all considered delicacies in ancient Japan and were served at royal banquets. They were expensive and difficult to obtain."
     },
     {
-      "question": "What food was once used as a form of medicine in ancient Rome?",
-      "A": "Garlic",
-      "B": "Honey",
-      "C": "Wine",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Garlic, honey, and wine were all used as medicines in ancient Rome. They were believed to have healing properties and were used to treat various ailments."
+        "question": "What food was once used as a form of medicine in ancient Rome?",
+        "A": "Garlic",
+        "B": "Honey",
+        "C": "Wine",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Garlic, honey, and wine were all used as medicines in ancient Rome. They were believed to have healing properties and were used to treat various ailments."
     }
 ]
-

@@ -1,183 +1,182 @@
 [
     {
-      "question": "Who was the most famous pirate?",
-      "A": "Blackbeard",
-      "B": "Captain Kidd",
-      "C": "Calico Jack",
-      "D": "Henry Morgan",
-      "answer": "A",
-      "funFact": "Blackbeard (Edward Teach) is arguably the most famous pirate. He terrorized the Caribbean and American colonies from 1716 to 1718, known for his fearsome appearance."
+        "question": "Who was the most famous pirate?",
+        "A": "Blackbeard",
+        "B": "Captain Kidd",
+        "C": "Calico Jack",
+        "D": "Henry Morgan",
+        "answer": "A",
+        "funFact": "Blackbeard (Edward Teach) is arguably the most famous pirate. He terrorized the Caribbean and American colonies from 1716 to 1718, known for his fearsome appearance."
     },
     {
-      "question": "What was Blackbeard's real name?",
-      "A": "Edward Teach",
-      "B": "William Kidd",
-      "C": "John Rackham",
-      "D": "Henry Morgan",
-      "answer": "A",
-      "funFact": "Blackbeard's real name was Edward Teach (or Thatch). He was known for his long black beard, which he would braid and light on fire during battles to intimidate enemies."
+        "question": "What was Blackbeard's real name?",
+        "A": "Edward Teach",
+        "B": "William Kidd",
+        "C": "John Rackham",
+        "D": "Henry Morgan",
+        "answer": "A",
+        "funFact": "Blackbeard's real name was Edward Teach (or Thatch). He was known for his long black beard, which he would braid and light on fire during battles to intimidate enemies."
     },
     {
-      "question": "Who was Captain Kidd?",
-      "A": "A famous pirate",
-      "B": "A privateer turned pirate",
-      "C": "A naval officer",
-      "D": "Both A and B",
-      "answer": "D",
-      "funFact": "Captain Kidd (William Kidd) started as a privateer but was later accused of piracy. He was executed in 1701, and his buried treasure became legendary."
+        "question": "Who was Captain Kidd?",
+        "A": "A famous pirate",
+        "B": "A privateer turned pirate",
+        "C": "A naval officer",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Captain Kidd (William Kidd) started as a privateer but was later accused of piracy. He was executed in 1701, and his buried treasure became legendary."
     },
     {
-      "question": "Who was Anne Bonny?",
-      "A": "A famous female pirate",
-      "B": "A pirate's wife",
-      "C": "A ship's cook",
-      "D": "A governor's daughter",
-      "answer": "A",
-      "funFact": "Anne Bonny was one of the most famous female pirates. She sailed with Calico Jack Rackham and was known for her fierce fighting skills."
+        "question": "Who was Anne Bonny?",
+        "A": "A famous female pirate",
+        "B": "A pirate's wife",
+        "C": "A ship's cook",
+        "D": "A governor's daughter",
+        "answer": "A",
+        "funFact": "Anne Bonny was one of the most famous female pirates. She sailed with Calico Jack Rackham and was known for her fierce fighting skills."
     },
     {
-      "question": "Who was Mary Read?",
-      "A": "A famous female pirate",
-      "B": "A pirate's wife",
-      "C": "A ship's cook",
-      "D": "A governor's daughter",
-      "answer": "A",
-      "funFact": "Mary Read was another famous female pirate who sailed with Anne Bonny and Calico Jack. She disguised herself as a man to become a pirate."
+        "question": "Who was Mary Read?",
+        "A": "A famous female pirate",
+        "B": "A pirate's wife",
+        "C": "A ship's cook",
+        "D": "A governor's daughter",
+        "answer": "A",
+        "funFact": "Mary Read was another famous female pirate who sailed with Anne Bonny and Calico Jack. She disguised herself as a man to become a pirate."
     },
     {
-      "question": "Who was Calico Jack?",
-      "A": "John Rackham",
-      "B": "Edward Teach",
-      "C": "William Kidd",
-      "D": "Henry Morgan",
-      "answer": "A",
-      "funFact": "Calico Jack (John Rackham) was a pirate known for his calico clothing. He sailed with Anne Bonny and Mary Read and is credited with the famous Jolly Roger flag design."
+        "question": "Who was Calico Jack?",
+        "A": "John Rackham",
+        "B": "Edward Teach",
+        "C": "William Kidd",
+        "D": "Henry Morgan",
+        "answer": "A",
+        "funFact": "Calico Jack (John Rackham) was a pirate known for his calico clothing. He sailed with Anne Bonny and Mary Read and is credited with the famous Jolly Roger flag design."
     },
     {
-      "question": "Who was Henry Morgan?",
-      "A": "A pirate",
-      "B": "A privateer",
-      "C": "A governor",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Henry Morgan was a privateer who later became a pirate, then was knighted and became governor of Jamaica. The rum brand Captain Morgan is named after him."
+        "question": "Who was Henry Morgan?",
+        "A": "A pirate",
+        "B": "A privateer",
+        "C": "A governor",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Henry Morgan was a privateer who later became a pirate, then was knighted and became governor of Jamaica. The rum brand Captain Morgan is named after him."
     },
     {
-      "question": "Who was Bartholomew Roberts?",
-      "A": "Black Bart",
-      "B": "A successful pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Bartholomew Roberts, known as 'Black Bart,' was one of the most successful pirates, capturing over 400 ships. He was known for his strict code and elegant dress."
+        "question": "Who was Bartholomew Roberts?",
+        "A": "Black Bart",
+        "B": "A successful pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Bartholomew Roberts, known as 'Black Bart,' was one of the most successful pirates, capturing over 400 ships. He was known for his strict code and elegant dress."
     },
     {
-      "question": "Who was Stede Bonnet?",
-      "A": "The Gentleman Pirate",
-      "B": "A wealthy landowner turned pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Stede Bonnet was known as 'The Gentleman Pirate' because he was a wealthy landowner who became a pirate. He was unusual because he bought his own ship rather than stealing one."
+        "question": "Who was Stede Bonnet?",
+        "A": "The Gentleman Pirate",
+        "B": "A wealthy landowner turned pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Stede Bonnet was known as 'The Gentleman Pirate' because he was a wealthy landowner who became a pirate. He was unusual because he bought his own ship rather than stealing one."
     },
     {
-      "question": "Who was Edward Low?",
-      "A": "A particularly cruel pirate",
-      "B": "A successful pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Edward Low was known as one of the most cruel and sadistic pirates. He tortured and mutilated his victims and was feared throughout the Caribbean."
+        "question": "Who was Edward Low?",
+        "A": "A particularly cruel pirate",
+        "B": "A successful pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Edward Low was known as one of the most cruel and sadistic pirates. He tortured and mutilated his victims and was feared throughout the Caribbean."
     },
     {
-      "question": "Who was Francis Drake?",
-      "A": "A pirate",
-      "B": "A privateer",
-      "C": "A naval hero",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Francis Drake was an English privateer who was considered a hero in England but a pirate by the Spanish. He was the first Englishman to circumnavigate the globe."
+        "question": "Who was Francis Drake?",
+        "A": "A pirate",
+        "B": "A privateer",
+        "C": "A naval hero",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Francis Drake was an English privateer who was considered a hero in England but a pirate by the Spanish. He was the first Englishman to circumnavigate the globe."
     },
     {
-      "question": "Who was Jean Lafitte?",
-      "A": "A French pirate",
-      "B": "A privateer",
-      "C": "A hero of the War of 1812",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Jean Lafitte was a French pirate and privateer who operated in the Gulf of Mexico. He helped the United States during the War of 1812 and became a folk hero."
+        "question": "Who was Jean Lafitte?",
+        "A": "A French pirate",
+        "B": "A privateer",
+        "C": "A hero of the War of 1812",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Jean Lafitte was a French pirate and privateer who operated in the Gulf of Mexico. He helped the United States during the War of 1812 and became a folk hero."
     },
     {
-      "question": "Who was Ching Shih?",
-      "A": "A Chinese pirate",
-      "B": "The most successful female pirate",
-      "C": "Both A and B",
-      "D": "A Japanese pirate",
-      "answer": "C",
-      "funFact": "Ching Shih was a Chinese pirate who commanded a fleet of over 300 ships and 20,000-40,000 pirates. She is considered the most successful pirate in history."
+        "question": "Who was Ching Shih?",
+        "A": "A Chinese pirate",
+        "B": "The most successful female pirate",
+        "C": "Neither A nor B",
+        "D": "A Japanese pirate",
+        "answer": "A",
+        "funFact": "Ching Shih was a Chinese pirate who commanded a fleet of over 300 ships and 20,000-40,000 pirates. She is considered the most successful pirate in history."
     },
     {
-      "question": "Who was Black Sam Bellamy?",
-      "A": "The wealthiest pirate",
-      "B": "A successful pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Black Sam Bellamy is considered the wealthiest pirate in history, having captured over 50 ships. His ship, the Whydah, sank off Cape Cod in 1717."
+        "question": "Who was Black Sam Bellamy?",
+        "A": "The wealthiest pirate",
+        "B": "A successful pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Black Sam Bellamy is considered the wealthiest pirate in history, having captured over 50 ships. His ship, the Whydah, sank off Cape Cod in 1717."
     },
     {
-      "question": "Who was Charles Vane?",
-      "A": "A ruthless pirate",
-      "B": "A successful pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Charles Vane was a ruthless pirate known for his cruelty and refusal to accept the King's pardon. He was eventually captured and executed in 1721."
+        "question": "Who was Charles Vane?",
+        "A": "A ruthless pirate",
+        "B": "A successful pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Charles Vane was a ruthless pirate known for his cruelty and refusal to accept the King's pardon. He was eventually captured and executed in 1721."
     },
     {
-      "question": "Who was William Dampier?",
-      "A": "A pirate",
-      "B": "An explorer",
-      "C": "A naturalist",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "William Dampier was a pirate, explorer, and naturalist who circumnavigated the globe three times. His detailed journals influenced later explorers and writers."
+        "question": "Who was William Dampier?",
+        "A": "A pirate",
+        "B": "An explorer",
+        "C": "A naturalist",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "William Dampier was a pirate, explorer, and naturalist who circumnavigated the globe three times. His detailed journals influenced later explorers and writers."
     },
     {
-      "question": "Who was Thomas Tew?",
-      "A": "The Rhode Island Pirate",
-      "B": "A successful pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Thomas Tew was known as 'The Rhode Island Pirate' and was one of the founding members of the pirate republic in Madagascar. He was killed in battle in 1695."
+        "question": "Who was Thomas Tew?",
+        "A": "The Rhode Island Pirate",
+        "B": "A successful pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Thomas Tew was known as 'The Rhode Island Pirate' and was one of the founding members of the pirate republic in Madagascar. He was killed in battle in 1695."
     },
     {
-      "question": "Who was Edward England?",
-      "A": "A relatively humane pirate",
-      "B": "A successful pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Edward England was known for being relatively humane compared to other pirates. He was eventually marooned by his crew for being too lenient with prisoners."
+        "question": "Who was Edward England?",
+        "A": "A relatively humane pirate",
+        "B": "A successful pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Edward England was known for being relatively humane compared to other pirates. He was eventually marooned by his crew for being too lenient with prisoners."
     },
     {
-      "question": "Who was Howell Davis?",
-      "A": "A Welsh pirate",
-      "B": "A successful pirate",
-      "C": "Both A and B",
-      "D": "A naval officer",
-      "answer": "C",
-      "funFact": "Howell Davis was a Welsh pirate who was known for his cleverness and ability to disguise himself. He was killed in an ambush in 1719."
+        "question": "Who was Howell Davis?",
+        "A": "A Welsh pirate",
+        "B": "A successful pirate",
+        "C": "Neither A nor B",
+        "D": "A naval officer",
+        "answer": "A",
+        "funFact": "Howell Davis was a Welsh pirate who was known for his cleverness and ability to disguise himself. He was killed in an ambush in 1719."
     },
     {
-      "question": "Who was Olivier Levasseur?",
-      "A": "The La Buse",
-      "B": "A French pirate",
-      "C": "Both A and B",
-      "D": "A Spanish pirate",
-      "answer": "C",
-      "funFact": "Olivier Levasseur, known as 'La Buse' (The Buzzard), was a French pirate who left a cryptogram with clues to his hidden treasure. It has never been fully deciphered."
+        "question": "Who was Olivier Levasseur?",
+        "A": "The La Buse",
+        "B": "A French pirate",
+        "C": "Neither A nor B",
+        "D": "A Spanish pirate",
+        "answer": "A",
+        "funFact": "Olivier Levasseur, known as 'La Buse' (The Buzzard), was a French pirate who left a cryptogram with clues to his hidden treasure. It has never been fully deciphered."
     }
 ]
-

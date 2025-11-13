@@ -139,8 +139,8 @@
         "A": "Rockology",
         "B": "Musicology",
         "C": "Rock studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rock music is studied through musicology, cultural studies, and rock history."
     },
     {

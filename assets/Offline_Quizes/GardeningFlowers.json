@@ -1,183 +1,182 @@
 [
-    {
-      "question": "What are flowers?",
-      "A": "Colorful plants",
-      "B": "Add beauty to garden",
-      "C": "Both A and B",
-      "D": "Not useful",
-      "answer": "C",
-      "funFact": "Flowers are colorful plants that add beauty to gardens. They can also attract pollinators like bees and butterflies."
-    },
-    {
-      "question": "What are annuals?",
-      "A": "Live one year",
-      "B": "Plant each year",
-      "C": "Both A and B",
-      "D": "Come back",
-      "answer": "C",
-      "funFact": "Annual flowers complete their life cycle in one year. You plant them each year for seasonal color."
-    },
-    {
-      "question": "What are perennials?",
-      "A": "Come back yearly",
-      "B": "Long-term investment",
-      "C": "Both A and B",
-      "D": "Die after one year",
-      "answer": "C",
-      "funFact": "Perennial flowers come back year after year. They're a long-term investment that provides years of beauty."
-    },
-    {
-      "question": "What are bulbs?",
-      "A": "Underground storage",
-      "B": "Tulips, daffodils",
-      "C": "Both A and B",
-      "D": "Above ground",
-      "answer": "C",
-      "funFact": "Bulbs are underground storage structures. Flowers like tulips and daffodils grow from bulbs."
-    },
-    {
-      "question": "What is deadheading?",
-      "A": "Removing dead flowers",
-      "B": "Promotes more blooms",
-      "C": "Both A and B",
-      "D": "Not helpful",
-      "answer": "C",
-      "funFact": "Deadheading is removing dead flowers. It promotes more blooms and keeps plants looking tidy."
-    },
-    {
-      "question": "What is a cutting garden?",
-      "A": "Flowers for bouquets",
-      "B": "Grown to cut",
-      "C": "Both A and B",
-      "D": "Not cut",
-      "answer": "C",
-      "funFact": "A cutting garden is flowers grown specifically for bouquets. They're meant to be cut and brought indoors."
-    },
-    {
-      "question": "What are native flowers?",
-      "A": "From your region",
-      "B": "Adapted to climate",
-      "C": "Both A and B",
-      "D": "From elsewhere",
-      "answer": "C",
-      "funFact": "Native flowers are from your region and are adapted to your climate. They often need less care and water."
-    },
-    {
-      "question": "What are pollinators?",
-      "A": "Bees, butterflies, birds",
-      "B": "Help flowers reproduce",
-      "C": "Both A and B",
-      "D": "Harmful",
-      "answer": "C",
-      "funFact": "Pollinators like bees, butterflies, and birds help flowers reproduce. Flower gardens support these important creatures."
-    },
-    {
-      "question": "What is color in the garden?",
-      "A": "Important design element",
-      "B": "Creates mood",
-      "C": "Both A and B",
-      "D": "Not important",
-      "answer": "C",
-      "funFact": "Color is an important design element in flower gardens. Different colors create different moods and effects."
-    },
-    {
-      "question": "What is height in the garden?",
-      "A": "Varying heights",
-      "B": "Creates interest",
-      "C": "Both A and B",
-      "D": "All same",
-      "answer": "C",
-      "funFact": "Varying heights in flower gardens creates visual interest. Plant tall flowers in back, short in front."
-    },
-    {
-      "question": "What is bloom time?",
-      "A": "When flowers bloom",
-      "B": "Plan for all seasons",
-      "C": "Both A and B",
-      "D": "Only spring",
-      "answer": "C",
-      "funFact": "Bloom time is when flowers bloom. Plan your garden for blooms throughout the growing season."
-    },
-    {
-      "question": "What are roses?",
-      "A": "Popular flowers",
-      "B": "Many varieties",
-      "C": "Both A and B",
-      "D": "Not grown",
-      "answer": "C",
-      "funFact": "Roses are popular flowers with many varieties. They can be challenging but are very rewarding."
-    },
-    {
-      "question": "What are wildflowers?",
-      "A": "Native or naturalized",
-      "B": "Low maintenance",
-      "C": "Both A and B",
-      "D": "High maintenance",
-      "answer": "C",
-      "funFact": "Wildflowers are native or naturalized flowers that are often low maintenance and support local wildlife."
-    },
-    {
-      "question": "What is a flower bed?",
-      "A": "Area for flowers",
-      "B": "Can be formal or informal",
-      "C": "Both A and B",
-      "D": "Only formal",
-      "answer": "C",
-      "funFact": "A flower bed is an area dedicated to flowers. It can be formal (structured) or informal (natural)."
-    },
-    {
-      "question": "What is a border?",
-      "A": "Flowers along edge",
-      "B": "Defines space",
-      "C": "Both A and B",
-      "D": "Not used",
-      "answer": "C",
-      "funFact": "A border is flowers planted along an edge to define space. It can frame a lawn or path."
-    },
-    {
-      "question": "What is container flowers?",
-      "A": "Flowers in pots",
-      "B": "Portable color",
-      "C": "Both A and B",
-      "D": "Only ground",
-      "answer": "C",
-      "funFact": "Container flowers are flowers grown in pots. They provide portable color and work well on patios."
-    },
-    {
-      "question": "What is the benefit of flowers?",
-      "A": "Beauty",
-      "B": "Attracts pollinators",
-      "C": "Both A and B",
-      "D": "No benefit",
-      "answer": "C",
-      "funFact": "Flowers provide beauty and attract pollinators. They make gardens more enjoyable and support the ecosystem."
-    },
-    {
-      "question": "What is flower care?",
-      "A": "Water, fertilize, deadhead",
-      "B": "Regular maintenance",
-      "C": "Both A and B",
-      "D": "No care",
-      "answer": "C",
-      "funFact": "Flower care includes watering, fertilizing, and deadheading. Regular maintenance keeps flowers blooming."
-    },
-    {
-      "question": "What is the joy of flowers?",
-      "A": "Beauty and color",
-      "B": "Brings happiness",
-      "C": "Both A and B",
-      "D": "No joy",
-      "answer": "C",
-      "funFact": "The joy of flowers is their beauty and color, which brings happiness and makes gardens special places."
-    },
-    {
-      "question": "What is flower gardening?",
-      "A": "Rewarding hobby",
-      "B": "Creates beautiful spaces",
-      "C": "Both A and B",
-      "D": "Not rewarding",
-      "answer": "C",
-      "funFact": "Flower gardening is a rewarding hobby that creates beautiful spaces and brings joy to gardeners and visitors."
-    }
+  {
+    "question": "What are flowers?",
+    "A": "Colorful plants",
+    "B": "Add beauty to garden",
+    "C": "Neither A nor B",
+    "D": "Not useful",
+    "answer": "A",
+    "funFact": "Flowers are colorful plants that add beauty to gardens. They can also attract pollinators like bees and butterflies."
+  },
+  {
+    "question": "What are annuals?",
+    "A": "Live one year",
+    "B": "Plant each year",
+    "C": "Neither A nor B",
+    "D": "Come back",
+    "answer": "A",
+    "funFact": "Annual flowers complete their life cycle in one year. You plant them each year for seasonal color."
+  },
+  {
+    "question": "What are perennials?",
+    "A": "Come back yearly",
+    "B": "Long-term investment",
+    "C": "Neither A nor B",
+    "D": "Die after one year",
+    "answer": "A",
+    "funFact": "Perennial flowers come back year after year. They're a long-term investment that provides years of beauty."
+  },
+  {
+    "question": "What are bulbs?",
+    "A": "Underground storage",
+    "B": "Tulips, daffodils",
+    "C": "Neither A nor B",
+    "D": "Above ground",
+    "answer": "A",
+    "funFact": "Bulbs are underground storage structures. Flowers like tulips and daffodils grow from bulbs."
+  },
+  {
+    "question": "What is deadheading?",
+    "A": "Removing dead flowers",
+    "B": "Promotes more blooms",
+    "C": "Neither A nor B",
+    "D": "Not helpful",
+    "answer": "A",
+    "funFact": "Deadheading is removing dead flowers. It promotes more blooms and keeps plants looking tidy."
+  },
+  {
+    "question": "What is a cutting garden?",
+    "A": "Flowers for bouquets",
+    "B": "Grown to cut",
+    "C": "Neither A nor B",
+    "D": "Not cut",
+    "answer": "A",
+    "funFact": "A cutting garden is flowers grown specifically for bouquets. They're meant to be cut and brought indoors."
+  },
+  {
+    "question": "What are native flowers?",
+    "A": "From your region",
+    "B": "Adapted to climate",
+    "C": "Neither A nor B",
+    "D": "From elsewhere",
+    "answer": "A",
+    "funFact": "Native flowers are from your region and are adapted to your climate. They often need less care and water."
+  },
+  {
+    "question": "What are pollinators?",
+    "A": "Bees, butterflies, birds",
+    "B": "Help flowers reproduce",
+    "C": "Neither A nor B",
+    "D": "Harmful",
+    "answer": "A",
+    "funFact": "Pollinators like bees, butterflies, and birds help flowers reproduce. Flower gardens support these important creatures."
+  },
+  {
+    "question": "What is color in the garden?",
+    "A": "Important design element",
+    "B": "Creates mood",
+    "C": "Neither A nor B",
+    "D": "Not important",
+    "answer": "A",
+    "funFact": "Color is an important design element in flower gardens. Different colors create different moods and effects."
+  },
+  {
+    "question": "What is height in the garden?",
+    "A": "Varying heights",
+    "B": "Creates interest",
+    "C": "Neither A nor B",
+    "D": "All same",
+    "answer": "A",
+    "funFact": "Varying heights in flower gardens creates visual interest. Plant tall flowers in back, short in front."
+  },
+  {
+    "question": "What is bloom time?",
+    "A": "When flowers bloom",
+    "B": "Plan for all seasons",
+    "C": "Neither A nor B",
+    "D": "Only spring",
+    "answer": "A",
+    "funFact": "Bloom time is when flowers bloom. Plan your garden for blooms throughout the growing season."
+  },
+  {
+    "question": "What are roses?",
+    "A": "Popular flowers",
+    "B": "Many varieties",
+    "C": "Neither A nor B",
+    "D": "Not grown",
+    "answer": "A",
+    "funFact": "Roses are popular flowers with many varieties. They can be challenging but are very rewarding."
+  },
+  {
+    "question": "What are wildflowers?",
+    "A": "Native or naturalized",
+    "B": "Low maintenance",
+    "C": "Neither A nor B",
+    "D": "High maintenance",
+    "answer": "A",
+    "funFact": "Wildflowers are native or naturalized flowers that are often low maintenance and support local wildlife."
+  },
+  {
+    "question": "What is a flower bed?",
+    "A": "Area for flowers",
+    "B": "Can be formal or informal",
+    "C": "Neither A nor B",
+    "D": "Only formal",
+    "answer": "A",
+    "funFact": "A flower bed is an area dedicated to flowers. It can be formal (structured) or informal (natural)."
+  },
+  {
+    "question": "What is a border?",
+    "A": "Flowers along edge",
+    "B": "Defines space",
+    "C": "Neither A nor B",
+    "D": "Not used",
+    "answer": "A",
+    "funFact": "A border is flowers planted along an edge to define space. It can frame a lawn or path."
+  },
+  {
+    "question": "What is container flowers?",
+    "A": "Flowers in pots",
+    "B": "Portable color",
+    "C": "Neither A nor B",
+    "D": "Only ground",
+    "answer": "A",
+    "funFact": "Container flowers are flowers grown in pots. They provide portable color and work well on patios."
+  },
+  {
+    "question": "What is the benefit of flowers?",
+    "A": "Beauty",
+    "B": "Attracts pollinators",
+    "C": "Neither A nor B",
+    "D": "No benefit",
+    "answer": "A",
+    "funFact": "Flowers provide beauty and attract pollinators. They make gardens more enjoyable and support the ecosystem."
+  },
+  {
+    "question": "What is flower care?",
+    "A": "Water, fertilize, deadhead",
+    "B": "Regular maintenance",
+    "C": "Neither A nor B",
+    "D": "No care",
+    "answer": "A",
+    "funFact": "Flower care includes watering, fertilizing, and deadheading. Regular maintenance keeps flowers blooming."
+  },
+  {
+    "question": "What is the joy of flowers?",
+    "A": "Beauty and color",
+    "B": "Brings happiness",
+    "C": "Neither A nor B",
+    "D": "No joy",
+    "answer": "A",
+    "funFact": "The joy of flowers is their beauty and color, which brings happiness and makes gardens special places."
+  },
+  {
+    "question": "What is flower gardening?",
+    "A": "Rewarding hobby",
+    "B": "Creates beautiful spaces",
+    "C": "Neither A nor B",
+    "D": "Not rewarding",
+    "answer": "A",
+    "funFact": "Flower gardening is a rewarding hobby that creates beautiful spaces and brings joy to gardeners and visitors."
+  }
 ]
-

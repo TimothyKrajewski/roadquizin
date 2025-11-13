@@ -1,228 +1,227 @@
 [
     {
-      "question": "What food was once used as a form of currency?",
-      "A": "Salt",
-      "B": "Sugar",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
+        "question": "What food was once used as a form of currency?",
+        "A": "Salt",
+        "B": "Sugar",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Rome?",
-      "A": "Salt",
-      "B": "Wheat",
-      "C": "Olive oil",
-      "D": "Wine",
-      "answer": "A",
-      "funFact": "Salt was so valuable in ancient Rome that it was used as currency. Roman soldiers were sometimes paid in salt, which is where the word 'salary' comes from."
+        "question": "What food was once used as a form of currency in ancient Rome?",
+        "A": "Salt",
+        "B": "Wheat",
+        "C": "Olive oil",
+        "D": "Wine",
+        "answer": "A",
+        "funFact": "Salt was so valuable in ancient Rome that it was used as currency. Roman soldiers were sometimes paid in salt, which is where the word 'salary' comes from."
     },
     {
-      "question": "What food was once used as a form of currency in ancient China?",
-      "A": "Tea",
-      "B": "Rice",
-      "C": "Salt",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient China?",
+        "A": "Tea",
+        "B": "Rice",
+        "C": "Salt",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Egypt?",
-      "A": "Wheat",
-      "B": "Barley",
-      "C": "Beer",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Wheat, barley, and beer were all used as forms of currency in ancient Egypt. Workers were often paid in bread and beer, which were staples of the Egyptian diet."
+        "question": "What food was once used as a form of currency in ancient Egypt?",
+        "A": "Wheat",
+        "B": "Barley",
+        "C": "Beer",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Wheat, barley, and beer were all used as forms of currency in ancient Egypt. Workers were often paid in bread and beer, which were staples of the Egyptian diet."
     },
     {
-      "question": "What food was once used as a form of currency in ancient India?",
-      "A": "Rice",
-      "B": "Spices",
-      "C": "Salt",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Rice, spices, and salt were all used as forms of currency in ancient India. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient India?",
+        "A": "Rice",
+        "B": "Spices",
+        "C": "Salt",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Rice, spices, and salt were all used as forms of currency in ancient India. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Mesopotamia?",
-      "A": "Barley",
-      "B": "Wheat",
-      "C": "Dates",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Barley, wheat, and dates were all used as forms of currency in ancient Mesopotamia. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Mesopotamia?",
+        "A": "Barley",
+        "B": "Wheat",
+        "C": "Dates",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Barley, wheat, and dates were all used as forms of currency in ancient Mesopotamia. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Greece?",
-      "A": "Olive oil",
-      "B": "Wine",
-      "C": "Wheat",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Olive oil, wine, and wheat were all used as forms of currency in ancient Greece. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Greece?",
+        "A": "Olive oil",
+        "B": "Wine",
+        "C": "Wheat",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Olive oil, wine, and wheat were all used as forms of currency in ancient Greece. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Persia?",
-      "A": "Wheat",
-      "B": "Barley",
-      "C": "Dates",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Wheat, barley, and dates were all used as forms of currency in ancient Persia. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Persia?",
+        "A": "Wheat",
+        "B": "Barley",
+        "C": "Dates",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Wheat, barley, and dates were all used as forms of currency in ancient Persia. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Japan?",
-      "A": "Rice",
-      "B": "Tea",
-      "C": "Salt",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Rice, tea, and salt were all used as forms of currency in ancient Japan. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Japan?",
+        "A": "Rice",
+        "B": "Tea",
+        "C": "Salt",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Rice, tea, and salt were all used as forms of currency in ancient Japan. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Africa?",
-      "A": "Salt",
-      "B": "Gold",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Salt, gold, and spices were all used as forms of currency in ancient Africa. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Africa?",
+        "A": "Salt",
+        "B": "Gold",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Salt, gold, and spices were all used as forms of currency in ancient Africa. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Americas?",
-      "A": "Cacao beans",
-      "B": "Corn",
-      "C": "Quinoa",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Cacao beans, corn, and quinoa were all used as forms of currency in ancient Americas. Cacao beans were especially valuable and were used as money by the Aztecs and Mayans."
+        "question": "What food was once used as a form of currency in ancient Americas?",
+        "A": "Cacao beans",
+        "B": "Corn",
+        "C": "Quinoa",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Cacao beans, corn, and quinoa were all used as forms of currency in ancient Americas. Cacao beans were especially valuable and were used as money by the Aztecs and Mayans."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Oceania?",
-      "A": "Coconuts",
-      "B": "Yams",
-      "C": "Taro",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Coconuts, yams, and taro were all used as forms of currency in ancient Oceania. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Oceania?",
+        "A": "Coconuts",
+        "B": "Yams",
+        "C": "Taro",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Coconuts, yams, and taro were all used as forms of currency in ancient Oceania. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Scandinavia?",
-      "A": "Butter",
-      "B": "Cheese",
-      "C": "Fish",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Butter, cheese, and fish were all used as forms of currency in ancient Scandinavia. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Scandinavia?",
+        "A": "Butter",
+        "B": "Cheese",
+        "C": "Fish",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Butter, cheese, and fish were all used as forms of currency in ancient Scandinavia. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Celtic cultures?",
-      "A": "Cattle",
-      "B": "Grain",
-      "C": "Honey",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Cattle, grain, and honey were all used as forms of currency in ancient Celtic cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Celtic cultures?",
+        "A": "Cattle",
+        "B": "Grain",
+        "C": "Honey",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Cattle, grain, and honey were all used as forms of currency in ancient Celtic cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Slavic cultures?",
-      "A": "Honey",
-      "B": "Wax",
-      "C": "Furs",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Honey, wax, and furs were all used as forms of currency in ancient Slavic cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Slavic cultures?",
+        "A": "Honey",
+        "B": "Wax",
+        "C": "Furs",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Honey, wax, and furs were all used as forms of currency in ancient Slavic cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Native American cultures?",
-      "A": "Wampum",
-      "B": "Corn",
-      "C": "Tobacco",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Wampum (shell beads), corn, and tobacco were all used as forms of currency in ancient Native American cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Native American cultures?",
+        "A": "Wampum",
+        "B": "Corn",
+        "C": "Tobacco",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Wampum (shell beads), corn, and tobacco were all used as forms of currency in ancient Native American cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Australian Aboriginal cultures?",
-      "A": "Shells",
-      "B": "Ochre",
-      "C": "Tools",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Shells, ochre (colored clay), and tools were all used as forms of currency in ancient Australian Aboriginal cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Australian Aboriginal cultures?",
+        "A": "Shells",
+        "B": "Ochre",
+        "C": "Tools",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Shells, ochre (colored clay), and tools were all used as forms of currency in ancient Australian Aboriginal cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Arabian cultures?",
-      "A": "Dates",
-      "B": "Camels",
-      "C": "Spices",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Dates, camels, and spices were all used as forms of currency in ancient Arabian cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Arabian cultures?",
+        "A": "Dates",
+        "B": "Camels",
+        "C": "Spices",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Dates, camels, and spices were all used as forms of currency in ancient Arabian cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Turkish cultures?",
-      "A": "Horses",
-      "B": "Sheep",
-      "C": "Grain",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Horses, sheep, and grain were all used as forms of currency in ancient Turkish cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Turkish cultures?",
+        "A": "Horses",
+        "B": "Sheep",
+        "C": "Grain",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Horses, sheep, and grain were all used as forms of currency in ancient Turkish cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Mongolian cultures?",
-      "A": "Horses",
-      "B": "Sheep",
-      "C": "Cattle",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Horses, sheep, and cattle were all used as forms of currency in ancient Mongolian cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Mongolian cultures?",
+        "A": "Horses",
+        "B": "Sheep",
+        "C": "Cattle",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Horses, sheep, and cattle were all used as forms of currency in ancient Mongolian cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Inca cultures?",
-      "A": "Coca leaves",
-      "B": "Corn",
-      "C": "Quinoa",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Coca leaves, corn, and quinoa were all used as forms of currency in ancient Inca cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Inca cultures?",
+        "A": "Coca leaves",
+        "B": "Corn",
+        "C": "Quinoa",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Coca leaves, corn, and quinoa were all used as forms of currency in ancient Inca cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Aztec cultures?",
-      "A": "Cacao beans",
-      "B": "Corn",
-      "C": "Quinoa",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Cacao beans, corn, and quinoa were all used as forms of currency in ancient Aztec cultures. Cacao beans were especially valuable and were used as money."
+        "question": "What food was once used as a form of currency in ancient Aztec cultures?",
+        "A": "Cacao beans",
+        "B": "Corn",
+        "C": "Quinoa",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Cacao beans, corn, and quinoa were all used as forms of currency in ancient Aztec cultures. Cacao beans were especially valuable and were used as money."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Mayan cultures?",
-      "A": "Cacao beans",
-      "B": "Corn",
-      "C": "Jade",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Cacao beans, corn, and jade were all used as forms of currency in ancient Mayan cultures. Cacao beans were especially valuable and were used as money."
+        "question": "What food was once used as a form of currency in ancient Mayan cultures?",
+        "A": "Cacao beans",
+        "B": "Corn",
+        "C": "Jade",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Cacao beans, corn, and jade were all used as forms of currency in ancient Mayan cultures. Cacao beans were especially valuable and were used as money."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Viking cultures?",
-      "A": "Silver",
-      "B": "Furs",
-      "C": "Amber",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Silver, furs, and amber were all used as forms of currency in ancient Viking cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Viking cultures?",
+        "A": "Silver",
+        "B": "Furs",
+        "C": "Amber",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Silver, furs, and amber were all used as forms of currency in ancient Viking cultures. They were valuable commodities that could be traded for other goods."
     },
     {
-      "question": "What food was once used as a form of currency in ancient Polynesian cultures?",
-      "A": "Shells",
-      "B": "Feathers",
-      "C": "Stones",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Shells, feathers, and stones were all used as forms of currency in ancient Polynesian cultures. They were valuable commodities that could be traded for other goods."
+        "question": "What food was once used as a form of currency in ancient Polynesian cultures?",
+        "A": "Shells",
+        "B": "Feathers",
+        "C": "Stones",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Shells, feathers, and stones were all used as forms of currency in ancient Polynesian cultures. They were valuable commodities that could be traded for other goods."
     }
 ]
-

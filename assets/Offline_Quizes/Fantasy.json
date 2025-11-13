@@ -31,8 +31,8 @@
         "A": "Fantasyology",
         "B": "Fantasy studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Fantasy is studied through literary studies, genre analysis, and fantasy research."
     },
     {
@@ -76,8 +76,8 @@
         "A": "Fantasyology",
         "B": "Fantasy analysis",
         "C": "Genre studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Fantasy is studied through literary studies, genre analysis, and fantasy research."
     },
     {
@@ -121,8 +121,8 @@
         "A": "Fantasyology",
         "B": "Fantasy studies",
         "C": "Speculative fiction",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Fantasy is studied through literary studies, genre research, and speculative fiction analysis."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Fantasyology",
         "B": "Fantasy research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Fantasy is studied through literary studies, genre research, and fantasy analysis, exploring its themes and worlds."
     }
 ]

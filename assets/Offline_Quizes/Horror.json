@@ -31,8 +31,8 @@
         "A": "Horrorology",
         "B": "Horror studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Horror literature is studied through literary studies, genre analysis, and horror research."
     },
     {
@@ -76,8 +76,8 @@
         "A": "Horrorology",
         "B": "Horror analysis",
         "C": "Gothic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Horror literature is studied through literary studies, genre analysis, and Gothic literature research."
     },
     {
@@ -121,8 +121,8 @@
         "A": "Horrorology",
         "B": "Horror studies",
         "C": "Dark fiction",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Horror literature is studied through literary studies, genre research, and dark fiction analysis."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Horrorology",
         "B": "Horror research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Horror literature is studied through literary studies, genre research, and horror analysis, exploring its themes and techniques."
     }
 ]

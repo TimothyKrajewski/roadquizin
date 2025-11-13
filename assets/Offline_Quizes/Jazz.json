@@ -130,8 +130,8 @@
         "A": "Jazzology",
         "B": "Jazz studies",
         "C": "Musicology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Jazz is studied through musicology, jazz studies programs, and cultural studies."
     },
     {

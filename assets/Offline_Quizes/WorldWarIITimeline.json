@@ -1,183 +1,182 @@
 [
     {
-      "question": "When did World War II begin?",
-      "A": "1937",
-      "B": "1939",
-      "C": "1941",
-      "D": "1943",
-      "answer": "B",
-      "funFact": "World War II began in 1939 when Germany invaded Poland on September 1. Britain and France declared war on Germany two days later."
+        "question": "When did World War II begin?",
+        "A": "1937",
+        "B": "1939",
+        "C": "1941",
+        "D": "1943",
+        "answer": "B",
+        "funFact": "World War II began in 1939 when Germany invaded Poland on September 1. Britain and France declared war on Germany two days later."
     },
     {
-      "question": "When did the United States enter World War II?",
-      "A": "1939",
-      "B": "1940",
-      "C": "1941",
-      "D": "1942",
-      "answer": "C",
-      "funFact": "The United States entered World War II in 1941 after the Japanese attack on Pearl Harbor on December 7. The U.S. declared war on Japan the next day."
+        "question": "When did the United States enter World War II?",
+        "A": "1939",
+        "B": "1940",
+        "C": "1941",
+        "D": "1942",
+        "answer": "C",
+        "funFact": "The United States entered World War II in 1941 after the Japanese attack on Pearl Harbor on December 7. The U.S. declared war on Japan the next day."
     },
     {
-      "question": "When did World War II end?",
-      "A": "1943",
-      "B": "1944",
-      "C": "1945",
-      "D": "1946",
-      "answer": "C",
-      "funFact": "World War II ended in 1945. The war in Europe ended on May 8 (V-E Day), and the war in the Pacific ended on September 2 (V-J Day) after Japan surrendered."
+        "question": "When did World War II end?",
+        "A": "1943",
+        "B": "1944",
+        "C": "1945",
+        "D": "1946",
+        "answer": "C",
+        "funFact": "World War II ended in 1945. The war in Europe ended on May 8 (V-E Day), and the war in the Pacific ended on September 2 (V-J Day) after Japan surrendered."
     },
     {
-      "question": "What happened in 1939?",
-      "A": "Germany invaded Poland",
-      "B": "War began",
-      "C": "Both A and B",
-      "D": "War ended",
-      "answer": "C",
-      "funFact": "In 1939, Germany invaded Poland on September 1, starting World War II. Britain and France declared war on Germany two days later."
+        "question": "What happened in 1939?",
+        "A": "Germany invaded Poland",
+        "B": "War began",
+        "C": "Neither A nor B",
+        "D": "War ended",
+        "answer": "A",
+        "funFact": "In 1939, Germany invaded Poland on September 1, starting World War II. Britain and France declared war on Germany two days later."
     },
     {
-      "question": "What happened in 1940?",
-      "A": "Germany conquered much of Europe",
-      "B": "Battle of Britain",
-      "C": "Both A and B",
-      "D": "War ended",
-      "answer": "C",
-      "funFact": "In 1940, Germany conquered much of Europe, including France. The Battle of Britain was fought in the air over England."
+        "question": "What happened in 1940?",
+        "A": "Germany conquered much of Europe",
+        "B": "Battle of Britain",
+        "C": "Neither A nor B",
+        "D": "War ended",
+        "answer": "A",
+        "funFact": "In 1940, Germany conquered much of Europe, including France. The Battle of Britain was fought in the air over England."
     },
     {
-      "question": "What happened in 1941?",
-      "A": "Germany invaded Soviet Union",
-      "B": "Japan attacked Pearl Harbor",
-      "C": "Both A and B",
-      "D": "War ended",
-      "answer": "C",
-      "funFact": "In 1941, Germany invaded the Soviet Union (Operation Barbarossa) in June, and Japan attacked Pearl Harbor in December, bringing the US into the war."
+        "question": "What happened in 1941?",
+        "A": "Germany invaded Soviet Union",
+        "B": "Japan attacked Pearl Harbor",
+        "C": "Neither A nor B",
+        "D": "War ended",
+        "answer": "A",
+        "funFact": "In 1941, Germany invaded the Soviet Union (Operation Barbarossa) in June, and Japan attacked Pearl Harbor in December, bringing the US into the war."
     },
     {
-      "question": "What happened in 1942?",
-      "A": "Battle of Stalingrad began",
-      "B": "Battle of Midway",
-      "C": "Both A and B",
-      "D": "War ended",
-      "answer": "C",
-      "funFact": "In 1942, the Battle of Stalingrad began (turning point on Eastern Front), and the Battle of Midway was fought (turning point in Pacific)."
+        "question": "What happened in 1942?",
+        "A": "Battle of Stalingrad began",
+        "B": "Battle of Midway",
+        "C": "Neither A nor B",
+        "D": "War ended",
+        "answer": "A",
+        "funFact": "In 1942, the Battle of Stalingrad began (turning point on Eastern Front), and the Battle of Midway was fought (turning point in Pacific)."
     },
     {
-      "question": "What happened in 1943?",
-      "A": "Battle of Stalingrad ended",
-      "B": "Allies invaded Italy",
-      "C": "Both A and B",
-      "D": "War ended",
-      "answer": "C",
-      "funFact": "In 1943, the Battle of Stalingrad ended with Soviet victory, and the Allies invaded Italy, leading to Italy's surrender."
+        "question": "What happened in 1943?",
+        "A": "Battle of Stalingrad ended",
+        "B": "Allies invaded Italy",
+        "C": "Neither A nor B",
+        "D": "War ended",
+        "answer": "A",
+        "funFact": "In 1943, the Battle of Stalingrad ended with Soviet victory, and the Allies invaded Italy, leading to Italy's surrender."
     },
     {
-      "question": "What happened in 1944?",
-      "A": "D-Day (Normandy invasion)",
-      "B": "Allies advanced on all fronts",
-      "C": "Both A and B",
-      "D": "War ended",
-      "answer": "C",
-      "funFact": "In 1944, D-Day (the Normandy invasion) occurred on June 6, and the Allies advanced on all fronts, pushing toward Germany."
+        "question": "What happened in 1944?",
+        "A": "D-Day (Normandy invasion)",
+        "B": "Allies advanced on all fronts",
+        "C": "Neither A nor B",
+        "D": "War ended",
+        "answer": "A",
+        "funFact": "In 1944, D-Day (the Normandy invasion) occurred on June 6, and the Allies advanced on all fronts, pushing toward Germany."
     },
     {
-      "question": "What happened in 1945?",
-      "A": "Germany surrendered",
-      "B": "Japan surrendered after atomic bombs",
-      "C": "Both A and B",
-      "D": "War began",
-      "answer": "C",
-      "funFact": "In 1945, Germany surrendered in May, and Japan surrendered in September after atomic bombs were dropped on Hiroshima and Nagasaki."
+        "question": "What happened in 1945?",
+        "A": "Germany surrendered",
+        "B": "Japan surrendered after atomic bombs",
+        "C": "Neither A nor B",
+        "D": "War began",
+        "answer": "A",
+        "funFact": "In 1945, Germany surrendered in May, and Japan surrendered in September after atomic bombs were dropped on Hiroshima and Nagasaki."
     },
     {
-      "question": "What was the Phony War?",
-      "A": "Period of little fighting",
-      "B": "1939-1940",
-      "C": "Both A and B",
-      "D": "Intense fighting",
-      "answer": "C",
-      "funFact": "The Phony War (1939-1940) was a period of little fighting after war was declared but before major battles began."
+        "question": "What was the Phony War?",
+        "A": "Period of little fighting",
+        "B": "1939-1940",
+        "C": "Neither A nor B",
+        "D": "Intense fighting",
+        "answer": "A",
+        "funFact": "The Phony War (1939-1940) was a period of little fighting after war was declared but before major battles began."
     },
     {
-      "question": "What was the Blitz?",
-      "A": "German bombing of Britain",
-      "B": "1940-1941",
-      "C": "Both A and B",
-      "D": "British bombing of Germany",
-      "answer": "C",
-      "funFact": "The Blitz was the German bombing campaign against Britain (1940-1941). Despite heavy bombing, Britain did not surrender."
+        "question": "What was the Blitz?",
+        "A": "German bombing of Britain",
+        "B": "1940-1941",
+        "C": "Neither A nor B",
+        "D": "British bombing of Germany",
+        "answer": "A",
+        "funFact": "The Blitz was the German bombing campaign against Britain (1940-1941). Despite heavy bombing, Britain did not surrender."
     },
     {
-      "question": "What was Operation Barbarossa?",
-      "A": "Germany's invasion of Soviet Union",
-      "B": "June 1941",
-      "C": "Both A and B",
-      "D": "Soviet invasion of Germany",
-      "answer": "C",
-      "funFact": "Operation Barbarossa was Germany's invasion of the Soviet Union in June 1941. It was the largest military operation in history."
+        "question": "What was Operation Barbarossa?",
+        "A": "Germany's invasion of Soviet Union",
+        "B": "June 1941",
+        "C": "Neither A nor B",
+        "D": "Soviet invasion of Germany",
+        "answer": "A",
+        "funFact": "Operation Barbarossa was Germany's invasion of the Soviet Union in June 1941. It was the largest military operation in history."
     },
     {
-      "question": "What was Operation Overlord?",
-      "A": "D-Day invasion",
-      "B": "June 6, 1944",
-      "C": "Both A and B",
-      "D": "Invasion of Italy",
-      "answer": "C",
-      "funFact": "Operation Overlord was the code name for D-Day, the Allied invasion of Normandy on June 6, 1944. It was the largest seaborne invasion in history."
+        "question": "What was Operation Overlord?",
+        "A": "D-Day invasion",
+        "B": "June 6, 1944",
+        "C": "Neither A nor B",
+        "D": "Invasion of Italy",
+        "answer": "A",
+        "funFact": "Operation Overlord was the code name for D-Day, the Allied invasion of Normandy on June 6, 1944. It was the largest seaborne invasion in history."
     },
     {
-      "question": "What was the Battle of the Bulge?",
-      "A": "Germany's last major offensive",
-      "B": "December 1944",
-      "C": "Both A and B",
-      "D": "Allied offensive",
-      "answer": "C",
-      "funFact": "The Battle of the Bulge (December 1944) was Germany's last major offensive in the West. It initially succeeded but was eventually defeated."
+        "question": "What was the Battle of the Bulge?",
+        "A": "Germany's last major offensive",
+        "B": "December 1944",
+        "C": "Neither A nor B",
+        "D": "Allied offensive",
+        "answer": "A",
+        "funFact": "The Battle of the Bulge (December 1944) was Germany's last major offensive in the West. It initially succeeded but was eventually defeated."
     },
     {
-      "question": "What was V-E Day?",
-      "A": "Victory in Europe Day",
-      "B": "May 8, 1945",
-      "C": "Both A and B",
-      "D": "Victory in Japan Day",
-      "answer": "C",
-      "funFact": "V-E Day (Victory in Europe Day) was May 8, 1945, when Germany surrendered, ending the war in Europe."
+        "question": "What was V-E Day?",
+        "A": "Victory in Europe Day",
+        "B": "May 8, 1945",
+        "C": "Neither A nor B",
+        "D": "Victory in Japan Day",
+        "answer": "A",
+        "funFact": "V-E Day (Victory in Europe Day) was May 8, 1945, when Germany surrendered, ending the war in Europe."
     },
     {
-      "question": "What was V-J Day?",
-      "A": "Victory in Japan Day",
-      "B": "September 2, 1945",
-      "C": "Both A and B",
-      "D": "Victory in Europe Day",
-      "answer": "C",
-      "funFact": "V-J Day (Victory in Japan Day) was September 2, 1945, when Japan surrendered, ending World War II."
+        "question": "What was V-J Day?",
+        "A": "Victory in Japan Day",
+        "B": "September 2, 1945",
+        "C": "Neither A nor B",
+        "D": "Victory in Europe Day",
+        "answer": "A",
+        "funFact": "V-J Day (Victory in Japan Day) was September 2, 1945, when Japan surrendered, ending World War II."
     },
     {
-      "question": "What was the Holocaust timeline?",
-      "A": "1933-1945",
-      "B": "Systematic murder of Jews",
-      "C": "Both A and B",
-      "D": "Short period",
-      "answer": "C",
-      "funFact": "The Holocaust occurred from 1933 to 1945, with the systematic murder of 6 million Jews and millions of others by Nazi Germany."
+        "question": "What was the Holocaust timeline?",
+        "A": "1933-1945",
+        "B": "Systematic murder of Jews",
+        "C": "Neither A nor B",
+        "D": "Short period",
+        "answer": "A",
+        "funFact": "The Holocaust occurred from 1933 to 1945, with the systematic murder of 6 million Jews and millions of others by Nazi Germany."
     },
     {
-      "question": "What was the atomic bomb timeline?",
-      "A": "August 1945",
-      "B": "Hiroshima and Nagasaki",
-      "C": "Both A and B",
-      "D": "1944",
-      "answer": "C",
-      "funFact": "Atomic bombs were dropped on Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945), leading to Japan's surrender."
+        "question": "What was the atomic bomb timeline?",
+        "A": "August 1945",
+        "B": "Hiroshima and Nagasaki",
+        "C": "Neither A nor B",
+        "D": "1944",
+        "answer": "A",
+        "funFact": "Atomic bombs were dropped on Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945), leading to Japan's surrender."
     },
     {
-      "question": "What was the overall timeline?",
-      "A": "1939-1945",
-      "B": "6 years of war",
-      "C": "Both A and B",
-      "D": "4 years",
-      "answer": "C",
-      "funFact": "World War II lasted from 1939 to 1945, 6 years of devastating war that changed the world forever."
+        "question": "What was the overall timeline?",
+        "A": "1939-1945",
+        "B": "6 years of war",
+        "C": "Neither A nor B",
+        "D": "4 years",
+        "answer": "A",
+        "funFact": "World War II lasted from 1939 to 1945, 6 years of devastating war that changed the world forever."
     }
 ]
-

@@ -40,8 +40,8 @@
         "A": "Disease",
         "B": "Asteroid impact",
         "C": "Volcanoes",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "The dinosaur extinction was likely caused by an asteroid impact combined with volcanic activity and climate change."
     },
     {

@@ -1,93 +1,92 @@
 [
     {
-      "question": "In which year did the American Civil War begin?",
-      "A": "1859",
-      "B": "1861",
-      "C": "1863",
-      "D": "1865",
-      "answer": "B",
-      "funFact": "The American Civil War began on April 12, 1861, when Confederate forces fired on Fort Sumter in South Carolina, marking the start of four years of conflict."
+        "question": "In which year did the American Civil War begin?",
+        "A": "1859",
+        "B": "1861",
+        "C": "1863",
+        "D": "1865",
+        "answer": "B",
+        "funFact": "The American Civil War began on April 12, 1861, when Confederate forces fired on Fort Sumter in South Carolina, marking the start of four years of conflict."
     },
     {
-      "question": "Who was the President of the United States during the Civil War?",
-      "A": "Jefferson Davis",
-      "B": "Abraham Lincoln",
-      "C": "Andrew Johnson",
-      "D": "Ulysses S. Grant",
-      "answer": "B",
-      "funFact": "Abraham Lincoln was President of the United States during the Civil War (1861-1865) and issued the Emancipation Proclamation, which declared slaves in Confederate states free."
+        "question": "Who was the President of the United States during the Civil War?",
+        "A": "Jefferson Davis",
+        "B": "Abraham Lincoln",
+        "C": "Andrew Johnson",
+        "D": "Ulysses S. Grant",
+        "answer": "B",
+        "funFact": "Abraham Lincoln was President of the United States during the Civil War (1861-1865) and issued the Emancipation Proclamation, which declared slaves in Confederate states free."
     },
     {
-      "question": "What was the main cause of the Civil War?",
-      "A": "Economic differences",
-      "B": "Slavery",
-      "C": "States' rights",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "The Civil War was caused by a complex combination of factors, primarily slavery, but also states' rights, economic differences between North and South, and political tensions."
+        "question": "What was the main cause of the Civil War?",
+        "A": "Economic differences",
+        "B": "Slavery",
+        "C": "States' rights",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "The Civil War was caused by a complex combination of factors, primarily slavery, but also states' rights, economic differences between North and South, and political tensions."
     },
     {
-      "question": "Which battle is considered the turning point of the Civil War?",
-      "A": "Battle of Antietam",
-      "B": "Battle of Gettysburg",
-      "C": "Battle of Vicksburg",
-      "D": "Battle of Bull Run",
-      "answer": "B",
-      "funFact": "The Battle of Gettysburg (July 1-3, 1863) is considered the turning point of the Civil War, as it was the last major Confederate offensive into the North and resulted in a Union victory."
+        "question": "Which battle is considered the turning point of the Civil War?",
+        "A": "Battle of Antietam",
+        "B": "Battle of Gettysburg",
+        "C": "Battle of Vicksburg",
+        "D": "Battle of Bull Run",
+        "answer": "B",
+        "funFact": "The Battle of Gettysburg (July 1-3, 1863) is considered the turning point of the Civil War, as it was the last major Confederate offensive into the North and resulted in a Union victory."
     },
     {
-      "question": "What was the name of the Confederate general who surrendered at Appomattox?",
-      "A": "Stonewall Jackson",
-      "B": "Robert E. Lee",
-      "C": "J.E.B. Stuart",
-      "D": "James Longstreet",
-      "answer": "B",
-      "funFact": "General Robert E. Lee surrendered the Army of Northern Virginia to Union General Ulysses S. Grant at Appomattox Court House on April 9, 1865, effectively ending the Civil War."
+        "question": "What was the name of the Confederate general who surrendered at Appomattox?",
+        "A": "Stonewall Jackson",
+        "B": "Robert E. Lee",
+        "C": "J.E.B. Stuart",
+        "D": "James Longstreet",
+        "answer": "B",
+        "funFact": "General Robert E. Lee surrendered the Army of Northern Virginia to Union General Ulysses S. Grant at Appomattox Court House on April 9, 1865, effectively ending the Civil War."
     },
     {
-      "question": "How many states seceded from the Union?",
-      "A": "9",
-      "B": "11",
-      "C": "13",
-      "D": "15",
-      "answer": "B",
-      "funFact": "Eleven states seceded from the Union to form the Confederate States of America: South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, North Carolina, and Tennessee."
+        "question": "How many states seceded from the Union?",
+        "A": "9",
+        "B": "11",
+        "C": "13",
+        "D": "15",
+        "answer": "B",
+        "funFact": "Eleven states seceded from the Union to form the Confederate States of America: South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, North Carolina, and Tennessee."
     },
     {
-      "question": "What was the name of the Union general who later became President?",
-      "A": "William T. Sherman",
-      "B": "George McClellan",
-      "C": "Ulysses S. Grant",
-      "D": "George Meade",
-      "answer": "C",
-      "funFact": "Ulysses S. Grant, the leading Union general during the Civil War, was elected President of the United States in 1868 and served two terms."
+        "question": "What was the name of the Union general who later became President?",
+        "A": "William T. Sherman",
+        "B": "George McClellan",
+        "C": "Ulysses S. Grant",
+        "D": "George Meade",
+        "answer": "C",
+        "funFact": "Ulysses S. Grant, the leading Union general during the Civil War, was elected President of the United States in 1868 and served two terms."
     },
     {
-      "question": "What document declared slaves in Confederate states to be free?",
-      "A": "The Constitution",
-      "B": "The Emancipation Proclamation",
-      "C": "The Gettysburg Address",
-      "D": "The Declaration of Independence",
-      "answer": "B",
-      "funFact": "The Emancipation Proclamation, issued by President Lincoln on January 1, 1863, declared that all slaves in Confederate states were free, though it didn't immediately free all slaves."
+        "question": "What document declared slaves in Confederate states to be free?",
+        "A": "The Constitution",
+        "B": "The Emancipation Proclamation",
+        "C": "The Gettysburg Address",
+        "D": "The Declaration of Independence",
+        "answer": "B",
+        "funFact": "The Emancipation Proclamation, issued by President Lincoln on January 1, 1863, declared that all slaves in Confederate states were free, though it didn't immediately free all slaves."
     },
     {
-      "question": "Which battle was the bloodiest single day of the Civil War?",
-      "A": "Battle of Gettysburg",
-      "B": "Battle of Antietam",
-      "C": "Battle of Shiloh",
-      "D": "Battle of Chancellorsville",
-      "answer": "B",
-      "funFact": "The Battle of Antietam (September 17, 1862) was the bloodiest single day of the Civil War, with approximately 23,000 casualties in one day."
+        "question": "Which battle was the bloodiest single day of the Civil War?",
+        "A": "Battle of Gettysburg",
+        "B": "Battle of Antietam",
+        "C": "Battle of Shiloh",
+        "D": "Battle of Chancellorsville",
+        "answer": "B",
+        "funFact": "The Battle of Antietam (September 17, 1862) was the bloodiest single day of the Civil War, with approximately 23,000 casualties in one day."
     },
     {
-      "question": "In which year did the Civil War end?",
-      "A": "1863",
-      "B": "1864",
-      "C": "1865",
-      "D": "1866",
-      "answer": "C",
-      "funFact": "The Civil War ended in 1865, with Lee's surrender at Appomattox on April 9, though the last Confederate forces didn't surrender until June 23, 1865."
+        "question": "In which year did the Civil War end?",
+        "A": "1863",
+        "B": "1864",
+        "C": "1865",
+        "D": "1866",
+        "answer": "C",
+        "funFact": "The Civil War ended in 1865, with Lee's surrender at Appomattox on April 9, though the last Confederate forces didn't surrender until June 23, 1865."
     }
 ]
-

@@ -1,183 +1,182 @@
 [
     {
-      "question": "What was the Roman language?",
-      "A": "Latin",
-      "B": "Influenced many languages",
-      "C": "Both A and B",
-      "D": "Greek",
-      "answer": "C",
-      "funFact": "Latin was the language of the Roman Empire and influenced many modern languages, including English, Spanish, French, and Italian."
+        "question": "What was the Roman language?",
+        "A": "Latin",
+        "B": "Influenced many languages",
+        "C": "Neither A nor B",
+        "D": "Greek",
+        "answer": "A",
+        "funFact": "Latin was the language of the Roman Empire and influenced many modern languages, including English, Spanish, French, and Italian."
     },
     {
-      "question": "What was Roman literature?",
-      "A": "Influential",
-      "B": "Included poetry and history",
-      "C": "Both A and B",
-      "D": "Nonexistent",
-      "answer": "C",
-      "funFact": "Roman literature was highly influential and included poetry (Virgil, Ovid), history (Livy, Tacitus), and philosophy (Cicero, Seneca)."
+        "question": "What was Roman literature?",
+        "A": "Influential",
+        "B": "Included poetry and history",
+        "C": "Neither A nor B",
+        "D": "Nonexistent",
+        "answer": "A",
+        "funFact": "Roman literature was highly influential and included poetry (Virgil, Ovid), history (Livy, Tacitus), and philosophy (Cicero, Seneca)."
     },
     {
-      "question": "Who wrote the Aeneid?",
-      "A": "Virgil",
-      "B": "Ovid",
-      "C": "Horace",
-      "D": "Catullus",
-      "answer": "A",
-      "funFact": "Virgil wrote the Aeneid, an epic poem about Aeneas's journey from Troy to Italy. It's considered one of the greatest works of Latin literature."
+        "question": "Who wrote the Aeneid?",
+        "A": "Virgil",
+        "B": "Ovid",
+        "C": "Horace",
+        "D": "Catullus",
+        "answer": "A",
+        "funFact": "Virgil wrote the Aeneid, an epic poem about Aeneas's journey from Troy to Italy. It's considered one of the greatest works of Latin literature."
     },
     {
-      "question": "Who wrote the Metamorphoses?",
-      "A": "Virgil",
-      "B": "Ovid",
-      "C": "Horace",
-      "D": "Catullus",
-      "answer": "B",
-      "funFact": "Ovid wrote the Metamorphoses, a collection of mythological stories. He was exiled by Augustus and died in exile."
+        "question": "Who wrote the Metamorphoses?",
+        "A": "Virgil",
+        "B": "Ovid",
+        "C": "Horace",
+        "D": "Catullus",
+        "answer": "B",
+        "funFact": "Ovid wrote the Metamorphoses, a collection of mythological stories. He was exiled by Augustus and died in exile."
     },
     {
-      "question": "What was Roman art?",
-      "A": "Influenced by Greek art",
-      "B": "Included sculpture and painting",
-      "C": "Both A and B",
-      "D": "Original",
-      "answer": "C",
-      "funFact": "Roman art was influenced by Greek art but developed its own style. It included sculpture, painting, mosaics, and architecture."
+        "question": "What was Roman art?",
+        "A": "Influenced by Greek art",
+        "B": "Included sculpture and painting",
+        "C": "Neither A nor B",
+        "D": "Original",
+        "answer": "A",
+        "funFact": "Roman art was influenced by Greek art but developed its own style. It included sculpture, painting, mosaics, and architecture."
     },
     {
-      "question": "What was Roman architecture?",
-      "A": "Influential",
-      "B": "Used arches and domes",
-      "C": "Both A and B",
-      "D": "Primitive",
-      "answer": "C",
-      "funFact": "Roman architecture was highly influential and used arches, domes, and concrete. Many Roman buildings still stand today."
+        "question": "What was Roman architecture?",
+        "A": "Influential",
+        "B": "Used arches and domes",
+        "C": "Neither A nor B",
+        "D": "Primitive",
+        "answer": "A",
+        "funFact": "Roman architecture was highly influential and used arches, domes, and concrete. Many Roman buildings still stand today."
     },
     {
-      "question": "What was the Pantheon?",
-      "A": "A temple in Rome",
-      "B": "Has a famous dome",
-      "C": "Both A and B",
-      "D": "A theater",
-      "answer": "C",
-      "funFact": "The Pantheon in Rome is a temple with a famous dome. It was rebuilt by Hadrian and is one of the best-preserved Roman buildings."
+        "question": "What was the Pantheon?",
+        "A": "A temple in Rome",
+        "B": "Has a famous dome",
+        "C": "Neither A nor B",
+        "D": "A theater",
+        "answer": "A",
+        "funFact": "The Pantheon in Rome is a temple with a famous dome. It was rebuilt by Hadrian and is one of the best-preserved Roman buildings."
     },
     {
-      "question": "What was Roman entertainment?",
-      "A": "Gladiator fights",
-      "B": "Chariot races",
-      "C": "Theater",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Roman entertainment included gladiator fights, chariot races, theater, and public games. The Colosseum and Circus Maximus were major venues."
+        "question": "What was Roman entertainment?",
+        "A": "Gladiator fights",
+        "B": "Chariot races",
+        "C": "Theater",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Roman entertainment included gladiator fights, chariot races, theater, and public games. The Colosseum and Circus Maximus were major venues."
     },
     {
-      "question": "What was the Colosseum?",
-      "A": "A gladiatorial arena",
-      "B": "Built in Rome",
-      "C": "Both A and B",
-      "D": "A temple",
-      "answer": "C",
-      "funFact": "The Colosseum in Rome was a massive gladiatorial arena built in 70-80 AD. It could hold up to 80,000 spectators and hosted gladiator fights and other events."
+        "question": "What was the Colosseum?",
+        "A": "A gladiatorial arena",
+        "B": "Built in Rome",
+        "C": "Neither A nor B",
+        "D": "A temple",
+        "answer": "A",
+        "funFact": "The Colosseum in Rome was a massive gladiatorial arena built in 70-80 AD. It could hold up to 80,000 spectators and hosted gladiator fights and other events."
     },
     {
-      "question": "What was the Circus Maximus?",
-      "A": "A chariot racing track",
-      "B": "Could hold 250,000 people",
-      "C": "Both A and B",
-      "D": "A theater",
-      "answer": "C",
-      "funFact": "The Circus Maximus was a chariot racing track in Rome that could hold up to 250,000 people. It was the largest entertainment venue in the ancient world."
+        "question": "What was the Circus Maximus?",
+        "A": "A chariot racing track",
+        "B": "Could hold 250,000 people",
+        "C": "Neither A nor B",
+        "D": "A theater",
+        "answer": "A",
+        "funFact": "The Circus Maximus was a chariot racing track in Rome that could hold up to 250,000 people. It was the largest entertainment venue in the ancient world."
     },
     {
-      "question": "What was Roman religion?",
-      "A": "Polytheistic",
-      "B": "Many gods",
-      "C": "Both A and B",
-      "D": "Monotheistic",
-      "answer": "C",
-      "funFact": "Roman religion was polytheistic, with many gods. The Romans adopted gods from other cultures and had a complex religious system."
+        "question": "What was Roman religion?",
+        "A": "Polytheistic",
+        "B": "Many gods",
+        "C": "Neither A nor B",
+        "D": "Monotheistic",
+        "answer": "A",
+        "funFact": "Roman religion was polytheistic, with many gods. The Romans adopted gods from other cultures and had a complex religious system."
     },
     {
-      "question": "What was Roman philosophy?",
-      "A": "Influenced by Greek philosophy",
-      "B": "Included Stoicism and Epicureanism",
-      "C": "Both A and B",
-      "D": "Original",
-      "answer": "C",
-      "funFact": "Roman philosophy was influenced by Greek philosophy and included Stoicism (Marcus Aurelius, Seneca) and Epicureanism."
+        "question": "What was Roman philosophy?",
+        "A": "Influenced by Greek philosophy",
+        "B": "Included Stoicism and Epicureanism",
+        "C": "Neither A nor B",
+        "D": "Original",
+        "answer": "A",
+        "funFact": "Roman philosophy was influenced by Greek philosophy and included Stoicism (Marcus Aurelius, Seneca) and Epicureanism."
     },
     {
-      "question": "What was Roman education?",
-      "A": "For the wealthy",
-      "B": "Emphasized rhetoric and literature",
-      "C": "Both A and B",
-      "D": "For everyone",
-      "answer": "C",
-      "funFact": "Roman education was primarily for the wealthy and emphasized rhetoric, literature, and philosophy. Most common people received little formal education."
+        "question": "What was Roman education?",
+        "A": "For the wealthy",
+        "B": "Emphasized rhetoric and literature",
+        "C": "Neither A nor B",
+        "D": "For everyone",
+        "answer": "A",
+        "funFact": "Roman education was primarily for the wealthy and emphasized rhetoric, literature, and philosophy. Most common people received little formal education."
     },
     {
-      "question": "What was Roman food?",
-      "A": "Varied",
-      "B": "Included bread, wine, and olive oil",
-      "C": "Both A and B",
-      "D": "Simple",
-      "answer": "C",
-      "funFact": "Roman food varied by social class. Staples included bread, wine, and olive oil. The wealthy enjoyed elaborate banquets with exotic foods."
+        "question": "What was Roman food?",
+        "A": "Varied",
+        "B": "Included bread, wine, and olive oil",
+        "C": "Neither A nor B",
+        "D": "Simple",
+        "answer": "A",
+        "funFact": "Roman food varied by social class. Staples included bread, wine, and olive oil. The wealthy enjoyed elaborate banquets with exotic foods."
     },
     {
-      "question": "What was Roman clothing?",
-      "A": "Togas for citizens",
-      "B": "Tunics for common people",
-      "C": "Both A and B",
-      "D": "Uniform",
-      "answer": "C",
-      "funFact": "Roman clothing varied by class. Togas were worn by male citizens, while common people wore tunics. Clothing indicated social status."
+        "question": "What was Roman clothing?",
+        "A": "Togas for citizens",
+        "B": "Tunics for common people",
+        "C": "Neither A nor B",
+        "D": "Uniform",
+        "answer": "A",
+        "funFact": "Roman clothing varied by class. Togas were worn by male citizens, while common people wore tunics. Clothing indicated social status."
     },
     {
-      "question": "What was Roman social structure?",
-      "A": "Hierarchical",
-      "B": "Patricians and plebeians",
-      "C": "Both A and B",
-      "D": "Egalitarian",
-      "answer": "C",
-      "funFact": "Roman society was hierarchical, with patricians (nobles) at the top and plebeians (commoners) below. Slaves were at the bottom of society."
+        "question": "What was Roman social structure?",
+        "A": "Hierarchical",
+        "B": "Patricians and plebeians",
+        "C": "Neither A nor B",
+        "D": "Egalitarian",
+        "answer": "A",
+        "funFact": "Roman society was hierarchical, with patricians (nobles) at the top and plebeians (commoners) below. Slaves were at the bottom of society."
     },
     {
-      "question": "What was Roman law?",
-      "A": "Influenced modern law",
-      "B": "Based on written laws",
-      "C": "Both A and B",
-      "D": "Primitive",
-      "answer": "C",
-      "funFact": "The Roman legal system influenced modern law and was based on written laws. Concepts like 'innocent until proven guilty' originated in Roman law."
+        "question": "What was Roman law?",
+        "A": "Influenced modern law",
+        "B": "Based on written laws",
+        "C": "Neither A nor B",
+        "D": "Primitive",
+        "answer": "A",
+        "funFact": "The Roman legal system influenced modern law and was based on written laws. Concepts like 'innocent until proven guilty' originated in Roman law."
     },
     {
-      "question": "What was Roman engineering?",
-      "A": "Excellent",
-      "B": "Built aqueducts and roads",
-      "C": "Both A and B",
-      "D": "Poor",
-      "answer": "C",
-      "funFact": "Roman engineering was excellent. Romans built aqueducts, roads, bridges, and buildings that still stand today. Many techniques are still used."
+        "question": "What was Roman engineering?",
+        "A": "Excellent",
+        "B": "Built aqueducts and roads",
+        "C": "Neither A nor B",
+        "D": "Poor",
+        "answer": "A",
+        "funFact": "Roman engineering was excellent. Romans built aqueducts, roads, bridges, and buildings that still stand today. Many techniques are still used."
     },
     {
-      "question": "What was Roman influence on modern culture?",
-      "A": "Significant",
-      "B": "Language, law, architecture",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "Roman influence on modern culture is significant, including language, law, architecture, and government. Many aspects of Western culture have Roman roots."
+        "question": "What was Roman influence on modern culture?",
+        "A": "Significant",
+        "B": "Language, law, architecture",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "Roman influence on modern culture is significant, including language, law, architecture, and government. Many aspects of Western culture have Roman roots."
     },
     {
-      "question": "What was the Roman legacy?",
-      "A": "Enduring",
-      "B": "Shaped Western civilization",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The Roman legacy is enduring and has shaped Western civilization. Roman ideas, institutions, and culture continue to influence the modern world."
+        "question": "What was the Roman legacy?",
+        "A": "Enduring",
+        "B": "Shaped Western civilization",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The Roman legacy is enduring and has shaped Western civilization. Roman ideas, institutions, and culture continue to influence the modern world."
     }
 ]
-

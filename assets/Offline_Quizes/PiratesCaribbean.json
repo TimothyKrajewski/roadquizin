@@ -1,183 +1,182 @@
 [
     {
-      "question": "Why was the Caribbean a popular area for pirates?",
-      "A": "Many trade routes",
-      "B": "Spanish treasure ships",
-      "C": "Many islands to hide",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "The Caribbean was popular for pirates because of many trade routes, Spanish treasure ships, and numerous islands to hide and resupply."
+        "question": "Why was the Caribbean a popular area for pirates?",
+        "A": "Many trade routes",
+        "B": "Spanish treasure ships",
+        "C": "Many islands to hide",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "The Caribbean was popular for pirates because of many trade routes, Spanish treasure ships, and numerous islands to hide and resupply."
     },
     {
-      "question": "What was Port Royal?",
-      "A": "A pirate haven",
-      "B": "The 'wickedest city on Earth'",
-      "C": "Both A and B",
-      "D": "A Spanish port",
-      "answer": "C",
-      "funFact": "Port Royal, Jamaica, was a major pirate haven known as the 'wickedest city on Earth.' It was destroyed by an earthquake in 1692."
+        "question": "What was Port Royal?",
+        "A": "A pirate haven",
+        "B": "The 'wickedest city on Earth'",
+        "C": "Neither A nor B",
+        "D": "A Spanish port",
+        "answer": "A",
+        "funFact": "Port Royal, Jamaica, was a major pirate haven known as the 'wickedest city on Earth.' It was destroyed by an earthquake in 1692."
     },
     {
-      "question": "What was Tortuga?",
-      "A": "A pirate haven",
-      "B": "An island off Haiti",
-      "C": "Both A and B",
-      "D": "A Spanish port",
-      "answer": "C",
-      "funFact": "Tortuga (Turtle Island) was a pirate haven off the coast of Haiti. It was a major base for pirates attacking Spanish ships in the Caribbean."
+        "question": "What was Tortuga?",
+        "A": "A pirate haven",
+        "B": "An island off Haiti",
+        "C": "Neither A nor B",
+        "D": "A Spanish port",
+        "answer": "A",
+        "funFact": "Tortuga (Turtle Island) was a pirate haven off the coast of Haiti. It was a major base for pirates attacking Spanish ships in the Caribbean."
     },
     {
-      "question": "What was Nassau?",
-      "A": "A pirate republic",
-      "B": "The capital of the Bahamas",
-      "C": "Both A and B",
-      "D": "A Spanish port",
-      "answer": "C",
-      "funFact": "Nassau, Bahamas, was a pirate republic in the early 1700s. It was controlled by pirates until the British retook it in 1718."
+        "question": "What was Nassau?",
+        "A": "A pirate republic",
+        "B": "The capital of the Bahamas",
+        "C": "Neither A nor B",
+        "D": "A Spanish port",
+        "answer": "A",
+        "funFact": "Nassau, Bahamas, was a pirate republic in the early 1700s. It was controlled by pirates until the British retook it in 1718."
     },
     {
-      "question": "What was the Spanish Main?",
-      "A": "The Caribbean coast of South America",
-      "B": "A prime target for pirates",
-      "C": "Both A and B",
-      "D": "A Spanish port",
-      "answer": "C",
-      "funFact": "The Spanish Main was the Caribbean coast of South America, a prime target for pirates because of Spanish treasure ships and ports."
+        "question": "What was the Spanish Main?",
+        "A": "The Caribbean coast of South America",
+        "B": "A prime target for pirates",
+        "C": "Neither A nor B",
+        "D": "A Spanish port",
+        "answer": "A",
+        "funFact": "The Spanish Main was the Caribbean coast of South America, a prime target for pirates because of Spanish treasure ships and ports."
     },
     {
-      "question": "What was the Windward Passage?",
-      "A": "A shipping route",
-      "B": "Between Cuba and Haiti",
-      "C": "Both A and B",
-      "D": "A pirate port",
-      "answer": "C",
-      "funFact": "The Windward Passage between Cuba and Haiti was a major shipping route and a popular area for pirates to ambush ships."
+        "question": "What was the Windward Passage?",
+        "A": "A shipping route",
+        "B": "Between Cuba and Haiti",
+        "C": "Neither A nor B",
+        "D": "A pirate port",
+        "answer": "A",
+        "funFact": "The Windward Passage between Cuba and Haiti was a major shipping route and a popular area for pirates to ambush ships."
     },
     {
-      "question": "What was the Gulf of Mexico?",
-      "A": "Another pirate hunting ground",
-      "B": "Home to pirates like Jean Lafitte",
-      "C": "Both A and B",
-      "D": "A Spanish sea",
-      "answer": "C",
-      "funFact": "The Gulf of Mexico was another pirate hunting ground, home to pirates like Jean Lafitte who operated from bases in Louisiana and Texas."
+        "question": "What was the Gulf of Mexico?",
+        "A": "Another pirate hunting ground",
+        "B": "Home to pirates like Jean Lafitte",
+        "C": "Neither A nor B",
+        "D": "A Spanish sea",
+        "answer": "A",
+        "funFact": "The Gulf of Mexico was another pirate hunting ground, home to pirates like Jean Lafitte who operated from bases in Louisiana and Texas."
     },
     {
-      "question": "What was the Caribbean's climate?",
-      "A": "Tropical",
-      "B": "Hot and humid",
-      "C": "Both A and B",
-      "D": "Temperate",
-      "answer": "C",
-      "funFact": "The Caribbean's tropical climate was hot and humid, which contributed to disease and harsh living conditions for pirates."
+        "question": "What was the Caribbean's climate?",
+        "A": "Tropical",
+        "B": "Hot and humid",
+        "C": "Neither A nor B",
+        "D": "Temperate",
+        "answer": "A",
+        "funFact": "The Caribbean's tropical climate was hot and humid, which contributed to disease and harsh living conditions for pirates."
     },
     {
-      "question": "What was the Caribbean's geography?",
-      "A": "Many islands",
-      "B": "Good for hiding",
-      "C": "Both A and B",
-      "D": "Open ocean",
-      "answer": "C",
-      "funFact": "The Caribbean's many islands provided good hiding places for pirates. They could hide in coves and bays, making it hard for authorities to find them."
+        "question": "What was the Caribbean's geography?",
+        "A": "Many islands",
+        "B": "Good for hiding",
+        "C": "Neither A nor B",
+        "D": "Open ocean",
+        "answer": "A",
+        "funFact": "The Caribbean's many islands provided good hiding places for pirates. They could hide in coves and bays, making it hard for authorities to find them."
     },
     {
-      "question": "What was the Caribbean's trade?",
-      "A": "Very valuable",
-      "B": "Included sugar, spices, and treasure",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "Caribbean trade was very valuable, including sugar, spices, and treasure from the Americas. This made it a prime target for pirates."
+        "question": "What was the Caribbean's trade?",
+        "A": "Very valuable",
+        "B": "Included sugar, spices, and treasure",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "Caribbean trade was very valuable, including sugar, spices, and treasure from the Americas. This made it a prime target for pirates."
     },
     {
-      "question": "What was the Caribbean's Spanish presence?",
-      "A": "Strong",
-      "B": "Many colonies and ships",
-      "C": "Both A and B",
-      "D": "Weak",
-      "answer": "C",
-      "funFact": "The Spanish had a strong presence in the Caribbean with many colonies and ships. Pirates often targeted Spanish ships because they carried valuable cargo."
+        "question": "What was the Caribbean's Spanish presence?",
+        "A": "Strong",
+        "B": "Many colonies and ships",
+        "C": "Neither A nor B",
+        "D": "Weak",
+        "answer": "A",
+        "funFact": "The Spanish had a strong presence in the Caribbean with many colonies and ships. Pirates often targeted Spanish ships because they carried valuable cargo."
     },
     {
-      "question": "What was the Caribbean's British presence?",
-      "A": "Growing",
-      "B": "Competed with Spain",
-      "C": "Both A and B",
-      "D": "Nonexistent",
-      "answer": "C",
-      "funFact": "The British presence in the Caribbean was growing and competed with Spain. British privateers and pirates often targeted Spanish ships."
+        "question": "What was the Caribbean's British presence?",
+        "A": "Growing",
+        "B": "Competed with Spain",
+        "C": "Neither A nor B",
+        "D": "Nonexistent",
+        "answer": "A",
+        "funFact": "The British presence in the Caribbean was growing and competed with Spain. British privateers and pirates often targeted Spanish ships."
     },
     {
-      "question": "What was the Caribbean's French presence?",
-      "A": "Significant",
-      "B": "Had colonies and privateers",
-      "C": "Both A and B",
-      "D": "Nonexistent",
-      "answer": "C",
-      "funFact": "The French had a significant presence in the Caribbean with colonies and privateers. French pirates and privateers operated throughout the region."
+        "question": "What was the Caribbean's French presence?",
+        "A": "Significant",
+        "B": "Had colonies and privateers",
+        "C": "Neither A nor B",
+        "D": "Nonexistent",
+        "answer": "A",
+        "funFact": "The French had a significant presence in the Caribbean with colonies and privateers. French pirates and privateers operated throughout the region."
     },
     {
-      "question": "What was the Caribbean's Dutch presence?",
-      "A": "Small but active",
-      "B": "Had trading posts",
-      "C": "Both A and B",
-      "D": "Nonexistent",
-      "answer": "C",
-      "funFact": "The Dutch had a small but active presence in the Caribbean with trading posts. Dutch privateers and pirates also operated in the region."
+        "question": "What was the Caribbean's Dutch presence?",
+        "A": "Small but active",
+        "B": "Had trading posts",
+        "C": "Neither A nor B",
+        "D": "Nonexistent",
+        "answer": "A",
+        "funFact": "The Dutch had a small but active presence in the Caribbean with trading posts. Dutch privateers and pirates also operated in the region."
     },
     {
-      "question": "What was the Caribbean's end of piracy?",
-      "A": "Increased naval presence",
-      "B": "Better defenses",
-      "C": "Both A and B",
-      "D": "Pirates left voluntarily",
-      "answer": "C",
-      "funFact": "The end of Caribbean piracy came from increased naval presence and better defenses. European powers strengthened their navies and protected trade routes."
+        "question": "What was the Caribbean's end of piracy?",
+        "A": "Increased naval presence",
+        "B": "Better defenses",
+        "C": "Neither A nor B",
+        "D": "Pirates left voluntarily",
+        "answer": "A",
+        "funFact": "The end of Caribbean piracy came from increased naval presence and better defenses. European powers strengthened their navies and protected trade routes."
     },
     {
-      "question": "What was the Caribbean's legacy?",
-      "A": "Romanticized in fiction",
-      "B": "Home to famous pirates",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The Caribbean's legacy includes being romanticized in fiction and being home to many famous pirates. It's still associated with piracy in popular culture."
+        "question": "What was the Caribbean's legacy?",
+        "A": "Romanticized in fiction",
+        "B": "Home to famous pirates",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The Caribbean's legacy includes being romanticized in fiction and being home to many famous pirates. It's still associated with piracy in popular culture."
     },
     {
-      "question": "What was the Caribbean's modern tourism?",
-      "A": "Uses pirate themes",
-      "B": "Attracts visitors",
-      "C": "Both A and B",
-      "D": "Avoids pirate history",
-      "answer": "C",
-      "funFact": "Modern Caribbean tourism uses pirate themes to attract visitors. Many islands have pirate-themed attractions and festivals."
+        "question": "What was the Caribbean's modern tourism?",
+        "A": "Uses pirate themes",
+        "B": "Attracts visitors",
+        "C": "Neither A nor B",
+        "D": "Avoids pirate history",
+        "answer": "A",
+        "funFact": "Modern Caribbean tourism uses pirate themes to attract visitors. Many islands have pirate-themed attractions and festivals."
     },
     {
-      "question": "What was the Caribbean's archaeological sites?",
-      "A": "Several pirate shipwrecks found",
-      "B": "Treasure discovered",
-      "C": "Both A and B",
-      "D": "None found",
-      "answer": "C",
-      "funFact": "Several pirate shipwrecks have been found in the Caribbean, and treasure has been discovered. The Whydah is the most famous example."
+        "question": "What was the Caribbean's archaeological sites?",
+        "A": "Several pirate shipwrecks found",
+        "B": "Treasure discovered",
+        "C": "Neither A nor B",
+        "D": "None found",
+        "answer": "A",
+        "funFact": "Several pirate shipwrecks have been found in the Caribbean, and treasure has been discovered. The Whydah is the most famous example."
     },
     {
-      "question": "What was the Caribbean's impact on history?",
-      "A": "Significant",
-      "B": "Shaped trade and colonization",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "The Caribbean had a significant impact on history, shaping trade and colonization. Piracy in the region affected European powers and their colonies."
+        "question": "What was the Caribbean's impact on history?",
+        "A": "Significant",
+        "B": "Shaped trade and colonization",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "The Caribbean had a significant impact on history, shaping trade and colonization. Piracy in the region affected European powers and their colonies."
     },
     {
-      "question": "What is the Caribbean's current status?",
-      "A": "Popular tourist destination",
-      "B": "Still associated with pirates",
-      "C": "Both A and B",
-      "D": "Forgotten",
-      "answer": "C",
-      "funFact": "The Caribbean is now a popular tourist destination and is still associated with pirates in popular culture, though piracy is largely a thing of the past."
+        "question": "What is the Caribbean's current status?",
+        "A": "Popular tourist destination",
+        "B": "Still associated with pirates",
+        "C": "Neither A nor B",
+        "D": "Forgotten",
+        "answer": "A",
+        "funFact": "The Caribbean is now a popular tourist destination and is still associated with pirates in popular culture, though piracy is largely a thing of the past."
     }
 ]
-

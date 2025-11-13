@@ -22,8 +22,8 @@
         "A": "Rainforestology",
         "B": "Rainforest ecology",
         "C": "Tropical biology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through ecology, biology, and environmental science, exploring their incredible biodiversity."
     },
     {
@@ -40,8 +40,8 @@
         "A": "Rainforestology",
         "B": "Rainforest studies",
         "C": "Tropical ecology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through ecology, biology, and environmental science."
     },
     {
@@ -58,8 +58,8 @@
         "A": "Rainforestology",
         "B": "Rainforest geography",
         "C": "Environmental studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through geography, ecology, and environmental research."
     },
     {
@@ -76,8 +76,8 @@
         "A": "Rainforestology",
         "B": "Rainforest research",
         "C": "Tropical studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through ecology, biology, and tropical research, exploring their unique ecosystems."
     },
     {
@@ -94,8 +94,8 @@
         "A": "Rainforestology",
         "B": "Rainforest studies",
         "C": "Biodiversity research",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through ecology, biology, and biodiversity research."
     },
     {
@@ -112,8 +112,8 @@
         "A": "Rainforestology",
         "B": "Rainforest geography",
         "C": "Conservation biology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through geography, ecology, and conservation biology."
     },
     {
@@ -130,8 +130,8 @@
         "A": "Rainforestology",
         "B": "Rainforest research",
         "C": "Geographic studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through geography, ecology, and environmental science."
     },
     {
@@ -148,8 +148,8 @@
         "A": "Rainforestology",
         "B": "Rainforest studies",
         "C": "Tropical ecology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through ecology, biology, and tropical research, understanding their importance and threats."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Rainforestology",
         "B": "Rainforest geography",
         "C": "Environmental studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through geography, ecology, and environmental science, exploring their ecosystems and conservation."
     },
     {
@@ -184,8 +184,8 @@
         "A": "Rainforestology",
         "B": "Rainforest research",
         "C": "Tropical studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Rainforests are studied through ecology, biology, and tropical research, understanding their unique ecosystems and importance."
     }
 ]

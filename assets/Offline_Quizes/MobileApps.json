@@ -49,8 +49,8 @@
         "A": "Appology",
         "B": "Mobile development",
         "C": "App engineering",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mobile app development involves programming, design, and user experience to create software for mobile devices."
     },
     {
@@ -121,8 +121,8 @@
         "A": "Appology",
         "B": "Mobile application development",
         "C": "App engineering",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mobile app development combines software engineering, user interface design, and platform-specific knowledge."
     },
     {
@@ -166,8 +166,8 @@
         "A": "Appology",
         "B": "Mobile computing",
         "C": "App science",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Mobile app development involves computer science, software engineering, and user experience design."
     },
     {

@@ -1,93 +1,92 @@
 [
     {
-      "question": "What does CPU stand for?",
-      "A": "Central Processing Unit",
-      "B": "Computer Processing Unit",
-      "C": "Central Program Unit",
-      "D": "Computer Program Unit",
-      "answer": "A",
-      "funFact": "CPU stands for Central Processing Unit, the primary component of a computer that performs most of the processing inside the computer."
+        "question": "What does CPU stand for?",
+        "A": "Central Processing Unit",
+        "B": "Computer Processing Unit",
+        "C": "Central Program Unit",
+        "D": "Computer Program Unit",
+        "answer": "A",
+        "funFact": "CPU stands for Central Processing Unit, the primary component of a computer that performs most of the processing inside the computer."
     },
     {
-      "question": "What year was the first iPhone released?",
-      "A": "2005",
-      "B": "2007",
-      "C": "2009",
-      "D": "2011",
-      "answer": "B",
-      "funFact": "The first iPhone was released by Apple on June 29, 2007, revolutionizing the smartphone industry and mobile computing."
+        "question": "What year was the first iPhone released?",
+        "A": "2005",
+        "B": "2007",
+        "C": "2009",
+        "D": "2011",
+        "answer": "B",
+        "funFact": "The first iPhone was released by Apple on June 29, 2007, revolutionizing the smartphone industry and mobile computing."
     },
     {
-      "question": "What does HTML stand for?",
-      "A": "HyperText Markup Language",
-      "B": "High Tech Modern Language",
-      "C": "HyperText Modern Language",
-      "D": "High Tech Markup Language",
-      "answer": "A",
-      "funFact": "HTML stands for HyperText Markup Language, the standard markup language used to create web pages and web applications."
+        "question": "What does HTML stand for?",
+        "A": "HyperText Markup Language",
+        "B": "High Tech Modern Language",
+        "C": "HyperText Modern Language",
+        "D": "High Tech Markup Language",
+        "answer": "A",
+        "funFact": "HTML stands for HyperText Markup Language, the standard markup language used to create web pages and web applications."
     },
     {
-      "question": "What is the name of Google's mobile operating system?",
-      "A": "iOS",
-      "B": "Android",
-      "C": "Windows Mobile",
-      "D": "BlackBerry OS",
-      "answer": "B",
-      "funFact": "Android is Google's mobile operating system, first released in 2008, and is now the most widely used mobile OS in the world."
+        "question": "What is the name of Google's mobile operating system?",
+        "A": "iOS",
+        "B": "Android",
+        "C": "Windows Mobile",
+        "D": "BlackBerry OS",
+        "answer": "B",
+        "funFact": "Android is Google's mobile operating system, first released in 2008, and is now the most widely used mobile OS in the world."
     },
     {
-      "question": "What does URL stand for?",
-      "A": "Uniform Resource Locator",
-      "B": "Universal Resource Link",
-      "C": "Uniform Resource Link",
-      "D": "Universal Resource Locator",
-      "answer": "A",
-      "funFact": "URL stands for Uniform Resource Locator, the address used to access resources on the internet, such as web pages."
+        "question": "What does URL stand for?",
+        "A": "Uniform Resource Locator",
+        "B": "Universal Resource Link",
+        "C": "Uniform Resource Link",
+        "D": "Universal Resource Locator",
+        "answer": "A",
+        "funFact": "URL stands for Uniform Resource Locator, the address used to access resources on the internet, such as web pages."
     },
     {
-      "question": "What is the name of the first computer?",
-      "A": "ENIAC",
-      "B": "UNIVAC",
-      "C": "Both A and B are considered",
-      "D": "IBM 701",
-      "answer": "C",
-      "funFact": "ENIAC (1946) is often considered the first general-purpose electronic computer, while UNIVAC (1951) was the first commercial computer. Both are significant milestones."
+        "question": "What is the name of the first computer?",
+        "A": "ENIAC",
+        "B": "UNIVAC",
+        "C": "Neither A nor B",
+        "D": "IBM 701",
+        "answer": "A",
+        "funFact": "ENIAC (1946) is often considered the first general-purpose electronic computer, while UNIVAC (1951) was the first commercial computer. Both are significant milestones."
     },
     {
-      "question": "What does Wi-Fi stand for?",
-      "A": "Wireless Fidelity",
-      "B": "Wide Frequency",
-      "C": "Wireless Frequency",
-      "D": "It doesn't stand for anything",
-      "answer": "D",
-      "funFact": "Wi-Fi doesn't actually stand for anything. It's a brand name created by the Wi-Fi Alliance, though it's often mistakenly thought to mean 'Wireless Fidelity.'"
+        "question": "What does Wi-Fi stand for?",
+        "A": "Wireless Fidelity",
+        "B": "Wide Frequency",
+        "C": "Wireless Frequency",
+        "D": "It doesn't stand for anything",
+        "answer": "D",
+        "funFact": "Wi-Fi doesn't actually stand for anything. It's a brand name created by the Wi-Fi Alliance, though it's often mistakenly thought to mean 'Wireless Fidelity.'"
     },
     {
-      "question": "What is the name of the first video game?",
-      "A": "Pong",
-      "B": "Spacewar!",
-      "C": "Tennis for Two",
-      "D": "Both B and C",
-      "answer": "D",
-      "funFact": "'Tennis for Two' (1958) and 'Spacewar!' (1962) are both considered early video games, with 'Tennis for Two' being the first interactive electronic game."
+        "question": "What is the name of the first video game?",
+        "A": "Pong",
+        "B": "Spacewar!",
+        "C": "Tennis for Two",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "'Tennis for Two' (1958) and 'Spacewar!' (1962) are both considered early video games, with 'Tennis for Two' being the first interactive electronic game."
     },
     {
-      "question": "What does RAM stand for?",
-      "A": "Random Access Memory",
-      "B": "Read Access Memory",
-      "C": "Random Available Memory",
-      "D": "Read Available Memory",
-      "answer": "A",
-      "funFact": "RAM stands for Random Access Memory, the computer's short-term memory that stores data temporarily while the computer is running."
+        "question": "What does RAM stand for?",
+        "A": "Random Access Memory",
+        "B": "Read Access Memory",
+        "C": "Random Available Memory",
+        "D": "Read Available Memory",
+        "answer": "A",
+        "funFact": "RAM stands for Random Access Memory, the computer's short-term memory that stores data temporarily while the computer is running."
     },
     {
-      "question": "Who is credited with inventing the World Wide Web?",
-      "A": "Bill Gates",
-      "B": "Steve Jobs",
-      "C": "Tim Berners-Lee",
-      "D": "Mark Zuckerberg",
-      "answer": "C",
-      "funFact": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN, creating the first web browser and web server."
+        "question": "Who is credited with inventing the World Wide Web?",
+        "A": "Bill Gates",
+        "B": "Steve Jobs",
+        "C": "Tim Berners-Lee",
+        "D": "Mark Zuckerberg",
+        "answer": "C",
+        "funFact": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN, creating the first web browser and web server."
     }
 ]
-

@@ -49,8 +49,8 @@
         "A": "Cryptocurrencyology",
         "B": "Cryptocurrency",
         "C": "Blockchain technology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Cryptocurrency is studied through blockchain technology, cryptography, and digital finance research."
     },
     {
@@ -94,8 +94,8 @@
         "A": "Cryptocurrencyology",
         "B": "Blockchain studies",
         "C": "Digital finance",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Cryptocurrency involves blockchain technology, cryptography, economics, and digital finance."
     },
     {
@@ -139,8 +139,8 @@
         "A": "Cryptocurrencyology",
         "B": "Cryptocurrency research",
         "C": "Blockchain technology",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Cryptocurrency is studied through blockchain technology, cryptography, economics, and digital finance."
     },
     {

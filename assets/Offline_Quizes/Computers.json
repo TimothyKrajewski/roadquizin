@@ -1,93 +1,92 @@
 [
     {
-      "question": "What does CPU stand for?",
-      "A": "Central Processing Unit",
-      "B": "Computer Processing Unit",
-      "C": "Central Program Unit",
-      "D": "Computer Program Unit",
-      "answer": "A",
-      "funFact": "CPU stands for Central Processing Unit, the primary component of a computer that performs most of the processing inside the computer."
+        "question": "What does CPU stand for?",
+        "A": "Central Processing Unit",
+        "B": "Computer Processing Unit",
+        "C": "Central Program Unit",
+        "D": "Computer Program Unit",
+        "answer": "A",
+        "funFact": "CPU stands for Central Processing Unit, the primary component of a computer that performs most of the processing inside the computer."
     },
     {
-      "question": "What does RAM stand for?",
-      "A": "Random Access Memory",
-      "B": "Read Access Memory",
-      "C": "Random Available Memory",
-      "D": "Read Available Memory",
-      "answer": "A",
-      "funFact": "RAM stands for Random Access Memory, the computer's short-term memory that stores data temporarily while the computer is running."
+        "question": "What does RAM stand for?",
+        "A": "Random Access Memory",
+        "B": "Read Access Memory",
+        "C": "Random Available Memory",
+        "D": "Read Available Memory",
+        "answer": "A",
+        "funFact": "RAM stands for Random Access Memory, the computer's short-term memory that stores data temporarily while the computer is running."
     },
     {
-      "question": "What was the name of the first computer?",
-      "A": "ENIAC",
-      "B": "UNIVAC",
-      "C": "Both A and B are considered",
-      "D": "IBM 701",
-      "answer": "C",
-      "funFact": "ENIAC (1946) is often considered the first general-purpose electronic computer, while UNIVAC (1951) was the first commercial computer. Both are significant milestones."
+        "question": "What was the name of the first computer?",
+        "A": "ENIAC",
+        "B": "UNIVAC",
+        "C": "Neither A nor B",
+        "D": "IBM 701",
+        "answer": "A",
+        "funFact": "ENIAC (1946) is often considered the first general-purpose electronic computer, while UNIVAC (1951) was the first commercial computer. Both are significant milestones."
     },
     {
-      "question": "What does HTML stand for?",
-      "A": "HyperText Markup Language",
-      "B": "High Tech Modern Language",
-      "C": "HyperText Modern Language",
-      "D": "High Tech Markup Language",
-      "answer": "A",
-      "funFact": "HTML stands for HyperText Markup Language, the standard markup language used to create web pages and web applications."
+        "question": "What does HTML stand for?",
+        "A": "HyperText Markup Language",
+        "B": "High Tech Modern Language",
+        "C": "HyperText Modern Language",
+        "D": "High Tech Markup Language",
+        "answer": "A",
+        "funFact": "HTML stands for HyperText Markup Language, the standard markup language used to create web pages and web applications."
     },
     {
-      "question": "What does USB stand for?",
-      "A": "Universal Serial Bus",
-      "B": "United System Bus",
-      "C": "Universal System Bus",
-      "D": "United Serial Bus",
-      "answer": "A",
-      "funFact": "USB stands for Universal Serial Bus, a standard interface for connecting devices to computers. It was introduced in 1996 and has become ubiquitous."
+        "question": "What does USB stand for?",
+        "A": "Universal Serial Bus",
+        "B": "United System Bus",
+        "C": "Universal System Bus",
+        "D": "United Serial Bus",
+        "answer": "A",
+        "funFact": "USB stands for Universal Serial Bus, a standard interface for connecting devices to computers. It was introduced in 1996 and has become ubiquitous."
     },
     {
-      "question": "What is the name of Apple's operating system?",
-      "A": "Windows",
-      "B": "Linux",
-      "C": "macOS",
-      "D": "Android",
-      "answer": "C",
-      "funFact": "macOS (formerly Mac OS X) is Apple's operating system for Mac computers. It's known for its user-friendly interface and integration with Apple devices."
+        "question": "What is the name of Apple's operating system?",
+        "A": "Windows",
+        "B": "Linux",
+        "C": "macOS",
+        "D": "Android",
+        "answer": "C",
+        "funFact": "macOS (formerly Mac OS X) is Apple's operating system for Mac computers. It's known for its user-friendly interface and integration with Apple devices."
     },
     {
-      "question": "What is a computer virus?",
-      "A": "A type of hardware",
-      "B": "Malicious software",
-      "C": "A type of processor",
-      "D": "A storage device",
-      "answer": "B",
-      "funFact": "A computer virus is malicious software that can replicate itself and spread to other computers, often causing damage or stealing information."
+        "question": "What is a computer virus?",
+        "A": "A type of hardware",
+        "B": "Malicious software",
+        "C": "A type of processor",
+        "D": "A storage device",
+        "answer": "B",
+        "funFact": "A computer virus is malicious software that can replicate itself and spread to other computers, often causing damage or stealing information."
     },
     {
-      "question": "What does WWW stand for?",
-      "A": "World Wide Web",
-      "B": "Wide World Web",
-      "C": "World Web Wide",
-      "D": "Web World Wide",
-      "answer": "A",
-      "funFact": "WWW stands for World Wide Web, the system of interconnected documents and resources accessed via the Internet using web browsers."
+        "question": "What does WWW stand for?",
+        "A": "World Wide Web",
+        "B": "Wide World Web",
+        "C": "World Web Wide",
+        "D": "Web World Wide",
+        "answer": "A",
+        "funFact": "WWW stands for World Wide Web, the system of interconnected documents and resources accessed via the Internet using web browsers."
     },
     {
-      "question": "What is the name of the first video game?",
-      "A": "Pong",
-      "B": "Spacewar!",
-      "C": "Tennis for Two",
-      "D": "Both B and C",
-      "answer": "D",
-      "funFact": "'Tennis for Two' (1958) and 'Spacewar!' (1962) are both considered early video games, with 'Tennis for Two' being the first interactive electronic game."
+        "question": "What is the name of the first video game?",
+        "A": "Pong",
+        "B": "Spacewar!",
+        "C": "Tennis for Two",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "'Tennis for Two' (1958) and 'Spacewar!' (1962) are both considered early video games, with 'Tennis for Two' being the first interactive electronic game."
     },
     {
-      "question": "What does GUI stand for?",
-      "A": "Graphical User Interface",
-      "B": "General User Interface",
-      "C": "Graphical Unit Interface",
-      "D": "General Unit Interface",
-      "answer": "A",
-      "funFact": "GUI stands for Graphical User Interface, which allows users to interact with computers using visual elements like icons, windows, and menus instead of text commands."
+        "question": "What does GUI stand for?",
+        "A": "Graphical User Interface",
+        "B": "General User Interface",
+        "C": "Graphical Unit Interface",
+        "D": "General Unit Interface",
+        "answer": "A",
+        "funFact": "GUI stands for Graphical User Interface, which allows users to interact with computers using visual elements like icons, windows, and menus instead of text commands."
     }
 ]
-

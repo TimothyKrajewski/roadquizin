@@ -1,93 +1,92 @@
 [
     {
-      "question": "What are the three primary colors?",
-      "A": "Red, green, blue",
-      "B": "Red, yellow, blue",
-      "C": "Cyan, magenta, yellow",
-      "D": "All of the above are correct in different contexts",
-      "answer": "D",
-      "funFact": "Primary colors depend on the color model: red, yellow, blue for pigments (subtractive); red, green, blue for light (additive/RGB); cyan, magenta, yellow for printing (CMYK)."
+        "question": "What are the three primary colors?",
+        "A": "Red, green, blue",
+        "B": "Red, yellow, blue",
+        "C": "Cyan, magenta, yellow",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Primary colors depend on the color model: red, yellow, blue for pigments (subtractive); red, green, blue for light (additive/RGB); cyan, magenta, yellow for printing (CMYK)."
     },
     {
-      "question": "What color do you get when you mix red and blue?",
-      "A": "Green",
-      "B": "Purple",
-      "C": "Orange",
-      "D": "Brown",
-      "answer": "B",
-      "funFact": "Mixing red and blue creates purple (or violet). In the subtractive color model (paints), red and blue are primary colors that combine to make secondary colors."
+        "question": "What color do you get when you mix red and blue?",
+        "A": "Green",
+        "B": "Purple",
+        "C": "Orange",
+        "D": "Brown",
+        "answer": "B",
+        "funFact": "Mixing red and blue creates purple (or violet). In the subtractive color model (paints), red and blue are primary colors that combine to make secondary colors."
     },
     {
-      "question": "What color do you get when you mix all the colors of light?",
-      "A": "Black",
-      "B": "White",
-      "C": "Gray",
-      "D": "Brown",
-      "answer": "B",
-      "funFact": "When you mix all colors of light (additive color mixing), you get white light. This is different from mixing paints, where all colors create black or brown."
+        "question": "What color do you get when you mix all the colors of light?",
+        "A": "Black",
+        "B": "White",
+        "C": "Gray",
+        "D": "Brown",
+        "answer": "B",
+        "funFact": "When you mix all colors of light (additive color mixing), you get white light. This is different from mixing paints, where all colors create black or brown."
     },
     {
-      "question": "What is the complementary color of red?",
-      "A": "Blue",
-      "B": "Green",
-      "C": "Yellow",
-      "D": "Purple",
-      "answer": "B",
-      "funFact": "Green is the complementary color of red. Complementary colors are opposite each other on the color wheel and create strong contrast when placed together."
+        "question": "What is the complementary color of red?",
+        "A": "Blue",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Purple",
+        "answer": "B",
+        "funFact": "Green is the complementary color of red. Complementary colors are opposite each other on the color wheel and create strong contrast when placed together."
     },
     {
-      "question": "What color is associated with stop signs and fire trucks?",
-      "A": "Red",
-      "B": "Yellow",
-      "C": "Orange",
-      "D": "Blue",
-      "answer": "A",
-      "funFact": "Red is associated with stop signs and fire trucks because it's highly visible and attention-grabbing. Red light has the longest wavelength in the visible spectrum."
+        "question": "What color is associated with stop signs and fire trucks?",
+        "A": "Red",
+        "B": "Yellow",
+        "C": "Orange",
+        "D": "Blue",
+        "answer": "A",
+        "funFact": "Red is associated with stop signs and fire trucks because it's highly visible and attention-grabbing. Red light has the longest wavelength in the visible spectrum."
     },
     {
-      "question": "What color do you get when you mix yellow and blue?",
-      "A": "Orange",
-      "B": "Green",
-      "C": "Purple",
-      "D": "Brown",
-      "answer": "B",
-      "funFact": "Mixing yellow and blue creates green. In the subtractive color model, yellow and blue are primary colors that combine to make the secondary color green."
+        "question": "What color do you get when you mix yellow and blue?",
+        "A": "Orange",
+        "B": "Green",
+        "C": "Purple",
+        "D": "Brown",
+        "answer": "B",
+        "funFact": "Mixing yellow and blue creates green. In the subtractive color model, yellow and blue are primary colors that combine to make the secondary color green."
     },
     {
-      "question": "What is the color of the sky on a clear day?",
-      "A": "Blue",
-      "B": "White",
-      "C": "Gray",
-      "D": "Purple",
-      "answer": "A",
-      "funFact": "The sky appears blue because of Rayleigh scattering - shorter blue wavelengths of light are scattered more by air molecules than longer red wavelengths."
+        "question": "What is the color of the sky on a clear day?",
+        "A": "Blue",
+        "B": "White",
+        "C": "Gray",
+        "D": "Purple",
+        "answer": "A",
+        "funFact": "The sky appears blue because of Rayleigh scattering - shorter blue wavelengths of light are scattered more by air molecules than longer red wavelengths."
     },
     {
-      "question": "What color is associated with nature and growth?",
-      "A": "Blue",
-      "B": "Green",
-      "C": "Yellow",
-      "D": "Brown",
-      "answer": "B",
-      "funFact": "Green is associated with nature and growth because it's the color of most plants. Chlorophyll, the pigment that makes plants green, is essential for photosynthesis."
+        "question": "What color is associated with nature and growth?",
+        "A": "Blue",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Brown",
+        "answer": "B",
+        "funFact": "Green is associated with nature and growth because it's the color of most plants. Chlorophyll, the pigment that makes plants green, is essential for photosynthesis."
     },
     {
-      "question": "What are warm colors?",
-      "A": "Blue, green, purple",
-      "B": "Red, orange, yellow",
-      "C": "Black, white, gray",
-      "D": "All colors",
-      "answer": "B",
-      "funFact": "Warm colors are red, orange, and yellow - they're associated with warmth, energy, and excitement. Cool colors (blue, green, purple) are associated with calm and tranquility."
+        "question": "What are warm colors?",
+        "A": "Blue, green, purple",
+        "B": "Red, orange, yellow",
+        "C": "Black, white, gray",
+        "D": "All colors",
+        "answer": "B",
+        "funFact": "Warm colors are red, orange, and yellow - they're associated with warmth, energy, and excitement. Cool colors (blue, green, purple) are associated with calm and tranquility."
     },
     {
-      "question": "What color is created when you mix red and yellow?",
-      "A": "Green",
-      "B": "Purple",
-      "C": "Orange",
-      "D": "Brown",
-      "answer": "C",
-      "funFact": "Mixing red and yellow creates orange. In the subtractive color model, red and yellow are primary colors that combine to make the secondary color orange."
+        "question": "What color is created when you mix red and yellow?",
+        "A": "Green",
+        "B": "Purple",
+        "C": "Orange",
+        "D": "Brown",
+        "answer": "C",
+        "funFact": "Mixing red and yellow creates orange. In the subtractive color model, red and yellow are primary colors that combine to make the secondary color orange."
     }
 ]
-

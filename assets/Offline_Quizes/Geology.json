@@ -166,8 +166,8 @@
         "A": "Geology",
         "B": "Earth science",
         "C": "Rock studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Geology is also called earth science, studying Earth's structure, processes, history, and resources."
     },
     {

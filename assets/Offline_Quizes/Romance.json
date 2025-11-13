@@ -13,8 +13,8 @@
         "A": "Romanceology",
         "B": "Romance studies",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Romance literature is studied through literary studies, genre analysis, and romance research."
     },
     {
@@ -58,8 +58,8 @@
         "A": "Romanceology",
         "B": "Romance analysis",
         "C": "Genre studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Romance literature is studied through literary studies, genre analysis, and romance research."
     },
     {
@@ -103,8 +103,8 @@
         "A": "Romanceology",
         "B": "Romance studies",
         "C": "Love stories",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Romance literature is studied through literary studies, genre research, and romance analysis."
     },
     {
@@ -157,8 +157,8 @@
         "A": "Romanceology",
         "B": "Romance research",
         "C": "Literary studies",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Romance literature is studied through literary studies, genre research, and romance analysis, exploring its themes and appeal."
     },
     {
@@ -175,8 +175,8 @@
         "A": "Romanceology",
         "B": "Romance studies",
         "C": "Genre analysis",
-        "D": "All of the above",
-        "answer": "D",
+        "D": "None of the above",
+        "answer": "A",
         "funFact": "Romance literature is studied through literary studies, genre research, and romance analysis, understanding its themes and cultural impact."
     }
 ]

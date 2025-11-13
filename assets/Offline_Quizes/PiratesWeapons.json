@@ -1,183 +1,182 @@
 [
     {
-      "question": "What was a pirate's favorite weapon?",
-      "A": "Sword",
-      "B": "Pistol",
-      "C": "Cannon",
-      "D": "All of the above",
-      "answer": "D",
-      "funFact": "Pirates used various weapons including swords (cutlasses), pistols, cannons, and boarding axes. They often carried multiple weapons for close combat."
+        "question": "What was a pirate's favorite weapon?",
+        "A": "Sword",
+        "B": "Pistol",
+        "C": "Cannon",
+        "D": "None of the above",
+        "answer": "A",
+        "funFact": "Pirates used various weapons including swords (cutlasses), pistols, cannons, and boarding axes. They often carried multiple weapons for close combat."
     },
     {
-      "question": "What was a cutlass?",
-      "A": "A type of ship",
-      "B": "A pirate sword",
-      "C": "A flag",
-      "D": "A treasure chest",
-      "answer": "B",
-      "funFact": "A cutlass was a short, curved sword favored by pirates. It was ideal for close-quarters combat on ships and was easier to use than longer swords."
+        "question": "What was a cutlass?",
+        "A": "A type of ship",
+        "B": "A pirate sword",
+        "C": "A flag",
+        "D": "A treasure chest",
+        "answer": "B",
+        "funFact": "A cutlass was a short, curved sword favored by pirates. It was ideal for close-quarters combat on ships and was easier to use than longer swords."
     },
     {
-      "question": "What was a boarding axe?",
-      "A": "A tool",
-      "B": "A weapon",
-      "C": "Both A and B",
-      "D": "A decoration",
-      "answer": "C",
-      "funFact": "A boarding axe was both a tool and a weapon. Pirates used it to board enemy ships, cut ropes, and fight in close combat."
+        "question": "What was a boarding axe?",
+        "A": "A tool",
+        "B": "A weapon",
+        "C": "Neither A nor B",
+        "D": "A decoration",
+        "answer": "A",
+        "funFact": "A boarding axe was both a tool and a weapon. Pirates used it to board enemy ships, cut ropes, and fight in close combat."
     },
     {
-      "question": "What was a blunderbuss?",
-      "A": "A type of gun",
-      "B": "A short-range weapon",
-      "C": "Both A and B",
-      "D": "A sword",
-      "answer": "C",
-      "funFact": "A blunderbuss was a short-range firearm with a wide barrel. It was effective at close range and was popular among pirates for boarding actions."
+        "question": "What was a blunderbuss?",
+        "A": "A type of gun",
+        "B": "A short-range weapon",
+        "C": "Neither A nor B",
+        "D": "A sword",
+        "answer": "A",
+        "funFact": "A blunderbuss was a short-range firearm with a wide barrel. It was effective at close range and was popular among pirates for boarding actions."
     },
     {
-      "question": "What was a flintlock pistol?",
-      "A": "A common pirate weapon",
-      "B": "A single-shot firearm",
-      "C": "Both A and B",
-      "D": "A sword",
-      "answer": "C",
-      "funFact": "A flintlock pistol was a common pirate weapon. It was a single-shot firearm, so pirates often carried multiple pistols for combat."
+        "question": "What was a flintlock pistol?",
+        "A": "A common pirate weapon",
+        "B": "A single-shot firearm",
+        "C": "Neither A nor B",
+        "D": "A sword",
+        "answer": "A",
+        "funFact": "A flintlock pistol was a common pirate weapon. It was a single-shot firearm, so pirates often carried multiple pistols for combat."
     },
     {
-      "question": "What was a musket?",
-      "A": "A long gun",
-      "B": "Used for longer range",
-      "C": "Both A and B",
-      "D": "A sword",
-      "answer": "C",
-      "funFact": "A musket was a long gun used for longer-range combat. Pirates used muskets for sniping and supporting boarding actions."
+        "question": "What was a musket?",
+        "A": "A long gun",
+        "B": "Used for longer range",
+        "C": "Neither A nor B",
+        "D": "A sword",
+        "answer": "A",
+        "funFact": "A musket was a long gun used for longer-range combat. Pirates used muskets for sniping and supporting boarding actions."
     },
     {
-      "question": "What was a cannon?",
-      "A": "The main ship weapon",
-      "B": "Used to disable ships",
-      "C": "Both A and B",
-      "D": "A hand weapon",
-      "answer": "C",
-      "funFact": "Cannons were the main ship weapons. Pirates used them to disable enemy ships before boarding, rather than sinking them (which would lose the cargo)."
+        "question": "What was a cannon?",
+        "A": "The main ship weapon",
+        "B": "Used to disable ships",
+        "C": "Neither A nor B",
+        "D": "A hand weapon",
+        "answer": "A",
+        "funFact": "Cannons were the main ship weapons. Pirates used them to disable enemy ships before boarding, rather than sinking them (which would lose the cargo)."
     },
     {
-      "question": "How many cannons did a typical pirate ship have?",
-      "A": "1-5",
-      "B": "10-20",
-      "C": "20-40",
-      "D": "40-60",
-      "answer": "B",
-      "funFact": "A typical pirate ship had 10-20 cannons, though this varied. Larger ships could have more, but pirates preferred speed over heavy armament."
+        "question": "How many cannons did a typical pirate ship have?",
+        "A": "1-5",
+        "B": "10-20",
+        "C": "20-40",
+        "D": "40-60",
+        "answer": "B",
+        "funFact": "A typical pirate ship had 10-20 cannons, though this varied. Larger ships could have more, but pirates preferred speed over heavy armament."
     },
     {
-      "question": "What was a grenade?",
-      "A": "An explosive weapon",
-      "B": "Used in boarding",
-      "C": "Both A and B",
-      "D": "A sword",
-      "answer": "C",
-      "funFact": "Grenades (hand-thrown explosives) were used in boarding actions. Pirates would throw them onto enemy ships to cause chaos before boarding."
+        "question": "What was a grenade?",
+        "A": "An explosive weapon",
+        "B": "Used in boarding",
+        "C": "Neither A nor B",
+        "D": "A sword",
+        "answer": "A",
+        "funFact": "Grenades (hand-thrown explosives) were used in boarding actions. Pirates would throw them onto enemy ships to cause chaos before boarding."
     },
     {
-      "question": "What was a boarding pike?",
-      "A": "A long spear",
-      "B": "Used for boarding",
-      "C": "Both A and B",
-      "D": "A sword",
-      "answer": "C",
-      "funFact": "A boarding pike was a long spear used for boarding and defending against boarders. It gave pirates reach advantage in close combat."
+        "question": "What was a boarding pike?",
+        "A": "A long spear",
+        "B": "Used for boarding",
+        "C": "Neither A nor B",
+        "D": "A sword",
+        "answer": "A",
+        "funFact": "A boarding pike was a long spear used for boarding and defending against boarders. It gave pirates reach advantage in close combat."
     },
     {
-      "question": "What was a dagger?",
-      "A": "A backup weapon",
-      "B": "Used in close combat",
-      "C": "Both A and B",
-      "D": "A decoration",
-      "answer": "C",
-      "funFact": "A dagger was a backup weapon used in close combat. Pirates often carried daggers as secondary weapons when their primary weapons failed."
+        "question": "What was a dagger?",
+        "A": "A backup weapon",
+        "B": "Used in close combat",
+        "C": "Neither A nor B",
+        "D": "A decoration",
+        "answer": "A",
+        "funFact": "A dagger was a backup weapon used in close combat. Pirates often carried daggers as secondary weapons when their primary weapons failed."
     },
     {
-      "question": "What was a boarding hook?",
-      "A": "A tool for boarding",
-      "B": "Used to grab ships",
-      "C": "Both A and B",
-      "D": "A weapon",
-      "answer": "C",
-      "funFact": "A boarding hook was a tool used to grab and pull ships together during boarding. It was essential for the boarding process."
+        "question": "What was a boarding hook?",
+        "A": "A tool for boarding",
+        "B": "Used to grab ships",
+        "C": "Neither A nor B",
+        "D": "A weapon",
+        "answer": "A",
+        "funFact": "A boarding hook was a tool used to grab and pull ships together during boarding. It was essential for the boarding process."
     },
     {
-      "question": "What was a swivel gun?",
-      "A": "A small cannon",
-      "B": "Mounted on the ship",
-      "C": "Both A and B",
-      "D": "A hand weapon",
-      "answer": "C",
-      "funFact": "A swivel gun was a small cannon mounted on the ship's rail. It could be aimed quickly and was effective against enemy crew during boarding."
+        "question": "What was a swivel gun?",
+        "A": "A small cannon",
+        "B": "Mounted on the ship",
+        "C": "Neither A nor B",
+        "D": "A hand weapon",
+        "answer": "A",
+        "funFact": "A swivel gun was a small cannon mounted on the ship's rail. It could be aimed quickly and was effective against enemy crew during boarding."
     },
     {
-      "question": "What was a matchlock?",
-      "A": "An early firearm",
-      "B": "Less reliable than flintlock",
-      "C": "Both A and B",
-      "D": "A sword",
-      "answer": "C",
-      "funFact": "A matchlock was an early firearm that was less reliable than flintlocks. By the Golden Age of Piracy, flintlocks were more common."
+        "question": "What was a matchlock?",
+        "A": "An early firearm",
+        "B": "Less reliable than flintlock",
+        "C": "Neither A nor B",
+        "D": "A sword",
+        "answer": "A",
+        "funFact": "A matchlock was an early firearm that was less reliable than flintlocks. By the Golden Age of Piracy, flintlocks were more common."
     },
     {
-      "question": "What was weapon maintenance like?",
-      "A": "Constant",
-      "B": "Required regular care",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "Weapon maintenance was constant and required regular care. Salt water, humidity, and use all damaged weapons, requiring frequent cleaning and repair."
+        "question": "What was weapon maintenance like?",
+        "A": "Constant",
+        "B": "Required regular care",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "Weapon maintenance was constant and required regular care. Salt water, humidity, and use all damaged weapons, requiring frequent cleaning and repair."
     },
     {
-      "question": "What was weapon availability?",
-      "A": "Varied",
-      "B": "Depended on captures",
-      "C": "Both A and B",
-      "D": "Always plentiful",
-      "answer": "C",
-      "funFact": "Weapon availability varied and depended on captures. Pirates often took weapons from captured ships, so their arsenal grew with successful raids."
+        "question": "What was weapon availability?",
+        "A": "Varied",
+        "B": "Depended on captures",
+        "C": "Neither A nor B",
+        "D": "Always plentiful",
+        "answer": "A",
+        "funFact": "Weapon availability varied and depended on captures. Pirates often took weapons from captured ships, so their arsenal grew with successful raids."
     },
     {
-      "question": "What was the most important weapon?",
-      "A": "The one that worked",
-      "B": "Depended on situation",
-      "C": "Both A and B",
-      "D": "Always the sword",
-      "answer": "C",
-      "funFact": "The most important weapon was the one that worked and depended on the situation. Pirates needed reliable weapons that functioned when needed."
+        "question": "What was the most important weapon?",
+        "A": "The one that worked",
+        "B": "Depended on situation",
+        "C": "Neither A nor B",
+        "D": "Always the sword",
+        "answer": "A",
+        "funFact": "The most important weapon was the one that worked and depended on the situation. Pirates needed reliable weapons that functioned when needed."
     },
     {
-      "question": "What was weapon training?",
-      "A": "Essential",
-      "B": "Pirates needed to be skilled",
-      "C": "Both A and B",
-      "D": "Unnecessary",
-      "answer": "C",
-      "funFact": "Weapon training was essential. Pirates needed to be skilled with their weapons to survive in combat, which was frequent and deadly."
+        "question": "What was weapon training?",
+        "A": "Essential",
+        "B": "Pirates needed to be skilled",
+        "C": "Neither A nor B",
+        "D": "Unnecessary",
+        "answer": "A",
+        "funFact": "Weapon training was essential. Pirates needed to be skilled with their weapons to survive in combat, which was frequent and deadly."
     },
     {
-      "question": "What was the role of weapons in piracy?",
-      "A": "Essential",
-      "B": "Used for intimidation and combat",
-      "C": "Both A and B",
-      "D": "Minimal",
-      "answer": "C",
-      "funFact": "Weapons were essential for piracy, used for both intimidation and combat. The threat of violence was often enough to make victims surrender."
+        "question": "What was the role of weapons in piracy?",
+        "A": "Essential",
+        "B": "Used for intimidation and combat",
+        "C": "Neither A nor B",
+        "D": "Minimal",
+        "answer": "A",
+        "funFact": "Weapons were essential for piracy, used for both intimidation and combat. The threat of violence was often enough to make victims surrender."
     },
     {
-      "question": "What is modern pirate weaponry?",
-      "A": "Automatic rifles",
-      "B": "Rocket-propelled grenades",
-      "C": "Both A and B",
-      "D": "Swords",
-      "answer": "C",
-      "funFact": "Modern pirates use automatic rifles, rocket-propelled grenades, and other modern weapons. They're much more heavily armed than historical pirates."
+        "question": "What is modern pirate weaponry?",
+        "A": "Automatic rifles",
+        "B": "Rocket-propelled grenades",
+        "C": "Neither A nor B",
+        "D": "Swords",
+        "answer": "A",
+        "funFact": "Modern pirates use automatic rifles, rocket-propelled grenades, and other modern weapons. They're much more heavily armed than historical pirates."
     }
 ]
-

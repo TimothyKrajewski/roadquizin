@@ -1,93 +1,92 @@
 [
     {
-      "question": "How many senses do humans have?",
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "More than 5",
-      "answer": "D",
-      "funFact": "While the traditional five senses are sight, hearing, taste, smell, and touch, humans actually have more senses, including balance, temperature, pain, and proprioception (body position)."
+        "question": "How many senses do humans have?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "More than 5",
+        "answer": "D",
+        "funFact": "While the traditional five senses are sight, hearing, taste, smell, and touch, humans actually have more senses, including balance, temperature, pain, and proprioception (body position)."
     },
     {
-      "question": "What are the five traditional senses?",
-      "A": "Sight, hearing, taste, smell, touch",
-      "B": "Vision, sound, flavor, scent, feeling",
-      "C": "Both A and B (different names)",
-      "D": "There are only 4",
-      "answer": "C",
-      "funFact": "The five traditional senses are sight (vision), hearing (sound), taste (flavor), smell (scent), and touch (feeling). These are the basic ways we perceive the world."
+        "question": "What are the five traditional senses?",
+        "A": "Sight, hearing, taste, smell, touch",
+        "B": "Vision, sound, flavor, scent, feeling",
+        "C": "Neither A nor B",
+        "D": "There are only 4",
+        "answer": "A",
+        "funFact": "The five traditional senses are sight (vision), hearing (sound), taste (flavor), smell (scent), and touch (feeling). These are the basic ways we perceive the world."
     },
     {
-      "question": "What organ is used for sight?",
-      "A": "Ears",
-      "B": "Eyes",
-      "C": "Nose",
-      "D": "Skin",
-      "answer": "B",
-      "funFact": "The eyes are the organs used for sight. They detect light and convert it into electrical signals that the brain interprets as images."
+        "question": "What organ is used for sight?",
+        "A": "Ears",
+        "B": "Eyes",
+        "C": "Nose",
+        "D": "Skin",
+        "answer": "B",
+        "funFact": "The eyes are the organs used for sight. They detect light and convert it into electrical signals that the brain interprets as images."
     },
     {
-      "question": "What organ is used for hearing?",
-      "A": "Eyes",
-      "B": "Ears",
-      "C": "Nose",
-      "D": "Mouth",
-      "answer": "B",
-      "funFact": "The ears are the organs used for hearing. They detect sound waves and convert them into electrical signals that the brain interprets as sounds."
+        "question": "What organ is used for hearing?",
+        "A": "Eyes",
+        "B": "Ears",
+        "C": "Nose",
+        "D": "Mouth",
+        "answer": "B",
+        "funFact": "The ears are the organs used for hearing. They detect sound waves and convert them into electrical signals that the brain interprets as sounds."
     },
     {
-      "question": "What organ is used for taste?",
-      "A": "Nose",
-      "B": "Tongue",
-      "C": "Ears",
-      "D": "Eyes",
-      "answer": "B",
-      "funFact": "The tongue is the organ primarily used for taste, with taste buds that can detect five basic tastes: sweet, sour, salty, bitter, and umami."
+        "question": "What organ is used for taste?",
+        "A": "Nose",
+        "B": "Tongue",
+        "C": "Ears",
+        "D": "Eyes",
+        "answer": "B",
+        "funFact": "The tongue is the organ primarily used for taste, with taste buds that can detect five basic tastes: sweet, sour, salty, bitter, and umami."
     },
     {
-      "question": "What organ is used for smell?",
-      "A": "Mouth",
-      "B": "Nose",
-      "C": "Ears",
-      "D": "Eyes",
-      "answer": "B",
-      "funFact": "The nose is the organ used for smell. It contains olfactory receptors that detect chemicals in the air and send signals to the brain."
+        "question": "What organ is used for smell?",
+        "A": "Mouth",
+        "B": "Nose",
+        "C": "Ears",
+        "D": "Eyes",
+        "answer": "B",
+        "funFact": "The nose is the organ used for smell. It contains olfactory receptors that detect chemicals in the air and send signals to the brain."
     },
     {
-      "question": "What is the largest sense organ?",
-      "A": "Eyes",
-      "B": "Ears",
-      "C": "Skin",
-      "D": "Nose",
-      "answer": "C",
-      "funFact": "The skin is the largest sense organ, covering the entire body. It's responsible for the sense of touch and also helps detect temperature and pain."
+        "question": "What is the largest sense organ?",
+        "A": "Eyes",
+        "B": "Ears",
+        "C": "Skin",
+        "D": "Nose",
+        "answer": "C",
+        "funFact": "The skin is the largest sense organ, covering the entire body. It's responsible for the sense of touch and also helps detect temperature and pain."
     },
     {
-      "question": "How many basic tastes can humans detect?",
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6",
-      "answer": "C",
-      "funFact": "Humans can detect five basic tastes: sweet, sour, salty, bitter, and umami (savory). Different parts of the tongue are sensitive to different tastes."
+        "question": "How many basic tastes can humans detect?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "answer": "C",
+        "funFact": "Humans can detect five basic tastes: sweet, sour, salty, bitter, and umami (savory). Different parts of the tongue are sensitive to different tastes."
     },
     {
-      "question": "What sense is closely linked to memory?",
-      "A": "Sight",
-      "B": "Smell",
-      "C": "Hearing",
-      "D": "Taste",
-      "answer": "B",
-      "funFact": "Smell is closely linked to memory because the olfactory system is directly connected to the brain's memory and emotion centers. Scents can trigger vivid memories."
+        "question": "What sense is closely linked to memory?",
+        "A": "Sight",
+        "B": "Smell",
+        "C": "Hearing",
+        "D": "Taste",
+        "answer": "B",
+        "funFact": "Smell is closely linked to memory because the olfactory system is directly connected to the brain's memory and emotion centers. Scents can trigger vivid memories."
     },
     {
-      "question": "What sense helps us maintain balance?",
-      "A": "Sight",
-      "B": "Hearing",
-      "C": "Touch",
-      "D": "Vestibular sense",
-      "answer": "D",
-      "funFact": "The vestibular sense (located in the inner ear) helps us maintain balance and sense our body's position and movement in space. It works with vision and proprioception."
+        "question": "What sense helps us maintain balance?",
+        "A": "Sight",
+        "B": "Hearing",
+        "C": "Touch",
+        "D": "Vestibular sense",
+        "answer": "D",
+        "funFact": "The vestibular sense (located in the inner ear) helps us maintain balance and sense our body's position and movement in space. It works with vision and proprioception."
     }
 ]
-
