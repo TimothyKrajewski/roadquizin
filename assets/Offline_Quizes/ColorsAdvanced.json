@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What color do you get when you mix red and yellow?",
+      "A": "Green",
+      "B": "Purple",
+      "C": "Orange",
+      "D": "Brown",
+      "answer": "C",
+      "funFact": "Mixing red and yellow creates orange. In the subtractive color model (paints), red and yellow are primary colors that combine to make the secondary color orange."
+    },
+    {
+      "question": "What color do you get when you mix all colors of paint?",
+      "A": "White",
+      "B": "Black or brown",
+      "C": "Gray",
+      "D": "Clear",
+      "answer": "B",
+      "funFact": "When you mix all colors of paint (subtractive color mixing), you get black or dark brown, not white. This is because paint absorbs light, and all colors together absorb all light."
+    },
+    {
+      "question": "What is the complementary color of blue?",
+      "A": "Red",
+      "B": "Orange",
+      "C": "Yellow",
+      "D": "Green",
+      "answer": "B",
+      "funFact": "Orange is the complementary color of blue. Complementary colors are opposite each other on the color wheel and create strong contrast when placed together."
+    },
+    {
+      "question": "What are warm colors?",
+      "A": "Blue, green, purple",
+      "B": "Red, orange, yellow",
+      "C": "Black, white, gray",
+      "D": "All colors",
+      "answer": "B",
+      "funFact": "Warm colors are red, orange, and yellow - they're associated with warmth, energy, and excitement. Cool colors (blue, green, purple) are associated with calm and tranquility."
+    },
+    {
+      "question": "What is a shade?",
+      "A": "A color with black added",
+      "B": "A color with white added",
+      "C": "A color with gray added",
+      "D": "A pure color",
+      "answer": "A",
+      "funFact": "A shade is a color with black added, making it darker. A tint is a color with white added (making it lighter), and a tone is a color with gray added."
+    },
+    {
+      "question": "What is the color of the sky on a clear day?",
+      "A": "Blue",
+      "B": "White",
+      "C": "Gray",
+      "D": "Purple",
+      "answer": "A",
+      "funFact": "The sky appears blue because of Rayleigh scattering - shorter blue wavelengths of light are scattered more by air molecules than longer red wavelengths."
+    },
+    {
+      "question": "What is a primary color?",
+      "A": "A color that can be made by mixing other colors",
+      "B": "A color that cannot be made by mixing other colors",
+      "C": "The most important color",
+      "D": "A dark color",
+      "answer": "B",
+      "funFact": "A primary color is a color that cannot be made by mixing other colors. In the subtractive color model (paints), the primary colors are red, yellow, and blue."
+    },
+    {
+      "question": "What is a secondary color?",
+      "A": "A color made by mixing two primary colors",
+      "B": "A less important color",
+      "C": "A dark color",
+      "D": "A light color",
+      "answer": "A",
+      "funFact": "A secondary color is made by mixing two primary colors. In paints, the secondary colors are orange (red + yellow), green (blue + yellow), and purple (red + blue)."
+    },
+    {
+      "question": "What color is associated with nature and growth?",
+      "A": "Blue",
+      "B": "Green",
+      "C": "Yellow",
+      "D": "Brown",
+      "answer": "B",
+      "funFact": "Green is associated with nature and growth because it's the color of most plants. Chlorophyll, the pigment that makes plants green, is essential for photosynthesis."
+    },
+    {
+      "question": "What is the color of the rainbow in order?",
+      "A": "Red, orange, yellow, green, blue, indigo, violet",
+      "B": "Red, yellow, blue, green, orange, purple, pink",
+      "C": "All colors mixed",
+      "D": "It varies",
+      "answer": "A",
+      "funFact": "The colors of the rainbow in order are: red, orange, yellow, green, blue, indigo, violet. This is remembered by the acronym ROYGBIV."
+    }
+]
+

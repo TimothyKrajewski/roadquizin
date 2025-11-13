@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many days are in a week?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "answer": "C",
+      "funFact": "There are 7 days in a week, a system that dates back to ancient times and is based on the seven celestial bodies visible to the naked eye (Sun, Moon, and five planets)."
+    },
+    {
+      "question": "What is the first day of the week?",
+      "A": "Monday",
+      "B": "Sunday",
+      "C": "Tuesday",
+      "D": "Depends on the culture",
+      "answer": "D",
+      "funFact": "In many countries, Sunday is considered the first day of the week, while in others (like much of Europe), Monday is the first day. The ISO standard uses Monday."
+    },
+    {
+      "question": "What day is named after the Sun?",
+      "A": "Monday",
+      "B": "Sunday",
+      "C": "Saturday",
+      "D": "Friday",
+      "answer": "B",
+      "funFact": "Sunday is named after the Sun. In many languages, the days of the week are named after celestial bodies or gods."
+    },
+    {
+      "question": "What day is named after the Moon?",
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "answer": "A",
+      "funFact": "Monday is named after the Moon. The word 'Monday' comes from 'Moon's day' in Old English."
+    },
+    {
+      "question": "What day is in the middle of the week?",
+      "A": "Tuesday",
+      "B": "Wednesday",
+      "C": "Thursday",
+      "D": "Friday",
+      "answer": "B",
+      "funFact": "Wednesday is in the middle of the week. It's named after the Norse god Odin (Woden in Old English), and is sometimes called 'hump day' in the middle of the work week."
+    },
+    {
+      "question": "What day is known as the last day of the work week?",
+      "A": "Thursday",
+      "B": "Friday",
+      "C": "Saturday",
+      "D": "Sunday",
+      "answer": "B",
+      "funFact": "Friday is known as the last day of the work week in many countries. It's named after the Norse goddess Frigg or the Roman goddess Venus."
+    },
+    {
+      "question": "What day is named after the planet Saturn?",
+      "A": "Friday",
+      "B": "Saturday",
+      "C": "Sunday",
+      "D": "Monday",
+      "answer": "B",
+      "funFact": "Saturday is named after the planet Saturn and the Roman god Saturn. It's the only day of the week that retains its Roman origin in English."
+    },
+    {
+      "question": "What day comes after Wednesday?",
+      "A": "Tuesday",
+      "B": "Thursday",
+      "C": "Friday",
+      "D": "Saturday",
+      "answer": "B",
+      "funFact": "Thursday comes after Wednesday. It's named after the Norse god Thor (Thunder) and is sometimes called 'Thunder's day.'"
+    },
+    {
+      "question": "What are Saturday and Sunday often called?",
+      "A": "Weekdays",
+      "B": "Weekend",
+      "C": "Workdays",
+      "D": "Holidays",
+      "answer": "B",
+      "funFact": "Saturday and Sunday are often called the weekend, a time for rest and recreation after the work week. Many people have these days off from work."
+    },
+    {
+      "question": "What day comes before Friday?",
+      "A": "Wednesday",
+      "B": "Thursday",
+      "C": "Saturday",
+      "D": "Sunday",
+      "answer": "B",
+      "funFact": "Thursday comes before Friday. In the work week, Thursday is often called 'Friday eve' or 'little Friday' because it's the day before the weekend."
+    }
+]
+

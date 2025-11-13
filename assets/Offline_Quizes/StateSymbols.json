@@ -1,0 +1,237 @@
+[
+    {
+      "question": "What is the state bird of California?",
+      "A": "California Quail",
+      "B": "Bald Eagle",
+      "C": "Mockingbird",
+      "D": "Cardinal",
+      "answer": "A",
+      "funFact": "The California Quail is the state bird of California. It's known for its distinctive topknot of feathers and is found throughout the state."
+    },
+    {
+      "question": "What is the state flower of Texas?",
+      "A": "Rose",
+      "B": "Bluebonnet",
+      "C": "Sunflower",
+      "D": "Daisy",
+      "answer": "B",
+      "funFact": "The Bluebonnet is the state flower of Texas. It blooms in the spring and covers fields with beautiful blue flowers."
+    },
+    {
+      "question": "What is the state tree of New York?",
+      "A": "Oak",
+      "B": "Maple",
+      "C": "Pine",
+      "D": "Birch",
+      "answer": "B",
+      "funFact": "The Sugar Maple is the state tree of New York. It's known for its beautiful fall colors and is the source of maple syrup."
+    },
+    {
+      "question": "What is the state animal of Alaska?",
+      "A": "Polar Bear",
+      "B": "Moose",
+      "C": "Grizzly Bear",
+      "D": "Caribou",
+      "answer": "B",
+      "funFact": "The Moose is the state animal of Alaska. It's the largest member of the deer family and is found throughout Alaska's forests."
+    },
+    {
+      "question": "What is the state bird of Florida?",
+      "A": "Flamingo",
+      "B": "Pelican",
+      "C": "Mockingbird",
+      "D": "Cardinal",
+      "answer": "C",
+      "funFact": "The Mockingbird is the state bird of Florida. It's known for its ability to mimic other birds' songs and is found throughout the state."
+    },
+    {
+      "question": "What is the state flower of Hawaii?",
+      "A": "Orchid",
+      "B": "Hibiscus",
+      "C": "Plumeria",
+      "D": "Bird of Paradise",
+      "answer": "B",
+      "funFact": "The Yellow Hibiscus is the state flower of Hawaii. It's native to the islands and is known for its large, colorful flowers."
+    },
+    {
+      "question": "What is the state tree of California?",
+      "A": "Redwood",
+      "B": "Sequoia",
+      "C": "Both Redwood and Sequoia",
+      "D": "Oak",
+      "answer": "C",
+      "funFact": "California has two state trees: the California Redwood (coast redwood) and the Giant Sequoia. Both are among the tallest and largest trees in the world."
+    },
+    {
+      "question": "What is the state bird of Arizona?",
+      "A": "Roadrunner",
+      "B": "Cactus Wren",
+      "C": "Hawk",
+      "D": "Eagle",
+      "answer": "B",
+      "funFact": "The Cactus Wren is the state bird of Arizona. It's the largest wren in North America and builds its nest in cactus plants."
+    },
+    {
+      "question": "What is the state flower of Colorado?",
+      "A": "Sunflower",
+      "B": "Columbine",
+      "C": "Rose",
+      "D": "Daisy",
+      "answer": "B",
+      "funFact": "The Rocky Mountain Columbine is the state flower of Colorado. It has blue and white petals and is found in the mountains."
+    },
+    {
+      "question": "What is the state animal of Texas?",
+      "A": "Longhorn",
+      "B": "Armadillo",
+      "C": "Coyote",
+      "D": "Bison",
+      "answer": "A",
+      "funFact": "The Longhorn is the state large mammal of Texas. These cattle are known for their distinctive long horns and are a symbol of the Old West."
+    },
+    {
+      "question": "What is the state bird of New York?",
+      "A": "Cardinal",
+      "B": "Blue Jay",
+      "C": "Robin",
+      "D": "Eagle",
+      "answer": "B",
+      "funFact": "The Blue Jay is the state bird of New York. It's known for its bright blue color and loud calls."
+    },
+    {
+      "question": "What is the state flower of Alaska?",
+      "A": "Forget-me-not",
+      "B": "Rose",
+      "C": "Lily",
+      "D": "Daisy",
+      "answer": "A",
+      "funFact": "The Forget-me-not is the state flower of Alaska. It's a small blue flower that grows in the state's cooler regions."
+    },
+    {
+      "question": "What is the state tree of Florida?",
+      "A": "Palm",
+      "B": "Orange",
+      "C": "Sabal Palm",
+      "D": "Coconut Palm",
+      "answer": "C",
+      "funFact": "The Sabal Palm (also called Cabbage Palm) is the state tree of Florida. It's found throughout the state and is very hardy."
+    },
+    {
+      "question": "What is the state bird of Illinois?",
+      "A": "Cardinal",
+      "B": "Blue Jay",
+      "C": "Robin",
+      "D": "Eagle",
+      "answer": "A",
+      "funFact": "The Northern Cardinal is the state bird of Illinois. It's also the state bird of several other states, including Indiana, Kentucky, North Carolina, Ohio, Virginia, and West Virginia."
+    },
+    {
+      "question": "What is the state flower of Pennsylvania?",
+      "A": "Rose",
+      "B": "Mountain Laurel",
+      "C": "Daisy",
+      "D": "Tulip",
+      "answer": "B",
+      "funFact": "The Mountain Laurel is the state flower of Pennsylvania. It's a beautiful flowering shrub that grows in the state's forests."
+    },
+    {
+      "question": "What is the state animal of California?",
+      "A": "Grizzly Bear",
+      "B": "Mountain Lion",
+      "C": "Elk",
+      "D": "Deer",
+      "answer": "A",
+      "funFact": "The Grizzly Bear is the state animal of California, even though grizzly bears are now extinct in the state. The last one was killed in 1922."
+    },
+    {
+      "question": "What is the state bird of Texas?",
+      "A": "Mockingbird",
+      "B": "Cardinal",
+      "C": "Blue Jay",
+      "D": "Eagle",
+      "answer": "A",
+      "funFact": "The Mockingbird is the state bird of Texas. It's also the state bird of Arkansas, Florida, Mississippi, and Tennessee."
+    },
+    {
+      "question": "What is the state flower of New York?",
+      "A": "Rose",
+      "B": "Tulip",
+      "C": "Daisy",
+      "D": "Lily",
+      "answer": "A",
+      "funFact": "The Rose is the state flower of New York. It was chosen in 1955 and represents beauty and love."
+    },
+    {
+      "question": "What is the state tree of Texas?",
+      "A": "Oak",
+      "B": "Pecan",
+      "C": "Pine",
+      "D": "Mesquite",
+      "answer": "B",
+      "funFact": "The Pecan is the state tree of Texas. Texas is the leading producer of pecans in the United States."
+    },
+    {
+      "question": "What is the state bird of Colorado?",
+      "A": "Eagle",
+      "B": "Hawk",
+      "C": "Lark Bunting",
+      "D": "Robin",
+      "answer": "C",
+      "funFact": "The Lark Bunting is the state bird of Colorado. It's a small black and white bird that migrates through the state."
+    },
+    {
+      "question": "What is the state flower of Arizona?",
+      "A": "Cactus Flower",
+      "B": "Saguaro Cactus Blossom",
+      "C": "Rose",
+      "D": "Daisy",
+      "answer": "B",
+      "funFact": "The Saguaro Cactus Blossom is the state flower of Arizona. The saguaro is the largest cactus in the United States and can live over 200 years."
+    },
+    {
+      "question": "What is the state animal of Florida?",
+      "A": "Alligator",
+      "B": "Panther",
+      "C": "Manatee",
+      "D": "Dolphin",
+      "answer": "C",
+      "funFact": "The Manatee is the state marine mammal of Florida. These gentle sea cows are found in Florida's warm waters and are an endangered species."
+    },
+    {
+      "question": "What is the state bird of Pennsylvania?",
+      "A": "Cardinal",
+      "B": "Ruffed Grouse",
+      "C": "Blue Jay",
+      "D": "Eagle",
+      "answer": "B",
+      "funFact": "The Ruffed Grouse is the state bird of Pennsylvania. It's a game bird found in the state's forests and is known for its drumming sound."
+    },
+    {
+      "question": "What is the state flower of Illinois?",
+      "A": "Rose",
+      "B": "Violet",
+      "C": "Daisy",
+      "D": "Sunflower",
+      "answer": "B",
+      "funFact": "The Violet is the state flower of Illinois. It's also the state flower of New Jersey, Rhode Island, and Wisconsin."
+    },
+    {
+      "question": "What is the state tree of Colorado?",
+      "A": "Aspen",
+      "B": "Blue Spruce",
+      "C": "Pine",
+      "D": "Fir",
+      "answer": "B",
+      "funFact": "The Colorado Blue Spruce is the state tree of Colorado. It's known for its blue-green needles and is native to the Rocky Mountains."
+    },
+    {
+      "question": "What is the state bird of Washington?",
+      "A": "Eagle",
+      "B": "Goldfinch",
+      "C": "Robin",
+      "D": "Jay",
+      "answer": "B",
+      "funFact": "The American Goldfinch is the state bird of Washington. It's also the state bird of Iowa and New Jersey."
+    }
+]
+

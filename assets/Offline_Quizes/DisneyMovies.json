@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the first full-length animated feature film released by Disney?",
+      "A": "Pinocchio",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Fantasia",
+      "D": "Dumbo",
+      "answer": "B",
+      "funFact": "Snow White and the Seven Dwarfs, released in 1937, was the first full-length animated feature film and the first Disney animated feature film. It was a huge risk for Walt Disney but became a massive success."
+    },
+    {
+      "question": "What year was The Lion King released?",
+      "A": "1992",
+      "B": "1993",
+      "C": "1994",
+      "D": "1995",
+      "answer": "C",
+      "funFact": "The Lion King was released in 1994 and became one of Disney's most successful animated films, earning over $968 million worldwide. It was later adapted into a Broadway musical."
+    },
+    {
+      "question": "What is the name of the main character in Moana?",
+      "A": "Maui",
+      "B": "Moana",
+      "C": "Tiana",
+      "D": "Elsa",
+      "answer": "B",
+      "funFact": "Moana is the title character and protagonist of the 2016 Disney film. She is a Polynesian princess who sets sail to save her people."
+    },
+    {
+      "question": "What is the name of the ice queen in Frozen?",
+      "A": "Anna",
+      "B": "Elsa",
+      "C": "Olaf",
+      "D": "Sven",
+      "answer": "B",
+      "funFact": "Elsa is the ice queen in Frozen, known for her magical ice powers and the song 'Let It Go.' She becomes queen of Arendelle."
+    },
+    {
+      "question": "What is the name of the little mermaid in The Little Mermaid?",
+      "A": "Ariel",
+      "B": "Ursula",
+      "C": "Sebastian",
+      "D": "Flounder",
+      "answer": "A",
+      "funFact": "Ariel is the mermaid princess who dreams of becoming human in The Little Mermaid, released in 1989. The film marked the beginning of the Disney Renaissance."
+    },
+    {
+      "question": "What is the name of the genie in Aladdin?",
+      "A": "Jafar",
+      "B": "Genie",
+      "C": "Abu",
+      "D": "Iago",
+      "answer": "B",
+      "funFact": "The Genie in Aladdin was famously voiced by Robin Williams. The character is known for his comedic personality and magical powers."
+    },
+    {
+      "question": "What is the name of the beast in Beauty and the Beast?",
+      "A": "Beast",
+      "B": "Gaston",
+      "C": "Lumiere",
+      "D": "Cogsworth",
+      "answer": "A",
+      "funFact": "The Beast is the cursed prince in Beauty and the Beast. He must learn to love and be loved before the last petal falls from an enchanted rose."
+    },
+    {
+      "question": "What is the name of the princess in The Princess and the Frog?",
+      "A": "Tiana",
+      "B": "Ariel",
+      "C": "Belle",
+      "D": "Jasmine",
+      "answer": "A",
+      "funFact": "Tiana is Disney's first African American princess. She dreams of opening her own restaurant in New Orleans."
+    },
+    {
+      "question": "What is the name of the villain in The Little Mermaid?",
+      "A": "Ursula",
+      "B": "Maleficent",
+      "C": "Cruella de Vil",
+      "D": "Scar",
+      "answer": "A",
+      "funFact": "Ursula is the sea witch who makes a deal with Ariel in The Little Mermaid. She's one of Disney's most iconic villains."
+    },
+    {
+      "question": "What is the name of Simba's father in The Lion King?",
+      "A": "Mufasa",
+      "B": "Scar",
+      "C": "Timon",
+      "D": "Pumbaa",
+      "answer": "A",
+      "funFact": "Mufasa is Simba's father and the king of the Pride Lands. His death at the hands of Scar is one of the most emotional moments in Disney history."
+    },
+    {
+      "question": "What is the name of the main character in Coco?",
+      "A": "Miguel",
+      "B": "Hector",
+      "C": "Ernesto",
+      "D": "Mama Coco",
+      "answer": "A",
+      "funFact": "Miguel is the 12-year-old boy who travels to the Land of the Dead in Coco, released in 2017. The film celebrates Mexican culture and the Day of the Dead."
+    },
+    {
+      "question": "What is the name of the main character in Encanto?",
+      "A": "Mirabel",
+      "B": "Isabela",
+      "C": "Luisa",
+      "D": "Bruno",
+      "answer": "A",
+      "funFact": "Mirabel is the only member of the Madrigal family without magical powers in Encanto, released in 2021. The film is set in Colombia."
+    },
+    {
+      "question": "What is the name of the main character in Raya and the Last Dragon?",
+      "A": "Raya",
+      "B": "Sisu",
+      "C": "Namaari",
+      "D": "Tuk Tuk",
+      "answer": "A",
+      "funFact": "Raya is a warrior princess who must find the last dragon to save her world in Raya and the Last Dragon, released in 2021."
+    },
+    {
+      "question": "What is the name of the main character in Tangled?",
+      "A": "Rapunzel",
+      "B": "Flynn Rider",
+      "C": "Mother Gothel",
+      "D": "Pascal",
+      "answer": "A",
+      "funFact": "Rapunzel is the long-haired princess locked in a tower in Tangled, released in 2010. It's Disney's 50th animated feature film."
+    },
+    {
+      "question": "What is the name of the main character in Brave?",
+      "A": "Merida",
+      "B": "Elsa",
+      "C": "Moana",
+      "D": "Tiana",
+      "answer": "A",
+      "funFact": "Merida is the Scottish princess in Brave, released in 2012. She's known for her archery skills and her wild red hair."
+    },
+    {
+      "question": "What is the name of the main character in Mulan?",
+      "A": "Mulan",
+      "B": "Shang",
+      "C": "Mushu",
+      "D": "Cri-Kee",
+      "answer": "A",
+      "funFact": "Mulan is the Chinese warrior who disguises herself as a man to take her father's place in the army. The film was released in 1998."
+    },
+    {
+      "question": "What is the name of the main character in Pocahontas?",
+      "A": "Pocahontas",
+      "B": "John Smith",
+      "C": "Meeko",
+      "D": "Flit",
+      "answer": "A",
+      "funFact": "Pocahontas is based on the historical Native American woman. The film was released in 1995 and features the song 'Colors of the Wind.'"
+    },
+    {
+      "question": "What is the name of the main character in The Hunchback of Notre Dame?",
+      "A": "Quasimodo",
+      "B": "Esmeralda",
+      "C": "Frollo",
+      "D": "Phoebus",
+      "answer": "A",
+      "funFact": "Quasimodo is the bell-ringer of Notre Dame in The Hunchback of Notre Dame, released in 1996. The film is based on Victor Hugo's novel."
+    },
+    {
+      "question": "What is the name of the main character in Hercules?",
+      "A": "Hercules",
+      "B": "Megara",
+      "C": "Hades",
+      "D": "Zeus",
+      "answer": "A",
+      "funFact": "Hercules is the son of Zeus who must prove himself a hero in Hercules, released in 1997. The film features gospel-inspired music."
+    },
+    {
+      "question": "What is the name of the main character in Tarzan?",
+      "A": "Tarzan",
+      "B": "Jane",
+      "C": "Kala",
+      "D": "Kerchak",
+      "answer": "A",
+      "funFact": "Tarzan is the man raised by gorillas in Tarzan, released in 1999. The film features music by Phil Collins."
+    }
+]
+

@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Where did the sandwich get its name?",
+      "A": "From a town in England",
+      "B": "From the Earl of Sandwich",
+      "C": "From a type of bread",
+      "D": "From a restaurant",
+      "answer": "B",
+      "funFact": "The sandwich is named after John Montagu, the 4th Earl of Sandwich, who supposedly invented it so he could eat while gambling without getting his hands greasy."
+    },
+    {
+      "question": "Where did the hamburger originate?",
+      "A": "Hamburg, Germany",
+      "B": "America",
+      "C": "France",
+      "D": "Italy",
+      "answer": "A",
+      "funFact": "The hamburger gets its name from Hamburg, Germany, where a similar dish called 'Hamburg steak' was popular. However, the modern hamburger was likely invented in America."
+    },
+    {
+      "question": "Where did pizza originate?",
+      "A": "Italy",
+      "B": "Greece",
+      "C": "America",
+      "D": "France",
+      "answer": "A",
+      "funFact": "Pizza originated in Naples, Italy, in the 18th century. The Margherita pizza was created in 1889 to honor Queen Margherita of Italy, using tomatoes, mozzarella, and basil to represent the Italian flag."
+    },
+    {
+      "question": "Where did the hot dog get its name?",
+      "A": "From a type of sausage",
+      "B": "From a cartoonist",
+      "C": "From a baseball game",
+      "D": "From a restaurant",
+      "answer": "B",
+      "funFact": "The hot dog got its name from cartoonist Tad Dorgan, who drew a cartoon of a dachshund in a bun at a baseball game in 1901. He couldn't spell 'dachshund,' so he wrote 'hot dog.'"
+    },
+    {
+      "question": "Where did the Caesar salad originate?",
+      "A": "Italy",
+      "B": "Mexico",
+      "C": "America",
+      "D": "France",
+      "answer": "B",
+      "funFact": "The Caesar salad was invented in 1924 by Caesar Cardini, an Italian immigrant, in Tijuana, Mexico. It was created as a way to use leftover ingredients."
+    },
+    {
+      "question": "Where did the French fry originate?",
+      "A": "France",
+      "B": "Belgium",
+      "C": "America",
+      "D": "Germany",
+      "answer": "B",
+      "funFact": "French fries likely originated in Belgium in the late 1600s, where people fried potatoes in the Meuse River valley. They're called 'French' because French was the language of the Belgian army."
+    },
+    {
+      "question": "Where did the croissant originate?",
+      "A": "France",
+      "B": "Austria",
+      "C": "Italy",
+      "D": "Germany",
+      "answer": "B",
+      "funFact": "The croissant originated in Austria as the 'kipferl,' a crescent-shaped pastry. It was brought to France by Marie Antoinette and became the croissant we know today."
+    },
+    {
+      "question": "Where did the bagel originate?",
+      "A": "Poland",
+      "B": "Germany",
+      "C": "Russia",
+      "D": "America",
+      "answer": "A",
+      "funFact": "The bagel originated in Poland in the 1600s. It was created as a gift for women in childbirth and was shaped like a ring to represent the cycle of life."
+    },
+    {
+      "question": "Where did the pretzel originate?",
+      "A": "Germany",
+      "B": "Italy",
+      "C": "France",
+      "D": "America",
+      "answer": "A",
+      "funFact": "The pretzel originated in Germany in the 7th century. It was created by monks as a reward for children who learned their prayers, and the shape represents arms crossed in prayer."
+    },
+    {
+      "question": "Where did the donut originate?",
+      "A": "America",
+      "B": "Holland",
+      "C": "Germany",
+      "D": "France",
+      "answer": "B",
+      "funFact": "The donut (or doughnut) originated in Holland as 'olykoeks' (oil cakes). Dutch settlers brought them to America, where they became the donuts we know today."
+    },
+    {
+      "question": "Where did the taco originate?",
+      "A": "Mexico",
+      "B": "America",
+      "C": "Spain",
+      "D": "Italy",
+      "answer": "A",
+      "funFact": "The taco originated in Mexico, likely in the silver mines of the 18th century. The word 'taco' originally referred to the paper-wrapped gunpowder used in mining."
+    },
+    {
+      "question": "Where did the sushi originate?",
+      "A": "Japan",
+      "B": "China",
+      "C": "Korea",
+      "D": "Thailand",
+      "answer": "B",
+      "funFact": "Sushi originated in China around the 2nd century AD as a way to preserve fish by fermenting it with rice. It was later brought to Japan, where it evolved into the sushi we know today."
+    },
+    {
+      "question": "Where did the pasta originate?",
+      "A": "Italy",
+      "B": "China",
+      "C": "Greece",
+      "D": "France",
+      "answer": "B",
+      "funFact": "Pasta likely originated in China around 5000 BC. It was brought to Italy by Marco Polo in the 13th century, though some believe pasta existed in Italy before then."
+    },
+    {
+      "question": "Where did the curry originate?",
+      "A": "India",
+      "B": "Thailand",
+      "C": "China",
+      "D": "Japan",
+      "answer": "A",
+      "funFact": "Curry originated in India, where it's been used for thousands of years. The word 'curry' comes from the Tamil word 'kari,' meaning sauce or relish."
+    },
+    {
+      "question": "Where did the kimchi originate?",
+      "A": "Korea",
+      "B": "China",
+      "C": "Japan",
+      "D": "Thailand",
+      "answer": "A",
+      "funFact": "Kimchi originated in Korea over 2,000 years ago as a way to preserve vegetables through fermentation. It's now a staple of Korean cuisine and is eaten with almost every meal."
+    },
+    {
+      "question": "Where did the paella originate?",
+      "A": "Spain",
+      "B": "Italy",
+      "C": "France",
+      "D": "Portugal",
+      "answer": "A",
+      "funFact": "Paella originated in Valencia, Spain, in the 18th century. It was originally a peasant dish made with rice, vegetables, and whatever meat was available, cooked in a large pan over an open fire."
+    },
+    {
+      "question": "Where did the falafel originate?",
+      "A": "Egypt",
+      "B": "Israel",
+      "C": "Lebanon",
+      "D": "All claim it",
+      "answer": "D",
+      "funFact": "Falafel's origin is disputed, with Egypt, Israel, and Lebanon all claiming it. It likely originated in Egypt as a Coptic Christian food, then spread throughout the Middle East."
+    },
+    {
+      "question": "Where did the kebab originate?",
+      "A": "Turkey",
+      "B": "Greece",
+      "C": "Iran",
+      "D": "All claim it",
+      "answer": "D",
+      "funFact": "Kebabs originated in the Middle East, with Turkey, Greece, and Iran all claiming them. The word 'kebab' comes from the Arabic word 'kabab,' meaning grilled meat."
+    },
+    {
+      "question": "Where did the ramen originate?",
+      "A": "Japan",
+      "B": "China",
+      "C": "Korea",
+      "D": "Thailand",
+      "answer": "B",
+      "funFact": "Ramen originated in China as 'lamian,' a type of pulled noodle. It was brought to Japan in the late 19th century and evolved into the ramen we know today."
+    },
+    {
+      "question": "Where did the pho originate?",
+      "A": "Vietnam",
+      "B": "Thailand",
+      "C": "China",
+      "D": "Korea",
+      "answer": "A",
+      "funFact": "Pho originated in Vietnam in the early 20th century, likely influenced by French colonial cuisine. It's a soup made with rice noodles, broth, and meat, typically beef or chicken."
+    },
+    {
+      "question": "Where did the pad thai originate?",
+      "A": "Thailand",
+      "B": "Vietnam",
+      "C": "China",
+      "D": "Korea",
+      "answer": "A",
+      "funFact": "Pad thai was created in Thailand in the 1930s by Prime Minister Plaek Phibunsongkhram as a way to promote Thai nationalism and reduce rice consumption during a shortage."
+    },
+    {
+      "question": "Where did the borscht originate?",
+      "A": "Russia",
+      "B": "Ukraine",
+      "C": "Poland",
+      "D": "All claim it",
+      "answer": "D",
+      "funFact": "Borscht's origin is disputed, with Russia, Ukraine, and Poland all claiming it. It likely originated in Ukraine, where it's considered the national dish."
+    },
+    {
+      "question": "Where did the goulash originate?",
+      "A": "Hungary",
+      "B": "Austria",
+      "C": "Germany",
+      "D": "Poland",
+      "answer": "A",
+      "funFact": "Goulash originated in Hungary in the 9th century as a stew made by Hungarian shepherds. The word 'goulash' comes from the Hungarian word 'gulyás,' meaning herdsman."
+    },
+    {
+      "question": "Where did the schnitzel originate?",
+      "A": "Austria",
+      "B": "Germany",
+      "C": "Italy",
+      "D": "France",
+      "answer": "A",
+      "funFact": "Schnitzel originated in Austria in the 19th century. The famous Wiener Schnitzel (Vienna schnitzel) is made with veal and is considered Austria's national dish."
+    },
+    {
+      "question": "Where did the fondue originate?",
+      "A": "Switzerland",
+      "B": "France",
+      "C": "Italy",
+      "D": "Germany",
+      "answer": "A",
+      "funFact": "Fondue originated in Switzerland in the 18th century as a way for peasants to use up old cheese and bread during the winter months. It became popular in the 1930s."
+    }
+]
+

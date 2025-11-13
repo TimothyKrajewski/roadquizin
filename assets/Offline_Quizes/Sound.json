@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is sound?",
+      "A": "Light",
+      "B": "Vibrations traveling through a medium",
+      "C": "Heat",
+      "D": "Electricity",
+      "answer": "B",
+      "funFact": "Sound is vibrations traveling through a medium (like air, water, or solid objects). When these vibrations reach our ears, we hear sound."
+    },
+    {
+      "question": "How does sound travel?",
+      "A": "In waves",
+      "B": "In straight lines",
+      "C": "In circles",
+      "D": "It doesn't travel",
+      "answer": "A",
+      "funFact": "Sound travels in waves, created by vibrations. These waves move through air, water, or other materials, carrying the sound from its source to our ears."
+    },
+    {
+      "question": "What is the speed of sound in air?",
+      "A": "About 340 meters per second",
+      "B": "About 3,000 meters per second",
+      "C": "About 300,000 meters per second",
+      "D": "It varies",
+      "answer": "D",
+      "funFact": "The speed of sound in air is approximately 343 meters per second (1,125 feet per second) at room temperature, but it varies with temperature and altitude."
+    },
+    {
+      "question": "Can sound travel in space?",
+      "A": "Yes, easily",
+      "B": "No, there is no air in space",
+      "C": "Only sometimes",
+      "D": "Only loud sounds",
+      "answer": "B",
+      "funFact": "Sound cannot travel in space because there is no air or other medium for the sound waves to travel through. Space is a vacuum, so it's silent."
+    },
+    {
+      "question": "What is pitch?",
+      "A": "How loud a sound is",
+      "B": "How high or low a sound is",
+      "C": "How fast a sound travels",
+      "D": "How long a sound lasts",
+      "answer": "B",
+      "funFact": "Pitch is how high or low a sound is. High-pitched sounds have high frequencies (like a bird chirping), while low-pitched sounds have low frequencies (like a drum)."
+    },
+    {
+      "question": "What is volume?",
+      "A": "How high or low a sound is",
+      "B": "How loud a sound is",
+      "C": "How fast a sound travels",
+      "D": "How long a sound lasts",
+      "answer": "B",
+      "funFact": "Volume (or loudness) is how loud a sound is. Loud sounds have high amplitude (bigger waves), while quiet sounds have low amplitude (smaller waves)."
+    },
+    {
+      "question": "What is an echo?",
+      "A": "A new sound",
+      "B": "A sound that bounces back",
+      "C": "A quiet sound",
+      "D": "A high sound",
+      "answer": "B",
+      "funFact": "An echo is a sound that bounces back after hitting a surface. When sound waves hit a hard surface, they reflect back, creating an echo."
+    },
+    {
+      "question": "What animal uses echolocation?",
+      "A": "Dogs",
+      "B": "Bats",
+      "C": "Birds",
+      "D": "Fish",
+      "answer": "B",
+      "funFact": "Bats use echolocation to navigate and find food. They make high-pitched sounds and listen for the echoes to determine where objects are."
+    },
+    {
+      "question": "What is frequency?",
+      "A": "How loud a sound is",
+      "B": "How many times a sound wave repeats per second",
+      "C": "How fast a sound travels",
+      "D": "How long a sound lasts",
+      "answer": "B",
+      "funFact": "Frequency is how many times a sound wave repeats per second, measured in hertz (Hz). Higher frequency means higher pitch, and lower frequency means lower pitch."
+    },
+    {
+      "question": "What is the loudest sound possible?",
+      "A": "There is no limit",
+      "B": "About 194 decibels",
+      "C": "About 100 decibels",
+      "D": "About 50 decibels",
+      "answer": "B",
+      "funFact": "The loudest possible sound in air is about 194 decibels. Beyond this, the sound wave becomes a shock wave. For comparison, a jet engine is about 140 decibels."
+    }
+]
+

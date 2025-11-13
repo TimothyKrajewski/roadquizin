@@ -1,0 +1,93 @@
+[
+    {
+      "question": "In which play does the character say 'To be, or not to be, that is the question'?",
+      "A": "Macbeth",
+      "B": "Romeo and Juliet",
+      "C": "Hamlet",
+      "D": "Othello",
+      "answer": "C",
+      "funFact": "This famous soliloquy is spoken by Hamlet in Act 3, Scene 1 of Shakespeare's tragedy 'Hamlet,' and is one of the most quoted lines in English literature."
+    },
+    {
+      "question": "Which two families are feuding in 'Romeo and Juliet'?",
+      "A": "Montague and Capulet",
+      "B": "York and Lancaster",
+      "C": "Tudor and Stuart",
+      "D": "Hathaway and Shakespeare",
+      "answer": "A",
+      "funFact": "The Montagues and Capulets are the two feuding families in 'Romeo and Juliet,' whose conflict drives the tragic story of the star-crossed lovers."
+    },
+    {
+      "question": "What is the name of the forest in 'A Midsummer Night's Dream'?",
+      "A": "Sherwood Forest",
+      "B": "Arden Forest",
+      "C": "Athens Forest",
+      "D": "The forest near Athens",
+      "answer": "D",
+      "funFact": "The magical events in 'A Midsummer Night's Dream' take place in a forest near Athens, where fairies and magic create confusion and comedy."
+    },
+    {
+      "question": "Which play features the three witches and the line 'Double, double toil and trouble'?",
+      "A": "Hamlet",
+      "B": "Macbeth",
+      "C": "King Lear",
+      "D": "The Tempest",
+      "answer": "B",
+      "funFact": "Macbeth features three witches who chant 'Double, double toil and trouble' while brewing a potion, and their prophecies drive the play's plot."
+    },
+    {
+      "question": "What is the name of the theater most associated with Shakespeare?",
+      "A": "The Rose",
+      "B": "The Globe",
+      "C": "The Swan",
+      "D": "The Curtain",
+      "answer": "B",
+      "funFact": "The Globe Theatre, built in 1599, was the primary theater where many of Shakespeare's plays were performed. A reconstruction stands in London today."
+    },
+    {
+      "question": "In 'The Merchant of Venice,' what does Shylock demand as payment?",
+      "A": "A pound of flesh",
+      "B": "A thousand ducats",
+      "C": "Three caskets",
+      "D": "A ship",
+      "answer": "A",
+      "funFact": "Shylock, the Jewish moneylender, demands a pound of flesh from Antonio as payment for a defaulted loan, creating the play's central conflict."
+    },
+    {
+      "question": "Which character says 'All the world's a stage'?",
+      "A": "Hamlet",
+      "B": "Prospero",
+      "C": "Jaques",
+      "D": "Falstaff",
+      "answer": "C",
+      "funFact": "Jaques speaks the famous 'All the world's a stage' monologue in 'As You Like It,' describing the seven ages of man."
+    },
+    {
+      "question": "What type of play is 'The Tempest'?",
+      "A": "Tragedy",
+      "B": "History",
+      "C": "Comedy",
+      "D": "Romance",
+      "answer": "D",
+      "funFact": "'The Tempest' is classified as a romance (or tragicomedy), one of Shakespeare's late plays that combines elements of comedy and tragedy."
+    },
+    {
+      "question": "Which king is the subject of three of Shakespeare's history plays?",
+      "A": "King John",
+      "B": "King Henry V",
+      "C": "King Richard III",
+      "D": "King Henry VI",
+      "answer": "D",
+      "funFact": "Shakespeare wrote three plays about King Henry VI: 'Henry VI, Part 1,' 'Henry VI, Part 2,' and 'Henry VI, Part 3,' covering the Wars of the Roses."
+    },
+    {
+      "question": "In which play does a character say 'What light through yonder window breaks?'",
+      "A": "Hamlet",
+      "B": "Romeo and Juliet",
+      "C": "Much Ado About Nothing",
+      "D": "Twelfth Night",
+      "answer": "B",
+      "funFact": "Romeo speaks this line in 'Romeo and Juliet' when he first sees Juliet on her balcony, beginning one of literature's most famous love scenes."
+    }
+]
+

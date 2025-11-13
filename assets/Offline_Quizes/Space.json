@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the name of the first human to walk on the Moon?",
+      "A": "Buzz Aldrin",
+      "B": "Neil Armstrong",
+      "C": "Michael Collins",
+      "D": "John Glenn",
+      "answer": "B",
+      "funFact": "Neil Armstrong became the first human to walk on the Moon on July 20, 1969, during the Apollo 11 mission, saying the famous words, 'That's one small step for man, one giant leap for mankind.'"
+    },
+    {
+      "question": "What is the name of the first artificial satellite launched into space?",
+      "A": "Explorer 1",
+      "B": "Sputnik 1",
+      "C": "Vanguard 1",
+      "D": "Luna 1",
+      "answer": "B",
+      "funFact": "Sputnik 1, launched by the Soviet Union on October 4, 1957, was the first artificial satellite, marking the beginning of the space age."
+    },
+    {
+      "question": "What is the name of NASA's space telescope launched in 1990?",
+      "A": "James Webb Space Telescope",
+      "B": "Hubble Space Telescope",
+      "C": "Spitzer Space Telescope",
+      "D": "Chandra X-ray Observatory",
+      "answer": "B",
+      "funFact": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing stunning images and valuable data about the universe, despite initial technical problems."
+    },
+    {
+      "question": "What is the name of the first woman in space?",
+      "A": "Sally Ride",
+      "B": "Valentina Tereshkova",
+      "C": "Mae Jemison",
+      "D": "Christa McAuliffe",
+      "answer": "B",
+      "funFact": "Valentina Tereshkova, a Soviet cosmonaut, became the first woman in space on June 16, 1963, aboard Vostok 6."
+    },
+    {
+      "question": "What is the name of the planet known as the 'Red Planet'?",
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn",
+      "answer": "B",
+      "funFact": "Mars is called the 'Red Planet' because of its reddish appearance, caused by iron oxide (rust) on its surface."
+    },
+    {
+      "question": "What is the name of the largest moon in our solar system?",
+      "A": "Titan",
+      "B": "Ganymede",
+      "C": "Europa",
+      "D": "Io",
+      "answer": "B",
+      "funFact": "Ganymede, one of Jupiter's moons, is the largest moon in our solar system, even larger than the planet Mercury."
+    },
+    {
+      "question": "What is a comet primarily made of?",
+      "A": "Rock",
+      "B": "Metal",
+      "C": "Ice and dust",
+      "D": "Gas",
+      "answer": "C",
+      "funFact": "Comets are primarily made of ice, dust, and rocky material. When they approach the Sun, the ice sublimates, creating the characteristic coma and tail."
+    },
+    {
+      "question": "What is the name of the first space station?",
+      "A": "Mir",
+      "B": "Skylab",
+      "C": "Salyut 1",
+      "D": "International Space Station",
+      "answer": "C",
+      "funFact": "Salyut 1, launched by the Soviet Union in 1971, was the first space station. It was visited by one crew before being deorbited."
+    },
+    {
+      "question": "What is the name of the force that keeps planets in orbit around the Sun?",
+      "A": "Magnetism",
+      "B": "Gravity",
+      "C": "Electromagnetism",
+      "D": "Friction",
+      "answer": "B",
+      "funFact": "Gravity is the force that keeps planets in orbit around the Sun. The Sun's gravitational pull balances the planets' forward motion, creating stable orbits."
+    },
+    {
+      "question": "What is the name of the mission that landed the first humans on the Moon?",
+      "A": "Apollo 10",
+      "B": "Apollo 11",
+      "C": "Apollo 12",
+      "D": "Apollo 13",
+      "answer": "B",
+      "funFact": "Apollo 11, launched on July 16, 1969, was the mission that successfully landed the first humans on the Moon, with Neil Armstrong and Buzz Aldrin walking on the lunar surface."
+    }
+]
+

@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many bones are in an adult human body?",
+      "A": "196",
+      "B": "206",
+      "C": "216",
+      "D": "226",
+      "answer": "B",
+      "funFact": "An adult human body has 206 bones. Babies are born with about 300 bones, but many fuse together as they grow."
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "A": "Liver",
+      "B": "Lungs",
+      "C": "Skin",
+      "D": "Intestines",
+      "answer": "C",
+      "funFact": "The skin is the largest organ in the human body, covering an average area of about 20 square feet and weighing approximately 8 pounds."
+    },
+    {
+      "question": "How many chambers does the human heart have?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "answer": "C",
+      "funFact": "The human heart has four chambers: two atria (upper chambers) that receive blood and two ventricles (lower chambers) that pump blood out."
+    },
+    {
+      "question": "What is the hardest substance in the human body?",
+      "A": "Bone",
+      "B": "Tooth enamel",
+      "C": "Nails",
+      "D": "Cartilage",
+      "answer": "B",
+      "funFact": "Tooth enamel is the hardest substance in the human body, even harder than bone. It's made mostly of calcium and phosphate minerals."
+    },
+    {
+      "question": "How many muscles are in the human body?",
+      "A": "About 400",
+      "B": "About 600",
+      "C": "About 800",
+      "D": "About 1000",
+      "answer": "B",
+      "funFact": "The human body has approximately 600 muscles, which make up about 40% of total body weight. The smallest muscle is in the ear, and the largest is the gluteus maximus."
+    },
+    {
+      "question": "What is the longest bone in the human body?",
+      "A": "Humerus",
+      "B": "Femur",
+      "C": "Tibia",
+      "D": "Radius",
+      "answer": "B",
+      "funFact": "The femur (thigh bone) is the longest and strongest bone in the human body, making up about one-quarter of a person's height."
+    },
+    {
+      "question": "What percentage of the human body is water?",
+      "A": "About 40%",
+      "B": "About 50%",
+      "C": "About 60%",
+      "D": "About 70%",
+      "answer": "C",
+      "funFact": "The human body is approximately 60% water. This percentage varies by age, gender, and body composition, with infants having a higher percentage."
+    },
+    {
+      "question": "What is the name of the largest artery in the human body?",
+      "A": "Pulmonary artery",
+      "B": "Aorta",
+      "C": "Carotid artery",
+      "D": "Femoral artery",
+      "answer": "B",
+      "funFact": "The aorta is the largest artery in the human body, carrying oxygenated blood from the heart to the rest of the body. It's about the diameter of a garden hose."
+    },
+    {
+      "question": "How many teeth does an adult human typically have?",
+      "A": "28",
+      "B": "30",
+      "C": "32",
+      "D": "34",
+      "answer": "C",
+      "funFact": "An adult human typically has 32 teeth: 8 incisors, 4 canines, 8 premolars, and 12 molars (including 4 wisdom teeth, though not everyone has wisdom teeth)."
+    },
+    {
+      "question": "What is the name of the smallest bone in the human body?",
+      "A": "Stapes",
+      "B": "Incus",
+      "C": "Malleus",
+      "D": "All are among the smallest",
+      "answer": "A",
+      "funFact": "The stapes (stirrup) is the smallest bone in the human body, located in the middle ear. It's about the size of a grain of rice and helps transmit sound vibrations."
+    }
+]
+

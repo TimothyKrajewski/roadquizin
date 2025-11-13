@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest country in the world by land area?",
+      "A": "Canada",
+      "B": "China",
+      "C": "United States",
+      "D": "Russia",
+      "answer": "D",
+      "funFact": "Russia is the largest country in the world by land area, covering about 6.6 million square miles (17.1 million square kilometers), spanning 11 time zones."
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "A": "Monaco",
+      "B": "Vatican City",
+      "C": "San Marino",
+      "D": "Liechtenstein",
+      "answer": "B",
+      "funFact": "Vatican City is the smallest country in the world, covering only 0.17 square miles (0.44 square kilometers) and located entirely within Rome, Italy."
+    },
+    {
+      "question": "Which country has the most people?",
+      "A": "India",
+      "B": "China",
+      "C": "United States",
+      "D": "Indonesia",
+      "answer": "B",
+      "funFact": "China has the largest population in the world, with over 1.4 billion people, though India is close behind and may soon surpass it."
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "A": "Toronto",
+      "B": "Vancouver",
+      "C": "Montreal",
+      "D": "Ottawa",
+      "answer": "D",
+      "funFact": "Ottawa is the capital of Canada, chosen as a compromise between English-speaking Toronto and French-speaking Montreal. It's located in the province of Ontario."
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "A": "China",
+      "B": "Japan",
+      "C": "South Korea",
+      "D": "Thailand",
+      "answer": "B",
+      "funFact": "Japan is known as the 'Land of the Rising Sun' because the Japanese name for Japan, 'Nihon' or 'Nippon,' means 'origin of the sun' or 'sun's origin.'"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Brisbane",
+      "answer": "C",
+      "funFact": "Canberra is the capital of Australia, a planned city built specifically to serve as the capital. Sydney and Melbourne are larger cities but Canberra was chosen as a compromise."
+    },
+    {
+      "question": "Which country is home to the Eiffel Tower?",
+      "A": "Italy",
+      "B": "France",
+      "C": "Germany",
+      "D": "Spain",
+      "answer": "B",
+      "funFact": "The Eiffel Tower is located in Paris, France. It was built in 1889 for the World's Fair and was initially criticized but has become an iconic symbol of France."
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "A": "São Paulo",
+      "B": "Rio de Janeiro",
+      "C": "Brasília",
+      "D": "Salvador",
+      "answer": "C",
+      "funFact": "Brasília is the capital of Brazil, a planned city built in the 1960s. It's known for its modernist architecture and was designed to be the country's capital."
+    },
+    {
+      "question": "Which country is known for the Great Wall?",
+      "A": "Japan",
+      "B": "China",
+      "C": "India",
+      "D": "Mongolia",
+      "answer": "B",
+      "funFact": "The Great Wall of China is one of the most famous landmarks in the world, stretching over 13,000 miles and built over many centuries to protect China from invasions."
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "A": "Alexandria",
+      "B": "Cairo",
+      "C": "Luxor",
+      "D": "Giza",
+      "answer": "B",
+      "funFact": "Cairo is the capital and largest city of Egypt, located on the banks of the Nile River. It's one of the largest cities in Africa and the Middle East."
+    }
+]
+

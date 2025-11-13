@@ -1,0 +1,183 @@
+[
+    {
+      "question": "Who has won the most major championships?",
+      "A": "Jack Nicklaus",
+      "B": "18 majors",
+      "C": "Both A and B",
+      "D": "Tiger Woods",
+      "answer": "C",
+      "funFact": "Jack Nicklaus has won 18 major championships, the most in golf history. He's known as the Golden Bear."
+    },
+    {
+      "question": "How many majors has Tiger Woods won?",
+      "A": "15",
+      "B": "Second most",
+      "C": "Both A and B",
+      "D": "18",
+      "answer": "C",
+      "funFact": "Tiger Woods has won 15 major championships, the second most in history. He's one of the greatest golfers ever."
+    },
+    {
+      "question": "Who was Arnold Palmer?",
+      "A": "The King",
+      "B": "Won 7 majors",
+      "C": "Both A and B",
+      "D": "Modern player",
+      "answer": "C",
+      "funFact": "Arnold Palmer, known as 'The King,' won 7 major championships and was one of golf's most popular players."
+    },
+    {
+      "question": "Who was Gary Player?",
+      "A": "South African golfer",
+      "B": "Won 9 majors",
+      "C": "Both A and B",
+      "D": "American",
+      "answer": "C",
+      "funFact": "Gary Player is a South African golfer who won 9 major championships. He's one of only five players to win all four majors."
+    },
+    {
+      "question": "Who was Ben Hogan?",
+      "A": "Golf legend",
+      "B": "Won 9 majors",
+      "C": "Both A and B",
+      "D": "Modern player",
+      "answer": "C",
+      "funFact": "Ben Hogan was a golf legend who won 9 major championships. He's known for his precision and practice."
+    },
+    {
+      "question": "Who was Sam Snead?",
+      "A": "Won most PGA Tour events",
+      "B": "82 wins",
+      "C": "Both A and B",
+      "D": "Few wins",
+      "answer": "C",
+      "funFact": "Sam Snead won 82 PGA Tour events, the most in history. He also won 7 major championships."
+    },
+    {
+      "question": "Who was Bobby Jones?",
+      "A": "Won Grand Slam",
+      "B": "1930, all four majors",
+      "C": "Both A and B",
+      "D": "Never won major",
+      "answer": "C",
+      "funFact": "Bobby Jones won the Grand Slam in 1930, winning all four major championships in one year. He also co-founded the Masters."
+    },
+    {
+      "question": "Who is Phil Mickelson?",
+      "A": "Left-handed golfer",
+      "B": "Won 6 majors",
+      "C": "Both A and B",
+      "D": "Right-handed",
+      "answer": "C",
+      "funFact": "Phil Mickelson is a left-handed golfer who has won 6 major championships. He's one of the most successful modern golfers."
+    },
+    {
+      "question": "Who is Rory McIlroy?",
+      "A": "Northern Irish golfer",
+      "B": "Won 4 majors",
+      "C": "Both A and B",
+      "D": "American",
+      "answer": "C",
+      "funFact": "Rory McIlroy is a Northern Irish golfer who has won 4 major championships. He's one of the top players in the world."
+    },
+    {
+      "question": "Who was Walter Hagen?",
+      "A": "Early golf star",
+      "B": "Won 11 majors",
+      "C": "Both A and B",
+      "D": "Modern player",
+      "answer": "C",
+      "funFact": "Walter Hagen was an early golf star who won 11 major championships. He helped popularize professional golf."
+    },
+    {
+      "question": "Who was Gene Sarazen?",
+      "A": "Invented sand wedge",
+      "B": "Won 7 majors",
+      "C": "Both A and B",
+      "D": "Never won",
+      "answer": "C",
+      "funFact": "Gene Sarazen invented the sand wedge and won 7 major championships. He was one of golf's early stars."
+    },
+    {
+      "question": "Who was Tom Watson?",
+      "A": "Won 8 majors",
+      "B": "5 British Opens",
+      "C": "Both A and B",
+      "D": "Few majors",
+      "answer": "C",
+      "funFact": "Tom Watson won 8 major championships, including 5 British Opens. He was dominant in the 1970s and 1980s."
+    },
+    {
+      "question": "Who was Seve Ballesteros?",
+      "A": "Spanish golfer",
+      "B": "Won 5 majors",
+      "C": "Both A and B",
+      "D": "American",
+      "answer": "C",
+      "funFact": "Seve Ballesteros was a Spanish golfer who won 5 major championships. He helped popularize golf in Europe."
+    },
+    {
+      "question": "Who was Lee Trevino?",
+      "A": "Mexican-American golfer",
+      "B": "Won 6 majors",
+      "C": "Both A and B",
+      "D": "Never won",
+      "answer": "C",
+      "funFact": "Lee Trevino is a Mexican-American golfer who won 6 major championships. He's known for his humor and skill."
+    },
+    {
+      "question": "Who was Nick Faldo?",
+      "A": "English golfer",
+      "B": "Won 6 majors",
+      "C": "Both A and B",
+      "D": "American",
+      "answer": "C",
+      "funFact": "Nick Faldo is an English golfer who won 6 major championships. He was dominant in the 1980s and 1990s."
+    },
+    {
+      "question": "Who was Payne Stewart?",
+      "A": "Won 3 majors",
+      "B": "Died in plane crash",
+      "C": "Both A and B",
+      "D": "Still playing",
+      "answer": "C",
+      "funFact": "Payne Stewart won 3 major championships. He tragically died in a plane crash in 1999."
+    },
+    {
+      "question": "Who was Greg Norman?",
+      "A": "The Shark",
+      "B": "Won 2 majors",
+      "C": "Both A and B",
+      "D": "Many majors",
+      "answer": "C",
+      "funFact": "Greg Norman, known as 'The Shark,' won 2 major championships. He was ranked #1 for many weeks."
+    },
+    {
+      "question": "Who was Ernie Els?",
+      "A": "The Big Easy",
+      "B": "Won 4 majors",
+      "C": "Both A and B",
+      "D": "Few majors",
+      "answer": "C",
+      "funFact": "Ernie Els, known as 'The Big Easy,' won 4 major championships. He's a South African golfer."
+    },
+    {
+      "question": "Who was Vijay Singh?",
+      "A": "Fijian golfer",
+      "B": "Won 3 majors",
+      "C": "Both A and B",
+      "D": "American",
+      "answer": "C",
+      "funFact": "Vijay Singh is a Fijian golfer who won 3 major championships. He was ranked #1 in the world."
+    },
+    {
+      "question": "What makes a great golfer?",
+      "A": "Skill, practice, mental toughness",
+      "B": "Consistency",
+      "C": "Both A and B",
+      "D": "Luck only",
+      "answer": "C",
+      "funFact": "Great golfers combine skill, practice, mental toughness, and consistency. It takes years of dedication to reach the top."
+    }
+]
+

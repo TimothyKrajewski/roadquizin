@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the Treaty of Versailles?",
+      "A": "Ended World War I",
+      "B": "1919, harsh on Germany",
+      "C": "Both A and B",
+      "D": "Favorable to Germany",
+      "answer": "C",
+      "funFact": "The Treaty of Versailles (1919) officially ended World War I. It imposed harsh penalties on Germany and is often cited as a cause of World War II."
+    },
+    {
+      "question": "What was the League of Nations?",
+      "A": "International organization",
+      "B": "Created to maintain peace",
+      "C": "Both A and B",
+      "D": "Military alliance",
+      "answer": "C",
+      "funFact": "The League of Nations was created in 1920 as part of the Treaty of Versailles to maintain world peace. It was the predecessor to the United Nations."
+    },
+    {
+      "question": "What was the impact on Germany?",
+      "A": "Lost territory",
+      "B": "Forced to pay reparations",
+      "C": "Both A and B",
+      "D": "Gained territory",
+      "answer": "C",
+      "funFact": "Germany lost significant territory and was forced to pay massive reparations. This created resentment that contributed to World War II."
+    },
+    {
+      "question": "What was the impact on empires?",
+      "A": "Austro-Hungarian and Ottoman empires collapsed",
+      "B": "New countries created",
+      "C": "Both A and B",
+      "D": "Empires grew",
+      "answer": "C",
+      "funFact": "The Austro-Hungarian and Ottoman empires collapsed, and new countries were created in Europe and the Middle East."
+    },
+    {
+      "question": "What was the Russian Revolution?",
+      "A": "1917, Bolsheviks took power",
+      "B": "Created Soviet Union",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "The Russian Revolution (1917) saw the Bolsheviks take power, leading to Russia's exit from the war and the creation of the Soviet Union."
+    },
+    {
+      "question": "What was the impact on the United States?",
+      "A": "Became world power",
+      "B": "Isolationist after war",
+      "C": "Both A and B",
+      "D": "No impact",
+      "answer": "C",
+      "funFact": "The United States became a world power but became isolationist after the war, refusing to join the League of Nations."
+    },
+    {
+      "question": "What was the economic impact?",
+      "A": "Europe devastated",
+      "B": "Great Depression",
+      "C": "Both A and B",
+      "D": "Prosperity",
+      "answer": "C",
+      "funFact": "Europe was economically devastated, and the war contributed to the Great Depression of the 1930s."
+    },
+    {
+      "question": "What was the human cost?",
+      "A": "Millions dead",
+      "B": "Millions wounded",
+      "C": "Both A and B",
+      "D": "Minimal",
+      "answer": "C",
+      "funFact": "World War I resulted in approximately 20 million deaths (military and civilian) and 20 million wounded."
+    },
+    {
+      "question": "What was the Spanish Flu?",
+      "A": "Pandemic after the war",
+      "B": "Killed millions",
+      "C": "Both A and B",
+      "D": "Minor illness",
+      "answer": "C",
+      "funFact": "The Spanish Flu pandemic (1918-1920) occurred after the war and killed an estimated 50 million people worldwide."
+    },
+    {
+      "question": "What was the impact on women?",
+      "A": "Gained new roles",
+      "B": "Some got voting rights",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "Women gained new roles during the war and some countries granted women voting rights afterward, including the United States in 1920."
+    },
+    {
+      "question": "What was the impact on technology?",
+      "A": "Accelerated development",
+      "B": "New weapons and methods",
+      "C": "Both A and B",
+      "D": "No advancement",
+      "answer": "C",
+      "funFact": "The war accelerated technological development, leading to new weapons, aircraft, and medical advances."
+    },
+    {
+      "question": "What was the Lost Generation?",
+      "A": "Generation affected by war",
+      "B": "Lost youth and innocence",
+      "C": "Both A and B",
+      "D": "Prosperous generation",
+      "answer": "C",
+      "funFact": "The Lost Generation refers to those who came of age during World War I, who lost their youth and innocence to the war."
+    },
+    {
+      "question": "What was the impact on art and literature?",
+      "A": "Reflected disillusionment",
+      "B": "New movements",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "Art and literature reflected the disillusionment of the war, leading to new artistic movements like Dadaism and Surrealism."
+    },
+    {
+      "question": "What was the impact on colonialism?",
+      "A": "Weakened European powers",
+      "B": "Colonies sought independence",
+      "C": "Both A and B",
+      "D": "Strengthened",
+      "answer": "C",
+      "funFact": "The war weakened European colonial powers, and colonies began seeking independence, though this took decades."
+    },
+    {
+      "question": "What was the impact on the Middle East?",
+      "A": "Ottoman Empire collapsed",
+      "B": "New countries created",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "The Ottoman Empire collapsed, and the Middle East was divided into new countries, often with arbitrary borders that caused future conflicts."
+    },
+    {
+      "question": "What was the impact on future wars?",
+      "A": "Set stage for World War II",
+      "B": "Unresolved issues",
+      "C": "Both A and B",
+      "D": "Prevented future wars",
+      "answer": "C",
+      "funFact": "The aftermath of World War I set the stage for World War II, with unresolved issues and resentment leading to another conflict."
+    },
+    {
+      "question": "What was the lesson learned?",
+      "A": "War is terrible",
+      "B": "Need for better peace",
+      "C": "Both A and B",
+      "D": "No lesson",
+      "answer": "C",
+      "funFact": "The lesson was that war is terrible, but the need for better peace wasn't fully addressed, leading to World War II."
+    },
+    {
+      "question": "What was the legacy?",
+      "A": "Changed the world",
+      "B": "Still remembered today",
+      "C": "Both A and B",
+      "D": "Forgotten",
+      "answer": "C",
+      "funFact": "World War I changed the world forever and is still remembered today through memorials, ceremonies, and historical study."
+    },
+    {
+      "question": "What was the impact on memory?",
+      "A": "Created remembrance traditions",
+      "B": "Memorials and ceremonies",
+      "C": "Both A and B",
+      "D": "Forgotten",
+      "answer": "C",
+      "funFact": "The war created remembrance traditions, including memorials, ceremonies, and days of remembrance like Armistice Day (Veterans Day)."
+    },
+    {
+      "question": "What was the overall impact?",
+      "A": "End of old world",
+      "B": "Beginning of modern era",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "World War I marked the end of the old world order and the beginning of the modern era, with profound and lasting changes."
+    }
+]
+

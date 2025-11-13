@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest island in the world?",
+      "A": "Madagascar",
+      "B": "Borneo",
+      "C": "New Guinea",
+      "D": "Greenland",
+      "answer": "D",
+      "funFact": "Greenland is the largest island in the world, covering approximately 836,330 square miles (2,166,086 square kilometers), though it's mostly covered in ice."
+    },
+    {
+      "question": "What is the most populous island in the world?",
+      "A": "Java",
+      "B": "Honshu",
+      "C": "Great Britain",
+      "D": "Sumatra",
+      "answer": "A",
+      "funFact": "Java is the most populous island in the world, with over 140 million people. It's part of Indonesia and is home to the capital city, Jakarta."
+    },
+    {
+      "question": "What island is home to the Statue of Liberty?",
+      "A": "Manhattan",
+      "B": "Liberty Island",
+      "C": "Ellis Island",
+      "D": "Long Island",
+      "answer": "B",
+      "funFact": "The Statue of Liberty stands on Liberty Island (formerly Bedloe's Island) in New York Harbor. Ellis Island, nearby, was the immigration station."
+    },
+    {
+      "question": "What is the largest island in the Mediterranean Sea?",
+      "A": "Sicily",
+      "B": "Sardinia",
+      "C": "Cyprus",
+      "D": "Crete",
+      "answer": "A",
+      "funFact": "Sicily is the largest island in the Mediterranean Sea, covering about 9,927 square miles. It's part of Italy and is known for Mount Etna, an active volcano."
+    },
+    {
+      "question": "What island is known as the 'Emerald Isle'?",
+      "A": "Jamaica",
+      "B": "Ireland",
+      "C": "New Zealand",
+      "D": "Sri Lanka",
+      "answer": "B",
+      "funFact": "Ireland is known as the 'Emerald Isle' because of its lush green landscape, caused by frequent rainfall and mild temperatures."
+    },
+    {
+      "question": "What is the smallest island nation in the world?",
+      "A": "Maldives",
+      "B": "Nauru",
+      "C": "Tuvalu",
+      "D": "All are very small",
+      "answer": "D",
+      "funFact": "Nauru is the smallest island nation by area (8.1 square miles), while Vatican City is the smallest country overall. The Maldives and Tuvalu are also very small island nations."
+    },
+    {
+      "question": "What island is home to the Galápagos Islands?",
+      "A": "In the Pacific Ocean",
+      "B": "Part of Ecuador",
+      "C": "Both A and B",
+      "D": "In the Caribbean",
+      "answer": "C",
+      "funFact": "The Galápagos Islands are located in the Pacific Ocean and are part of Ecuador. They're famous for their unique wildlife and were studied by Charles Darwin."
+    },
+    {
+      "question": "What is the largest island in the Caribbean?",
+      "A": "Jamaica",
+      "B": "Cuba",
+      "C": "Hispaniola",
+      "D": "Puerto Rico",
+      "answer": "B",
+      "funFact": "Cuba is the largest island in the Caribbean, covering about 42,426 square miles. It's also the most populous Caribbean island."
+    },
+    {
+      "question": "What island is known as the 'Pearl of the Indian Ocean'?",
+      "A": "Maldives",
+      "B": "Sri Lanka",
+      "C": "Mauritius",
+      "D": "Madagascar",
+      "answer": "B",
+      "funFact": "Sri Lanka is known as the 'Pearl of the Indian Ocean' because of its natural beauty, rich culture, and strategic location in the Indian Ocean."
+    },
+    {
+      "question": "What island is home to the famous Easter Island statues?",
+      "A": "Easter Island (Rapa Nui)",
+      "B": "Hawaii",
+      "C": "Tahiti",
+      "D": "Fiji",
+      "answer": "A",
+      "funFact": "Easter Island (Rapa Nui) is home to the famous moai statues, massive stone figures carved by the Rapa Nui people. The island is located in the southeastern Pacific Ocean."
+    }
+]
+

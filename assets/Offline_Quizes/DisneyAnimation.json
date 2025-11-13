@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the first Disney animated feature film?",
+      "A": "Pinocchio",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Fantasia",
+      "D": "Dumbo",
+      "answer": "B",
+      "funFact": "Snow White and the Seven Dwarfs, released in 1937, was the first full-length animated feature film and the first Disney animated feature. It revolutionized animation."
+    },
+    {
+      "question": "What animation technique did Disney pioneer for Snow White?",
+      "A": "Multiplane camera",
+      "B": "Rotoscoping",
+      "C": "Stop motion",
+      "D": "Computer animation",
+      "answer": "A",
+      "funFact": "Disney pioneered the multiplane camera for Snow White, which created depth and dimension in animated films by using multiple layers of artwork."
+    },
+    {
+      "question": "What was the first Disney film to use xerography (photocopying) for animation?",
+      "A": "101 Dalmatians",
+      "B": "The Sword in the Stone",
+      "C": "The Jungle Book",
+      "D": "The Aristocats",
+      "answer": "A",
+      "funFact": "101 Dalmatians, released in 1961, was the first Disney film to use xerography, which allowed animators to photocopy drawings directly onto animation cels, saving time and money."
+    },
+    {
+      "question": "What was the first Disney film to use computer-generated imagery (CGI)?",
+      "A": "The Great Mouse Detective",
+      "B": "The Little Mermaid",
+      "C": "Beauty and the Beast",
+      "D": "Aladdin",
+      "answer": "A",
+      "funFact": "The Great Mouse Detective, released in 1986, was the first Disney film to use computer-generated imagery for the clock tower sequence, marking the beginning of Disney's use of CGI."
+    },
+    {
+      "question": "What was the first Disney film to be entirely computer-animated?",
+      "A": "Toy Story",
+      "B": "A Bug's Life",
+      "C": "Chicken Little",
+      "D": "Meet the Robinsons",
+      "answer": "C",
+      "funFact": "Chicken Little, released in 2005, was Disney's first fully computer-animated film. Toy Story was produced by Pixar before Disney acquired the company."
+    },
+    {
+      "question": "What animation technique did Disney use for the ballroom scene in Beauty and the Beast?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Beauty and the Beast used computer-generated imagery for the ballroom scene, creating a 3D environment that the hand-drawn characters could dance through."
+    },
+    {
+      "question": "What was the name of the animation software developed by Disney for The Little Mermaid?",
+      "A": "CAPS",
+      "B": "Toon Boom",
+      "C": "Maya",
+      "D": "Blender",
+      "answer": "A",
+      "funFact": "CAPS (Computer Animation Production System) was developed by Disney and Pixar for The Little Mermaid. It allowed animators to color and composite animation digitally."
+    },
+    {
+      "question": "What was the first Disney film to use the multiplane camera?",
+      "A": "Snow White and the Seven Dwarfs",
+      "B": "Pinocchio",
+      "C": "Fantasia",
+      "D": "Bambi",
+      "answer": "B",
+      "funFact": "Pinocchio, released in 1940, was the first Disney film to fully utilize the multiplane camera, creating stunning depth and dimension in the animation."
+    },
+    {
+      "question": "What animation technique did Disney use for the water effects in Moana?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Moana used advanced computer-generated imagery for the water effects, creating realistic ocean waves and water physics that were groundbreaking for animation."
+    },
+    {
+      "question": "What was the name of the animation technique used for the hair in Rapunzel in Tangled?",
+      "A": "Dynamic simulation",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Tangled used dynamic simulation for Rapunzel's hair, which was 70 feet long and required advanced computer animation to make it move realistically."
+    },
+    {
+      "question": "What was the first Disney film to use 3D animation for characters?",
+      "A": "The Great Mouse Detective",
+      "B": "The Little Mermaid",
+      "C": "Beauty and the Beast",
+      "D": "Aladdin",
+      "answer": "C",
+      "funFact": "Beauty and the Beast was the first Disney film to use 3D computer animation for characters and backgrounds, particularly in the ballroom scene."
+    },
+    {
+      "question": "What animation technique did Disney use for the characters in The Princess and the Frog?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "B",
+      "funFact": "The Princess and the Frog, released in 2009, returned to traditional hand-drawn animation, marking a comeback for 2D animation at Disney."
+    },
+    {
+      "question": "What was the name of the animation technique used for the snow in Frozen?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Frozen used advanced computer-generated imagery for the snow and ice effects, creating realistic snowflakes and ice particles that were unique to each scene."
+    },
+    {
+      "question": "What animation technique did Disney use for the characters in Big Hero 6?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Big Hero 6, released in 2014, used computer-generated imagery for all characters and environments, creating a unique blend of 2D and 3D animation styles."
+    },
+    {
+      "question": "What was the name of the animation technique used for the animals in The Lion King (1994)?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "B",
+      "funFact": "The Lion King (1994) used traditional hand-drawn animation for all characters. Animators studied real animals to create realistic movements and behaviors."
+    },
+    {
+      "question": "What animation technique did Disney use for the characters in Encanto?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Encanto, released in 2021, used computer-generated imagery for all characters and environments, creating a vibrant and magical world inspired by Colombian culture."
+    },
+    {
+      "question": "What was the name of the animation technique used for the characters in Raya and the Last Dragon?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Raya and the Last Dragon used computer-generated imagery with a unique watercolor-inspired style, creating a visually stunning Southeast Asian-inspired world."
+    },
+    {
+      "question": "What animation technique did Disney use for the characters in Wreck-It Ralph?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Wreck-It Ralph, released in 2012, used computer-generated imagery to create different animation styles for different video game worlds, from 8-bit to modern 3D."
+    },
+    {
+      "question": "What was the name of the animation technique used for the characters in Zootopia?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "Zootopia, released in 2016, used computer-generated imagery to create a diverse city of anthropomorphic animals, each with unique fur textures and characteristics."
+    },
+    {
+      "question": "What animation technique did Disney use for the characters in The Incredibles?",
+      "A": "Computer-generated imagery",
+      "B": "Traditional hand-drawn animation",
+      "C": "Stop motion",
+      "D": "Rotoscoping",
+      "answer": "A",
+      "funFact": "The Incredibles, released in 2004, used computer-generated imagery and was produced by Pixar. It featured stylized human characters with superhero abilities."
+    }
+]
+

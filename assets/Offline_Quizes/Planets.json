@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many planets are in our solar system?",
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10",
+      "answer": "B",
+      "funFact": "There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006."
+    },
+    {
+      "question": "What is the closest planet to the Sun?",
+      "A": "Venus",
+      "B": "Earth",
+      "C": "Mercury",
+      "D": "Mars",
+      "answer": "C",
+      "funFact": "Mercury is the closest planet to the Sun, orbiting at an average distance of about 36 million miles. It's also the smallest planet in our solar system."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "A": "Saturn",
+      "B": "Jupiter",
+      "C": "Neptune",
+      "D": "Uranus",
+      "answer": "B",
+      "funFact": "Jupiter is the largest planet in our solar system, with a mass greater than all other planets combined. It's a gas giant with no solid surface."
+    },
+    {
+      "question": "What is the planet known as the 'Red Planet'?",
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn",
+      "answer": "B",
+      "funFact": "Mars is called the 'Red Planet' because of its reddish appearance, caused by iron oxide (rust) on its surface."
+    },
+    {
+      "question": "What planet is known for its rings?",
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Uranus",
+      "D": "Neptune",
+      "answer": "B",
+      "funFact": "Saturn is famous for its prominent ring system, made up of ice particles and rocky debris. While other planets have rings, Saturn's are the most visible and spectacular."
+    },
+    {
+      "question": "What is the hottest planet in our solar system?",
+      "A": "Mercury",
+      "B": "Venus",
+      "C": "Earth",
+      "D": "Mars",
+      "answer": "B",
+      "funFact": "Venus is the hottest planet in our solar system, with surface temperatures around 900°F (480°C), even hotter than Mercury, due to its thick, greenhouse-effect atmosphere."
+    },
+    {
+      "question": "What is the farthest planet from the Sun?",
+      "A": "Uranus",
+      "B": "Neptune",
+      "C": "Pluto",
+      "D": "Saturn",
+      "answer": "B",
+      "funFact": "Neptune is the farthest planet from the Sun, orbiting at an average distance of about 2.8 billion miles. It takes about 165 Earth years to orbit the Sun once."
+    },
+    {
+      "question": "What planet rotates on its side?",
+      "A": "Venus",
+      "B": "Uranus",
+      "C": "Neptune",
+      "D": "Pluto",
+      "answer": "B",
+      "funFact": "Uranus rotates on its side, tilted at about 98 degrees. This unique orientation may have been caused by a collision with a large object in the past."
+    },
+    {
+      "question": "What is the only planet known to have life?",
+      "A": "Mars",
+      "B": "Venus",
+      "C": "Earth",
+      "D": "Jupiter",
+      "answer": "C",
+      "funFact": "Earth is the only planet known to have life. It has the right conditions: liquid water, a protective atmosphere, and a stable orbit in the habitable zone."
+    },
+    {
+      "question": "What planet has the most moons?",
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Uranus",
+      "D": "Neptune",
+      "answer": "B",
+      "funFact": "Saturn has the most moons in our solar system, with over 140 confirmed moons. Jupiter has over 90 moons, but Saturn holds the record."
+    }
+]
+

@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What is the name of Mickey Mouse's girlfriend?",
+      "A": "Minnie Mouse",
+      "B": "Daisy Duck",
+      "C": "Clarabelle Cow",
+      "D": "Pluto",
+      "answer": "A",
+      "funFact": "Minnie Mouse is Mickey Mouse's longtime girlfriend and was created alongside Mickey in 1928. She made her debut in Steamboat Willie."
+    },
+    {
+      "question": "What is the name of Donald Duck's girlfriend?",
+      "A": "Minnie Mouse",
+      "B": "Daisy Duck",
+      "C": "Clarabelle Cow",
+      "D": "Penny",
+      "answer": "B",
+      "funFact": "Daisy Duck is Donald Duck's girlfriend and was introduced in 1940. She's known for being more level-headed than Donald."
+    },
+    {
+      "question": "What is the name of Mickey Mouse's dog?",
+      "A": "Goofy",
+      "B": "Pluto",
+      "C": "Chip",
+      "D": "Dale",
+      "answer": "B",
+      "funFact": "Pluto is Mickey Mouse's pet dog and was introduced in 1930. Unlike Goofy, Pluto is a regular dog who doesn't speak or walk on two legs."
+    },
+    {
+      "question": "What is the name of Mickey Mouse's best friend?",
+      "A": "Goofy",
+      "B": "Donald Duck",
+      "C": "Pluto",
+      "D": "Both A and B",
+      "answer": "D",
+      "funFact": "Mickey Mouse's best friends are Goofy and Donald Duck. The three often appear together in cartoons and are known as the 'Big Three' of Disney."
+    },
+    {
+      "question": "What is the name of the chipmunks who are friends with Donald Duck?",
+      "A": "Chip and Dale",
+      "B": "Timon and Pumbaa",
+      "C": "Meeko and Flit",
+      "D": "Abu and Iago",
+      "answer": "A",
+      "funFact": "Chip and Dale are chipmunk brothers who often cause trouble for Donald Duck. They were introduced in 1943 and are known for their mischievous antics."
+    },
+    {
+      "question": "What is the name of the mouse who is friends with Mickey Mouse?",
+      "A": "Minnie Mouse",
+      "B": "Mortimer Mouse",
+      "C": "Mickey Mouse",
+      "D": "There is no other mouse",
+      "answer": "D",
+      "funFact": "Mickey Mouse doesn't have a mouse friend, but he has many other animal friends including Goofy, Donald Duck, and Pluto."
+    },
+    {
+      "question": "What is the name of the character who is known for being clumsy?",
+      "A": "Goofy",
+      "B": "Donald Duck",
+      "C": "Pluto",
+      "D": "Dumbo",
+      "answer": "A",
+      "funFact": "Goofy is known for being clumsy and good-natured. He was introduced in 1932 and is one of Mickey Mouse's best friends."
+    },
+    {
+      "question": "What is the name of the character who is known for his temper?",
+      "A": "Goofy",
+      "B": "Donald Duck",
+      "C": "Pluto",
+      "D": "Mickey Mouse",
+      "answer": "B",
+      "funFact": "Donald Duck is known for his short temper and distinctive voice. He was introduced in 1934 and is one of Disney's most popular characters."
+    },
+    {
+      "question": "What is the name of the character who is a sorcerer's apprentice?",
+      "A": "Mickey Mouse",
+      "B": "Donald Duck",
+      "C": "Goofy",
+      "D": "Pluto",
+      "answer": "A",
+      "funFact": "Mickey Mouse played the Sorcerer's Apprentice in Fantasia (1940), one of his most iconic roles. The segment is based on the poem by Goethe."
+    },
+    {
+      "question": "What is the name of the character who is a duck with three nephews?",
+      "A": "Donald Duck",
+      "B": "Scrooge McDuck",
+      "C": "Daisy Duck",
+      "D": "Goofy",
+      "answer": "A",
+      "funFact": "Donald Duck has three nephews: Huey, Dewey, and Louie. They were introduced in 1937 and often cause trouble for their uncle."
+    },
+    {
+      "question": "What is the name of Donald Duck's rich uncle?",
+      "A": "Scrooge McDuck",
+      "B": "Ludwig Von Drake",
+      "C": "Goofy",
+      "D": "Pluto",
+      "answer": "A",
+      "funFact": "Scrooge McDuck is Donald Duck's wealthy uncle who was introduced in 1947. He's known for his love of money and his money bin."
+    },
+    {
+      "question": "What is the name of the character who is a dog that walks on two legs?",
+      "A": "Pluto",
+      "B": "Goofy",
+      "C": "Chip",
+      "D": "Dale",
+      "answer": "B",
+      "funFact": "Goofy is a dog who walks on two legs and speaks, unlike Pluto who is a regular dog. This is one of the mysteries of the Disney universe."
+    },
+    {
+      "question": "What is the name of the character who is a mouse that wears red shorts?",
+      "A": "Mickey Mouse",
+      "B": "Minnie Mouse",
+      "C": "Mortimer Mouse",
+      "D": "There is no such character",
+      "answer": "A",
+      "funFact": "Mickey Mouse is known for wearing red shorts with two buttons. This is his classic outfit, though he has worn many different outfits over the years."
+    },
+    {
+      "question": "What is the name of the character who is a duck that wears a sailor suit?",
+      "A": "Donald Duck",
+      "B": "Daisy Duck",
+      "C": "Scrooge McDuck",
+      "D": "Goofy",
+      "answer": "A",
+      "funFact": "Donald Duck is known for wearing a sailor suit, which reflects his nautical personality. He was introduced as a sailor character."
+    },
+    {
+      "question": "What is the name of the character who is a dog that is yellow?",
+      "A": "Pluto",
+      "B": "Goofy",
+      "C": "Chip",
+      "D": "Dale",
+      "answer": "A",
+      "funFact": "Pluto is typically depicted as an orange or yellow dog. He's Mickey Mouse's pet and is known for being loyal and friendly."
+    },
+    {
+      "question": "What is the name of the character who is a duck that is white?",
+      "A": "Donald Duck",
+      "B": "Daisy Duck",
+      "C": "Scrooge McDuck",
+      "D": "All ducks are white",
+      "answer": "D",
+      "funFact": "Most Disney ducks are white, including Donald Duck, Daisy Duck, and Scrooge McDuck. They're anthropomorphic characters with human-like qualities."
+    },
+    {
+      "question": "What is the name of the character who is a mouse that wears a bow?",
+      "A": "Mickey Mouse",
+      "B": "Minnie Mouse",
+      "C": "Mortimer Mouse",
+      "D": "There is no such character",
+      "answer": "B",
+      "funFact": "Minnie Mouse is known for wearing a bow on her head. She has worn different colored bows over the years, but the classic is red with white polka dots."
+    },
+    {
+      "question": "What is the name of the character who is a dog that doesn't speak?",
+      "A": "Pluto",
+      "B": "Goofy",
+      "C": "Chip",
+      "D": "Dale",
+      "answer": "A",
+      "funFact": "Pluto is a regular dog who doesn't speak, unlike Goofy who is anthropomorphic. Pluto communicates through barks and body language."
+    },
+    {
+      "question": "What is the name of the character who is a duck that has a speech impediment?",
+      "A": "Donald Duck",
+      "B": "Daisy Duck",
+      "C": "Scrooge McDuck",
+      "D": "Goofy",
+      "answer": "A",
+      "funFact": "Donald Duck is known for his distinctive voice and speech, which sounds like he's quacking. This is part of what makes him so unique and memorable."
+    },
+    {
+      "question": "What is the name of the character who is a mouse that is the leader of the club?",
+      "A": "Mickey Mouse",
+      "B": "Minnie Mouse",
+      "C": "Mortimer Mouse",
+      "D": "There is no such character",
+      "answer": "A",
+      "funFact": "Mickey Mouse is often portrayed as the leader of the Mickey Mouse Club and is considered the leader of all Disney characters. He's the face of The Walt Disney Company."
+    }
+]
+

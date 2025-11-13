@@ -1,0 +1,228 @@
+[
+    {
+      "question": "What is the capital of California?",
+      "A": "Los Angeles",
+      "B": "San Francisco",
+      "C": "Sacramento",
+      "D": "San Diego",
+      "answer": "C",
+      "funFact": "Sacramento is the capital of California, not Los Angeles or San Francisco. It became the capital in 1854."
+    },
+    {
+      "question": "What is the capital of Texas?",
+      "A": "Houston",
+      "B": "Dallas",
+      "C": "Austin",
+      "D": "San Antonio",
+      "answer": "C",
+      "funFact": "Austin is the capital of Texas. It's known as the 'Live Music Capital of the World' and is home to the University of Texas."
+    },
+    {
+      "question": "What is the capital of New York?",
+      "A": "New York City",
+      "B": "Buffalo",
+      "C": "Albany",
+      "D": "Rochester",
+      "answer": "C",
+      "funFact": "Albany is the capital of New York, not New York City. Albany has been the capital since 1797 and is located on the Hudson River."
+    },
+    {
+      "question": "What is the capital of Florida?",
+      "A": "Miami",
+      "B": "Tampa",
+      "C": "Tallahassee",
+      "D": "Orlando",
+      "answer": "C",
+      "funFact": "Tallahassee is the capital of Florida, located in the northern part of the state. It's one of the few state capitals not located in the state's largest city."
+    },
+    {
+      "question": "What is the capital of Illinois?",
+      "A": "Chicago",
+      "B": "Springfield",
+      "C": "Peoria",
+      "D": "Rockford",
+      "answer": "B",
+      "funFact": "Springfield is the capital of Illinois, not Chicago. It's also where Abraham Lincoln lived and is buried."
+    },
+    {
+      "question": "What is the capital of Pennsylvania?",
+      "A": "Philadelphia",
+      "B": "Pittsburgh",
+      "C": "Harrisburg",
+      "D": "Allentown",
+      "answer": "C",
+      "funFact": "Harrisburg is the capital of Pennsylvania. It's located on the Susquehanna River and has been the capital since 1812."
+    },
+    {
+      "question": "What is the capital of Ohio?",
+      "A": "Cleveland",
+      "B": "Cincinnati",
+      "C": "Columbus",
+      "D": "Toledo",
+      "answer": "C",
+      "funFact": "Columbus is the capital and largest city of Ohio. It's also home to Ohio State University."
+    },
+    {
+      "question": "What is the capital of Michigan?",
+      "A": "Detroit",
+      "B": "Grand Rapids",
+      "C": "Lansing",
+      "D": "Ann Arbor",
+      "answer": "C",
+      "funFact": "Lansing is the capital of Michigan, not Detroit. It's located in the central part of the state and is home to Michigan State University."
+    },
+    {
+      "question": "What is the capital of Georgia?",
+      "A": "Savannah",
+      "B": "Augusta",
+      "C": "Atlanta",
+      "D": "Columbus",
+      "answer": "C",
+      "funFact": "Atlanta is the capital and largest city of Georgia. It's a major transportation hub and was a key city during the Civil Rights Movement."
+    },
+    {
+      "question": "What is the capital of North Carolina?",
+      "A": "Charlotte",
+      "B": "Raleigh",
+      "C": "Greensboro",
+      "D": "Durham",
+      "answer": "B",
+      "funFact": "Raleigh is the capital of North Carolina. It's known as the 'City of Oaks' for its many oak trees and is part of the Research Triangle."
+    },
+    {
+      "question": "What is the capital of Massachusetts?",
+      "A": "Boston",
+      "B": "Worcester",
+      "C": "Springfield",
+      "D": "Cambridge",
+      "answer": "A",
+      "funFact": "Boston is the capital and largest city of Massachusetts. It's one of the oldest cities in America and played a key role in the American Revolution."
+    },
+    {
+      "question": "What is the capital of Arizona?",
+      "A": "Phoenix",
+      "B": "Tucson",
+      "C": "Flagstaff",
+      "D": "Mesa",
+      "answer": "A",
+      "funFact": "Phoenix is the capital and largest city of Arizona. It's the most populous state capital in the United States and is known for its hot desert climate."
+    },
+    {
+      "question": "What is the capital of Washington?",
+      "A": "Seattle",
+      "B": "Spokane",
+      "C": "Olympia",
+      "D": "Tacoma",
+      "answer": "C",
+      "funFact": "Olympia is the capital of Washington, not Seattle. It's located at the southern end of Puget Sound and is the state's smallest capital city."
+    },
+    {
+      "question": "What is the capital of Colorado?",
+      "A": "Denver",
+      "B": "Colorado Springs",
+      "C": "Boulder",
+      "D": "Fort Collins",
+      "answer": "A",
+      "funFact": "Denver is the capital and largest city of Colorado. It's known as the 'Mile High City' because it's exactly one mile above sea level."
+    },
+    {
+      "question": "What is the capital of Tennessee?",
+      "A": "Memphis",
+      "B": "Nashville",
+      "C": "Knoxville",
+      "D": "Chattanooga",
+      "answer": "B",
+      "funFact": "Nashville is the capital of Tennessee and is known as 'Music City' for its country music industry. It's also home to the Grand Ole Opry."
+    },
+    {
+      "question": "What is the capital of Indiana?",
+      "A": "Fort Wayne",
+      "B": "Evansville",
+      "C": "Indianapolis",
+      "D": "South Bend",
+      "answer": "C",
+      "funFact": "Indianapolis is the capital and largest city of Indiana. It's known for the Indianapolis 500 race and is often called 'Indy.'"
+    },
+    {
+      "question": "What is the capital of Missouri?",
+      "A": "Kansas City",
+      "B": "St. Louis",
+      "C": "Jefferson City",
+      "D": "Springfield",
+      "answer": "C",
+      "funFact": "Jefferson City is the capital of Missouri, named after Thomas Jefferson. It's located on the Missouri River."
+    },
+    {
+      "question": "What is the capital of Maryland?",
+      "A": "Baltimore",
+      "B": "Annapolis",
+      "C": "Frederick",
+      "D": "Rockville",
+      "answer": "B",
+      "funFact": "Annapolis is the capital of Maryland and is known as the 'Sailing Capital of the World.' It's also home to the United States Naval Academy."
+    },
+    {
+      "question": "What is the capital of Wisconsin?",
+      "A": "Milwaukee",
+      "B": "Madison",
+      "C": "Green Bay",
+      "D": "Kenosha",
+      "answer": "B",
+      "funFact": "Madison is the capital of Wisconsin and is built on an isthmus between two lakes. It's also home to the University of Wisconsin."
+    },
+    {
+      "question": "What is the capital of Minnesota?",
+      "A": "Minneapolis",
+      "B": "St. Paul",
+      "C": "Duluth",
+      "D": "Rochester",
+      "answer": "B",
+      "funFact": "St. Paul is the capital of Minnesota, while Minneapolis is the larger city. Together they form the 'Twin Cities' metropolitan area."
+    },
+    {
+      "question": "What is the capital of Louisiana?",
+      "A": "New Orleans",
+      "B": "Baton Rouge",
+      "C": "Shreveport",
+      "D": "Lafayette",
+      "answer": "B",
+      "funFact": "Baton Rouge is the capital of Louisiana, not New Orleans. The name means 'Red Stick' in French and refers to a red pole that marked a boundary."
+    },
+    {
+      "question": "What is the capital of Alabama?",
+      "A": "Birmingham",
+      "B": "Montgomery",
+      "C": "Mobile",
+      "D": "Huntsville",
+      "answer": "B",
+      "funFact": "Montgomery is the capital of Alabama and was the first capital of the Confederacy during the Civil War. It's also where Rosa Parks refused to give up her bus seat."
+    },
+    {
+      "question": "What is the capital of Kentucky?",
+      "A": "Louisville",
+      "B": "Lexington",
+      "C": "Frankfort",
+      "D": "Bowling Green",
+      "answer": "C",
+      "funFact": "Frankfort is the capital of Kentucky, not Louisville or Lexington. It's one of the smallest state capitals by population."
+    },
+    {
+      "question": "What is the capital of Oregon?",
+      "A": "Portland",
+      "B": "Eugene",
+      "C": "Salem",
+      "D": "Bend",
+      "answer": "C",
+      "funFact": "Salem is the capital of Oregon, not Portland. It's located in the Willamette Valley and is known for its cherry trees."
+    },
+    {
+      "question": "What is the capital of Oklahoma?",
+      "A": "Tulsa",
+      "B": "Oklahoma City",
+      "C": "Norman",
+      "D": "Broken Arrow",
+      "answer": "B",
+      "funFact": "Oklahoma City is the capital and largest city of Oklahoma. It's located in the center of the state and is known for its oil industry."
+    }
+]
+

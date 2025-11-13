@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the value of pi (π) approximately?",
+      "A": "2.14",
+      "B": "3.14",
+      "C": "4.14",
+      "D": "5.14",
+      "answer": "B",
+      "funFact": "Pi (π) is approximately 3.14159, representing the ratio of a circle's circumference to its diameter. It's an irrational number with infinite decimal places."
+    },
+    {
+      "question": "What is the square root of 144?",
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "answer": "C",
+      "funFact": "The square root of 144 is 12, because 12 × 12 = 144. Square root is the inverse operation of squaring a number."
+    },
+    {
+      "question": "How many degrees are in a circle?",
+      "A": "180",
+      "B": "270",
+      "C": "360",
+      "D": "450",
+      "answer": "C",
+      "funFact": "A circle contains 360 degrees. This number was chosen by ancient Babylonians who used a base-60 number system and divided the circle into 360 parts."
+    },
+    {
+      "question": "What is the sum of the angles in a triangle?",
+      "A": "90 degrees",
+      "B": "180 degrees",
+      "C": "270 degrees",
+      "D": "360 degrees",
+      "answer": "B",
+      "funFact": "The sum of the interior angles in any triangle is always 180 degrees, regardless of the triangle's shape or size."
+    },
+    {
+      "question": "What is 2 to the power of 8?",
+      "A": "128",
+      "B": "256",
+      "C": "512",
+      "D": "1024",
+      "answer": "B",
+      "funFact": "2 to the power of 8 (2⁸) equals 256. This is calculated by multiplying 2 by itself 8 times: 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 256."
+    },
+    {
+      "question": "What is the name of a polygon with 8 sides?",
+      "A": "Hexagon",
+      "B": "Heptagon",
+      "C": "Octagon",
+      "D": "Nonagon",
+      "answer": "C",
+      "funFact": "An octagon is a polygon with 8 sides. The prefix 'octa-' means eight, as in octopus (eight arms) and October (originally the 8th month)."
+    },
+    {
+      "question": "What is the result of 15 × 15?",
+      "A": "200",
+      "B": "225",
+      "C": "250",
+      "D": "275",
+      "answer": "B",
+      "funFact": "15 × 15 = 225. This is also written as 15² (15 squared), which means 15 multiplied by itself."
+    },
+    {
+      "question": "What is the name for a number that can only be divided by 1 and itself?",
+      "A": "Even number",
+      "B": "Odd number",
+      "C": "Prime number",
+      "D": "Composite number",
+      "answer": "C",
+      "funFact": "A prime number is a number greater than 1 that can only be divided evenly by 1 and itself. Examples include 2, 3, 5, 7, 11, and 13."
+    },
+    {
+      "question": "What is the area of a rectangle with length 10 and width 5?",
+      "A": "15",
+      "B": "30",
+      "C": "50",
+      "D": "100",
+      "answer": "C",
+      "funFact": "The area of a rectangle is calculated by multiplying length × width. So 10 × 5 = 50 square units."
+    },
+    {
+      "question": "What is the name of the mathematical symbol for infinity?",
+      "A": "∞",
+      "B": "∑",
+      "C": "π",
+      "D": "√",
+      "answer": "A",
+      "funFact": "The infinity symbol (∞) represents a concept of something without any bound or larger than any natural number. It was introduced by mathematician John Wallis in 1655."
+    }
+]
+

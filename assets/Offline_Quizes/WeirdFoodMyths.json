@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What food myth claims that swallowing gum takes 7 years to digest?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. While gum doesn't digest like other foods, it passes through your digestive system in a few days, not 7 years. However, swallowing large amounts can cause problems."
+    },
+    {
+      "question": "What food myth claims that carrots improve your eyesight?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "C",
+      "funFact": "This is partially true. Carrots contain vitamin A which is good for eye health, but eating them won't give you super vision or cure poor eyesight. The myth was actually British propaganda during WWII."
+    },
+    {
+      "question": "What food myth claims that you should wait an hour after eating before swimming?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. There's no scientific evidence that swimming after eating causes cramps or drowning. However, eating a large meal before intense exercise can cause discomfort."
+    },
+    {
+      "question": "What food myth claims that sugar makes children hyperactive?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. Multiple studies have shown that sugar doesn't cause hyperactivity in children. The excitement is likely due to the occasion (parties, holidays) rather than the sugar itself."
+    },
+    {
+      "question": "What food myth claims that you need to drink 8 glasses of water a day?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "C",
+      "funFact": "This is partially true. While staying hydrated is important, the '8 glasses a day' rule isn't based on scientific evidence. Your water needs vary based on activity, climate, and individual factors."
+    },
+    {
+      "question": "What food myth claims that eating at night makes you gain weight?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. Weight gain is determined by total calories consumed versus calories burned, not when you eat. However, late-night eating can lead to poor food choices and overeating."
+    },
+    {
+      "question": "What food myth claims that organic food is always healthier?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "C",
+      "funFact": "This is partially true. Organic food may have fewer pesticides, but it's not necessarily more nutritious. The health benefits depend on the specific food and your overall diet."
+    },
+    {
+      "question": "What food myth claims that you can't eat seafood and dairy together?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. There's no scientific evidence that eating seafood and dairy together is harmful. This myth likely comes from religious dietary laws, not health concerns."
+    },
+    {
+      "question": "What food myth claims that brown eggs are healthier than white eggs?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. The color of an eggshell is determined by the breed of chicken, not the nutritional content. Brown and white eggs have the same nutritional value."
+    },
+    {
+      "question": "What food myth claims that you need to 'cleanse' or 'detox' your body?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. Your liver and kidneys already detoxify your body naturally. There's no scientific evidence that special diets or products can improve this process."
+    },
+    {
+      "question": "What food myth claims that MSG causes headaches?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "C",
+      "funFact": "This is partially true. While some people may be sensitive to MSG, scientific studies have found no consistent evidence that it causes headaches in the general population."
+    },
+    {
+      "question": "What food myth claims that you should avoid fruit because of sugar?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. While fruit contains natural sugars, it also provides fiber, vitamins, and antioxidants. The benefits of eating fruit far outweigh concerns about sugar content."
+    },
+    {
+      "question": "What food myth claims that gluten-free is always healthier?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. Gluten-free diets are necessary for people with celiac disease, but for others, there's no health benefit. Many gluten-free products are actually less nutritious."
+    },
+    {
+      "question": "What food myth claims that you need to eat every 2-3 hours to boost metabolism?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. While eating frequently can help some people control hunger, it doesn't significantly boost metabolism. Total calories matter more than meal frequency."
+    },
+    {
+      "question": "What food myth claims that 'negative calorie' foods help you lose weight?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. There's no such thing as negative calorie foods. While some foods like celery are very low in calories, your body doesn't burn more calories digesting them than they contain."
+    },
+    {
+      "question": "What food myth claims that you should avoid all fats?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. Your body needs healthy fats for proper function. Unsaturated fats from sources like nuts, avocados, and fish are beneficial for heart health."
+    },
+    {
+      "question": "What food myth claims that raw milk is healthier than pasteurized milk?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. Raw milk can contain harmful bacteria and is more likely to cause foodborne illness. Pasteurization kills harmful bacteria without significantly affecting nutritional value."
+    },
+    {
+      "question": "What food myth claims that you need protein immediately after a workout?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "C",
+      "funFact": "This is partially true. While protein is important for muscle recovery, you don't need it immediately. Eating protein within a few hours after exercise is sufficient."
+    },
+    {
+      "question": "What food myth claims that 'superfoods' can prevent disease?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "C",
+      "funFact": "This is partially true. While some foods are nutrient-dense, no single food can prevent disease. A balanced diet with variety is more important than focusing on specific 'superfoods.'"
+    },
+    {
+      "question": "What food myth claims that you should avoid all carbohydrates?",
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "This is false. Your body needs carbohydrates for energy. Complex carbs from whole grains, fruits, and vegetables are important for a healthy diet."
+    }
+]
+

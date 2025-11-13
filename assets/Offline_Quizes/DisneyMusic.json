@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What is the name of the song from The Lion King that means 'no worries'?",
+      "A": "Hakuna Matata",
+      "B": "Circle of Life",
+      "C": "Can You Feel the Love Tonight",
+      "D": "I Just Can't Wait to Be King",
+      "answer": "A",
+      "funFact": "'Hakuna Matata' is a Swahili phrase meaning 'no worries' or 'no problems.' The song was written by Elton John and Tim Rice for The Lion King."
+    },
+    {
+      "question": "What is the name of the song from Frozen that became a huge hit?",
+      "A": "Do You Want to Build a Snowman?",
+      "B": "Let It Go",
+      "C": "Love Is an Open Door",
+      "D": "For the First Time in Forever",
+      "answer": "B",
+      "funFact": "'Let It Go' from Frozen became a massive hit, winning the Academy Award for Best Original Song and reaching the top 10 on the Billboard Hot 100."
+    },
+    {
+      "question": "What is the name of the song from The Little Mermaid that Ariel sings about wanting to be human?",
+      "A": "Part of Your World",
+      "B": "Under the Sea",
+      "C": "Kiss the Girl",
+      "D": "Poor Unfortunate Souls",
+      "answer": "A",
+      "funFact": "'Part of Your World' is Ariel's signature song in The Little Mermaid, expressing her desire to be part of the human world above the sea."
+    },
+    {
+      "question": "What is the name of the song from Beauty and the Beast that the title characters dance to?",
+      "A": "Be Our Guest",
+      "B": "Belle",
+      "C": "Beauty and the Beast",
+      "D": "Gaston",
+      "answer": "C",
+      "funFact": "'Beauty and the Beast' is the romantic ballad that plays during the ballroom scene. It won the Academy Award for Best Original Song."
+    },
+    {
+      "question": "What is the name of the song from Aladdin that the genie sings?",
+      "A": "A Whole New World",
+      "B": "Friend Like Me",
+      "C": "Arabian Nights",
+      "D": "Prince Ali",
+      "answer": "B",
+      "funFact": "'Friend Like Me' is the Genie's show-stopping number in Aladdin, showcasing Robin Williams' comedic talents and the character's magical abilities."
+    },
+    {
+      "question": "What is the name of the song from The Lion King that opens the film?",
+      "A": "Hakuna Matata",
+      "B": "Circle of Life",
+      "C": "Can You Feel the Love Tonight",
+      "D": "I Just Can't Wait to Be King",
+      "answer": "B",
+      "funFact": "'Circle of Life' opens The Lion King with the iconic scene of Rafiki presenting Simba to the animals of the Pride Lands. It's sung in Zulu and English."
+    },
+    {
+      "question": "What is the name of the song from Moana that the demigod sings?",
+      "A": "How Far I'll Go",
+      "B": "You're Welcome",
+      "C": "Shiny",
+      "D": "We Know the Way",
+      "answer": "B",
+      "funFact": "'You're Welcome' is Maui's song in Moana, where he brags about his accomplishments. It's performed by Dwayne 'The Rock' Johnson."
+    },
+    {
+      "question": "What is the name of the song from Encanto that became a viral hit?",
+      "A": "We Don't Talk About Bruno",
+      "B": "Surface Pressure",
+      "C": "The Family Madrigal",
+      "D": "Waiting on a Miracle",
+      "answer": "A",
+      "funFact": "'We Don't Talk About Bruno' from Encanto became a viral hit, reaching number one on the Billboard Hot 100 and becoming Disney's biggest hit since 'Let It Go.'"
+    },
+    {
+      "question": "What is the name of the song from The Princess and the Frog that Tiana sings about her dream?",
+      "A": "Almost There",
+      "B": "Down in New Orleans",
+      "C": "Dig a Little Deeper",
+      "D": "Friends on the Other Side",
+      "answer": "A",
+      "funFact": "'Almost There' is Tiana's song about her dream of opening her own restaurant. It's an upbeat jazz number that reflects her determination."
+    },
+    {
+      "question": "What is the name of the song from Mulan that Mulan sings about reflection?",
+      "A": "I'll Make a Man Out of You",
+      "B": "Reflection",
+      "C": "A Girl Worth Fighting For",
+      "D": "Honor to Us All",
+      "answer": "B",
+      "funFact": "'Reflection' is Mulan's emotional ballad about her struggle to find her true identity. It was performed by Lea Salonga and later by Christina Aguilera."
+    },
+    {
+      "question": "What is the name of the song from The Hunchback of Notre Dame that the gargoyles sing?",
+      "A": "The Bells of Notre Dame",
+      "B": "Out There",
+      "C": "Topsy Turvy",
+      "D": "God Help the Outcasts",
+      "answer": "C",
+      "funFact": "'Topsy Turvy' is the song the gargoyles sing during the Festival of Fools in The Hunchback of Notre Dame. It's a fun, upbeat number."
+    },
+    {
+      "question": "What is the name of the song from Tarzan that Phil Collins sings?",
+      "A": "You'll Be in My Heart",
+      "B": "Two Worlds",
+      "C": "Strangers Like Me",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Phil Collins wrote and performed all the songs for Tarzan, including 'You'll Be in My Heart' (which won the Academy Award), 'Two Worlds,' and 'Strangers Like Me.'"
+    },
+    {
+      "question": "What is the name of the song from Pocahontas that won an Academy Award?",
+      "A": "Colors of the Wind",
+      "B": "Just Around the Riverbend",
+      "C": "Savages",
+      "D": "If I Never Knew You",
+      "answer": "A",
+      "funFact": "'Colors of the Wind' from Pocahontas won the Academy Award for Best Original Song. It's about respecting nature and different cultures."
+    },
+    {
+      "question": "What is the name of the song from Hercules that the muses sing?",
+      "A": "Go the Distance",
+      "B": "I Won't Say I'm in Love",
+      "C": "Zero to Hero",
+      "D": "The Gospel Truth",
+      "answer": "C",
+      "funFact": "'Zero to Hero' is the gospel-inspired song the muses sing about Hercules' rise to fame. It's one of the most energetic numbers in the film."
+    },
+    {
+      "question": "What is the name of the song from Tangled that Rapunzel sings when she leaves the tower?",
+      "A": "When Will My Life Begin?",
+      "B": "I See the Light",
+      "C": "I've Got a Dream",
+      "D": "Mother Knows Best",
+      "answer": "A",
+      "funFact": "'When Will My Life Begin?' is Rapunzel's opening song where she describes her daily routine in the tower and her longing for adventure."
+    },
+    {
+      "question": "What is the name of the song from Coco that won an Academy Award?",
+      "A": "Remember Me",
+      "B": "Un Poco Loco",
+      "C": "The World Es Mi Familia",
+      "D": "Proud Corazón",
+      "answer": "A",
+      "funFact": "'Remember Me' from Coco won the Academy Award for Best Original Song. It's a touching ballad about remembering loved ones who have passed away."
+    },
+    {
+      "question": "What is the name of the song from The Lion King that Simba and Nala sing?",
+      "A": "Hakuna Matata",
+      "B": "Circle of Life",
+      "C": "Can You Feel the Love Tonight",
+      "D": "I Just Can't Wait to Be King",
+      "answer": "C",
+      "funFact": "'Can You Feel the Love Tonight' is the romantic duet between Simba and Nala. It won the Academy Award for Best Original Song."
+    },
+    {
+      "question": "What is the name of the song from Aladdin that Aladdin and Jasmine sing while flying on the magic carpet?",
+      "A": "A Whole New World",
+      "B": "Friend Like Me",
+      "C": "Arabian Nights",
+      "D": "Prince Ali",
+      "answer": "A",
+      "funFact": "'A Whole New World' is the romantic duet Aladdin and Jasmine sing while flying on the magic carpet. It won the Academy Award for Best Original Song."
+    },
+    {
+      "question": "What is the name of the song from Beauty and the Beast that Lumiere sings?",
+      "A": "Be Our Guest",
+      "B": "Belle",
+      "C": "Beauty and the Beast",
+      "D": "Gaston",
+      "answer": "A",
+      "funFact": "'Be Our Guest' is the show-stopping number Lumiere sings to welcome Belle to the castle. It's a lavish production number with dancing dishes and cutlery."
+    },
+    {
+      "question": "What is the name of the song from The Little Mermaid that Sebastian sings?",
+      "A": "Part of Your World",
+      "B": "Under the Sea",
+      "C": "Kiss the Girl",
+      "D": "Poor Unfortunate Souls",
+      "answer": "B",
+      "funFact": "'Under the Sea' is Sebastian's calypso number that won the Academy Award for Best Original Song. It celebrates life under the ocean."
+    }
+]
+

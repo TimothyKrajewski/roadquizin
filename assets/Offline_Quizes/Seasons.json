@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many seasons are there?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "answer": "C",
+      "funFact": "There are four seasons: spring, summer, fall (autumn), and winter. The seasons are caused by Earth's tilt on its axis as it orbits the Sun."
+    },
+    {
+      "question": "What causes the seasons?",
+      "A": "Earth's distance from the Sun",
+      "B": "Earth's tilt on its axis",
+      "C": "The Moon's orbit",
+      "D": "Earth's rotation",
+      "answer": "B",
+      "funFact": "Seasons are caused by Earth's tilt on its axis (about 23.5 degrees) as it orbits the Sun, not by Earth's distance from the Sun. When the Northern Hemisphere tilts toward the Sun, it's summer there."
+    },
+    {
+      "question": "What is the first day of summer in the Northern Hemisphere called?",
+      "A": "Equinox",
+      "B": "Solstice",
+      "C": "Aphelion",
+      "D": "Perihelion",
+      "answer": "B",
+      "funFact": "The summer solstice (around June 21) is the longest day of the year in the Northern Hemisphere, when the North Pole is tilted closest to the Sun."
+    },
+    {
+      "question": "What is the first day of spring called?",
+      "A": "Summer solstice",
+      "B": "Winter solstice",
+      "C": "Vernal equinox",
+      "D": "Autumnal equinox",
+      "answer": "C",
+      "funFact": "The vernal (spring) equinox (around March 20-21) marks the first day of spring, when day and night are approximately equal in length."
+    },
+    {
+      "question": "Which season has the shortest days?",
+      "A": "Spring",
+      "B": "Summer",
+      "C": "Fall",
+      "D": "Winter",
+      "answer": "D",
+      "funFact": "Winter has the shortest days because the hemisphere is tilted away from the Sun. The winter solstice (around December 21) is the shortest day of the year."
+    },
+    {
+      "question": "What season comes after summer?",
+      "A": "Spring",
+      "B": "Fall (Autumn)",
+      "C": "Winter",
+      "D": "Summer again",
+      "answer": "B",
+      "funFact": "Fall (autumn) comes after summer. In the Northern Hemisphere, fall typically runs from September to November, marked by cooler temperatures and falling leaves."
+    },
+    {
+      "question": "What is the name for when day and night are equal in length?",
+      "A": "Solstice",
+      "B": "Equinox",
+      "C": "Aphelion",
+      "D": "Perihelion",
+      "answer": "B",
+      "funFact": "An equinox occurs when day and night are approximately equal in length. There are two equinoxes each year: the vernal (spring) and autumnal (fall) equinoxes."
+    },
+    {
+      "question": "Which season is known for blooming flowers?",
+      "A": "Winter",
+      "B": "Spring",
+      "C": "Summer",
+      "D": "Fall",
+      "answer": "B",
+      "funFact": "Spring is known for blooming flowers as plants come back to life after winter. Many plants flower in spring to take advantage of increasing daylight and warmer temperatures."
+    },
+    {
+      "question": "What is the warmest season?",
+      "A": "Spring",
+      "B": "Summer",
+      "C": "Fall",
+      "D": "Winter",
+      "answer": "B",
+      "funFact": "Summer is typically the warmest season because the hemisphere is tilted toward the Sun, receiving more direct sunlight and longer days."
+    },
+    {
+      "question": "What season is associated with falling leaves?",
+      "A": "Spring",
+      "B": "Summer",
+      "C": "Fall (Autumn)",
+      "D": "Winter",
+      "answer": "C",
+      "funFact": "Fall (autumn) is associated with falling leaves as trees prepare for winter by dropping their leaves. The changing colors of leaves are caused by the breakdown of chlorophyll."
+    }
+]
+

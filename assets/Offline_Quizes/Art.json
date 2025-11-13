@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who painted 'Starry Night'?",
+      "A": "Pablo Picasso",
+      "B": "Claude Monet",
+      "C": "Vincent van Gogh",
+      "D": "Salvador Dalí",
+      "answer": "C",
+      "funFact": "Vincent van Gogh painted 'The Starry Night' in 1889 while staying at an asylum in Saint-Rémy-de-Provence, France. It's one of the most recognized paintings in the world."
+    },
+    {
+      "question": "What art movement is Pablo Picasso most associated with?",
+      "A": "Impressionism",
+      "B": "Surrealism",
+      "C": "Cubism",
+      "D": "Expressionism",
+      "answer": "C",
+      "funFact": "Pablo Picasso, along with Georges Braque, co-founded Cubism, an art movement that revolutionized European painting and sculpture in the early 20th century."
+    },
+    {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "A": "Leonardo da Vinci",
+      "B": "Raphael",
+      "C": "Michelangelo",
+      "D": "Donatello",
+      "answer": "C",
+      "funFact": "Michelangelo painted the ceiling of the Sistine Chapel between 1508 and 1512, creating one of the most celebrated works of Renaissance art."
+    },
+    {
+      "question": "What is the name of Leonardo da Vinci's most famous painting?",
+      "A": "The Last Supper",
+      "B": "Mona Lisa",
+      "C": "Vitruvian Man",
+      "D": "The Annunciation",
+      "answer": "B",
+      "funFact": "The Mona Lisa, painted by Leonardo da Vinci between 1503 and 1519, is perhaps the world's most famous painting and is housed in the Louvre Museum in Paris."
+    },
+    {
+      "question": "Which art movement is characterized by visible brush strokes and emphasis on light?",
+      "A": "Cubism",
+      "B": "Impressionism",
+      "C": "Surrealism",
+      "D": "Abstract Expressionism",
+      "answer": "B",
+      "funFact": "Impressionism, developed in France in the 1860s, is characterized by visible brush strokes, emphasis on light and its changing qualities, and ordinary subject matter."
+    },
+    {
+      "question": "Who painted 'The Persistence of Memory'?",
+      "A": "Pablo Picasso",
+      "B": "Salvador Dalí",
+      "C": "René Magritte",
+      "D": "Frida Kahlo",
+      "answer": "B",
+      "funFact": "Salvador Dalí painted 'The Persistence of Memory' in 1931, featuring melting clocks and becoming one of the most famous surrealist works."
+    },
+    {
+      "question": "What is the primary color that cannot be created by mixing other colors?",
+      "A": "Red, blue, and yellow",
+      "B": "Red, green, and blue",
+      "C": "Cyan, magenta, and yellow",
+      "D": "All of the above are correct in different contexts",
+      "answer": "D",
+      "funFact": "Primary colors depend on the color model: red, blue, yellow for pigments; red, green, blue for light (RGB); cyan, magenta, yellow for printing (CMYK)."
+    },
+    {
+      "question": "Who is known for painting water lilies?",
+      "A": "Vincent van Gogh",
+      "B": "Claude Monet",
+      "C": "Pierre-Auguste Renoir",
+      "D": "Édouard Manet",
+      "answer": "B",
+      "funFact": "Claude Monet painted over 250 works featuring water lilies in his garden at Giverny, creating some of the most famous Impressionist paintings."
+    },
+    {
+      "question": "What is the technique of applying paint in thick layers called?",
+      "A": "Glazing",
+      "B": "Impasto",
+      "C": "Sfumato",
+      "D": "Chiaroscuro",
+      "answer": "B",
+      "funFact": "Impasto is a technique where paint is applied in thick layers, creating texture and visible brush or palette knife marks, famously used by artists like Vincent van Gogh."
+    },
+    {
+      "question": "Who painted 'Guernica'?",
+      "A": "Pablo Picasso",
+      "B": "Salvador Dalí",
+      "C": "Joan Miró",
+      "D": "Francisco Goya",
+      "answer": "A",
+      "funFact": "Pablo Picasso painted 'Guernica' in 1937 as a response to the bombing of the Basque town of Guernica during the Spanish Civil War, becoming a powerful anti-war symbol."
+    }
+]
+

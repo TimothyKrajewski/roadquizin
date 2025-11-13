@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Who was the first President of the United States?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "George Washington",
+      "D": "Benjamin Franklin",
+      "answer": "C",
+      "funFact": "George Washington was the first President of the United States, serving from 1789 to 1797. He's known as the 'Father of His Country' and set many precedents for the office."
+    },
+    {
+      "question": "Who was the second President of the United States?",
+      "A": "Thomas Jefferson",
+      "B": "John Adams",
+      "C": "James Madison",
+      "D": "Alexander Hamilton",
+      "answer": "B",
+      "funFact": "John Adams was the second President of the United States, serving from 1797 to 1801. He was also the first Vice President under George Washington."
+    },
+    {
+      "question": "Who was the third President of the United States?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "James Madison",
+      "D": "James Monroe",
+      "answer": "B",
+      "funFact": "Thomas Jefferson was the third President of the United States, serving from 1801 to 1809. He was the principal author of the Declaration of Independence."
+    },
+    {
+      "question": "Who was the fourth President of the United States?",
+      "A": "Thomas Jefferson",
+      "B": "James Madison",
+      "C": "James Monroe",
+      "D": "John Quincy Adams",
+      "answer": "B",
+      "funFact": "James Madison was the fourth President of the United States, serving from 1809 to 1817. He's known as the 'Father of the Constitution' for his role in drafting it."
+    },
+    {
+      "question": "Who was the fifth President of the United States?",
+      "A": "James Madison",
+      "B": "James Monroe",
+      "C": "John Quincy Adams",
+      "D": "Andrew Jackson",
+      "answer": "B",
+      "funFact": "James Monroe was the fifth President of the United States, serving from 1817 to 1825. His presidency is known as the 'Era of Good Feelings' and he issued the Monroe Doctrine."
+    },
+    {
+      "question": "Which early President was known as the 'Father of the Constitution'?",
+      "A": "George Washington",
+      "B": "Thomas Jefferson",
+      "C": "James Madison",
+      "D": "Alexander Hamilton",
+      "answer": "C",
+      "funFact": "James Madison is known as the 'Father of the Constitution' because of his crucial role in drafting and promoting the U.S. Constitution and the Bill of Rights."
+    },
+    {
+      "question": "Which President served two non-consecutive terms?",
+      "A": "Grover Cleveland",
+      "B": "Benjamin Harrison",
+      "C": "William McKinley",
+      "D": "Theodore Roosevelt",
+      "answer": "A",
+      "funFact": "Grover Cleveland is the only President to serve two non-consecutive terms (1885-1889 and 1893-1897), making him both the 22nd and 24th President."
+    },
+    {
+      "question": "Which President was known for the 'Era of Good Feelings'?",
+      "A": "James Madison",
+      "B": "James Monroe",
+      "C": "John Quincy Adams",
+      "D": "Andrew Jackson",
+      "answer": "B",
+      "funFact": "James Monroe's presidency (1817-1825) was known as the 'Era of Good Feelings' because of the relative political harmony and national unity during his administration."
+    },
+    {
+      "question": "Which President issued the Monroe Doctrine?",
+      "A": "James Madison",
+      "B": "James Monroe",
+      "C": "John Quincy Adams",
+      "D": "Andrew Jackson",
+      "answer": "B",
+      "funFact": "James Monroe issued the Monroe Doctrine in 1823, declaring that the Americas were off-limits to further European colonization and that the U.S. would not interfere in European affairs."
+    },
+    {
+      "question": "Which President was the first to be born in the United States?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "Martin Van Buren",
+      "answer": "D",
+      "funFact": "Martin Van Buren was the first President born in the United States (in 1782). All previous Presidents were born before American independence in British colonies."
+    },
+    {
+      "question": "Which President was known as 'Old Hickory'?",
+      "A": "Andrew Jackson",
+      "B": "William Henry Harrison",
+      "C": "John Tyler",
+      "D": "James K. Polk",
+      "answer": "A",
+      "funFact": "Andrew Jackson was known as 'Old Hickory' because of his toughness and resilience. He was a military hero and the first President from the western frontier."
+    },
+    {
+      "question": "Which President served the shortest term?",
+      "A": "William Henry Harrison",
+      "B": "James A. Garfield",
+      "C": "Zachary Taylor",
+      "D": "Warren G. Harding",
+      "answer": "A",
+      "funFact": "William Henry Harrison served the shortest term, dying just 31 days after his inauguration in 1841. He caught pneumonia during his lengthy inaugural address in cold weather."
+    },
+    {
+      "question": "Which President was known as 'The Great Compromiser'?",
+      "A": "John Quincy Adams",
+      "B": "Andrew Jackson",
+      "C": "Henry Clay",
+      "D": "This was not a President, but Henry Clay",
+      "answer": "D",
+      "funFact": "Henry Clay was known as 'The Great Compromiser' for his role in the Missouri Compromise and Compromise of 1850, but he never became President despite multiple attempts."
+    },
+    {
+      "question": "Which President was the first to die in office?",
+      "A": "William Henry Harrison",
+      "B": "Zachary Taylor",
+      "C": "Abraham Lincoln",
+      "D": "James A. Garfield",
+      "answer": "A",
+      "funFact": "William Henry Harrison was the first President to die in office, passing away in 1841 just one month after his inauguration. He was also the oldest President at the time."
+    },
+    {
+      "question": "Which President was known for the 'Trail of Tears'?",
+      "A": "John Quincy Adams",
+      "B": "Andrew Jackson",
+      "C": "Martin Van Buren",
+      "D": "William Henry Harrison",
+      "answer": "B",
+      "funFact": "Andrew Jackson's administration enforced the Indian Removal Act, leading to the forced relocation of Native American tribes, known as the 'Trail of Tears,' during which thousands died."
+    },
+    {
+      "question": "Which President was the first to be impeached?",
+      "A": "Andrew Johnson",
+      "B": "Richard Nixon",
+      "C": "Bill Clinton",
+      "D": "Donald Trump",
+      "answer": "A",
+      "funFact": "Andrew Johnson was the first President to be impeached in 1868, though he was acquitted by one vote. He was impeached for violating the Tenure of Office Act."
+    },
+    {
+      "question": "Which President was known as 'Honest Abe'?",
+      "A": "Andrew Jackson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "Rutherford B. Hayes",
+      "answer": "B",
+      "funFact": "Abraham Lincoln was known as 'Honest Abe' for his reputation for honesty and integrity. He's widely considered one of America's greatest Presidents."
+    },
+    {
+      "question": "Which President was the first to be assassinated?",
+      "A": "William Henry Harrison",
+      "B": "Zachary Taylor",
+      "C": "Abraham Lincoln",
+      "D": "James A. Garfield",
+      "answer": "C",
+      "funFact": "Abraham Lincoln was the first President to be assassinated, shot by John Wilkes Booth at Ford's Theatre on April 14, 1865, and died the next day."
+    },
+    {
+      "question": "Which President was known as 'The Rail Splitter'?",
+      "A": "Andrew Jackson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "Rutherford B. Hayes",
+      "answer": "B",
+      "funFact": "Abraham Lincoln was known as 'The Rail Splitter' because he split rails as a young man. This nickname was used during his 1860 presidential campaign to emphasize his humble origins."
+    },
+    {
+      "question": "Which President was the first to use the telegraph?",
+      "A": "John Tyler",
+      "B": "James K. Polk",
+      "C": "Zachary Taylor",
+      "D": "Millard Fillmore",
+      "answer": "B",
+      "funFact": "James K. Polk was the first President to use the telegraph, sending a message to the Democratic National Convention in 1844. The telegraph revolutionized communication."
+    },
+    {
+      "question": "Which President was known for the Mexican-American War?",
+      "A": "John Tyler",
+      "B": "James K. Polk",
+      "C": "Zachary Taylor",
+      "D": "Millard Fillmore",
+      "answer": "B",
+      "funFact": "James K. Polk was President during the Mexican-American War (1846-1848), which resulted in the United States acquiring vast territories including California, New Mexico, and parts of the Southwest."
+    },
+    {
+      "question": "Which President was the first to have his photograph taken?",
+      "A": "William Henry Harrison",
+      "B": "John Tyler",
+      "C": "James K. Polk",
+      "D": "Zachary Taylor",
+      "answer": "B",
+      "funFact": "John Tyler was the first President to have his photograph taken, though the first photograph of a sitting President was of James K. Polk in 1849."
+    },
+    {
+      "question": "Which President was known as 'Old Rough and Ready'?",
+      "A": "Andrew Jackson",
+      "B": "William Henry Harrison",
+      "C": "Zachary Taylor",
+      "D": "Millard Fillmore",
+      "answer": "C",
+      "funFact": "Zachary Taylor was known as 'Old Rough and Ready' for his military service and casual demeanor. He was a hero of the Mexican-American War before becoming President."
+    },
+    {
+      "question": "Which President was the first to have a telephone in the White House?",
+      "A": "Rutherford B. Hayes",
+      "B": "James A. Garfield",
+      "C": "Chester A. Arthur",
+      "D": "Grover Cleveland",
+      "answer": "A",
+      "funFact": "Rutherford B. Hayes was the first President to have a telephone in the White House, installed in 1877. The first phone number was simply '1'."
+    },
+    {
+      "question": "Which President was known as 'His Accidency'?",
+      "A": "John Tyler",
+      "B": "Millard Fillmore",
+      "C": "Andrew Johnson",
+      "D": "Chester A. Arthur",
+      "answer": "A",
+      "funFact": "John Tyler was known as 'His Accidency' because he became President after William Henry Harrison's death. Many questioned whether a Vice President should fully assume the presidency."
+    }
+]
+

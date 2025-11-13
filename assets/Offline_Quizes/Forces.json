@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is a force?",
+      "A": "Energy",
+      "B": "A push or pull",
+      "C": "Matter",
+      "D": "Speed",
+      "answer": "B",
+      "funFact": "A force is a push or pull that can cause an object to move, stop, or change direction. Forces are measured in newtons (N)."
+    },
+    {
+      "question": "What is gravity?",
+      "A": "A force that pulls objects toward each other",
+      "B": "A force that pushes objects apart",
+      "C": "A type of energy",
+      "D": "A type of matter",
+      "answer": "A",
+      "funFact": "Gravity is a force that pulls objects toward each other. On Earth, gravity pulls objects toward the ground, giving them weight."
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "A": "9.8 m/s²",
+      "B": "10 m/s²",
+      "C": "8.9 m/s²",
+      "D": "11 m/s²",
+      "answer": "A",
+      "funFact": "The acceleration due to gravity on Earth is approximately 9.8 m/s², meaning objects fall faster by 9.8 meters per second every second they fall."
+    },
+    {
+      "question": "What is friction?",
+      "A": "A force that opposes motion",
+      "B": "A force that helps motion",
+      "C": "A type of energy",
+      "D": "A type of matter",
+      "answer": "A",
+      "funFact": "Friction is a force that opposes motion between two surfaces in contact. It can be helpful (like when walking) or a hindrance (like when trying to move heavy objects)."
+    },
+    {
+      "question": "What is Newton's first law of motion?",
+      "A": "F = ma",
+      "B": "For every action, there is an equal and opposite reaction",
+      "C": "An object at rest stays at rest, and an object in motion stays in motion",
+      "D": "Energy cannot be created or destroyed",
+      "answer": "C",
+      "funFact": "Newton's first law states that an object at rest stays at rest, and an object in motion stays in motion at a constant velocity, unless acted upon by an unbalanced force. This is also called the law of inertia."
+    },
+    {
+      "question": "What is Newton's second law of motion?",
+      "A": "F = ma",
+      "B": "For every action, there is an equal and opposite reaction",
+      "C": "An object at rest stays at rest",
+      "D": "Energy is conserved",
+      "answer": "A",
+      "funFact": "Newton's second law states that force equals mass times acceleration (F = ma). This means the greater the force, the greater the acceleration, or the greater the mass, the less the acceleration."
+    },
+    {
+      "question": "What is Newton's third law of motion?",
+      "A": "F = ma",
+      "B": "For every action, there is an equal and opposite reaction",
+      "C": "An object at rest stays at rest",
+      "D": "Energy is conserved",
+      "answer": "B",
+      "funFact": "Newton's third law states that for every action, there is an equal and opposite reaction. For example, when you push on a wall, the wall pushes back on you with equal force."
+    },
+    {
+      "question": "What is magnetism?",
+      "A": "A force between magnetic objects",
+      "B": "A type of energy",
+      "C": "A type of matter",
+      "D": "A type of light",
+      "answer": "A",
+      "funFact": "Magnetism is a force between magnetic objects. Magnets have north and south poles, and like poles repel while opposite poles attract."
+    },
+    {
+      "question": "What is the unit of force?",
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Watt",
+      "D": "Volt",
+      "answer": "B",
+      "funFact": "The newton (N) is the unit of force, named after Isaac Newton. One newton is the force needed to accelerate one kilogram of mass by one meter per second squared."
+    },
+    {
+      "question": "What happens when forces are balanced?",
+      "A": "The object moves",
+      "B": "The object doesn't move or moves at constant speed",
+      "C": "The object accelerates",
+      "D": "The object stops",
+      "answer": "B",
+      "funFact": "When forces are balanced (equal and opposite), the object either doesn't move or moves at a constant speed. Unbalanced forces cause acceleration."
+    }
+]
+

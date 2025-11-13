@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the tallest tree in the world?",
+      "A": "Giant sequoia",
+      "B": "Coast redwood",
+      "C": "Eucalyptus",
+      "D": "Douglas fir",
+      "answer": "B",
+      "funFact": "The coast redwood is the tallest tree in the world, with the tallest known specimen (Hyperion) reaching 379.7 feet tall. It's located in California."
+    },
+    {
+      "question": "What is the oldest tree in the world?",
+      "A": "Bristlecone pine",
+      "B": "Giant sequoia",
+      "C": "Oak",
+      "D": "Redwood",
+      "answer": "A",
+      "funFact": "A bristlecone pine named Methuselah is over 4,800 years old, making it one of the oldest living trees in the world. Some trees may be even older."
+    },
+    {
+      "question": "What process do trees use to make food?",
+      "A": "Respiration",
+      "B": "Photosynthesis",
+      "C": "Digestion",
+      "D": "Fermentation",
+      "answer": "B",
+      "funFact": "Trees use photosynthesis to make food, using sunlight, water, and carbon dioxide to produce glucose (sugar) and oxygen."
+    },
+    {
+      "question": "What part of the tree absorbs water and nutrients?",
+      "A": "Leaves",
+      "B": "Branches",
+      "C": "Roots",
+      "D": "Trunk",
+      "answer": "C",
+      "funFact": "Tree roots absorb water and nutrients from the soil and anchor the tree in the ground. They can extend far beyond the tree's canopy."
+    },
+    {
+      "question": "What is the largest tree by volume in the world?",
+      "A": "Coast redwood",
+      "B": "Giant sequoia",
+      "C": "Eucalyptus",
+      "D": "Baobab",
+      "answer": "B",
+      "funFact": "The General Sherman tree, a giant sequoia, is the largest tree by volume in the world, containing over 52,000 cubic feet of wood."
+    },
+    {
+      "question": "What do trees produce that we need to breathe?",
+      "A": "Carbon dioxide",
+      "B": "Nitrogen",
+      "C": "Oxygen",
+      "D": "Hydrogen",
+      "answer": "C",
+      "funFact": "Trees produce oxygen during photosynthesis, which is essential for humans and animals to breathe. One large tree can produce enough oxygen for 2-4 people."
+    },
+    {
+      "question": "What are the rings in a tree trunk called?",
+      "A": "Growth rings",
+      "B": "Annual rings",
+      "C": "Tree rings",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Tree rings (also called growth rings or annual rings) show the age of a tree and can reveal information about past climate conditions. Each ring typically represents one year of growth."
+    },
+    {
+      "question": "What is it called when trees lose their leaves in winter?",
+      "A": "Evergreen",
+      "B": "Deciduous",
+      "C": "Coniferous",
+      "D": "Perennial",
+      "answer": "B",
+      "funFact": "Deciduous trees lose their leaves in winter to conserve water and energy. Evergreen trees keep their leaves (or needles) year-round."
+    },
+    {
+      "question": "What is the hardest wood?",
+      "A": "Oak",
+      "B": "Pine",
+      "C": "Ironwood",
+      "D": "Maple",
+      "answer": "C",
+      "funFact": "Ironwood (various species) is among the hardest woods, though Australian buloke is considered the hardest. Hardness is measured using the Janka hardness test."
+    },
+    {
+      "question": "How many trees are estimated to be on Earth?",
+      "A": "About 1 billion",
+      "B": "About 100 billion",
+      "C": "About 3 trillion",
+      "D": "About 10 trillion",
+      "answer": "C",
+      "funFact": "Scientists estimate there are about 3 trillion trees on Earth, though this number is decreasing due to deforestation and climate change."
+    }
+]
+

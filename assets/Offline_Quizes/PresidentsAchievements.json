@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Which President orchestrated the Louisiana Purchase?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "James Madison",
+      "answer": "C",
+      "funFact": "Thomas Jefferson orchestrated the Louisiana Purchase in 1803, doubling the size of the United States by acquiring 827,000 square miles from France for $15 million."
+    },
+    {
+      "question": "Which President issued the Emancipation Proclamation?",
+      "A": "Andrew Johnson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "James Buchanan",
+      "answer": "B",
+      "funFact": "Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, declaring that all slaves in Confederate states were free, though it didn't immediately free all slaves."
+    },
+    {
+      "question": "Which President established the National Park System?",
+      "A": "Theodore Roosevelt",
+      "B": "William Howard Taft",
+      "C": "Woodrow Wilson",
+      "D": "Calvin Coolidge",
+      "answer": "A",
+      "funFact": "Theodore Roosevelt established the National Park System and created many national parks, monuments, and forests. He's known as the 'Conservation President.'"
+    },
+    {
+      "question": "Which President created the New Deal?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt created the New Deal, a series of programs and reforms designed to help the United States recover from the Great Depression."
+    },
+    {
+      "question": "Which President signed the Civil Rights Act of 1964?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson signed the Civil Rights Act of 1964, one of the most significant pieces of civil rights legislation in American history, outlawing discrimination based on race, color, religion, sex, or national origin."
+    },
+    {
+      "question": "Which President signed the Voting Rights Act of 1965?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson signed the Voting Rights Act of 1965, which prohibited racial discrimination in voting and helped ensure African Americans could exercise their right to vote."
+    },
+    {
+      "question": "Which President established the Peace Corps?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy established the Peace Corps in 1961, sending American volunteers to help developing countries around the world."
+    },
+    {
+      "question": "Which President established NASA?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "B",
+      "funFact": "Dwight D. Eisenhower established NASA (National Aeronautics and Space Administration) in 1958 in response to the Soviet Union's launch of Sputnik."
+    },
+    {
+      "question": "Which President established the Environmental Protection Agency (EPA)?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon established the Environmental Protection Agency (EPA) in 1970 to protect human health and the environment. He also signed the Clean Air Act and Clean Water Act."
+    },
+    {
+      "question": "Which President established the Department of Education?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "A",
+      "funFact": "Jimmy Carter established the Department of Education in 1979, elevating education to a cabinet-level position in the federal government."
+    },
+    {
+      "question": "Which President established the Department of Homeland Security?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush established the Department of Homeland Security in 2002 in response to the 9/11 attacks, consolidating various security agencies."
+    },
+    {
+      "question": "Which President signed the Americans with Disabilities Act?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "B",
+      "funFact": "George H.W. Bush signed the Americans with Disabilities Act (ADA) in 1990, prohibiting discrimination against people with disabilities."
+    },
+    {
+      "question": "Which President signed the Affordable Care Act (Obamacare)?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Donald Trump",
+      "D": "Joe Biden",
+      "answer": "B",
+      "funFact": "Barack Obama signed the Affordable Care Act (often called Obamacare) into law in 2010, expanding healthcare coverage to millions of Americans."
+    },
+    {
+      "question": "Which President established the Federal Reserve System?",
+      "A": "William Howard Taft",
+      "B": "Woodrow Wilson",
+      "C": "Warren G. Harding",
+      "D": "Calvin Coolidge",
+      "answer": "B",
+      "funFact": "Woodrow Wilson established the Federal Reserve System in 1913, creating the central banking system of the United States."
+    },
+    {
+      "question": "Which President established Social Security?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt established Social Security in 1935 as part of the New Deal, providing retirement benefits for American workers."
+    },
+    {
+      "question": "Which President established Medicare and Medicaid?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson established Medicare and Medicaid in 1965, providing healthcare coverage for the elderly and low-income Americans."
+    },
+    {
+      "question": "Which President established the Interstate Highway System?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "B",
+      "funFact": "Dwight D. Eisenhower established the Interstate Highway System in 1956, creating a network of highways that transformed American transportation and commerce."
+    },
+    {
+      "question": "Which President established the Food and Drug Administration (FDA)?",
+      "A": "Theodore Roosevelt",
+      "B": "William Howard Taft",
+      "C": "Woodrow Wilson",
+      "D": "Warren G. Harding",
+      "answer": "A",
+      "funFact": "Theodore Roosevelt signed the Pure Food and Drug Act in 1906, which led to the creation of the Food and Drug Administration (FDA) to protect public health."
+    },
+    {
+      "question": "Which President established the National Endowment for the Arts?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson established the National Endowment for the Arts (NEA) in 1965 to support and fund artistic excellence and creativity."
+    },
+    {
+      "question": "Which President established the National Endowment for the Humanities?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson established the National Endowment for the Humanities (NEH) in 1965 to support research, education, and public programs in the humanities."
+    },
+    {
+      "question": "Which President established the Consumer Financial Protection Bureau?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Donald Trump",
+      "D": "Joe Biden",
+      "answer": "B",
+      "funFact": "Barack Obama established the Consumer Financial Protection Bureau (CFPB) in 2010 as part of the Dodd-Frank Act to protect consumers from financial fraud and abuse."
+    },
+    {
+      "question": "Which President established the Department of Energy?",
+      "A": "Gerald Ford",
+      "B": "Jimmy Carter",
+      "C": "Ronald Reagan",
+      "D": "George H.W. Bush",
+      "answer": "B",
+      "funFact": "Jimmy Carter established the Department of Energy in 1977 to address the energy crisis and coordinate national energy policy."
+    },
+    {
+      "question": "Which President established the Department of Health and Human Services?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "A",
+      "funFact": "Jimmy Carter established the Department of Health and Human Services in 1979, though it evolved from the Department of Health, Education, and Welfare."
+    },
+    {
+      "question": "Which President established the Department of Veterans Affairs?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "A",
+      "funFact": "Ronald Reagan elevated the Veterans Administration to cabinet-level status, creating the Department of Veterans Affairs in 1989."
+    },
+    {
+      "question": "Which President established the National Science Foundation?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "A",
+      "funFact": "Harry S. Truman established the National Science Foundation (NSF) in 1950 to promote the progress of science and advance national health and welfare."
+    }
+]
+

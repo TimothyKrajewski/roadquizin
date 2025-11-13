@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Who was the President during the Civil War?",
+      "A": "Andrew Johnson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "James Buchanan",
+      "answer": "B",
+      "funFact": "Abraham Lincoln was President during the Civil War (1861-1865) and issued the Emancipation Proclamation, which declared slaves in Confederate states free."
+    },
+    {
+      "question": "Who was the President when the United States entered World War I?",
+      "A": "Theodore Roosevelt",
+      "B": "William Howard Taft",
+      "C": "Woodrow Wilson",
+      "D": "Warren G. Harding",
+      "answer": "C",
+      "funFact": "Woodrow Wilson was President when the United States entered World War I in 1917. He later proposed the League of Nations as part of his Fourteen Points."
+    },
+    {
+      "question": "Who was the President during most of World War II?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was President for most of World War II (1933-1945), leading the country through the Great Depression and most of the war."
+    },
+    {
+      "question": "Who was the President when the United States entered World War II?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was President when the United States entered World War II after the attack on Pearl Harbor on December 7, 1941."
+    },
+    {
+      "question": "Who was the President during the Korean War?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "A",
+      "funFact": "Harry S. Truman was President when the Korean War began in 1950. The war lasted until 1953, ending during Dwight D. Eisenhower's presidency."
+    },
+    {
+      "question": "Who was the President during most of the Vietnam War?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Vietnam War spanned multiple presidencies: John F. Kennedy increased U.S. involvement, Lyndon B. Johnson escalated it significantly, and Richard Nixon began withdrawal."
+    },
+    {
+      "question": "Who was the President when the Vietnam War ended?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "C",
+      "funFact": "Gerald Ford was President when the Vietnam War officially ended in 1975, though the last U.S. troops had been withdrawn in 1973 during Richard Nixon's presidency."
+    },
+    {
+      "question": "Who was the President during the War of 1812?",
+      "A": "Thomas Jefferson",
+      "B": "James Madison",
+      "C": "James Monroe",
+      "D": "John Quincy Adams",
+      "answer": "B",
+      "funFact": "James Madison was President during the War of 1812 (1812-1815), a conflict between the United States and Great Britain."
+    },
+    {
+      "question": "Who was the President during the Mexican-American War?",
+      "A": "John Tyler",
+      "B": "James K. Polk",
+      "C": "Zachary Taylor",
+      "D": "Millard Fillmore",
+      "answer": "B",
+      "funFact": "James K. Polk was President during the Mexican-American War (1846-1848), which resulted in the United States acquiring vast territories including California and New Mexico."
+    },
+    {
+      "question": "Who was the President during the Spanish-American War?",
+      "A": "Grover Cleveland",
+      "B": "William McKinley",
+      "C": "Theodore Roosevelt",
+      "D": "William Howard Taft",
+      "answer": "B",
+      "funFact": "William McKinley was President during the Spanish-American War in 1898, which resulted in the United States acquiring territories including Puerto Rico, Guam, and the Philippines."
+    },
+    {
+      "question": "Who was the President during the Persian Gulf War?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "B",
+      "funFact": "George H.W. Bush was President during the Persian Gulf War (1990-1991), leading a coalition to liberate Kuwait from Iraqi occupation."
+    },
+    {
+      "question": "Who was the President when the Iraq War began?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush was President when the Iraq War began in 2003, leading a coalition to invade Iraq and remove Saddam Hussein from power."
+    },
+    {
+      "question": "Who was the President when the Afghanistan War began?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush was President when the Afghanistan War began in 2001, following the 9/11 attacks. The war lasted until 2021."
+    },
+    {
+      "question": "Who was the President during the Cold War?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "Multiple Presidents",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Cold War lasted from 1947 to 1991, spanning multiple presidencies from Harry S. Truman to George H.W. Bush. It was a period of geopolitical tension between the U.S. and Soviet Union."
+    },
+    {
+      "question": "Who was the President when the Berlin Wall was built?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy was President when the Berlin Wall was built in 1961. He gave his famous 'Ich bin ein Berliner' speech in 1963."
+    },
+    {
+      "question": "Who was the President when the Berlin Wall fell?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "George H.W. Bush was President when the Berlin Wall fell in 1989, marking the end of the Cold War and the reunification of Germany."
+    },
+    {
+      "question": "Who was the President during the Cuban Missile Crisis?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy was President during the Cuban Missile Crisis in 1962, a 13-day confrontation that brought the world to the brink of nuclear war."
+    },
+    {
+      "question": "Who was the President when the atomic bomb was first used?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "Herbert Hoover",
+      "answer": "B",
+      "funFact": "Harry S. Truman was President when the first atomic bomb was dropped on Hiroshima, Japan, on August 6, 1945. He made the decision to use atomic weapons to end World War II."
+    },
+    {
+      "question": "Who was the President during the War on Terror?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Both B and C",
+      "answer": "D",
+      "funFact": "The War on Terror began under George W. Bush after 9/11 and continued through Barack Obama's presidency, involving conflicts in Afghanistan, Iraq, and other regions."
+    },
+    {
+      "question": "Who was the President when the first Gulf War ended?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "B",
+      "funFact": "George H.W. Bush was President when the Persian Gulf War ended in 1991, with a quick and decisive victory for the U.S.-led coalition."
+    },
+    {
+      "question": "Who was the President during the War of 1812's most famous battle?",
+      "A": "Thomas Jefferson",
+      "B": "James Madison",
+      "C": "James Monroe",
+      "D": "John Quincy Adams",
+      "answer": "B",
+      "funFact": "James Madison was President during the Battle of New Orleans in 1815, the most famous battle of the War of 1812, though it occurred after the war had officially ended."
+    },
+    {
+      "question": "Who was the President when the Mexican-American War ended?",
+      "A": "James K. Polk",
+      "B": "Zachary Taylor",
+      "C": "Millard Fillmore",
+      "D": "Franklin Pierce",
+      "answer": "A",
+      "funFact": "James K. Polk was President when the Mexican-American War ended in 1848 with the Treaty of Guadalupe Hidalgo, which gave the U.S. vast territories in the Southwest."
+    },
+    {
+      "question": "Who was the President when World War I ended?",
+      "A": "Theodore Roosevelt",
+      "B": "William Howard Taft",
+      "C": "Woodrow Wilson",
+      "D": "Warren G. Harding",
+      "answer": "C",
+      "funFact": "Woodrow Wilson was President when World War I ended in 1918. He attended the Paris Peace Conference and helped create the Treaty of Versailles."
+    },
+    {
+      "question": "Who was the President when World War II ended?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "Herbert Hoover",
+      "answer": "B",
+      "funFact": "Harry S. Truman was President when World War II ended in 1945, after the atomic bombings of Hiroshima and Nagasaki led to Japan's surrender."
+    },
+    {
+      "question": "Who was the President when the Korean War began?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "A",
+      "funFact": "Harry S. Truman was President when the Korean War began in 1950, when North Korea invaded South Korea. The war lasted until 1953."
+    }
+]
+

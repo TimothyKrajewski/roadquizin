@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest mammal in the world?",
+      "A": "African Elephant",
+      "B": "Blue Whale",
+      "C": "Giraffe",
+      "D": "Polar Bear",
+      "answer": "B",
+      "funFact": "The blue whale is the largest mammal and the largest animal ever known to have existed, reaching lengths of up to 100 feet and weights of up to 200 tons."
+    },
+    {
+      "question": "What is a group of lions called?",
+      "A": "Pack",
+      "B": "Pride",
+      "C": "Herd",
+      "D": "Flock",
+      "answer": "B",
+      "funFact": "A group of lions is called a pride, typically consisting of related females, their cubs, and a few adult males."
+    },
+    {
+      "question": "How many hearts does an octopus have?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "C",
+      "funFact": "An octopus has three hearts: two pump blood to the gills, and one pumps blood to the rest of the body. When an octopus swims, the heart that pumps blood to the body stops beating."
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "A": "Lion",
+      "B": "Cheetah",
+      "C": "Pronghorn",
+      "D": "Greyhound",
+      "answer": "B",
+      "funFact": "The cheetah is the fastest land animal, capable of reaching speeds up to 70 miles per hour (113 km/h) in short bursts covering distances up to 1,500 feet."
+    },
+    {
+      "question": "What is a baby kangaroo called?",
+      "A": "Cub",
+      "B": "Pup",
+      "C": "Joey",
+      "D": "Calf",
+      "answer": "C",
+      "funFact": "A baby kangaroo is called a joey. Joeys are born very underdeveloped and continue to develop in their mother's pouch for several months."
+    },
+    {
+      "question": "What is the only mammal capable of true flight?",
+      "A": "Flying squirrel",
+      "B": "Bat",
+      "C": "Flying lemur",
+      "D": "Sugar glider",
+      "answer": "B",
+      "funFact": "Bats are the only mammals capable of sustained, powered flight. Other mammals like flying squirrels can only glide, not truly fly."
+    },
+    {
+      "question": "What is the largest bird in the world?",
+      "A": "Emu",
+      "B": "Ostrich",
+      "C": "Cassowary",
+      "D": "Albatross",
+      "answer": "B",
+      "funFact": "The ostrich is the largest bird in the world, standing up to 9 feet tall and weighing up to 320 pounds. It's also the fastest two-legged animal."
+    },
+    {
+      "question": "How long can a snail sleep?",
+      "A": "Up to 1 week",
+      "B": "Up to 2 weeks",
+      "C": "Up to 3 years",
+      "D": "Up to 1 month",
+      "answer": "C",
+      "funFact": "Snails can sleep for up to 3 years! When conditions are unfavorable (dry or cold), snails enter a state of hibernation or estivation that can last for years."
+    },
+    {
+      "question": "What is a group of crows called?",
+      "A": "Murder",
+      "B": "Flock",
+      "C": "Pack",
+      "D": "Herd",
+      "answer": "A",
+      "funFact": "A group of crows is called a murder, one of the most interesting collective nouns for animals. Other groups include a parliament of owls and a pride of lions."
+    },
+    {
+      "question": "What percentage of a jellyfish's body is water?",
+      "A": "60-70%",
+      "B": "70-80%",
+      "C": "85-95%",
+      "D": "95-98%",
+      "answer": "D",
+      "funFact": "Jellyfish are composed of 95-98% water, which is why they appear almost transparent and can easily be damaged when removed from water."
+    }
+]
+

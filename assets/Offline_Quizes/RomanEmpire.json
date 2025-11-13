@@ -1,0 +1,182 @@
+[
+    {
+      "question": "When was the Roman Empire founded?",
+      "A": "27 BC",
+      "B": "44 BC",
+      "C": "31 BC",
+      "D": "14 AD",
+      "answer": "A",
+      "funFact": "The Roman Empire was founded in 27 BC when Augustus (Octavian) became the first emperor. The Roman Republic had ended, and the imperial period began."
+    },
+    {
+      "question": "Who was the first Roman emperor?",
+      "A": "Julius Caesar",
+      "B": "Augustus",
+      "C": "Tiberius",
+      "D": "Nero",
+      "answer": "B",
+      "funFact": "Augustus (originally Octavian) was the first Roman emperor, ruling from 27 BC to 14 AD. He was the adopted son of Julius Caesar."
+    },
+    {
+      "question": "Who was the last Western Roman emperor?",
+      "A": "Romulus Augustulus",
+      "B": "Julius Nepos",
+      "C": "Both A and B",
+      "D": "Constantine",
+      "answer": "C",
+      "funFact": "Romulus Augustulus is traditionally considered the last Western Roman emperor (deposed 476 AD), though Julius Nepos also claimed the title until 480 AD."
+    },
+    {
+      "question": "What was the Pax Romana?",
+      "A": "A period of peace",
+      "B": "200 years of relative peace",
+      "C": "Both A and B",
+      "D": "A war",
+      "answer": "C",
+      "funFact": "The Pax Romana (Roman Peace) was a period of about 200 years of relative peace and stability in the Roman Empire, from 27 BC to 180 AD."
+    },
+    {
+      "question": "What was the Colosseum?",
+      "A": "A gladiatorial arena",
+      "B": "Built in Rome",
+      "C": "Both A and B",
+      "D": "A temple",
+      "answer": "C",
+      "funFact": "The Colosseum in Rome was a massive gladiatorial arena built in 70-80 AD. It could hold up to 80,000 spectators and hosted gladiator fights and other events."
+    },
+    {
+      "question": "What was the Roman Forum?",
+      "A": "The center of Roman public life",
+      "B": "A marketplace and meeting place",
+      "C": "Both A and B",
+      "D": "A temple",
+      "answer": "C",
+      "funFact": "The Roman Forum was the center of Roman public life, serving as a marketplace, meeting place, and site of important government buildings."
+    },
+    {
+      "question": "What was the Roman road system?",
+      "A": "Extensive network of roads",
+      "B": "Connected the empire",
+      "C": "Both A and B",
+      "D": "Limited",
+      "answer": "C",
+      "funFact": "The Roman road system was an extensive network of roads that connected the entire empire. The saying 'All roads lead to Rome' reflects this system."
+    },
+    {
+      "question": "What was the Roman aqueduct system?",
+      "A": "Brought water to cities",
+      "B": "Engineering marvel",
+      "C": "Both A and B",
+      "D": "Limited",
+      "answer": "C",
+      "funFact": "The Roman aqueduct system brought fresh water to cities over long distances. It was an engineering marvel that used gravity to transport water."
+    },
+    {
+      "question": "What was the Roman legal system?",
+      "A": "Influenced modern law",
+      "B": "Based on written laws",
+      "C": "Both A and B",
+      "D": "Primitive",
+      "answer": "C",
+      "funFact": "The Roman legal system influenced modern law and was based on written laws. Concepts like 'innocent until proven guilty' originated in Roman law."
+    },
+    {
+      "question": "What was the Roman army?",
+      "A": "Highly disciplined",
+      "B": "Well-trained and organized",
+      "C": "Both A and B",
+      "D": "Unorganized",
+      "answer": "C",
+      "funFact": "The Roman army was highly disciplined, well-trained, and organized. It was one of the most effective military forces in history."
+    },
+    {
+      "question": "What was a legion?",
+      "A": "A Roman military unit",
+      "B": "About 5,000 soldiers",
+      "C": "Both A and B",
+      "D": "A small group",
+      "answer": "C",
+      "funFact": "A legion was a Roman military unit of about 5,000 soldiers. Legions were the backbone of the Roman army and were highly organized."
+    },
+    {
+      "question": "What was the Roman economy based on?",
+      "A": "Agriculture",
+      "B": "Trade",
+      "C": "Both A and B",
+      "D": "Industry",
+      "answer": "C",
+      "funFact": "The Roman economy was based on agriculture and trade. The empire's extensive trade network brought goods from throughout the known world."
+    },
+    {
+      "question": "What was the Roman currency?",
+      "A": "Denarius",
+      "B": "Aureus",
+      "C": "Both A and B",
+      "D": "Coins",
+      "answer": "C",
+      "funFact": "The Roman currency included the denarius (silver coin) and aureus (gold coin). Roman coins were used throughout the empire and beyond."
+    },
+    {
+      "question": "What was the Roman social structure?",
+      "A": "Hierarchical",
+      "B": "Patricians and plebeians",
+      "C": "Both A and B",
+      "D": "Egalitarian",
+      "answer": "C",
+      "funFact": "Roman society was hierarchical, with patricians (nobles) at the top and plebeians (commoners) below. Slaves were at the bottom of society."
+    },
+    {
+      "question": "What was Roman religion?",
+      "A": "Polytheistic",
+      "B": "Many gods",
+      "C": "Both A and B",
+      "D": "Monotheistic",
+      "answer": "C",
+      "funFact": "Roman religion was polytheistic, with many gods. The Romans adopted gods from other cultures and had a complex religious system."
+    },
+    {
+      "question": "What was the Roman language?",
+      "A": "Latin",
+      "B": "Influenced many languages",
+      "C": "Both A and B",
+      "D": "Greek",
+      "answer": "C",
+      "funFact": "Latin was the language of the Roman Empire and influenced many modern languages, including English, Spanish, French, and Italian."
+    },
+    {
+      "question": "What was the Roman education system?",
+      "A": "For the wealthy",
+      "B": "Emphasized rhetoric and literature",
+      "C": "Both A and B",
+      "D": "For everyone",
+      "answer": "C",
+      "funFact": "Roman education was primarily for the wealthy and emphasized rhetoric, literature, and philosophy. Most common people received little formal education."
+    },
+    {
+      "question": "What was the Roman entertainment?",
+      "A": "Gladiator fights",
+      "B": "Chariot races",
+      "C": "Theater",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Roman entertainment included gladiator fights, chariot races, theater, and public games. The Colosseum and Circus Maximus were major venues."
+    },
+    {
+      "question": "What was the Roman architecture?",
+      "A": "Influential",
+      "B": "Used arches and domes",
+      "C": "Both A and B",
+      "D": "Primitive",
+      "answer": "C",
+      "funFact": "Roman architecture was highly influential and used arches, domes, and concrete. Many Roman buildings still stand today."
+    },
+    {
+      "question": "What was the fall of the Western Roman Empire?",
+      "A": "476 AD",
+      "B": "Caused by many factors",
+      "C": "Both A and B",
+      "D": "Never happened",
+      "answer": "C",
+      "funFact": "The Western Roman Empire fell in 476 AD, though the decline took centuries. Factors included invasions, economic problems, and political instability."
+    }
+]

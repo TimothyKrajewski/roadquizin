@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is a simple machine?",
+      "A": "A device that makes work easier",
+      "B": "A complex device",
+      "C": "An electronic device",
+      "D": "A computer",
+      "answer": "A",
+      "funFact": "A simple machine is a device that makes work easier by changing the direction or magnitude of a force. There are six types: lever, pulley, wheel and axle, inclined plane, wedge, and screw."
+    },
+    {
+      "question": "How many types of simple machines are there?",
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "answer": "C",
+      "funFact": "There are six types of simple machines: lever, pulley, wheel and axle, inclined plane, wedge, and screw. All complex machines are combinations of these."
+    },
+    {
+      "question": "What is a lever?",
+      "A": "A wheel with a rope",
+      "B": "A rigid bar that pivots on a fulcrum",
+      "C": "A slanted surface",
+      "D": "A sharp edge",
+      "answer": "B",
+      "funFact": "A lever is a rigid bar that pivots on a fulcrum (pivot point). Examples include seesaws, scissors, and crowbars. Levers help lift heavy objects with less force."
+    },
+    {
+      "question": "What is a pulley?",
+      "A": "A wheel with a rope",
+      "B": "A rigid bar",
+      "C": "A slanted surface",
+      "D": "A sharp edge",
+      "answer": "A",
+      "funFact": "A pulley is a wheel with a rope or chain that changes the direction of a force. Pulleys are used to lift heavy objects, like in flagpoles and cranes."
+    },
+    {
+      "question": "What is an inclined plane?",
+      "A": "A wheel",
+      "B": "A slanted surface",
+      "C": "A rigid bar",
+      "D": "A rope",
+      "answer": "B",
+      "funFact": "An inclined plane is a slanted surface that makes it easier to move objects up or down. Examples include ramps, stairs, and slides."
+    },
+    {
+      "question": "What is a wedge?",
+      "A": "A wheel",
+      "B": "A slanted surface",
+      "C": "Two inclined planes back-to-back",
+      "D": "A rope",
+      "answer": "C",
+      "funFact": "A wedge is two inclined planes back-to-back. Examples include knives, axes, and chisels. Wedges are used to split, cut, or hold objects."
+    },
+    {
+      "question": "What is a screw?",
+      "A": "An inclined plane wrapped around a cylinder",
+      "B": "A wheel",
+      "C": "A rope",
+      "D": "A bar",
+      "answer": "A",
+      "funFact": "A screw is an inclined plane wrapped around a cylinder. Screws are used to hold things together or lift things, like in jar lids and mechanical devices."
+    },
+    {
+      "question": "What is mechanical advantage?",
+      "A": "The disadvantage of using a machine",
+      "B": "How much a machine multiplies the force",
+      "C": "The speed of a machine",
+      "D": "The cost of a machine",
+      "answer": "B",
+      "funFact": "Mechanical advantage is how much a machine multiplies the force you put in. A machine with a mechanical advantage of 2 makes work twice as easy."
+    },
+    {
+      "question": "What is a complex machine?",
+      "A": "A simple machine",
+      "B": "A combination of simple machines",
+      "C": "A computer",
+      "D": "An electronic device",
+      "answer": "B",
+      "funFact": "A complex machine is a combination of two or more simple machines working together. Examples include bicycles, cars, and cranes."
+    },
+    {
+      "question": "Do machines make work easier?",
+      "A": "Yes, by reducing the force needed",
+      "B": "No, they make work harder",
+      "C": "They don't change anything",
+      "D": "Only sometimes",
+      "answer": "A",
+      "funFact": "Machines make work easier by reducing the force needed, changing the direction of force, or increasing speed. However, they don't reduce the total amount of work done."
+    }
+]
+

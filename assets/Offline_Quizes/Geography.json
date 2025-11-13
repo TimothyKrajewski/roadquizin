@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the capital of Australia?",
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Brisbane",
+      "answer": "C",
+      "funFact": "Canberra is the capital of Australia, a planned city built specifically to serve as the capital. Sydney and Melbourne are larger cities but Canberra was chosen as a compromise."
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "A": "Monaco",
+      "B": "Vatican City",
+      "C": "San Marino",
+      "D": "Liechtenstein",
+      "answer": "B",
+      "funFact": "Vatican City is the smallest country in the world, covering only 0.17 square miles (0.44 square kilometers) and located entirely within Rome, Italy."
+    },
+    {
+      "question": "What is the longest river in Africa?",
+      "A": "Congo River",
+      "B": "Nile River",
+      "C": "Niger River",
+      "D": "Zambezi River",
+      "answer": "B",
+      "funFact": "The Nile River is the longest river in Africa and the world, flowing approximately 4,135 miles (6,650 km) through 11 countries in northeastern Africa."
+    },
+    {
+      "question": "What is the highest mountain in Africa?",
+      "A": "Mount Kenya",
+      "B": "Mount Kilimanjaro",
+      "C": "Mount Elgon",
+      "D": "Mount Meru",
+      "answer": "B",
+      "funFact": "Mount Kilimanjaro in Tanzania is the highest mountain in Africa, standing at 19,341 feet (5,895 meters) above sea level. It's a dormant volcano and the highest free-standing mountain in the world."
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "A": "São Paulo",
+      "B": "Rio de Janeiro",
+      "C": "Brasília",
+      "D": "Salvador",
+      "answer": "C",
+      "funFact": "Brasília is the capital of Brazil, a planned city built in the 1960s. It's known for its modernist architecture and was designed to be the country's capital."
+    },
+    {
+      "question": "What is the name of the desert that covers much of northern Africa?",
+      "A": "Gobi Desert",
+      "B": "Kalahari Desert",
+      "C": "Sahara Desert",
+      "D": "Arabian Desert",
+      "answer": "C",
+      "funFact": "The Sahara Desert is the largest hot desert in the world, covering approximately 3.6 million square miles (9.4 million square kilometers) across northern Africa."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "A": "Osaka",
+      "B": "Kyoto",
+      "C": "Tokyo",
+      "D": "Yokohama",
+      "answer": "C",
+      "funFact": "Tokyo is the capital and largest city of Japan, with a metropolitan population of over 37 million people, making it one of the most populous cities in the world."
+    },
+    {
+      "question": "What is the name of the strait that separates Europe from Asia?",
+      "A": "Bosphorus",
+      "B": "Dardanelles",
+      "C": "Gibraltar",
+      "D": "English Channel",
+      "answer": "A",
+      "funFact": "The Bosphorus Strait separates Europe from Asia and connects the Black Sea to the Sea of Marmara. Istanbul, Turkey, straddles both sides of this strait."
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "A": "Madagascar",
+      "B": "Borneo",
+      "C": "New Guinea",
+      "D": "Greenland",
+      "answer": "D",
+      "funFact": "Greenland is the largest island in the world, covering approximately 836,330 square miles (2,166,086 square kilometers), though it's mostly covered in ice."
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "A": "Johannesburg",
+      "B": "Cape Town",
+      "C": "Pretoria",
+      "D": "South Africa has three capitals",
+      "answer": "D",
+      "funFact": "South Africa has three capital cities: Cape Town (legislative), Pretoria (executive), and Bloemfontein (judicial), a unique arrangement among countries."
+    }
+]
+

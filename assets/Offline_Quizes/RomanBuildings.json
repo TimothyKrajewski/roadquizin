@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the Colosseum?",
+      "A": "A gladiatorial arena",
+      "B": "Built in Rome",
+      "C": "Both A and B",
+      "D": "A temple",
+      "answer": "C",
+      "funFact": "The Colosseum in Rome was a massive gladiatorial arena built in 70-80 AD. It could hold up to 80,000 spectators and hosted gladiator fights and other events."
+    },
+    {
+      "question": "What was the Pantheon?",
+      "A": "A temple in Rome",
+      "B": "Has a famous dome",
+      "C": "Both A and B",
+      "D": "A theater",
+      "answer": "C",
+      "funFact": "The Pantheon in Rome is a temple with a famous dome. It was rebuilt by Hadrian and is one of the best-preserved Roman buildings."
+    },
+    {
+      "question": "What was the Roman Forum?",
+      "A": "The center of Roman public life",
+      "B": "A marketplace and meeting place",
+      "C": "Both A and B",
+      "D": "A temple",
+      "answer": "C",
+      "funFact": "The Roman Forum was the center of Roman public life, serving as a marketplace, meeting place, and site of important government buildings."
+    },
+    {
+      "question": "What was the Circus Maximus?",
+      "A": "A chariot racing track",
+      "B": "Could hold 250,000 people",
+      "C": "Both A and B",
+      "D": "A theater",
+      "answer": "C",
+      "funFact": "The Circus Maximus was a chariot racing track in Rome that could hold up to 250,000 people. It was the largest entertainment venue in the ancient world."
+    },
+    {
+      "question": "What was the Appian Way?",
+      "A": "A famous Roman road",
+      "B": "Connected Rome to southern Italy",
+      "C": "Both A and B",
+      "D": "A bridge",
+      "answer": "C",
+      "funFact": "The Appian Way was a famous Roman road that connected Rome to southern Italy. It was one of the earliest and most important Roman roads."
+    },
+    {
+      "question": "What was a Roman aqueduct?",
+      "A": "Brought water to cities",
+      "B": "Engineering marvel",
+      "C": "Both A and B",
+      "D": "A bridge",
+      "answer": "C",
+      "funFact": "Roman aqueducts brought fresh water to cities over long distances. They were engineering marvels that used gravity to transport water."
+    },
+    {
+      "question": "What was the Pont du Gard?",
+      "A": "A Roman aqueduct",
+      "B": "In France",
+      "C": "Both A and B",
+      "D": "A bridge",
+      "answer": "C",
+      "funFact": "The Pont du Gard is a Roman aqueduct in France. It's one of the best-preserved Roman aqueducts and is a UNESCO World Heritage Site."
+    },
+    {
+      "question": "What was a Roman bath?",
+      "A": "A public bathing complex",
+      "B": "Social center",
+      "C": "Both A and B",
+      "D": "A private home",
+      "answer": "C",
+      "funFact": "Roman baths were public bathing complexes that served as social centers. They included hot, warm, and cold pools, as well as exercise areas."
+    },
+    {
+      "question": "What was the Baths of Caracalla?",
+      "A": "A large Roman bath complex",
+      "B": "In Rome",
+      "C": "Both A and B",
+      "D": "A temple",
+      "answer": "C",
+      "funFact": "The Baths of Caracalla was a large Roman bath complex in Rome. It could accommodate 1,600 bathers and was one of the largest bath complexes."
+    },
+    {
+      "question": "What was a Roman temple?",
+      "A": "Religious building",
+      "B": "Dedicated to gods",
+      "C": "Both A and B",
+      "D": "A theater",
+      "answer": "C",
+      "funFact": "Roman temples were religious buildings dedicated to gods. They were based on Greek temple designs but had distinct Roman features."
+    },
+    {
+      "question": "What was the Temple of Jupiter?",
+      "A": "On the Capitoline Hill",
+      "B": "Most important temple",
+      "C": "Both A and B",
+      "D": "In the Forum",
+      "answer": "C",
+      "funFact": "The Temple of Jupiter Optimus Maximus was on the Capitoline Hill in Rome and was the most important temple. It was dedicated to Jupiter, Juno, and Minerva."
+    },
+    {
+      "question": "What was a Roman theater?",
+      "A": "For plays and performances",
+      "B": "Semicircular design",
+      "C": "Both A and B",
+      "D": "Round design",
+      "answer": "C",
+      "funFact": "Roman theaters were for plays and performances and had a semicircular design. They were based on Greek theaters but had distinct Roman features."
+    },
+    {
+      "question": "What was a Roman amphitheater?",
+      "A": "For gladiator fights",
+      "B": "Oval or circular",
+      "C": "Both A and B",
+      "D": "Semicircular",
+      "answer": "C",
+      "funFact": "Roman amphitheaters were for gladiator fights and had an oval or circular design. The Colosseum is the most famous example."
+    },
+    {
+      "question": "What was a Roman basilica?",
+      "A": "A public building",
+      "B": "Used for law and business",
+      "C": "Both A and B",
+      "D": "A temple",
+      "answer": "C",
+      "funFact": "A Roman basilica was a public building used for law courts and business. The design influenced later Christian churches."
+    },
+    {
+      "question": "What was a Roman villa?",
+      "A": "A country house",
+      "B": "For wealthy Romans",
+      "C": "Both A and B",
+      "D": "A city apartment",
+      "answer": "C",
+      "funFact": "A Roman villa was a country house for wealthy Romans. Villas were often large estates with farms, gardens, and luxurious accommodations."
+    },
+    {
+      "question": "What was a Roman insula?",
+      "A": "An apartment building",
+      "B": "For common people",
+      "C": "Both A and B",
+      "D": "A villa",
+      "answer": "C",
+      "funFact": "A Roman insula was an apartment building for common people in cities. They were often poorly built and prone to fires and collapses."
+    },
+    {
+      "question": "What was Roman concrete?",
+      "A": "Revolutionary building material",
+      "B": "Allowed large structures",
+      "C": "Both A and B",
+      "D": "Weak",
+      "answer": "C",
+      "funFact": "Roman concrete was a revolutionary building material that allowed the construction of large structures like the Pantheon's dome. It's still studied today."
+    },
+    {
+      "question": "What was a Roman arch?",
+      "A": "Architectural feature",
+      "B": "Allowed larger buildings",
+      "C": "Both A and B",
+      "D": "Decorative only",
+      "answer": "C",
+      "funFact": "The Roman arch was an architectural feature that allowed the construction of larger buildings. Arches distributed weight effectively and were used in many structures."
+    },
+    {
+      "question": "What was a Roman dome?",
+      "A": "Architectural feature",
+      "B": "Used in the Pantheon",
+      "C": "Both A and B",
+      "D": "Decorative only",
+      "answer": "C",
+      "funFact": "The Roman dome was an architectural feature used in buildings like the Pantheon. The Pantheon's dome is still the largest unreinforced concrete dome in the world."
+    },
+    {
+      "question": "What was the legacy of Roman buildings?",
+      "A": "Influenced architecture for centuries",
+      "B": "Many still stand today",
+      "C": "Both A and B",
+      "D": "Forgotten",
+      "answer": "C",
+      "funFact": "Roman buildings influenced architecture for centuries, and many still stand today. Roman architectural techniques are still used in modern construction."
+    }
+]
+

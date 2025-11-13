@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Which state has the longest name?",
+      "A": "Massachusetts",
+      "B": "North Carolina",
+      "C": "Rhode Island",
+      "D": "South Carolina",
+      "answer": "C",
+      "funFact": "Rhode Island has the longest official state name: 'State of Rhode Island and Providence Plantations,' though it's commonly just called 'Rhode Island.'"
+    },
+    {
+      "question": "Which state has the shortest name?",
+      "A": "Iowa",
+      "B": "Utah",
+      "C": "Ohio",
+      "D": "Maine",
+      "answer": "A",
+      "funFact": "Iowa, Utah, and Ohio all have 4 letters, making them the shortest state names. However, 'Iowa' is technically the shortest when considering pronunciation."
+    },
+    {
+      "question": "Which state has the most letters in its name?",
+      "A": "Massachusetts",
+      "B": "North Carolina",
+      "C": "South Carolina",
+      "D": "New Hampshire",
+      "answer": "A",
+      "funFact": "Massachusetts has the most letters in its name (13 letters), followed by North Carolina and South Carolina (both 12 letters)."
+    },
+    {
+      "question": "Which state has the fewest letters in its name?",
+      "A": "Iowa",
+      "B": "Utah",
+      "C": "Ohio",
+      "D": "All have 4 letters",
+      "answer": "D",
+      "funFact": "Iowa, Utah, and Ohio all have 4 letters, making them the shortest state names. 'Iowa' is the shortest when considering pronunciation."
+    },
+    {
+      "question": "Which state is the only one that borders only one other state?",
+      "A": "Maine",
+      "B": "New Hampshire",
+      "C": "Rhode Island",
+      "D": "Vermont",
+      "answer": "A",
+      "funFact": "Maine is the only state that borders only one other state (New Hampshire). It also borders Canada and the Atlantic Ocean."
+    },
+    {
+      "question": "Which state borders the most other states?",
+      "A": "Missouri",
+      "B": "Tennessee",
+      "C": "Kentucky",
+      "D": "Colorado",
+      "answer": "B",
+      "funFact": "Tennessee and Missouri both border 8 states, the most of any state. Tennessee borders: Kentucky, Virginia, North Carolina, Georgia, Alabama, Mississippi, Arkansas, and Missouri."
+    },
+    {
+      "question": "Which state has the most time zones?",
+      "A": "Alaska",
+      "B": "Hawaii",
+      "C": "Arizona",
+      "D": "Indiana",
+      "answer": "A",
+      "funFact": "Alaska spans two time zones: Alaska Time and Hawaii-Aleutian Time. However, most of Alaska uses Alaska Time, and the Aleutian Islands use Hawaii-Aleutian Time."
+    },
+    {
+      "question": "Which state has no sales tax?",
+      "A": "Alaska",
+      "B": "Delaware",
+      "C": "Montana",
+      "D": "New Hampshire",
+      "answer": "D",
+      "funFact": "New Hampshire has no sales tax, making it one of only five states without a general sales tax. The others are Alaska, Delaware, Montana, and Oregon."
+    },
+    {
+      "question": "Which state has the highest sales tax?",
+      "A": "California",
+      "B": "Tennessee",
+      "C": "Louisiana",
+      "D": "Arkansas",
+      "answer": "B",
+      "funFact": "Tennessee has one of the highest combined state and local sales tax rates in the United States, at over 9% in some areas."
+    },
+    {
+      "question": "Which state has the lowest population density?",
+      "A": "Alaska",
+      "B": "Wyoming",
+      "C": "Montana",
+      "D": "North Dakota",
+      "answer": "A",
+      "funFact": "Alaska has the lowest population density, with only about 1.3 people per square mile. Wyoming is second with about 6 people per square mile."
+    },
+    {
+      "question": "Which state has the highest population density?",
+      "A": "New Jersey",
+      "B": "Rhode Island",
+      "C": "Massachusetts",
+      "D": "Connecticut",
+      "answer": "A",
+      "funFact": "New Jersey has the highest population density, with over 1,200 people per square mile. Rhode Island is second with about 1,000 people per square mile."
+    },
+    {
+      "question": "Which state has the most millionaires per capita?",
+      "A": "Maryland",
+      "B": "Connecticut",
+      "C": "New Jersey",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "Maryland has the most millionaires per capita, with about 7.5% of households having a net worth of over $1 million. This is due to high incomes in the Washington, D.C. area."
+    },
+    {
+      "question": "Which state has the most billionaires?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "California has the most billionaires, with over 180 billionaires. Many are in the technology industry in Silicon Valley."
+    },
+    {
+      "question": "Which state has the most Fortune 500 companies?",
+      "A": "California",
+      "B": "Texas",
+      "C": "New York",
+      "D": "Illinois",
+      "answer": "B",
+      "funFact": "Texas has the most Fortune 500 companies, with over 50 companies. This includes major corporations like ExxonMobil, AT&T, and Dell."
+    },
+    {
+      "question": "Which state has the most national historic landmarks?",
+      "A": "New York",
+      "B": "Massachusetts",
+      "C": "Pennsylvania",
+      "D": "Virginia",
+      "answer": "A",
+      "funFact": "New York has the most national historic landmarks, with over 270 landmarks. Many are in New York City, including the Statue of Liberty and Ellis Island."
+    },
+    {
+      "question": "Which state has the most lighthouses?",
+      "A": "Maine",
+      "B": "Michigan",
+      "C": "Massachusetts",
+      "D": "California",
+      "answer": "B",
+      "funFact": "Michigan has the most lighthouses, with over 120 lighthouses. This is due to its extensive coastline on the Great Lakes."
+    },
+    {
+      "question": "Which state has the most ghost towns?",
+      "A": "Nevada",
+      "B": "California",
+      "C": "Arizona",
+      "D": "Montana",
+      "answer": "A",
+      "funFact": "Nevada has the most ghost towns, with over 600 ghost towns. Many were abandoned after the silver and gold mines closed."
+    },
+    {
+      "question": "Which state has the most caves?",
+      "A": "Kentucky",
+      "B": "Tennessee",
+      "C": "Missouri",
+      "D": "Virginia",
+      "answer": "A",
+      "funFact": "Kentucky has the most caves, with over 5,000 known caves. Mammoth Cave in Kentucky is the world's longest cave system."
+    },
+    {
+      "question": "Which state has the most waterfalls?",
+      "A": "Oregon",
+      "B": "Washington",
+      "C": "California",
+      "D": "Alaska",
+      "answer": "A",
+      "funFact": "Oregon has the most waterfalls, with over 200 named waterfalls. Multnomah Falls is one of the most famous, at 620 feet tall."
+    },
+    {
+      "question": "Which state has the most volcanoes?",
+      "A": "Alaska",
+      "B": "Hawaii",
+      "C": "California",
+      "D": "Washington",
+      "answer": "A",
+      "funFact": "Alaska has the most volcanoes, with over 130 volcanoes, more than any other state. Many are still active, including Mount Redoubt and Mount Spurr."
+    },
+    {
+      "question": "Which state has the most earthquakes?",
+      "A": "California",
+      "B": "Alaska",
+      "C": "Nevada",
+      "D": "Hawaii",
+      "answer": "B",
+      "funFact": "Alaska has the most earthquakes, with thousands of earthquakes each year. Most are small, but Alaska experiences the largest earthquakes in the United States."
+    },
+    {
+      "question": "Which state has the most tornadoes?",
+      "A": "Oklahoma",
+      "B": "Texas",
+      "C": "Kansas",
+      "D": "Nebraska",
+      "answer": "B",
+      "funFact": "Texas has the most tornadoes per year, averaging about 155 tornadoes annually. However, Oklahoma has more tornadoes per square mile, making it part of 'Tornado Alley.'"
+    },
+    {
+      "question": "Which state has the most hurricanes?",
+      "A": "Florida",
+      "B": "Texas",
+      "C": "Louisiana",
+      "D": "North Carolina",
+      "answer": "A",
+      "funFact": "Florida has the most hurricanes, with over 120 hurricanes making landfall since 1851. The state's location makes it vulnerable to hurricanes from both the Atlantic and Gulf of Mexico."
+    },
+    {
+      "question": "Which state has the most snow?",
+      "A": "Alaska",
+      "B": "Vermont",
+      "C": "Maine",
+      "D": "New Hampshire",
+      "answer": "A",
+      "funFact": "Alaska receives the most snow, with some areas receiving over 100 inches of snow per year. However, some mountain areas in other states receive more."
+    },
+    {
+      "question": "Which state has the most rain?",
+      "A": "Hawaii",
+      "B": "Louisiana",
+      "C": "Mississippi",
+      "D": "Alabama",
+      "answer": "A",
+      "funFact": "Hawaii receives the most rain, with Mount Waialeale on Kauai receiving over 400 inches of rain per year, making it one of the wettest places on Earth."
+    }
+]
+

@@ -1,0 +1,227 @@
+[
+    {
+      "question": "What year did World War I begin?",
+      "A": "1912",
+      "B": "1914",
+      "C": "1916",
+      "D": "1918",
+      "answer": "B",
+      "funFact": "World War I began in 1914 after the assassination of Archduke Franz Ferdinand of Austria-Hungary. The war lasted until 1918."
+    },
+    {
+      "question": "What event triggered the start of World War I?",
+      "A": "The sinking of the Lusitania",
+      "B": "The assassination of Archduke Franz Ferdinand",
+      "C": "The invasion of Belgium",
+      "D": "The Russian Revolution",
+      "answer": "B",
+      "funFact": "The assassination of Archduke Franz Ferdinand of Austria-Hungary by Gavrilo Princip in Sarajevo on June 28, 1914, triggered a chain of events that led to World War I."
+    },
+    {
+      "question": "Which countries made up the Central Powers?",
+      "A": "Germany, Austria-Hungary, Ottoman Empire, Bulgaria",
+      "B": "Germany, Italy, Japan, Turkey",
+      "C": "Austria-Hungary, Russia, France, Britain",
+      "D": "Germany, Austria-Hungary, Italy, Spain",
+      "answer": "A",
+      "funFact": "The Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. They fought against the Allied Powers."
+    },
+    {
+      "question": "Which countries made up the Allied Powers?",
+      "A": "France, Britain, Russia, United States",
+      "B": "Germany, Austria-Hungary, Ottoman Empire",
+      "C": "Italy, Japan, Spain, Portugal",
+      "D": "France, Britain, Germany, Russia",
+      "answer": "A",
+      "funFact": "The Allied Powers (also called the Entente Powers) included France, Britain, Russia, and later the United States, among others."
+    },
+    {
+      "question": "What year did the United States enter World War I?",
+      "A": "1915",
+      "B": "1916",
+      "C": "1917",
+      "D": "1918",
+      "answer": "C",
+      "funFact": "The United States entered World War I in 1917, after years of maintaining neutrality. The sinking of American ships by German U-boats was a major factor."
+    },
+    {
+      "question": "What was the name of the treaty that ended World War I?",
+      "A": "Treaty of Versailles",
+      "B": "Treaty of Paris",
+      "C": "Treaty of Berlin",
+      "D": "Treaty of London",
+      "answer": "A",
+      "funFact": "The Treaty of Versailles, signed in 1919, officially ended World War I. It imposed harsh penalties on Germany and is often cited as a cause of World War II."
+    },
+    {
+      "question": "What was trench warfare?",
+      "A": "Fighting in open fields",
+      "B": "Fighting from dug-out trenches",
+      "C": "Naval warfare",
+      "D": "Air warfare",
+      "answer": "B",
+      "funFact": "Trench warfare was a type of combat where opposing armies fought from trenches dug into the ground. It was characterized by stalemate, disease, and horrific conditions."
+    },
+    {
+      "question": "What was the name of the German plan to quickly defeat France?",
+      "A": "Operation Barbarossa",
+      "B": "Schlieffen Plan",
+      "C": "Operation Overlord",
+      "D": "Manstein Plan",
+      "answer": "B",
+      "funFact": "The Schlieffen Plan was Germany's strategy to quickly defeat France by going through Belgium, then turning to fight Russia. It failed, leading to a long war."
+    },
+    {
+      "question": "What was the name of the British passenger ship sunk by a German U-boat?",
+      "A": "Titanic",
+      "B": "Lusitania",
+      "C": "Britannic",
+      "D": "Olympic",
+      "answer": "B",
+      "funFact": "The RMS Lusitania was sunk by a German U-boat in 1915, killing 1,198 people including 128 Americans. This event helped turn American public opinion against Germany."
+    },
+    {
+      "question": "What was the name of the battle that was the longest of World War I?",
+      "A": "Battle of the Somme",
+      "B": "Battle of Verdun",
+      "C": "Battle of Ypres",
+      "D": "Battle of Marne",
+      "answer": "B",
+      "funFact": "The Battle of Verdun lasted from February to December 1916 and was the longest battle of World War I. It resulted in over 700,000 casualties."
+    },
+    {
+      "question": "What was the name of the battle that saw the first use of tanks?",
+      "A": "Battle of the Somme",
+      "B": "Battle of Verdun",
+      "C": "Battle of Ypres",
+      "D": "Battle of Marne",
+      "answer": "A",
+      "funFact": "The Battle of the Somme in 1916 saw the first use of tanks in warfare. The battle lasted from July to November and resulted in over 1 million casualties."
+    },
+    {
+      "question": "What was the name of the Russian Revolution that occurred during World War I?",
+      "A": "February Revolution",
+      "B": "October Revolution",
+      "C": "Both A and B",
+      "D": "November Revolution",
+      "answer": "C",
+      "funFact": "Russia had two revolutions in 1917: the February Revolution that overthrew the Tsar, and the October Revolution that brought the Bolsheviks to power."
+    },
+    {
+      "question": "What was the name of the peace treaty between Russia and Germany?",
+      "A": "Treaty of Brest-Litovsk",
+      "B": "Treaty of Versailles",
+      "C": "Treaty of Paris",
+      "D": "Treaty of Berlin",
+      "answer": "A",
+      "funFact": "The Treaty of Brest-Litovsk, signed in 1918, ended Russia's participation in World War I. It gave Germany significant territory and resources."
+    },
+    {
+      "question": "What was the name of the German offensive in 1918?",
+      "A": "Spring Offensive",
+      "B": "Summer Offensive",
+      "C": "Fall Offensive",
+      "D": "Winter Offensive",
+      "answer": "A",
+      "funFact": "The Spring Offensive of 1918 was Germany's last major attempt to win the war before American troops arrived in large numbers. It initially succeeded but ultimately failed."
+    },
+    {
+      "question": "What was the name of the armistice that ended World War I?",
+      "A": "Armistice of Compiègne",
+      "B": "Armistice of Versailles",
+      "C": "Armistice of Paris",
+      "D": "Armistice of Berlin",
+      "answer": "A",
+      "funFact": "The Armistice of Compiègne was signed on November 11, 1918, ending World War I. This date is now commemorated as Armistice Day or Veterans Day."
+    },
+    {
+      "question": "What was the name of the organization created after World War I to maintain peace?",
+      "A": "United Nations",
+      "B": "League of Nations",
+      "C": "European Union",
+      "D": "NATO",
+      "answer": "B",
+      "funFact": "The League of Nations was created in 1920 as part of the Treaty of Versailles to maintain world peace. It was the predecessor to the United Nations."
+    },
+    {
+      "question": "What was the name of the German emperor during World War I?",
+      "A": "Kaiser Wilhelm I",
+      "B": "Kaiser Wilhelm II",
+      "C": "Kaiser Friedrich III",
+      "D": "Kaiser Franz Joseph",
+      "answer": "B",
+      "funFact": "Kaiser Wilhelm II was the German emperor during World War I. He abdicated in 1918 and went into exile in the Netherlands."
+    },
+    {
+      "question": "What was the name of the British prime minister during most of World War I?",
+      "A": "Winston Churchill",
+      "B": "David Lloyd George",
+      "C": "Herbert Asquith",
+      "D": "Neville Chamberlain",
+      "answer": "B",
+      "funFact": "David Lloyd George was the British prime minister from 1916 to 1922. He led Britain through the latter part of World War I and the peace negotiations."
+    },
+    {
+      "question": "What was the name of the French prime minister during World War I?",
+      "A": "Georges Clemenceau",
+      "B": "Raymond Poincaré",
+      "C": "Paul Painlevé",
+      "D": "Aristide Briand",
+      "answer": "A",
+      "funFact": "Georges Clemenceau was the French prime minister during World War I. Known as 'The Tiger,' he was a strong leader who pushed for harsh terms against Germany."
+    },
+    {
+      "question": "What was the name of the American president during World War I?",
+      "A": "Theodore Roosevelt",
+      "B": "William Howard Taft",
+      "C": "Woodrow Wilson",
+      "D": "Warren G. Harding",
+      "answer": "C",
+      "funFact": "Woodrow Wilson was the American president during World War I. He proposed the Fourteen Points for peace and helped create the League of Nations."
+    },
+    {
+      "question": "What was the name of the battle that stopped the German advance in 1914?",
+      "A": "First Battle of the Marne",
+      "B": "Battle of the Somme",
+      "C": "Battle of Verdun",
+      "D": "Battle of Ypres",
+      "answer": "A",
+      "funFact": "The First Battle of the Marne in September 1914 stopped the German advance toward Paris and ended hopes of a quick German victory."
+    },
+    {
+      "question": "What was the name of the chemical weapon first used in World War I?",
+      "A": "Mustard gas",
+      "B": "Chlorine gas",
+      "C": "Phosgene",
+      "D": "Tear gas",
+      "answer": "B",
+      "funFact": "Chlorine gas was first used by the Germans at the Second Battle of Ypres in 1915. It was one of the first chemical weapons used in modern warfare."
+    },
+    {
+      "question": "What was the name of the German U-boat campaign?",
+      "A": "Unrestricted submarine warfare",
+      "B": "Blockade warfare",
+      "C": "Naval warfare",
+      "D": "Surface warfare",
+      "answer": "A",
+      "funFact": "Unrestricted submarine warfare was Germany's policy of sinking any ship, including neutral ones, without warning. This helped bring the United States into the war."
+    },
+    {
+      "question": "What was the name of the Russian leader who took power in 1917?",
+      "A": "Vladimir Lenin",
+      "B": "Joseph Stalin",
+      "C": "Leon Trotsky",
+      "D": "Nikolai Bukharin",
+      "answer": "A",
+      "funFact": "Vladimir Lenin led the Bolshevik Revolution in October 1917 and became the leader of the Soviet Union. He signed the Treaty of Brest-Litovsk to exit the war."
+    },
+    {
+      "question": "What was the total number of casualties in World War I?",
+      "A": "About 10 million",
+      "B": "About 20 million",
+      "C": "About 30 million",
+      "D": "About 40 million",
+      "answer": "D",
+      "funFact": "World War I resulted in approximately 40 million casualties, including about 20 million deaths (military and civilian) and 20 million wounded."
+    }
+]

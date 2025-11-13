@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What type of ship did pirates prefer?",
+      "A": "Large warships",
+      "B": "Fast, maneuverable ships",
+      "C": "Merchant ships",
+      "D": "Fishing boats",
+      "answer": "B",
+      "funFact": "Pirates preferred fast, maneuverable ships like sloops and schooners. These ships could outrun larger vessels and were ideal for quick attacks and escapes."
+    },
+    {
+      "question": "What was a sloop?",
+      "A": "A type of pirate ship",
+      "B": "A small, fast sailing vessel",
+      "C": "Both A and B",
+      "D": "A large warship",
+      "answer": "C",
+      "funFact": "A sloop was a small, fast sailing vessel with a single mast. It was the most popular type of ship among pirates because of its speed and maneuverability."
+    },
+    {
+      "question": "What was a schooner?",
+      "A": "A type of pirate ship",
+      "B": "A fast sailing vessel with two masts",
+      "C": "Both A and B",
+      "D": "A large warship",
+      "answer": "C",
+      "funFact": "A schooner was a fast sailing vessel with two or more masts. It was popular with pirates because it was fast, maneuverable, and could sail well in various wind conditions."
+    },
+    {
+      "question": "What was Blackbeard's ship called?",
+      "A": "Queen Anne's Revenge",
+      "B": "Adventure",
+      "C": "Both A and B",
+      "D": "Black Pearl",
+      "answer": "C",
+      "funFact": "Blackbeard's most famous ship was the Queen Anne's Revenge, but he also used a smaller ship called the Adventure. The Queen Anne's Revenge was a former French slave ship."
+    },
+    {
+      "question": "What was Captain Kidd's ship called?",
+      "A": "Adventure Galley",
+      "B": "Adventure Prize",
+      "C": "Both A and B",
+      "D": "Whydah",
+      "answer": "C",
+      "funFact": "Captain Kidd's ships were called the Adventure Galley and later the Adventure Prize. The Adventure Galley was a 287-ton galley-frigate hybrid."
+    },
+    {
+      "question": "What was Black Sam Bellamy's ship called?",
+      "A": "Whydah",
+      "B": "Marianne",
+      "C": "Both A and B",
+      "D": "Queen Anne's Revenge",
+      "answer": "C",
+      "funFact": "Black Sam Bellamy's flagship was the Whydah, a former slave ship. He also used the Marianne. The Whydah sank off Cape Cod in 1717 and was discovered in 1984."
+    },
+    {
+      "question": "What was a brigantine?",
+      "A": "A type of pirate ship",
+      "B": "A two-masted sailing vessel",
+      "C": "Both A and B",
+      "D": "A large warship",
+      "answer": "C",
+      "funFact": "A brigantine was a two-masted sailing vessel that was popular with pirates. It combined the speed of a schooner with the firepower of a larger ship."
+    },
+    {
+      "question": "What was a frigate?",
+      "A": "A type of warship",
+      "B": "A fast, medium-sized warship",
+      "C": "Both A and B",
+      "D": "A pirate ship",
+      "answer": "C",
+      "funFact": "A frigate was a fast, medium-sized warship. Pirates sometimes captured frigates, but they preferred smaller, faster ships for their operations."
+    },
+    {
+      "question": "What was a galleon?",
+      "A": "A large Spanish ship",
+      "B": "A treasure ship",
+      "C": "Both A and B",
+      "D": "A pirate ship",
+      "answer": "C",
+      "funFact": "A galleon was a large Spanish ship used for trade and treasure transport. Pirates often targeted galleons because they carried valuable cargo from the Americas."
+    },
+    {
+      "question": "What was a man-of-war?",
+      "A": "A large warship",
+      "B": "A heavily armed naval vessel",
+      "C": "Both A and B",
+      "D": "A pirate ship",
+      "answer": "C",
+      "funFact": "A man-of-war was a large, heavily armed warship used by navies. Pirates tried to avoid these ships because they were too powerful and well-armed."
+    },
+    {
+      "question": "How many cannons did a typical pirate ship have?",
+      "A": "1-5",
+      "B": "10-20",
+      "C": "20-40",
+      "D": "40-60",
+      "answer": "B",
+      "funFact": "A typical pirate ship had 10-20 cannons, though this varied. Larger ships could have more, but pirates preferred speed over heavy armament."
+    },
+    {
+      "question": "What was a ship's crew size?",
+      "A": "10-20",
+      "B": "20-50",
+      "C": "50-100",
+      "D": "100-200",
+      "answer": "B",
+      "funFact": "A typical pirate ship had a crew of 20-50 men, though larger ships could have more. The crew size depended on the ship's size and the mission."
+    },
+    {
+      "question": "What was a ship's speed?",
+      "A": "5-10 knots",
+      "B": "10-15 knots",
+      "C": "15-20 knots",
+      "D": "20-25 knots",
+      "answer": "B",
+      "funFact": "A typical pirate ship could sail at 10-15 knots (about 11-17 mph) in good conditions. Speed was crucial for catching prey and escaping naval vessels."
+    },
+    {
+      "question": "What was a ship's main weapon?",
+      "A": "Cannons",
+      "B": "Boarding",
+      "C": "Both A and B",
+      "D": "Swords",
+      "answer": "C",
+      "funFact": "Pirates used cannons to disable ships, but their main tactic was boarding. They would fire cannons to weaken the enemy, then board and fight hand-to-hand."
+    },
+    {
+      "question": "What was a ship's flag used for?",
+      "A": "Identification",
+      "B": "Intimidation",
+      "C": "Both A and B",
+      "D": "Navigation",
+      "answer": "C",
+      "funFact": "A ship's flag (Jolly Roger) was used for both identification and intimidation. Pirates would fly false flags to get close to targets, then raise the Jolly Roger."
+    },
+    {
+      "question": "What was a ship's treasure storage?",
+      "A": "A special treasure room",
+      "B": "Distributed throughout the ship",
+      "C": "Both A and B",
+      "D": "Buried on islands",
+      "answer": "B",
+      "funFact": "Treasure was typically distributed throughout the ship rather than stored in one place. The romantic image of a treasure room is largely fictional."
+    },
+    {
+      "question": "What was a ship's navigation method?",
+      "A": "Compass",
+      "B": "Stars",
+      "C": "Maps",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Pirates used compasses, stars, and maps for navigation. They often had skilled navigators who could read the stars and use navigational instruments."
+    },
+    {
+      "question": "What was a ship's food storage?",
+      "A": "Limited",
+      "B": "Had to be replenished frequently",
+      "C": "Both A and B",
+      "D": "Unlimited",
+      "answer": "C",
+      "funFact": "Ship's food storage was limited and had to be replenished frequently. Pirates often raided ships and ports for food, water, and supplies."
+    },
+    {
+      "question": "What was a ship's maintenance?",
+      "A": "Constant",
+      "B": "Required regular care",
+      "C": "Both A and B",
+      "D": "Minimal",
+      "answer": "C",
+      "funFact": "Ship maintenance was constant and required regular care. Ships needed repairs, cleaning, and care to stay seaworthy, especially in tropical waters."
+    },
+    {
+      "question": "What was a ship's biggest threat?",
+      "A": "Naval vessels",
+      "B": "Storms",
+      "C": "Disease",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Pirate ships faced threats from naval vessels, storms, and disease. Storms could sink ships, and disease could decimate crews faster than combat."
+    }
+]
+

@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest bird in the world?",
+      "A": "Emu",
+      "B": "Ostrich",
+      "C": "Cassowary",
+      "D": "Albatross",
+      "answer": "B",
+      "funFact": "The ostrich is the largest bird in the world, standing up to 9 feet tall and weighing up to 320 pounds. It's also the fastest two-legged animal."
+    },
+    {
+      "question": "What is the smallest bird in the world?",
+      "A": "Hummingbird",
+      "B": "Sparrow",
+      "C": "Finch",
+      "D": "Wren",
+      "answer": "A",
+      "funFact": "The bee hummingbird is the smallest bird in the world, measuring only about 2 inches long and weighing less than 0.1 ounces."
+    },
+    {
+      "question": "What bird is known for its ability to mimic human speech?",
+      "A": "Crow",
+      "B": "Parrot",
+      "C": "Raven",
+      "D": "Magpie",
+      "answer": "B",
+      "funFact": "Parrots are known for their ability to mimic human speech and other sounds. African grey parrots are particularly talented at learning words and phrases."
+    },
+    {
+      "question": "What bird is the national symbol of the United States?",
+      "A": "Eagle",
+      "B": "Hawk",
+      "C": "Falcon",
+      "D": "Owl",
+      "answer": "A",
+      "funFact": "The bald eagle is the national bird and symbol of the United States. It was chosen in 1782 for its strength, courage, and freedom."
+    },
+    {
+      "question": "What bird is known for its colorful tail feathers?",
+      "A": "Peacock",
+      "B": "Parrot",
+      "C": "Toucan",
+      "D": "Flamingo",
+      "answer": "A",
+      "funFact": "The peacock (male peafowl) is known for its stunning colorful tail feathers, which it displays in an elaborate courtship ritual."
+    },
+    {
+      "question": "What bird cannot fly?",
+      "A": "Penguin",
+      "B": "Ostrich",
+      "C": "Emu",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Penguins, ostriches, and emus are all flightless birds. There are about 60 species of flightless birds, including kiwis, cassowaries, and rheas."
+    },
+    {
+      "question": "What bird is known for building the largest nests?",
+      "A": "Eagle",
+      "B": "Ostrich",
+      "C": "Sociable weaver",
+      "D": "Albatross",
+      "answer": "C",
+      "funFact": "The sociable weaver builds the largest nests, creating massive structures that can house hundreds of birds and last for generations."
+    },
+    {
+      "question": "What bird is known for its long migration?",
+      "A": "Arctic tern",
+      "B": "Albatross",
+      "C": "Swallow",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Arctic tern has the longest migration, flying from the Arctic to Antarctica and back each year, covering about 44,000 miles. Albatrosses and swallows also migrate long distances."
+    },
+    {
+      "question": "What bird is known for its hooting sound?",
+      "A": "Crow",
+      "B": "Owl",
+      "C": "Hawk",
+      "D": "Eagle",
+      "answer": "B",
+      "funFact": "Owls are known for their hooting sounds, which they use for communication and territorial defense. Different owl species have different calls."
+    },
+    {
+      "question": "What bird is known for its pink color?",
+      "A": "Flamingo",
+      "B": "Roseate spoonbill",
+      "C": "Both A and B",
+      "D": "Toucan",
+      "answer": "C",
+      "funFact": "Flamingos and roseate spoonbills are both known for their pink coloration, which comes from the carotenoid pigments in the food they eat."
+    }
+]
+

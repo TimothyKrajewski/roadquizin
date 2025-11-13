@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is light?",
+      "A": "A form of energy",
+      "B": "A type of matter",
+      "C": "A force",
+      "D": "A sound",
+      "answer": "A",
+      "funFact": "Light is a form of energy that travels in waves. It's part of the electromagnetic spectrum and can be seen by our eyes."
+    },
+    {
+      "question": "How fast does light travel?",
+      "A": "About 300,000 km/s",
+      "B": "About 150,000 km/s",
+      "C": "About 450,000 km/s",
+      "D": "It doesn't travel",
+      "answer": "A",
+      "funFact": "Light travels at approximately 299,792,458 meters per second (about 300,000 km/s) in a vacuum. This is the fastest speed possible in the universe."
+    },
+    {
+      "question": "What is the speed of light?",
+      "A": "300,000 km/s",
+      "B": "150,000 km/s",
+      "C": "450,000 km/s",
+      "D": "600,000 km/s",
+      "answer": "A",
+      "funFact": "The speed of light in a vacuum is approximately 299,792,458 meters per second (about 300,000 km/s), and it's the fastest speed possible in the universe according to Einstein's theory of relativity."
+    },
+    {
+      "question": "What is white light made of?",
+      "A": "All colors",
+      "B": "Only white",
+      "C": "Only black",
+      "D": "No colors",
+      "answer": "A",
+      "funFact": "White light is made of all the colors of the rainbow. When white light passes through a prism, it separates into the colors: red, orange, yellow, green, blue, indigo, and violet."
+    },
+    {
+      "question": "What is a rainbow?",
+      "A": "Light separated into colors",
+      "B": "A type of cloud",
+      "C": "Water in the sky",
+      "D": "A type of storm",
+      "answer": "A",
+      "funFact": "A rainbow is white light separated into its colors by water droplets in the air. Each color bends at a slightly different angle, creating the rainbow effect."
+    },
+    {
+      "question": "What is reflection?",
+      "A": "Light bending",
+      "B": "Light bouncing off a surface",
+      "C": "Light being absorbed",
+      "D": "Light disappearing",
+      "answer": "B",
+      "funFact": "Reflection is when light bounces off a surface. This is why we can see ourselves in mirrors - the light reflects off the mirror and back to our eyes."
+    },
+    {
+      "question": "What is refraction?",
+      "A": "Light bouncing off a surface",
+      "B": "Light bending when passing through different mediums",
+      "C": "Light being absorbed",
+      "D": "Light disappearing",
+      "answer": "B",
+      "funFact": "Refraction is the bending of light when it passes from one medium to another (like from air to water), which is why objects appear bent when viewed through water."
+    },
+    {
+      "question": "What is a shadow?",
+      "A": "An absence of light",
+      "B": "A type of light",
+      "C": "A color",
+      "D": "A reflection",
+      "answer": "A",
+      "funFact": "A shadow is an area where light is blocked by an object. Shadows form when an object blocks light from reaching a surface."
+    },
+    {
+      "question": "What is the main source of light on Earth?",
+      "A": "The Moon",
+      "B": "The Sun",
+      "C": "Stars",
+      "D": "Electric lights",
+      "answer": "B",
+      "funFact": "The Sun is the main source of light on Earth. It provides the light and heat that make life possible on our planet."
+    },
+    {
+      "question": "Can light travel through a vacuum?",
+      "A": "No, it needs air",
+      "B": "Yes, light can travel through empty space",
+      "C": "Only sometimes",
+      "D": "Only during the day",
+      "answer": "B",
+      "funFact": "Yes, light can travel through a vacuum (empty space). This is how sunlight reaches Earth from the Sun, which is 93 million miles away across the vacuum of space."
+    }
+]
+

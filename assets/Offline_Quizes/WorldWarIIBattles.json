@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the Battle of Britain?",
+      "A": "Air battle over England",
+      "B": "1940, British victory",
+      "C": "Both A and B",
+      "D": "Naval battle",
+      "answer": "C",
+      "funFact": "The Battle of Britain (1940) was an air battle over England. The British Royal Air Force defeated the German Luftwaffe, preventing invasion."
+    },
+    {
+      "question": "What was the Battle of Stalingrad?",
+      "A": "Turning point on Eastern Front",
+      "B": "1942-1943, Soviet victory",
+      "C": "Both A and B",
+      "D": "German victory",
+      "answer": "C",
+      "funFact": "The Battle of Stalingrad (1942-1943) was the turning point on the Eastern Front. It was one of the bloodiest battles in history and marked the beginning of Germany's defeat."
+    },
+    {
+      "question": "What was the Battle of Midway?",
+      "A": "Turning point in Pacific",
+      "B": "1942, US victory",
+      "C": "Both A and B",
+      "D": "Japanese victory",
+      "answer": "C",
+      "funFact": "The Battle of Midway (June 1942) was the turning point in the Pacific War. The U.S. Navy destroyed four Japanese aircraft carriers."
+    },
+    {
+      "question": "What was D-Day?",
+      "A": "Allied invasion of Normandy",
+      "B": "June 6, 1944",
+      "C": "Both A and B",
+      "D": "Invasion of Italy",
+      "answer": "C",
+      "funFact": "D-Day (June 6, 1944) was the Allied invasion of Normandy, France. It was the largest seaborne invasion in history and opened a second front in Europe."
+    },
+    {
+      "question": "What was the Battle of the Bulge?",
+      "A": "Germany's last major offensive",
+      "B": "December 1944",
+      "C": "Both A and B",
+      "D": "Allied offensive",
+      "answer": "C",
+      "funFact": "The Battle of the Bulge (December 1944) was Germany's last major offensive in the West. It initially succeeded but was eventually defeated."
+    },
+    {
+      "question": "What was the Battle of Kursk?",
+      "A": "Largest tank battle",
+      "B": "1943, Soviet victory",
+      "C": "Both A and B",
+      "D": "German victory",
+      "answer": "C",
+      "funFact": "The Battle of Kursk (July 1943) was the largest tank battle in history, involving over 6,000 tanks. It was a decisive Soviet victory."
+    },
+    {
+      "question": "What was the Battle of Guadalcanal?",
+      "A": "First major US offensive",
+      "B": "1942-1943, Pacific",
+      "C": "Both A and B",
+      "D": "In Europe",
+      "answer": "C",
+      "funFact": "The Battle of Guadalcanal (1942-1943) was the first major US offensive in the Pacific. It was a long and difficult campaign."
+    },
+    {
+      "question": "What was the Battle of Iwo Jima?",
+      "A": "Famous flag raising",
+      "B": "1945, very costly",
+      "C": "Both A and B",
+      "D": "Easy victory",
+      "answer": "C",
+      "funFact": "The Battle of Iwo Jima (1945) featured the famous flag raising on Mount Suribachi. It was a very costly battle for both sides."
+    },
+    {
+      "question": "What was the Battle of Okinawa?",
+      "A": "Last major battle",
+      "B": "1945, very costly",
+      "C": "Both A and B",
+      "D": "First battle",
+      "answer": "C",
+      "funFact": "The Battle of Okinawa (1945) was the last major battle before the planned invasion of Japan. It was extremely costly, with heavy casualties on both sides."
+    },
+    {
+      "question": "What was Operation Barbarossa?",
+      "A": "Germany's invasion of Soviet Union",
+      "B": "June 1941",
+      "C": "Both A and B",
+      "D": "Soviet invasion",
+      "answer": "C",
+      "funFact": "Operation Barbarossa was Germany's invasion of the Soviet Union in June 1941. It was the largest military operation in history."
+    },
+    {
+      "question": "What was the Siege of Leningrad?",
+      "A": "Longest siege",
+      "B": "1941-1944, over 800 days",
+      "C": "Both A and B",
+      "D": "Short siege",
+      "answer": "C",
+      "funFact": "The Siege of Leningrad (1941-1944) was the longest siege in history, lasting over 800 days. Hundreds of thousands died from starvation and bombardment."
+    },
+    {
+      "question": "What was the Battle of El Alamein?",
+      "A": "Turning point in North Africa",
+      "B": "1942, British victory",
+      "C": "Both A and B",
+      "D": "German victory",
+      "answer": "C",
+      "funFact": "The Battle of El Alamein (1942) was the turning point in North Africa. The British victory ended German hopes of conquering Egypt."
+    },
+    {
+      "question": "What was the Battle of the Atlantic?",
+      "A": "Longest battle",
+      "B": "1939-1945, U-boat warfare",
+      "C": "Both A and B",
+      "D": "Short battle",
+      "answer": "C",
+      "funFact": "The Battle of the Atlantic (1939-1945) was the longest battle of the war. German U-boats tried to cut off Britain's supply lines."
+    },
+    {
+      "question": "What was the Battle of Berlin?",
+      "A": "Final battle in Europe",
+      "B": "1945, Soviet victory",
+      "C": "Both A and B",
+      "D": "German victory",
+      "answer": "C",
+      "funFact": "The Battle of Berlin (1945) was the final battle in Europe. Soviet forces captured the city, leading to Hitler's suicide and Germany's surrender."
+    },
+    {
+      "question": "What was the attack on Pearl Harbor?",
+      "A": "Brought US into war",
+      "B": "December 7, 1941",
+      "C": "Both A and B",
+      "D": "Ended war",
+      "answer": "C",
+      "funFact": "The attack on Pearl Harbor (December 7, 1941) was a surprise Japanese attack that brought the United States into World War II."
+    },
+    {
+      "question": "What was the Battle of the Coral Sea?",
+      "A": "First carrier battle",
+      "B": "1942, indecisive",
+      "C": "Both A and B",
+      "D": "Clear victory",
+      "answer": "C",
+      "funFact": "The Battle of the Coral Sea (May 1942) was the first carrier battle in history. It was indecisive but prevented a Japanese invasion of Australia."
+    },
+    {
+      "question": "What was the Battle of Leyte Gulf?",
+      "A": "Largest naval battle",
+      "B": "1944, US victory",
+      "C": "Both A and B",
+      "D": "Japanese victory",
+      "answer": "C",
+      "funFact": "The Battle of Leyte Gulf (October 1944) was the largest naval battle in history. The US victory effectively ended Japanese naval power."
+    },
+    {
+      "question": "What was the impact of battles?",
+      "A": "Millions of casualties",
+      "B": "Changed the world",
+      "C": "Both A and B",
+      "D": "Minor impact",
+      "answer": "C",
+      "funFact": "World War II battles resulted in millions of casualties and changed the world forever, ending with the use of atomic weapons."
+    },
+    {
+      "question": "What was the legacy of battles?",
+      "A": "Memorials and remembrance",
+      "B": "Lessons learned",
+      "C": "Both A and B",
+      "D": "Forgotten",
+      "answer": "C",
+      "funFact": "The legacy of World War II battles includes memorials, remembrance ceremonies, and lessons learned about the cost of war."
+    },
+    {
+      "question": "What was the importance of battles?",
+      "A": "Determined outcome of war",
+      "B": "Shaped history",
+      "C": "Both A and B",
+      "D": "Unimportant",
+      "answer": "C",
+      "funFact": "These battles determined the outcome of World War II and shaped the course of history for decades to come."
+    }
+]
+

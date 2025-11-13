@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the name for a rotating column of air that extends from a thunderstorm to the ground?",
+      "A": "Hurricane",
+      "B": "Tornado",
+      "C": "Cyclone",
+      "D": "Typhoon",
+      "answer": "B",
+      "funFact": "A tornado is a rapidly rotating column of air that extends from a thunderstorm to the ground. The most intense tornadoes can have wind speeds over 300 mph."
+    },
+    {
+      "question": "What is the temperature at which water freezes?",
+      "A": "0°C or 32°F",
+      "B": "10°C or 50°F",
+      "C": "-10°C or 14°F",
+      "D": "5°C or 41°F",
+      "answer": "A",
+      "funFact": "Water freezes at 0°C (32°F) at sea level. This is the standard reference point for the Celsius and Fahrenheit temperature scales."
+    },
+    {
+      "question": "What is the name for a large, rotating storm system with low pressure at its center?",
+      "A": "Tornado",
+      "B": "Hurricane",
+      "C": "Thunderstorm",
+      "D": "Blizzard",
+      "answer": "B",
+      "funFact": "A hurricane (also called a typhoon or cyclone depending on location) is a large rotating storm system with low pressure at its center, forming over warm ocean waters."
+    },
+    {
+      "question": "What is the most common gas in Earth's atmosphere?",
+      "A": "Oxygen",
+      "B": "Carbon dioxide",
+      "C": "Nitrogen",
+      "D": "Argon",
+      "answer": "C",
+      "funFact": "Nitrogen makes up about 78% of Earth's atmosphere, while oxygen makes up about 21%. The remaining 1% includes argon, carbon dioxide, and other gases."
+    },
+    {
+      "question": "What is the name for water falling from the sky in any form?",
+      "A": "Precipitation",
+      "B": "Condensation",
+      "C": "Evaporation",
+      "D": "Transpiration",
+      "answer": "A",
+      "funFact": "Precipitation is any form of water that falls from the sky, including rain, snow, sleet, and hail. It's a key part of the water cycle."
+    },
+    {
+      "question": "What scale is used to measure tornado intensity?",
+      "A": "Richter Scale",
+      "B": "Fujita Scale",
+      "C": "Beaufort Scale",
+      "D": "Saffir-Simpson Scale",
+      "answer": "B",
+      "funFact": "The Enhanced Fujita Scale (EF Scale) measures tornado intensity from EF0 (weakest) to EF5 (most intense), based on damage caused by wind speeds."
+    },
+    {
+      "question": "What is the name for a period of unusually dry weather?",
+      "A": "Flood",
+      "B": "Drought",
+      "C": "Famine",
+      "D": "Heat wave",
+      "answer": "B",
+      "funFact": "A drought is a period of unusually dry weather that lasts long enough to cause water shortages and damage to crops, ecosystems, and water supplies."
+    },
+    {
+      "question": "What is the boundary between two air masses of different temperatures called?",
+      "A": "Front",
+      "B": "System",
+      "C": "Pressure",
+      "D": "Current",
+      "answer": "A",
+      "funFact": "A front is the boundary between two air masses of different temperatures and densities. Cold fronts, warm fronts, and stationary fronts all affect weather patterns."
+    },
+    {
+      "question": "What is the name for frozen raindrops?",
+      "A": "Snow",
+      "B": "Sleet",
+      "C": "Hail",
+      "D": "Freezing rain",
+      "answer": "C",
+      "funFact": "Hail is frozen raindrops that form in strong thunderstorms when updrafts carry raindrops high into the atmosphere where they freeze and grow larger."
+    },
+    {
+      "question": "What instrument measures atmospheric pressure?",
+      "A": "Thermometer",
+      "B": "Barometer",
+      "C": "Hygrometer",
+      "D": "Anemometer",
+      "answer": "B",
+      "funFact": "A barometer measures atmospheric pressure. High pressure typically brings fair weather, while low pressure often brings clouds and precipitation."
+    }
+]
+

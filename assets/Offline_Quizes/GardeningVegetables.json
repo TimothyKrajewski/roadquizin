@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What are vegetables?",
+      "A": "Edible plants",
+      "B": "Grown for food",
+      "C": "Both A and B",
+      "D": "Only decorative",
+      "answer": "C",
+      "funFact": "Vegetables are edible plants grown for food. Growing your own vegetables is rewarding and provides fresh produce."
+    },
+    {
+      "question": "What are easy vegetables to grow?",
+      "A": "Lettuce, radishes, tomatoes",
+      "B": "Good for beginners",
+      "C": "Both A and B",
+      "D": "All difficult",
+      "answer": "C",
+      "funFact": "Easy vegetables for beginners include lettuce, radishes, and tomatoes. They're forgiving and grow quickly."
+    },
+    {
+      "question": "What is a tomato?",
+      "A": "Popular vegetable",
+      "B": "Actually a fruit",
+      "C": "Both A and B",
+      "D": "Not grown",
+      "answer": "C",
+      "funFact": "Tomatoes are popular vegetables (though technically fruits). They're one of the most commonly grown garden vegetables."
+    },
+    {
+      "question": "What are root vegetables?",
+      "A": "Grow underground",
+      "B": "Carrots, potatoes, beets",
+      "C": "Both A and B",
+      "D": "Grow above ground",
+      "answer": "C",
+      "funFact": "Root vegetables grow underground and include carrots, potatoes, and beets. They store well and are nutritious."
+    },
+    {
+      "question": "What are leafy greens?",
+      "A": "Lettuce, spinach, kale",
+      "B": "Nutritious and easy",
+      "C": "Both A and B",
+      "D": "Difficult",
+      "answer": "C",
+      "funFact": "Leafy greens like lettuce, spinach, and kale are nutritious and relatively easy to grow. They grow quickly."
+    },
+    {
+      "question": "What is crop rotation?",
+      "A": "Changing what you plant",
+      "B": "Prevents disease and pests",
+      "C": "Both A and B",
+      "D": "Not needed",
+      "answer": "C",
+      "funFact": "Crop rotation is changing what you plant in each area each year. It prevents disease and pest buildup."
+    },
+    {
+      "question": "What is companion planting?",
+      "A": "Planting compatible plants together",
+      "B": "Helps each other",
+      "C": "Both A and B",
+      "D": "Not helpful",
+      "answer": "C",
+      "funFact": "Companion planting is planting compatible plants together. Some plants help each other by repelling pests or providing nutrients."
+    },
+    {
+      "question": "What is the growing season?",
+      "A": "Time to plant",
+      "B": "Varies by vegetable",
+      "C": "Both A and B",
+      "D": "Same for all",
+      "answer": "C",
+      "funFact": "The growing season varies by vegetable. Some like cool weather (lettuce), others need warmth (tomatoes)."
+    },
+    {
+      "question": "What is spacing?",
+      "A": "Distance between plants",
+      "B": "Important for growth",
+      "C": "Both A and B",
+      "D": "Doesn't matter",
+      "answer": "C",
+      "funFact": "Spacing is the distance between plants and is important for healthy growth. Follow seed packet instructions."
+    },
+    {
+      "question": "What is watering vegetables?",
+      "A": "Consistent watering",
+      "B": "Not too much or little",
+      "C": "Both A and B",
+      "D": "Water once",
+      "answer": "C",
+      "funFact": "Vegetables need consistent watering - not too much or too little. Most need about 1 inch of water per week."
+    },
+    {
+      "question": "What is harvesting?",
+      "A": "Picking vegetables",
+      "B": "When ripe",
+      "C": "Both A and B",
+      "D": "Never pick",
+      "answer": "C",
+      "funFact": "Harvesting is picking vegetables when they're ripe. Regular harvesting encourages more production."
+    },
+    {
+      "question": "What are heirloom vegetables?",
+      "A": "Old varieties",
+      "B": "Open-pollinated",
+      "C": "Both A and B",
+      "D": "New only",
+      "answer": "C",
+      "funFact": "Heirloom vegetables are old varieties that are open-pollinated. They often have better flavor than modern hybrids."
+    },
+    {
+      "question": "What are hybrid vegetables?",
+      "A": "Cross-bred varieties",
+      "B": "Often more productive",
+      "C": "Both A and B",
+      "D": "Less productive",
+      "answer": "C",
+      "funFact": "Hybrid vegetables are cross-bred varieties, often more productive and disease-resistant than heirlooms."
+    },
+    {
+      "question": "What is organic gardening?",
+      "A": "No synthetic chemicals",
+      "B": "Natural methods",
+      "C": "Both A and B",
+      "D": "Uses chemicals",
+      "answer": "C",
+      "funFact": "Organic gardening uses no synthetic chemicals and relies on natural methods like compost and companion planting."
+    },
+    {
+      "question": "What is container gardening?",
+      "A": "Growing in pots",
+      "B": "Good for small spaces",
+      "C": "Both A and B",
+      "D": "Only ground",
+      "answer": "C",
+      "funFact": "Container gardening is growing vegetables in pots. It's great for small spaces, patios, or apartments."
+    },
+    {
+      "question": "What is vertical gardening?",
+      "A": "Growing upward",
+      "B": "Saves space",
+      "C": "Both A and B",
+      "D": "Only horizontal",
+      "answer": "C",
+      "funFact": "Vertical gardening is growing vegetables upward on trellises. It saves space and works well for vining plants like beans."
+    },
+    {
+      "question": "What is succession planting?",
+      "A": "Planting in stages",
+      "B": "Continuous harvest",
+      "C": "Both A and B",
+      "D": "Plant once",
+      "answer": "C",
+      "funFact": "Succession planting is planting in stages so you have a continuous harvest throughout the season."
+    },
+    {
+      "question": "What is the benefit of growing vegetables?",
+      "A": "Fresh, healthy food",
+      "B": "Saves money",
+      "C": "Both A and B",
+      "D": "No benefit",
+      "answer": "C",
+      "funFact": "Growing vegetables provides fresh, healthy food and can save money. It's also very satisfying."
+    },
+    {
+      "question": "What is the challenge?",
+      "A": "Pests and weather",
+      "B": "Learning curve",
+      "C": "Both A and B",
+      "D": "No challenges",
+      "answer": "C",
+      "funFact": "Challenges include pests, weather, and a learning curve. But with practice, vegetable gardening becomes easier."
+    },
+    {
+      "question": "What is the reward?",
+      "A": "Fresh produce",
+      "B": "Satisfaction",
+      "C": "Both A and B",
+      "D": "No reward",
+      "answer": "C",
+      "funFact": "The reward is fresh produce and the satisfaction of growing your own food. There's nothing like homegrown vegetables."
+    }
+]
+

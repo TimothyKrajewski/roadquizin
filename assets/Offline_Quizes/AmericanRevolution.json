@@ -1,0 +1,190 @@
+[
+    {
+      "question": "Which event is considered the starting point of the American Revolution?",
+      "A": "The Boston Tea Party",
+      "B": "The Battle of Lexington and Concord",
+      "C": "The Signing of the Declaration of Independence",
+      "D": "The Boston Massacre",
+      "answer": "B",
+      "funFact": "The Battle of Lexington and Concord, fought on April 19, 1775, is considered the starting point of the American Revolution."
+    },
+    {
+      "question": "Who was the principal author of the Declaration of Independence?",
+      "A": "John Adams",
+      "B": "Benjamin Franklin",
+      "C": "Thomas Jefferson",
+      "D": "George Washington",
+      "answer": "C",
+      "funFact": "Thomas Jefferson was the principal author of the Declaration of Independence, which was adopted on July 4, 1776."
+    },
+    {
+      "question": "Which treaty ended the American Revolution?",
+      "A": "Treaty of Paris 1763",
+      "B": "Treaty of Versailles",
+      "C": "Treaty of Ghent",
+      "D": "Treaty of Paris 1783",
+      "answer": "D",
+      "funFact": "The Treaty of Paris, signed in 1783, ended the American Revolution and recognized American independence from Britain."
+    },
+    {
+      "question": "Who was the commander-in-chief of the Continental Army?",
+      "A": "John Hancock",
+      "B": "Thomas Jefferson",
+      "C": "George Washington",
+      "D": "Benedict Arnold",
+      "answer": "C",
+      "funFact": "George Washington served as the commander-in-chief of the Continental Army throughout the American Revolution."
+    },
+    {
+      "question": "Which event involved the dumping of British tea into Boston Harbor as a protest against the Tea Act?",
+      "A": "The Boston Massacre",
+      "B": "The Boston Tea Party",
+      "C": "The Intolerable Acts",
+      "D": "The First Continental Congress",
+      "answer": "B",
+      "funFact": "The Boston Tea Party took place on December 16, 1773, when American colonists dumped 342 chests of British tea into Boston Harbor to protest the Tea Act."
+    },
+    {
+      "question": "Which battle is considered the turning point of the American Revolution due to the American victory and subsequent French alliance?",
+      "A": "The Battle of Bunker Hill",
+      "B": "The Battle of Yorktown",
+      "C": "The Battle of Saratoga",
+      "D": "The Battle of Trenton",
+      "answer": "C",
+      "funFact": "The American victory at the Battle of Saratoga in 1777 is considered the turning point of the American Revolution, leading to a formal alliance with France."
+    },
+    {
+      "question": "Who was the King of Great Britain during the American Revolution?",
+      "A": "King George I",
+      "B": "King George II",
+      "C": "King George III",
+      "D": "King George IV",
+      "answer": "C",
+      "funFact": "King George III was the King of Great Britain during the American Revolution, ruling from 1760 to 1820."
+    },
+    {
+      "question": "Which pamphlet, written by Thomas Paine, advocated for American independence and was widely influential?",
+      "A": "The Rights of Man",
+      "B": "Common Sense",
+      "C": "The Federalist Papers",
+      "D": "The Age of Reason",
+      "answer": "B",
+      "funFact": "Thomas Paine's pamphlet 'Common Sense,' published in January 1776, argued for American independence and was widely influential in swaying public opinion."
+    },
+    {
+      "question": "Which famous midnight rider warned the colonists of the approaching British forces before the battles of Lexington and Concord?",
+      "A": "Paul Revere",
+      "B": "Samuel Adams",
+      "C": "John Adams",
+      "D": "Patrick Henry",
+      "answer": "A",
+      "funFact": "Paul Revere's famous midnight ride on April 18, 1775, warned the colonists of the approaching British forces, allowing them to prepare for the battles of Lexington and Concord."
+    },
+    {
+      "question": "Which American general famously betrayed the Continental Army and defected to the British side?",
+      "A": "Horatio Gates",
+      "B": "Nathanael Greene",
+      "C": "Benedict Arnold",
+      "D": "Charles Lee",
+      "answer": "C",
+      "funFact": "Benedict Arnold, once a respected general in the Continental Army, famously betrayed the American cause and defected to the British side in 1780."
+    },
+    {
+      "question": "Where did George Washington's army spend the harsh winter of 1777-1778, emerging stronger despite the difficult conditions?",
+      "A": "Valley Forge",
+      "B": "Saratoga",
+      "C": "Yorktown",
+      "D": "Trenton",
+      "answer": "A",
+      "funFact": "George Washington's army endured a harsh winter at Valley Forge in 1777-1778, emerging stronger and more unified despite the difficult conditions."
+    },
+    {
+      "question": "What was the purpose of the First Continental Congress, held in 1774?",
+      "A": "To draft the Declaration of Independence",
+      "B": "To organize a colonial militia",
+      "C": "To petition King George III for redress of grievances",
+      "D": "To form a new national government",
+      "answer": "C",
+      "funFact": "The First Continental Congress met in 1774 to petition King George III for redress of grievances and to coordinate a response to the Intolerable Acts."
+    },
+    {
+      "question": "Which French nobleman played a crucial role in the American Revolution, providing military leadership and securing French support?",
+      "A": "Marquis de Lafayette",
+      "B": "Charles de Gaulle",
+      "C": "Napoleon Bonaparte",
+      "D": "Jean-Baptiste Rochambeau",
+      "answer": "A",
+      "funFact": "The Marquis de Lafayette was a French nobleman who provided crucial military leadership and helped secure French support for the American Revolution."
+    },
+    {
+      "question": "Which battle effectively ended the American Revolution, leading to the surrender of British General Cornwallis?",
+      "A": "The Battle of Bunker Hill",
+      "B": "The Battle of Saratoga",
+      "C": "The Battle of Trenton",
+      "D": "The Battle of Yorktown",
+      "answer": "D",
+      "funFact": "The Battle of Yorktown in 1781 effectively ended the American Revolution, with British General Cornwallis surrendering to the combined American and French forces."
+    },
+    {
+      "question": "Which legislative act imposed by Britain on the American colonies required them to provide housing and supplies for British troops?",
+      "A": "The Stamp Act",
+      "B": "The Tea Act",
+      "C": "The Quartering Act",
+      "D": "The Intolerable Acts",
+      "answer": "C",
+      "funFact": "The Quartering Act, passed in 1765, required American colonies to provide housing and supplies for British troops stationed in the colonies."
+    },
+    {
+      "question": "What was the main purpose of the Sons of Liberty, a group formed in the American colonies?",
+      "A": "To draft the Declaration of Independence",
+      "B": "To organize colonial resistance to British policies",
+      "C": "To negotiate peace with Britain",
+      "D": "To establish a new national government",
+      "answer": "B",
+      "funFact": "The Sons of Liberty were formed to organize colonial resistance to British policies, using methods such as protests and boycotts."
+    },
+    {
+      "question": "Who famously declared, 'Give me liberty, or give me death!' in a speech urging armed resistance to British rule?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "Patrick Henry",
+      "D": "Samuel Adams",
+      "answer": "C",
+      "funFact": "Patrick Henry made his famous declaration, 'Give me liberty, or give me death!' in a speech to the Virginia Convention in 1775, urging armed resistance to British rule."
+    },
+    {
+      "question": "Which pamphlet, written by Thomas Paine, argued for American independence and was widely read throughout the colonies?",
+      "A": "The Rights of Man",
+      "B": "Common Sense",
+      "C": "The Crisis",
+      "D": "The Federalist Papers",
+      "answer": "B",
+      "funFact": "Thomas Paine's pamphlet 'Common Sense,' published in January 1776, argued for American independence and was widely read throughout the colonies, influencing public opinion."
+    },
+    {
+      "question": "What was the name of the document that declared the American colonies' independence from Britain?",
+      "A": "The Constitution",
+      "B": "The Declaration of Independence",
+      "C": "The Articles of Confederation",
+      "D": "The Bill of Rights",
+      "answer": "B",
+      "funFact": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776, declaring the 13 American colonies independent from British rule."
+    },
+    {
+      "question": "Which battle was fought on Breed's Hill but is commonly known by another name?",
+      "A": "The Battle of Bunker Hill",
+      "B": "The Battle of Lexington",
+      "C": "The Battle of Concord",
+      "D": "The Battle of Trenton",
+      "answer": "A",
+      "funFact": "The Battle of Bunker Hill was actually fought primarily on Breed's Hill on June 17, 1775. Despite the name, it was one of the first major battles of the Revolution."
+    },
+    {
+      "question": "What was the name of the winter encampment where Washington's army trained with Baron von Steuben?",
+      "A": "Saratoga",
+      "B": "Valley Forge",
+      "C": "Yorktown",
+      "D": "Trenton",
+      "answer": "B",
+      "funFact": "At Valley Forge, Baron von Steuben, a Prussian military officer, trained the Continental Army in European military tactics, significantly improving their effectiveness."
+    }]

@@ -1,0 +1,192 @@
+[
+    {
+      "question": "What is the chemical symbol for water?",
+      "A": "H2O",
+      "B": "CO2",
+      "C": "NaCl",
+      "D": "O2",
+      "answer": "A",
+      "funFact": "H2O is the chemical formula for water, consisting of two hydrogen atoms bonded to one oxygen atom."
+    },
+    {
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "A": "Oxygen",
+      "B": "Carbon dioxide",
+      "C": "Nitrogen",
+      "D": "Argon",
+      "answer": "C",
+      "funFact": "Nitrogen makes up about 78% of Earth's atmosphere, while oxygen makes up about 21%."
+    },
+    {
+      "question": "What is the pH of pure water?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "answer": "C",
+      "funFact": "Pure water has a pH of 7, which is considered neutral on the pH scale (ranging from 0 to 14)."
+    },
+    {
+      "question": "What is the smallest particle of an element that retains its properties?",
+      "A": "Molecule",
+      "B": "Atom",
+      "C": "Proton",
+      "D": "Electron",
+      "answer": "B",
+      "funFact": "An atom is the smallest particle of an element that retains the chemical properties of that element."
+    },
+    {
+      "question": "What process occurs when a solid changes directly to a gas?",
+      "A": "Melting",
+      "B": "Sublimation",
+      "C": "Evaporation",
+      "D": "Condensation",
+      "answer": "B",
+      "funFact": "Sublimation is the process where a solid changes directly to a gas without passing through the liquid phase, like dry ice (solid CO2) turning into gas."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "A": "Go",
+      "B": "Gd",
+      "C": "Au",
+      "D": "Ag",
+      "answer": "C",
+      "funFact": "Au is the chemical symbol for gold, derived from the Latin word 'aurum' meaning gold. Ag is silver (from 'argentum')."
+    },
+    {
+      "question": "What type of bond forms when atoms share electrons?",
+      "A": "Ionic bond",
+      "B": "Covalent bond",
+      "C": "Metallic bond",
+      "D": "Hydrogen bond",
+      "answer": "B",
+      "funFact": "A covalent bond forms when atoms share electrons, typically between non-metal atoms, like in water (H2O) or methane (CH4)."
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "answer": "C",
+      "funFact": "Carbon has an atomic number of 6, meaning it has 6 protons in its nucleus. Carbon is the basis of all organic life."
+    },
+    {
+      "question": "What is the most reactive group of elements in the periodic table?",
+      "A": "Noble gases",
+      "B": "Alkali metals",
+      "C": "Halogens",
+      "D": "Transition metals",
+      "answer": "B",
+      "funFact": "Alkali metals (Group 1) are the most reactive metals because they have only one electron in their outer shell, which they readily lose."
+    },
+    {
+      "question": "What is the process called when a substance combines with oxygen?",
+      "A": "Reduction",
+      "B": "Oxidation",
+      "C": "Neutralization",
+      "D": "Combustion",
+      "answer": "B",
+      "funFact": "Oxidation is the process where a substance combines with oxygen or loses electrons. Rusting of iron is a common example of oxidation."
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "A": "So",
+      "B": "Na",
+      "C": "Sd",
+      "D": "Nm",
+      "answer": "B",
+      "funFact": "Na is the chemical symbol for sodium, derived from the Latin word 'natrium.' Sodium is a highly reactive metal that must be stored in oil."
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "A": "Ir",
+      "B": "Fe",
+      "C": "In",
+      "D": "Io",
+      "answer": "B",
+      "funFact": "Fe is the chemical symbol for iron, derived from the Latin word 'ferrum.' Iron is the most common element on Earth by mass."
+    },
+    {
+      "question": "What is the most abundant element in the universe?",
+      "A": "Oxygen",
+      "B": "Helium",
+      "C": "Hydrogen",
+      "D": "Carbon",
+      "answer": "C",
+      "funFact": "Hydrogen is the most abundant element in the universe, making up about 75% of all matter. It's the simplest element, with just one proton and one electron."
+    },
+    {
+      "question": "What is the process called when a liquid changes to a gas?",
+      "A": "Condensation",
+      "B": "Evaporation",
+      "C": "Freezing",
+      "D": "Melting",
+      "answer": "B",
+      "funFact": "Evaporation is the process where a liquid changes to a gas at temperatures below its boiling point. Boiling is when this happens at the boiling point."
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "A": "Si",
+      "B": "Sv",
+      "C": "Ag",
+      "D": "Sr",
+      "answer": "C",
+      "funFact": "Ag is the chemical symbol for silver, derived from the Latin word 'argentum' meaning silver. Silver is an excellent conductor of electricity."
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "A": "Le",
+      "B": "Ld",
+      "C": "Pb",
+      "D": "Pl",
+      "answer": "C",
+      "funFact": "Pb is the chemical symbol for lead, derived from the Latin word 'plumbum.' This is also why plumbers are called plumbers - they used to work with lead pipes."
+    },
+    {
+      "question": "What is the atomic number of hydrogen?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3",
+      "answer": "B",
+      "funFact": "Hydrogen has an atomic number of 1, meaning it has 1 proton in its nucleus. It's the simplest and lightest element."
+    },
+    {
+      "question": "What is a molecule?",
+      "A": "A single atom",
+      "B": "Two or more atoms bonded together",
+      "C": "A type of element",
+      "D": "A type of compound",
+      "answer": "B",
+      "funFact": "A molecule is two or more atoms bonded together. For example, a water molecule (H2O) consists of two hydrogen atoms and one oxygen atom."
+    },
+    {
+      "question": "What is the chemical symbol for carbon?",
+      "A": "Ca",
+      "B": "Cb",
+      "C": "C",
+      "D": "Co",
+      "answer": "C",
+      "funFact": "C is the chemical symbol for carbon. Carbon is unique because it can form long chains and complex molecules, making it the basis of all organic life."
+    },
+    {
+      "question": "What is the pH scale used to measure?",
+      "A": "Temperature",
+      "B": "Acidity or alkalinity",
+      "C": "Pressure",
+      "D": "Volume",
+      "answer": "B",
+      "funFact": "The pH scale measures the acidity or alkalinity of a solution, ranging from 0 (very acidic) to 14 (very alkaline), with 7 being neutral."
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "A": "Ox",
+      "B": "Og",
+      "C": "O",
+      "D": "Om",
+      "answer": "C",
+      "funFact": "O is the chemical symbol for oxygen. Oxygen is essential for life and makes up about 21% of Earth's atmosphere and about 65% of the human body by mass."
+    }
+]
+

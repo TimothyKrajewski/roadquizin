@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the main ingredient in hummus?",
+      "A": "Lentils",
+      "B": "Chickpeas",
+      "C": "Black beans",
+      "D": "Peas",
+      "answer": "B",
+      "funFact": "Hummus is made primarily from chickpeas (garbanzo beans), tahini (sesame paste), olive oil, lemon juice, and garlic. It originated in the Middle East."
+    },
+    {
+      "question": "What type of cuisine is sushi?",
+      "A": "Chinese",
+      "B": "Japanese",
+      "C": "Korean",
+      "D": "Thai",
+      "answer": "B",
+      "funFact": "Sushi is a traditional Japanese cuisine featuring vinegared rice combined with various ingredients, most commonly raw fish, vegetables, and seaweed."
+    },
+    {
+      "question": "What is the primary ingredient in guacamole?",
+      "A": "Tomatoes",
+      "B": "Avocado",
+      "C": "Onions",
+      "D": "Peppers",
+      "answer": "B",
+      "funFact": "Guacamole is a Mexican dip made primarily from mashed avocados, along with lime juice, salt, and often tomatoes, onions, and cilantro."
+    },
+    {
+      "question": "What is the main ingredient in pesto?",
+      "A": "Basil",
+      "B": "Parsley",
+      "C": "Cilantro",
+      "D": "Spinach",
+      "answer": "A",
+      "funFact": "Pesto is an Italian sauce traditionally made from fresh basil, pine nuts, garlic, Parmesan cheese, and olive oil, originating from Genoa."
+    },
+    {
+      "question": "What is the process of cooking food in hot oil called?",
+      "A": "Boiling",
+      "B": "Steaming",
+      "C": "Frying",
+      "D": "Baking",
+      "answer": "C",
+      "funFact": "Frying is the cooking method where food is cooked in hot oil or fat. There are different types: shallow frying, deep frying, and stir-frying."
+    },
+    {
+      "question": "What is the main ingredient in chocolate?",
+      "A": "Cocoa beans",
+      "B": "Coffee beans",
+      "C": "Vanilla beans",
+      "D": "Sugar",
+      "answer": "A",
+      "funFact": "Chocolate is made from cocoa beans (also called cacao beans), which are fermented, dried, roasted, and ground to produce chocolate."
+    },
+    {
+      "question": "What is the traditional Italian dish consisting of pasta, eggs, and bacon?",
+      "A": "Spaghetti Carbonara",
+      "B": "Fettuccine Alfredo",
+      "C": "Penne Arrabbiata",
+      "D": "Lasagna",
+      "answer": "A",
+      "funFact": "Spaghetti Carbonara is a traditional Italian pasta dish made with eggs, cheese (Pecorino Romano or Parmesan), pancetta or guanciale (Italian bacon), and black pepper."
+    },
+    {
+      "question": "What is the name of the French cooking technique meaning 'to jump' or 'to toss'?",
+      "A": "Sauté",
+      "B": "Flambé",
+      "C": "Braise",
+      "D": "Poach",
+      "answer": "A",
+      "funFact": "Sauté (from the French 'sauter' meaning 'to jump') is a cooking method where food is cooked quickly in a small amount of fat over relatively high heat."
+    },
+    {
+      "question": "What is the main ingredient in paella?",
+      "A": "Pasta",
+      "B": "Rice",
+      "C": "Quinoa",
+      "D": "Couscous",
+      "answer": "B",
+      "funFact": "Paella is a traditional Spanish dish made with rice, saffron, and various ingredients like seafood, chicken, or vegetables, cooked in a wide shallow pan."
+    },
+    {
+      "question": "What is the process of preserving food by removing water called?",
+      "A": "Freezing",
+      "B": "Canning",
+      "C": "Dehydrating",
+      "D": "Pickling",
+      "answer": "C",
+      "funFact": "Dehydration (or drying) is a food preservation method that removes water from food, inhibiting the growth of microorganisms. Examples include dried fruits, jerky, and herbs."
+    }
+]
+

@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "A": "Lyon",
+      "B": "Marseille",
+      "C": "Paris",
+      "D": "Nice",
+      "answer": "C",
+      "funFact": "Paris is the capital and largest city of France, known as the 'City of Light' and home to landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "A": "Osaka",
+      "B": "Kyoto",
+      "C": "Tokyo",
+      "D": "Yokohama",
+      "answer": "C",
+      "funFact": "Tokyo is the capital and largest city of Japan, with a metropolitan population of over 37 million people, making it one of the most populous cities in the world."
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "A": "Saint Petersburg",
+      "B": "Moscow",
+      "C": "Novosibirsk",
+      "D": "Kazan",
+      "answer": "B",
+      "funFact": "Moscow is the capital and largest city of Russia, home to the Kremlin, Red Square, and over 12 million people. It's the political and economic center of Russia."
+    },
+    {
+      "question": "What is the capital of India?",
+      "A": "Mumbai",
+      "B": "Delhi",
+      "C": "Bangalore",
+      "D": "Kolkata",
+      "answer": "B",
+      "funFact": "New Delhi is the capital of India, part of the larger Delhi metropolitan area. It's the seat of the Indian government and home to many historical monuments."
+    },
+    {
+      "question": "What is the capital of the United Kingdom?",
+      "A": "Manchester",
+      "B": "Birmingham",
+      "C": "London",
+      "D": "Edinburgh",
+      "answer": "C",
+      "funFact": "London is the capital and largest city of the United Kingdom, a global financial center and home to landmarks like Big Ben, the Tower of London, and Buckingham Palace."
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "A": "Munich",
+      "B": "Berlin",
+      "C": "Hamburg",
+      "D": "Frankfurt",
+      "answer": "B",
+      "funFact": "Berlin is the capital and largest city of Germany, known for its history, culture, and landmarks like the Brandenburg Gate and Berlin Wall remnants."
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "A": "Milan",
+      "B": "Naples",
+      "C": "Rome",
+      "D": "Venice",
+      "answer": "C",
+      "funFact": "Rome is the capital of Italy, known as the 'Eternal City' and home to ancient landmarks like the Colosseum, Roman Forum, and Vatican City."
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "A": "Barcelona",
+      "B": "Valencia",
+      "C": "Seville",
+      "D": "Madrid",
+      "answer": "D",
+      "funFact": "Madrid is the capital and largest city of Spain, located in the center of the country. It's known for its art museums, royal palace, and vibrant culture."
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "A": "Toronto",
+      "B": "Vancouver",
+      "C": "Montreal",
+      "D": "Ottawa",
+      "answer": "D",
+      "funFact": "Ottawa is the capital of Canada, chosen as a compromise between English-speaking Toronto and French-speaking Montreal. It's located in the province of Ontario."
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Brisbane",
+      "answer": "C",
+      "funFact": "Canberra is the capital of Australia, a planned city built specifically to serve as the capital. Sydney and Melbourne are larger cities but Canberra was chosen as a compromise."
+    }
+]
+

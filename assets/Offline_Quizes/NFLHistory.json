@@ -1,0 +1,183 @@
+[
+    {
+      "question": "When was the NFL founded?",
+      "A": "1920",
+      "B": "1925",
+      "C": "1930",
+      "D": "1935",
+      "answer": "A",
+      "funFact": "The NFL was founded in 1920 as the American Professional Football Association. It was renamed the National Football League in 1922."
+    },
+    {
+      "question": "What was the NFL originally called?",
+      "A": "National Football League",
+      "B": "American Professional Football Association",
+      "C": "Professional Football League",
+      "D": "American Football League",
+      "answer": "B",
+      "funFact": "The NFL was originally called the American Professional Football Association (APFA) when it was founded in 1920. It was renamed in 1922."
+    },
+    {
+      "question": "How many teams are in the NFL?",
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36",
+      "answer": "B",
+      "funFact": "The NFL has 32 teams, divided into two conferences (AFC and NFC) with 16 teams each. Each conference has 4 divisions with 4 teams."
+    },
+    {
+      "question": "What is the Super Bowl?",
+      "A": "The NFL championship game",
+      "B": "Played between AFC and NFC champions",
+      "C": "Both A and B",
+      "D": "A regular season game",
+      "answer": "C",
+      "funFact": "The Super Bowl is the NFL championship game, played between the AFC and NFC champions. It's the most-watched television event in the United States."
+    },
+    {
+      "question": "When was the first Super Bowl?",
+      "A": "1965",
+      "B": "1966",
+      "C": "1967",
+      "D": "1968",
+      "answer": "C",
+      "funFact": "The first Super Bowl was played in 1967 (Super Bowl I) between the Green Bay Packers and Kansas City Chiefs. The Packers won 35-10."
+    },
+    {
+      "question": "What team has won the most Super Bowls?",
+      "A": "Pittsburgh Steelers",
+      "B": "New England Patriots",
+      "C": "Dallas Cowboys",
+      "D": "San Francisco 49ers",
+      "answer": "A",
+      "funFact": "The Pittsburgh Steelers and New England Patriots are tied with 6 Super Bowl wins each. The Steelers won in 1975, 1976, 1979, 1980, 2006, and 2009."
+    },
+    {
+      "question": "What is the NFL regular season?",
+      "A": "17 games per team",
+      "B": "18 weeks",
+      "C": "Both A and B",
+      "D": "16 games",
+      "answer": "C",
+      "funFact": "The NFL regular season consists of 17 games per team over 18 weeks (each team has one bye week). It was expanded from 16 games in 2021."
+    },
+    {
+      "question": "What is the NFL playoffs?",
+      "A": "Single-elimination tournament",
+      "B": "14 teams qualify",
+      "C": "Both A and B",
+      "D": "Double-elimination",
+      "answer": "C",
+      "funFact": "The NFL playoffs are a single-elimination tournament with 14 teams (7 from each conference). The top seed in each conference gets a first-round bye."
+    },
+    {
+      "question": "What is the Pro Bowl?",
+      "A": "The NFL all-star game",
+      "B": "Played after the Super Bowl",
+      "C": "Both A and B",
+      "D": "Before the Super Bowl",
+      "answer": "C",
+      "funFact": "The Pro Bowl is the NFL all-star game, played after the Super Bowl. It features the best players from each conference."
+    },
+    {
+      "question": "What is the NFL Draft?",
+      "A": "Where teams select college players",
+      "B": "Held annually in April",
+      "C": "Both A and B",
+      "D": "In May",
+      "answer": "C",
+      "funFact": "The NFL Draft is where teams select college players. It's held annually in April and consists of 7 rounds with 32 picks per round."
+    },
+    {
+      "question": "What is the Hall of Fame?",
+      "A": "Honors greatest players and coaches",
+      "B": "Located in Canton, Ohio",
+      "C": "Both A and B",
+      "D": "In New York",
+      "answer": "C",
+      "funFact": "The Pro Football Hall of Fame honors the greatest players, coaches, and contributors. It's located in Canton, Ohio, where the NFL was founded."
+    },
+    {
+      "question": "What was the AFL?",
+      "A": "American Football League",
+      "B": "Merged with NFL in 1970",
+      "C": "Both A and B",
+      "D": "Still exists",
+      "answer": "C",
+      "funFact": "The American Football League (AFL) was a rival league that merged with the NFL in 1970. The merger created the modern NFL structure."
+    },
+    {
+      "question": "What is the salary cap?",
+      "A": "Maximum team payroll",
+      "B": "Designed for competitive balance",
+      "C": "Both A and B",
+      "D": "No limit",
+      "answer": "C",
+      "funFact": "The salary cap is the maximum amount a team can spend on player salaries. It's designed to promote competitive balance across the league."
+    },
+    {
+      "question": "What is free agency?",
+      "A": "Players can sign with any team",
+      "B": "After their contract expires",
+      "C": "Both A and B",
+      "D": "Only with their team",
+      "answer": "C",
+      "funFact": "Free agency allows players to sign with any team after their contract expires. This system was established in 1993."
+    },
+    {
+      "question": "What is the NFL Combine?",
+      "A": "Where prospects are evaluated",
+      "B": "Physical and mental tests",
+      "C": "Both A and B",
+      "D": "A game",
+      "answer": "C",
+      "funFact": "The NFL Combine is where college prospects are evaluated through physical and mental tests. It helps teams evaluate players before the draft."
+    },
+    {
+      "question": "What is Monday Night Football?",
+      "A": "A weekly primetime game",
+      "B": "Started in 1970",
+      "C": "Both A and B",
+      "D": "On Sundays",
+      "answer": "C",
+      "funFact": "Monday Night Football is a weekly primetime game that started in 1970. It's one of the longest-running primetime sports programs."
+    },
+    {
+      "question": "What is the NFL's revenue?",
+      "A": "Billions of dollars",
+      "B": "From TV, tickets, merchandise",
+      "C": "Both A and B",
+      "D": "Millions",
+      "answer": "C",
+      "funFact": "The NFL generates billions of dollars in revenue from TV contracts, tickets, merchandise, and other sources. It's the most profitable sports league in the world."
+    },
+    {
+      "question": "What is the NFL's international expansion?",
+      "A": "Games in London and Mexico",
+      "B": "Growing international fanbase",
+      "C": "Both A and B",
+      "D": "Only in US",
+      "answer": "C",
+      "funFact": "The NFL plays games in London and Mexico and has a growing international fanbase. There are discussions about expanding to other countries."
+    },
+    {
+      "question": "What is the NFL's impact on culture?",
+      "A": "Significant",
+      "B": "Most popular sport in US",
+      "C": "Both A and B",
+      "D": "Minimal",
+      "answer": "C",
+      "funFact": "The NFL has a significant impact on American culture and is the most popular sport in the United States. The Super Bowl is a major cultural event."
+    },
+    {
+      "question": "What is the future of the NFL?",
+      "A": "Continued growth",
+      "B": "International expansion",
+      "C": "Both A and B",
+      "D": "Declining",
+      "answer": "C",
+      "funFact": "The NFL's future includes continued growth and international expansion. The league is exploring new markets and technologies to grow the game."
+    }
+]
+

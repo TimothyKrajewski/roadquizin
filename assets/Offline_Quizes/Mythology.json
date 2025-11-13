@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who is the king of the gods in Greek mythology?",
+      "A": "Poseidon",
+      "B": "Hades",
+      "C": "Zeus",
+      "D": "Apollo",
+      "answer": "C",
+      "funFact": "Zeus is the king of the gods in Greek mythology, ruler of Mount Olympus and god of the sky, lightning, and thunder. He is the son of Cronus and Rhea."
+    },
+    {
+      "question": "What is the name of the three-headed dog that guards the underworld?",
+      "A": "Cerberus",
+      "B": "Hydra",
+      "C": "Chimera",
+      "D": "Sphinx",
+      "answer": "A",
+      "funFact": "Cerberus is the three-headed dog that guards the entrance to the underworld in Greek mythology, preventing the dead from leaving and the living from entering."
+    },
+    {
+      "question": "Who is Thor's father in Norse mythology?",
+      "A": "Loki",
+      "B": "Odin",
+      "C": "Freyr",
+      "D": "Baldr",
+      "answer": "B",
+      "funFact": "Odin is Thor's father in Norse mythology. Odin is the All-Father, the chief of the Aesir gods, associated with wisdom, war, and death."
+    },
+    {
+      "question": "What is the name of the hero who performed 12 labors?",
+      "A": "Perseus",
+      "B": "Theseus",
+      "C": "Hercules",
+      "D": "Achilles",
+      "answer": "C",
+      "funFact": "Hercules (Heracles in Greek) performed 12 labors as penance for killing his family in a fit of madness, including slaying the Nemean Lion and capturing Cerberus."
+    },
+    {
+      "question": "What is the name of the winged horse in Greek mythology?",
+      "A": "Pegasus",
+      "B": "Bellerophon",
+      "C": "Chiron",
+      "D": "Arion",
+      "answer": "A",
+      "funFact": "Pegasus is the winged horse in Greek mythology, born from the blood of Medusa when Perseus beheaded her. Pegasus was later tamed by Bellerophon."
+    },
+    {
+      "question": "Who is the god of the sea in Greek mythology?",
+      "A": "Zeus",
+      "B": "Poseidon",
+      "C": "Hades",
+      "D": "Oceanus",
+      "answer": "B",
+      "funFact": "Poseidon is the god of the sea, earthquakes, and horses in Greek mythology. He is often depicted with a trident and is one of the three major Olympian gods."
+    },
+    {
+      "question": "What is Ragnarok in Norse mythology?",
+      "A": "The creation of the world",
+      "B": "The end of the world",
+      "C": "A great feast",
+      "D": "A magical weapon",
+      "answer": "B",
+      "funFact": "Ragnarok is the prophesied end of the world in Norse mythology, a series of events including a great battle that results in the death of major gods and the rebirth of the world."
+    },
+    {
+      "question": "Who opened Pandora's Box?",
+      "A": "Pandora",
+      "B": "Epimetheus",
+      "C": "Prometheus",
+      "D": "Zeus",
+      "answer": "A",
+      "funFact": "Pandora, the first woman created by the gods, opened the box (actually a jar) given to her by Zeus, releasing all evils into the world, leaving only hope inside."
+    },
+    {
+      "question": "What is the name of the hero whose only weakness was his heel?",
+      "A": "Odysseus",
+      "B": "Achilles",
+      "C": "Hector",
+      "D": "Ajax",
+      "answer": "B",
+      "funFact": "Achilles was a Greek hero of the Trojan War whose only weakness was his heel, where his mother Thetis held him when dipping him in the River Styx. He was killed by an arrow to his heel."
+    },
+    {
+      "question": "Who is the trickster god in Norse mythology?",
+      "A": "Odin",
+      "B": "Thor",
+      "C": "Loki",
+      "D": "Freyr",
+      "answer": "C",
+      "funFact": "Loki is the trickster god in Norse mythology, known for his cunning and shape-shifting abilities. He's both a friend and enemy to the gods, causing trouble but also helping them."
+    }
+]
+

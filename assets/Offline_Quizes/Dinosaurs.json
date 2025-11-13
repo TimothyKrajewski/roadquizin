@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What does the word 'dinosaur' mean?",
+      "A": "Giant lizard",
+      "B": "Terrible lizard",
+      "C": "Ancient reptile",
+      "D": "Prehistoric beast",
+      "answer": "B",
+      "funFact": "The word 'dinosaur' comes from the Greek words 'deinos' (terrible) and 'sauros' (lizard), meaning 'terrible lizard,' coined by Sir Richard Owen in 1842."
+    },
+    {
+      "question": "What is the largest known dinosaur?",
+      "A": "Tyrannosaurus Rex",
+      "B": "Argentinosaurus",
+      "C": "Brachiosaurus",
+      "D": "Spinosaurus",
+      "answer": "B",
+      "funFact": "Argentinosaurus is considered the largest known dinosaur, estimated to have been 100-130 feet long and weighing 80-100 tons, though new discoveries continue to challenge this."
+    },
+    {
+      "question": "What is the name of the most famous dinosaur?",
+      "A": "Triceratops",
+      "B": "Tyrannosaurus Rex",
+      "C": "Stegosaurus",
+      "D": "Brontosaurus",
+      "answer": "B",
+      "funFact": "Tyrannosaurus Rex, often called T. rex, is the most famous dinosaur, known for its massive size, powerful jaws, and tiny arms. It lived about 68-66 million years ago."
+    },
+    {
+      "question": "When did dinosaurs go extinct?",
+      "A": "50 million years ago",
+      "B": "65 million years ago",
+      "C": "100 million years ago",
+      "D": "200 million years ago",
+      "answer": "B",
+      "funFact": "Dinosaurs (except birds) went extinct approximately 65 million years ago, likely due to an asteroid impact that caused massive climate change."
+    },
+    {
+      "question": "What are birds considered to be?",
+      "A": "Mammals",
+      "B": "Reptiles",
+      "C": "Living dinosaurs",
+      "D": "Amphibians",
+      "answer": "C",
+      "funFact": "Birds are considered living dinosaurs, descended from theropod dinosaurs. Modern birds are the only surviving lineage of dinosaurs."
+    },
+    {
+      "question": "What period did the T. rex live in?",
+      "A": "Jurassic",
+      "B": "Cretaceous",
+      "C": "Triassic",
+      "D": "Permian",
+      "answer": "B",
+      "funFact": "Tyrannosaurus Rex lived during the Late Cretaceous period, about 68-66 million years ago, making it one of the last non-avian dinosaurs."
+    },
+    {
+      "question": "What is the name of the dinosaur with three horns on its head?",
+      "A": "Stegosaurus",
+      "B": "Triceratops",
+      "C": "Ankylosaurus",
+      "D": "Pachycephalosaurus",
+      "answer": "B",
+      "funFact": "Triceratops was a large herbivorous dinosaur with three horns on its head - two large ones above the eyes and a smaller one on the nose - and a bony frill."
+    },
+    {
+      "question": "What was the smallest known dinosaur?",
+      "A": "Compsognathus",
+      "B": "Microraptor",
+      "C": "Archaeopteryx",
+      "D": "All of the above are candidates",
+      "answer": "D",
+      "funFact": "The smallest dinosaurs were about the size of chickens. Compsognathus, Microraptor, and Archaeopteryx are all candidates for the smallest, each about 1-2 feet long."
+    },
+    {
+      "question": "What is the name for the study of dinosaurs?",
+      "A": "Paleontology",
+      "B": "Archaeology",
+      "C": "Geology",
+      "D": "Biology",
+      "answer": "A",
+      "funFact": "Paleontology is the study of ancient life, including dinosaurs. Paleontologists study fossils to understand how dinosaurs lived, evolved, and went extinct."
+    },
+    {
+      "question": "What dinosaur had plates on its back?",
+      "A": "Triceratops",
+      "B": "Stegosaurus",
+      "C": "Ankylosaurus",
+      "D": "Brontosaurus",
+      "answer": "B",
+      "funFact": "Stegosaurus had distinctive plates along its back and spikes on its tail. The purpose of the plates is still debated - they may have been for temperature regulation or display."
+    }
+]
+

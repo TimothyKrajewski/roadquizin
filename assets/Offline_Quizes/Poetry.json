@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is a group of lines in a poem called?",
+      "A": "Paragraph",
+      "B": "Stanza",
+      "C": "Verse",
+      "D": "Chapter",
+      "answer": "B",
+      "funFact": "A stanza is a group of lines in a poem, similar to a paragraph in prose. Poems are often divided into stanzas of varying lengths."
+    },
+    {
+      "question": "What is the pattern of stressed and unstressed syllables in poetry called?",
+      "A": "Rhyme",
+      "B": "Meter",
+      "C": "Rhythm",
+      "D": "Verse",
+      "answer": "B",
+      "funFact": "Meter is the pattern of stressed and unstressed syllables in poetry. Common meters include iambic pentameter (five pairs of unstressed-stressed syllables)."
+    },
+    {
+      "question": "What is a 14-line poem called?",
+      "A": "Haiku",
+      "B": "Sonnet",
+      "C": "Limerick",
+      "D": "Ode",
+      "answer": "B",
+      "funFact": "A sonnet is a 14-line poem with a specific rhyme scheme. Shakespeare wrote 154 sonnets, and the form has been used by many poets throughout history."
+    },
+    {
+      "question": "What is a 3-line poem with 5-7-5 syllables called?",
+      "A": "Sonnet",
+      "B": "Haiku",
+      "C": "Limerick",
+      "D": "Ode",
+      "answer": "B",
+      "funFact": "A haiku is a traditional Japanese poem with 3 lines: 5 syllables in the first line, 7 in the second, and 5 in the third. It often focuses on nature."
+    },
+    {
+      "question": "Who wrote 'The Raven'?",
+      "A": "Walt Whitman",
+      "B": "Emily Dickinson",
+      "C": "Edgar Allan Poe",
+      "D": "Robert Frost",
+      "answer": "C",
+      "funFact": "Edgar Allan Poe wrote 'The Raven' in 1845, one of the most famous poems in American literature, known for its musicality and supernatural atmosphere."
+    },
+    {
+      "question": "What is the repetition of sounds at the end of words called?",
+      "A": "Alliteration",
+      "B": "Rhyme",
+      "C": "Assonance",
+      "D": "Onomatopoeia",
+      "answer": "B",
+      "funFact": "Rhyme is the repetition of similar sounds at the end of words, like 'cat' and 'hat' or 'moon' and 'June.' It's a common feature in poetry."
+    },
+    {
+      "question": "Who wrote 'The Road Not Taken'?",
+      "A": "Walt Whitman",
+      "B": "Emily Dickinson",
+      "C": "Robert Frost",
+      "D": "Langston Hughes",
+      "answer": "C",
+      "funFact": "Robert Frost wrote 'The Road Not Taken' in 1916, one of the most quoted and misunderstood poems in American literature, often interpreted as celebrating individualism."
+    },
+    {
+      "question": "What is the repetition of consonant sounds at the beginning of words called?",
+      "A": "Rhyme",
+      "B": "Alliteration",
+      "C": "Assonance",
+      "D": "Onomatopoeia",
+      "answer": "B",
+      "funFact": "Alliteration is the repetition of consonant sounds at the beginning of words, like 'Peter Piper picked a peck of pickled peppers.'"
+    },
+    {
+      "question": "Who is known as the 'Bard of Avon'?",
+      "A": "Geoffrey Chaucer",
+      "B": "William Shakespeare",
+      "C": "John Milton",
+      "D": "Edmund Spenser",
+      "answer": "B",
+      "funFact": "William Shakespeare is known as the 'Bard of Avon' because he was born in Stratford-upon-Avon. 'Bard' is an old term for a poet or storyteller."
+    },
+    {
+      "question": "What is a humorous 5-line poem with a specific rhyme scheme called?",
+      "A": "Haiku",
+      "B": "Sonnet",
+      "C": "Limerick",
+      "D": "Ode",
+      "answer": "C",
+      "funFact": "A limerick is a humorous 5-line poem with a specific rhyme scheme (AABBA). Limericks often have a playful or nonsensical tone."
+    }
+]
+

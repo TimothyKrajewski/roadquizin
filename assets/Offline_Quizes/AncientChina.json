@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What was the name of the first emperor of China?",
+      "A": "Emperor Wu",
+      "B": "Qin Shi Huang",
+      "C": "Emperor Gaozu",
+      "D": "Emperor Wen",
+      "answer": "B",
+      "funFact": "Qin Shi Huang (259-210 BCE) was the first emperor of a unified China, founding the Qin Dynasty and beginning construction of the Great Wall of China."
+    },
+    {
+      "question": "What was the purpose of the Great Wall of China?",
+      "A": "To mark the border",
+      "B": "To prevent invasions from the north",
+      "C": "To control trade",
+      "D": "To impress visitors",
+      "answer": "B",
+      "funFact": "The Great Wall of China was built primarily to protect Chinese states and empires from invasions and raids by nomadic groups from the north, particularly the Mongols."
+    },
+    {
+      "question": "What was the name of the famous trade route connecting China to the West?",
+      "A": "The Royal Road",
+      "B": "The Silk Road",
+      "C": "The Spice Route",
+      "D": "The Tea Route",
+      "answer": "B",
+      "funFact": "The Silk Road was an ancient network of trade routes connecting China to the Mediterranean, facilitating the exchange of goods, ideas, and culture for over 1,500 years."
+    },
+    {
+      "question": "What philosophy was developed by Confucius?",
+      "A": "Taoism",
+      "B": "Buddhism",
+      "C": "Confucianism",
+      "D": "Legalism",
+      "answer": "C",
+      "funFact": "Confucianism, developed by Confucius (551-479 BCE), emphasizes moral values, social harmony, respect for elders, and proper conduct in relationships."
+    },
+    {
+      "question": "What was the name of the Chinese writing system?",
+      "A": "Alphabet",
+      "B": "Hieroglyphics",
+      "C": "Characters",
+      "D": "Cuneiform",
+      "answer": "C",
+      "funFact": "Chinese writing uses characters (汉字), with each character representing a word or concept. There are thousands of characters, making it one of the most complex writing systems."
+    },
+    {
+      "question": "Which dynasty is known for its porcelain and the invention of gunpowder?",
+      "A": "Tang Dynasty",
+      "B": "Song Dynasty",
+      "C": "Ming Dynasty",
+      "D": "Qing Dynasty",
+      "answer": "B",
+      "funFact": "The Song Dynasty (960-1279 CE) is known for its beautiful porcelain, the invention of gunpowder, movable type printing, and significant advances in science and technology."
+    },
+    {
+      "question": "What was the name of the Chinese explorer who made seven voyages?",
+      "A": "Zheng He",
+      "B": "Marco Polo",
+      "C": "Zhang Qian",
+      "D": "Xu Fu",
+      "answer": "A",
+      "funFact": "Zheng He (1371-1433) was a Chinese explorer who led seven major voyages during the Ming Dynasty, reaching as far as Africa with a massive fleet."
+    },
+    {
+      "question": "What is the name of the longest river in China?",
+      "A": "Yellow River",
+      "B": "Yangtze River",
+      "C": "Pearl River",
+      "D": "Mekong River",
+      "answer": "B",
+      "funFact": "The Yangtze River (Chang Jiang) is the longest river in China and Asia, flowing 3,915 miles from the Tibetan Plateau to the East China Sea."
+    },
+    {
+      "question": "What was the name of the Chinese civil service examination system?",
+      "A": "Imperial Examination",
+      "B": "Scholar Examination",
+      "C": "Mandarin Examination",
+      "D": "Confucian Examination",
+      "answer": "A",
+      "funFact": "The Imperial Examination system, established during the Sui Dynasty, selected government officials based on merit through rigorous exams on Confucian classics, creating a merit-based bureaucracy."
+    },
+    {
+      "question": "Which dynasty built the Forbidden City?",
+      "A": "Tang Dynasty",
+      "B": "Song Dynasty",
+      "C": "Ming Dynasty",
+      "D": "Qing Dynasty",
+      "answer": "C",
+      "funFact": "The Forbidden City in Beijing was built during the Ming Dynasty (1406-1420) and served as the imperial palace for 24 emperors over nearly 500 years."
+    }
+]
+

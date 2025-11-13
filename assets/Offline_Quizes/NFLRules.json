@@ -1,0 +1,183 @@
+[
+    {
+      "question": "How long is an NFL game?",
+      "A": "60 minutes",
+      "B": "4 quarters of 15 minutes",
+      "C": "Both A and B",
+      "D": "90 minutes",
+      "answer": "C",
+      "funFact": "An NFL game is 60 minutes long, divided into 4 quarters of 15 minutes each. There's also a halftime break and timeouts."
+    },
+    {
+      "question": "How many players are on the field per team?",
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "answer": "B",
+      "funFact": "Each team has 11 players on the field at a time - 11 on offense and 11 on defense. Teams can substitute players between plays."
+    },
+    {
+      "question": "How many downs does a team have to get 10 yards?",
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "answer": "B",
+      "funFact": "A team has 4 downs (plays) to advance the ball 10 yards. If they succeed, they get a new set of 4 downs."
+    },
+    {
+      "question": "What is a touchdown worth?",
+      "A": "6 points",
+      "B": "Can be followed by extra point or 2-point conversion",
+      "C": "Both A and B",
+      "D": "7 points",
+      "answer": "C",
+      "funFact": "A touchdown is worth 6 points. After a touchdown, teams can kick an extra point (1 point) or attempt a 2-point conversion (2 points)."
+    },
+    {
+      "question": "What is a field goal worth?",
+      "A": "3 points",
+      "B": "Kicked through the goalposts",
+      "C": "Both A and B",
+      "D": "2 points",
+      "answer": "C",
+      "funFact": "A field goal is worth 3 points and is scored by kicking the ball through the opponent's goalposts. It can be attempted on any down."
+    },
+    {
+      "question": "What is a safety worth?",
+      "A": "2 points",
+      "B": "When offense is tackled in own end zone",
+      "C": "Both A and B",
+      "D": "1 point",
+      "answer": "C",
+      "funFact": "A safety is worth 2 points and occurs when the offense is tackled in their own end zone or commits a penalty in the end zone."
+    },
+    {
+      "question": "What is the two-minute warning?",
+      "A": "Automatic timeout",
+      "B": "At 2:00 remaining in each half",
+      "C": "Both A and B",
+      "D": "At 1:00",
+      "answer": "C",
+      "funFact": "The two-minute warning is an automatic timeout that occurs when 2:00 remains in each half. It's the only automatic timeout in the NFL."
+    },
+    {
+      "question": "What is overtime?",
+      "A": "Extra period if game is tied",
+      "B": "10 minutes in regular season",
+      "C": "Both A and B",
+      "D": "15 minutes",
+      "answer": "C",
+      "funFact": "Overtime is an extra period played if the game is tied after regulation. In the regular season, it's 10 minutes; in playoffs, it continues until there's a winner."
+    },
+    {
+      "question": "What is a penalty?",
+      "A": "Rule violation",
+      "B": "Results in yardage loss or gain",
+      "C": "Both A and B",
+      "D": "No consequence",
+      "answer": "C",
+      "funFact": "A penalty is a rule violation that results in yardage being added or subtracted. Common penalties include holding, pass interference, and false starts."
+    },
+    {
+      "question": "What is pass interference?",
+      "A": "Illegal contact on receiver",
+      "B": "Can result in significant yardage",
+      "C": "Both A and B",
+      "D": "No penalty",
+      "answer": "C",
+      "funFact": "Pass interference is illegal contact on a receiver before the ball arrives. It can result in significant yardage or an automatic first down."
+    },
+    {
+      "question": "What is a false start?",
+      "A": "Offensive player moves before snap",
+      "B": "5-yard penalty",
+      "C": "Both A and B",
+      "D": "10-yard penalty",
+      "answer": "C",
+      "funFact": "A false start occurs when an offensive player moves before the snap. It's a 5-yard penalty and the down is replayed."
+    },
+    {
+      "question": "What is holding?",
+      "A": "Illegal blocking",
+      "B": "10-yard penalty",
+      "C": "Both A and B",
+      "D": "5-yard penalty",
+      "answer": "C",
+      "funFact": "Holding is illegal blocking where a player grabs an opponent. It's a 10-yard penalty (or half the distance to the goal if less than 10 yards)."
+    },
+    {
+      "question": "What is a fumble?",
+      "A": "Ball is dropped",
+      "B": "Can be recovered by either team",
+      "C": "Both A and B",
+      "D": "Always goes to offense",
+      "answer": "C",
+      "funFact": "A fumble occurs when a player drops the ball. Either team can recover it, and the recovering team gains possession."
+    },
+    {
+      "question": "What is an interception?",
+      "A": "Defense catches a pass",
+      "B": "Results in possession change",
+      "C": "Both A and B",
+      "D": "No possession change",
+      "answer": "C",
+      "funFact": "An interception occurs when the defense catches a pass intended for an offensive player. The defense gains possession and can advance the ball."
+    },
+    {
+      "question": "What is a punt?",
+      "A": "Kicking the ball to opponent",
+      "B": "On fourth down",
+      "C": "Both A and B",
+      "D": "On any down",
+      "answer": "C",
+      "funFact": "A punt is kicking the ball to the opponent, typically done on fourth down when a team doesn't want to risk turning the ball over."
+    },
+    {
+      "question": "What is a kickoff?",
+      "A": "Starts each half",
+      "B": "After scoring",
+      "C": "Both A and B",
+      "D": "Only at start",
+      "answer": "C",
+      "funFact": "A kickoff occurs at the start of each half and after scoring. The kicking team kicks the ball to the receiving team."
+    },
+    {
+      "question": "What is a fair catch?",
+      "A": "Receiver signals to catch without running",
+      "B": "Cannot be hit",
+      "C": "Both A and B",
+      "D": "Can be hit",
+      "answer": "C",
+      "funFact": "A fair catch is when a receiver signals to catch the ball without running. The receiver cannot be hit and the play ends immediately."
+    },
+    {
+      "question": "What is a challenge?",
+      "A": "Coach can challenge a call",
+      "B": "Limited number per game",
+      "C": "Both A and B",
+      "D": "Unlimited",
+      "answer": "C",
+      "funFact": "A challenge allows a coach to challenge a referee's call. Coaches have a limited number of challenges per game and lose a timeout if wrong."
+    },
+    {
+      "question": "What is instant replay?",
+      "A": "Review of plays",
+      "B": "Used for challenges and reviews",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Instant replay is used to review plays, either through coach challenges or automatic reviews by officials in certain situations."
+    },
+    {
+      "question": "What is the goal line?",
+      "A": "End of the field",
+      "B": "Where touchdowns are scored",
+      "C": "Both A and B",
+      "D": "Middle of field",
+      "answer": "C",
+      "funFact": "The goal line is at each end of the field (100 yards apart). A touchdown is scored when the ball crosses the opponent's goal line."
+    }
+]
+

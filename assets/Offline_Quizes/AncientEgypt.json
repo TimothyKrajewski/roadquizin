@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Which pharaoh is famous for building the Great Pyramid of Giza?",
+      "A": "Ramesses II",
+      "B": "Tutankhamun",
+      "C": "Khufu",
+      "D": "Cleopatra",
+      "answer": "C",
+      "funFact": "Khufu (also known as Cheops) built the Great Pyramid of Giza around 2580-2560 BCE, which is the largest of the three pyramids at Giza."
+    },
+    {
+      "question": "What was the writing system used in ancient Egypt called?",
+      "A": "Cuneiform",
+      "B": "Hieroglyphics",
+      "C": "Latin",
+      "D": "Sanskrit",
+      "answer": "B",
+      "funFact": "Hieroglyphics were the formal writing system used in ancient Egypt, consisting of pictorial symbols that represented sounds, words, or concepts."
+    },
+    {
+      "question": "Which river was essential to ancient Egyptian civilization?",
+      "A": "Tigris River",
+      "B": "Euphrates River",
+      "C": "Nile River",
+      "D": "Jordan River",
+      "answer": "C",
+      "funFact": "The Nile River was the lifeblood of ancient Egypt, providing water, fertile soil, and transportation, making agriculture possible in the desert."
+    },
+    {
+      "question": "Who was the last active pharaoh of ancient Egypt?",
+      "A": "Nefertiti",
+      "B": "Cleopatra VII",
+      "C": "Hatshepsut",
+      "D": "Ramesses II",
+      "answer": "B",
+      "funFact": "Cleopatra VII was the last active pharaoh of ancient Egypt, ruling from 51-30 BCE before Egypt became a Roman province."
+    },
+    {
+      "question": "What was the purpose of the Rosetta Stone?",
+      "A": "To record pharaoh decrees",
+      "B": "To help decode hieroglyphics",
+      "C": "To mark tomb boundaries",
+      "D": "To measure time",
+      "answer": "B",
+      "funFact": "The Rosetta Stone, discovered in 1799, contained the same text in three scripts (hieroglyphics, Demotic, and Greek), which allowed scholars to finally decode Egyptian hieroglyphics."
+    },
+    {
+      "question": "Which ancient Egyptian god was associated with the sun?",
+      "A": "Osiris",
+      "B": "Anubis",
+      "C": "Ra",
+      "D": "Horus",
+      "answer": "C",
+      "funFact": "Ra (or Re) was the ancient Egyptian sun god, considered one of the most important deities, often depicted with a sun disk on his head."
+    },
+    {
+      "question": "What was the process of preserving dead bodies in ancient Egypt called?",
+      "A": "Cremation",
+      "B": "Mummification",
+      "C": "Embalming",
+      "D": "Taxidermy",
+      "answer": "B",
+      "funFact": "Mummification was the elaborate process of preserving dead bodies in ancient Egypt, which could take up to 70 days and involved removing organs and treating the body with natron."
+    },
+    {
+      "question": "Which famous tomb was discovered by Howard Carter in 1922?",
+      "A": "The Great Pyramid",
+      "B": "Tutankhamun's tomb",
+      "C": "Ramesses II's tomb",
+      "D": "Cleopatra's tomb",
+      "answer": "B",
+      "funFact": "Howard Carter discovered the nearly intact tomb of Tutankhamun in 1922, one of the most significant archaeological finds in history."
+    },
+    {
+      "question": "What was the name of the ancient Egyptian capital during the New Kingdom?",
+      "A": "Memphis",
+      "B": "Thebes",
+      "C": "Alexandria",
+      "D": "Cairo",
+      "answer": "B",
+      "funFact": "Thebes (modern-day Luxor) was the capital of ancient Egypt during the New Kingdom period and was home to the famous Valley of the Kings."
+    },
+    {
+      "question": "Which female pharaoh ruled Egypt for about 20 years and is known for her successful reign?",
+      "A": "Cleopatra",
+      "B": "Nefertiti",
+      "C": "Hatshepsut",
+      "D": "Nefertari",
+      "answer": "C",
+      "funFact": "Hatshepsut was one of the most successful pharaohs, ruling for about 20 years and overseeing a period of peace and prosperity, often depicted with a false beard to emphasize her authority."
+    }
+]
+

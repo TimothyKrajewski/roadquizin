@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many continents are there?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "answer": "C",
+      "funFact": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Some models count 6 (combining Europe and Asia as Eurasia) or 5 (combining Americas)."
+    },
+    {
+      "question": "What is the largest continent?",
+      "A": "Africa",
+      "B": "North America",
+      "C": "Asia",
+      "D": "South America",
+      "answer": "C",
+      "funFact": "Asia is the largest continent by land area, covering about 30% of Earth's total land area and containing more than 60% of the world's population."
+    },
+    {
+      "question": "What is the smallest continent?",
+      "A": "Europe",
+      "B": "Australia",
+      "C": "Antarctica",
+      "D": "South America",
+      "answer": "B",
+      "funFact": "Australia is the smallest continent by land area, though it's also considered the largest island. It's the only continent that is also a country."
+    },
+    {
+      "question": "What is the coldest continent?",
+      "A": "Antarctica",
+      "B": "Europe",
+      "C": "Asia",
+      "D": "North America",
+      "answer": "A",
+      "funFact": "Antarctica is the coldest continent, with temperatures dropping below -80°C (-112°F). It's also the driest, windiest, and highest continent on average."
+    },
+    {
+      "question": "What continent is home to the Amazon Rainforest?",
+      "A": "Africa",
+      "B": "Asia",
+      "C": "South America",
+      "D": "North America",
+      "answer": "C",
+      "funFact": "The Amazon Rainforest is located in South America, primarily in Brazil. It's the largest tropical rainforest in the world, covering about 2.1 million square miles."
+    },
+    {
+      "question": "What continent is home to the Sahara Desert?",
+      "A": "Asia",
+      "B": "Africa",
+      "C": "Australia",
+      "D": "North America",
+      "answer": "B",
+      "funFact": "The Sahara Desert is located in Africa, covering approximately 3.6 million square miles across northern Africa. It's the largest hot desert in the world."
+    },
+    {
+      "question": "What continent is home to Mount Everest?",
+      "A": "Europe",
+      "B": "Asia",
+      "C": "Africa",
+      "D": "South America",
+      "answer": "B",
+      "funFact": "Mount Everest, the highest mountain in the world at 29,032 feet, is located in Asia, on the border between Nepal and China (Tibet)."
+    },
+    {
+      "question": "What continent has no permanent human population?",
+      "A": "Antarctica",
+      "B": "Australia",
+      "C": "Africa",
+      "D": "South America",
+      "answer": "A",
+      "funFact": "Antarctica has no permanent human population, though it has temporary research stations. It's the only continent without native human inhabitants."
+    },
+    {
+      "question": "What continent is home to the Great Wall of China?",
+      "A": "Europe",
+      "B": "Asia",
+      "C": "Africa",
+      "D": "Australia",
+      "answer": "B",
+      "funFact": "The Great Wall of China is located in Asia, stretching over 13,000 miles across northern China. It was built over many centuries to protect China from invasions."
+    },
+    {
+      "question": "What continent is home to the most countries?",
+      "A": "Asia",
+      "B": "Africa",
+      "C": "Europe",
+      "D": "North America",
+      "answer": "B",
+      "funFact": "Africa has the most countries of any continent, with 54 recognized countries. It's also the second-largest continent by both land area and population."
+    }
+]
+

@@ -1,0 +1,183 @@
+[
+    {
+      "question": "Where did golf originate?",
+      "A": "Scotland",
+      "B": "15th century",
+      "C": "Both A and B",
+      "D": "England",
+      "answer": "C",
+      "funFact": "Golf originated in Scotland in the 15th century. The first written record of golf dates to 1457."
+    },
+    {
+      "question": "What is St. Andrews?",
+      "A": "Oldest golf course",
+      "B": "Home of golf",
+      "C": "Both A and B",
+      "D": "New course",
+      "answer": "C",
+      "funFact": "St. Andrews in Scotland is considered the oldest golf course and the home of golf. It's been played there since the 15th century."
+    },
+    {
+      "question": "When was the first British Open?",
+      "A": "1860",
+      "B": "Oldest major championship",
+      "C": "Both A and B",
+      "D": "1900",
+      "answer": "C",
+      "funFact": "The first British Open (The Open Championship) was held in 1860. It's the oldest major championship in golf."
+    },
+    {
+      "question": "When was the first US Open?",
+      "A": "1895",
+      "B": "First major in US",
+      "C": "Both A and B",
+      "D": "1900",
+      "answer": "C",
+      "funFact": "The first US Open was held in 1895. It was the first major championship in the United States."
+    },
+    {
+      "question": "When was the first Masters?",
+      "A": "1934",
+      "B": "Created by Bobby Jones",
+      "C": "Both A and B",
+      "D": "1920",
+      "answer": "C",
+      "funFact": "The first Masters Tournament was held in 1934. It was created by golf legend Bobby Jones and is played at Augusta National."
+    },
+    {
+      "question": "Who was Bobby Jones?",
+      "A": "Golf legend",
+      "B": "Won all four majors in 1930",
+      "C": "Both A and B",
+      "D": "Modern player",
+      "answer": "C",
+      "funFact": "Bobby Jones was a golf legend who won all four major championships in 1930 (the Grand Slam). He also co-founded the Masters."
+    },
+    {
+      "question": "Who was Jack Nicklaus?",
+      "A": "Golden Bear",
+      "B": "Won 18 major championships",
+      "C": "Both A and B",
+      "D": "Modern player",
+      "answer": "C",
+      "funFact": "Jack Nicklaus, known as the Golden Bear, won 18 major championships, the most in golf history."
+    },
+    {
+      "question": "Who was Tiger Woods?",
+      "A": "Modern golf legend",
+      "B": "Won 15 major championships",
+      "C": "Both A and B",
+      "D": "Old player",
+      "answer": "C",
+      "funFact": "Tiger Woods is a modern golf legend who has won 15 major championships. He's one of the most successful golfers in history."
+    },
+    {
+      "question": "What was the evolution of golf balls?",
+      "A": "Featherie to modern",
+      "B": "Many changes",
+      "C": "Both A and B",
+      "D": "Never changed",
+      "answer": "C",
+      "funFact": "Golf balls evolved from feather-filled leather balls (featherie) to modern multi-layer balls with advanced materials."
+    },
+    {
+      "question": "What was the evolution of golf clubs?",
+      "A": "Wood to metal",
+      "B": "Many improvements",
+      "C": "Both A and B",
+      "D": "Never changed",
+      "answer": "C",
+      "funFact": "Golf clubs evolved from wooden clubs to metal clubs (irons and steel shafts) to modern clubs with advanced materials and technology."
+    },
+    {
+      "question": "What was the impact of television?",
+      "A": "Popularized golf",
+      "B": "Made stars famous",
+      "C": "Both A and B",
+      "D": "No impact",
+      "answer": "C",
+      "funFact": "Television popularized golf and made golf stars famous. The Masters was one of the first tournaments televised."
+    },
+    {
+      "question": "What was the impact of technology?",
+      "A": "Better equipment",
+      "B": "Longer drives",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "Technology has led to better equipment, allowing golfers to hit longer drives and more accurate shots."
+    },
+    {
+      "question": "What was the growth of golf?",
+      "A": "Spread worldwide",
+      "B": "Millions of players",
+      "C": "Both A and B",
+      "D": "Declined",
+      "answer": "C",
+      "funFact": "Golf has spread worldwide and is now played by millions of people. It's one of the most popular sports globally."
+    },
+    {
+      "question": "What was women's golf history?",
+      "A": "Long history",
+      "B": "First women's tournament in 1895",
+      "C": "Both A and B",
+      "D": "Recent",
+      "answer": "C",
+      "funFact": "Women's golf has a long history. The first US Women's Open was held in 1895, though women's golf grew more slowly than men's."
+    },
+    {
+      "question": "What was the Ryder Cup?",
+      "A": "Team competition",
+      "B": "US vs Europe",
+      "C": "Both A and B",
+      "D": "Individual",
+      "answer": "C",
+      "funFact": "The Ryder Cup is a team competition between the United States and Europe, held every two years. It's one of golf's most prestigious events."
+    },
+    {
+      "question": "What was the impact on courses?",
+      "A": "More courses built",
+      "B": "Better maintenance",
+      "C": "Both A and B",
+      "D": "Fewer courses",
+      "answer": "C",
+      "funFact": "As golf grew, more courses were built and maintenance improved. Modern courses are meticulously maintained."
+    },
+    {
+      "question": "What was the impact on rules?",
+      "A": "Standardized rules",
+      "B": "USGA and R&A",
+      "C": "Both A and B",
+      "D": "No rules",
+      "answer": "C",
+      "funFact": "Golf rules were standardized by the USGA (United States) and R&A (Royal and Ancient, Scotland), ensuring consistency worldwide."
+    },
+    {
+      "question": "What was the legacy?",
+      "A": "Rich history",
+      "B": "Still growing",
+      "C": "Both A and B",
+      "D": "Declining",
+      "answer": "C",
+      "funFact": "Golf has a rich history spanning over 500 years and is still growing, with new players and courses worldwide."
+    },
+    {
+      "question": "What was the future?",
+      "A": "Continued growth",
+      "B": "New technology",
+      "C": "Both A and B",
+      "D": "Declining",
+      "answer": "C",
+      "funFact": "Golf's future includes continued growth and new technology, making the game more accessible and enjoyable."
+    },
+    {
+      "question": "What is the overall impact?",
+      "A": "Changed sports world",
+      "B": "Popular worldwide",
+      "C": "Both A and B",
+      "D": "Minor sport",
+      "answer": "C",
+      "funFact": "Golf has changed the sports world and is popular worldwide, with major championships watched by millions."
+    }
+]
+

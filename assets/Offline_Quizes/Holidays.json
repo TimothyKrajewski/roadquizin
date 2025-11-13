@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What holiday is celebrated on December 25th?",
+      "A": "New Year's Day",
+      "B": "Christmas",
+      "C": "Thanksgiving",
+      "D": "Easter",
+      "answer": "B",
+      "funFact": "Christmas is celebrated on December 25th, commemorating the birth of Jesus Christ. It's one of the most widely celebrated holidays in the world."
+    },
+    {
+      "question": "What holiday is celebrated on January 1st?",
+      "A": "Christmas",
+      "B": "New Year's Day",
+      "C": "Independence Day",
+      "D": "Valentine's Day",
+      "answer": "B",
+      "funFact": "New Year's Day is celebrated on January 1st, marking the beginning of the new year. It's celebrated with parties, fireworks, and resolutions in many cultures."
+    },
+    {
+      "question": "What holiday is celebrated on October 31st?",
+      "A": "Thanksgiving",
+      "B": "Halloween",
+      "C": "Christmas",
+      "D": "New Year's Eve",
+      "answer": "B",
+      "funFact": "Halloween is celebrated on October 31st, with origins in ancient Celtic festivals. It's known for costumes, trick-or-treating, and spooky decorations."
+    },
+    {
+      "question": "What holiday is celebrated on the fourth Thursday of November in the United States?",
+      "A": "Christmas",
+      "B": "Thanksgiving",
+      "C": "Easter",
+      "D": "Independence Day",
+      "answer": "B",
+      "funFact": "Thanksgiving is celebrated on the fourth Thursday of November in the United States, a holiday of gratitude and feasting that dates back to 1621."
+    },
+    {
+      "question": "What holiday is celebrated on July 4th in the United States?",
+      "A": "Memorial Day",
+      "B": "Labor Day",
+      "C": "Independence Day",
+      "D": "Veterans Day",
+      "answer": "C",
+      "funFact": "Independence Day is celebrated on July 4th in the United States, commemorating the adoption of the Declaration of Independence in 1776."
+    },
+    {
+      "question": "What holiday is celebrated on February 14th?",
+      "A": "Easter",
+      "B": "Valentine's Day",
+      "C": "St. Patrick's Day",
+      "D": "Mother's Day",
+      "answer": "B",
+      "funFact": "Valentine's Day is celebrated on February 14th, a day of love and romance. It's named after Saint Valentine and is celebrated with cards, flowers, and chocolates."
+    },
+    {
+      "question": "What holiday involves hiding eggs?",
+      "A": "Halloween",
+      "B": "Easter",
+      "C": "Christmas",
+      "D": "Thanksgiving",
+      "answer": "B",
+      "funFact": "Easter involves hiding and hunting for eggs, symbolizing new life and resurrection. Easter eggs are often decorated and can be real eggs or chocolate eggs."
+    },
+    {
+      "question": "What holiday is celebrated on March 17th?",
+      "A": "Valentine's Day",
+      "B": "St. Patrick's Day",
+      "C": "Easter",
+      "D": "Mother's Day",
+      "answer": "B",
+      "funFact": "St. Patrick's Day is celebrated on March 17th, honoring the patron saint of Ireland. It's celebrated with parades, green clothing, and Irish culture."
+    },
+    {
+      "question": "What holiday is celebrated on the second Sunday in May in the United States?",
+      "A": "Father's Day",
+      "B": "Mother's Day",
+      "C": "Easter",
+      "D": "Thanksgiving",
+      "answer": "B",
+      "funFact": "Mother's Day is celebrated on the second Sunday in May in the United States, a day to honor and appreciate mothers and motherhood."
+    },
+    {
+      "question": "What holiday is celebrated on December 31st?",
+      "A": "Christmas",
+      "B": "New Year's Eve",
+      "C": "Thanksgiving",
+      "D": "Halloween",
+      "answer": "B",
+      "funFact": "New Year's Eve is celebrated on December 31st, the last day of the year. It's marked with parties, countdowns, and fireworks at midnight to welcome the new year."
+    }
+]
+

@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "A": "300,000 km/s",
+      "B": "150,000 km/s",
+      "C": "450,000 km/s",
+      "D": "600,000 km/s",
+      "answer": "A",
+      "funFact": "The speed of light in a vacuum is approximately 299,792,458 meters per second (about 300,000 km/s), and it's the fastest speed possible in the universe according to Einstein's theory of relativity."
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Niels Bohr",
+      "D": "Stephen Hawking",
+      "answer": "B",
+      "funFact": "Albert Einstein developed both the special theory of relativity (1905) and the general theory of relativity (1915), revolutionizing our understanding of space, time, and gravity."
+    },
+    {
+      "question": "What is the formula for calculating force?",
+      "A": "F = m × a",
+      "B": "F = m ÷ a",
+      "C": "F = m + a",
+      "D": "F = m - a",
+      "answer": "A",
+      "funFact": "Newton's second law states that force (F) equals mass (m) multiplied by acceleration (a), expressed as F = ma."
+    },
+    {
+      "question": "What is the unit of electrical resistance?",
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Watt",
+      "answer": "C",
+      "funFact": "The ohm (Ω) is the unit of electrical resistance, named after German physicist Georg Simon Ohm, who discovered Ohm's law."
+    },
+    {
+      "question": "What happens to the volume of a gas when temperature increases (at constant pressure)?",
+      "A": "It decreases",
+      "B": "It increases",
+      "C": "It stays the same",
+      "D": "It becomes zero",
+      "answer": "B",
+      "funFact": "According to Charles's Law, the volume of a gas increases as temperature increases when pressure is held constant, because gas molecules move faster and take up more space."
+    },
+    {
+      "question": "What is the smallest unit of matter?",
+      "A": "Molecule",
+      "B": "Atom",
+      "C": "Proton",
+      "D": "Electron",
+      "answer": "B",
+      "funFact": "An atom is the smallest unit of matter that retains the properties of an element. Atoms are composed of protons, neutrons, and electrons."
+    },
+    {
+      "question": "What type of energy does a moving object have?",
+      "A": "Potential energy",
+      "B": "Kinetic energy",
+      "C": "Thermal energy",
+      "D": "Chemical energy",
+      "answer": "B",
+      "funFact": "Kinetic energy is the energy an object possesses due to its motion. The formula is KE = ½mv², where m is mass and v is velocity."
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "A": "9.8 m/s²",
+      "B": "10 m/s²",
+      "C": "8.9 m/s²",
+      "D": "11 m/s²",
+      "answer": "A",
+      "funFact": "The acceleration due to gravity on Earth is approximately 9.8 m/s², meaning objects fall faster by 9.8 meters per second every second they fall."
+    },
+    {
+      "question": "What is the phenomenon where light bends when passing through different mediums?",
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Diffraction",
+      "D": "Absorption",
+      "answer": "B",
+      "funFact": "Refraction is the bending of light when it passes from one medium to another (like from air to water), which is why objects appear bent when viewed through water."
+    },
+    {
+      "question": "Who discovered the law of universal gravitation?",
+      "A": "Galileo Galilei",
+      "B": "Isaac Newton",
+      "C": "Albert Einstein",
+      "D": "Johannes Kepler",
+      "answer": "B",
+      "funFact": "Isaac Newton formulated the law of universal gravitation in 1687, stating that every particle attracts every other particle with a force proportional to their masses and inversely proportional to the square of the distance between them."
+    },
+    {
+      "question": "What is the unit of power?",
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Volt",
+      "answer": "B",
+      "funFact": "The watt (W) is the unit of power, named after James Watt. One watt equals one joule per second. Power is the rate at which work is done or energy is transferred."
+    },
+    {
+      "question": "What is the unit of energy?",
+      "A": "Watt",
+      "B": "Joule",
+      "C": "Newton",
+      "D": "Volt",
+      "answer": "B",
+      "funFact": "The joule (J) is the unit of energy, named after James Prescott Joule. One joule is the energy transferred when a force of one newton moves an object one meter."
+    },
+    {
+      "question": "What is momentum?",
+      "A": "Mass times velocity",
+      "B": "Mass times acceleration",
+      "C": "Force times distance",
+      "D": "Energy divided by time",
+      "answer": "A",
+      "funFact": "Momentum is mass times velocity (p = mv). It's a measure of how difficult it is to stop a moving object. Momentum is conserved in collisions."
+    },
+    {
+      "question": "What is the law of conservation of energy?",
+      "A": "Energy can be created",
+      "B": "Energy cannot be created or destroyed, only transformed",
+      "C": "Energy can be destroyed",
+      "D": "Energy is unlimited",
+      "answer": "B",
+      "funFact": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another. This is a fundamental law of physics."
+    },
+    {
+      "question": "What is the unit of electric current?",
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Watt",
+      "answer": "B",
+      "funFact": "The ampere (A) is the unit of electric current, named after André-Marie Ampère. It measures the flow of electric charge through a conductor."
+    },
+    {
+      "question": "What is the unit of voltage?",
+      "A": "Ampere",
+      "B": "Volt",
+      "C": "Ohm",
+      "D": "Watt",
+      "answer": "B",
+      "funFact": "The volt (V) is the unit of voltage (electric potential difference), named after Alessandro Volta. It measures the energy per unit charge."
+    },
+    {
+      "question": "What is the speed of sound in air at room temperature?",
+      "A": "About 340 m/s",
+      "B": "About 300 m/s",
+      "C": "About 400 m/s",
+      "D": "About 500 m/s",
+      "answer": "A",
+      "funFact": "The speed of sound in air at room temperature (20°C) is approximately 343 meters per second (about 1,125 feet per second). It varies with temperature and altitude."
+    },
+    {
+      "question": "What is inertia?",
+      "A": "The tendency of objects to resist changes in motion",
+      "B": "The force of gravity",
+      "C": "The speed of light",
+      "D": "The energy of motion",
+      "answer": "A",
+      "funFact": "Inertia is the tendency of objects to resist changes in their motion. An object at rest stays at rest, and an object in motion stays in motion, unless acted upon by a force."
+    },
+    {
+      "question": "What is the difference between mass and weight?",
+      "A": "They are the same",
+      "B": "Mass is the amount of matter, weight is the force of gravity on that matter",
+      "C": "Mass is weight divided by gravity",
+      "D": "Weight is always greater than mass",
+      "answer": "B",
+      "funFact": "Mass is the amount of matter in an object (measured in kilograms), while weight is the force of gravity acting on that mass (measured in newtons). Weight = mass × gravity."
+    },
+    {
+      "question": "What is a wave?",
+      "A": "A type of particle",
+      "B": "A disturbance that transfers energy",
+      "C": "A type of force",
+      "D": "A type of matter",
+      "answer": "B",
+      "funFact": "A wave is a disturbance that transfers energy from one place to another without transferring matter. Examples include sound waves, light waves, and water waves."
+    }
+]
+

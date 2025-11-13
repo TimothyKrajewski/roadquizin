@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who is credited with inventing the telephone?",
+      "A": "Thomas Edison",
+      "B": "Alexander Graham Bell",
+      "C": "Nikola Tesla",
+      "D": "Guglielmo Marconi",
+      "answer": "B",
+      "funFact": "Alexander Graham Bell is credited with inventing the telephone in 1876, though there were other inventors working on similar devices at the time."
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "A": "Thomas Edison",
+      "B": "Nikola Tesla",
+      "C": "Joseph Swan",
+      "D": "Both A and C developed it",
+      "answer": "D",
+      "funFact": "Thomas Edison is often credited with inventing the light bulb, but Joseph Swan also developed a working light bulb around the same time. Edison improved the design and made it commercially viable."
+    },
+    {
+      "question": "What year was the first iPhone released?",
+      "A": "2005",
+      "B": "2007",
+      "C": "2009",
+      "D": "2011",
+      "answer": "B",
+      "funFact": "The first iPhone was released by Apple on June 29, 2007, revolutionizing the smartphone industry and mobile computing."
+    },
+    {
+      "question": "Who invented the printing press?",
+      "A": "Leonardo da Vinci",
+      "B": "Johannes Gutenberg",
+      "C": "William Caxton",
+      "D": "Benjamin Franklin",
+      "answer": "B",
+      "funFact": "Johannes Gutenberg invented the movable-type printing press around 1440, revolutionizing the spread of knowledge and making books more accessible."
+    },
+    {
+      "question": "Who is credited with inventing the World Wide Web?",
+      "A": "Bill Gates",
+      "B": "Steve Jobs",
+      "C": "Tim Berners-Lee",
+      "D": "Mark Zuckerberg",
+      "answer": "C",
+      "funFact": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN, creating the first web browser and web server."
+    },
+    {
+      "question": "What did the Wright Brothers invent?",
+      "A": "The automobile",
+      "B": "The airplane",
+      "C": "The bicycle",
+      "D": "The helicopter",
+      "answer": "B",
+      "funFact": "The Wright Brothers, Orville and Wilbur, made the first successful powered flight in 1903 at Kitty Hawk, North Carolina, inventing the airplane."
+    },
+    {
+      "question": "Who invented penicillin?",
+      "A": "Louis Pasteur",
+      "B": "Alexander Fleming",
+      "C": "Robert Koch",
+      "D": "Joseph Lister",
+      "answer": "B",
+      "funFact": "Alexander Fleming discovered penicillin in 1928, the world's first antibiotic, which revolutionized medicine and saved millions of lives."
+    },
+    {
+      "question": "What did Karl Benz invent?",
+      "A": "The bicycle",
+      "B": "The motorcycle",
+      "C": "The automobile",
+      "D": "The train",
+      "answer": "C",
+      "funFact": "Karl Benz is credited with inventing the first practical automobile powered by an internal combustion engine in 1885-1886, founding what would become Mercedes-Benz."
+    },
+    {
+      "question": "Who invented the radio?",
+      "A": "Thomas Edison",
+      "B": "Guglielmo Marconi",
+      "C": "Nikola Tesla",
+      "D": "Both B and C contributed",
+      "answer": "D",
+      "funFact": "Both Guglielmo Marconi and Nikola Tesla made significant contributions to radio technology. Marconi is often credited with the first practical radio, while Tesla developed key radio technology."
+    },
+    {
+      "question": "What did James Watt improve that revolutionized industry?",
+      "A": "The steam engine",
+      "B": "The light bulb",
+      "C": "The telephone",
+      "D": "The printing press",
+      "answer": "A",
+      "funFact": "James Watt significantly improved the steam engine in the 18th century, making it more efficient and practical, which helped power the Industrial Revolution."
+    }
+]
+

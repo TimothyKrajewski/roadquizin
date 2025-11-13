@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Which state produces the most oranges?",
+      "A": "California",
+      "B": "Florida",
+      "C": "Texas",
+      "D": "Arizona",
+      "answer": "B",
+      "funFact": "Florida produces the most oranges, accounting for about 70% of all oranges grown in the United States. It's known as 'The Orange State.'"
+    },
+    {
+      "question": "Which state produces the most potatoes?",
+      "A": "Idaho",
+      "B": "Washington",
+      "C": "Wisconsin",
+      "D": "North Dakota",
+      "answer": "A",
+      "funFact": "Idaho produces the most potatoes, accounting for about 30% of all potatoes grown in the United States. It's known as 'The Potato State.'"
+    },
+    {
+      "question": "Which state produces the most apples?",
+      "A": "New York",
+      "B": "Washington",
+      "C": "Michigan",
+      "D": "Pennsylvania",
+      "answer": "B",
+      "funFact": "Washington produces the most apples, accounting for about 60% of all apples grown in the United States. The state is known for its apple orchards."
+    },
+    {
+      "question": "Which state produces the most peaches?",
+      "A": "Georgia",
+      "B": "California",
+      "C": "South Carolina",
+      "D": "New Jersey",
+      "answer": "B",
+      "funFact": "California produces the most peaches, though Georgia is known as 'The Peach State.' California's climate allows for a longer growing season."
+    },
+    {
+      "question": "Which state produces the most cranberries?",
+      "A": "Massachusetts",
+      "B": "Wisconsin",
+      "C": "New Jersey",
+      "D": "Oregon",
+      "answer": "B",
+      "funFact": "Wisconsin produces the most cranberries, accounting for about 60% of all cranberries grown in the United States. Massachusetts is second."
+    },
+    {
+      "question": "Which state produces the most maple syrup?",
+      "A": "Vermont",
+      "B": "New York",
+      "C": "Maine",
+      "D": "New Hampshire",
+      "answer": "A",
+      "funFact": "Vermont produces the most maple syrup, though the total is small compared to Canada. Vermont is known for its maple syrup production."
+    },
+    {
+      "question": "Which state produces the most cheese?",
+      "A": "Wisconsin",
+      "B": "California",
+      "C": "New York",
+      "D": "Vermont",
+      "answer": "A",
+      "funFact": "Wisconsin produces the most cheese, earning it the nickname 'America's Dairyland.' It produces about 25% of all cheese in the United States."
+    },
+    {
+      "question": "Which state produces the most honey?",
+      "A": "North Dakota",
+      "B": "South Dakota",
+      "C": "California",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "North Dakota produces the most honey, with its vast fields of clover and other flowers providing excellent forage for bees."
+    },
+    {
+      "question": "Which state produces the most cotton?",
+      "A": "Texas",
+      "B": "Georgia",
+      "C": "Mississippi",
+      "D": "Alabama",
+      "answer": "A",
+      "funFact": "Texas produces the most cotton, accounting for about 25% of all cotton grown in the United States. Cotton is an important crop in Texas."
+    },
+    {
+      "question": "Which state produces the most rice?",
+      "A": "California",
+      "B": "Arkansas",
+      "C": "Louisiana",
+      "D": "Texas",
+      "answer": "B",
+      "funFact": "Arkansas produces the most rice, accounting for about 50% of all rice grown in the United States. The state's climate and soil are ideal for rice production."
+    },
+    {
+      "question": "Which state has the most airports?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Florida",
+      "D": "Alaska",
+      "answer": "D",
+      "funFact": "Alaska has the most airports, with over 400 airports and airstrips. Many are small, remote airports that serve isolated communities."
+    },
+    {
+      "question": "Which state has the most miles of highway?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Illinois",
+      "D": "Pennsylvania",
+      "answer": "A",
+      "funFact": "Texas has the most miles of highway, with over 313,000 miles of public roads. This is due to the state's large size and population."
+    },
+    {
+      "question": "Which state has the most bridges?",
+      "A": "Pennsylvania",
+      "B": "Texas",
+      "C": "New York",
+      "D": "California",
+      "answer": "A",
+      "funFact": "Pennsylvania has the most bridges of any state, with over 25,000 bridges. This is due to its many rivers, streams, and rugged terrain."
+    },
+    {
+      "question": "Which state has the most museums?",
+      "A": "New York",
+      "B": "California",
+      "C": "Texas",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "New York has the most museums, with over 1,000 museums. New York City alone has hundreds of museums, including world-famous institutions like the Metropolitan Museum of Art."
+    },
+    {
+      "question": "Which state has the most libraries?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Illinois",
+      "answer": "A",
+      "funFact": "California has the most libraries, with over 1,100 public libraries. The state has a strong commitment to public education and literacy."
+    },
+    {
+      "question": "Which state has the most hospitals?",
+      "A": "California",
+      "B": "Texas",
+      "C": "New York",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "California has the most hospitals, with over 400 hospitals. This is due to the state's large population and commitment to healthcare."
+    },
+    {
+      "question": "Which state has the most colleges and universities?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "California has the most colleges and universities, with over 400 institutions of higher education, including the University of California system and California State University system."
+    },
+    {
+      "question": "Which state has the most professional sports teams?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "California has the most professional sports teams, with teams in all major sports leagues: NFL, NBA, MLB, NHL, MLS, and more."
+    },
+    {
+      "question": "Which state has the most national monuments?",
+      "A": "Arizona",
+      "B": "New Mexico",
+      "C": "Utah",
+      "D": "California",
+      "answer": "A",
+      "funFact": "Arizona has the most national monuments with 18, including the Grand Canyon (also a national park), Montezuma Castle, and Organ Pipe Cactus."
+    },
+    {
+      "question": "Which state has the most state parks?",
+      "A": "California",
+      "B": "New York",
+      "C": "Florida",
+      "D": "Texas",
+      "answer": "A",
+      "funFact": "California has the most state parks, with over 280 state parks and recreation areas, covering over 1.5 million acres."
+    },
+    {
+      "question": "Which state has the most wineries?",
+      "A": "California",
+      "B": "New York",
+      "C": "Washington",
+      "D": "Oregon",
+      "answer": "A",
+      "funFact": "California has the most wineries, with over 4,000 wineries. The Napa Valley and Sonoma County are world-famous wine regions."
+    },
+    {
+      "question": "Which state has the most breweries?",
+      "A": "California",
+      "B": "Colorado",
+      "C": "Washington",
+      "D": "Oregon",
+      "answer": "A",
+      "funFact": "California has the most breweries, with over 900 breweries. The state has a thriving craft beer industry."
+    },
+    {
+      "question": "Which state has the most movie theaters?",
+      "A": "California",
+      "B": "Texas",
+      "C": "New York",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "California has the most movie theaters, with over 3,000 screens. This is due to the state's large population and its role as the center of the film industry."
+    },
+    {
+      "question": "Which state has the most amusement parks?",
+      "A": "California",
+      "B": "Florida",
+      "C": "Texas",
+      "D": "Ohio",
+      "answer": "B",
+      "funFact": "Florida has the most amusement parks, including Walt Disney World, Universal Studios, SeaWorld, and many others. It's a major tourist destination."
+    },
+    {
+      "question": "Which state has the most golf courses?",
+      "A": "Florida",
+      "B": "California",
+      "C": "Texas",
+      "D": "Arizona",
+      "answer": "A",
+      "funFact": "Florida has the most golf courses, with over 1,250 golf courses. The state's warm climate allows for year-round golfing."
+    }
+]
+

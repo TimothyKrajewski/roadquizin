@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is conservation?",
+      "A": "Using up resources quickly",
+      "B": "Protecting and preserving natural resources",
+      "C": "Destroying habitats",
+      "D": "Polluting the environment",
+      "answer": "B",
+      "funFact": "Conservation is the protection and preservation of natural resources, wildlife, and habitats for future generations. It involves using resources wisely and sustainably."
+    },
+    {
+      "question": "What is recycling?",
+      "A": "Throwing things away",
+      "B": "Turning waste into new products",
+      "C": "Buying new things",
+      "D": "Using things once",
+      "answer": "B",
+      "funFact": "Recycling is the process of turning waste materials into new products. This conserves natural resources, reduces pollution, and saves energy."
+    },
+    {
+      "question": "What is the 3 R's of conservation?",
+      "A": "Read, Write, Arithmetic",
+      "B": "Reduce, Reuse, Recycle",
+      "C": "Run, Rest, Relax",
+      "D": "Red, Yellow, Blue",
+      "answer": "B",
+      "funFact": "The 3 R's of conservation are Reduce (use less), Reuse (use again), and Recycle (turn into something new). This helps protect the environment."
+    },
+    {
+      "question": "What is pollution?",
+      "A": "Clean air and water",
+      "B": "Harmful substances in the environment",
+      "C": "Protecting nature",
+      "D": "Conserving resources",
+      "answer": "B",
+      "funFact": "Pollution is harmful substances in the environment that can damage ecosystems and harm living things. Examples include air pollution, water pollution, and plastic waste."
+    },
+    {
+      "question": "What is an endangered species?",
+      "A": "A species that is very common",
+      "B": "A species at risk of extinction",
+      "C": "A type of plant",
+      "D": "A type of habitat",
+      "answer": "B",
+      "funFact": "An endangered species is a species at risk of extinction. Conservation efforts help protect these species and their habitats to prevent them from disappearing."
+    },
+    {
+      "question": "What is deforestation?",
+      "A": "Planting trees",
+      "B": "Cutting down forests",
+      "C": "Protecting forests",
+      "D": "Watering trees",
+      "answer": "B",
+      "funFact": "Deforestation is the cutting down of forests, which destroys habitats, reduces biodiversity, and contributes to climate change. Reforestation (planting trees) helps reverse this."
+    },
+    {
+      "question": "What is renewable energy?",
+      "A": "Energy that runs out",
+      "B": "Energy that can be replenished",
+      "C": "Energy from fossil fuels",
+      "D": "Energy that pollutes",
+      "answer": "B",
+      "funFact": "Renewable energy is energy from sources that can be replenished naturally, such as solar, wind, hydroelectric, and geothermal energy. It helps reduce pollution and conserve resources."
+    },
+    {
+      "question": "What is a carbon footprint?",
+      "A": "The amount of carbon dioxide you produce",
+      "B": "A type of shoe",
+      "C": "A type of plant",
+      "D": "A type of habitat",
+      "answer": "A",
+      "funFact": "A carbon footprint is the total amount of greenhouse gases (like carbon dioxide) produced by your activities. Reducing your carbon footprint helps fight climate change."
+    },
+    {
+      "question": "Why is it important to conserve water?",
+      "A": "Water is unlimited",
+      "B": "Fresh water is limited and essential for life",
+      "C": "Water is not important",
+      "D": "Water is easy to make",
+      "answer": "B",
+      "funFact": "It's important to conserve water because fresh water is limited and essential for all life. Only about 2.5% of Earth's water is fresh water, and much of it is not easily accessible."
+    },
+    {
+      "question": "What can individuals do to help conservation?",
+      "A": "Nothing",
+      "B": "Reduce, reuse, recycle",
+      "C": "Use renewable energy",
+      "D": "All of the above and more",
+      "answer": "D",
+      "funFact": "Individuals can help conservation in many ways: reduce, reuse, recycle; conserve water and energy; use renewable energy; protect wildlife; plant trees; and support conservation organizations."
+    }
+]
+

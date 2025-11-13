@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the currency of the United States?",
+      "A": "Pound",
+      "B": "Euro",
+      "C": "Dollar",
+      "D": "Yen",
+      "answer": "C",
+      "funFact": "The dollar is the currency of the United States. The dollar sign ($) is one of the most recognized currency symbols in the world."
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "A": "Euro",
+      "B": "Dollar",
+      "C": "Pound",
+      "D": "Franc",
+      "answer": "C",
+      "funFact": "The pound sterling (GBP) is the currency of the United Kingdom. It's one of the oldest currencies still in use, dating back over 1,200 years."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "A": "Won",
+      "B": "Yuan",
+      "C": "Yen",
+      "D": "Ringgit",
+      "answer": "C",
+      "funFact": "The yen is the currency of Japan. The yen symbol (¥) is used to represent Japanese currency, and it's one of the most traded currencies in the world."
+    },
+    {
+      "question": "What is the currency used by most European Union countries?",
+      "A": "Pound",
+      "B": "Dollar",
+      "C": "Euro",
+      "D": "Franc",
+      "answer": "C",
+      "funFact": "The euro is used by 19 of the 27 European Union countries. It was introduced in 1999 and is the second most traded currency in the world."
+    },
+    {
+      "question": "What is the currency of China?",
+      "A": "Yen",
+      "B": "Won",
+      "C": "Yuan",
+      "D": "Ringgit",
+      "answer": "C",
+      "funFact": "The yuan (also called renminbi) is the currency of China. It's managed by the People's Bank of China and is becoming increasingly important in global trade."
+    },
+    {
+      "question": "What is the currency of Canada?",
+      "A": "Dollar",
+      "B": "Peso",
+      "C": "Pound",
+      "D": "Euro",
+      "answer": "A",
+      "funFact": "The Canadian dollar is the currency of Canada. It's often called the 'loonie' because the one-dollar coin features a loon (a type of bird)."
+    },
+    {
+      "question": "What is the currency of Australia?",
+      "A": "Dollar",
+      "B": "Pound",
+      "C": "Euro",
+      "D": "Yen",
+      "answer": "A",
+      "funFact": "The Australian dollar is the currency of Australia. It's often called the 'Aussie' in foreign exchange markets."
+    },
+    {
+      "question": "What is the currency of Mexico?",
+      "A": "Dollar",
+      "B": "Peso",
+      "C": "Real",
+      "D": "Sol",
+      "answer": "B",
+      "funFact": "The peso is the currency of Mexico. The peso has a long history, dating back to Spanish colonial times."
+    },
+    {
+      "question": "What is the currency of India?",
+      "A": "Rupee",
+      "B": "Rupiah",
+      "C": "Ringgit",
+      "D": "Yen",
+      "answer": "A",
+      "funFact": "The rupee is the currency of India. The Indian rupee is one of the oldest currencies still in use, with origins dating back to ancient India."
+    },
+    {
+      "question": "What is the currency of Brazil?",
+      "A": "Peso",
+      "B": "Real",
+      "C": "Sol",
+      "D": "Peso",
+      "answer": "B",
+      "funFact": "The real is the currency of Brazil. The current real was introduced in 1994 to replace the previous currency and stabilize Brazil's economy."
+    }
+]
+

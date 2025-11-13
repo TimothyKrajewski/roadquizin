@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Which movie won the Academy Award for Best Picture in 1994?",
+      "A": "The Shawshank Redemption",
+      "B": "Forrest Gump",
+      "C": "Pulp Fiction",
+      "D": "The Lion King",
+      "answer": "B",
+      "funFact": "Forrest Gump won the Academy Award for Best Picture in 1994, beating out strong contenders like The Shawshank Redemption and Pulp Fiction."
+    },
+    {
+      "question": "Who directed 'The Godfather'?",
+      "A": "Martin Scorsese",
+      "B": "Francis Ford Coppola",
+      "C": "Steven Spielberg",
+      "D": "Alfred Hitchcock",
+      "answer": "B",
+      "funFact": "Francis Ford Coppola directed 'The Godfather' (1972), which is widely considered one of the greatest films ever made."
+    },
+    {
+      "question": "What is the highest-grossing film of all time (as of 2021)?",
+      "A": "Avatar",
+      "B": "Avengers: Endgame",
+      "C": "Titanic",
+      "D": "Star Wars: The Force Awakens",
+      "answer": "A",
+      "funFact": "Avatar (2009) is the highest-grossing film of all time, earning over $2.8 billion worldwide, though Avengers: Endgame came close."
+    },
+    {
+      "question": "In which movie does the character say 'May the Force be with you'?",
+      "A": "Star Trek",
+      "B": "Star Wars",
+      "C": "The Matrix",
+      "D": "Blade Runner",
+      "answer": "B",
+      "funFact": "'May the Force be with you' is the iconic phrase from the Star Wars franchise, first spoken in the original 1977 film."
+    },
+    {
+      "question": "Who played Jack in 'Titanic'?",
+      "A": "Brad Pitt",
+      "B": "Tom Cruise",
+      "C": "Leonardo DiCaprio",
+      "D": "Johnny Depp",
+      "answer": "C",
+      "funFact": "Leonardo DiCaprio played Jack Dawson in Titanic (1997), which became one of the highest-grossing films of all time."
+    },
+    {
+      "question": "What is the name of the fictional city in 'The Dark Knight'?",
+      "A": "Metropolis",
+      "B": "Gotham City",
+      "C": "Star City",
+      "D": "Central City",
+      "answer": "B",
+      "funFact": "Gotham City is the fictional city where Batman operates, featured prominently in The Dark Knight (2008) and other Batman films."
+    },
+    {
+      "question": "Which animated film features the song 'Let It Go'?",
+      "A": "Moana",
+      "B": "Frozen",
+      "C": "Tangled",
+      "D": "Brave",
+      "answer": "B",
+      "funFact": "'Let It Go' is the signature song from Frozen (2013), performed by Idina Menzel as Elsa, and won the Academy Award for Best Original Song."
+    },
+    {
+      "question": "Who directed 'Inception'?",
+      "A": "Christopher Nolan",
+      "B": "Quentin Tarantino",
+      "C": "David Fincher",
+      "D": "Ridley Scott",
+      "answer": "A",
+      "funFact": "Christopher Nolan directed Inception (2010), a mind-bending science fiction film known for its complex narrative and visual effects."
+    },
+    {
+      "question": "What is the name of the shark in 'Jaws'?",
+      "A": "Bruce",
+      "B": "Jaws",
+      "C": "The shark has no name",
+      "D": "Sharky",
+      "answer": "C",
+      "funFact": "The shark in Jaws (1975) doesn't have a name in the film, though the mechanical shark used during filming was nicknamed 'Bruce' by the crew."
+    },
+    {
+      "question": "Which movie features the line 'Here's looking at you, kid'?",
+      "A": "Casablanca",
+      "B": "Gone with the Wind",
+      "C": "Citizen Kane",
+      "D": "The Maltese Falcon",
+      "answer": "A",
+      "funFact": "'Here's looking at you, kid' is one of the most famous lines from Casablanca (1942), spoken by Humphrey Bogart's character Rick to Ingrid Bergman's Ilsa."
+    }
+]
+

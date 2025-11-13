@@ -1,0 +1,183 @@
+[
+    {
+      "question": "Who was the first Disney Princess?",
+      "A": "Cinderella",
+      "B": "Snow White",
+      "C": "Aurora",
+      "D": "Belle",
+      "answer": "B",
+      "funFact": "Snow White was the first Disney Princess, appearing in Snow White and the Seven Dwarfs in 1937. She's the original Disney princess and set the standard for all future princesses."
+    },
+    {
+      "question": "What is the name of the princess who sleeps for 100 years?",
+      "A": "Snow White",
+      "B": "Cinderella",
+      "C": "Aurora",
+      "D": "Belle",
+      "answer": "C",
+      "funFact": "Aurora, also known as Sleeping Beauty, is the princess who pricks her finger on a spinning wheel and sleeps for 100 years until true love's kiss awakens her."
+    },
+    {
+      "question": "What is the name of the princess who loses her glass slipper?",
+      "A": "Snow White",
+      "B": "Cinderella",
+      "C": "Aurora",
+      "D": "Belle",
+      "answer": "B",
+      "funFact": "Cinderella is the princess who loses her glass slipper at the ball. The prince uses it to find her, and they live happily ever after."
+    },
+    {
+      "question": "What is the name of the princess who trades her voice for legs?",
+      "A": "Ariel",
+      "B": "Belle",
+      "C": "Jasmine",
+      "D": "Pocahontas",
+      "answer": "A",
+      "funFact": "Ariel is the mermaid princess who trades her voice to the sea witch Ursula for legs so she can be with the human prince she loves."
+    },
+    {
+      "question": "What is the name of the princess who loves to read?",
+      "A": "Belle",
+      "B": "Ariel",
+      "C": "Jasmine",
+      "D": "Tiana",
+      "answer": "A",
+      "funFact": "Belle is the book-loving princess who falls in love with the Beast in Beauty and the Beast. She's known for her love of reading and her independent spirit."
+    },
+    {
+      "question": "What is the name of the princess who is trapped in a tower?",
+      "A": "Rapunzel",
+      "B": "Ariel",
+      "C": "Belle",
+      "D": "Jasmine",
+      "answer": "A",
+      "funFact": "Rapunzel is the princess with 70 feet of magical hair who is trapped in a tower by Mother Gothel in Tangled. She dreams of seeing the floating lanterns."
+    },
+    {
+      "question": "What is the name of the princess who wants to open a restaurant?",
+      "A": "Tiana",
+      "B": "Belle",
+      "C": "Ariel",
+      "D": "Jasmine",
+      "answer": "A",
+      "funFact": "Tiana is Disney's first African American princess who dreams of opening her own restaurant in New Orleans. She's hardworking and determined."
+    },
+    {
+      "question": "What is the name of the princess who has ice powers?",
+      "A": "Elsa",
+      "B": "Anna",
+      "C": "Moana",
+      "D": "Merida",
+      "answer": "A",
+      "funFact": "Elsa is the ice queen with magical ice powers in Frozen. She becomes queen of Arendelle and learns to control her powers with love."
+    },
+    {
+      "question": "What is the name of the princess who sets sail to save her people?",
+      "A": "Moana",
+      "B": "Elsa",
+      "C": "Anna",
+      "D": "Merida",
+      "answer": "A",
+      "funFact": "Moana is the Polynesian princess who sets sail across the ocean to save her people and restore the heart of Te Fiti. She's a skilled navigator."
+    },
+    {
+      "question": "What is the name of the princess who is skilled with a bow and arrow?",
+      "A": "Merida",
+      "B": "Moana",
+      "C": "Elsa",
+      "D": "Anna",
+      "answer": "A",
+      "funFact": "Merida is the Scottish princess in Brave who is skilled with a bow and arrow. She's known for her wild red hair and her independent spirit."
+    },
+    {
+      "question": "What is the name of the princess who disguises herself as a man?",
+      "A": "Mulan",
+      "B": "Pocahontas",
+      "C": "Jasmine",
+      "D": "Tiana",
+      "answer": "A",
+      "funFact": "Mulan is the Chinese warrior who disguises herself as a man to take her father's place in the army. She saves China and becomes a hero."
+    },
+    {
+      "question": "What is the name of the princess who is based on a Native American woman?",
+      "A": "Pocahontas",
+      "B": "Mulan",
+      "C": "Jasmine",
+      "D": "Tiana",
+      "answer": "A",
+      "funFact": "Pocahontas is based on the historical Native American woman. The film features the song 'Colors of the Wind' and celebrates Native American culture."
+    },
+    {
+      "question": "What is the name of the princess who is from Agrabah?",
+      "A": "Jasmine",
+      "B": "Belle",
+      "C": "Ariel",
+      "D": "Tiana",
+      "answer": "A",
+      "funFact": "Jasmine is the princess of Agrabah in Aladdin. She's known for her independent spirit and her desire to marry for love, not status."
+    },
+    {
+      "question": "What is the name of the princess who doesn't have magical powers in Encanto?",
+      "A": "Mirabel",
+      "B": "Isabela",
+      "C": "Luisa",
+      "D": "None of them are princesses",
+      "answer": "D",
+      "funFact": "The characters in Encanto are not officially Disney Princesses, though Mirabel is the main character. The Disney Princess lineup consists of specific characters."
+    },
+    {
+      "question": "What is the name of the princess who is the sister of Elsa?",
+      "A": "Anna",
+      "B": "Elsa",
+      "C": "Moana",
+      "D": "Merida",
+      "answer": "A",
+      "funFact": "Anna is Elsa's younger sister in Frozen. She's optimistic, adventurous, and will do anything to save her sister and their kingdom."
+    },
+    {
+      "question": "What is the name of the princess who has seven dwarfs as friends?",
+      "A": "Snow White",
+      "B": "Cinderella",
+      "C": "Aurora",
+      "D": "Belle",
+      "answer": "A",
+      "funFact": "Snow White is the princess who befriends seven dwarfs: Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, and Dopey. They help protect her from the Evil Queen."
+    },
+    {
+      "question": "What is the name of the princess who has a fairy godmother?",
+      "A": "Snow White",
+      "B": "Cinderella",
+      "C": "Aurora",
+      "D": "Belle",
+      "answer": "B",
+      "funFact": "Cinderella has a fairy godmother who transforms her rags into a beautiful ball gown and a pumpkin into a carriage so she can attend the ball."
+    },
+    {
+      "question": "What is the name of the princess who has three fairy godmothers?",
+      "A": "Snow White",
+      "B": "Cinderella",
+      "C": "Aurora",
+      "D": "Belle",
+      "answer": "C",
+      "funFact": "Aurora has three fairy godmothers: Flora (red), Fauna (green), and Merryweather (blue). They raise her in the forest to protect her from Maleficent's curse."
+    },
+    {
+      "question": "What is the name of the princess who has a pet tiger?",
+      "A": "Jasmine",
+      "B": "Belle",
+      "C": "Ariel",
+      "D": "Tiana",
+      "answer": "A",
+      "funFact": "Jasmine has a pet tiger named Rajah in Aladdin. Rajah is protective of Jasmine and helps her throughout her adventures."
+    },
+    {
+      "question": "What is the name of the princess who has a pet chameleon?",
+      "A": "Rapunzel",
+      "B": "Ariel",
+      "C": "Belle",
+      "D": "Jasmine",
+      "answer": "A",
+      "funFact": "Rapunzel has a pet chameleon named Pascal in Tangled. Pascal is her loyal companion and helps her throughout her journey."
+    }
+]
+

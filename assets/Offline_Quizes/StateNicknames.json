@@ -1,0 +1,228 @@
+[
+    {
+      "question": "What is the nickname of California?",
+      "A": "The Golden State",
+      "B": "The Sunshine State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "California is known as 'The Golden State' because of the California Gold Rush of 1849 and the golden poppies that bloom in the spring."
+    },
+    {
+      "question": "What is the nickname of Florida?",
+      "A": "The Golden State",
+      "B": "The Sunshine State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "B",
+      "funFact": "Florida is known as 'The Sunshine State' because of its warm, sunny climate. It's also called 'The Alligator State' and 'The Orange State.'"
+    },
+    {
+      "question": "What is the nickname of Texas?",
+      "A": "The Lone Star State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Texas is known as 'The Lone Star State' because of the single star on its flag, which represents Texas as an independent republic before joining the United States."
+    },
+    {
+      "question": "What is the nickname of New York?",
+      "A": "The Empire State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "New York is known as 'The Empire State,' a nickname that may have originated from George Washington's reference to New York as 'the seat of the empire.'"
+    },
+    {
+      "question": "What is the nickname of New Jersey?",
+      "A": "The Golden State",
+      "B": "The Sunshine State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "D",
+      "funFact": "New Jersey is known as 'The Garden State' because of its agricultural productivity. It's also called 'The Crossroads of the Revolution.'"
+    },
+    {
+      "question": "What is the nickname of Nevada?",
+      "A": "The Golden State",
+      "B": "The Sunshine State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "C",
+      "funFact": "Nevada is known as 'The Silver State' because of the silver mining that was important to its early economy. It's also called 'The Sagebrush State' and 'Battle Born State.'"
+    },
+    {
+      "question": "What is the nickname of Arizona?",
+      "A": "The Grand Canyon State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Arizona is known as 'The Grand Canyon State' because the Grand Canyon, one of the world's natural wonders, is located there. It's also called 'The Copper State.'"
+    },
+    {
+      "question": "What is the nickname of Alaska?",
+      "A": "The Last Frontier",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Alaska is known as 'The Last Frontier' because of its vast wilderness and relatively undeveloped areas. It's also called 'The Land of the Midnight Sun.'"
+    },
+    {
+      "question": "What is the nickname of Hawaii?",
+      "A": "The Aloha State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Hawaii is known as 'The Aloha State' because 'aloha' is a Hawaiian word meaning hello, goodbye, and love. It's also called 'The Paradise of the Pacific.'"
+    },
+    {
+      "question": "What is the nickname of Maine?",
+      "A": "The Pine Tree State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Maine is known as 'The Pine Tree State' because of its many pine forests. It's also called 'Vacationland' and 'The Lumber State.'"
+    },
+    {
+      "question": "What is the nickname of Vermont?",
+      "A": "The Green Mountain State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Vermont is known as 'The Green Mountain State' because of the Green Mountains that run through the state. The name 'Vermont' itself means 'green mountain' in French."
+    },
+    {
+      "question": "What is the nickname of New Hampshire?",
+      "A": "The Granite State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "New Hampshire is known as 'The Granite State' because of its extensive granite quarries. It's also called 'The Live Free or Die State' after its state motto."
+    },
+    {
+      "question": "What is the nickname of Massachusetts?",
+      "A": "The Bay State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Massachusetts is known as 'The Bay State' because of the several large bays along its coast, including Massachusetts Bay and Cape Cod Bay."
+    },
+    {
+      "question": "What is the nickname of Rhode Island?",
+      "A": "The Ocean State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Rhode Island is known as 'The Ocean State' because of its extensive coastline and maritime history, despite being the smallest state."
+    },
+    {
+      "question": "What is the nickname of Connecticut?",
+      "A": "The Constitution State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Connecticut is known as 'The Constitution State' because it's believed that the Fundamental Orders of Connecticut (1639) was the first written constitution in America."
+    },
+    {
+      "question": "What is the nickname of Pennsylvania?",
+      "A": "The Keystone State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Pennsylvania is known as 'The Keystone State' because it was the 'keystone' (central stone) in the arch of the original 13 colonies, holding them together."
+    },
+    {
+      "question": "What is the nickname of Delaware?",
+      "A": "The First State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Delaware is known as 'The First State' because it was the first state to ratify the U.S. Constitution on December 7, 1787. It's also called 'The Diamond State.'"
+    },
+    {
+      "question": "What is the nickname of Maryland?",
+      "A": "The Old Line State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Maryland is known as 'The Old Line State' in honor of its 'Old Line' - the regular Maryland troops who fought bravely during the Revolutionary War."
+    },
+    {
+      "question": "What is the nickname of Virginia?",
+      "A": "The Old Dominion",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Virginia is known as 'The Old Dominion' because it was the first English colony in America and was called a 'dominion' by King Charles II. It's also called 'The Mother of Presidents.'"
+    },
+    {
+      "question": "What is the nickname of North Carolina?",
+      "A": "The Tar Heel State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "North Carolina is known as 'The Tar Heel State' because of its historical production of tar, pitch, and turpentine from pine trees. The nickname may also refer to soldiers who stuck to their posts like tar on heels."
+    },
+    {
+      "question": "What is the nickname of South Carolina?",
+      "A": "The Palmetto State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "South Carolina is known as 'The Palmetto State' because of the palmetto tree on its state flag. The palmetto was used to build Fort Moultrie during the Revolutionary War."
+    },
+    {
+      "question": "What is the nickname of Georgia?",
+      "A": "The Peach State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Georgia is known as 'The Peach State' because of its production of peaches. It's also called 'The Empire State of the South' and 'The Goober State' (for peanuts)."
+    },
+    {
+      "question": "What is the nickname of Tennessee?",
+      "A": "The Volunteer State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Tennessee is known as 'The Volunteer State' because of the large number of Tennesseans who volunteered to fight in the War of 1812 and the Mexican-American War."
+    },
+    {
+      "question": "What is the nickname of Kentucky?",
+      "A": "The Bluegrass State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Kentucky is known as 'The Bluegrass State' because of the bluegrass that grows in its central region. The grass isn't actually blue, but has bluish-purple buds."
+    },
+    {
+      "question": "What is the nickname of Ohio?",
+      "A": "The Buckeye State",
+      "B": "The Golden State",
+      "C": "The Silver State",
+      "D": "The Garden State",
+      "answer": "A",
+      "funFact": "Ohio is known as 'The Buckeye State' because of the buckeye trees that grow there. The buckeye nut resembles the eye of a deer, and Ohioans are called 'Buckeyes.'"
+    }
+]
+

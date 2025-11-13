@@ -1,0 +1,318 @@
+[
+    {
+      "question": "Who was the first President of the United States?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "George Washington",
+      "D": "Benjamin Franklin",
+      "answer": "C",
+      "funFact": "George Washington was the first President of the United States, serving from 1789 to 1797. He's known as the 'Father of His Country' and set many precedents for the office."
+    },
+    {
+      "question": "Who was the first President to be born in the United States?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "Martin Van Buren",
+      "answer": "D",
+      "funFact": "Martin Van Buren was the first President born in the United States (in 1782). All previous Presidents were born before American independence in British colonies."
+    },
+    {
+      "question": "Who was the first President to be impeached?",
+      "A": "Andrew Johnson",
+      "B": "Richard Nixon",
+      "C": "Bill Clinton",
+      "D": "Donald Trump",
+      "answer": "A",
+      "funFact": "Andrew Johnson was the first President to be impeached in 1868, though he was acquitted by one vote. He was impeached for violating the Tenure of Office Act."
+    },
+    {
+      "question": "Who was the first President to die in office?",
+      "A": "William Henry Harrison",
+      "B": "Zachary Taylor",
+      "C": "Abraham Lincoln",
+      "D": "James A. Garfield",
+      "answer": "A",
+      "funFact": "William Henry Harrison was the first President to die in office, passing away in 1841 just 31 days after his inauguration. He caught pneumonia during his lengthy inaugural address in cold weather."
+    },
+    {
+      "question": "Who was the first President to be assassinated?",
+      "A": "William Henry Harrison",
+      "B": "Zachary Taylor",
+      "C": "Abraham Lincoln",
+      "D": "James A. Garfield",
+      "answer": "C",
+      "funFact": "Abraham Lincoln was the first President to be assassinated, shot by John Wilkes Booth at Ford's Theatre on April 14, 1865, and died the next day."
+    },
+    {
+      "question": "Who was the first President to serve more than two terms?",
+      "A": "Theodore Roosevelt",
+      "B": "Franklin D. Roosevelt",
+      "C": "Ulysses S. Grant",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was elected to four terms (1933-1945), the only President to serve more than two terms. The 22nd Amendment now limits Presidents to two terms."
+    },
+    {
+      "question": "Who was the first President to have his photograph taken?",
+      "A": "William Henry Harrison",
+      "B": "John Tyler",
+      "C": "James K. Polk",
+      "D": "Zachary Taylor",
+      "answer": "B",
+      "funFact": "John Tyler was the first President to have his photograph taken, though the first photograph of a sitting President was of James K. Polk in 1849."
+    },
+    {
+      "question": "Who was the first President to have a telephone in the White House?",
+      "A": "Rutherford B. Hayes",
+      "B": "James A. Garfield",
+      "C": "Chester A. Arthur",
+      "D": "Grover Cleveland",
+      "answer": "A",
+      "funFact": "Rutherford B. Hayes was the first President to have a telephone in the White House, installed in 1877. The first phone number was simply '1'."
+    },
+    {
+      "question": "Who was the first President to ride in an automobile?",
+      "A": "William McKinley",
+      "B": "Theodore Roosevelt",
+      "C": "William Howard Taft",
+      "D": "Woodrow Wilson",
+      "answer": "A",
+      "funFact": "William McKinley was the first President to ride in an automobile in 1901, though Theodore Roosevelt was the first to ride in one as President."
+    },
+    {
+      "question": "Who was the first President to fly in an airplane?",
+      "A": "Theodore Roosevelt",
+      "B": "William Howard Taft",
+      "C": "Woodrow Wilson",
+      "D": "Franklin D. Roosevelt",
+      "answer": "D",
+      "funFact": "Franklin D. Roosevelt was the first President to fly in an airplane, traveling by air to the Casablanca Conference in 1943 during World War II."
+    },
+    {
+      "question": "Who was the first President to appear on television?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was the first President to appear on television, giving a speech at the 1939 World's Fair in New York, though regular TV broadcasts began later."
+    },
+    {
+      "question": "Who was the first President to have a press conference broadcast on television?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "B",
+      "funFact": "Dwight D. Eisenhower was the first President to have a press conference broadcast on television in 1955, though it was filmed and edited before broadcast."
+    },
+    {
+      "question": "Who was the first President to have a live televised press conference?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy was the first President to have a live televised press conference in 1961. His charisma and communication skills made him very effective on television."
+    },
+    {
+      "question": "Who was the first President to use email?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "C",
+      "funFact": "Bill Clinton was the first President to use email, sending an email in 1994. However, he only sent two emails during his presidency, and they were both test messages."
+    },
+    {
+      "question": "Who was the first President to have a website?",
+      "A": "George H.W. Bush",
+      "B": "Bill Clinton",
+      "C": "George W. Bush",
+      "D": "Barack Obama",
+      "answer": "B",
+      "funFact": "Bill Clinton was the first President to have an official White House website, launched in 1994. The website has since become an important communication tool."
+    },
+    {
+      "question": "Who was the first President to use social media extensively?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Donald Trump",
+      "D": "Joe Biden",
+      "answer": "B",
+      "funFact": "Barack Obama was the first President to use social media extensively, particularly Twitter and Facebook, to communicate directly with the American people."
+    },
+    {
+      "question": "Who was the first President to visit all 50 states?",
+      "A": "Richard Nixon",
+      "B": "Gerald Ford",
+      "C": "Jimmy Carter",
+      "D": "Ronald Reagan",
+      "answer": "A",
+      "funFact": "Richard Nixon was the first President to visit all 50 states, completing this achievement in 1974. He visited Alaska and Hawaii, the last two states, during his presidency."
+    },
+    {
+      "question": "Who was the first President to be born in a hospital?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "A",
+      "funFact": "Jimmy Carter was the first President to be born in a hospital (in 1924). All previous Presidents were born at home or in other locations."
+    },
+    {
+      "question": "Who was the first President to be born west of the Mississippi River?",
+      "A": "Herbert Hoover",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "Lyndon B. Johnson",
+      "answer": "A",
+      "funFact": "Herbert Hoover was the first President to be born west of the Mississippi River, born in West Branch, Iowa, in 1874."
+    },
+    {
+      "question": "Who was the first President to be born in the 20th century?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "A",
+      "funFact": "John F. Kennedy was the first President to be born in the 20th century, born in 1917. All previous Presidents were born in the 19th century."
+    },
+    {
+      "question": "Who was the first President to have a middle name?",
+      "A": "John Quincy Adams",
+      "B": "Andrew Jackson",
+      "C": "Martin Van Buren",
+      "D": "William Henry Harrison",
+      "answer": "A",
+      "funFact": "John Quincy Adams was the first President to have a middle name (Quincy). Many early Presidents had only first and last names."
+    },
+    {
+      "question": "Who was the first President to have a college degree?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "James Madison",
+      "answer": "B",
+      "funFact": "John Adams was the first President to have a college degree, graduating from Harvard in 1755. George Washington did not attend college."
+    },
+    {
+      "question": "Who was the first President to have a PhD?",
+      "A": "Woodrow Wilson",
+      "B": "Herbert Hoover",
+      "C": "Jimmy Carter",
+      "D": "Barack Obama",
+      "answer": "A",
+      "funFact": "Woodrow Wilson was the first President to have a PhD, earning his doctorate in political science from Johns Hopkins University in 1886."
+    },
+    {
+      "question": "Who was the first President to be a Rhodes Scholar?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Joe Biden",
+      "answer": "A",
+      "funFact": "Bill Clinton was the first President to be a Rhodes Scholar, studying at Oxford University in England. He's one of only a few U.S. Presidents to study abroad."
+    },
+    {
+      "question": "Who was the first President to win a Nobel Peace Prize?",
+      "A": "Theodore Roosevelt",
+      "B": "Woodrow Wilson",
+      "C": "Jimmy Carter",
+      "D": "Barack Obama",
+      "answer": "A",
+      "funFact": "Theodore Roosevelt was the first President to win a Nobel Peace Prize in 1906 for mediating the end of the Russo-Japanese War. He's the only President to win it while in office."
+    },
+    {
+      "question": "Who was the first President to win a Pulitzer Prize?",
+      "A": "John F. Kennedy",
+      "B": "Jimmy Carter",
+      "C": "Bill Clinton",
+      "D": "Barack Obama",
+      "answer": "A",
+      "funFact": "John F. Kennedy won a Pulitzer Prize in 1957 for his book 'Profiles in Courage,' making him the only President to win a Pulitzer Prize."
+    },
+    {
+      "question": "Who was the first President to have been a movie actor?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "Donald Trump",
+      "answer": "A",
+      "funFact": "Ronald Reagan was the first President to have been a professional movie actor, appearing in over 50 films before entering politics."
+    },
+    {
+      "question": "Who was the first President to have been a governor?",
+      "A": "Thomas Jefferson",
+      "B": "James Monroe",
+      "C": "Martin Van Buren",
+      "D": "John Tyler",
+      "answer": "C",
+      "funFact": "Martin Van Buren was the first President to have been a governor, serving as Governor of New York before becoming Vice President and then President."
+    },
+    {
+      "question": "Who was the first President to have been a senator?",
+      "A": "John Quincy Adams",
+      "B": "Andrew Jackson",
+      "C": "Martin Van Buren",
+      "D": "William Henry Harrison",
+      "answer": "A",
+      "funFact": "John Quincy Adams was the first President to have been a U.S. Senator, though he served only briefly before resigning. Many Presidents have served in the Senate."
+    },
+    {
+      "question": "Who was the first President to have been Speaker of the House?",
+      "A": "James K. Polk",
+      "B": "Millard Fillmore",
+      "C": "James Buchanan",
+      "D": "None have been Speaker",
+      "answer": "A",
+      "funFact": "James K. Polk was the first and only President to have been Speaker of the House of Representatives, serving from 1835 to 1839."
+    },
+    {
+      "question": "Who was the first President to have been Secretary of State?",
+      "A": "Thomas Jefferson",
+      "B": "James Madison",
+      "C": "James Monroe",
+      "D": "John Quincy Adams",
+      "answer": "A",
+      "funFact": "Thomas Jefferson was the first President to have been Secretary of State, serving under George Washington from 1790 to 1793. Many early Presidents served as Secretary of State."
+    },
+    {
+      "question": "Who was the first President to have been Vice President?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "Martin Van Buren",
+      "D": "John Tyler",
+      "answer": "A",
+      "funFact": "John Adams was the first President to have been Vice President, serving as George Washington's Vice President from 1789 to 1797 before becoming President."
+    },
+    {
+      "question": "Who was the first President to succeed to the office from Vice President?",
+      "A": "John Tyler",
+      "B": "Millard Fillmore",
+      "C": "Andrew Johnson",
+      "D": "Chester A. Arthur",
+      "answer": "A",
+      "funFact": "John Tyler was the first Vice President to succeed to the presidency upon the death of a President (William Henry Harrison in 1841). This established the precedent for presidential succession."
+    },
+    {
+      "question": "Who was the first President to be elected without winning the popular vote?",
+      "A": "John Quincy Adams",
+      "B": "Rutherford B. Hayes",
+      "C": "Benjamin Harrison",
+      "D": "George W. Bush",
+      "answer": "A",
+      "funFact": "John Quincy Adams was the first President to be elected without winning the popular vote in 1824. The election was decided by the House of Representatives."
+    },
+    {
+      "question": "Who was the first President to serve two non-consecutive terms?",
+      "A": "Grover Cleveland",
+      "B": "Benjamin Harrison",
+      "C": "William McKinley",
+      "D": "Theodore Roosevelt",
+      "answer": "A",
+      "funFact": "Grover Cleveland is the only President to serve two non-consecutive terms (1885-1889 and 1893-1897), making him both the 22nd and 24th President."
+    }
+]
+

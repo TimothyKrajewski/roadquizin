@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What new weapons were used in World War I?",
+      "A": "Machine guns, poison gas, tanks",
+      "B": "First modern warfare",
+      "C": "Both A and B",
+      "D": "Only rifles",
+      "answer": "C",
+      "funFact": "World War I saw the first use of modern weapons like machine guns, poison gas, tanks, and aircraft in combat."
+    },
+    {
+      "question": "What was the machine gun?",
+      "A": "Revolutionary weapon",
+      "B": "Caused massive casualties",
+      "C": "Both A and B",
+      "D": "Ineffective",
+      "answer": "C",
+      "funFact": "The machine gun was a revolutionary weapon that caused massive casualties. It made frontal assaults extremely costly."
+    },
+    {
+      "question": "What was poison gas?",
+      "A": "First used at Ypres",
+      "B": "Chlorine, mustard gas",
+      "C": "Both A and B",
+      "D": "Never used",
+      "answer": "C",
+      "funFact": "Poison gas was first used at the Second Battle of Ypres (1915). Types included chlorine, phosgene, and mustard gas."
+    },
+    {
+      "question": "What were tanks?",
+      "A": "First used at the Somme",
+      "B": "1916, new weapon",
+      "C": "Both A and B",
+      "D": "Never used",
+      "answer": "C",
+      "funFact": "Tanks were first used at the Battle of the Somme (1916). They were designed to break through trench lines."
+    },
+    {
+      "question": "What was aircraft in World War I?",
+      "A": "Used for reconnaissance",
+      "B": "Fighter planes developed",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Aircraft were used for reconnaissance and combat. World War I saw the development of fighter planes and aerial combat."
+    },
+    {
+      "question": "What was the submarine in World War I?",
+      "A": "U-boats",
+      "B": "Unrestricted warfare",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "German U-boats (submarines) used unrestricted warfare, sinking ships without warning, which helped bring the US into the war."
+    },
+    {
+      "question": "What was radar in World War II?",
+      "A": "Detect aircraft and ships",
+      "B": "Crucial for defense",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Radar was developed to detect aircraft and ships. It was crucial for defense, especially during the Battle of Britain."
+    },
+    {
+      "question": "What was the atomic bomb?",
+      "A": "First used in 1945",
+      "B": "Hiroshima and Nagasaki",
+      "C": "Both A and B",
+      "D": "Never used",
+      "answer": "C",
+      "funFact": "The atomic bomb was first used in 1945 on Hiroshima and Nagasaki, ending World War II and beginning the atomic age."
+    },
+    {
+      "question": "What was rocket technology?",
+      "A": "V-2 rockets",
+      "B": "Led to space race",
+      "C": "Both A and B",
+      "D": "Not developed",
+      "answer": "C",
+      "funFact": "Rocket technology advanced with German V-2 rockets. This technology later led to the space race."
+    },
+    {
+      "question": "What was the jet engine?",
+      "A": "Developed during war",
+      "B": "Faster aircraft",
+      "C": "Both A and B",
+      "D": "Not developed",
+      "answer": "C",
+      "funFact": "The jet engine was developed during World War II, leading to faster aircraft and the jet age."
+    },
+    {
+      "question": "What was codebreaking?",
+      "A": "Breaking enemy codes",
+      "B": "Enigma, Ultra",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Codebreaking was crucial, with the Allies breaking German Enigma codes (Ultra) and Japanese codes, providing vital intelligence."
+    },
+    {
+      "question": "What was penicillin?",
+      "A": "Antibiotic",
+      "B": "Saved many lives",
+      "C": "Both A and B",
+      "D": "Not developed",
+      "answer": "C",
+      "funFact": "Penicillin was developed during World War II and saved many lives by treating infections that would have been fatal."
+    },
+    {
+      "question": "What was the impact on medicine?",
+      "A": "Advances in treatment",
+      "B": "Blood transfusions, surgery",
+      "C": "Both A and B",
+      "D": "No advances",
+      "answer": "C",
+      "funFact": "Both wars led to advances in medicine, including better treatment of wounds, blood transfusions, and surgical techniques."
+    },
+    {
+      "question": "What was the impact on communication?",
+      "A": "Radio, telegraph",
+      "B": "Better coordination",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "Communication improved with radio and telegraph, allowing better coordination of military operations."
+    },
+    {
+      "question": "What was the impact on transportation?",
+      "A": "Better vehicles",
+      "B": "Trucks, jeeps",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "Transportation improved with better vehicles like trucks and jeeps, making military logistics more efficient."
+    },
+    {
+      "question": "What was the impact on industry?",
+      "A": "Mass production",
+      "B": "War economy",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "Industry developed mass production techniques and war economies, producing weapons and supplies on a massive scale."
+    },
+    {
+      "question": "What was the legacy of technology?",
+      "A": "Changed warfare",
+      "B": "Led to modern technology",
+      "C": "Both A and B",
+      "D": "No legacy",
+      "answer": "C",
+      "funFact": "The technology developed during both wars changed warfare forever and led to many modern technologies we use today."
+    },
+    {
+      "question": "What was the ethical concern?",
+      "A": "New weapons more destructive",
+      "B": "Atomic bomb especially",
+      "C": "Both A and B",
+      "D": "No concerns",
+      "answer": "C",
+      "funFact": "New weapons were more destructive, raising ethical concerns, especially with the atomic bomb and its potential for mass destruction."
+    },
+    {
+      "question": "What was the dual use?",
+      "A": "Military tech used for peace",
+      "B": "Radar, jets, computers",
+      "C": "Both A and B",
+      "D": "Only military",
+      "answer": "C",
+      "funFact": "Many military technologies were later used for peaceful purposes, including radar, jet engines, and computers."
+    },
+    {
+      "question": "What was the overall impact?",
+      "A": "Accelerated technological progress",
+      "B": "Changed the world",
+      "C": "Both A and B",
+      "D": "No impact",
+      "answer": "C",
+      "funFact": "Both wars accelerated technological progress and changed the world, leading to the modern technological age we live in today."
+    }
+]
+

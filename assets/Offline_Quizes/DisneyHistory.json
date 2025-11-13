@@ -1,0 +1,183 @@
+[
+    {
+      "question": "When was The Walt Disney Company founded?",
+      "A": "1920",
+      "B": "1923",
+      "C": "1926",
+      "D": "1928",
+      "answer": "B",
+      "funFact": "The Walt Disney Company was founded on October 16, 1923, by Walt and Roy Disney. It was originally called the Disney Brothers Studio."
+    },
+    {
+      "question": "What was the name of Walt Disney's first successful cartoon character?",
+      "A": "Mickey Mouse",
+      "B": "Oswald the Lucky Rabbit",
+      "C": "Oswald the Lucky Rabbit (but he lost the rights)",
+      "D": "Both B and C",
+      "answer": "D",
+      "funFact": "Oswald the Lucky Rabbit was Walt Disney's first successful character, but he lost the rights to Universal Pictures. This led him to create Mickey Mouse."
+    },
+    {
+      "question": "What was the name of Mickey Mouse's first cartoon?",
+      "A": "Steamboat Willie",
+      "B": "Plane Crazy",
+      "C": "The Gallopin' Gaucho",
+      "D": "Mickey's Follies",
+      "answer": "A",
+      "funFact": "Steamboat Willie, released in 1928, was Mickey Mouse's first cartoon with synchronized sound. It's considered Mickey's official debut and was a huge success."
+    },
+    {
+      "question": "What year was Mickey Mouse created?",
+      "A": "1926",
+      "B": "1927",
+      "C": "1928",
+      "D": "1929",
+      "answer": "C",
+      "funFact": "Mickey Mouse was created in 1928 by Walt Disney and Ub Iwerks. He made his debut in Steamboat Willie on November 18, 1928."
+    },
+    {
+      "question": "What was the name of Walt Disney's first full-length animated feature?",
+      "A": "Pinocchio",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Fantasia",
+      "D": "Dumbo",
+      "answer": "B",
+      "funFact": "Snow White and the Seven Dwarfs, released in 1937, was Walt Disney's first full-length animated feature. It was a huge risk but became a massive success."
+    },
+    {
+      "question": "What year did Walt Disney die?",
+      "A": "1964",
+      "B": "1965",
+      "C": "1966",
+      "D": "1967",
+      "answer": "C",
+      "funFact": "Walt Disney died on December 15, 1966, from lung cancer. He was 65 years old and never saw Walt Disney World completed."
+    },
+    {
+      "question": "What was the name of Walt Disney's brother who co-founded the company?",
+      "A": "Roy Disney",
+      "B": "Ray Disney",
+      "C": "Herb Disney",
+      "D": "Elias Disney",
+      "answer": "A",
+      "funFact": "Roy O. Disney was Walt's older brother and business partner. He co-founded the Disney Brothers Studio and later became the company's CEO after Walt's death."
+    },
+    {
+      "question": "What was the name of the first Disney television show?",
+      "A": "The Mickey Mouse Club",
+      "B": "Disneyland",
+      "C": "Walt Disney's Wonderful World of Color",
+      "D": "Zorro",
+      "answer": "B",
+      "funFact": "Disneyland (later renamed Walt Disney's Wonderful World of Color) premiered in 1954 and was the first Disney television show. It helped promote the Disneyland theme park."
+    },
+    {
+      "question": "What was the name of the first Disney live-action film?",
+      "A": "Treasure Island",
+      "B": "20,000 Leagues Under the Sea",
+      "C": "The Shaggy Dog",
+      "D": "Mary Poppins",
+      "answer": "A",
+      "funFact": "Treasure Island, released in 1950, was Disney's first completely live-action film. It was based on the novel by Robert Louis Stevenson."
+    },
+    {
+      "question": "What was the name of the first Disney film to win an Academy Award for Best Picture?",
+      "A": "Snow White and the Seven Dwarfs",
+      "B": "Mary Poppins",
+      "C": "Beauty and the Beast",
+      "D": "None have won",
+      "answer": "D",
+      "funFact": "No Disney animated film has won the Academy Award for Best Picture. However, Beauty and the Beast was the first animated film to be nominated for Best Picture in 1991."
+    },
+    {
+      "question": "What was the name of the first Disney film to use computer animation?",
+      "A": "The Great Mouse Detective",
+      "B": "The Little Mermaid",
+      "C": "Beauty and the Beast",
+      "D": "The Rescuers Down Under",
+      "answer": "A",
+      "funFact": "The Great Mouse Detective, released in 1986, was the first Disney film to use computer animation for the clock tower sequence. It marked the beginning of Disney's use of CGI."
+    },
+    {
+      "question": "What was the name of the first Disney film to be entirely computer-animated?",
+      "A": "Toy Story",
+      "B": "A Bug's Life",
+      "C": "Monsters, Inc.",
+      "D": "Finding Nemo",
+      "answer": "A",
+      "funFact": "Toy Story, released in 1995, was the first feature-length film to be entirely computer-animated. It was produced by Pixar, which Disney later acquired."
+    },
+    {
+      "question": "What year did Disney acquire Pixar?",
+      "A": "2004",
+      "B": "2005",
+      "C": "2006",
+      "D": "2007",
+      "answer": "C",
+      "funFact": "Disney acquired Pixar in 2006 for $7.4 billion. This brought together two of the most successful animation studios in history."
+    },
+    {
+      "question": "What year did Disney acquire Marvel?",
+      "A": "2007",
+      "B": "2008",
+      "C": "2009",
+      "D": "2010",
+      "answer": "C",
+      "funFact": "Disney acquired Marvel Entertainment in 2009 for $4.24 billion. This gave Disney access to popular characters like Iron Man, Spider-Man, and the Avengers."
+    },
+    {
+      "question": "What year did Disney acquire Lucasfilm?",
+      "A": "2010",
+      "B": "2011",
+      "C": "2012",
+      "D": "2013",
+      "answer": "C",
+      "funFact": "Disney acquired Lucasfilm in 2012 for $4.05 billion. This gave Disney the rights to Star Wars and Indiana Jones franchises."
+    },
+    {
+      "question": "What was the name of the first Disney Channel original movie?",
+      "A": "Under Wraps",
+      "B": "The Cheetah Girls",
+      "C": "High School Musical",
+      "D": "Zenon: Girl of the 21st Century",
+      "answer": "A",
+      "funFact": "Under Wraps, released in 1997, was the first Disney Channel Original Movie (DCOM). It started a long tradition of made-for-TV Disney movies."
+    },
+    {
+      "question": "What was the name of the first Disney animated film to feature a computer-generated background?",
+      "A": "The Great Mouse Detective",
+      "B": "The Little Mermaid",
+      "C": "Beauty and the Beast",
+      "D": "Aladdin",
+      "answer": "C",
+      "funFact": "Beauty and the Beast, released in 1991, was the first Disney animated film to use computer-generated imagery for backgrounds, particularly in the ballroom scene."
+    },
+    {
+      "question": "What was the name of the first Disney film to be released in 3D?",
+      "A": "Chicken Little",
+      "B": "Meet the Robinsons",
+      "C": "Bolt",
+      "D": "Up",
+      "answer": "A",
+      "funFact": "Chicken Little, released in 2005, was the first Disney animated film to be released in 3D. It was also Disney's first fully computer-animated film."
+    },
+    {
+      "question": "What was the name of the first Disney film to be released on home video?",
+      "A": "Snow White and the Seven Dwarfs",
+      "B": "Pinocchio",
+      "C": "Fantasia",
+      "D": "Dumbo",
+      "answer": "A",
+      "funFact": "Snow White and the Seven Dwarfs was the first Disney film to be released on home video in 1980. It was released on VHS and Betamax."
+    },
+    {
+      "question": "What was the name of the first Disney film to be released on DVD?",
+      "A": "Snow White and the Seven Dwarfs",
+      "B": "Pinocchio",
+      "C": "Fantasia",
+      "D": "Dumbo",
+      "answer": "A",
+      "funFact": "Snow White and the Seven Dwarfs was the first Disney film to be released on DVD in 2001. It was part of Disney's Platinum Edition series."
+    }
+]
+

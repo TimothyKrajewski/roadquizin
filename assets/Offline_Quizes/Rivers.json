@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the longest river in the world?",
+      "A": "Amazon River",
+      "B": "Nile River",
+      "C": "Mississippi River",
+      "D": "Yangtze River",
+      "answer": "B",
+      "funFact": "The Nile River is the longest river in the world at approximately 4,135 miles (6,650 km), flowing through 11 countries in northeastern Africa."
+    },
+    {
+      "question": "What is the largest river by volume in the world?",
+      "A": "Nile River",
+      "B": "Amazon River",
+      "C": "Mississippi River",
+      "D": "Yangtze River",
+      "answer": "B",
+      "funFact": "The Amazon River is the largest river by volume, discharging more water than the next seven largest rivers combined. It carries about 20% of the world's river water."
+    },
+    {
+      "question": "What river flows through Egypt?",
+      "A": "Tigris River",
+      "B": "Euphrates River",
+      "C": "Nile River",
+      "D": "Jordan River",
+      "answer": "C",
+      "funFact": "The Nile River flows through Egypt and has been the lifeblood of Egyptian civilization for thousands of years, providing water and fertile soil."
+    },
+    {
+      "question": "What is the longest river in the United States?",
+      "A": "Colorado River",
+      "B": "Missouri River",
+      "C": "Mississippi River",
+      "D": "Rio Grande",
+      "answer": "C",
+      "funFact": "The Mississippi River is the longest river in the United States, flowing approximately 2,320 miles from Minnesota to the Gulf of Mexico."
+    },
+    {
+      "question": "What river flows through London?",
+      "A": "Seine River",
+      "B": "Thames River",
+      "C": "Rhine River",
+      "D": "Danube River",
+      "answer": "B",
+      "funFact": "The Thames River flows through London, England. It's the longest river entirely in England and has been central to London's history and development."
+    },
+    {
+      "question": "What river flows through Paris?",
+      "A": "Thames River",
+      "B": "Seine River",
+      "C": "Rhine River",
+      "D": "Loire River",
+      "answer": "B",
+      "funFact": "The Seine River flows through Paris, France. Many of Paris's famous landmarks, including the Eiffel Tower and Notre-Dame, are located along its banks."
+    },
+    {
+      "question": "What is the longest river in Asia?",
+      "A": "Ganges River",
+      "B": "Yangtze River",
+      "C": "Yellow River",
+      "D": "Mekong River",
+      "answer": "B",
+      "funFact": "The Yangtze River (Chang Jiang) is the longest river in Asia and China, flowing 3,915 miles from the Tibetan Plateau to the East China Sea."
+    },
+    {
+      "question": "What river is considered sacred in India?",
+      "A": "Indus River",
+      "B": "Ganges River",
+      "C": "Brahmaputra River",
+      "D": "Yamuna River",
+      "answer": "B",
+      "funFact": "The Ganges River is considered the most sacred river in India. Millions of Hindus bathe in its waters, believing it purifies the soul."
+    },
+    {
+      "question": "What river forms part of the border between the United States and Mexico?",
+      "A": "Colorado River",
+      "B": "Rio Grande",
+      "C": "Mississippi River",
+      "D": "Columbia River",
+      "answer": "B",
+      "funFact": "The Rio Grande forms part of the border between the United States and Mexico, flowing approximately 1,900 miles from Colorado to the Gulf of Mexico."
+    },
+    {
+      "question": "What is the name for where a river begins?",
+      "A": "Mouth",
+      "B": "Delta",
+      "C": "Source",
+      "D": "Estuary",
+      "answer": "C",
+      "funFact": "The source (or headwaters) is where a river begins, often in mountains or highlands. The mouth is where a river flows into a larger body of water."
+    }
+]
+

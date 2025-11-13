@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many legs do insects have?",
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10",
+      "answer": "B",
+      "funFact": "Insects have 6 legs, which is one of the defining characteristics of the class Insecta. Spiders have 8 legs and are not insects."
+    },
+    {
+      "question": "What is the largest group of animals on Earth?",
+      "A": "Mammals",
+      "B": "Birds",
+      "C": "Insects",
+      "D": "Fish",
+      "answer": "C",
+      "funFact": "Insects are the largest group of animals on Earth, with over 1 million described species and possibly millions more yet to be discovered."
+    },
+    {
+      "question": "What is the process called when a caterpillar becomes a butterfly?",
+      "A": "Metamorphosis",
+      "B": "Evolution",
+      "C": "Transformation",
+      "D": "Mutation",
+      "answer": "A",
+      "funFact": "Metamorphosis is the process by which a caterpillar transforms into a butterfly. Complete metamorphosis involves four stages: egg, larva, pupa, and adult."
+    },
+    {
+      "question": "What is the hardest working insect?",
+      "A": "Ant",
+      "B": "Bee",
+      "C": "Termite",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Ants, bees, and termites are all incredibly hardworking insects. Bees pollinate flowers, ants build complex colonies, and termites build massive structures."
+    },
+    {
+      "question": "What do bees make?",
+      "A": "Honey",
+      "B": "Wax",
+      "C": "Both A and B",
+      "D": "Nectar",
+      "answer": "C",
+      "funFact": "Bees make both honey (from nectar) and beeswax (from glands on their bodies). Honey is stored food, and wax is used to build the honeycomb."
+    },
+    {
+      "question": "What is the fastest flying insect?",
+      "A": "Dragonfly",
+      "B": "Horsefly",
+      "C": "Bee",
+      "D": "Butterfly",
+      "answer": "A",
+      "funFact": "Dragonflies are among the fastest flying insects, capable of speeds up to 35 mph. They're also excellent hunters, catching prey in mid-air."
+    },
+    {
+      "question": "How many eyes do most insects have?",
+      "A": "1",
+      "B": "2",
+      "C": "Many (compound eyes)",
+      "D": "None",
+      "answer": "C",
+      "funFact": "Most insects have compound eyes made up of many small lenses (ommatidia), giving them a wide field of vision and the ability to detect movement."
+    },
+    {
+      "question": "What is the longest living insect?",
+      "A": "Mayfly",
+      "B": "Cicada",
+      "C": "Termite queen",
+      "D": "Ant queen",
+      "answer": "C",
+      "funFact": "Termite queens can live for 50 years or more, making them among the longest-living insects. Some cicadas live underground for 17 years before emerging."
+    },
+    {
+      "question": "What do butterflies taste with?",
+      "A": "Their mouth",
+      "B": "Their antennae",
+      "C": "Their feet",
+      "D": "Their wings",
+      "answer": "C",
+      "funFact": "Butterflies taste with their feet! They have taste receptors on their feet that help them identify the right plants to lay eggs on."
+    },
+    {
+      "question": "What percentage of all animal species are insects?",
+      "A": "About 25%",
+      "B": "About 50%",
+      "C": "About 75%",
+      "D": "About 90%",
+      "answer": "C",
+      "funFact": "Insects make up approximately 75% of all known animal species on Earth, with over 1 million described species and possibly millions more undiscovered."
+    }
+]
+

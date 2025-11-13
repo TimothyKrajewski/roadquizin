@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "A": "Truman Capote",
+      "B": "Harper Lee",
+      "C": "Maya Angelou",
+      "D": "Toni Morrison",
+      "answer": "B",
+      "funFact": "Harper Lee wrote 'To Kill a Mockingbird' in 1960, addressing themes of racial injustice and moral growth through the eyes of young Scout Finch. It won the Pulitzer Prize."
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "A": "Aldous Huxley",
+      "B": "George Orwell",
+      "C": "Ray Bradbury",
+      "D": "H.G. Wells",
+      "answer": "B",
+      "funFact": "George Orwell wrote '1984' in 1949, creating a dystopian vision of totalitarian surveillance that introduced concepts like Big Brother and thoughtcrime."
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "William Faulkner",
+      "D": "John Steinbeck",
+      "answer": "B",
+      "funFact": "F. Scott Fitzgerald wrote 'The Great Gatsby' in 1925, capturing the essence of the Jazz Age and the American Dream in this classic novel."
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "A": "Charlotte Brontë",
+      "B": "Emily Brontë",
+      "C": "Jane Austen",
+      "D": "Virginia Woolf",
+      "answer": "C",
+      "funFact": "Jane Austen wrote 'Pride and Prejudice' in 1813, creating one of literature's most beloved romantic stories featuring Elizabeth Bennet and Mr. Darcy."
+    },
+    {
+      "question": "Who wrote 'The Catcher in the Rye'?",
+      "A": "J.D. Salinger",
+      "B": "Kurt Vonnegut",
+      "C": "Jack Kerouac",
+      "D": "Allen Ginsberg",
+      "answer": "A",
+      "funFact": "J.D. Salinger wrote 'The Catcher in the Rye' in 1951, creating the iconic character Holden Caulfield, who has become a symbol of teenage alienation."
+    },
+    {
+      "question": "Who wrote 'Frankenstein'?",
+      "A": "Mary Shelley",
+      "B": "Bram Stoker",
+      "C": "Edgar Allan Poe",
+      "D": "H.P. Lovecraft",
+      "answer": "A",
+      "funFact": "Mary Shelley wrote 'Frankenstein' in 1818 when she was just 18 years old, creating one of the first science fiction novels and a lasting gothic horror story."
+    },
+    {
+      "question": "Who wrote 'The Lord of the Rings'?",
+      "A": "C.S. Lewis",
+      "B": "J.R.R. Tolkien",
+      "C": "George R.R. Martin",
+      "D": "J.K. Rowling",
+      "answer": "B",
+      "funFact": "J.R.R. Tolkien wrote 'The Lord of the Rings' trilogy, published between 1954 and 1955, creating one of the most influential fantasy works of all time."
+    },
+    {
+      "question": "Who wrote 'Harry Potter'?",
+      "A": "J.R.R. Tolkien",
+      "B": "C.S. Lewis",
+      "C": "J.K. Rowling",
+      "D": "Philip Pullman",
+      "answer": "C",
+      "funFact": "J.K. Rowling wrote the 'Harry Potter' series, which has sold over 500 million copies worldwide and been translated into 80 languages."
+    },
+    {
+      "question": "Who wrote 'Moby-Dick'?",
+      "A": "Nathaniel Hawthorne",
+      "B": "Herman Melville",
+      "C": "Edgar Allan Poe",
+      "D": "Mark Twain",
+      "answer": "B",
+      "funFact": "Herman Melville wrote 'Moby-Dick' in 1851, creating an epic tale of Captain Ahab's obsessive hunt for the great white whale."
+    },
+    {
+      "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+      "A": "Mark Twain",
+      "B": "Nathaniel Hawthorne",
+      "C": "Herman Melville",
+      "D": "Edgar Allan Poe",
+      "answer": "A",
+      "funFact": "Mark Twain (Samuel Clemens) wrote 'The Adventures of Huckleberry Finn' in 1884, following Huck's journey down the Mississippi River with the escaped slave Jim."
+    }
+]
+

@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the closest star to Earth?",
+      "A": "Alpha Centauri",
+      "B": "The Sun",
+      "C": "Sirius",
+      "D": "Betelgeuse",
+      "answer": "B",
+      "funFact": "The Sun is the closest star to Earth, located about 93 million miles (150 million kilometers) away. It's the center of our solar system."
+    },
+    {
+      "question": "How many planets are in our solar system?",
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10",
+      "answer": "B",
+      "funFact": "There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "A": "Saturn",
+      "B": "Jupiter",
+      "C": "Neptune",
+      "D": "Uranus",
+      "answer": "B",
+      "funFact": "Jupiter is the largest planet in our solar system, with a mass greater than all other planets combined. It's a gas giant with no solid surface."
+    },
+    {
+      "question": "What is a group of stars that form a pattern called?",
+      "A": "Galaxy",
+      "B": "Constellation",
+      "C": "Nebula",
+      "D": "Cluster",
+      "answer": "B",
+      "funFact": "A constellation is a group of stars that form a recognizable pattern in the night sky. There are 88 officially recognized constellations."
+    },
+    {
+      "question": "What is the name of our galaxy?",
+      "A": "Andromeda",
+      "B": "Milky Way",
+      "C": "Orion",
+      "D": "Triangulum",
+      "answer": "B",
+      "funFact": "The Milky Way is our home galaxy, a spiral galaxy containing billions of stars, including our Sun. It gets its name from its milky appearance in the night sky."
+    },
+    {
+      "question": "What causes the phases of the Moon?",
+      "A": "Earth's shadow on the Moon",
+      "B": "The Moon's rotation",
+      "C": "The relative positions of the Earth, Moon, and Sun",
+      "D": "The Moon's distance from Earth",
+      "answer": "C",
+      "funFact": "The phases of the Moon are caused by the changing relative positions of the Earth, Moon, and Sun, which determines how much of the Moon's illuminated side we can see."
+    },
+    {
+      "question": "What is a black hole?",
+      "A": "A dark planet",
+      "B": "A region of space with extremely strong gravity",
+      "C": "An empty space",
+      "D": "A type of star",
+      "answer": "B",
+      "funFact": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape once it crosses the event horizon."
+    },
+    {
+      "question": "How long does it take for light from the Sun to reach Earth?",
+      "A": "1 second",
+      "B": "8 minutes",
+      "C": "1 hour",
+      "D": "1 day",
+      "answer": "B",
+      "funFact": "Light from the Sun takes approximately 8 minutes and 20 seconds to travel the 93 million miles to Earth, traveling at the speed of light."
+    },
+    {
+      "question": "What is a shooting star actually?",
+      "A": "A falling star",
+      "B": "A meteor",
+      "C": "A comet",
+      "D": "An asteroid",
+      "answer": "B",
+      "funFact": "A shooting star is actually a meteor—a small piece of rock or dust from space that burns up as it enters Earth's atmosphere, creating a bright streak of light."
+    },
+    {
+      "question": "What is the name of Saturn's largest moon?",
+      "A": "Europa",
+      "B": "Titan",
+      "C": "Ganymede",
+      "D": "Io",
+      "answer": "B",
+      "funFact": "Titan is Saturn's largest moon and the second-largest moon in our solar system. It has a thick atmosphere and lakes of liquid methane and ethane."
+    }
+]
+

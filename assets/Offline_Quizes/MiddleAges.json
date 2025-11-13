@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What period is also known as the Middle Ages?",
+      "A": "The Renaissance",
+      "B": "The Medieval Period",
+      "C": "The Classical Period",
+      "D": "The Modern Period",
+      "answer": "B",
+      "funFact": "The Middle Ages, also called the Medieval Period, lasted from approximately the 5th to the 15th century, between the fall of the Roman Empire and the Renaissance."
+    },
+    {
+      "question": "What was the dominant religion in medieval Europe?",
+      "A": "Islam",
+      "B": "Judaism",
+      "C": "Christianity",
+      "D": "Paganism",
+      "answer": "C",
+      "funFact": "Christianity was the dominant religion in medieval Europe, with the Catholic Church playing a central role in daily life, politics, and culture."
+    },
+    {
+      "question": "What was a serf?",
+      "A": "A knight",
+      "B": "A peasant bound to the land",
+      "C": "A noble",
+      "D": "A merchant",
+      "answer": "B",
+      "funFact": "A serf was a peasant who was bound to the land and obligated to work for the lord of the manor. Serfs were not slaves but had limited freedom and rights."
+    },
+    {
+      "question": "What was the name of the document that limited the power of the English king in 1215?",
+      "A": "The Declaration of Independence",
+      "B": "The Magna Carta",
+      "C": "The Bill of Rights",
+      "D": "The Constitution",
+      "answer": "B",
+      "funFact": "The Magna Carta, signed in 1215, was a charter that limited the power of King John of England and established the principle that the king was subject to the law."
+    },
+    {
+      "question": "What was the name of the disease that killed millions in the 14th century?",
+      "A": "Smallpox",
+      "B": "The Black Death",
+      "C": "Cholera",
+      "D": "Typhus",
+      "answer": "B",
+      "funFact": "The Black Death (bubonic plague) killed an estimated 75-200 million people in Europe and Asia in the 14th century, approximately one-third of Europe's population."
+    },
+    {
+      "question": "What was a joust?",
+      "A": "A type of sword",
+      "B": "A tournament combat between knights",
+      "C": "A castle",
+      "D": "A type of armor",
+      "answer": "B",
+      "funFact": "A joust was a tournament combat between two knights on horseback, each trying to knock the other off their horse with a lance. It was both sport and military training."
+    },
+    {
+      "question": "What was the name of the code of conduct for knights?",
+      "A": "Honor",
+      "B": "Chivalry",
+      "C": "Valor",
+      "D": "Nobility",
+      "answer": "B",
+      "funFact": "Chivalry was the medieval knightly system with its religious, moral, and social code, emphasizing honor, courage, courtesy, and service to others."
+    },
+    {
+      "question": "What architectural style is characterized by pointed arches and flying buttresses?",
+      "A": "Romanesque",
+      "B": "Gothic",
+      "C": "Baroque",
+      "D": "Renaissance",
+      "answer": "B",
+      "funFact": "Gothic architecture, developed in the 12th century, is characterized by pointed arches, ribbed vaults, flying buttresses, and large stained glass windows, allowing for taller, more light-filled buildings."
+    },
+    {
+      "question": "What was the name of the war between England and France that lasted over 100 years?",
+      "A": "The Crusades",
+      "B": "The Hundred Years' War",
+      "C": "The War of the Roses",
+      "D": "The Thirty Years' War",
+      "answer": "B",
+      "funFact": "The Hundred Years' War (1337-1453) was a series of conflicts between England and France over the French throne, actually lasting 116 years."
+    },
+    {
+      "question": "What was a troubadour?",
+      "A": "A knight",
+      "B": "A traveling poet and musician",
+      "C": "A monk",
+      "D": "A merchant",
+      "answer": "B",
+      "funFact": "A troubadour was a traveling poet and musician in medieval Europe, particularly in southern France, who composed and performed songs about chivalry and courtly love."
+    }
+]
+

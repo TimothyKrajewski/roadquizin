@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the duration of World War I?",
+      "A": "1914-1918",
+      "B": "4 years",
+      "C": "Both A and B",
+      "D": "6 years",
+      "answer": "C",
+      "funFact": "World War I lasted from 1914 to 1918, 4 years of conflict."
+    },
+    {
+      "question": "What was the duration of World War II?",
+      "A": "1939-1945",
+      "B": "6 years",
+      "C": "Both A and B",
+      "D": "4 years",
+      "answer": "C",
+      "funFact": "World War II lasted from 1939 to 1945, 6 years of conflict."
+    },
+    {
+      "question": "What was the death toll of World War I?",
+      "A": "About 20 million",
+      "B": "Military and civilian",
+      "C": "Both A and B",
+      "D": "40 million",
+      "answer": "C",
+      "funFact": "World War I resulted in approximately 20 million deaths (military and civilian) and 20 million wounded."
+    },
+    {
+      "question": "What was the death toll of World War II?",
+      "A": "60-85 million",
+      "B": "Much higher than WWI",
+      "C": "Both A and B",
+      "D": "20 million",
+      "answer": "C",
+      "funFact": "World War II resulted in 60-85 million deaths, making it the deadliest conflict in human history."
+    },
+    {
+      "question": "What was the main type of warfare in World War I?",
+      "A": "Trench warfare",
+      "B": "Stalemate",
+      "C": "Both A and B",
+      "D": "Mobile warfare",
+      "answer": "C",
+      "funFact": "World War I was characterized by trench warfare and stalemate, especially on the Western Front."
+    },
+    {
+      "question": "What was the main type of warfare in World War II?",
+      "A": "Mobile warfare",
+      "B": "Blitzkrieg",
+      "C": "Both A and B",
+      "D": "Trench warfare",
+      "answer": "C",
+      "funFact": "World War II was characterized by mobile warfare and blitzkrieg (lightning war), with rapid advances and retreats."
+    },
+    {
+      "question": "What weapons were used in World War I?",
+      "A": "Machine guns, poison gas, tanks",
+      "B": "First modern weapons",
+      "C": "Both A and B",
+      "D": "Only rifles",
+      "answer": "C",
+      "funFact": "World War I saw the first use of modern weapons like machine guns, poison gas, and tanks."
+    },
+    {
+      "question": "What weapons were used in World War II?",
+      "A": "Atomic bombs, advanced aircraft, rockets",
+      "B": "More advanced than WWI",
+      "C": "Both A and B",
+      "D": "Same as WWI",
+      "answer": "C",
+      "funFact": "World War II saw more advanced weapons including atomic bombs, advanced aircraft, and rocket technology."
+    },
+    {
+      "question": "What was the scope of World War I?",
+      "A": "Primarily Europe",
+      "B": "Some fighting elsewhere",
+      "C": "Both A and B",
+      "D": "Worldwide",
+      "answer": "C",
+      "funFact": "World War I was primarily fought in Europe, though there was some fighting in the Middle East, Africa, and Asia."
+    },
+    {
+      "question": "What was the scope of World War II?",
+      "A": "Truly worldwide",
+      "B": "Europe, Asia, Pacific, Africa",
+      "C": "Both A and B",
+      "D": "Only Europe",
+      "answer": "C",
+      "funFact": "World War II was truly worldwide, with fighting in Europe, Asia, the Pacific, Africa, and at sea."
+    },
+    {
+      "question": "What was the cause of World War I?",
+      "A": "Assassination of Archduke",
+      "B": "Alliances, militarism, imperialism",
+      "C": "Both A and B",
+      "D": "Economic depression",
+      "answer": "C",
+      "funFact": "World War I was caused by the assassination of Archduke Franz Ferdinand and underlying factors like alliances, militarism, and imperialism."
+    },
+    {
+      "question": "What was the cause of World War II?",
+      "A": "Treaty of Versailles",
+      "B": "Rise of fascism, aggression",
+      "C": "Both A and B",
+      "D": "Single cause",
+      "answer": "C",
+      "funFact": "World War II was caused by the harsh Treaty of Versailles, the rise of fascism, and aggressive expansion by Germany, Italy, and Japan."
+    },
+    {
+      "question": "What was the outcome of World War I?",
+      "A": "Allied victory",
+      "B": "Treaty of Versailles",
+      "C": "Both A and B",
+      "D": "Central Powers victory",
+      "answer": "C",
+      "funFact": "World War I ended with Allied victory and the Treaty of Versailles, which imposed harsh terms on Germany."
+    },
+    {
+      "question": "What was the outcome of World War II?",
+      "A": "Allied victory",
+      "B": "United Nations, Cold War",
+      "C": "Both A and B",
+      "D": "Axis victory",
+      "answer": "C",
+      "funFact": "World War II ended with Allied victory, leading to the creation of the United Nations and the beginning of the Cold War."
+    },
+    {
+      "question": "What was the impact on civilians in World War I?",
+      "A": "Suffered greatly",
+      "B": "Blockades, bombings",
+      "C": "Both A and B",
+      "D": "Unaffected",
+      "answer": "C",
+      "funFact": "Civilians suffered greatly in World War I from blockades, bombings, and economic hardship."
+    },
+    {
+      "question": "What was the impact on civilians in World War II?",
+      "A": "Suffered even more",
+      "B": "Holocaust, bombings, starvation",
+      "C": "Both A and B",
+      "D": "Unaffected",
+      "answer": "C",
+      "funFact": "Civilians suffered even more in World War II from the Holocaust, bombings, starvation, and displacement."
+    },
+    {
+      "question": "What was the role of the United States in World War I?",
+      "A": "Entered in 1917",
+      "B": "Helped tip balance",
+      "C": "Both A and B",
+      "D": "Neutral throughout",
+      "answer": "C",
+      "funFact": "The United States entered World War I in 1917 and helped tip the balance in favor of the Allies."
+    },
+    {
+      "question": "What was the role of the United States in World War II?",
+      "A": "Entered in 1941",
+      "B": "Major contributor",
+      "C": "Both A and B",
+      "D": "Minor role",
+      "answer": "C",
+      "funFact": "The United States entered World War II in 1941 and was a major contributor to Allied victory in both Europe and the Pacific."
+    },
+    {
+      "question": "What was the legacy of both wars?",
+      "A": "Changed the world",
+      "B": "Led to modern era",
+      "C": "Both A and B",
+      "D": "No legacy",
+      "answer": "C",
+      "funFact": "Both World Wars changed the world forever and led to the modern era, with profound political, economic, and social changes."
+    },
+    {
+      "question": "What was the lesson from both wars?",
+      "A": "War is terrible",
+      "B": "Need for peace and cooperation",
+      "C": "Both A and B",
+      "D": "No lesson",
+      "answer": "C",
+      "funFact": "The lesson from both wars is that war is terrible and there's a need for peace and international cooperation to prevent future conflicts."
+    }
+]
+

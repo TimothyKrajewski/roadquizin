@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is energy?",
+      "A": "The ability to do work",
+      "B": "A type of matter",
+      "C": "A force",
+      "D": "A substance",
+      "answer": "A",
+      "funFact": "Energy is the ability to do work or cause change. It exists in many forms, including kinetic (motion), potential (stored), thermal (heat), and chemical energy."
+    },
+    {
+      "question": "What is kinetic energy?",
+      "A": "Stored energy",
+      "B": "Energy of motion",
+      "C": "Heat energy",
+      "D": "Light energy",
+      "answer": "B",
+      "funFact": "Kinetic energy is the energy an object possesses due to its motion. The faster an object moves, the more kinetic energy it has."
+    },
+    {
+      "question": "What is potential energy?",
+      "A": "Energy of motion",
+      "B": "Stored energy",
+      "C": "Heat energy",
+      "D": "Light energy",
+      "answer": "B",
+      "funFact": "Potential energy is stored energy that an object has because of its position or condition. Examples include a ball at the top of a hill or a stretched spring."
+    },
+    {
+      "question": "What is the law of conservation of energy?",
+      "A": "Energy can be created",
+      "B": "Energy cannot be created or destroyed, only transformed",
+      "C": "Energy can be destroyed",
+      "D": "Energy is unlimited",
+      "answer": "B",
+      "funFact": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another. This is a fundamental law of physics."
+    },
+    {
+      "question": "What is the main source of energy on Earth?",
+      "A": "Wind",
+      "B": "Water",
+      "C": "The Sun",
+      "D": "Fossil fuels",
+      "answer": "C",
+      "funFact": "The Sun is the main source of energy on Earth. It provides light and heat that drive weather, grow plants, and power many natural processes."
+    },
+    {
+      "question": "What is renewable energy?",
+      "A": "Energy that can be used up",
+      "B": "Energy that can be replenished",
+      "C": "Energy from fossil fuels",
+      "D": "Energy that is expensive",
+      "answer": "B",
+      "funFact": "Renewable energy is energy from sources that can be replenished naturally, such as solar, wind, hydroelectric, and geothermal energy."
+    },
+    {
+      "question": "What is solar energy?",
+      "A": "Energy from the wind",
+      "B": "Energy from the Sun",
+      "C": "Energy from water",
+      "D": "Energy from coal",
+      "answer": "B",
+      "funFact": "Solar energy is energy from the Sun, captured using solar panels that convert sunlight into electricity. It's a clean, renewable source of energy."
+    },
+    {
+      "question": "What is the unit of energy?",
+      "A": "Watt",
+      "B": "Joule",
+      "C": "Volt",
+      "D": "Ampere",
+      "answer": "B",
+      "funFact": "The joule is the standard unit of energy in the metric system. It's named after James Prescott Joule, who studied energy and heat."
+    },
+    {
+      "question": "What is the most efficient form of energy?",
+      "A": "There is no single most efficient form",
+      "B": "Solar energy",
+      "C": "Nuclear energy",
+      "D": "Wind energy",
+      "answer": "A",
+      "funFact": "Energy efficiency depends on many factors. Nuclear energy is very efficient for electricity generation, while solar and wind are efficient for renewable energy. The 'best' depends on the application."
+    },
+    {
+      "question": "What happens to energy when you use it?",
+      "A": "It disappears",
+      "B": "It is transformed into other forms",
+      "C": "It is destroyed",
+      "D": "It stays the same",
+      "answer": "B",
+      "funFact": "When energy is used, it's transformed into other forms. For example, chemical energy in food becomes kinetic energy when you move, and some becomes heat energy."
+    }
+]
+

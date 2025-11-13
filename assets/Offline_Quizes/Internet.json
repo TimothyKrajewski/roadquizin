@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What does URL stand for?",
+      "A": "Uniform Resource Locator",
+      "B": "Universal Resource Link",
+      "C": "Uniform Resource Link",
+      "D": "Universal Resource Locator",
+      "answer": "A",
+      "funFact": "URL stands for Uniform Resource Locator, the address used to access resources on the internet, such as web pages."
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "A": "HyperText Transfer Protocol",
+      "B": "High Tech Transfer Protocol",
+      "C": "HyperText Transport Protocol",
+      "D": "High Tech Transport Protocol",
+      "answer": "A",
+      "funFact": "HTTP stands for HyperText Transfer Protocol, the protocol used for transferring data over the World Wide Web."
+    },
+    {
+      "question": "Who invented the World Wide Web?",
+      "A": "Bill Gates",
+      "B": "Steve Jobs",
+      "C": "Tim Berners-Lee",
+      "D": "Mark Zuckerberg",
+      "answer": "C",
+      "funFact": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN, creating the first web browser and web server."
+    },
+    {
+      "question": "What does Wi-Fi stand for?",
+      "A": "Wireless Fidelity",
+      "B": "Wide Frequency",
+      "C": "Wireless Frequency",
+      "D": "It doesn't stand for anything",
+      "answer": "D",
+      "funFact": "Wi-Fi doesn't actually stand for anything. It's a brand name created by the Wi-Fi Alliance, though it's often mistakenly thought to mean 'Wireless Fidelity.'"
+    },
+    {
+      "question": "What is the name of Google's search engine?",
+      "A": "Google",
+      "B": "Bing",
+      "C": "Yahoo",
+      "D": "DuckDuckGo",
+      "answer": "A",
+      "funFact": "Google is both the name of the company and its search engine, which handles over 3.5 billion searches per day."
+    },
+    {
+      "question": "What does ISP stand for?",
+      "A": "Internet Service Provider",
+      "B": "Internet System Provider",
+      "C": "Internet Service Protocol",
+      "D": "Internet System Protocol",
+      "answer": "A",
+      "funFact": "ISP stands for Internet Service Provider, a company that provides internet access to customers, such as cable companies, phone companies, or satellite providers."
+    },
+    {
+      "question": "What is a cookie in web browsing?",
+      "A": "A type of food",
+      "B": "A small data file",
+      "C": "A type of virus",
+      "D": "A hardware device",
+      "answer": "B",
+      "funFact": "A cookie is a small data file stored on your computer by websites to remember your preferences, login information, and other data."
+    },
+    {
+      "question": "What does HTML stand for?",
+      "A": "HyperText Markup Language",
+      "B": "High Tech Modern Language",
+      "C": "HyperText Modern Language",
+      "D": "High Tech Markup Language",
+      "answer": "A",
+      "funFact": "HTML stands for HyperText Markup Language, the standard markup language used to create web pages and web applications."
+    },
+    {
+      "question": "What is the most popular web browser?",
+      "A": "Internet Explorer",
+      "B": "Chrome",
+      "C": "Firefox",
+      "D": "Safari",
+      "answer": "B",
+      "funFact": "Google Chrome is the most popular web browser worldwide, used by over 60% of internet users, followed by Safari, Edge, and Firefox."
+    },
+    {
+      "question": "What does @ mean in email addresses?",
+      "A": "At",
+      "B": "And",
+      "C": "About",
+      "D": "Around",
+      "answer": "A",
+      "funFact": "The @ symbol means 'at' in email addresses, separating the user's name from the domain name, like 'user@example.com'."
+    }
+]
+

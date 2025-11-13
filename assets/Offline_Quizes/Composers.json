@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who composed 'The Four Seasons'?",
+      "A": "Johann Sebastian Bach",
+      "B": "Wolfgang Amadeus Mozart",
+      "C": "Antonio Vivaldi",
+      "D": "Ludwig van Beethoven",
+      "answer": "C",
+      "funFact": "Antonio Vivaldi composed 'The Four Seasons' (Le quattro stagioni) around 1720, one of the most famous works in classical music, consisting of four violin concertos."
+    },
+    {
+      "question": "Who composed 'Für Elise'?",
+      "A": "Mozart",
+      "B": "Beethoven",
+      "C": "Bach",
+      "D": "Chopin",
+      "answer": "B",
+      "funFact": "Ludwig van Beethoven composed 'Für Elise' (For Elise) around 1810. It's one of his most popular piano pieces, though the identity of 'Elise' remains a mystery."
+    },
+    {
+      "question": "Who wrote the opera 'The Magic Flute'?",
+      "A": "Giuseppe Verdi",
+      "B": "Richard Wagner",
+      "C": "Wolfgang Amadeus Mozart",
+      "D": "Giacomo Puccini",
+      "answer": "C",
+      "funFact": "Wolfgang Amadeus Mozart wrote 'The Magic Flute' (Die Zauberflöte) in 1791, one of his most famous operas, combining comedy, drama, and beautiful music."
+    },
+    {
+      "question": "Who composed 'The Well-Tempered Clavier'?",
+      "A": "Mozart",
+      "B": "Beethoven",
+      "C": "Bach",
+      "D": "Handel",
+      "answer": "C",
+      "funFact": "Johann Sebastian Bach composed 'The Well-Tempered Clavier,' a collection of preludes and fugues in all 24 major and minor keys, completed in 1722 and 1742."
+    },
+    {
+      "question": "Who composed 'The Nutcracker'?",
+      "A": "Tchaikovsky",
+      "B": "Stravinsky",
+      "C": "Rachmaninoff",
+      "D": "Prokofiev",
+      "answer": "A",
+      "funFact": "Pyotr Ilyich Tchaikovsky composed 'The Nutcracker' ballet in 1892, which has become one of the most popular ballets, especially during the Christmas season."
+    },
+    {
+      "question": "Who composed 'Canon in D'?",
+      "A": "Bach",
+      "B": "Pachelbel",
+      "C": "Vivaldi",
+      "D": "Handel",
+      "answer": "B",
+      "funFact": "Johann Pachelbel composed 'Canon in D' around 1680. Though not well-known during his lifetime, it has become one of the most recognizable pieces of classical music."
+    },
+    {
+      "question": "Who composed 'The Ring of the Nibelung'?",
+      "A": "Mozart",
+      "B": "Wagner",
+      "C": "Verdi",
+      "D": "Puccini",
+      "answer": "B",
+      "funFact": "Richard Wagner composed 'The Ring of the Nibelung,' a cycle of four epic operas based on Norse mythology, taking over 26 years to complete (1848-1874)."
+    },
+    {
+      "question": "Who composed 'Clair de Lune'?",
+      "A": "Debussy",
+      "B": "Ravel",
+      "C": "Chopin",
+      "D": "Liszt",
+      "answer": "A",
+      "funFact": "Claude Debussy composed 'Clair de Lune' (Moonlight) in 1890, part of his 'Suite Bergamasque.' It's one of the most popular impressionist piano pieces."
+    },
+    {
+      "question": "Who composed 'Eine kleine Nachtmusik'?",
+      "A": "Beethoven",
+      "B": "Mozart",
+      "C": "Haydn",
+      "D": "Bach",
+      "answer": "B",
+      "funFact": "Wolfgang Amadeus Mozart composed 'Eine kleine Nachtmusik' (A Little Night Music) in 1787. It's one of his most famous serenades."
+    },
+    {
+      "question": "Who composed 'The Rite of Spring'?",
+      "A": "Tchaikovsky",
+      "B": "Stravinsky",
+      "C": "Rachmaninoff",
+      "D": "Prokofiev",
+      "answer": "B",
+      "funFact": "Igor Stravinsky composed 'The Rite of Spring' in 1913. Its premiere caused a riot due to its revolutionary music and choreography, but it's now considered a masterpiece."
+    }
+]
+

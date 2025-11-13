@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many sides does a triangle have?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "answer": "B",
+      "funFact": "A triangle has 3 sides and 3 angles. The sum of the interior angles in any triangle is always 180 degrees."
+    },
+    {
+      "question": "How many sides does a square have?",
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "answer": "B",
+      "funFact": "A square has 4 equal sides and 4 right angles (90 degrees each). It's a special type of rectangle where all sides are equal."
+    },
+    {
+      "question": "What is a shape with 5 sides called?",
+      "A": "Hexagon",
+      "B": "Pentagon",
+      "C": "Octagon",
+      "D": "Heptagon",
+      "answer": "B",
+      "funFact": "A pentagon is a polygon with 5 sides. The Pentagon building in Washington, D.C., is one of the most famous pentagonal structures in the world."
+    },
+    {
+      "question": "What is a shape with 6 sides called?",
+      "A": "Pentagon",
+      "B": "Hexagon",
+      "C": "Heptagon",
+      "D": "Octagon",
+      "answer": "B",
+      "funFact": "A hexagon is a polygon with 6 sides. Honeycomb cells are hexagonal, which is the most efficient shape for storing honey with minimal material."
+    },
+    {
+      "question": "What is a shape with 8 sides called?",
+      "A": "Hexagon",
+      "B": "Heptagon",
+      "C": "Octagon",
+      "D": "Nonagon",
+      "answer": "C",
+      "funFact": "An octagon is a polygon with 8 sides. The prefix 'octa-' means eight, as in octopus (eight arms) and October (originally the 8th month)."
+    },
+    {
+      "question": "What shape has no sides?",
+      "A": "Square",
+      "B": "Triangle",
+      "C": "Circle",
+      "D": "Rectangle",
+      "answer": "C",
+      "funFact": "A circle has no sides - it's a curved shape with all points equidistant from the center. It has infinite points but no straight edges."
+    },
+    {
+      "question": "What is a shape with 4 sides called?",
+      "A": "Triangle",
+      "B": "Quadrilateral",
+      "C": "Pentagon",
+      "D": "Hexagon",
+      "answer": "B",
+      "funFact": "A quadrilateral is any polygon with 4 sides. Squares, rectangles, parallelograms, and trapezoids are all types of quadrilaterals."
+    },
+    {
+      "question": "What shape has all sides equal and all angles equal?",
+      "A": "Rectangle",
+      "B": "Regular polygon",
+      "C": "Irregular polygon",
+      "D": "Circle",
+      "answer": "B",
+      "funFact": "A regular polygon has all sides equal in length and all angles equal in measure. Examples include equilateral triangles, squares, and regular pentagons."
+    },
+    {
+      "question": "What is a 3D shape with 6 square faces called?",
+      "A": "Sphere",
+      "B": "Cube",
+      "C": "Cylinder",
+      "D": "Pyramid",
+      "answer": "B",
+      "funFact": "A cube is a 3D shape with 6 square faces, 12 edges, and 8 vertices. All faces are equal squares, and all edges are equal in length."
+    },
+    {
+      "question": "What is a perfectly round 3D shape called?",
+      "A": "Circle",
+      "B": "Sphere",
+      "C": "Cylinder",
+      "D": "Cone",
+      "answer": "B",
+      "funFact": "A sphere is a perfectly round 3D shape where all points on the surface are equidistant from the center. Earth is approximately a sphere."
+    }
+]
+

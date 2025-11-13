@@ -1,0 +1,228 @@
+[
+    {
+      "question": "How many states are in the United States?",
+      "A": "48",
+      "B": "50",
+      "C": "52",
+      "D": "54",
+      "answer": "B",
+      "funFact": "There are 50 states in the United States. The last two states to join were Alaska (49th) and Hawaii (50th) in 1959."
+    },
+    {
+      "question": "What is the largest state in the United States?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Alaska",
+      "D": "Montana",
+      "answer": "C",
+      "funFact": "Alaska is the largest state in the United States, covering over 663,000 square miles, more than twice the size of Texas."
+    },
+    {
+      "question": "What is the smallest state in the United States?",
+      "A": "Delaware",
+      "B": "Rhode Island",
+      "C": "Connecticut",
+      "D": "Hawaii",
+      "answer": "B",
+      "funFact": "Rhode Island is the smallest state in the United States, covering only 1,214 square miles, but it has the longest official name: 'State of Rhode Island and Providence Plantations.'"
+    },
+    {
+      "question": "What is the most populous state in the United States?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Florida",
+      "D": "New York",
+      "answer": "B",
+      "funFact": "California is the most populous state in the United States, with over 39 million people. It's also the third largest state by area."
+    },
+    {
+      "question": "What was the first state to join the Union?",
+      "A": "Massachusetts",
+      "B": "Virginia",
+      "C": "Delaware",
+      "D": "Pennsylvania",
+      "answer": "C",
+      "funFact": "Delaware was the first state to join the Union, ratifying the Constitution on December 7, 1787, earning it the nickname 'The First State.'"
+    },
+    {
+      "question": "What was the last state to join the Union?",
+      "A": "Alaska",
+      "B": "Hawaii",
+      "C": "Arizona",
+      "D": "New Mexico",
+      "answer": "B",
+      "funFact": "Hawaii was the last state to join the Union, becoming the 50th state on August 21, 1959, just a few months after Alaska became the 49th state."
+    },
+    {
+      "question": "Which state has the longest coastline?",
+      "A": "California",
+      "B": "Florida",
+      "C": "Alaska",
+      "D": "Texas",
+      "answer": "C",
+      "funFact": "Alaska has the longest coastline of any state, with over 6,600 miles of coastline, more than all other states combined."
+    },
+    {
+      "question": "Which state is known as the 'Centennial State'?",
+      "A": "Colorado",
+      "B": "Nevada",
+      "C": "Utah",
+      "D": "Wyoming",
+      "answer": "A",
+      "funFact": "Colorado is known as the 'Centennial State' because it became a state in 1876, exactly 100 years after the signing of the Declaration of Independence."
+    },
+    {
+      "question": "Which state has the most national parks?",
+      "A": "California",
+      "B": "Alaska",
+      "C": "Utah",
+      "D": "Colorado",
+      "answer": "A",
+      "funFact": "California has the most national parks with 9, including Yosemite, Sequoia, and Death Valley. Alaska has 8 national parks, but they're much larger."
+    },
+    {
+      "question": "Which state produces the most oil?",
+      "A": "Texas",
+      "B": "Alaska",
+      "C": "California",
+      "D": "North Dakota",
+      "answer": "A",
+      "funFact": "Texas produces the most oil of any state, accounting for about 40% of U.S. crude oil production. It's also the leading producer of natural gas."
+    },
+    {
+      "question": "Which state has the highest point in the United States?",
+      "A": "Colorado",
+      "B": "Alaska",
+      "C": "California",
+      "D": "Washington",
+      "answer": "B",
+      "funFact": "Alaska has the highest point in the United States: Denali (formerly Mount McKinley) at 20,310 feet. The highest point in the contiguous U.S. is Mount Whitney in California at 14,505 feet."
+    },
+    {
+      "question": "Which state has the lowest point in the United States?",
+      "A": "Nevada",
+      "B": "Arizona",
+      "C": "California",
+      "D": "Utah",
+      "answer": "C",
+      "funFact": "California has the lowest point in the United States: Badwater Basin in Death Valley at 282 feet below sea level. It's also the hottest place on Earth."
+    },
+    {
+      "question": "Which state is the flattest?",
+      "A": "Kansas",
+      "B": "Florida",
+      "C": "Nebraska",
+      "D": "Delaware",
+      "answer": "B",
+      "funFact": "Florida is the flattest state, with an average elevation of only 100 feet above sea level. Its highest point, Britton Hill, is only 345 feet above sea level."
+    },
+    {
+      "question": "Which state has the most lakes?",
+      "A": "Minnesota",
+      "B": "Alaska",
+      "C": "Michigan",
+      "D": "Wisconsin",
+      "answer": "A",
+      "funFact": "Minnesota is known as the 'Land of 10,000 Lakes' and actually has over 11,000 lakes. Alaska has the most total water area, but Minnesota has the most named lakes."
+    },
+    {
+      "question": "Which state has the most farms?",
+      "A": "Texas",
+      "B": "Iowa",
+      "C": "Nebraska",
+      "D": "Kansas",
+      "answer": "A",
+      "funFact": "Texas has the most farms of any state, with over 247,000 farms. However, Iowa and Illinois have more farmland acreage."
+    },
+    {
+      "question": "Which state produces the most corn?",
+      "A": "Iowa",
+      "B": "Illinois",
+      "C": "Nebraska",
+      "D": "Minnesota",
+      "answer": "A",
+      "funFact": "Iowa produces the most corn of any state, accounting for about 18% of U.S. corn production. It's often called the 'Corn State.'"
+    },
+    {
+      "question": "Which state has the most colleges and universities?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "California has the most colleges and universities, with over 400 institutions of higher education, including the University of California system and California State University system."
+    },
+    {
+      "question": "Which state has the most time zones?",
+      "A": "Alaska",
+      "B": "Hawaii",
+      "C": "Arizona",
+      "D": "Indiana",
+      "answer": "A",
+      "funFact": "Alaska spans two time zones: Alaska Time and Hawaii-Aleutian Time. However, most of Alaska uses Alaska Time, and the Aleutian Islands use Hawaii-Aleutian Time."
+    },
+    {
+      "question": "Which state has the longest name?",
+      "A": "Massachusetts",
+      "B": "North Carolina",
+      "C": "Rhode Island",
+      "D": "South Carolina",
+      "answer": "C",
+      "funFact": "Rhode Island has the longest official state name: 'State of Rhode Island and Providence Plantations,' though it's commonly just called 'Rhode Island.'"
+    },
+    {
+      "question": "Which state has the shortest name?",
+      "A": "Iowa",
+      "B": "Utah",
+      "C": "Ohio",
+      "D": "Maine",
+      "answer": "A",
+      "funFact": "Iowa, Utah, and Ohio all have 4 letters, making them the shortest state names. However, 'Iowa' is technically the shortest when considering pronunciation."
+    },
+    {
+      "question": "Which state borders the most other states?",
+      "A": "Missouri",
+      "B": "Tennessee",
+      "C": "Kentucky",
+      "D": "Colorado",
+      "answer": "B",
+      "funFact": "Tennessee and Missouri both border 8 states, the most of any state. Tennessee borders: Kentucky, Virginia, North Carolina, Georgia, Alabama, Mississippi, Arkansas, and Missouri."
+    },
+    {
+      "question": "Which state has the most national monuments?",
+      "A": "Arizona",
+      "B": "New Mexico",
+      "C": "Utah",
+      "D": "California",
+      "answer": "A",
+      "funFact": "Arizona has the most national monuments with 18, including the Grand Canyon (also a national park), Montezuma Castle, and Organ Pipe Cactus."
+    },
+    {
+      "question": "Which state produces the most wine?",
+      "A": "New York",
+      "B": "Washington",
+      "C": "California",
+      "D": "Oregon",
+      "answer": "C",
+      "funFact": "California produces about 85% of all wine in the United States, with over 4,000 wineries. The Napa Valley and Sonoma County are world-famous wine regions."
+    },
+    {
+      "question": "Which state has the most tornadoes per year?",
+      "A": "Oklahoma",
+      "B": "Texas",
+      "C": "Kansas",
+      "D": "Nebraska",
+      "answer": "B",
+      "funFact": "Texas has the most tornadoes per year, averaging about 155 tornadoes annually. However, Oklahoma has more tornadoes per square mile, making it part of 'Tornado Alley.'"
+    },
+    {
+      "question": "Which state has the most bridges?",
+      "A": "Pennsylvania",
+      "B": "Texas",
+      "C": "New York",
+      "D": "California",
+      "answer": "A",
+      "funFact": "Pennsylvania has the most bridges of any state, with over 25,000 bridges. This is due to its many rivers, streams, and rugged terrain."
+    }
+]
+

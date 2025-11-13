@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is weather?",
+      "A": "The long-term patterns of temperature and precipitation",
+      "B": "The short-term conditions of the atmosphere",
+      "C": "The climate",
+      "D": "The seasons",
+      "answer": "B",
+      "funFact": "Weather is the short-term conditions of the atmosphere in a specific place, including temperature, humidity, precipitation, wind, and cloud cover."
+    },
+    {
+      "question": "What is climate?",
+      "A": "The weather today",
+      "B": "The long-term patterns of weather in a region",
+      "C": "The temperature",
+      "D": "The seasons",
+      "answer": "B",
+      "funFact": "Climate is the long-term average of weather patterns in a region over many years. Weather is what happens day-to-day, while climate is the overall pattern."
+    },
+    {
+      "question": "What is humidity?",
+      "A": "The temperature",
+      "B": "The amount of water vapor in the air",
+      "C": "The wind speed",
+      "D": "The air pressure",
+      "answer": "B",
+      "funFact": "Humidity is the amount of water vapor in the air. High humidity means the air has a lot of water vapor, making it feel muggy or sticky."
+    },
+    {
+      "question": "What is atmospheric pressure?",
+      "A": "The weight of air pressing down",
+      "B": "The temperature",
+      "C": "The wind speed",
+      "D": "The humidity",
+      "answer": "A",
+      "funFact": "Atmospheric pressure is the weight of air pressing down on Earth's surface. High pressure usually brings fair weather, while low pressure often brings storms."
+    },
+    {
+      "question": "What is a front?",
+      "A": "The weather today",
+      "B": "The boundary between two air masses",
+      "C": "A type of cloud",
+      "D": "A type of storm",
+      "answer": "B",
+      "funFact": "A front is the boundary between two air masses of different temperatures and densities. Cold fronts, warm fronts, and stationary fronts all affect weather patterns."
+    },
+    {
+      "question": "What is wind?",
+      "A": "Moving water",
+      "B": "Moving air",
+      "C": "Moving clouds",
+      "D": "Moving rain",
+      "answer": "B",
+      "funFact": "Wind is moving air, caused by differences in atmospheric pressure. Air moves from areas of high pressure to areas of low pressure."
+    },
+    {
+      "question": "What is a tornado?",
+      "A": "A large storm",
+      "B": "A rotating column of air",
+      "C": "A type of cloud",
+      "D": "A type of rain",
+      "answer": "B",
+      "funFact": "A tornado is a rapidly rotating column of air that extends from a thunderstorm to the ground. The most intense tornadoes can have wind speeds over 300 mph."
+    },
+    {
+      "question": "What is a hurricane?",
+      "A": "A large rotating storm",
+      "B": "A small storm",
+      "C": "A type of cloud",
+      "D": "A type of wind",
+      "answer": "A",
+      "funFact": "A hurricane (also called a typhoon or cyclone) is a large rotating storm system with low pressure at its center, forming over warm ocean waters."
+    },
+    {
+      "question": "What is the difference between weather and climate?",
+      "A": "They are the same",
+      "B": "Weather is short-term, climate is long-term",
+      "C": "Weather is long-term, climate is short-term",
+      "D": "Weather is temperature, climate is precipitation",
+      "answer": "B",
+      "funFact": "Weather is the short-term conditions (hours, days, weeks), while climate is the long-term average of weather patterns (years, decades, centuries)."
+    },
+    {
+      "question": "What instrument measures wind speed?",
+      "A": "Thermometer",
+      "B": "Barometer",
+      "C": "Anemometer",
+      "D": "Hygrometer",
+      "answer": "C",
+      "funFact": "An anemometer measures wind speed. It typically has cups that spin in the wind, and the speed of rotation indicates how fast the wind is blowing."
+    }
+]
+

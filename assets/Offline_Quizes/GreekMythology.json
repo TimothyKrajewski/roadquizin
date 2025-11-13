@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who is the king of the gods in Greek mythology?",
+      "A": "Poseidon",
+      "B": "Hades",
+      "C": "Zeus",
+      "D": "Apollo",
+      "answer": "C",
+      "funFact": "Zeus is the king of the gods in Greek mythology, ruler of Mount Olympus and god of the sky, lightning, and thunder. He is the son of Cronus and Rhea."
+    },
+    {
+      "question": "What is the name of the three-headed dog that guards the underworld?",
+      "A": "Cerberus",
+      "B": "Hydra",
+      "C": "Chimera",
+      "D": "Sphinx",
+      "answer": "A",
+      "funFact": "Cerberus is the three-headed dog that guards the entrance to the underworld in Greek mythology, preventing the dead from leaving and the living from entering."
+    },
+    {
+      "question": "Who is the goddess of wisdom and warfare in Greek mythology?",
+      "A": "Aphrodite",
+      "B": "Artemis",
+      "C": "Athena",
+      "D": "Hera",
+      "answer": "C",
+      "funFact": "Athena is the goddess of wisdom, warfare, and crafts in Greek mythology. She was born fully grown from Zeus's head and is often depicted with an owl."
+    },
+    {
+      "question": "What is the name of the hero who performed 12 labors?",
+      "A": "Perseus",
+      "B": "Theseus",
+      "C": "Hercules",
+      "D": "Achilles",
+      "answer": "C",
+      "funFact": "Hercules (Heracles in Greek) performed 12 labors as penance for killing his family in a fit of madness, including slaying the Nemean Lion and capturing Cerberus."
+    },
+    {
+      "question": "Who is the god of the sea in Greek mythology?",
+      "A": "Zeus",
+      "B": "Poseidon",
+      "C": "Hades",
+      "D": "Oceanus",
+      "answer": "B",
+      "funFact": "Poseidon is the god of the sea, earthquakes, and horses in Greek mythology. He is often depicted with a trident and is one of the three major Olympian gods."
+    },
+    {
+      "question": "What is the name of the winged horse in Greek mythology?",
+      "A": "Pegasus",
+      "B": "Bellerophon",
+      "C": "Chiron",
+      "D": "Arion",
+      "answer": "A",
+      "funFact": "Pegasus is the winged horse in Greek mythology, born from the blood of Medusa when Perseus beheaded her. Pegasus was later tamed by Bellerophon."
+    },
+    {
+      "question": "Who opened Pandora's Box?",
+      "A": "Pandora",
+      "B": "Epimetheus",
+      "C": "Prometheus",
+      "D": "Zeus",
+      "answer": "A",
+      "funFact": "Pandora, the first woman created by the gods, opened the box (actually a jar) given to her by Zeus, releasing all evils into the world, leaving only hope inside."
+    },
+    {
+      "question": "What is the name of the river that souls must cross to reach the underworld?",
+      "A": "Styx",
+      "B": "Lethe",
+      "C": "Acheron",
+      "D": "Phlegethon",
+      "answer": "A",
+      "funFact": "The River Styx is the river that forms the boundary between Earth and the underworld. Souls must be ferried across by Charon, the ferryman."
+    },
+    {
+      "question": "Who is the messenger of the gods?",
+      "A": "Hermes",
+      "B": "Iris",
+      "C": "Apollo",
+      "D": "Ares",
+      "answer": "A",
+      "funFact": "Hermes is the messenger of the gods, known for his speed and cunning. He is also the god of trade, thieves, travelers, and guide to the underworld."
+    },
+    {
+      "question": "What is the name of the hero whose only weakness was his heel?",
+      "A": "Odysseus",
+      "B": "Achilles",
+      "C": "Hector",
+      "D": "Ajax",
+      "answer": "B",
+      "funFact": "Achilles was a Greek hero of the Trojan War whose only weakness was his heel, where his mother Thetis held him when dipping him in the River Styx. He was killed by an arrow to his heel."
+    }
+]
+

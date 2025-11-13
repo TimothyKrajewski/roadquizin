@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the water cycle?",
+      "A": "Water moving through pipes",
+      "B": "The continuous movement of water on Earth",
+      "C": "Water in the ocean",
+      "D": "Water in clouds",
+      "answer": "B",
+      "funFact": "The water cycle is the continuous movement of water on, above, and below Earth's surface. Water moves through evaporation, condensation, precipitation, and collection."
+    },
+    {
+      "question": "What is evaporation?",
+      "A": "Water falling from the sky",
+      "B": "Water turning into water vapor",
+      "C": "Water vapor turning into liquid",
+      "D": "Water freezing",
+      "answer": "B",
+      "funFact": "Evaporation is when liquid water turns into water vapor (gas) and rises into the atmosphere. This happens when the Sun heats water in oceans, lakes, and rivers."
+    },
+    {
+      "question": "What is condensation?",
+      "A": "Water falling from the sky",
+      "B": "Water turning into water vapor",
+      "C": "Water vapor turning into liquid",
+      "D": "Water freezing",
+      "answer": "C",
+      "funFact": "Condensation is when water vapor (gas) turns back into liquid water. This is how clouds form - water vapor cools and condenses into tiny water droplets."
+    },
+    {
+      "question": "What is precipitation?",
+      "A": "Water falling from the sky",
+      "B": "Water turning into water vapor",
+      "C": "Water vapor turning into liquid",
+      "D": "Water freezing",
+      "answer": "A",
+      "funFact": "Precipitation is water falling from the sky in any form, including rain, snow, sleet, or hail. It's a key part of the water cycle."
+    },
+    {
+      "question": "What causes the water cycle?",
+      "A": "The Moon",
+      "B": "The Sun",
+      "C": "The wind",
+      "D": "The ocean",
+      "answer": "B",
+      "funFact": "The Sun drives the water cycle by heating water and causing evaporation. Without the Sun's energy, the water cycle would not work."
+    },
+    {
+      "question": "Where does most evaporation occur?",
+      "A": "From the land",
+      "B": "From the oceans",
+      "C": "From plants",
+      "D": "From rivers",
+      "answer": "B",
+      "funFact": "Most evaporation occurs from the oceans, which cover about 71% of Earth's surface. The oceans are the largest source of water vapor in the atmosphere."
+    },
+    {
+      "question": "What is transpiration?",
+      "A": "Water falling from plants",
+      "B": "Water evaporating from plants",
+      "C": "Water being absorbed by plants",
+      "D": "Water freezing on plants",
+      "answer": "B",
+      "funFact": "Transpiration is when water evaporates from plants through their leaves. This is an important part of the water cycle, as plants release water vapor into the air."
+    },
+    {
+      "question": "What happens to water after it falls as precipitation?",
+      "A": "It disappears",
+      "B": "It flows into rivers, lakes, and oceans",
+      "C": "It stays in the sky",
+      "D": "It turns into ice forever",
+      "answer": "B",
+      "funFact": "After precipitation, water flows into rivers, lakes, and oceans, or soaks into the ground. This water can then evaporate again, continuing the cycle."
+    },
+    {
+      "question": "How long does the water cycle take?",
+      "A": "A few hours",
+      "B": "A few days",
+      "C": "It varies - water can cycle quickly or take thousands of years",
+      "D": "A few months",
+      "answer": "C",
+      "funFact": "The water cycle has no set time - some water cycles quickly (hours or days), while water in deep oceans or groundwater can take thousands of years to cycle."
+    },
+    {
+      "question": "Is the amount of water on Earth changing?",
+      "A": "Yes, it's increasing",
+      "B": "Yes, it's decreasing",
+      "C": "No, the amount stays the same",
+      "D": "It varies",
+      "answer": "C",
+      "funFact": "The amount of water on Earth stays the same - water is neither created nor destroyed, it just moves through the water cycle in different forms and locations."
+    }
+]
+

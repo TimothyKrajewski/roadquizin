@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the main purpose of flowers?",
+      "A": "To look pretty",
+      "B": "To produce seeds",
+      "C": "To attract insects",
+      "D": "All of the above",
+      "answer": "B",
+      "funFact": "The main purpose of flowers is to produce seeds through reproduction. While flowers may look pretty and attract pollinators, their primary function is reproduction."
+    },
+    {
+      "question": "What is the largest flower in the world?",
+      "A": "Sunflower",
+      "B": "Rafflesia",
+      "C": "Rose",
+      "D": "Orchid",
+      "answer": "B",
+      "funFact": "The Rafflesia is the largest flower in the world, growing up to 3 feet in diameter and weighing up to 15 pounds. It's also known for its strong, unpleasant odor."
+    },
+    {
+      "question": "What is the national flower of the United States?",
+      "A": "Rose",
+      "B": "Tulip",
+      "C": "Sunflower",
+      "D": "Lily",
+      "answer": "A",
+      "funFact": "The rose is the national flower of the United States, declared so in 1986. Each state also has its own state flower."
+    },
+    {
+      "question": "What do bees get from flowers?",
+      "A": "Nectar",
+      "B": "Pollen",
+      "C": "Both A and B",
+      "D": "Seeds",
+      "answer": "C",
+      "funFact": "Bees get both nectar (a sweet liquid) and pollen (protein-rich powder) from flowers. Nectar is used to make honey, and pollen is food for bee larvae."
+    },
+    {
+      "question": "What is the process called when pollen is transferred from one flower to another?",
+      "A": "Photosynthesis",
+      "B": "Pollination",
+      "C": "Fertilization",
+      "D": "Germination",
+      "answer": "B",
+      "funFact": "Pollination is the process by which pollen is transferred from the male part of a flower to the female part, allowing fertilization and seed production."
+    },
+    {
+      "question": "What flower is known for following the sun?",
+      "A": "Sunflower",
+      "B": "Tulip",
+      "C": "Rose",
+      "D": "Daisy",
+      "answer": "A",
+      "funFact": "Sunflowers are known for heliotropism - they turn their flowers to face the sun as it moves across the sky during the day."
+    },
+    {
+      "question": "What is the most common flower color?",
+      "A": "Red",
+      "B": "Yellow",
+      "C": "White",
+      "D": "Blue",
+      "answer": "B",
+      "funFact": "Yellow is one of the most common flower colors in nature, as it's highly visible to pollinators like bees, which can see yellow well."
+    },
+    {
+      "question": "What flower is associated with Valentine's Day?",
+      "A": "Tulip",
+      "B": "Rose",
+      "C": "Carnation",
+      "D": "Lily",
+      "answer": "B",
+      "funFact": "Roses, especially red roses, are associated with Valentine's Day and are a traditional symbol of love and romance."
+    },
+    {
+      "question": "What is the smallest flower in the world?",
+      "A": "Violet",
+      "B": "Daisy",
+      "C": "Watermeal",
+      "D": "Forget-me-not",
+      "answer": "C",
+      "funFact": "Watermeal (Wolffia) produces the smallest flowers in the world, measuring less than 1 millimeter across. The entire plant is tiny, about the size of a grain of rice."
+    },
+    {
+      "question": "How many petals do most flowers have?",
+      "A": "3 or 4",
+      "B": "5 or 6",
+      "C": "It varies greatly",
+      "D": "Always 5",
+      "answer": "C",
+      "funFact": "The number of petals varies greatly among flowers. Some have 3, 4, 5, 6, or many petals. The number often depends on the plant family and species."
+    }
+]
+

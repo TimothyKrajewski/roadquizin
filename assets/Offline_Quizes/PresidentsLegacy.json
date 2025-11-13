@@ -1,0 +1,246 @@
+[
+    {
+      "question": "Which President is known as the 'Father of His Country'?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "George Washington",
+      "D": "Benjamin Franklin",
+      "answer": "C",
+      "funFact": "George Washington is known as the 'Father of His Country' for his leadership during the American Revolution and as the first President, setting many precedents."
+    },
+    {
+      "question": "Which President is known as the 'Great Emancipator'?",
+      "A": "Andrew Johnson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "Rutherford B. Hayes",
+      "answer": "B",
+      "funFact": "Abraham Lincoln is known as the 'Great Emancipator' for issuing the Emancipation Proclamation and his role in ending slavery in the United States."
+    },
+    {
+      "question": "Which President is known as the 'Conservation President'?",
+      "A": "William McKinley",
+      "B": "Theodore Roosevelt",
+      "C": "William Howard Taft",
+      "D": "Woodrow Wilson",
+      "answer": "B",
+      "funFact": "Theodore Roosevelt is known as the 'Conservation President' for establishing many national parks, forests, and wildlife refuges, protecting millions of acres of land."
+    },
+    {
+      "question": "Which President is known as the 'New Deal President'?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt is known as the 'New Deal President' for creating the New Deal programs that helped the United States recover from the Great Depression."
+    },
+    {
+      "question": "Which President is known as the 'Great Communicator'?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "B",
+      "funFact": "Ronald Reagan is known as the 'Great Communicator' for his exceptional public speaking skills and ability to connect with the American people."
+    },
+    {
+      "question": "Which President is known as the 'Man of the People'?",
+      "A": "Andrew Jackson",
+      "B": "William Henry Harrison",
+      "C": "James K. Polk",
+      "D": "Zachary Taylor",
+      "answer": "A",
+      "funFact": "Andrew Jackson is known as the 'Man of the People' because he was the first President from the western frontier and appealed to common people, not just the elite."
+    },
+    {
+      "question": "Which President is known as the 'Father of the Constitution'?",
+      "A": "George Washington",
+      "B": "Thomas Jefferson",
+      "C": "James Madison",
+      "D": "Alexander Hamilton",
+      "answer": "C",
+      "funFact": "James Madison is known as the 'Father of the Constitution' because of his crucial role in drafting and promoting the U.S. Constitution and the Bill of Rights."
+    },
+    {
+      "question": "Which President is known as the 'Trust Buster'?",
+      "A": "William McKinley",
+      "B": "Theodore Roosevelt",
+      "C": "William Howard Taft",
+      "D": "Woodrow Wilson",
+      "answer": "B",
+      "funFact": "Theodore Roosevelt is known as the 'Trust Buster' for his aggressive enforcement of antitrust laws, breaking up large monopolies and trusts."
+    },
+    {
+      "question": "Which President is known as the 'Education President'?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "B",
+      "funFact": "George H.W. Bush called himself the 'Education President' and worked to improve American education, though his education initiatives were limited by other priorities."
+    },
+    {
+      "question": "Which President is known for the 'Square Deal'?",
+      "A": "William McKinley",
+      "B": "Theodore Roosevelt",
+      "C": "William Howard Taft",
+      "D": "Woodrow Wilson",
+      "answer": "B",
+      "funFact": "Theodore Roosevelt is known for the 'Square Deal,' his domestic policy focused on conservation, consumer protection, and controlling corporations."
+    },
+    {
+      "question": "Which President is known for the 'Fair Deal'?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "John F. Kennedy",
+      "answer": "B",
+      "funFact": "Harry S. Truman is known for the 'Fair Deal,' his extension of the New Deal that included proposals for healthcare, education, and civil rights."
+    },
+    {
+      "question": "Which President is known for the 'New Frontier'?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy is known for the 'New Frontier,' his vision for America that included space exploration, civil rights, and economic growth."
+    },
+    {
+      "question": "Which President is known for the 'Great Society'?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson is known for the 'Great Society,' his vision that included Medicare, Medicaid, civil rights legislation, and the War on Poverty."
+    },
+    {
+      "question": "Which President is known for 'Reaganomics'?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "B",
+      "funFact": "Ronald Reagan is known for 'Reaganomics,' his economic policies that included tax cuts, deregulation, and reduced government spending."
+    },
+    {
+      "question": "Which President is known for 'Obamacare'?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Donald Trump",
+      "D": "Joe Biden",
+      "answer": "B",
+      "funFact": "Barack Obama is known for 'Obamacare' (the Affordable Care Act), which expanded healthcare coverage to millions of Americans."
+    },
+    {
+      "question": "Which President is known for the 'Monroe Doctrine'?",
+      "A": "James Madison",
+      "B": "James Monroe",
+      "C": "John Quincy Adams",
+      "D": "Andrew Jackson",
+      "answer": "B",
+      "funFact": "James Monroe is known for the Monroe Doctrine, which declared that the Americas were off-limits to further European colonization."
+    },
+    {
+      "question": "Which President is known for the 'Truman Doctrine'?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "John F. Kennedy",
+      "answer": "B",
+      "funFact": "Harry S. Truman is known for the Truman Doctrine, which committed the U.S. to supporting countries threatened by communism, marking the start of the Cold War."
+    },
+    {
+      "question": "Which President is known for the 'Eisenhower Doctrine'?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "B",
+      "funFact": "Dwight D. Eisenhower is known for the Eisenhower Doctrine, which promised U.S. support to Middle Eastern countries threatened by communism."
+    },
+    {
+      "question": "Which President is known for the 'Nixon Doctrine'?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon is known for the Nixon Doctrine, which shifted U.S. foreign policy to expect allies to provide for their own defense with U.S. support."
+    },
+    {
+      "question": "Which President is known for 'détente'?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon is known for 'détente,' a policy of easing tensions with the Soviet Union and China during the Cold War."
+    },
+    {
+      "question": "Which President is known for the 'Carter Doctrine'?",
+      "A": "Gerald Ford",
+      "B": "Jimmy Carter",
+      "C": "Ronald Reagan",
+      "D": "George H.W. Bush",
+      "answer": "B",
+      "funFact": "Jimmy Carter is known for the Carter Doctrine, which declared that the U.S. would use military force to protect its interests in the Persian Gulf."
+    },
+    {
+      "question": "Which President is known for the 'Reagan Doctrine'?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "B",
+      "funFact": "Ronald Reagan is known for the Reagan Doctrine, which supported anti-communist movements around the world, particularly in Afghanistan, Angola, and Nicaragua."
+    },
+    {
+      "question": "Which President is known for the 'Bush Doctrine'?",
+      "A": "George H.W. Bush",
+      "B": "Bill Clinton",
+      "C": "George W. Bush",
+      "D": "Barack Obama",
+      "answer": "C",
+      "funFact": "George W. Bush is known for the Bush Doctrine, which included preemptive war and spreading democracy, particularly after the 9/11 attacks."
+    },
+    {
+      "question": "Which President is known for ending the Cold War?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "Both A and B",
+      "answer": "D",
+      "funFact": "Both Ronald Reagan and George H.W. Bush are credited with ending the Cold War. Reagan's policies pressured the Soviet Union, and Bush was President when it collapsed."
+    },
+    {
+      "question": "Which President is known for the 'War on Poverty'?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson is known for the 'War on Poverty,' a set of programs designed to reduce poverty in America, including Head Start and food stamps."
+    },
+    {
+      "question": "Which President is known for the 'War on Drugs'?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon is known for starting the 'War on Drugs' in 1971, though the term became more prominent under later administrations."
+    },
+    {
+      "question": "Which President is known for the 'War on Terror'?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Both B and C",
+      "answer": "D",
+      "funFact": "The 'War on Terror' began under George W. Bush after 9/11 and continued through Barack Obama's presidency, involving conflicts in Afghanistan, Iraq, and other regions."
+    }
+]
+

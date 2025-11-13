@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What are herbs?",
+      "A": "Flavorful plants",
+      "B": "Used in cooking",
+      "C": "Both A and B",
+      "D": "Not useful",
+      "answer": "C",
+      "funFact": "Herbs are flavorful plants used in cooking. They're easy to grow and add fresh flavor to meals."
+    },
+    {
+      "question": "What are easy herbs to grow?",
+      "A": "Basil, mint, parsley",
+      "B": "Good for beginners",
+      "C": "Both A and B",
+      "D": "All difficult",
+      "answer": "C",
+      "funFact": "Easy herbs for beginners include basil, mint, and parsley. They're forgiving and grow quickly."
+    },
+    {
+      "question": "What is basil?",
+      "A": "Popular herb",
+      "B": "Used in Italian cooking",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Basil is a popular herb used in Italian cooking. It's easy to grow and very flavorful."
+    },
+    {
+      "question": "What is mint?",
+      "A": "Fast-growing herb",
+      "B": "Can be invasive",
+      "C": "Both A and B",
+      "D": "Slow growing",
+      "answer": "C",
+      "funFact": "Mint is a fast-growing herb that can be invasive. It's best grown in containers to control its spread."
+    },
+    {
+      "question": "What is rosemary?",
+      "A": "Woody herb",
+      "B": "Perennial in warm climates",
+      "C": "Both A and B",
+      "D": "Annual",
+      "answer": "C",
+      "funFact": "Rosemary is a woody herb that's a perennial in warm climates. It's very fragrant and flavorful."
+    },
+    {
+      "question": "What is thyme?",
+      "A": "Small, flavorful herb",
+      "B": "Used in many dishes",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Thyme is a small, flavorful herb used in many dishes. It's easy to grow and very versatile."
+    },
+    {
+      "question": "What is oregano?",
+      "A": "Mediterranean herb",
+      "B": "Used in Italian and Greek cooking",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Oregano is a Mediterranean herb used in Italian and Greek cooking. It's easy to grow and very flavorful."
+    },
+    {
+      "question": "What is cilantro?",
+      "A": "Also called coriander",
+      "B": "Used in Mexican and Asian cooking",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Cilantro (also called coriander) is used in Mexican and Asian cooking. Some people love it, others find it soapy."
+    },
+    {
+      "question": "What is parsley?",
+      "A": "Common herb",
+      "B": "Garnish and flavor",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Parsley is a common herb used as both a garnish and for flavor. It's easy to grow and very useful."
+    },
+    {
+      "question": "What is sage?",
+      "A": "Fragrant herb",
+      "B": "Used in stuffing and meats",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "Sage is a fragrant herb used in stuffing and with meats. It's easy to grow and very flavorful."
+    },
+    {
+      "question": "What is container herb gardening?",
+      "A": "Herbs in pots",
+      "B": "Good for small spaces",
+      "C": "Both A and B",
+      "D": "Only ground",
+      "answer": "C",
+      "funFact": "Container herb gardening is growing herbs in pots. It's great for small spaces, patios, or windowsills."
+    },
+    {
+      "question": "What is harvesting herbs?",
+      "A": "Pick when needed",
+      "B": "Regular harvesting promotes growth",
+      "C": "Both A and B",
+      "D": "Never pick",
+      "answer": "C",
+      "funFact": "Harvest herbs when needed. Regular harvesting actually promotes growth and keeps plants bushy."
+    },
+    {
+      "question": "What is drying herbs?",
+      "A": "Preserve for later",
+      "B": "Dry and store",
+      "C": "Both A and B",
+      "D": "Not possible",
+      "answer": "C",
+      "funFact": "Drying herbs preserves them for later use. Hang them to dry or use a dehydrator, then store in airtight containers."
+    },
+    {
+      "question": "What is freezing herbs?",
+      "A": "Another preservation method",
+      "B": "Freeze in oil or water",
+      "C": "Both A and B",
+      "D": "Not possible",
+      "answer": "C",
+      "funFact": "Freezing is another way to preserve herbs. Freeze them in oil or water in ice cube trays for easy use."
+    },
+    {
+      "question": "What is the benefit of fresh herbs?",
+      "A": "Better flavor",
+      "B": "More aromatic",
+      "C": "Both A and B",
+      "D": "Same as dried",
+      "answer": "C",
+      "funFact": "Fresh herbs have better flavor and are more aromatic than dried. Growing your own ensures the freshest herbs."
+    },
+    {
+      "question": "What is companion planting with herbs?",
+      "A": "Herbs help other plants",
+      "B": "Repel pests",
+      "C": "Both A and B",
+      "D": "Not helpful",
+      "answer": "C",
+      "funFact": "Herbs can help other plants when planted together. Some herbs repel pests from vegetables."
+    },
+    {
+      "question": "What is the growing season for herbs?",
+      "A": "Most are warm season",
+      "B": "Some are cool season",
+      "C": "Both A and B",
+      "D": "All same",
+      "answer": "C",
+      "funFact": "Most herbs are warm season plants, but some like parsley and cilantro prefer cooler weather."
+    },
+    {
+      "question": "What is indoor herb gardening?",
+      "A": "Herbs inside",
+      "B": "Year-round fresh herbs",
+      "C": "Both A and B",
+      "D": "Not possible",
+      "answer": "C",
+      "funFact": "Indoor herb gardening allows you to grow herbs inside for year-round fresh herbs, even in winter."
+    },
+    {
+      "question": "What is the reward of herb gardening?",
+      "A": "Fresh flavor",
+      "B": "Saves money",
+      "C": "Both A and B",
+      "D": "No reward",
+      "answer": "C",
+      "funFact": "The reward of herb gardening is fresh flavor in your cooking and saving money compared to buying herbs."
+    },
+    {
+      "question": "What is the ease of herb gardening?",
+      "A": "Relatively easy",
+      "B": "Good for beginners",
+      "C": "Both A and B",
+      "D": "Very difficult",
+      "answer": "C",
+      "funFact": "Herb gardening is relatively easy and good for beginners. Most herbs are forgiving and grow quickly."
+    }
+]
+

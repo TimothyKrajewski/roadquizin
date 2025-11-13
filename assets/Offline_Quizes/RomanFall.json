@@ -1,0 +1,183 @@
+[
+    {
+      "question": "When did the Western Roman Empire fall?",
+      "A": "410 AD",
+      "B": "476 AD",
+      "C": "1453 AD",
+      "D": "Never fell",
+      "answer": "B",
+      "funFact": "The Western Roman Empire fell in 476 AD when the last emperor, Romulus Augustulus, was deposed. However, the decline took centuries."
+    },
+    {
+      "question": "What caused the fall of the Roman Empire?",
+      "A": "Many factors",
+      "B": "Invasions, economic problems, political instability",
+      "C": "Both A and B",
+      "D": "Single cause",
+      "answer": "C",
+      "funFact": "The fall of the Roman Empire was caused by many factors, including barbarian invasions, economic problems, political instability, and military decline."
+    },
+    {
+      "question": "What were the Barbarian Invasions?",
+      "A": "Attacks by Germanic tribes",
+      "B": "Contributed to the fall",
+      "C": "Both A and B",
+      "D": "Had no impact",
+      "answer": "C",
+      "funFact": "The Barbarian Invasions were attacks by Germanic tribes (Goths, Vandals, Huns) that contributed to the fall of the Western Roman Empire."
+    },
+    {
+      "question": "Who was Attila the Hun?",
+      "A": "A barbarian leader",
+      "B": "Invaded the Roman Empire",
+      "C": "Both A and B",
+      "D": "A Roman general",
+      "answer": "C",
+      "funFact": "Attila the Hun was a barbarian leader who invaded the Roman Empire in the 5th century. He was known as the 'Scourge of God' and caused great destruction."
+    },
+    {
+      "question": "What was the economic decline?",
+      "A": "Inflation",
+      "B": "Trade disruption",
+      "C": "Both A and B",
+      "D": "No decline",
+      "answer": "C",
+      "funFact": "The Roman economy declined due to inflation, trade disruption, and reduced tax revenue. The empire struggled to fund its military and administration."
+    },
+    {
+      "question": "What was political instability?",
+      "A": "Frequent emperor changes",
+      "B": "Civil wars",
+      "C": "Both A and B",
+      "D": "Stable government",
+      "answer": "C",
+      "funFact": "Political instability included frequent emperor changes (many were assassinated) and civil wars. This weakened the empire's ability to respond to threats."
+    },
+    {
+      "question": "What was military decline?",
+      "A": "Less effective army",
+      "B": "Relied on mercenaries",
+      "C": "Both A and B",
+      "D": "Army improved",
+      "answer": "C",
+      "funFact": "The Roman military declined in effectiveness and relied increasingly on mercenaries. The army became less disciplined and less loyal to the empire."
+    },
+    {
+      "question": "What was the division of the empire?",
+      "A": "Eastern and Western",
+      "B": "Made it harder to defend",
+      "C": "Both A and B",
+      "D": "Strengthened it",
+      "answer": "C",
+      "funFact": "The division of the empire into Eastern and Western halves made it harder to defend. The two halves often didn't cooperate effectively."
+    },
+    {
+      "question": "What happened to the Eastern Roman Empire?",
+      "A": "Became the Byzantine Empire",
+      "B": "Lasted until 1453",
+      "C": "Both A and B",
+      "D": "Fell in 476",
+      "answer": "C",
+      "funFact": "The Eastern Roman Empire became the Byzantine Empire and lasted until 1453, when Constantinople fell to the Ottoman Turks."
+    },
+    {
+      "question": "What was the impact of Christianity?",
+      "A": "Changed Roman values",
+      "B": "Divided the empire",
+      "C": "Both A and B",
+      "D": "No impact",
+      "answer": "C",
+      "funFact": "Christianity changed Roman values and sometimes divided the empire. However, it also provided unity and helped preserve Roman culture in the East."
+    },
+    {
+      "question": "What was the legacy of the fall?",
+      "A": "End of ancient world",
+      "B": "Beginning of Middle Ages",
+      "C": "Both A and B",
+      "D": "No legacy",
+      "answer": "C",
+      "funFact": "The fall of the Western Roman Empire marked the end of the ancient world and the beginning of the Middle Ages. It had profound effects on European history."
+    },
+    {
+      "question": "What survived the fall?",
+      "A": "Roman law",
+      "B": "Roman language and culture",
+      "C": "Both A and B",
+      "D": "Nothing",
+      "answer": "C",
+      "funFact": "Roman law, language (Latin), and culture survived the fall and influenced medieval and modern Europe. The Catholic Church preserved much Roman learning."
+    },
+    {
+      "question": "What was the Dark Ages?",
+      "A": "Period after the fall",
+      "B": "Cultural decline",
+      "C": "Both A and B",
+      "D": "A myth",
+      "answer": "C",
+      "funFact": "The Dark Ages was a period after the fall of the Western Roman Empire characterized by cultural decline, though recent scholarship questions how 'dark' it really was."
+    },
+    {
+      "question": "What was the role of the Catholic Church?",
+      "A": "Preserved Roman culture",
+      "B": "Provided stability",
+      "C": "Both A and B",
+      "D": "No role",
+      "answer": "C",
+      "funFact": "The Catholic Church preserved Roman culture, provided stability, and became a major political and cultural force in medieval Europe."
+    },
+    {
+      "question": "What was the impact on Europe?",
+      "A": "Fragmentation",
+      "B": "Formation of new kingdoms",
+      "C": "Both A and B",
+      "D": "Unification",
+      "answer": "C",
+      "funFact": "The fall of the Roman Empire led to the fragmentation of Europe and the formation of new kingdoms. This shaped the political map of Europe for centuries."
+    },
+    {
+      "question": "What was the impact on culture?",
+      "A": "Loss of knowledge",
+      "B": "New cultural developments",
+      "C": "Both A and B",
+      "D": "No change",
+      "answer": "C",
+      "funFact": "The fall led to some loss of knowledge but also new cultural developments. Medieval Europe developed its own unique culture while preserving Roman elements."
+    },
+    {
+      "question": "What was the impact on trade?",
+      "A": "Decline",
+      "B": "Less safe and efficient",
+      "C": "Both A and B",
+      "D": "Improved",
+      "answer": "C",
+      "funFact": "Trade declined after the fall, becoming less safe and efficient. The loss of Roman roads and security made long-distance trade more difficult."
+    },
+    {
+      "question": "What was the impact on cities?",
+      "A": "Decline",
+      "B": "Many cities shrank or were abandoned",
+      "C": "Both A and B",
+      "D": "Growth",
+      "answer": "C",
+      "funFact": "Many cities declined after the fall, shrinking or being abandoned. Urban life became less important, and society became more rural."
+    },
+    {
+      "question": "What was the impact on technology?",
+      "A": "Some loss",
+      "B": "Some preservation",
+      "C": "Both A and B",
+      "D": "Complete loss",
+      "answer": "C",
+      "funFact": "Some Roman technology was lost, but much was preserved. Medieval Europe continued to use Roman techniques in architecture, engineering, and agriculture."
+    },
+    {
+      "question": "What is the modern view of the fall?",
+      "A": "Complex event",
+      "B": "Not a single moment",
+      "C": "Both A and B",
+      "D": "Simple event",
+      "answer": "C",
+      "funFact": "Modern historians view the fall as a complex event that took centuries, not a single moment. The 'fall' was more of a gradual transformation."
+    }
+]
+

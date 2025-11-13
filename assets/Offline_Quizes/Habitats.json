@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is a habitat?",
+      "A": "A type of animal",
+      "B": "The natural home of an organism",
+      "C": "A type of plant",
+      "D": "A type of weather",
+      "answer": "B",
+      "funFact": "A habitat is the natural home or environment where an organism lives. It provides all the resources the organism needs to survive, including food, water, shelter, and space."
+    },
+    {
+      "question": "What is a forest habitat?",
+      "A": "A dry area with few trees",
+      "B": "An area with many trees",
+      "C": "A water area",
+      "D": "A cold area",
+      "answer": "B",
+      "funFact": "A forest habitat is an area dominated by trees. Forests provide shelter and food for many animals and are important for producing oxygen and storing carbon."
+    },
+    {
+      "question": "What is a desert habitat?",
+      "A": "A wet area",
+      "B": "A dry area with little rainfall",
+      "C": "A cold area",
+      "D": "A forest area",
+      "answer": "B",
+      "funFact": "A desert habitat is a dry area with very little rainfall. Deserts can be hot (like the Sahara) or cold (like Antarctica), but all have limited water."
+    },
+    {
+      "question": "What is an ocean habitat?",
+      "A": "A land area",
+      "B": "A saltwater environment",
+      "C": "A freshwater area",
+      "D": "A dry area",
+      "answer": "B",
+      "funFact": "An ocean habitat is a saltwater environment that covers most of Earth's surface. It's home to many marine animals, from tiny plankton to giant whales."
+    },
+    {
+      "question": "What is a grassland habitat?",
+      "A": "An area with many trees",
+      "B": "An area dominated by grasses",
+      "C": "A water area",
+      "D": "A cold area",
+      "answer": "B",
+      "funFact": "A grassland habitat is an area dominated by grasses with few trees. Grasslands are home to many grazing animals like bison, zebras, and antelopes."
+    },
+    {
+      "question": "What is a wetland habitat?",
+      "A": "A dry area",
+      "B": "A land area",
+      "C": "An area where land and water meet",
+      "D": "A forest area",
+      "answer": "C",
+      "funFact": "A wetland habitat is an area where land and water meet, such as marshes, swamps, and bogs. Wetlands are important for filtering water and providing habitat for many species."
+    },
+    {
+      "question": "What is a tundra habitat?",
+      "A": "A hot area",
+      "B": "A cold, treeless area",
+      "C": "A forest area",
+      "D": "A water area",
+      "answer": "B",
+      "funFact": "A tundra habitat is a cold, treeless area found in the Arctic and on high mountains. It has a short growing season and is home to animals like caribou and Arctic foxes."
+    },
+    {
+      "question": "What is adaptation?",
+      "A": "Changing the habitat",
+      "B": "A trait that helps an organism survive in its habitat",
+      "C": "Moving to a new habitat",
+      "D": "A type of habitat",
+      "answer": "B",
+      "funFact": "An adaptation is a trait or characteristic that helps an organism survive in its habitat. Examples include a camel's hump for storing water or a polar bear's white fur for camouflage."
+    },
+    {
+      "question": "What happens when a habitat is destroyed?",
+      "A": "Nothing",
+      "B": "Animals must adapt or find new homes",
+      "C": "All animals die immediately",
+      "D": "The habitat comes back right away",
+      "answer": "B",
+      "funFact": "When a habitat is destroyed, the animals that live there must adapt to the changes, find new homes, or face the risk of population decline or extinction."
+    },
+    {
+      "question": "What is the largest habitat on Earth?",
+      "A": "Forest",
+      "B": "Ocean",
+      "C": "Desert",
+      "D": "Grassland",
+      "answer": "B",
+      "funFact": "The ocean is the largest habitat on Earth, covering about 71% of the planet's surface. It's home to the greatest diversity of life on Earth."
+    }
+]
+

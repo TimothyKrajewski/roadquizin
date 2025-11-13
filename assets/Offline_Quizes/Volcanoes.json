@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is a volcano?",
+      "A": "A mountain",
+      "B": "An opening in Earth's crust",
+      "C": "A type of rock",
+      "D": "A type of cloud",
+      "answer": "B",
+      "funFact": "A volcano is an opening in Earth's crust through which molten rock (magma), ash, and gases can escape. When magma reaches the surface, it's called lava."
+    },
+    {
+      "question": "What is molten rock inside a volcano called?",
+      "A": "Lava",
+      "B": "Magma",
+      "C": "Ash",
+      "D": "Tephra",
+      "answer": "B",
+      "funFact": "Magma is molten rock inside a volcano, while lava is magma that has reached the Earth's surface. The temperature of magma can exceed 1,200°C (2,200°F)."
+    },
+    {
+      "question": "What is the Ring of Fire?",
+      "A": "A type of volcano",
+      "B": "A region with many volcanoes",
+      "C": "A famous volcano",
+      "D": "A type of eruption",
+      "answer": "B",
+      "funFact": "The Ring of Fire is a region around the Pacific Ocean where many earthquakes and volcanic eruptions occur, due to tectonic plate boundaries."
+    },
+    {
+      "question": "What is the name of the famous volcano in Italy that destroyed Pompeii?",
+      "A": "Mount Etna",
+      "B": "Mount Vesuvius",
+      "C": "Stromboli",
+      "D": "Mount Fuji",
+      "answer": "B",
+      "funFact": "Mount Vesuvius erupted in 79 CE, destroying the Roman cities of Pompeii and Herculaneum. It's still an active volcano and one of the most dangerous in the world."
+    },
+    {
+      "question": "What type of volcano has gentle slopes and fluid lava?",
+      "A": "Composite volcano",
+      "B": "Shield volcano",
+      "C": "Cinder cone",
+      "D": "Caldera",
+      "answer": "B",
+      "funFact": "Shield volcanoes have gentle slopes and are formed by fluid lava flows. Mauna Loa in Hawaii is the largest shield volcano on Earth."
+    },
+    {
+      "question": "What is the largest active volcano in the world?",
+      "A": "Mount Vesuvius",
+      "B": "Mount St. Helens",
+      "C": "Mauna Loa",
+      "D": "Krakatoa",
+      "answer": "C",
+      "funFact": "Mauna Loa in Hawaii is the largest active volcano in the world, rising 13,678 feet above sea level and extending 18,000 feet below sea level."
+    },
+    {
+      "question": "What is a supervolcano?",
+      "A": "A very large volcano",
+      "B": "A volcano that can produce extremely large eruptions",
+      "C": "An extinct volcano",
+      "D": "A type of shield volcano",
+      "answer": "B",
+      "funFact": "A supervolcano is a volcano capable of producing extremely large eruptions with ejecta volumes greater than 1,000 cubic kilometers. Yellowstone is a supervolcano."
+    },
+    {
+      "question": "What is the name of the famous volcano in Japan?",
+      "A": "Mount Kilimanjaro",
+      "B": "Mount Fuji",
+      "C": "Mount Everest",
+      "D": "Mount Rainier",
+      "answer": "B",
+      "funFact": "Mount Fuji is Japan's highest mountain and an active volcano, though it hasn't erupted since 1707. It's a sacred symbol of Japan and a UNESCO World Heritage Site."
+    },
+    {
+      "question": "What causes most volcanic eruptions?",
+      "A": "Earthquakes",
+      "B": "Pressure from magma",
+      "C": "Weather",
+      "D": "Tides",
+      "answer": "B",
+      "funFact": "Volcanic eruptions are caused by pressure from magma (molten rock) building up beneath the Earth's surface. When pressure exceeds the strength of the overlying rock, an eruption occurs."
+    },
+    {
+      "question": "What is volcanic ash?",
+      "A": "Burned material",
+      "B": "Tiny rock particles",
+      "C": "Smoke",
+      "D": "Water vapor",
+      "answer": "B",
+      "funFact": "Volcanic ash consists of tiny rock particles and glass fragments ejected during an eruption. It can travel thousands of miles and affect climate and aviation."
+    }
+]
+

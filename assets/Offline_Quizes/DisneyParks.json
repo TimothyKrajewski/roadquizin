@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the first Disney theme park to open?",
+      "A": "Disneyland",
+      "B": "Walt Disney World",
+      "C": "Tokyo Disneyland",
+      "D": "Disneyland Paris",
+      "answer": "A",
+      "funFact": "Disneyland in Anaheim, California, opened on July 17, 1955, and was the first Disney theme park. It was the only park designed and built under Walt Disney's direct supervision."
+    },
+    {
+      "question": "What year did Disneyland open?",
+      "A": "1953",
+      "B": "1954",
+      "C": "1955",
+      "D": "1956",
+      "answer": "C",
+      "funFact": "Disneyland opened on July 17, 1955. The opening day was televised and is known as 'Black Sunday' due to various technical problems and overcrowding."
+    },
+    {
+      "question": "What is the name of the castle at Disneyland?",
+      "A": "Cinderella Castle",
+      "B": "Sleeping Beauty Castle",
+      "C": "Beast's Castle",
+      "D": "Rapunzel's Tower",
+      "answer": "B",
+      "funFact": "Sleeping Beauty Castle is the iconic centerpiece of Disneyland. It's based on Neuschwanstein Castle in Germany and stands 77 feet tall."
+    },
+    {
+      "question": "What is the name of the castle at Walt Disney World's Magic Kingdom?",
+      "A": "Sleeping Beauty Castle",
+      "B": "Cinderella Castle",
+      "C": "Beast's Castle",
+      "D": "Rapunzel's Tower",
+      "answer": "B",
+      "funFact": "Cinderella Castle is the centerpiece of Magic Kingdom at Walt Disney World. It stands 189 feet tall, making it the tallest Disney castle."
+    },
+    {
+      "question": "What year did Walt Disney World open?",
+      "A": "1969",
+      "B": "1970",
+      "C": "1971",
+      "D": "1972",
+      "answer": "C",
+      "funFact": "Walt Disney World opened on October 1, 1971, with the Magic Kingdom. Walt Disney had died in 1966, so he never saw the park completed."
+    },
+    {
+      "question": "What is the name of the futuristic theme park at Walt Disney World?",
+      "A": "Tomorrowland",
+      "B": "Epcot",
+      "C": "Future World",
+      "D": "Innoventions",
+      "answer": "B",
+      "funFact": "Epcot (Experimental Prototype Community of Tomorrow) opened in 1982. It was originally conceived by Walt Disney as a futuristic city but became a theme park."
+    },
+    {
+      "question": "What is the name of the animal-themed park at Walt Disney World?",
+      "A": "Animal Kingdom",
+      "B": "Safari Park",
+      "C": "Wildlife Kingdom",
+      "D": "Adventure Kingdom",
+      "answer": "A",
+      "funFact": "Disney's Animal Kingdom opened in 1998 and is the largest Disney theme park in the world, covering 580 acres. It combines a theme park with a zoological park."
+    },
+    {
+      "question": "What is the name of the movie-themed park at Walt Disney World?",
+      "A": "Hollywood Studios",
+      "B": "MGM Studios",
+      "C": "Disney Studios",
+      "D": "Both A and B",
+      "answer": "D",
+      "funFact": "Disney's Hollywood Studios opened in 1989 as Disney-MGM Studios. It was renamed Disney's Hollywood Studios in 2008 after the MGM licensing agreement ended."
+    },
+    {
+      "question": "What is the name of the first Disney park outside the United States?",
+      "A": "Tokyo Disneyland",
+      "B": "Disneyland Paris",
+      "C": "Hong Kong Disneyland",
+      "D": "Shanghai Disneyland",
+      "answer": "A",
+      "funFact": "Tokyo Disneyland opened in 1983 and was the first Disney park outside the United States. It's owned and operated by The Oriental Land Company, not Disney."
+    },
+    {
+      "question": "What is the name of the iconic ride at Disneyland that takes you through 'it's a small world'?",
+      "A": "It's a Small World",
+      "B": "Pirates of the Caribbean",
+      "C": "Haunted Mansion",
+      "D": "Space Mountain",
+      "answer": "A",
+      "funFact": "'it's a small world' opened at Disneyland in 1966. The song was written by the Sherman Brothers and is one of the most recognizable Disney songs."
+    },
+    {
+      "question": "What is the name of the roller coaster in the dark at Disneyland?",
+      "A": "Space Mountain",
+      "B": "Big Thunder Mountain",
+      "C": "Matterhorn Bobsleds",
+      "D": "Splash Mountain",
+      "answer": "A",
+      "funFact": "Space Mountain opened at Disneyland in 1977 and was the first indoor roller coaster. It takes riders on a journey through outer space in complete darkness."
+    },
+    {
+      "question": "What is the name of the ride based on pirates at Disneyland?",
+      "A": "Pirates of the Caribbean",
+      "B": "Jungle Cruise",
+      "C": "Indiana Jones Adventure",
+      "D": "Haunted Mansion",
+      "answer": "A",
+      "funFact": "Pirates of the Caribbean opened at Disneyland in 1967 and was the last attraction that Walt Disney personally supervised. It inspired the popular film series."
+    },
+    {
+      "question": "What is the name of the spooky ride at Disneyland?",
+      "A": "Haunted Mansion",
+      "B": "Tower of Terror",
+      "C": "Pirates of the Caribbean",
+      "D": "Space Mountain",
+      "answer": "A",
+      "funFact": "The Haunted Mansion opened at Disneyland in 1969. It features 999 happy haunts and uses advanced audio-animatronics and special effects."
+    },
+    {
+      "question": "What is the name of the water ride at Disneyland that features a big drop?",
+      "A": "Splash Mountain",
+      "B": "Grizzly River Run",
+      "C": "Kali River Rapids",
+      "D": "Jungle Cruise",
+      "answer": "A",
+      "funFact": "Splash Mountain opened at Disneyland in 1989 and is based on the animated sequences from Song of the South. It features a 52.5-foot drop."
+    },
+    {
+      "question": "What is the name of the area at Disneyland that represents the future?",
+      "A": "Tomorrowland",
+      "B": "Futureland",
+      "C": "Spaceport",
+      "D": "Innoventions",
+      "answer": "A",
+      "funFact": "Tomorrowland represents the future and space exploration. It features attractions like Space Mountain, Star Tours, and the Astro Orbiter."
+    },
+    {
+      "question": "What is the name of the area at Disneyland that represents the Old West?",
+      "A": "Frontierland",
+      "B": "Adventureland",
+      "C": "Critter Country",
+      "D": "New Orleans Square",
+      "answer": "A",
+      "funFact": "Frontierland represents the American Old West and features attractions like Big Thunder Mountain Railroad and the Mark Twain Riverboat."
+    },
+    {
+      "question": "What is the name of the area at Disneyland that represents adventure?",
+      "A": "Adventureland",
+      "B": "Frontierland",
+      "C": "Critter Country",
+      "D": "New Orleans Square",
+      "answer": "A",
+      "funFact": "Adventureland represents exotic locations and features attractions like the Jungle Cruise, Indiana Jones Adventure, and the Enchanted Tiki Room."
+    },
+    {
+      "question": "What is the name of the area at Disneyland that represents fantasy?",
+      "A": "Fantasyland",
+      "B": "Tomorrowland",
+      "C": "Adventureland",
+      "D": "Frontierland",
+      "answer": "A",
+      "funFact": "Fantasyland is where fairy tales come to life, featuring attractions like It's a Small World, Peter Pan's Flight, and the Matterhorn Bobsleds."
+    },
+    {
+      "question": "What is the name of the monorail system at Disneyland?",
+      "A": "Disneyland Monorail",
+      "B": "Walt Disney World Monorail",
+      "C": "Both have monorails",
+      "D": "Neither has a monorail",
+      "answer": "C",
+      "funFact": "Both Disneyland and Walt Disney World have monorail systems. The Disneyland Monorail opened in 1959 and was the first daily operating monorail in the Western Hemisphere."
+    },
+    {
+      "question": "What is the name of the hotel at Disneyland that you can see from the park?",
+      "A": "Disneyland Hotel",
+      "B": "Grand Californian Hotel",
+      "C": "Paradise Pier Hotel",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "There are three Disney hotels at the Disneyland Resort: the original Disneyland Hotel, Disney's Grand Californian Hotel & Spa, and Disney's Paradise Pier Hotel."
+    }
+]
+

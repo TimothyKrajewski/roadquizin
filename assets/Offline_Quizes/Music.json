@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many strings does a standard guitar have?",
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "answer": "C",
+      "funFact": "A standard guitar has 6 strings, typically tuned to E, A, D, G, B, and E (from low to high)."
+    },
+    {
+      "question": "What is the name of the highest female singing voice?",
+      "A": "Alto",
+      "B": "Mezzo-soprano",
+      "C": "Soprano",
+      "D": "Tenor",
+      "answer": "C",
+      "funFact": "Soprano is the highest female singing voice, typically ranging from middle C to high C and beyond."
+    },
+    {
+      "question": "How many keys are on a standard piano?",
+      "A": "76",
+      "B": "82",
+      "C": "88",
+      "D": "92",
+      "answer": "C",
+      "funFact": "A standard piano has 88 keys: 52 white keys and 36 black keys, spanning 7 octaves plus a minor third."
+    },
+    {
+      "question": "Who composed 'The Four Seasons'?",
+      "A": "Johann Sebastian Bach",
+      "B": "Wolfgang Amadeus Mozart",
+      "C": "Antonio Vivaldi",
+      "D": "Ludwig van Beethoven",
+      "answer": "C",
+      "funFact": "Antonio Vivaldi composed 'The Four Seasons' (Le quattro stagioni) around 1720, one of the most famous works in classical music."
+    },
+    {
+      "question": "What is the name of the Beatles' final studio album?",
+      "A": "Sgt. Pepper's Lonely Hearts Club Band",
+      "B": "Abbey Road",
+      "C": "Let It Be",
+      "D": "The White Album",
+      "answer": "B",
+      "funFact": "Abbey Road (1969) was the Beatles' final studio album, though Let It Be was released later but recorded earlier."
+    },
+    {
+      "question": "What instrument did Louis Armstrong famously play?",
+      "A": "Saxophone",
+      "B": "Piano",
+      "C": "Trumpet",
+      "D": "Trombone",
+      "answer": "C",
+      "funFact": "Louis Armstrong, one of the most influential jazz musicians, was a master trumpeter and vocalist, known for his innovative playing style and scat singing."
+    },
+    {
+      "question": "How many movements does a typical symphony have?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "answer": "C",
+      "funFact": "A typical symphony has four movements: usually fast, slow, dance-like (minuet or scherzo), and fast finale, though this structure can vary."
+    },
+    {
+      "question": "What is the name of the music notation system that uses five horizontal lines?",
+      "A": "Tab",
+      "B": "Staff",
+      "C": "Clef",
+      "D": "Scale",
+      "answer": "B",
+      "funFact": "The staff (or stave) is the five horizontal lines used in musical notation to indicate the pitch of notes."
+    },
+    {
+      "question": "Who wrote the opera 'The Magic Flute'?",
+      "A": "Giuseppe Verdi",
+      "B": "Richard Wagner",
+      "C": "Wolfgang Amadeus Mozart",
+      "D": "Giacomo Puccini",
+      "answer": "C",
+      "funFact": "Wolfgang Amadeus Mozart wrote 'The Magic Flute' (Die Zauberflöte) in 1791, one of his most famous operas."
+    },
+    {
+      "question": "What is the tempo marking for 'very fast' in music?",
+      "A": "Andante",
+      "B": "Allegro",
+      "C": "Presto",
+      "D": "Largo",
+      "answer": "C",
+      "funFact": "Presto is the Italian tempo marking meaning 'very fast.' Other common markings include Largo (very slow), Andante (walking pace), and Allegro (fast and lively)."
+    }
+]
+

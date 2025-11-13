@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What is a pirate?",
+      "A": "A sailor who attacks ships at sea",
+      "B": "A naval officer",
+      "C": "A merchant",
+      "D": "A fisherman",
+      "answer": "A",
+      "funFact": "A pirate is someone who attacks and robs ships at sea. Pirates have existed for thousands of years and were most active during the Golden Age of Piracy (1650-1730)."
+    },
+    {
+      "question": "What was the Golden Age of Piracy?",
+      "A": "1500-1600",
+      "B": "1650-1730",
+      "C": "1750-1850",
+      "D": "1800-1900",
+      "answer": "B",
+      "funFact": "The Golden Age of Piracy lasted from approximately 1650 to 1730. This period saw the most famous pirates in history, including Blackbeard, Captain Kidd, and Anne Bonny."
+    },
+    {
+      "question": "What is a Jolly Roger?",
+      "A": "A type of ship",
+      "B": "A pirate flag",
+      "C": "A weapon",
+      "D": "A treasure chest",
+      "answer": "B",
+      "funFact": "A Jolly Roger is a pirate flag, typically featuring a skull and crossbones. Different pirates had different designs on their flags to identify themselves."
+    },
+    {
+      "question": "What was the name of the most famous pirate flag?",
+      "A": "Skull and Crossbones",
+      "B": "Jolly Roger",
+      "C": "Both A and B",
+      "D": "Black Flag",
+      "answer": "C",
+      "funFact": "The skull and crossbones flag is also known as the Jolly Roger. It was used by many pirates to strike fear into their victims."
+    },
+    {
+      "question": "What is a privateer?",
+      "A": "A pirate",
+      "B": "A government-sanctioned pirate",
+      "C": "A naval officer",
+      "D": "A merchant",
+      "answer": "B",
+      "funFact": "A privateer was a private person authorized by a government to attack enemy ships during wartime. They were essentially legal pirates working for a country."
+    },
+    {
+      "question": "What is the difference between a pirate and a privateer?",
+      "A": "There is no difference",
+      "B": "Privateers had government permission",
+      "C": "Pirates were more violent",
+      "D": "Privateers were more successful",
+      "answer": "B",
+      "funFact": "The main difference is that privateers had government permission (letters of marque) to attack enemy ships, while pirates operated illegally."
+    },
+    {
+      "question": "What was a pirate ship called?",
+      "A": "A frigate",
+      "B": "A galleon",
+      "C": "A sloop or schooner",
+      "D": "A battleship",
+      "answer": "C",
+      "funFact": "Pirates typically used fast, maneuverable ships like sloops and schooners. These ships were smaller than naval vessels but faster and more agile."
+    },
+    {
+      "question": "What was pirate treasure usually?",
+      "A": "Gold coins",
+      "B": "Jewels",
+      "C": "Spices and goods",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Pirate treasure could include gold coins, jewels, spices, silk, sugar, and other valuable goods. The romantic image of buried treasure chests is largely fictional."
+    },
+    {
+      "question": "What was a pirate's code?",
+      "A": "A set of rules",
+      "B": "A secret message",
+      "C": "A type of ship",
+      "D": "A weapon",
+      "answer": "A",
+      "funFact": "A pirate's code was a set of rules that governed behavior on a pirate ship. These codes varied but often included rules about sharing treasure and discipline."
+    },
+    {
+      "question": "What was walking the plank?",
+      "A": "A form of punishment",
+      "B": "A way to board ships",
+      "C": "A type of dance",
+      "D": "A navigation technique",
+      "answer": "A",
+      "funFact": "Walking the plank was a form of punishment where victims were forced to walk off a plank into the sea. However, this was likely more common in fiction than reality."
+    },
+    {
+      "question": "What was a pirate's favorite drink?",
+      "A": "Rum",
+      "B": "Wine",
+      "C": "Beer",
+      "D": "Water",
+      "answer": "A",
+      "funFact": "Rum was the favorite drink of pirates because it didn't spoil like water or beer. It was also used as currency and was part of daily rations."
+    },
+    {
+      "question": "What was a pirate's favorite weapon?",
+      "A": "Sword",
+      "B": "Pistol",
+      "C": "Cannon",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Pirates used various weapons including swords (cutlasses), pistols, cannons, and boarding axes. They often carried multiple weapons for close combat."
+    },
+    {
+      "question": "What was a cutlass?",
+      "A": "A type of ship",
+      "B": "A pirate sword",
+      "C": "A flag",
+      "D": "A treasure chest",
+      "answer": "B",
+      "funFact": "A cutlass was a short, curved sword favored by pirates. It was ideal for close-quarters combat on ships and was easier to use than longer swords."
+    },
+    {
+      "question": "What was a pirate's life expectancy?",
+      "A": "Very long",
+      "B": "Very short",
+      "C": "Average",
+      "D": "Unknown",
+      "answer": "B",
+      "funFact": "A pirate's life expectancy was very short, often only a few years. Disease, violence, and harsh conditions made piracy a dangerous profession."
+    },
+    {
+      "question": "What was the most common cause of death for pirates?",
+      "A": "Combat",
+      "B": "Disease",
+      "C": "Execution",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Pirates died from combat, disease (especially scurvy), and execution. Many were hanged when captured, as piracy was punishable by death."
+    },
+    {
+      "question": "What was scurvy?",
+      "A": "A disease caused by lack of vitamin C",
+      "B": "A type of ship",
+      "C": "A weapon",
+      "D": "A flag",
+      "answer": "A",
+      "funFact": "Scurvy was a disease caused by lack of vitamin C. It was common among sailors who didn't have fresh fruits and vegetables. Symptoms included bleeding gums and weakness."
+    },
+    {
+      "question": "What was a pirate's share of treasure?",
+      "A": "Equal for all",
+      "B": "Based on rank",
+      "C": "Based on performance",
+      "D": "All of the above",
+      "answer": "B",
+      "funFact": "Treasure was typically divided based on rank, with the captain getting the largest share. The shares were outlined in the pirate's code."
+    },
+    {
+      "question": "What was a pirate's favorite hunting ground?",
+      "A": "The Caribbean",
+      "B": "The Mediterranean",
+      "C": "The Indian Ocean",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Pirates operated in many areas, but the Caribbean was particularly popular during the Golden Age because of the many trade routes and Spanish treasure ships."
+    },
+    {
+      "question": "What was a pirate's relationship with governments?",
+      "A": "Always enemies",
+      "B": "Sometimes allies",
+      "C": "Neutral",
+      "D": "Complex",
+      "answer": "D",
+      "funFact": "Pirates had complex relationships with governments. Some were privateers (government-sanctioned), while others were enemies. Governments often used pirates against their enemies."
+    },
+    {
+      "question": "What ended the Golden Age of Piracy?",
+      "A": "Better naval forces",
+      "B": "Improved trade routes",
+      "C": "Harsh punishments",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Golden Age of Piracy ended due to improved naval forces, better trade routes, and harsh punishments. Many pirates were captured and executed, discouraging others."
+    }
+]
+

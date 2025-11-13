@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who is credited with discovering America?",
+      "A": "Christopher Columbus",
+      "B": "Leif Erikson",
+      "C": "Amerigo Vespucci",
+      "D": "All of the above are credited",
+      "answer": "D",
+      "funFact": "While Christopher Columbus is often credited with 'discovering' America in 1492, Leif Erikson reached North America around 1000 CE, and the continent is named after Amerigo Vespucci."
+    },
+    {
+      "question": "Who was the first person to circumnavigate the globe?",
+      "A": "Christopher Columbus",
+      "B": "Ferdinand Magellan",
+      "C": "Vasco da Gama",
+      "D": "Marco Polo",
+      "answer": "B",
+      "funFact": "Ferdinand Magellan's expedition (1519-1522) was the first to circumnavigate the globe, though Magellan himself died in the Philippines. Only one of his five ships completed the journey."
+    },
+    {
+      "question": "Who explored the Mississippi River?",
+      "A": "Lewis and Clark",
+      "B": "Jacques Marquette",
+      "C": "Robert de La Salle",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Multiple explorers explored the Mississippi River: Marquette and Joliet in 1673, La Salle who claimed it for France in 1682, and Lewis and Clark who explored its upper reaches."
+    },
+    {
+      "question": "Who was the first European to reach India by sea?",
+      "A": "Christopher Columbus",
+      "B": "Ferdinand Magellan",
+      "C": "Vasco da Gama",
+      "D": "Marco Polo",
+      "answer": "C",
+      "funFact": "Vasco da Gama was the first European to reach India by sea in 1498, establishing a sea route from Europe to Asia and opening the way for European colonialism."
+    },
+    {
+      "question": "Who explored the Pacific Northwest?",
+      "A": "Lewis and Clark",
+      "B": "Daniel Boone",
+      "C": "John Fremont",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Lewis and Clark explored the Pacific Northwest from 1804-1806, commissioned by President Thomas Jefferson to find a route to the Pacific Ocean."
+    },
+    {
+      "question": "Who was the first person to reach the South Pole?",
+      "A": "Robert Falcon Scott",
+      "B": "Roald Amundsen",
+      "C": "Ernest Shackleton",
+      "D": "Richard Byrd",
+      "answer": "B",
+      "funFact": "Roald Amundsen was the first person to reach the South Pole on December 14, 1911, beating Robert Falcon Scott's expedition by about a month."
+    },
+    {
+      "question": "Who was the first person to reach the North Pole?",
+      "A": "Robert Peary",
+      "B": "Roald Amundsen",
+      "C": "Ernest Shackleton",
+      "D": "Richard Byrd",
+      "answer": "A",
+      "funFact": "Robert Peary claimed to be the first person to reach the North Pole on April 6, 1909, though his claim has been disputed. Frederick Cook also claimed to have reached it first."
+    },
+    {
+      "question": "Who was the first European to see the Pacific Ocean from the Americas?",
+      "A": "Christopher Columbus",
+      "B": "Vasco Núñez de Balboa",
+      "C": "Hernán Cortés",
+      "D": "Francisco Pizarro",
+      "answer": "B",
+      "funFact": "Vasco Núñez de Balboa was the first European to see the Pacific Ocean from the Americas in 1513, after crossing the Isthmus of Panama."
+    },
+    {
+      "question": "Who explored the interior of Africa?",
+      "A": "David Livingstone",
+      "B": "Henry Stanley",
+      "C": "Mungo Park",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "David Livingstone, Henry Stanley, and Mungo Park were all famous African explorers. Stanley famously found Livingstone with the words 'Dr. Livingstone, I presume?'"
+    },
+    {
+      "question": "Who was the first person to climb Mount Everest?",
+      "A": "Edmund Hillary",
+      "B": "Tenzing Norgay",
+      "C": "Both A and B",
+      "D": "George Mallory",
+      "answer": "C",
+      "funFact": "Edmund Hillary and Tenzing Norgay were the first people to successfully reach the summit of Mount Everest on May 29, 1953, as part of a British expedition."
+    }
+]
+

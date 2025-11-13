@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What are the three states of matter?",
+      "A": "Solid, liquid, gas",
+      "B": "Hard, soft, medium",
+      "C": "Hot, cold, warm",
+      "D": "Big, small, medium",
+      "answer": "A",
+      "funFact": "The three states of matter are solid, liquid, and gas. Matter can change from one state to another through processes like melting, freezing, evaporation, and condensation."
+    },
+    {
+      "question": "What is a solid?",
+      "A": "A substance with a fixed shape and volume",
+      "B": "A substance that flows",
+      "C": "A substance that expands",
+      "D": "A substance that disappears",
+      "answer": "A",
+      "funFact": "A solid is a state of matter with a fixed shape and volume. The particles in a solid are tightly packed and vibrate in place."
+    },
+    {
+      "question": "What is a liquid?",
+      "A": "A substance with a fixed shape",
+      "B": "A substance that flows and takes the shape of its container",
+      "C": "A substance that expands",
+      "D": "A substance that disappears",
+      "answer": "B",
+      "funFact": "A liquid is a state of matter that flows and takes the shape of its container but has a fixed volume. The particles in a liquid can move around."
+    },
+    {
+      "question": "What is a gas?",
+      "A": "A substance with a fixed shape and volume",
+      "B": "A substance that flows",
+      "C": "A substance that expands to fill its container",
+      "D": "A substance that disappears",
+      "answer": "C",
+      "funFact": "A gas is a state of matter that expands to fill its container and has no fixed shape or volume. The particles in a gas move freely and are far apart."
+    },
+    {
+      "question": "What is the process called when a solid becomes a liquid?",
+      "A": "Freezing",
+      "B": "Melting",
+      "C": "Evaporation",
+      "D": "Condensation",
+      "answer": "B",
+      "funFact": "Melting is the process when a solid becomes a liquid, usually by heating. For example, ice melts into water when heated."
+    },
+    {
+      "question": "What is the process called when a liquid becomes a solid?",
+      "A": "Melting",
+      "B": "Freezing",
+      "C": "Evaporation",
+      "D": "Condensation",
+      "answer": "B",
+      "funFact": "Freezing is the process when a liquid becomes a solid, usually by cooling. For example, water freezes into ice when cooled below 0°C (32°F)."
+    },
+    {
+      "question": "What is the process called when a liquid becomes a gas?",
+      "A": "Melting",
+      "B": "Freezing",
+      "C": "Evaporation",
+      "D": "Condensation",
+      "answer": "C",
+      "funFact": "Evaporation is the process when a liquid becomes a gas. This happens at the surface of the liquid, like when water evaporates into water vapor."
+    },
+    {
+      "question": "What is the hardest natural material?",
+      "A": "Steel",
+      "B": "Diamond",
+      "C": "Gold",
+      "D": "Iron",
+      "answer": "B",
+      "funFact": "Diamond is the hardest natural material on Earth. It's made of carbon atoms arranged in a crystal structure and is used for cutting and drilling."
+    },
+    {
+      "question": "What is a metal?",
+      "A": "A type of gas",
+      "B": "A shiny, conductive material",
+      "C": "A type of liquid",
+      "D": "A type of plant",
+      "answer": "B",
+      "funFact": "A metal is a material that is shiny, conducts electricity and heat, and can be shaped. Examples include iron, copper, gold, and aluminum."
+    },
+    {
+      "question": "What is a property of matter?",
+      "A": "A characteristic that describes matter",
+      "B": "Something matter owns",
+      "C": "A type of matter",
+      "D": "A state of matter",
+      "answer": "A",
+      "funFact": "A property of matter is a characteristic that describes matter, such as color, size, shape, texture, hardness, or whether it conducts electricity."
+    }
+]
+

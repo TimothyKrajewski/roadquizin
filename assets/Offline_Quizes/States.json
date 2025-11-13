@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many states are in the United States?",
+      "A": "48",
+      "B": "50",
+      "C": "52",
+      "D": "54",
+      "answer": "B",
+      "funFact": "There are 50 states in the United States. The last two states to join were Alaska (49th) and Hawaii (50th) in 1959."
+    },
+    {
+      "question": "What is the largest state in the United States?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Alaska",
+      "D": "Montana",
+      "answer": "C",
+      "funFact": "Alaska is the largest state in the United States, covering over 663,000 square miles, more than twice the size of Texas."
+    },
+    {
+      "question": "What is the smallest state in the United States?",
+      "A": "Delaware",
+      "B": "Rhode Island",
+      "C": "Connecticut",
+      "D": "Hawaii",
+      "answer": "B",
+      "funFact": "Rhode Island is the smallest state in the United States, covering only 1,214 square miles, but it has the longest official name: 'State of Rhode Island and Providence Plantations.'"
+    },
+    {
+      "question": "What is the most populous state in the United States?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Florida",
+      "D": "New York",
+      "answer": "B",
+      "funFact": "California is the most populous state in the United States, with over 39 million people. It's also the third largest state by area."
+    },
+    {
+      "question": "What state is known as the 'Sunshine State'?",
+      "A": "California",
+      "B": "Florida",
+      "C": "Arizona",
+      "D": "Hawaii",
+      "answer": "B",
+      "funFact": "Florida is known as the 'Sunshine State' because of its warm, sunny climate. It's also known for its beaches and theme parks."
+    },
+    {
+      "question": "What state is known as the 'Lone Star State'?",
+      "A": "California",
+      "B": "Texas",
+      "C": "Arizona",
+      "D": "New Mexico",
+      "answer": "B",
+      "funFact": "Texas is known as the 'Lone Star State' because of the single star on its flag, which represents Texas as an independent republic before joining the United States."
+    },
+    {
+      "question": "What is the capital of California?",
+      "A": "Los Angeles",
+      "B": "San Francisco",
+      "C": "Sacramento",
+      "D": "San Diego",
+      "answer": "C",
+      "funFact": "Sacramento is the capital of California, not Los Angeles or San Francisco. It became the capital in 1854."
+    },
+    {
+      "question": "What state was the first to join the Union?",
+      "A": "Massachusetts",
+      "B": "Virginia",
+      "C": "Delaware",
+      "D": "Pennsylvania",
+      "answer": "C",
+      "funFact": "Delaware was the first state to join the Union, ratifying the Constitution on December 7, 1787, earning it the nickname 'The First State.'"
+    },
+    {
+      "question": "What state is home to Mount Rushmore?",
+      "A": "North Dakota",
+      "B": "South Dakota",
+      "C": "Wyoming",
+      "D": "Montana",
+      "answer": "B",
+      "funFact": "Mount Rushmore, featuring the carved faces of four U.S. presidents, is located in South Dakota. It was completed in 1941."
+    },
+    {
+      "question": "What state is known as the 'Empire State'?",
+      "A": "New York",
+      "B": "Texas",
+      "C": "California",
+      "D": "Illinois",
+      "answer": "A",
+      "funFact": "New York is known as the 'Empire State,' a nickname that may have originated from George Washington's reference to New York as 'the seat of the empire.'"
+    }
+]
+

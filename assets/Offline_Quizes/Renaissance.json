@@ -1,0 +1,93 @@
+[
+    {
+      "question": "In which country did the Renaissance begin?",
+      "A": "France",
+      "B": "England",
+      "C": "Italy",
+      "D": "Spain",
+      "answer": "C",
+      "funFact": "The Renaissance began in Italy in the 14th century, particularly in cities like Florence, Venice, and Rome, before spreading throughout Europe."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "A": "Michelangelo",
+      "B": "Raphael",
+      "C": "Leonardo da Vinci",
+      "D": "Donatello",
+      "answer": "C",
+      "funFact": "Leonardo da Vinci painted the Mona Lisa between 1503 and 1519. It is now housed in the Louvre Museum in Paris and is one of the most famous paintings in the world."
+    },
+    {
+      "question": "Which artist painted the ceiling of the Sistine Chapel?",
+      "A": "Leonardo da Vinci",
+      "B": "Raphael",
+      "C": "Michelangelo",
+      "D": "Botticelli",
+      "answer": "C",
+      "funFact": "Michelangelo painted the ceiling of the Sistine Chapel between 1508 and 1512, creating one of the most celebrated works of art in history."
+    },
+    {
+      "question": "What does the word 'Renaissance' mean?",
+      "A": "Rebirth",
+      "B": "Revolution",
+      "C": "Reformation",
+      "D": "Renewal",
+      "answer": "A",
+      "funFact": "The word 'Renaissance' comes from the French word meaning 'rebirth,' referring to the revival of interest in classical Greek and Roman culture, art, and learning."
+    },
+    {
+      "question": "Who wrote 'The Prince,' a famous work on political philosophy?",
+      "A": "Dante Alighieri",
+      "B": "Niccolò Machiavelli",
+      "C": "Petrarch",
+      "D": "Boccaccio",
+      "answer": "B",
+      "funFact": "Niccolò Machiavelli wrote 'The Prince' in 1513, a political treatise that has become one of the most influential works on political philosophy."
+    },
+    {
+      "question": "Which invention by Johannes Gutenberg revolutionized the spread of knowledge during the Renaissance?",
+      "A": "The telescope",
+      "B": "The printing press",
+      "C": "The compass",
+      "D": "The clock",
+      "answer": "B",
+      "funFact": "Johannes Gutenberg's invention of the printing press around 1440 revolutionized the spread of knowledge by making books more accessible and affordable."
+    },
+    {
+      "question": "Who is known as the 'Father of Humanism'?",
+      "A": "Dante",
+      "B": "Petrarch",
+      "C": "Boccaccio",
+      "D": "Erasmus",
+      "answer": "B",
+      "funFact": "Petrarch (1304-1374) is often called the 'Father of Humanism' for his role in reviving interest in classical literature and philosophy."
+    },
+    {
+      "question": "Which Renaissance artist is famous for his sculpture of David?",
+      "A": "Leonardo da Vinci",
+      "B": "Donatello",
+      "C": "Michelangelo",
+      "D": "Raphael",
+      "answer": "C",
+      "funFact": "Michelangelo's David, completed in 1504, is one of the most famous sculptures in the world and represents the ideal of Renaissance art."
+    },
+    {
+      "question": "What was the main focus of Renaissance humanism?",
+      "A": "Religious doctrine",
+      "B": "The study of human potential and achievements",
+      "C": "Military strategy",
+      "D": "Agricultural techniques",
+      "answer": "B",
+      "funFact": "Renaissance humanism focused on the study of human potential and achievements, emphasizing classical learning, individual dignity, and the importance of education."
+    },
+    {
+      "question": "Which city is often called the 'Cradle of the Renaissance'?",
+      "A": "Venice",
+      "B": "Rome",
+      "C": "Florence",
+      "D": "Milan",
+      "answer": "C",
+      "funFact": "Florence is often called the 'Cradle of the Renaissance' because it was the birthplace of many Renaissance artists, writers, and thinkers, including Leonardo da Vinci, Michelangelo, and Dante."
+    }
+]
+

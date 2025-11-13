@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many hours are in a day?",
+      "A": "12",
+      "B": "24",
+      "C": "36",
+      "D": "48",
+      "answer": "B",
+      "funFact": "There are 24 hours in a day, which is the time it takes for Earth to complete one rotation on its axis relative to the Sun."
+    },
+    {
+      "question": "How many minutes are in an hour?",
+      "A": "30",
+      "B": "60",
+      "C": "90",
+      "D": "100",
+      "answer": "B",
+      "funFact": "There are 60 minutes in an hour. This system of time measurement dates back to ancient Babylonian mathematics, which used a base-60 number system."
+    },
+    {
+      "question": "How many seconds are in a minute?",
+      "A": "30",
+      "B": "60",
+      "C": "90",
+      "D": "100",
+      "answer": "B",
+      "funFact": "There are 60 seconds in a minute, part of the sexagesimal (base-60) time system that has been used for thousands of years."
+    },
+    {
+      "question": "How many days are in a week?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "answer": "C",
+      "funFact": "There are 7 days in a week, a system that dates back to ancient times and is based on the seven celestial bodies visible to the naked eye (Sun, Moon, and five planets)."
+    },
+    {
+      "question": "How many months are in a year?",
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "answer": "C",
+      "funFact": "There are 12 months in a year, based on the approximate number of lunar cycles (about 12.37) that occur in one solar year."
+    },
+    {
+      "question": "How many days are in a year?",
+      "A": "360",
+      "B": "365",
+      "C": "366",
+      "D": "Both B and C are correct",
+      "answer": "D",
+      "funFact": "A common year has 365 days, while a leap year has 366 days. Leap years occur every 4 years to account for the extra 0.25 days in Earth's orbit around the Sun."
+    },
+    {
+      "question": "What is a leap year?",
+      "A": "A year with 365 days",
+      "B": "A year with 366 days",
+      "C": "A year that starts on Monday",
+      "D": "A year with 13 months",
+      "answer": "B",
+      "funFact": "A leap year has 366 days instead of 365, with an extra day (February 29) added to keep the calendar year synchronized with the astronomical year."
+    },
+    {
+      "question": "How many time zones are there in the world?",
+      "A": "12",
+      "B": "24",
+      "C": "36",
+      "D": "48",
+      "answer": "B",
+      "funFact": "There are 24 time zones in the world, one for each hour of the day, based on Earth's 24-hour rotation and divided roughly along lines of longitude."
+    },
+    {
+      "question": "What is the name for the time when the Sun is directly overhead?",
+      "A": "Midnight",
+      "B": "Noon",
+      "C": "Dawn",
+      "D": "Dusk",
+      "answer": "B",
+      "funFact": "Noon (12:00 PM) is when the Sun is at its highest point in the sky, directly overhead at the local meridian. This is also called solar noon."
+    },
+    {
+      "question": "What do AM and PM stand for?",
+      "A": "After Midnight and Past Midnight",
+      "B": "Ante Meridiem and Post Meridiem",
+      "C": "After Morning and Past Morning",
+      "D": "Ante Noon and Post Noon",
+      "answer": "B",
+      "funFact": "AM stands for 'Ante Meridiem' (before midday) and PM stands for 'Post Meridiem' (after midday), used in the 12-hour clock system to distinguish morning from afternoon/evening."
+    }
+]
+

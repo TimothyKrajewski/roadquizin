@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Which state flag features a bear?",
+      "A": "Oregon",
+      "B": "California",
+      "C": "Nevada",
+      "D": "Arizona",
+      "answer": "B",
+      "funFact": "California's flag features a grizzly bear, which is also the state animal. The flag was first raised during the Bear Flag Revolt of 1846."
+    },
+    {
+      "question": "Which state flag is the only one that is not rectangular?",
+      "A": "Ohio",
+      "B": "Texas",
+      "C": "Hawaii",
+      "D": "Alaska",
+      "answer": "A",
+      "funFact": "Ohio's flag is the only non-rectangular state flag - it's a burgee (a pennant shape). It features 17 stars representing Ohio as the 17th state."
+    },
+    {
+      "question": "Which state flag features a palmetto tree?",
+      "A": "North Carolina",
+      "B": "South Carolina",
+      "C": "Georgia",
+      "D": "Florida",
+      "answer": "B",
+      "funFact": "South Carolina's flag features a palmetto tree and a crescent moon. The palmetto tree represents the defense of Charleston during the Revolutionary War."
+    },
+    {
+      "question": "Which state flag features a beaver?",
+      "A": "Oregon",
+      "B": "Idaho",
+      "C": "Montana",
+      "D": "Wyoming",
+      "answer": "A",
+      "funFact": "Oregon's flag is two-sided: one side features the state seal with a beaver, and the other side features a gold beaver on a navy blue field. It's the only two-sided state flag."
+    },
+    {
+      "question": "Which state flag features a star and stripes?",
+      "A": "Texas",
+      "B": "California",
+      "C": "New York",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Texas's flag features a single star (the 'Lone Star') and horizontal stripes of blue, white, and red. It's known as the 'Lone Star Flag.'"
+    },
+    {
+      "question": "Which state flag features a bison?",
+      "A": "Wyoming",
+      "B": "Montana",
+      "C": "North Dakota",
+      "D": "South Dakota",
+      "answer": "A",
+      "funFact": "Wyoming's flag features a bison (buffalo) in the center, representing the state's wildlife. The bison faces the flagstaff, which is unique among state flags."
+    },
+    {
+      "question": "Which state flag features a pine tree?",
+      "A": "Maine",
+      "B": "Vermont",
+      "C": "New Hampshire",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Maine's flag features a pine tree and a North Star, representing the state's nickname 'The Pine Tree State' and its northern location."
+    },
+    {
+      "question": "Which state flag features a grizzly bear and a star?",
+      "A": "California",
+      "B": "Nevada",
+      "C": "Montana",
+      "D": "Alaska",
+      "answer": "A",
+      "funFact": "California's flag features a grizzly bear and a red star. The bear represents strength, and the star represents sovereignty. The flag was designed in 1846."
+    },
+    {
+      "question": "Which state flag is based on the Confederate battle flag?",
+      "A": "Georgia",
+      "B": "Mississippi",
+      "C": "Alabama",
+      "D": "All had elements, but Mississippi's was most similar",
+      "answer": "D",
+      "funFact": "Mississippi's former flag (until 2020) incorporated the Confederate battle flag. The new flag features a magnolia flower, the state flower."
+    },
+    {
+      "question": "Which state flag features a Native American?",
+      "A": "Oklahoma",
+      "B": "New Mexico",
+      "C": "Arizona",
+      "D": "Utah",
+      "answer": "A",
+      "funFact": "Oklahoma's flag features an Osage shield with an olive branch and a peace pipe, representing Native American heritage and peace."
+    },
+    {
+      "question": "Which state flag features a Zia sun symbol?",
+      "A": "Arizona",
+      "B": "New Mexico",
+      "C": "Nevada",
+      "D": "Utah",
+      "answer": "B",
+      "funFact": "New Mexico's flag features a red Zia sun symbol on a yellow field. The Zia symbol represents the four directions, seasons, times of day, and stages of life."
+    },
+    {
+      "question": "Which state flag features a beehive?",
+      "A": "Utah",
+      "B": "Nevada",
+      "C": "Idaho",
+      "D": "Wyoming",
+      "answer": "A",
+      "funFact": "Utah's flag features a beehive, representing industry and the state's nickname 'The Beehive State.' The beehive symbolizes hard work and cooperation."
+    },
+    {
+      "question": "Which state flag features an anchor?",
+      "A": "Rhode Island",
+      "B": "Delaware",
+      "C": "Maryland",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "Rhode Island's flag features an anchor, representing hope, and the word 'Hope,' which is the state motto. The anchor has been a symbol of Rhode Island since colonial times."
+    },
+    {
+      "question": "Which state flag features a trident?",
+      "A": "Delaware",
+      "B": "Maryland",
+      "C": "Virginia",
+      "D": "South Carolina",
+      "answer": "A",
+      "funFact": "Delaware's flag features a diamond shape with the state coat of arms, which includes a trident. The diamond represents Delaware as the 'Diamond State.'"
+    },
+    {
+      "question": "Which state flag features a moose?",
+      "A": "Maine",
+      "B": "Vermont",
+      "C": "New Hampshire",
+      "D": "Alaska",
+      "answer": "A",
+      "funFact": "Maine's flag features a moose lying under a pine tree, representing the state's wildlife and forests. The North Star above represents Maine's northern location."
+    },
+    {
+      "question": "Which state flag features a pelican?",
+      "A": "Florida",
+      "B": "Louisiana",
+      "C": "Alabama",
+      "D": "Mississippi",
+      "answer": "B",
+      "funFact": "Louisiana's flag features a pelican feeding its young, representing sacrifice and the state's nickname 'The Pelican State.'"
+    },
+    {
+      "question": "Which state flag features a fleur-de-lis?",
+      "A": "Louisiana",
+      "B": "Vermont",
+      "C": "Maine",
+      "D": "New Hampshire",
+      "answer": "A",
+      "funFact": "Louisiana's flag features three fleurs-de-lis, representing the state's French heritage. The pelican in the center represents the state's nickname."
+    },
+    {
+      "question": "Which state flag features a crescent moon?",
+      "A": "South Carolina",
+      "B": "Alabama",
+      "C": "Mississippi",
+      "D": "Louisiana",
+      "answer": "A",
+      "funFact": "South Carolina's flag features a crescent moon (representing the silver emblem worn by troops) and a palmetto tree (representing the defense of Charleston)."
+    },
+    {
+      "question": "Which state flag features a star and a crescent?",
+      "A": "Alabama",
+      "B": "Mississippi",
+      "C": "Louisiana",
+      "D": "South Carolina",
+      "answer": "A",
+      "funFact": "Alabama's flag features a crimson cross of St. Andrew on a white field. The design is based on the Confederate battle flag but is simpler."
+    },
+    {
+      "question": "Which state flag features a mountain?",
+      "A": "Colorado",
+      "B": "Nevada",
+      "C": "Montana",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Many western state flags feature mountains: Colorado's flag has a mountain symbol, Nevada's seal features mountains, and Montana's flag shows mountains in the background."
+    },
+    {
+      "question": "Which state flag features a cactus?",
+      "A": "Arizona",
+      "B": "New Mexico",
+      "C": "Nevada",
+      "D": "Texas",
+      "answer": "A",
+      "funFact": "Arizona's flag features a copper-colored star with rays, and the state seal (used on some versions) features a cactus, representing the desert landscape."
+    },
+    {
+      "question": "Which state flag features a ship?",
+      "A": "Rhode Island",
+      "B": "Massachusetts",
+      "C": "Maine",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Several New England state flags feature ships: Massachusetts's flag shows a Native American and a star, but the state seal features ships; Maine's seal also features ships."
+    },
+    {
+      "question": "Which state flag is the simplest (fewest elements)?",
+      "A": "Alabama",
+      "B": "Alaska",
+      "C": "Arizona",
+      "D": "Arkansas",
+      "answer": "A",
+      "funFact": "Alabama's flag is one of the simplest, featuring just a crimson cross of St. Andrew on a white field. Alaska's flag is also simple, with just the Big Dipper and North Star."
+    },
+    {
+      "question": "Which state flag features the Big Dipper?",
+      "A": "Alaska",
+      "B": "Montana",
+      "C": "Wyoming",
+      "D": "Colorado",
+      "answer": "A",
+      "funFact": "Alaska's flag features the Big Dipper and the North Star on a dark blue field. The flag was designed by a 13-year-old boy in 1927."
+    },
+    {
+      "question": "Which state flag features a diamond?",
+      "A": "Arkansas",
+      "B": "Delaware",
+      "C": "Rhode Island",
+      "D": "Maryland",
+      "answer": "A",
+      "funFact": "Arkansas's flag features a diamond shape, representing the state as the only diamond-producing state in the U.S. (though production has been minimal)."
+    }
+]
+

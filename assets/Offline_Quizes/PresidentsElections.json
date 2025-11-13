@@ -1,0 +1,237 @@
+[
+    {
+      "question": "Who was the first President elected by the Electoral College?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "George Washington",
+      "D": "James Madison",
+      "answer": "C",
+      "funFact": "George Washington was the first President elected by the Electoral College in 1789, receiving all 69 electoral votes. He was unanimously elected."
+    },
+    {
+      "question": "Which President won the most electoral votes in history?",
+      "A": "George Washington",
+      "B": "Franklin D. Roosevelt",
+      "C": "Ronald Reagan",
+      "D": "Barack Obama",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt won 523 electoral votes in 1936, the most in history. However, there were fewer states then, so the percentage is more meaningful than the total."
+    },
+    {
+      "question": "Which President won the largest popular vote margin?",
+      "A": "George Washington",
+      "B": "Franklin D. Roosevelt",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "C",
+      "funFact": "Lyndon B. Johnson won the largest popular vote margin in 1964, receiving 61.1% of the vote and defeating Barry Goldwater by over 15 million votes."
+    },
+    {
+      "question": "Which President was elected without winning the popular vote?",
+      "A": "John Quincy Adams",
+      "B": "Rutherford B. Hayes",
+      "C": "Benjamin Harrison",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Five Presidents were elected without winning the popular vote: John Quincy Adams (1824), Rutherford B. Hayes (1876), Benjamin Harrison (1888), George W. Bush (2000), and Donald Trump (2016)."
+    },
+    {
+      "question": "Which President won the closest popular vote?",
+      "A": "John F. Kennedy",
+      "B": "Richard Nixon",
+      "C": "George W. Bush",
+      "D": "Donald Trump",
+      "answer": "A",
+      "funFact": "John F. Kennedy won the closest popular vote in 1960, defeating Richard Nixon by just 0.17% (about 118,000 votes out of 68 million)."
+    },
+    {
+      "question": "Which President was elected in a 'landslide' victory?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Lyndon B. Johnson",
+      "C": "Ronald Reagan",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Several Presidents won 'landslide' victories: Franklin D. Roosevelt (1936), Lyndon B. Johnson (1964), and Ronald Reagan (1984) all won by large margins."
+    },
+    {
+      "question": "Which President was elected the most times?",
+      "A": "Theodore Roosevelt",
+      "B": "Franklin D. Roosevelt",
+      "C": "Ronald Reagan",
+      "D": "Barack Obama",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was elected four times (1932, 1936, 1940, 1944), the only President to serve more than two terms. The 22nd Amendment now limits Presidents to two terms."
+    },
+    {
+      "question": "Which President was the oldest when first elected?",
+      "A": "Ronald Reagan",
+      "B": "Donald Trump",
+      "C": "Joe Biden",
+      "D": "George H.W. Bush",
+      "answer": "C",
+      "funFact": "Joe Biden was the oldest person to be elected President, taking office at age 78 in 2021. Ronald Reagan was 69 when first elected, and Donald Trump was 70."
+    },
+    {
+      "question": "Which President was the youngest when first elected?",
+      "A": "Theodore Roosevelt",
+      "B": "John F. Kennedy",
+      "C": "Bill Clinton",
+      "D": "Barack Obama",
+      "answer": "B",
+      "funFact": "John F. Kennedy was the youngest person to be elected President, taking office at age 43 in 1961. Theodore Roosevelt was younger (42) but became President after McKinley's assassination."
+    },
+    {
+      "question": "Which President won the most states in an election?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Lyndon B. Johnson",
+      "C": "Ronald Reagan",
+      "D": "Richard Nixon",
+      "answer": "D",
+      "funFact": "Richard Nixon won 49 states in 1972, losing only Massachusetts and the District of Columbia. This is the largest state victory in history."
+    },
+    {
+      "question": "Which President was elected in a contested election decided by the House?",
+      "A": "John Quincy Adams",
+      "B": "Rutherford B. Hayes",
+      "C": "Benjamin Harrison",
+      "D": "George W. Bush",
+      "answer": "A",
+      "funFact": "John Quincy Adams was elected in 1824 by the House of Representatives after no candidate won a majority of electoral votes. Andrew Jackson won the popular vote but lost in the House."
+    },
+    {
+      "question": "Which President was elected in a contested election decided by a commission?",
+      "A": "John Quincy Adams",
+      "B": "Rutherford B. Hayes",
+      "C": "Benjamin Harrison",
+      "D": "George W. Bush",
+      "answer": "B",
+      "funFact": "Rutherford B. Hayes was elected in 1876 by a special Electoral Commission after disputed results in several states. He lost the popular vote but won the electoral vote."
+    },
+    {
+      "question": "Which President was elected in a contested election decided by the Supreme Court?",
+      "A": "Rutherford B. Hayes",
+      "B": "Benjamin Harrison",
+      "C": "George W. Bush",
+      "D": "Donald Trump",
+      "answer": "C",
+      "funFact": "George W. Bush was elected in 2000 after the Supreme Court stopped a recount in Florida. He won the electoral vote but lost the popular vote to Al Gore."
+    },
+    {
+      "question": "Which President won re-election by the largest margin?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Lyndon B. Johnson",
+      "C": "Ronald Reagan",
+      "D": "Richard Nixon",
+      "answer": "C",
+      "funFact": "Ronald Reagan won re-election in 1984 by a large margin, winning 49 states and 58.8% of the popular vote, defeating Walter Mondale."
+    },
+    {
+      "question": "Which President lost re-election?",
+      "A": "John Adams",
+      "B": "John Quincy Adams",
+      "C": "Martin Van Buren",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Several Presidents lost re-election: John Adams (1800), John Quincy Adams (1828), Martin Van Buren (1840), Grover Cleveland (1888), Benjamin Harrison (1892), William Howard Taft (1912), Herbert Hoover (1932), Jimmy Carter (1980), and George H.W. Bush (1992)."
+    },
+    {
+      "question": "Which President was elected after losing a previous election?",
+      "A": "Richard Nixon",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Richard Nixon was elected President in 1968 after losing to John F. Kennedy in 1960. He's one of the few to win the presidency after a previous loss."
+    },
+    {
+      "question": "Which President was elected without ever holding elected office before?",
+      "A": "Zachary Taylor",
+      "B": "Ulysses S. Grant",
+      "C": "Herbert Hoover",
+      "D": "Donald Trump",
+      "answer": "D",
+      "funFact": "Donald Trump was the first President elected without any prior political or military experience. He was a businessman and reality TV star before becoming President."
+    },
+    {
+      "question": "Which President was elected after serving as Vice President?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "Martin Van Buren",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Several Presidents were elected after serving as Vice President: John Adams, Thomas Jefferson, Martin Van Buren, George H.W. Bush, and others."
+    },
+    {
+      "question": "Which President was elected the most times consecutively?",
+      "A": "Theodore Roosevelt",
+      "B": "Franklin D. Roosevelt",
+      "C": "Ronald Reagan",
+      "D": "Barack Obama",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was elected four times consecutively (1932, 1936, 1940, 1944), the only President to serve more than two terms."
+    },
+    {
+      "question": "Which President won the election with the highest voter turnout?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Ronald Reagan",
+      "answer": "A",
+      "funFact": "The 1960 election between John F. Kennedy and Richard Nixon had one of the highest voter turnouts in history, with about 63% of eligible voters participating."
+    },
+    {
+      "question": "Which President was elected in the first televised election?",
+      "A": "Harry S. Truman",
+      "B": "Dwight D. Eisenhower",
+      "C": "John F. Kennedy",
+      "D": "Lyndon B. Johnson",
+      "answer": "B",
+      "funFact": "The 1952 election between Dwight D. Eisenhower and Adlai Stevenson was the first to be widely covered on television, though TV was still new."
+    },
+    {
+      "question": "Which President was elected in the first election with televised debates?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "The 1960 election featured the first televised presidential debates between John F. Kennedy and Richard Nixon. Kennedy's performance on TV is credited with helping him win."
+    },
+    {
+      "question": "Which President was elected after being a third-party candidate?",
+      "A": "Theodore Roosevelt",
+      "B": "Ronald Reagan",
+      "C": "Ross Perot",
+      "D": "None have been elected",
+      "answer": "D",
+      "funFact": "No third-party candidate has ever been elected President. Theodore Roosevelt ran as a third-party candidate in 1912 but lost to Woodrow Wilson."
+    },
+    {
+      "question": "Which President won the election with the most votes ever?",
+      "A": "Barack Obama",
+      "B": "Donald Trump",
+      "C": "Joe Biden",
+      "D": "George W. Bush",
+      "answer": "C",
+      "funFact": "Joe Biden won the 2020 election with over 81 million votes, the most votes ever received by a presidential candidate, though this is partly due to population growth."
+    },
+    {
+      "question": "Which President was elected in the first election after women gained the right to vote?",
+      "A": "Woodrow Wilson",
+      "B": "Warren G. Harding",
+      "C": "Calvin Coolidge",
+      "D": "Herbert Hoover",
+      "answer": "B",
+      "funFact": "Warren G. Harding was elected in 1920, the first election after the 19th Amendment gave women the right to vote nationwide."
+    },
+    {
+      "question": "Which President was elected in the first election after the voting age was lowered to 18?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon was re-elected in 1972, the first election after the 26th Amendment lowered the voting age from 21 to 18 in 1971."
+    }
+]
+

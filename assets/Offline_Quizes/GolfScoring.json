@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What is par?",
+      "A": "Expected strokes",
+      "B": "For a hole",
+      "C": "Both A and B",
+      "D": "Actual score",
+      "answer": "C",
+      "funFact": "Par is the expected number of strokes for a hole. Par 3, 4, and 5 are common, based on hole length."
+    },
+    {
+      "question": "What is a birdie?",
+      "A": "One under par",
+      "B": "Good score",
+      "C": "Both A and B",
+      "D": "One over",
+      "answer": "C",
+      "funFact": "A birdie is one stroke under par. For example, a 3 on a par 4 is a birdie."
+    },
+    {
+      "question": "What is an eagle?",
+      "A": "Two under par",
+      "B": "Excellent score",
+      "C": "Both A and B",
+      "D": "One under",
+      "answer": "C",
+      "funFact": "An eagle is two strokes under par. For example, a 3 on a par 5 is an eagle."
+    },
+    {
+      "question": "What is an albatross?",
+      "A": "Three under par",
+      "B": "Very rare",
+      "C": "Both A and B",
+      "D": "Two under",
+      "answer": "C",
+      "funFact": "An albatross (double eagle) is three strokes under par. It's very rare, typically a 2 on a par 5."
+    },
+    {
+      "question": "What is a bogey?",
+      "A": "One over par",
+      "B": "Not ideal",
+      "C": "Both A and B",
+      "D": "Under par",
+      "answer": "C",
+      "funFact": "A bogey is one stroke over par. For example, a 5 on a par 4 is a bogey."
+    },
+    {
+      "question": "What is a double bogey?",
+      "A": "Two over par",
+      "B": "Poor score",
+      "C": "Both A and B",
+      "D": "One over",
+      "answer": "C",
+      "funFact": "A double bogey is two strokes over par. For example, a 6 on a par 4 is a double bogey."
+    },
+    {
+      "question": "What is a hole-in-one?",
+      "A": "Ball in hole in one stroke",
+      "B": "Very rare",
+      "C": "Both A and B",
+      "D": "Common",
+      "answer": "C",
+      "funFact": "A hole-in-one is when the ball goes into the hole in one stroke from the tee. It's very rare and celebrated."
+    },
+    {
+      "question": "What is stroke play?",
+      "A": "Total strokes",
+      "B": "Lowest wins",
+      "C": "Both A and B",
+      "D": "Match play",
+      "answer": "C",
+      "funFact": "Stroke play counts total strokes over the round. The golfer with the lowest total score wins."
+    },
+    {
+      "question": "What is match play?",
+      "A": "Hole-by-hole",
+      "B": "Win more holes",
+      "C": "Both A and B",
+      "D": "Total strokes",
+      "answer": "C",
+      "funFact": "Match play is hole-by-hole competition. The golfer who wins more holes than their opponent wins."
+    },
+    {
+      "question": "What is a handicap?",
+      "A": "Levels playing field",
+      "B": "Allows different skills to compete",
+      "C": "Both A and B",
+      "D": "No purpose",
+      "answer": "C",
+      "funFact": "A handicap levels the playing field, allowing golfers of different skill levels to compete fairly."
+    },
+    {
+      "question": "What is net score?",
+      "A": "Score minus handicap",
+      "B": "For competition",
+      "C": "Both A and B",
+      "D": "Gross score",
+      "answer": "C",
+      "funFact": "Net score is your score minus your handicap strokes. It's used in handicap competitions."
+    },
+    {
+      "question": "What is gross score?",
+      "A": "Actual strokes",
+      "B": "Before handicap",
+      "C": "Both A and B",
+      "D": "Net score",
+      "answer": "C",
+      "funFact": "Gross score is your actual number of strokes, before handicap adjustments."
+    },
+    {
+      "question": "What is a round?",
+      "A": "18 holes",
+      "B": "Complete game",
+      "C": "Both A and B",
+      "D": "9 holes",
+      "answer": "C",
+      "funFact": "A round is typically 18 holes, a complete game. Some courses have 9-hole rounds."
+    },
+    {
+      "question": "What is a scorecard?",
+      "A": "Records scores",
+      "B": "For each hole",
+      "C": "Both A and B",
+      "D": "Not used",
+      "answer": "C",
+      "funFact": "A scorecard records scores for each hole and the total. It's used to track your round."
+    },
+    {
+      "question": "What is even par?",
+      "A": "Score equals par",
+      "B": "Good round",
+      "C": "Both A and B",
+      "D": "Over par",
+      "answer": "C",
+      "funFact": "Even par means your score equals par for the course. It's a good round for most golfers."
+    },
+    {
+      "question": "What is under par?",
+      "A": "Score below par",
+      "B": "Excellent round",
+      "C": "Both A and B",
+      "D": "Over par",
+      "answer": "C",
+      "funFact": "Under par means your score is below par. It's an excellent round, especially for amateurs."
+    },
+    {
+      "question": "What is over par?",
+      "A": "Score above par",
+      "B": "Common for amateurs",
+      "C": "Both A and B",
+      "D": "Under par",
+      "answer": "C",
+      "funFact": "Over par means your score is above par. It's common for amateur golfers and still enjoyable."
+    },
+    {
+      "question": "What is a personal best?",
+      "A": "Best score",
+      "B": "Personal record",
+      "C": "Both A and B",
+      "D": "Worst score",
+      "answer": "C",
+      "funFact": "A personal best is your best score on a course or overall. It's a milestone to celebrate."
+    },
+    {
+      "question": "What is course record?",
+      "A": "Lowest score on course",
+      "B": "By any player",
+      "C": "Both A and B",
+      "D": "Highest score",
+      "answer": "C",
+      "funFact": "The course record is the lowest score ever shot on a course by any player. It's a prestigious achievement."
+    },
+    {
+      "question": "What is the importance of scoring?",
+      "A": "Tracks progress",
+      "B": "Measures improvement",
+      "C": "Both A and B",
+      "D": "Not important",
+      "answer": "C",
+      "funFact": "Scoring tracks your progress and measures improvement. It's important for development, but enjoying the game matters most."
+    }
+]
+

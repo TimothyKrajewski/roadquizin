@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the original purpose of ketchup?",
+      "A": "A condiment for fries",
+      "B": "A medicine",
+      "C": "A fish sauce",
+      "D": "A dessert topping",
+      "answer": "C",
+      "funFact": "Ketchup originally came from China as 'ke-tsiap,' a fermented fish sauce. It didn't contain tomatoes until the 1800s when Americans added them."
+    },
+    {
+      "question": "What was the original purpose of Worcestershire sauce?",
+      "A": "A condiment",
+      "B": "A failed attempt to recreate Indian sauce",
+      "C": "A medicine",
+      "D": "A cleaning product",
+      "answer": "B",
+      "funFact": "Worcestershire sauce was created by accident when two chemists tried to recreate an Indian sauce. They left it to ferment and forgot about it, then discovered it tasted good."
+    },
+    {
+      "question": "What was the original purpose of margarine?",
+      "A": "A butter substitute",
+      "B": "A medicine",
+      "C": "A cleaning product",
+      "D": "A cooking oil",
+      "answer": "A",
+      "funFact": "Margarine was invented in 1869 by French chemist Hippolyte Mège-Mouriès as a cheaper alternative to butter for the French military and lower classes."
+    },
+    {
+      "question": "What was the original purpose of the sandwich?",
+      "A": "A quick meal",
+      "B": "A way to eat while gambling",
+      "C": "A portable lunch",
+      "D": "A snack",
+      "answer": "B",
+      "funFact": "The sandwich was invented by the Earl of Sandwich so he could eat while gambling without getting his hands greasy. It was a convenient way to eat without stopping his game."
+    },
+    {
+      "question": "What was the original purpose of the hot dog?",
+      "A": "A snack",
+      "B": "A way to sell sausages at baseball games",
+      "C": "A portable meal",
+      "D": "A party food",
+      "answer": "B",
+      "funFact": "The hot dog was invented as a way to sell sausages at baseball games. It became popular in the early 1900s and is now a staple of American sports culture."
+    },
+    {
+      "question": "What was the original purpose of the hamburger?",
+      "A": "A quick meal",
+      "B": "A way to use leftover meat",
+      "C": "A portable lunch",
+      "D": "A snack",
+      "answer": "B",
+      "funFact": "The hamburger was likely invented as a way to use leftover meat. Ground meat was cheaper and easier to cook, making it popular with working-class people."
+    },
+    {
+      "question": "What was the original purpose of the pizza?",
+      "A": "A quick meal for workers",
+      "B": "A royal dish",
+      "C": "A party food",
+      "D": "A snack",
+      "answer": "A",
+      "funFact": "Pizza was originally a quick meal for workers in Naples, Italy. It was cheap, filling, and could be eaten on the go, making it popular with the working class."
+    },
+    {
+      "question": "What was the original purpose of the donut?",
+      "A": "A dessert",
+      "B": "A way to use leftover dough",
+      "C": "A snack",
+      "D": "A breakfast food",
+      "answer": "B",
+      "funFact": "The donut was likely invented as a way to use leftover dough. The hole in the center was added later to ensure even cooking and prevent the center from being raw."
+    },
+    {
+      "question": "What was the original purpose of the pretzel?",
+      "A": "A snack",
+      "B": "A reward for children who learned prayers",
+      "C": "A bread",
+      "D": "A dessert",
+      "answer": "B",
+      "funFact": "The pretzel was invented by monks as a reward for children who learned their prayers. The shape represents arms crossed in prayer."
+    },
+    {
+      "question": "What was the original purpose of the bagel?",
+      "A": "A bread",
+      "B": "A gift for women in childbirth",
+      "C": "A snack",
+      "D": "A breakfast food",
+      "answer": "B",
+      "funFact": "The bagel was created in Poland in the 1600s as a gift for women in childbirth. It was shaped like a ring to represent the cycle of life."
+    },
+    {
+      "question": "What was the original purpose of the croissant?",
+      "A": "A breakfast pastry",
+      "B": "A celebration of victory over the Ottomans",
+      "C": "A snack",
+      "D": "A dessert",
+      "answer": "B",
+      "funFact": "The croissant was created in Austria to celebrate victory over the Ottomans. The crescent shape represents the Ottoman flag, and it was brought to France by Marie Antoinette."
+    },
+    {
+      "question": "What was the original purpose of the fortune cookie?",
+      "A": "A Chinese dessert",
+      "B": "A Japanese invention",
+      "C": "An American invention",
+      "D": "A Korean snack",
+      "answer": "C",
+      "funFact": "Fortune cookies are actually an American invention, not Chinese. They were created in California in the early 1900s, likely by Japanese immigrants."
+    },
+    {
+      "question": "What was the original purpose of the Caesar salad?",
+      "A": "A way to use leftover ingredients",
+      "B": "A royal dish",
+      "C": "A party food",
+      "D": "A snack",
+      "answer": "A",
+      "funFact": "The Caesar salad was invented in 1924 by Caesar Cardini as a way to use leftover ingredients. It was created on the spot when he ran out of ingredients for other dishes."
+    },
+    {
+      "question": "What was the original purpose of the French fry?",
+      "A": "A snack",
+      "B": "A way to preserve potatoes",
+      "C": "A side dish",
+      "D": "A quick meal",
+      "answer": "B",
+      "funFact": "French fries were likely invented as a way to preserve potatoes. Frying them made them last longer and kept them from spoiling."
+    },
+    {
+      "question": "What was the original purpose of the taco?",
+      "A": "A quick meal",
+      "B": "A way to eat food without utensils",
+      "C": "A snack",
+      "D": "A party food",
+      "answer": "B",
+      "funFact": "The taco was invented as a way to eat food without utensils. The word 'taco' originally referred to the paper-wrapped gunpowder used in mining."
+    },
+    {
+      "question": "What was the original purpose of the sushi?",
+      "A": "A way to preserve fish",
+      "B": "A quick meal",
+      "C": "A snack",
+      "D": "A party food",
+      "answer": "A",
+      "funFact": "Sushi was originally invented as a way to preserve fish by fermenting it with rice. The rice was discarded, and only the fish was eaten."
+    },
+    {
+      "question": "What was the original purpose of the pasta?",
+      "A": "A quick meal",
+      "B": "A way to preserve flour",
+      "C": "A snack",
+      "D": "A party food",
+      "answer": "B",
+      "funFact": "Pasta was invented as a way to preserve flour. Drying it made it last longer and kept it from spoiling, making it ideal for long journeys."
+    },
+    {
+      "question": "What was the original purpose of the curry?",
+      "A": "A way to preserve meat",
+      "B": "A quick meal",
+      "C": "A snack",
+      "D": "A party food",
+      "answer": "A",
+      "funFact": "Curry was invented as a way to preserve meat in hot climates. The spices helped prevent spoilage and masked the taste of meat that was going bad."
+    },
+    {
+      "question": "What was the original purpose of the kimchi?",
+      "A": "A way to preserve vegetables",
+      "B": "A quick meal",
+      "C": "A snack",
+      "D": "A party food",
+      "answer": "A",
+      "funFact": "Kimchi was invented as a way to preserve vegetables through fermentation. It allowed people to have vegetables year-round, even during harsh winters."
+    },
+    {
+      "question": "What was the original purpose of the paella?",
+      "A": "A quick meal for workers",
+      "B": "A royal dish",
+      "C": "A party food",
+      "D": "A snack",
+      "answer": "A",
+      "funFact": "Paella was originally a quick meal for workers in Valencia, Spain. It was made with rice, vegetables, and whatever meat was available, cooked in a large pan over an open fire."
+    }
+]
+

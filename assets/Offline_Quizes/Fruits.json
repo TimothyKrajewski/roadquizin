@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the most popular fruit in the world?",
+      "A": "Apple",
+      "B": "Banana",
+      "C": "Orange",
+      "D": "Tomato",
+      "answer": "B",
+      "funFact": "The banana is the most popular fruit in the world, with over 100 billion bananas consumed annually. It's also the most exported fruit."
+    },
+    {
+      "question": "What fruit is known as 'the apple of love'?",
+      "A": "Apple",
+      "B": "Tomato",
+      "C": "Strawberry",
+      "D": "Cherry",
+      "answer": "B",
+      "funFact": "The tomato was once called 'the apple of love' in Europe. Botanically, it's a fruit, though it's often used as a vegetable in cooking."
+    },
+    {
+      "question": "What is the largest fruit in the world?",
+      "A": "Watermelon",
+      "B": "Jackfruit",
+      "C": "Pumpkin",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The jackfruit can weigh up to 80 pounds, pumpkins can be even larger, and watermelons can reach 200 pounds. The largest depends on the specific variety."
+    },
+    {
+      "question": "What fruit is associated with keeping the doctor away?",
+      "A": "Orange",
+      "B": "Apple",
+      "C": "Banana",
+      "D": "Pear",
+      "answer": "B",
+      "funFact": "The saying 'An apple a day keeps the doctor away' comes from the health benefits of apples, which are rich in fiber, vitamins, and antioxidants."
+    },
+    {
+      "question": "What is the smallest fruit in the world?",
+      "A": "Blueberry",
+      "B": "Raspberry",
+      "C": "Watermeal",
+      "D": "Gooseberry",
+      "answer": "C",
+      "funFact": "Watermeal (Wolffia) produces the smallest fruit in the world, smaller than a grain of salt. It's also the smallest flowering plant."
+    },
+    {
+      "question": "What fruit is a berry?",
+      "A": "Strawberry",
+      "B": "Raspberry",
+      "C": "Banana",
+      "D": "All of the above",
+      "answer": "C",
+      "funFact": "Botanically, bananas, grapes, and tomatoes are berries, while strawberries and raspberries are not - they're aggregate fruits!"
+    },
+    {
+      "question": "What fruit is known for its vitamin C content?",
+      "A": "Apple",
+      "B": "Orange",
+      "C": "Banana",
+      "D": "Grape",
+      "answer": "B",
+      "funFact": "Oranges are known for their high vitamin C content, with one orange providing over 100% of the daily recommended intake of vitamin C."
+    },
+    {
+      "question": "What is the most expensive fruit in the world?",
+      "A": "Dragon fruit",
+      "B": "Yubari melon",
+      "C": "Durian",
+      "D": "Mango",
+      "answer": "B",
+      "funFact": "The Yubari melon from Japan is one of the most expensive fruits, with pairs selling for thousands of dollars. They're given as luxury gifts."
+    },
+    {
+      "question": "What fruit grows on vines?",
+      "A": "Grapes",
+      "B": "Strawberries",
+      "C": "Blueberries",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Grapes grow on vines, which can climb and spread. Strawberries grow on low plants, and blueberries grow on bushes."
+    },
+    {
+      "question": "What percentage of a watermelon is water?",
+      "A": "About 60%",
+      "B": "About 70%",
+      "C": "About 90%",
+      "D": "About 50%",
+      "answer": "C",
+      "funFact": "Watermelons are about 92% water, making them an excellent source of hydration. They're also low in calories and high in vitamins A and C."
+    }
+]
+

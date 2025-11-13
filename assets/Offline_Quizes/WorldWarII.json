@@ -1,0 +1,209 @@
+[
+    {
+      "question": "What year did World War II begin?",
+      "A": "1937",
+      "B": "1939",
+      "C": "1941",
+      "D": "1943",
+      "answer": "B",
+      "funFact": "World War II began in 1939 when Germany invaded Poland on September 1. Britain and France declared war on Germany two days later."
+    },
+    {
+      "question": "What event triggered the start of World War II in Europe?",
+      "A": "The invasion of France",
+      "B": "The invasion of Poland",
+      "C": "The attack on Pearl Harbor",
+      "D": "The invasion of the Soviet Union",
+      "answer": "B",
+      "funFact": "Germany's invasion of Poland on September 1, 1939, triggered the start of World War II in Europe. Britain and France declared war on Germany two days later."
+    },
+    {
+      "question": "What year did the United States enter World War II?",
+      "A": "1939",
+      "B": "1940",
+      "C": "1941",
+      "D": "1942",
+      "answer": "C",
+      "funFact": "The United States entered World War II in 1941 after the Japanese attack on Pearl Harbor on December 7. The U.S. declared war on Japan the next day."
+    },
+    {
+      "question": "What was the name of the German invasion of the Soviet Union?",
+      "A": "Operation Barbarossa",
+      "B": "Operation Overlord",
+      "C": "Operation Market Garden",
+      "D": "Operation Torch",
+      "answer": "A",
+      "funFact": "Operation Barbarossa was the code name for Germany's invasion of the Soviet Union in June 1941. It was the largest military operation in history."
+    },
+    {
+      "question": "What was the name of the Allied invasion of Normandy?",
+      "A": "Operation Barbarossa",
+      "B": "Operation Overlord",
+      "C": "Operation Market Garden",
+      "D": "Operation Torch",
+      "answer": "B",
+      "funFact": "Operation Overlord was the code name for the Allied invasion of Normandy on June 6, 1944, also known as D-Day. It was the largest seaborne invasion in history."
+    },
+    {
+      "question": "What was the name of the Japanese attack on the U.S. naval base?",
+      "A": "Attack on Pearl Harbor",
+      "B": "Attack on Midway",
+      "C": "Attack on Guadalcanal",
+      "D": "Attack on Iwo Jima",
+      "answer": "A",
+      "funFact": "The attack on Pearl Harbor on December 7, 1941, was a surprise military strike by Japan that brought the United States into World War II."
+    },
+    {
+      "question": "What was the name of the battle that was the turning point in the Pacific?",
+      "A": "Battle of Midway",
+      "B": "Battle of Guadalcanal",
+      "C": "Battle of Iwo Jima",
+      "D": "Battle of Okinawa",
+      "answer": "A",
+      "funFact": "The Battle of Midway in June 1942 was the turning point in the Pacific War. The U.S. Navy destroyed four Japanese aircraft carriers."
+    },
+    {
+      "question": "What was the name of the battle that was the turning point on the Eastern Front?",
+      "A": "Battle of Moscow",
+      "B": "Battle of Stalingrad",
+      "C": "Battle of Kursk",
+      "D": "Battle of Leningrad",
+      "answer": "B",
+      "funFact": "The Battle of Stalingrad (1942-1943) was the turning point on the Eastern Front. It was one of the bloodiest battles in history and marked the beginning of Germany's defeat."
+    },
+    {
+      "question": "What was the name of the Nazi leader of Germany?",
+      "A": "Adolf Hitler",
+      "B": "Heinrich Himmler",
+      "C": "Joseph Goebbels",
+      "D": "Hermann Göring",
+      "answer": "A",
+      "funFact": "Adolf Hitler was the leader of Nazi Germany from 1933 to 1945. He committed suicide in his bunker in Berlin as the war was ending."
+    },
+    {
+      "question": "What was the name of the British prime minister during most of World War II?",
+      "A": "Neville Chamberlain",
+      "B": "Winston Churchill",
+      "C": "Clement Attlee",
+      "D": "Anthony Eden",
+      "answer": "B",
+      "funFact": "Winston Churchill was the British prime minister during most of World War II. He led Britain through its darkest hours and inspired the nation with his speeches."
+    },
+    {
+      "question": "What was the name of the American president during most of World War II?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Franklin D. Roosevelt was the American president during most of World War II. He died in April 1945, just before the war ended in Europe."
+    },
+    {
+      "question": "What was the name of the Soviet leader during World War II?",
+      "A": "Vladimir Lenin",
+      "B": "Joseph Stalin",
+      "C": "Leon Trotsky",
+      "D": "Nikolai Bukharin",
+      "answer": "B",
+      "funFact": "Joseph Stalin was the leader of the Soviet Union during World War II. He led the country through the Great Patriotic War against Nazi Germany."
+    },
+    {
+      "question": "What was the name of the systematic murder of six million Jews?",
+      "A": "The Holocaust",
+      "B": "The Final Solution",
+      "C": "Both A and B",
+      "D": "The Genocide",
+      "answer": "C",
+      "funFact": "The Holocaust, also known as the Final Solution, was the systematic murder of six million Jews and millions of others by Nazi Germany during World War II."
+    },
+    {
+      "question": "What was the name of the first atomic bomb dropped on Japan?",
+      "A": "Little Boy",
+      "B": "Fat Man",
+      "C": "Trinity",
+      "D": "Gadget",
+      "answer": "A",
+      "funFact": "Little Boy was the first atomic bomb dropped on Hiroshima, Japan, on August 6, 1945. It killed approximately 140,000 people."
+    },
+    {
+      "question": "What was the name of the second atomic bomb dropped on Japan?",
+      "A": "Little Boy",
+      "B": "Fat Man",
+      "C": "Trinity",
+      "D": "Gadget",
+      "answer": "B",
+      "funFact": "Fat Man was the second atomic bomb dropped on Nagasaki, Japan, on August 9, 1945. It killed approximately 70,000 people."
+    },
+    {
+      "question": "What year did World War II end?",
+      "A": "1943",
+      "B": "1944",
+      "C": "1945",
+      "D": "1946",
+      "answer": "C",
+      "funFact": "World War II ended in 1945. The war in Europe ended on May 8 (V-E Day), and the war in the Pacific ended on September 2 (V-J Day) after Japan surrendered."
+    },
+    {
+      "question": "What was the name of the alliance between Germany, Italy, and Japan?",
+      "A": "Axis Powers",
+      "B": "Allied Powers",
+      "C": "Central Powers",
+      "D": "Triple Alliance",
+      "answer": "A",
+      "funFact": "The Axis Powers consisted of Germany, Italy, and Japan. They fought against the Allied Powers, which included the United States, Britain, and the Soviet Union."
+    },
+    {
+      "question": "What was the name of the battle that was the largest tank battle in history?",
+      "A": "Battle of Moscow",
+      "B": "Battle of Stalingrad",
+      "C": "Battle of Kursk",
+      "D": "Battle of Leningrad",
+      "answer": "C",
+      "funFact": "The Battle of Kursk in July 1943 was the largest tank battle in history, involving over 6,000 tanks. It was a decisive Soviet victory."
+    },
+    {
+      "question": "What was the name of the German air force?",
+      "A": "Luftwaffe",
+      "B": "Wehrmacht",
+      "C": "Kriegsmarine",
+      "D": "SS",
+      "answer": "A",
+      "funFact": "The Luftwaffe was the German air force during World War II. It was one of the most powerful air forces in the world at the beginning of the war."
+    },
+    {
+      "question": "What was the name of the Japanese suicide pilots?",
+      "A": "Kamikaze",
+      "B": "Samurai",
+      "C": "Ninja",
+      "D": "Bushido",
+      "answer": "A",
+      "funFact": "Kamikaze pilots were Japanese pilots who carried out suicide attacks by crashing their planes into enemy ships. The name means 'divine wind.'"
+    },
+    {
+      "question": "What was the name of the code used by the Allies to break German messages?",
+      "A": "Enigma",
+      "B": "Ultra",
+      "C": "Magic",
+      "D": "Purple",
+      "answer": "B",
+      "funFact": "Ultra was the code name for the intelligence gained by breaking German Enigma codes. It was crucial to Allied success in the war."
+    },
+    {
+      "question": "What was the name of the conference where the Allies planned the post-war world?",
+      "A": "Yalta Conference",
+      "B": "Potsdam Conference",
+      "C": "Tehran Conference",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Yalta, Potsdam, and Tehran conferences were major meetings where the Allied leaders planned strategy and the post-war world order."
+    },
+    {
+      "question": "What was the total number of casualties in World War II?",
+      "A": "About 40 million",
+      "B": "About 60 million",
+      "C": "About 80 million",
+      "D": "About 100 million",
+      "answer": "B",
+      "funFact": "World War II resulted in approximately 60-85 million casualties, making it the deadliest conflict in human history. This includes both military and civilian deaths."
+    }
+]

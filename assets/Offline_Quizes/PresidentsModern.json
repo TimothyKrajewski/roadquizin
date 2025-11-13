@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Who was the President during the 9/11 attacks?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "George H.W. Bush",
+      "answer": "B",
+      "funFact": "George W. Bush was President when the 9/11 attacks occurred on September 11, 2001. This event led to the War on Terror and the invasion of Afghanistan."
+    },
+    {
+      "question": "Who was the first African American President?",
+      "A": "Barack Obama",
+      "B": "Colin Powell",
+      "C": "Jesse Jackson",
+      "D": "Kamala Harris",
+      "answer": "A",
+      "funFact": "Barack Obama was the first African American President of the United States, serving from 2009 to 2017. He was also the first President born in Hawaii."
+    },
+    {
+      "question": "Who was the President when the Berlin Wall fell?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Jimmy Carter",
+      "D": "Bill Clinton",
+      "answer": "B",
+      "funFact": "George H.W. Bush was President when the Berlin Wall fell in 1989, marking the end of the Cold War and the reunification of Germany."
+    },
+    {
+      "question": "Who was the President when the Cold War ended?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "George H.W. Bush was President when the Cold War effectively ended with the fall of the Berlin Wall in 1989 and the dissolution of the Soviet Union in 1991."
+    },
+    {
+      "question": "Who was the President during the Watergate scandal?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon was President during the Watergate scandal, which led to his resignation in 1974. It remains one of the biggest political scandals in U.S. history."
+    },
+    {
+      "question": "Who was the President when the first man walked on the Moon?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Gerald Ford",
+      "answer": "C",
+      "funFact": "Richard Nixon was President when Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969. John F. Kennedy had set the goal to land on the Moon by the end of the 1960s."
+    },
+    {
+      "question": "Who was the President during the Cuban Missile Crisis?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy was President during the Cuban Missile Crisis in 1962, a 13-day confrontation that brought the world to the brink of nuclear war."
+    },
+    {
+      "question": "Who was the President when the Civil Rights Act of 1964 was signed?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Richard Nixon",
+      "D": "Dwight D. Eisenhower",
+      "answer": "B",
+      "funFact": "Lyndon B. Johnson signed the Civil Rights Act of 1964, one of the most significant pieces of civil rights legislation in American history, outlawing discrimination based on race, color, religion, sex, or national origin."
+    },
+    {
+      "question": "Who was the President when the Vietnam War ended?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "C",
+      "funFact": "Gerald Ford was President when the Vietnam War officially ended in 1975, though the last U.S. troops had been withdrawn in 1973 during Richard Nixon's presidency."
+    },
+    {
+      "question": "Who was the President when the internet became widely available?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "C",
+      "funFact": "Bill Clinton was President when the internet became widely available to the public in the 1990s. The World Wide Web was invented in 1989, but became mainstream during his presidency."
+    },
+    {
+      "question": "Who was the President when the first iPhone was released?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush was President when the first iPhone was released by Apple on June 29, 2007, revolutionizing the smartphone industry."
+    },
+    {
+      "question": "Who was the President when the Affordable Care Act (Obamacare) was signed?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Donald Trump",
+      "D": "Joe Biden",
+      "answer": "B",
+      "funFact": "Barack Obama signed the Affordable Care Act (often called Obamacare) into law in 2010, expanding healthcare coverage to millions of Americans."
+    },
+    {
+      "question": "Who was the President when the first space shuttle launched?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Gerald Ford",
+      "answer": "A",
+      "funFact": "Jimmy Carter was President when the first space shuttle, Columbia, launched on April 12, 1981. The space shuttle program ran from 1981 to 2011."
+    },
+    {
+      "question": "Who was the President when the first personal computer became popular?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "B",
+      "funFact": "Ronald Reagan was President when personal computers became popular in the 1980s. The IBM PC was introduced in 1981, and Apple's Macintosh in 1984."
+    },
+    {
+      "question": "Who was the President when the first email was sent?",
+      "A": "Richard Nixon",
+      "B": "Gerald Ford",
+      "C": "Jimmy Carter",
+      "D": "Ronald Reagan",
+      "answer": "A",
+      "funFact": "The first email was sent in 1971, during Richard Nixon's presidency. However, email didn't become widely used until the 1990s."
+    },
+    {
+      "question": "Who was the President when the first cell phone call was made?",
+      "A": "Richard Nixon",
+      "B": "Gerald Ford",
+      "C": "Jimmy Carter",
+      "D": "Ronald Reagan",
+      "answer": "A",
+      "funFact": "The first cell phone call was made in 1973, during Richard Nixon's presidency. However, cell phones didn't become widely available until the 1980s."
+    },
+    {
+      "question": "Who was the President when the first GPS satellite was launched?",
+      "A": "Richard Nixon",
+      "B": "Gerald Ford",
+      "C": "Jimmy Carter",
+      "D": "Ronald Reagan",
+      "answer": "D",
+      "funFact": "Ronald Reagan was President when the first GPS satellite was launched in 1989. The GPS system became fully operational in 1995."
+    },
+    {
+      "question": "Who was the President when the first website was created?",
+      "A": "George H.W. Bush",
+      "B": "Bill Clinton",
+      "C": "George W. Bush",
+      "D": "Barack Obama",
+      "answer": "A",
+      "funFact": "The first website was created in 1991, during George H.W. Bush's presidency. Tim Berners-Lee created the World Wide Web at CERN."
+    },
+    {
+      "question": "Who was the President when the first social media platform became popular?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush was President when social media platforms like MySpace (2003) and Facebook (2004) became popular, revolutionizing how people communicate online."
+    },
+    {
+      "question": "Who was the President when the first electric car became widely available?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Donald Trump",
+      "D": "Joe Biden",
+      "answer": "B",
+      "funFact": "Barack Obama was President when electric cars like the Tesla Model S (2012) and Nissan Leaf (2010) became widely available, though electric car development began earlier."
+    },
+    {
+      "question": "Who was the President when the first streaming service became popular?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "C",
+      "funFact": "Barack Obama was President when streaming services like Netflix streaming (2007) became popular, though Netflix started as a DVD rental service in 1997."
+    },
+    {
+      "question": "Who was the President when the first drone strike occurred?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush was President when the first CIA drone strike occurred in 2002 in Afghanistan. Drone warfare expanded significantly during his and subsequent presidencies."
+    },
+    {
+      "question": "Who was the President when the first same-sex marriage was legalized in a state?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush was President when Massachusetts became the first state to legalize same-sex marriage in 2004. Nationwide legalization came in 2015 during Barack Obama's presidency."
+    },
+    {
+      "question": "Who was the President when the first woman was appointed to the Supreme Court?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "B",
+      "funFact": "Ronald Reagan appointed Sandra Day O'Connor as the first woman on the Supreme Court in 1981. She served until 2006."
+    },
+    {
+      "question": "Who was the President when the first African American was appointed to the Supreme Court?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "A",
+      "funFact": "Lyndon B. Johnson appointed Thurgood Marshall as the first African American Supreme Court Justice in 1967. Marshall served until 1991."
+    }
+]
+

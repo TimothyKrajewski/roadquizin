@@ -1,0 +1,183 @@
+[
+    {
+      "question": "Who was the first Roman emperor?",
+      "A": "Julius Caesar",
+      "B": "Augustus",
+      "C": "Tiberius",
+      "D": "Nero",
+      "answer": "B",
+      "funFact": "Augustus (originally Octavian) was the first Roman emperor, ruling from 27 BC to 14 AD. He was the adopted son of Julius Caesar."
+    },
+    {
+      "question": "Who was the second Roman emperor?",
+      "A": "Augustus",
+      "B": "Tiberius",
+      "C": "Caligula",
+      "D": "Claudius",
+      "answer": "B",
+      "funFact": "Tiberius was the second Roman emperor, ruling from 14 to 37 AD. He was the stepson of Augustus and was known for his reclusive nature."
+    },
+    {
+      "question": "Who was the third Roman emperor?",
+      "A": "Tiberius",
+      "B": "Caligula",
+      "C": "Claudius",
+      "D": "Nero",
+      "answer": "B",
+      "funFact": "Caligula was the third Roman emperor, ruling from 37 to 41 AD. He was known for his cruelty and was assassinated by his own guards."
+    },
+    {
+      "question": "Who was the fourth Roman emperor?",
+      "A": "Caligula",
+      "B": "Claudius",
+      "C": "Nero",
+      "D": "Galba",
+      "answer": "B",
+      "funFact": "Claudius was the fourth Roman emperor, ruling from 41 to 54 AD. He was considered weak and disabled but proved to be an effective ruler."
+    },
+    {
+      "question": "Who was the fifth Roman emperor?",
+      "A": "Claudius",
+      "B": "Nero",
+      "C": "Galba",
+      "D": "Otho",
+      "answer": "B",
+      "funFact": "Nero was the fifth Roman emperor, ruling from 54 to 68 AD. He was known for his extravagance and is said to have 'fiddled while Rome burned.'"
+    },
+    {
+      "question": "Who was the 'Good Emperor'?",
+      "A": "Trajan",
+      "B": "Hadrian",
+      "C": "Marcus Aurelius",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Trajan, Hadrian, and Marcus Aurelius are known as the 'Five Good Emperors' (along with Nerva and Antoninus Pius). They ruled during a period of stability and prosperity."
+    },
+    {
+      "question": "Who was the emperor who built Hadrian's Wall?",
+      "A": "Trajan",
+      "B": "Hadrian",
+      "C": "Marcus Aurelius",
+      "D": "Antoninus Pius",
+      "answer": "B",
+      "funFact": "Hadrian built Hadrian's Wall in northern Britain (122-128 AD) to mark the northern boundary of the Roman Empire and protect against Scottish tribes."
+    },
+    {
+      "question": "Who was the philosopher emperor?",
+      "A": "Trajan",
+      "B": "Hadrian",
+      "C": "Marcus Aurelius",
+      "D": "Commodus",
+      "answer": "C",
+      "funFact": "Marcus Aurelius was known as the philosopher emperor. He wrote 'Meditations,' a collection of personal reflections on Stoic philosophy."
+    },
+    {
+      "question": "Who was the emperor who divided the empire?",
+      "A": "Diocletian",
+      "B": "Constantine",
+      "C": "Theodosius",
+      "D": "Justinian",
+      "answer": "A",
+      "funFact": "Diocletian divided the Roman Empire into Eastern and Western halves in 286 AD to make it easier to govern. This division became permanent."
+    },
+    {
+      "question": "Who was the first Christian emperor?",
+      "A": "Diocletian",
+      "B": "Constantine the Great",
+      "C": "Theodosius",
+      "D": "Justinian",
+      "answer": "B",
+      "funFact": "Constantine the Great was the first Roman emperor to convert to Christianity. He issued the Edict of Milan in 313 AD, legalizing Christianity."
+    },
+    {
+      "question": "Who was the last Western Roman emperor?",
+      "A": "Romulus Augustulus",
+      "B": "Julius Nepos",
+      "C": "Both A and B",
+      "D": "Constantine",
+      "answer": "C",
+      "funFact": "Romulus Augustulus is traditionally considered the last Western Roman emperor (deposed 476 AD), though Julius Nepos also claimed the title until 480 AD."
+    },
+    {
+      "question": "Who was the emperor who 'fiddled while Rome burned'?",
+      "A": "Caligula",
+      "B": "Nero",
+      "C": "Commodus",
+      "D": "Caracalla",
+      "answer": "B",
+      "funFact": "Nero was the emperor during the Great Fire of Rome in 64 AD. The story that he 'fiddled while Rome burned' is likely a myth, as the fiddle didn't exist then."
+    },
+    {
+      "question": "Who was the emperor who made his horse a consul?",
+      "A": "Caligula",
+      "B": "Nero",
+      "C": "Commodus",
+      "D": "Caracalla",
+      "answer": "A",
+      "funFact": "Caligula is said to have made his horse Incitatus a consul, though this may be exaggerated. He was known for his cruelty and eccentricity."
+    },
+    {
+      "question": "Who was the emperor who built the Colosseum?",
+      "A": "Nero",
+      "B": "Vespasian",
+      "C": "Titus",
+      "D": "Domitian",
+      "answer": "B",
+      "funFact": "Vespasian began construction of the Colosseum in 70 AD. It was completed by his son Titus in 80 AD and could hold up to 80,000 spectators."
+    },
+    {
+      "question": "Who was the emperor during the Year of the Four Emperors?",
+      "A": "Galba, Otho, Vitellius, Vespasian",
+      "B": "Nero, Galba, Otho, Vitellius",
+      "C": "Both A and B",
+      "D": "None",
+      "answer": "A",
+      "funFact": "The Year of the Four Emperors (69 AD) saw Galba, Otho, Vitellius, and Vespasian all claim the throne. Vespasian emerged victorious and established the Flavian dynasty."
+    },
+    {
+      "question": "Who was the emperor who built the Pantheon?",
+      "A": "Augustus",
+      "B": "Hadrian",
+      "C": "Trajan",
+      "D": "Marcus Aurelius",
+      "answer": "B",
+      "funFact": "Hadrian rebuilt the Pantheon in Rome (c. 126 AD). The original was built by Marcus Agrippa but was destroyed by fire."
+    },
+    {
+      "question": "Who was the emperor who legalized Christianity?",
+      "A": "Diocletian",
+      "B": "Constantine the Great",
+      "C": "Theodosius",
+      "D": "Justinian",
+      "answer": "B",
+      "funFact": "Constantine the Great legalized Christianity with the Edict of Milan in 313 AD. He later became the first Christian emperor."
+    },
+    {
+      "question": "Who was the emperor who made Christianity the official religion?",
+      "A": "Constantine",
+      "B": "Theodosius I",
+      "C": "Justinian",
+      "D": "Diocletian",
+      "answer": "B",
+      "funFact": "Theodosius I made Christianity the official religion of the Roman Empire in 380 AD. He also banned pagan practices."
+    },
+    {
+      "question": "Who was the longest-reigning Roman emperor?",
+      "A": "Augustus",
+      "B": "Tiberius",
+      "C": "Both A and B",
+      "D": "Nero",
+      "answer": "A",
+      "funFact": "Augustus had the longest reign of any Roman emperor, ruling for 41 years from 27 BC to 14 AD."
+    },
+    {
+      "question": "Who was the shortest-reigning Roman emperor?",
+      "A": "Otho",
+      "B": "Pertinax",
+      "C": "Both A and B",
+      "D": "Galba",
+      "answer": "C",
+      "funFact": "Otho and Pertinax both had very short reigns. Otho ruled for 3 months in 69 AD, and Pertinax ruled for 3 months in 193 AD."
+    }
+]
+

@@ -1,0 +1,219 @@
+[
+    {
+      "question": "What year did the American Revolution begin?",
+      "A": "1773",
+      "B": "1775",
+      "C": "1776",
+      "D": "1777",
+      "answer": "B",
+      "funFact": "The American Revolution began in 1775 with the Battles of Lexington and Concord. The Declaration of Independence was signed in 1776."
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "A": "John Adams",
+      "B": "Thomas Jefferson",
+      "C": "George Washington",
+      "D": "Benjamin Franklin",
+      "answer": "C",
+      "funFact": "George Washington was the first President of the United States, serving from 1789 to 1797. He's known as the 'Father of His Country' and set many precedents for the office."
+    },
+    {
+      "question": "What year did the Civil War begin?",
+      "A": "1859",
+      "B": "1861",
+      "C": "1863",
+      "D": "1865",
+      "answer": "B",
+      "funFact": "The American Civil War began in 1861 when Confederate forces attacked Fort Sumter. The war lasted until 1865 and resulted in over 600,000 deaths."
+    },
+    {
+      "question": "Who was the President during the Civil War?",
+      "A": "Andrew Johnson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "James Buchanan",
+      "answer": "B",
+      "funFact": "Abraham Lincoln was President during the Civil War (1861-1865) and issued the Emancipation Proclamation, which declared slaves in Confederate states free."
+    },
+    {
+      "question": "What year did the United States enter World War I?",
+      "A": "1915",
+      "B": "1916",
+      "C": "1917",
+      "D": "1918",
+      "answer": "C",
+      "funFact": "The United States entered World War I in 1917, after years of maintaining neutrality. The sinking of American ships by German U-boats was a major factor."
+    },
+    {
+      "question": "What year did the United States enter World War II?",
+      "A": "1939",
+      "B": "1940",
+      "C": "1941",
+      "D": "1942",
+      "answer": "C",
+      "funFact": "The United States entered World War II in 1941 after the Japanese attack on Pearl Harbor on December 7. The U.S. declared war on Japan the next day."
+    },
+    {
+      "question": "What was the name of the economic crisis that began in 1929?",
+      "A": "The Great Depression",
+      "B": "The Great Recession",
+      "C": "The Panic of 1907",
+      "D": "The Dot-Com Bubble",
+      "answer": "A",
+      "funFact": "The Great Depression began in 1929 with the stock market crash and lasted until the late 1930s. It was the worst economic downturn in American history."
+    },
+    {
+      "question": "What was the name of the program that helped America recover from the Great Depression?",
+      "A": "The New Deal",
+      "B": "The Fair Deal",
+      "C": "The Square Deal",
+      "D": "The Great Society",
+      "answer": "A",
+      "funFact": "The New Deal was a series of programs and reforms created by President Franklin D. Roosevelt to help the United States recover from the Great Depression."
+    },
+    {
+      "question": "What was the name of the movement that fought for civil rights?",
+      "A": "The Civil Rights Movement",
+      "B": "The Abolitionist Movement",
+      "C": "The Suffrage Movement",
+      "D": "The Labor Movement",
+      "answer": "A",
+      "funFact": "The Civil Rights Movement (1950s-1960s) fought to end racial segregation and discrimination against African Americans. It was led by figures like Martin Luther King Jr."
+    },
+    {
+      "question": "What was the name of the war fought in Vietnam?",
+      "A": "The Korean War",
+      "B": "The Vietnam War",
+      "C": "The Cold War",
+      "D": "The Gulf War",
+      "answer": "B",
+      "funFact": "The Vietnam War (1955-1975) was a conflict between North Vietnam (supported by the Soviet Union and China) and South Vietnam (supported by the United States)."
+    },
+    {
+      "question": "What was the name of the scandal that led to President Nixon's resignation?",
+      "A": "The Teapot Dome Scandal",
+      "B": "Watergate",
+      "C": "The Iran-Contra Affair",
+      "D": "The Monica Lewinsky Scandal",
+      "answer": "B",
+      "funFact": "Watergate was a political scandal that led to President Richard Nixon's resignation in 1974. It involved a break-in at the Democratic National Committee headquarters and a cover-up."
+    },
+    {
+      "question": "What was the name of the first successful English colony in America?",
+      "A": "Plymouth",
+      "B": "Jamestown",
+      "C": "Roanoke",
+      "D": "Massachusetts Bay",
+      "answer": "B",
+      "funFact": "Jamestown, Virginia, was the first successful English colony in America, founded in 1607. It was established by the Virginia Company of London."
+    },
+    {
+      "question": "What was the name of the ship that brought the Pilgrims to America?",
+      "A": "The Mayflower",
+      "B": "The Santa Maria",
+      "C": "The Nina",
+      "D": "The Pinta",
+      "answer": "A",
+      "funFact": "The Mayflower brought the Pilgrims to America in 1620. They established Plymouth Colony in Massachusetts and signed the Mayflower Compact."
+    },
+    {
+      "question": "What was the name of the document that declared American independence?",
+      "A": "The Constitution",
+      "B": "The Declaration of Independence",
+      "C": "The Articles of Confederation",
+      "D": "The Bill of Rights",
+      "answer": "B",
+      "funFact": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776, declaring the 13 American colonies independent from British rule."
+    },
+    {
+      "question": "What was the name of the war fought between the North and South?",
+      "A": "The Revolutionary War",
+      "B": "The Civil War",
+      "C": "The War of 1812",
+      "D": "The Mexican-American War",
+      "answer": "B",
+      "funFact": "The American Civil War (1861-1865) was fought between the Northern states (Union) and the Southern states (Confederacy) over slavery and states' rights."
+    },
+    {
+      "question": "What was the name of the battle that was the turning point of the Civil War?",
+      "A": "Battle of Gettysburg",
+      "B": "Battle of Antietam",
+      "C": "Battle of Vicksburg",
+      "D": "Battle of Bull Run",
+      "answer": "A",
+      "funFact": "The Battle of Gettysburg (July 1-3, 1863) was the turning point of the Civil War. It was the bloodiest battle of the war and ended General Lee's invasion of the North."
+    },
+    {
+      "question": "What was the name of the amendment that abolished slavery?",
+      "A": "13th Amendment",
+      "B": "14th Amendment",
+      "C": "15th Amendment",
+      "D": "19th Amendment",
+      "answer": "A",
+      "funFact": "The 13th Amendment (1865) abolished slavery in the United States. It was followed by the 14th Amendment (citizenship) and 15th Amendment (voting rights)."
+    },
+    {
+      "question": "What was the name of the period of rebuilding after the Civil War?",
+      "A": "The Gilded Age",
+      "B": "Reconstruction",
+      "C": "The Progressive Era",
+      "D": "The Roaring Twenties",
+      "answer": "B",
+      "funFact": "Reconstruction (1865-1877) was the period after the Civil War when the federal government worked to rebuild the South and integrate freed slaves into society."
+    },
+    {
+      "question": "What was the name of the movement that gave women the right to vote?",
+      "A": "The Civil Rights Movement",
+      "B": "The Women's Suffrage Movement",
+      "C": "The Abolitionist Movement",
+      "D": "The Labor Movement",
+      "answer": "B",
+      "funFact": "The Women's Suffrage Movement fought for women's right to vote. The 19th Amendment, granting women suffrage, was ratified in 1920."
+    },
+    {
+      "question": "What was the name of the attack that brought the U.S. into World War II?",
+      "A": "Attack on Pearl Harbor",
+      "B": "Attack on Midway",
+      "C": "Attack on Guadalcanal",
+      "D": "Attack on Iwo Jima",
+      "answer": "A",
+      "funFact": "The attack on Pearl Harbor on December 7, 1941, was a surprise military strike by Japan that brought the United States into World War II."
+    },
+    {
+      "question": "What was the name of the program that helped rebuild Europe after World War II?",
+      "A": "The Marshall Plan",
+      "B": "The Truman Doctrine",
+      "C": "The New Deal",
+      "D": "The Fair Deal",
+      "answer": "A",
+      "funFact": "The Marshall Plan (1948-1952) was an American program that provided economic aid to help rebuild Western Europe after World War II. It was named after Secretary of State George Marshall."
+    },
+    {
+      "question": "What was the name of the conflict between the U.S. and Soviet Union?",
+      "A": "World War II",
+      "B": "The Cold War",
+      "C": "The Korean War",
+      "D": "The Vietnam War",
+      "answer": "B",
+      "funFact": "The Cold War (1947-1991) was a period of geopolitical tension between the United States and the Soviet Union. It was characterized by proxy wars, nuclear arms race, and ideological conflict."
+    },
+    {
+      "question": "What was the name of the first man to walk on the Moon?",
+      "A": "Buzz Aldrin",
+      "B": "Neil Armstrong",
+      "C": "Michael Collins",
+      "D": "John Glenn",
+      "answer": "B",
+      "funFact": "Neil Armstrong was the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission. He said the famous words: 'That's one small step for man, one giant leap for mankind.'"
+    },
+    {
+      "question": "What was the name of the fall of the Berlin Wall?",
+      "A": "1987",
+      "B": "1989",
+      "C": "1991",
+      "D": "1993",
+      "answer": "B",
+      "funFact": "The Berlin Wall fell on November 9, 1989, marking the end of the Cold War and the reunification of Germany. It had divided East and West Berlin for 28 years."
+    }
+]
+

@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What was the name of the city-state that was known for its military society?",
+      "A": "Athens",
+      "B": "Sparta",
+      "C": "Thebes",
+      "D": "Corinth",
+      "answer": "B",
+      "funFact": "Sparta was known for its military society, where boys began military training at age 7 and served in the army until age 60. The city prioritized military strength over arts and culture."
+    },
+    {
+      "question": "What form of government was invented in ancient Athens?",
+      "A": "Monarchy",
+      "B": "Democracy",
+      "C": "Oligarchy",
+      "D": "Tyranny",
+      "answer": "B",
+      "funFact": "Democracy, meaning 'rule by the people,' was developed in ancient Athens around 508 BCE, where male citizens could vote on laws and policies."
+    },
+    {
+      "question": "What was the name of the war between Athens and Sparta?",
+      "A": "Trojan War",
+      "B": "Peloponnesian War",
+      "C": "Persian Wars",
+      "D": "Macedonian War",
+      "answer": "B",
+      "funFact": "The Peloponnesian War (431-404 BCE) was fought between Athens and Sparta and their respective allies, ending with Sparta's victory and the decline of Athenian power."
+    },
+    {
+      "question": "Who was the famous philosopher who was sentenced to death by drinking hemlock?",
+      "A": "Plato",
+      "B": "Aristotle",
+      "C": "Socrates",
+      "D": "Pythagoras",
+      "answer": "C",
+      "funFact": "Socrates was sentenced to death in 399 BCE for allegedly corrupting the youth and impiety. He chose to drink hemlock rather than escape, as described in Plato's dialogues."
+    },
+    {
+      "question": "What was the name of the temple dedicated to Athena on the Acropolis?",
+      "A": "Parthenon",
+      "B": "Erechtheion",
+      "C": "Temple of Zeus",
+      "D": "Temple of Apollo",
+      "answer": "A",
+      "funFact": "The Parthenon, built between 447-432 BCE, was a temple dedicated to Athena Parthenos on the Acropolis in Athens. It's one of the most famous examples of Greek architecture."
+    },
+    {
+      "question": "Who was Alexander the Great's teacher?",
+      "A": "Socrates",
+      "B": "Plato",
+      "C": "Aristotle",
+      "D": "Pythagoras",
+      "answer": "C",
+      "funFact": "Aristotle was Alexander the Great's teacher from age 13 to 16. Aristotle taught him philosophy, politics, and ethics, which influenced Alexander's approach to ruling his empire."
+    },
+    {
+      "question": "What were the Olympic Games originally held to honor?",
+      "A": "Zeus",
+      "B": "Apollo",
+      "C": "Athena",
+      "D": "Poseidon",
+      "answer": "A",
+      "funFact": "The ancient Olympic Games were held every four years in Olympia to honor Zeus, the king of the gods. The first recorded games were in 776 BCE."
+    },
+    {
+      "question": "What was the name of the marketplace and civic center in ancient Greek cities?",
+      "A": "Acropolis",
+      "B": "Agora",
+      "C": "Stoa",
+      "D": "Theater",
+      "answer": "B",
+      "funFact": "The agora was the central marketplace and civic center in ancient Greek cities, where people gathered for commerce, politics, and social activities."
+    },
+    {
+      "question": "Who wrote 'The Iliad' and 'The Odyssey'?",
+      "A": "Homer",
+      "B": "Hesiod",
+      "C": "Sophocles",
+      "D": "Euripides",
+      "answer": "A",
+      "funFact": "Homer is credited with writing 'The Iliad' and 'The Odyssey,' two epic poems that are foundational works of Western literature, though little is known about Homer himself."
+    },
+    {
+      "question": "What was the name of the alliance led by Athens?",
+      "A": "Peloponnesian League",
+      "B": "Delian League",
+      "C": "Aegean League",
+      "D": "Ionian League",
+      "answer": "B",
+      "funFact": "The Delian League was an alliance of Greek city-states led by Athens, formed in 478 BCE to continue fighting the Persian Empire. It eventually became an Athenian empire."
+    }
+]
+

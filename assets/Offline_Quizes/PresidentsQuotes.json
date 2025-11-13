@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Who said 'The only thing we have to fear is fear itself'?",
+      "A": "Abraham Lincoln",
+      "B": "Theodore Roosevelt",
+      "C": "Franklin D. Roosevelt",
+      "D": "John F. Kennedy",
+      "answer": "C",
+      "funFact": "Franklin D. Roosevelt said 'The only thing we have to fear is fear itself' in his first inaugural address in 1933, during the Great Depression."
+    },
+    {
+      "question": "Who said 'Ask not what your country can do for you—ask what you can do for your country'?",
+      "A": "Dwight D. Eisenhower",
+      "B": "John F. Kennedy",
+      "C": "Lyndon B. Johnson",
+      "D": "Richard Nixon",
+      "answer": "B",
+      "funFact": "John F. Kennedy said 'Ask not what your country can do for you—ask what you can do for your country' in his inaugural address in 1961."
+    },
+    {
+      "question": "Who said 'I have a dream'?",
+      "A": "John F. Kennedy",
+      "B": "Lyndon B. Johnson",
+      "C": "Martin Luther King Jr.",
+      "D": "This was not said by a President",
+      "answer": "D",
+      "funFact": "'I have a dream' was said by Martin Luther King Jr., not a President, in his famous speech at the March on Washington in 1963."
+    },
+    {
+      "question": "Who said 'The buck stops here'?",
+      "A": "Franklin D. Roosevelt",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "John F. Kennedy",
+      "answer": "B",
+      "funFact": "Harry S. Truman had a sign on his desk that said 'The buck stops here,' meaning the President takes ultimate responsibility for decisions."
+    },
+    {
+      "question": "Who said 'Tear down this wall'?",
+      "A": "Jimmy Carter",
+      "B": "Ronald Reagan",
+      "C": "George H.W. Bush",
+      "D": "Bill Clinton",
+      "answer": "B",
+      "funFact": "Ronald Reagan said 'Tear down this wall' in a speech at the Brandenburg Gate in Berlin in 1987, referring to the Berlin Wall."
+    },
+    {
+      "question": "Who said 'We have nothing to fear but fear itself'?",
+      "A": "Abraham Lincoln",
+      "B": "Theodore Roosevelt",
+      "C": "Franklin D. Roosevelt",
+      "D": "John F. Kennedy",
+      "answer": "C",
+      "funFact": "Franklin D. Roosevelt said 'The only thing we have to fear is fear itself' (often misquoted as 'We have nothing to fear but fear itself') in his first inaugural address."
+    },
+    {
+      "question": "Who said 'Four score and seven years ago'?",
+      "A": "George Washington",
+      "B": "Thomas Jefferson",
+      "C": "Abraham Lincoln",
+      "D": "Theodore Roosevelt",
+      "answer": "C",
+      "funFact": "Abraham Lincoln began his Gettysburg Address with 'Four score and seven years ago' in 1863, referring to 87 years earlier (1776, the Declaration of Independence)."
+    },
+    {
+      "question": "Who said 'Speak softly and carry a big stick'?",
+      "A": "William McKinley",
+      "B": "Theodore Roosevelt",
+      "C": "William Howard Taft",
+      "D": "Woodrow Wilson",
+      "answer": "B",
+      "funFact": "Theodore Roosevelt said 'Speak softly and carry a big stick' to describe his foreign policy approach, meaning negotiate peacefully but be ready to use force if necessary."
+    },
+    {
+      "question": "Who said 'I am not a crook'?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "Gerald Ford",
+      "D": "Jimmy Carter",
+      "answer": "B",
+      "funFact": "Richard Nixon said 'I am not a crook' during a press conference in 1973, defending himself during the Watergate scandal. He later resigned."
+    },
+    {
+      "question": "Who said 'Read my lips: no new taxes'?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "B",
+      "funFact": "George H.W. Bush said 'Read my lips: no new taxes' during his 1988 campaign, but he later raised taxes, which hurt his re-election bid."
+    },
+    {
+      "question": "Who said 'The business of America is business'?",
+      "A": "Warren G. Harding",
+      "B": "Calvin Coolidge",
+      "C": "Herbert Hoover",
+      "D": "Franklin D. Roosevelt",
+      "answer": "B",
+      "funFact": "Calvin Coolidge said 'The business of America is business' in 1925, reflecting his pro-business philosophy during the Roaring Twenties."
+    },
+    {
+      "question": "Who said 'I cannot tell a lie'?",
+      "A": "George Washington",
+      "B": "John Adams",
+      "C": "Thomas Jefferson",
+      "D": "This is a legend, not a direct quote",
+      "answer": "D",
+      "funFact": "'I cannot tell a lie' is attributed to a young George Washington in the cherry tree legend, but it's likely apocryphal. The story was created by biographer Parson Weems."
+    },
+    {
+      "question": "Who said 'A house divided against itself cannot stand'?",
+      "A": "Andrew Jackson",
+      "B": "Abraham Lincoln",
+      "C": "Ulysses S. Grant",
+      "D": "Rutherford B. Hayes",
+      "answer": "B",
+      "funFact": "Abraham Lincoln said 'A house divided against itself cannot stand' in an 1858 speech, referring to the division over slavery that would lead to the Civil War."
+    },
+    {
+      "question": "Who said 'The only thing necessary for the triumph of evil is for good men to do nothing'?",
+      "A": "Theodore Roosevelt",
+      "B": "Woodrow Wilson",
+      "C": "Franklin D. Roosevelt",
+      "D": "This is often misattributed to Presidents",
+      "answer": "D",
+      "funFact": "This quote is often misattributed to various Presidents, but it's actually from philosopher Edmund Burke. It's not a direct quote from any U.S. President."
+    },
+    {
+      "question": "Who said 'Government of the people, by the people, for the people'?",
+      "A": "Thomas Jefferson",
+      "B": "Abraham Lincoln",
+      "C": "Theodore Roosevelt",
+      "D": "Franklin D. Roosevelt",
+      "answer": "B",
+      "funFact": "Abraham Lincoln said 'Government of the people, by the people, for the people' in his Gettysburg Address, defining democracy."
+    },
+    {
+      "question": "Who said 'I'm the decider'?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "B",
+      "funFact": "George W. Bush said 'I'm the decider' in 2006, asserting his authority to make decisions about his administration, particularly regarding Donald Rumsfeld."
+    },
+    {
+      "question": "Who said 'Yes we can'?",
+      "A": "Bill Clinton",
+      "B": "George W. Bush",
+      "C": "Barack Obama",
+      "D": "Donald Trump",
+      "answer": "C",
+      "funFact": "'Yes we can' was Barack Obama's campaign slogan in 2008, though the phrase has been used by others. It became a rallying cry for his supporters."
+    },
+    {
+      "question": "Who said 'Make America Great Again'?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "Donald Trump",
+      "answer": "D",
+      "funFact": "'Make America Great Again' (MAGA) was Donald Trump's campaign slogan in 2016 and 2020. Ronald Reagan used a similar phrase 'Let's make America great again' in 1980."
+    },
+    {
+      "question": "Who said 'The only thing we have to fear is fear itself' in their inaugural address?",
+      "A": "Abraham Lincoln",
+      "B": "Theodore Roosevelt",
+      "C": "Franklin D. Roosevelt",
+      "D": "John F. Kennedy",
+      "answer": "C",
+      "funFact": "Franklin D. Roosevelt said 'The only thing we have to fear is fear itself' in his first inaugural address in 1933, inspiring the nation during the Great Depression."
+    },
+    {
+      "question": "Who said 'We shall overcome'?",
+      "A": "Lyndon B. Johnson",
+      "B": "Richard Nixon",
+      "C": "This was not said by a President",
+      "D": "Jimmy Carter",
+      "answer": "C",
+      "funFact": "'We shall overcome' was a civil rights anthem, not originally said by a President. However, Lyndon B. Johnson used the phrase in a speech supporting voting rights."
+    },
+    {
+      "question": "Who said 'I am not going to fire him. He's doing a fine job'?",
+      "A": "George W. Bush",
+      "B": "Barack Obama",
+      "C": "Donald Trump",
+      "D": "Joe Biden",
+      "answer": "A",
+      "funFact": "George W. Bush said 'I'm the decider' and 'He's doing a fine job' about Donald Rumsfeld in 2006, though Rumsfeld resigned shortly after."
+    },
+    {
+      "question": "Who said 'The era of big government is over'?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "C",
+      "funFact": "Bill Clinton said 'The era of big government is over' in his 1996 State of the Union address, signaling a shift toward smaller government and welfare reform."
+    },
+    {
+      "question": "Who said 'Read my lips'?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "B",
+      "funFact": "George H.W. Bush said 'Read my lips: no new taxes' during his 1988 campaign, a promise he later broke, which contributed to his defeat in 1992."
+    },
+    {
+      "question": "Who said 'I did not have sexual relations with that woman'?",
+      "A": "Ronald Reagan",
+      "B": "George H.W. Bush",
+      "C": "Bill Clinton",
+      "D": "George W. Bush",
+      "answer": "C",
+      "funFact": "Bill Clinton said 'I did not have sexual relations with that woman, Miss Lewinsky' in 1998, though he later admitted to an inappropriate relationship."
+    },
+    {
+      "question": "Who said 'Mission Accomplished'?",
+      "A": "George H.W. Bush",
+      "B": "Bill Clinton",
+      "C": "George W. Bush",
+      "D": "Barack Obama",
+      "answer": "C",
+      "funFact": "George W. Bush gave a speech in front of a 'Mission Accomplished' banner on an aircraft carrier in 2003, though the Iraq War continued for many years after."
+    }
+]
+

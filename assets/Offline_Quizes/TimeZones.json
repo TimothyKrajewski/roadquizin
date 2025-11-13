@@ -1,0 +1,93 @@
+[
+    {
+      "question": "How many time zones are there in the world?",
+      "A": "12",
+      "B": "24",
+      "C": "36",
+      "D": "48",
+      "answer": "B",
+      "funFact": "There are 24 time zones in the world, one for each hour of the day, based on Earth's 24-hour rotation and divided roughly along lines of longitude."
+    },
+    {
+      "question": "Which country has the most time zones?",
+      "A": "United States",
+      "B": "China",
+      "C": "Russia",
+      "D": "Canada",
+      "answer": "C",
+      "funFact": "Russia spans 11 time zones, the most of any country in the world, due to its vast east-west extent across Eurasia."
+    },
+    {
+      "question": "What is the time zone in New York called?",
+      "A": "Pacific Time",
+      "B": "Central Time",
+      "C": "Eastern Time",
+      "D": "Mountain Time",
+      "answer": "C",
+      "funFact": "New York is in the Eastern Time Zone (ET), which is 5 hours behind Coordinated Universal Time (UTC-5) during standard time."
+    },
+    {
+      "question": "What is the International Date Line?",
+      "A": "A time zone",
+      "B": "An imaginary line where the date changes",
+      "C": "The equator",
+      "D": "A meridian",
+      "answer": "B",
+      "funFact": "The International Date Line is an imaginary line in the Pacific Ocean where the date changes. When you cross it going west, you gain a day; going east, you lose a day."
+    },
+    {
+      "question": "What is UTC?",
+      "A": "United Time Code",
+      "B": "Coordinated Universal Time",
+      "C": "Universal Time Clock",
+      "D": "United Time Clock",
+      "answer": "B",
+      "funFact": "UTC stands for Coordinated Universal Time, the primary time standard by which the world regulates clocks and time. It's essentially the same as Greenwich Mean Time (GMT)."
+    },
+    {
+      "question": "What is daylight saving time?",
+      "A": "A time zone",
+      "B": "Moving clocks forward in spring",
+      "C": "Moving clocks back in fall",
+      "D": "Both B and C",
+      "answer": "D",
+      "funFact": "Daylight saving time is the practice of moving clocks forward one hour in spring and back one hour in fall to make better use of daylight."
+    },
+    {
+      "question": "Which country uses only one time zone despite its large size?",
+      "A": "Russia",
+      "B": "China",
+      "C": "United States",
+      "D": "Canada",
+      "answer": "B",
+      "funFact": "China uses only one time zone (China Standard Time) despite spanning what would naturally be 5 time zones, causing the sun to rise and set at unusual times in western China."
+    },
+    {
+      "question": "What is the time difference between New York and London?",
+      "A": "4 hours",
+      "B": "5 hours",
+      "C": "6 hours",
+      "D": "It varies with daylight saving",
+      "answer": "D",
+      "funFact": "The time difference between New York and London varies: 5 hours during standard time (New York is behind) and 4 hours during daylight saving time."
+    },
+    {
+      "question": "What is GMT?",
+      "A": "Greenwich Mean Time",
+      "B": "Global Mean Time",
+      "C": "General Mean Time",
+      "D": "Geographic Mean Time",
+      "answer": "A",
+      "funFact": "GMT stands for Greenwich Mean Time, the mean solar time at the Royal Observatory in Greenwich, London. It's now largely replaced by UTC but is essentially the same."
+    },
+    {
+      "question": "How many time zones does the United States have?",
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "answer": "C",
+      "funFact": "The United States has 6 time zones: Eastern, Central, Mountain, Pacific, Alaska, and Hawaii-Aleutian. However, the mainland U.S. has 4 main time zones."
+    }
+]
+

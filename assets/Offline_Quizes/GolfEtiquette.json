@@ -1,0 +1,174 @@
+[
+    {
+      "question": "What is golf etiquette?",
+      "A": "Proper behavior",
+      "B": "Respect for course and others",
+      "C": "Both A and B",
+      "D": "Not important",
+      "answer": "C",
+      "funFact": "Golf etiquette is proper behavior and respect for the course and other players. It's an important part of the game."
+    },
+    {
+      "question": "What is pace of play?",
+      "A": "Speed of play",
+      "B": "Keep up with group ahead",
+      "C": "Both A and B",
+      "D": "No concern",
+      "answer": "C",
+      "funFact": "Pace of play is the speed of play. You should keep up with the group ahead and not delay others."
+    },
+    {
+      "question": "What is repairing the course?",
+      "A": "Fix ball marks",
+      "B": "Replace divots",
+      "C": "Both A and B",
+      "D": "Not necessary",
+      "answer": "C",
+      "funFact": "Repairing the course includes fixing ball marks on greens and replacing divots in fairways. It's good etiquette."
+    },
+    {
+      "question": "What is quiet on the course?",
+      "A": "Stay quiet during shots",
+      "B": "Don't distract others",
+      "C": "Both A and B",
+      "D": "Noise is fine",
+      "answer": "C",
+      "funFact": "Stay quiet during other players' shots and don't distract them. This is respectful and helps everyone play better."
+    },
+    {
+      "question": "What is the order of play?",
+      "A": "Farthest from hole plays first",
+      "B": "On tee, honors",
+      "C": "Both A and B",
+      "D": "Random",
+      "answer": "C",
+      "funFact": "The order of play is that the farthest from the hole plays first. On the tee, honors (lowest score) goes first."
+    },
+    {
+      "question": "What is ready golf?",
+      "A": "Play when ready",
+      "B": "Speed up play",
+      "C": "Both A and B",
+      "D": "Wait always",
+      "answer": "C",
+      "funFact": "Ready golf means playing when ready (if safe) rather than strictly following order. It speeds up play in casual rounds."
+    },
+    {
+      "question": "What is raking bunkers?",
+      "A": "Smooth sand after shot",
+      "B": "Leave it better",
+      "C": "Both A and B",
+      "D": "Not needed",
+      "answer": "C",
+      "funFact": "Rake bunkers after your shot to smooth the sand. Leave the course in good condition for others."
+    },
+    {
+      "question": "What is marking your ball?",
+      "A": "On the green",
+      "B": "If in others' way",
+      "C": "Both A and B",
+      "D": "Not needed",
+      "answer": "C",
+      "funFact": "Mark your ball on the green if it's in others' putting line. Use a ball marker and replace it carefully."
+    },
+    {
+      "question": "What is not stepping on putting lines?",
+      "A": "Avoid others' lines",
+      "B": "On the green",
+      "C": "Both A and B",
+      "D": "Fine to step",
+      "answer": "C",
+      "funFact": "Don't step on others' putting lines on the green. Walk around them to avoid affecting their putt."
+    },
+    {
+      "question": "What is replacing the flagstick?",
+      "A": "After putting",
+      "B": "If you removed it",
+      "C": "Both A and B",
+      "D": "Not needed",
+      "answer": "C",
+      "funFact": "Replace the flagstick after putting if you removed it. The last player to putt typically replaces it."
+    },
+    {
+      "question": "What is letting faster groups play through?",
+      "A": "If you're slow",
+      "B": "Allow them to pass",
+      "C": "Both A and B",
+      "D": "Never",
+      "answer": "C",
+      "funFact": "If you're playing slowly and a faster group is behind, let them play through. This maintains pace of play."
+    },
+    {
+      "question": "What is keeping carts on paths?",
+      "A": "When possible",
+      "B": "Protect course",
+      "C": "Both A and B",
+      "D": "Drive anywhere",
+      "answer": "C",
+      "funFact": "Keep golf carts on paths when possible to protect the course. Follow course rules about cart usage."
+    },
+    {
+      "question": "What is dress code?",
+      "A": "Proper attire",
+      "B": "Respectful",
+      "C": "Both A and B",
+      "D": "Anything goes",
+      "answer": "C",
+      "funFact": "Follow the dress code with proper attire. Most courses require collared shirts and appropriate pants or shorts."
+    },
+    {
+      "question": "What is cell phone etiquette?",
+      "A": "Silent or off",
+      "B": "Don't distract",
+      "C": "Both A and B",
+      "D": "Use freely",
+      "answer": "C",
+      "funFact": "Keep cell phones silent or off on the course. Don't let them distract you or others during play."
+    },
+    {
+      "question": "What is shaking hands?",
+      "A": "After round",
+      "B": "Good sportsmanship",
+      "C": "Both A and B",
+      "D": "Not needed",
+      "answer": "C",
+      "funFact": "Shake hands after the round as a sign of good sportsmanship. It's a tradition in golf."
+    },
+    {
+      "question": "What is being honest?",
+      "A": "Count all strokes",
+      "B": "Self-policing",
+      "C": "Both A and B",
+      "D": "Cheat is fine",
+      "answer": "C",
+      "funFact": "Be honest and count all strokes. Golf is a self-policing game that relies on integrity."
+    },
+    {
+      "question": "What is respecting the course?",
+      "A": "Take care of it",
+      "B": "Leave it better",
+      "C": "Both A and B",
+      "D": "Doesn't matter",
+      "answer": "C",
+      "funFact": "Respect the course by taking care of it. Leave it in better condition than you found it."
+    },
+    {
+      "question": "What is the importance of etiquette?",
+      "A": "Makes game enjoyable",
+      "B": "Respect for all",
+      "C": "Both A and B",
+      "D": "Not important",
+      "answer": "C",
+      "funFact": "Etiquette makes the game enjoyable for everyone and shows respect for the course, other players, and the game itself."
+    },
+    {
+      "question": "What is learning etiquette?",
+      "A": "Important for all",
+      "B": "Part of the game",
+      "C": "Both A and B",
+      "D": "Not needed",
+      "answer": "C",
+      "funFact": "Learning etiquette is important for all golfers. It's an essential part of the game that makes golf special."
+    }
+]
+

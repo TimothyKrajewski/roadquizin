@@ -1,0 +1,183 @@
+[
+    {
+      "question": "How many teams are in the NFL?",
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36",
+      "answer": "B",
+      "funFact": "The NFL has 32 teams, divided into two conferences (AFC and NFC) with 16 teams each. Each conference has 4 divisions with 4 teams."
+    },
+    {
+      "question": "What are the two NFL conferences?",
+      "A": "AFC and NFC",
+      "B": "American and National",
+      "C": "Both A and B",
+      "D": "East and West",
+      "answer": "C",
+      "funFact": "The NFL has two conferences: AFC (American Football Conference) and NFC (National Football Conference). Each has 16 teams."
+    },
+    {
+      "question": "How many divisions are in each conference?",
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "answer": "C",
+      "funFact": "Each conference has 4 divisions: North, South, East, and West. Each division has 4 teams."
+    },
+    {
+      "question": "What team has won the most Super Bowls?",
+      "A": "Pittsburgh Steelers",
+      "B": "New England Patriots",
+      "C": "Both A and B",
+      "D": "Dallas Cowboys",
+      "answer": "C",
+      "funFact": "The Pittsburgh Steelers and New England Patriots are tied with 6 Super Bowl wins each."
+    },
+    {
+      "question": "What is the oldest NFL team?",
+      "A": "Green Bay Packers",
+      "B": "Arizona Cardinals",
+      "C": "Chicago Bears",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Green Bay Packers, Arizona Cardinals, and Chicago Bears are among the oldest NFL teams, all founded in the 1920s or earlier."
+    },
+    {
+      "question": "What team is known as 'America's Team'?",
+      "A": "Dallas Cowboys",
+      "B": "New York Giants",
+      "C": "Pittsburgh Steelers",
+      "D": "Green Bay Packers",
+      "answer": "A",
+      "funFact": "The Dallas Cowboys are known as 'America's Team' due to their popularity and national following."
+    },
+    {
+      "question": "What team is known as the 'Packers'?",
+      "A": "Green Bay Packers",
+      "B": "Named after meat packers",
+      "C": "Both A and B",
+      "D": "Kansas City",
+      "answer": "C",
+      "funFact": "The Green Bay Packers are named after the meat packing industry in Green Bay, Wisconsin. The team was originally sponsored by a packing company."
+    },
+    {
+      "question": "What team plays at Lambeau Field?",
+      "A": "Green Bay Packers",
+      "B": "Known as 'Frozen Tundra'",
+      "C": "Both A and B",
+      "D": "Chicago Bears",
+      "answer": "C",
+      "funFact": "The Green Bay Packers play at Lambeau Field, known as the 'Frozen Tundra' due to cold weather games."
+    },
+    {
+      "question": "What team has the most playoff appearances?",
+      "A": "Dallas Cowboys",
+      "B": "Pittsburgh Steelers",
+      "C": "Green Bay Packers",
+      "D": "All are close",
+      "answer": "D",
+      "funFact": "The Dallas Cowboys, Pittsburgh Steelers, and Green Bay Packers are among the teams with the most playoff appearances in NFL history."
+    },
+    {
+      "question": "What team has never been to a Super Bowl?",
+      "A": "Cleveland Browns",
+      "B": "Detroit Lions",
+      "C": "Jacksonville Jaguars",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Cleveland Browns, Detroit Lions, and Jacksonville Jaguars are among the teams that have never appeared in a Super Bowl."
+    },
+    {
+      "question": "What team has the longest Super Bowl drought?",
+      "A": "Arizona Cardinals",
+      "B": "Detroit Lions",
+      "C": "Cleveland Browns",
+      "D": "All are long",
+      "answer": "D",
+      "funFact": "Several teams have long Super Bowl droughts. The Arizona Cardinals last won in 1947 (as Chicago Cardinals), before the Super Bowl era."
+    },
+    {
+      "question": "What team moved from Los Angeles to St. Louis and back?",
+      "A": "Los Angeles Rams",
+      "B": "Moved multiple times",
+      "C": "Both A and B",
+      "D": "Raiders",
+      "answer": "C",
+      "funFact": "The Los Angeles Rams have moved multiple times: from Cleveland to Los Angeles, then to St. Louis, and back to Los Angeles."
+    },
+    {
+      "question": "What team is known for the '12th Man'?",
+      "A": "Seattle Seahawks",
+      "B": "Loud fan support",
+      "C": "Both A and B",
+      "D": "Dallas Cowboys",
+      "answer": "C",
+      "funFact": "The Seattle Seahawks are known for the '12th Man' - their loud fan support that creates a home-field advantage."
+    },
+    {
+      "question": "What team has the most Hall of Famers?",
+      "A": "Chicago Bears",
+      "B": "Green Bay Packers",
+      "C": "Pittsburgh Steelers",
+      "D": "All are close",
+      "answer": "D",
+      "funFact": "The Chicago Bears, Green Bay Packers, and Pittsburgh Steelers are among the teams with the most Hall of Famers."
+    },
+    {
+      "question": "What team has the most regular season wins?",
+      "A": "Green Bay Packers",
+      "B": "Chicago Bears",
+      "C": "Dallas Cowboys",
+      "D": "All are close",
+      "answer": "D",
+      "funFact": "The Green Bay Packers, Chicago Bears, and Dallas Cowboys are among the teams with the most regular season wins in NFL history."
+    },
+    {
+      "question": "What team has the most consecutive playoff appearances?",
+      "A": "Dallas Cowboys",
+      "B": "New England Patriots",
+      "C": "Pittsburgh Steelers",
+      "D": "All have long streaks",
+      "answer": "D",
+      "funFact": "Several teams have had long streaks of playoff appearances. The New England Patriots had 11 consecutive appearances (2009-2019)."
+    },
+    {
+      "question": "What team has the most division titles?",
+      "A": "Dallas Cowboys",
+      "B": "Pittsburgh Steelers",
+      "C": "Green Bay Packers",
+      "D": "All are close",
+      "answer": "D",
+      "funFact": "The Dallas Cowboys, Pittsburgh Steelers, and Green Bay Packers are among the teams with the most division titles."
+    },
+    {
+      "question": "What team has the most perfect seasons?",
+      "A": "Miami Dolphins",
+      "B": "New England Patriots",
+      "C": "Both A and B",
+      "D": "None",
+      "answer": "A",
+      "funFact": "The Miami Dolphins had a perfect 17-0 season in 1972, the only perfect season in NFL history (including playoffs and Super Bowl)."
+    },
+    {
+      "question": "What team has the most consecutive wins?",
+      "A": "New England Patriots",
+      "B": "Pittsburgh Steelers",
+      "C": "Miami Dolphins",
+      "D": "All have long streaks",
+      "answer": "D",
+      "funFact": "Several teams have had long winning streaks. The New England Patriots won 21 consecutive games from 2003-2004."
+    },
+    {
+      "question": "What is the newest NFL team?",
+      "A": "Houston Texans",
+      "B": "Joined in 2002",
+      "C": "Both A and B",
+      "D": "Jacksonville Jaguars",
+      "answer": "C",
+      "funFact": "The Houston Texans are the newest NFL team, joining the league in 2002. They replaced the Houston Oilers, who moved to Tennessee."
+    }
+]
+

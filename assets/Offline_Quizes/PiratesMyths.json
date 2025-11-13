@@ -1,0 +1,183 @@
+[
+    {
+      "question": "Did pirates really bury treasure?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Pirates rarely buried treasure. Most treasure was spent quickly on supplies, repairs, and entertainment. Buried treasure was more common in fiction than reality."
+    },
+    {
+      "question": "Did pirates really make people walk the plank?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Walking the plank was likely more common in fiction than reality. Pirates usually killed victims more directly or marooned them on islands."
+    },
+    {
+      "question": "Did pirates really have parrots?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Some pirates may have kept parrots as pets, especially in the Caribbean where parrots were common. However, this was likely rare and has been exaggerated in fiction."
+    },
+    {
+      "question": "Did pirates really say 'Arrr'?",
+      "A": "Yes, always",
+      "B": "No, this is fictional",
+      "C": "Sometimes",
+      "D": "Only in modern times",
+      "answer": "B",
+      "funFact": "The 'Arrr' speech is largely fictional, popularized by actor Robert Newton in the 1950 film 'Treasure Island.' Real pirates spoke in their native accents."
+    },
+    {
+      "question": "Did pirates really have peg legs and eye patches?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Some pirates did have peg legs and eye patches due to injuries, but this was not as common as fiction suggests. Most pirates who lost limbs didn't survive long."
+    },
+    {
+      "question": "Did pirates really have treasure maps?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Treasure maps showing buried treasure are largely fictional. Real pirates used maps for navigation, not for finding buried treasure."
+    },
+    {
+      "question": "Did pirates really have X marks the spot?",
+      "A": "Yes, always",
+      "B": "No, this is fictional",
+      "C": "Sometimes",
+      "D": "Only in modern times",
+      "answer": "B",
+      "funFact": "'X marks the spot' is entirely fictional, popularized by Robert Louis Stevenson's 'Treasure Island.' Real pirates didn't mark treasure locations on maps."
+    },
+    {
+      "question": "Did pirates really have Jolly Rogers with skulls?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Some pirates did use Jolly Roger flags with skulls and crossbones, but designs varied. Many pirates used different symbols or no flag at all."
+    },
+    {
+      "question": "Did pirates really have codes of honor?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Some pirates did have codes of conduct, but they varied greatly. The romantic image of a universal pirate code is largely fictional."
+    },
+    {
+      "question": "Did pirates really have democratic crews?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Some pirate crews were more democratic than naval crews, with elected captains and voting on decisions. However, this varied and captains still had significant power."
+    },
+    {
+      "question": "Did pirates really have rum as their main drink?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Rum was common among pirates, especially in the Caribbean, but they also drank water, beer, and wine. The image of pirates constantly drinking rum is exaggerated."
+    },
+    {
+      "question": "Did pirates really have cutlasses?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Cutlasses were common weapons among pirates, but they also used other swords, knives, and weapons. The cutlass was popular because it was effective in close combat."
+    },
+    {
+      "question": "Did pirates really have cannons?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "C",
+      "funFact": "Pirates did use cannons, but the number varied. Smaller ships had fewer cannons, and pirates preferred speed over heavy armament."
+    },
+    {
+      "question": "Did pirates really have female crew members?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Female pirates were very rare. Anne Bonny and Mary Read are among the few known examples, and they often disguised themselves as men."
+    },
+    {
+      "question": "Did pirates really have one-eyed captains?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "One-eyed pirates existed due to injuries, but this was not common. The image of the one-eyed pirate captain is largely fictional."
+    },
+    {
+      "question": "Did pirates really have hooks for hands?",
+      "A": "Yes, always",
+      "B": "No, this is fictional",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Hooks for hands are entirely fictional, popularized by Captain Hook in 'Peter Pan.' Real pirates who lost hands usually didn't survive long or couldn't continue pirating."
+    },
+    {
+      "question": "Did pirates really have buried treasure chests?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Buried treasure chests are largely fictional. Pirates spent their treasure quickly and rarely buried it. The romantic image comes from fiction like 'Treasure Island.'"
+    },
+    {
+      "question": "Did pirates really have talking parrots?",
+      "A": "Yes, always",
+      "B": "No, this is fictional",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Talking parrots are fictional, though some pirates may have kept parrots as pets. The image of a pirate with a talking parrot comes from fiction."
+    },
+    {
+      "question": "Did pirates really have wooden legs?",
+      "A": "Yes, always",
+      "B": "No, rarely",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "Pirates with wooden legs existed but were rare. Most pirates who lost legs didn't survive or couldn't continue pirating. The image is largely fictional."
+    },
+    {
+      "question": "Did pirates really have romantic adventures?",
+      "A": "Yes, always",
+      "B": "No, reality was harsh",
+      "C": "Sometimes",
+      "D": "Only in stories",
+      "answer": "B",
+      "funFact": "The reality of piracy was harsh, with disease, violence, and short life expectancies. The romantic image of pirate adventures comes from fiction, not reality."
+    }
+]
+

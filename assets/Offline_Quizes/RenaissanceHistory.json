@@ -1,0 +1,219 @@
+[
+    {
+      "question": "What was the name of the period of cultural and intellectual revival in Europe?",
+      "A": "Middle Ages",
+      "B": "Renaissance",
+      "C": "Enlightenment",
+      "D": "Reformation",
+      "answer": "B",
+      "funFact": "The Renaissance (14th-17th centuries) was a period of cultural and intellectual revival in Europe. It began in Italy and spread throughout Europe, marking the transition from the Middle Ages to the modern era."
+    },
+    {
+      "question": "What Italian city is considered the birthplace of the Renaissance?",
+      "A": "Rome",
+      "B": "Florence",
+      "C": "Venice",
+      "D": "Milan",
+      "answer": "B",
+      "funFact": "Florence is considered the birthplace of the Renaissance. It was a center of banking, trade, and art, and was home to many famous Renaissance artists and thinkers."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "A": "Michelangelo",
+      "B": "Raphael",
+      "C": "Leonardo da Vinci",
+      "D": "Donatello",
+      "answer": "C",
+      "funFact": "Leonardo da Vinci painted the Mona Lisa (c. 1503-1519). It's one of the most famous paintings in the world and is displayed in the Louvre Museum in Paris."
+    },
+    {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "A": "Leonardo da Vinci",
+      "B": "Michelangelo",
+      "C": "Raphael",
+      "D": "Donatello",
+      "answer": "B",
+      "funFact": "Michelangelo painted the ceiling of the Sistine Chapel (1508-1512). It took four years to complete and is considered one of the greatest works of art in history."
+    },
+    {
+      "question": "Who wrote 'The Prince'?",
+      "A": "Dante Alighieri",
+      "B": "Niccolò Machiavelli",
+      "C": "Petrarch",
+      "D": "Boccaccio",
+      "answer": "B",
+      "funFact": "Niccolò Machiavelli wrote 'The Prince' (1513), a political treatise on how rulers should maintain power. The term 'Machiavellian' comes from this work."
+    },
+    {
+      "question": "Who invented the printing press?",
+      "A": "Leonardo da Vinci",
+      "B": "Johannes Gutenberg",
+      "C": "Galileo Galilei",
+      "D": "Isaac Newton",
+      "answer": "B",
+      "funFact": "Johannes Gutenberg invented the printing press around 1440. This invention revolutionized communication and helped spread Renaissance ideas throughout Europe."
+    },
+    {
+      "question": "Who wrote 'The Divine Comedy'?",
+      "A": "Dante Alighieri",
+      "B": "Petrarch",
+      "C": "Boccaccio",
+      "D": "Machiavelli",
+      "answer": "A",
+      "funFact": "Dante Alighieri wrote 'The Divine Comedy' (c. 1308-1320), an epic poem describing a journey through Hell, Purgatory, and Paradise. It's considered one of the greatest works of world literature."
+    },
+    {
+      "question": "Who was known as the 'Father of Humanism'?",
+      "A": "Dante",
+      "B": "Petrarch",
+      "C": "Boccaccio",
+      "D": "Machiavelli",
+      "answer": "B",
+      "funFact": "Petrarch (1304-1374) is known as the 'Father of Humanism.' He emphasized the study of classical texts and the importance of human potential and achievement."
+    },
+    {
+      "question": "Who sculpted the statue of David?",
+      "A": "Leonardo da Vinci",
+      "B": "Michelangelo",
+      "C": "Donatello",
+      "D": "Raphael",
+      "answer": "B",
+      "funFact": "Michelangelo sculpted the statue of David (1501-1504). It's one of the most famous sculptures in the world and represents the biblical hero David."
+    },
+    {
+      "question": "Who painted 'The School of Athens'?",
+      "A": "Leonardo da Vinci",
+      "B": "Michelangelo",
+      "C": "Raphael",
+      "D": "Donatello",
+      "answer": "C",
+      "funFact": "Raphael painted 'The School of Athens' (1509-1511), a fresco in the Vatican. It depicts famous philosophers and is considered one of his greatest works."
+    },
+    {
+      "question": "Who was the English playwright known as the 'Bard of Avon'?",
+      "A": "Christopher Marlowe",
+      "B": "William Shakespeare",
+      "C": "Ben Jonson",
+      "D": "John Donne",
+      "answer": "B",
+      "funFact": "William Shakespeare (1564-1616) is known as the 'Bard of Avon.' He wrote 37 plays and 154 sonnets and is considered the greatest writer in the English language."
+    },
+    {
+      "question": "Who was the English queen during the height of the English Renaissance?",
+      "A": "Mary I",
+      "B": "Elizabeth I",
+      "C": "Mary, Queen of Scots",
+      "D": "Catherine of Aragon",
+      "answer": "B",
+      "funFact": "Elizabeth I (1533-1603) was queen during the height of the English Renaissance. Her reign is known as the 'Golden Age' and saw great achievements in literature and exploration."
+    },
+    {
+      "question": "Who was the Italian explorer who discovered the New World?",
+      "A": "Christopher Columbus",
+      "B": "Vasco da Gama",
+      "C": "Ferdinand Magellan",
+      "D": "Amerigo Vespucci",
+      "answer": "A",
+      "funFact": "Christopher Columbus (1451-1506) made four voyages to the Americas, beginning in 1492. Though he didn't 'discover' America (others were there first), his voyages opened the New World to European exploration."
+    },
+    {
+      "question": "Who was the Portuguese explorer who found a sea route to India?",
+      "A": "Christopher Columbus",
+      "B": "Vasco da Gama",
+      "C": "Ferdinand Magellan",
+      "D": "Amerigo Vespucci",
+      "answer": "B",
+      "funFact": "Vasco da Gama (c. 1460-1524) was the first European to reach India by sea, sailing around the Cape of Good Hope in 1498. This opened a direct trade route to Asia."
+    },
+    {
+      "question": "Who was the first person to circumnavigate the globe?",
+      "A": "Christopher Columbus",
+      "B": "Vasco da Gama",
+      "C": "Ferdinand Magellan",
+      "D": "Amerigo Vespucci",
+      "answer": "C",
+      "funFact": "Ferdinand Magellan (1480-1521) led the first expedition to circumnavigate the globe, though he was killed in the Philippines. One of his ships completed the journey in 1522."
+    },
+    {
+      "question": "Who was the Italian astronomer who supported the heliocentric theory?",
+      "A": "Nicolaus Copernicus",
+      "B": "Galileo Galilei",
+      "C": "Johannes Kepler",
+      "D": "Isaac Newton",
+      "answer": "B",
+      "funFact": "Galileo Galilei (1564-1642) was an Italian astronomer who supported the heliocentric theory (that the Earth orbits the Sun). He was tried for heresy by the Catholic Church."
+    },
+    {
+      "question": "Who proposed the heliocentric theory?",
+      "A": "Galileo Galilei",
+      "B": "Nicolaus Copernicus",
+      "C": "Johannes Kepler",
+      "D": "Isaac Newton",
+      "answer": "B",
+      "funFact": "Nicolaus Copernicus (1473-1543) proposed the heliocentric theory in his book 'On the Revolutions of the Heavenly Spheres' (1543). This revolutionized astronomy."
+    },
+    {
+      "question": "Who was the German monk who started the Protestant Reformation?",
+      "A": "John Calvin",
+      "B": "Martin Luther",
+      "C": "Ulrich Zwingli",
+      "D": "John Knox",
+      "answer": "B",
+      "funFact": "Martin Luther (1483-1546) started the Protestant Reformation in 1517 by posting his 95 Theses. This led to the split of Western Christianity into Catholic and Protestant branches."
+    },
+    {
+      "question": "Who was the English king who broke with the Catholic Church?",
+      "A": "Henry VII",
+      "B": "Henry VIII",
+      "C": "Edward VI",
+      "D": "Mary I",
+      "answer": "B",
+      "funFact": "Henry VIII (1491-1547) broke with the Catholic Church in 1534 to divorce his first wife, Catherine of Aragon. This led to the creation of the Church of England."
+    },
+    {
+      "question": "Who was the French king known as the 'Sun King'?",
+      "A": "Louis XIII",
+      "B": "Louis XIV",
+      "C": "Louis XV",
+      "D": "Louis XVI",
+      "answer": "B",
+      "funFact": "Louis XIV (1638-1715) was known as the 'Sun King' and ruled France for 72 years, the longest reign of any European monarch. He built the Palace of Versailles."
+    },
+    {
+      "question": "Who was the Spanish king during the height of the Spanish Empire?",
+      "A": "Ferdinand II",
+      "B": "Charles V",
+      "C": "Philip II",
+      "D": "Philip III",
+      "answer": "C",
+      "funFact": "Philip II (1527-1598) was king of Spain during the height of the Spanish Empire. His reign saw the Spanish Armada, the colonization of the Americas, and great cultural achievements."
+    },
+    {
+      "question": "Who was the Italian artist known for his scientific studies?",
+      "A": "Michelangelo",
+      "B": "Raphael",
+      "C": "Leonardo da Vinci",
+      "D": "Donatello",
+      "answer": "C",
+      "funFact": "Leonardo da Vinci (1452-1519) was not only a great artist but also a scientist, engineer, and inventor. He made detailed studies of anatomy, flight, and many other subjects."
+    },
+    {
+      "question": "What was the name of the movement that emphasized human potential and achievement?",
+      "A": "Humanism",
+      "B": "Scholasticism",
+      "C": "Mysticism",
+      "D": "Asceticism",
+      "answer": "A",
+      "funFact": "Humanism was a Renaissance movement that emphasized the study of classical texts, human potential, and the importance of individual achievement. It shifted focus from God to humanity."
+    },
+    {
+      "question": "What was the name of the period of renewed interest in classical learning?",
+      "A": "Middle Ages",
+      "B": "Renaissance",
+      "C": "Enlightenment",
+      "D": "Reformation",
+      "answer": "B",
+      "funFact": "The Renaissance was a period of renewed interest in classical Greek and Roman learning. Scholars rediscovered ancient texts and applied classical ideas to art, science, and politics."
+    }
+]
+

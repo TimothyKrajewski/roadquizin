@@ -1,0 +1,228 @@
+[
+    {
+      "question": "What food was banned in the United States for over 50 years?",
+      "A": "Absinthe",
+      "B": "Raw milk cheese",
+      "C": "Foie gras",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Absinthe was banned in the United States from 1912 to 2007 due to concerns about its hallucinogenic properties, though modern research shows it's no more dangerous than other alcohol."
+    },
+    {
+      "question": "What food was banned in ancient Rome?",
+      "A": "Garlic",
+      "B": "Onions",
+      "C": "Beans",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Garlic, onions, and beans were all banned in ancient Rome for priests because they were believed to cause flatulence and were considered impure."
+    },
+    {
+      "question": "What food was banned in medieval Europe?",
+      "A": "Potatoes",
+      "B": "Tomatoes",
+      "C": "Coffee",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Potatoes, tomatoes, and coffee were all banned in medieval Europe at various times. Potatoes were thought to cause leprosy, tomatoes were considered poisonous, and coffee was banned by some religious leaders."
+    },
+    {
+      "question": "What food was banned in ancient China?",
+      "A": "Beef",
+      "B": "Pork",
+      "C": "Chicken",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beef was banned in ancient China during certain dynasties because cattle were needed for farming. Eating beef was considered wasteful and was punishable by law."
+    },
+    {
+      "question": "What food was banned in ancient Egypt?",
+      "A": "Pork",
+      "B": "Beef",
+      "C": "Fish",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Pork was banned in ancient Egypt for priests because pigs were associated with the god Set, who was considered evil. However, common people could still eat pork."
+    },
+    {
+      "question": "What food was banned in ancient Greece?",
+      "A": "Beans",
+      "B": "Garlic",
+      "C": "Onions",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beans were banned in ancient Greece for followers of Pythagoras because they were believed to contain souls. Eating beans was considered a form of cannibalism."
+    },
+    {
+      "question": "What food was banned in ancient India?",
+      "A": "Beef",
+      "B": "Pork",
+      "C": "Chicken",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beef was banned in ancient India because cows are considered sacred in Hinduism. Eating beef is still illegal in many Indian states today."
+    },
+    {
+      "question": "What food was banned in ancient Japan?",
+      "A": "Beef",
+      "B": "Pork",
+      "C": "Chicken",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beef was banned in ancient Japan for over 1,200 years because of Buddhist beliefs. The ban was lifted in the 19th century when Japan opened to the West."
+    },
+    {
+      "question": "What food was banned in medieval England?",
+      "A": "Coffee",
+      "B": "Tea",
+      "C": "Chocolate",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Coffee was banned in medieval England by King Charles II in 1675 because coffeehouses were seen as places of political dissent. The ban was lifted after public outcry."
+    },
+    {
+      "question": "What food was banned in ancient Persia?",
+      "A": "Pork",
+      "B": "Beef",
+      "C": "Wine",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Pork was banned in ancient Persia because of Zoroastrian beliefs. Pigs were considered unclean animals and eating pork was forbidden."
+    },
+    {
+      "question": "What food was banned in ancient Rome for gladiators?",
+      "A": "Meat",
+      "B": "Beans",
+      "C": "Garlic",
+      "D": "All of the above",
+      "answer": "B",
+      "funFact": "Beans were banned for gladiators in ancient Rome because they were believed to make fighters weak. Gladiators were fed a diet of barley and vegetables instead."
+    },
+    {
+      "question": "What food was banned in ancient Egypt for priests?",
+      "A": "Fish",
+      "B": "Beef",
+      "C": "Pork",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Fish was banned for priests in ancient Egypt because fish were associated with the god Set, who was considered evil. Priests had to follow strict dietary restrictions."
+    },
+    {
+      "question": "What food was banned in ancient China for emperors?",
+      "A": "Beef",
+      "B": "Pork",
+      "C": "Chicken",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beef was banned for emperors in ancient China because cattle were needed for farming. Eating beef was considered wasteful and was reserved for special occasions."
+    },
+    {
+      "question": "What food was banned in ancient Greece for athletes?",
+      "A": "Beans",
+      "B": "Garlic",
+      "C": "Onions",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beans were banned for athletes in ancient Greece because they were believed to cause flatulence and were thought to be impure. Athletes were fed a diet of meat and bread instead."
+    },
+    {
+      "question": "What food was banned in ancient Rome for soldiers?",
+      "A": "Beans",
+      "B": "Garlic",
+      "C": "Onions",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beans were banned for soldiers in ancient Rome because they were believed to cause flatulence and were thought to make fighters weak. Soldiers were fed a diet of bread and meat instead."
+    },
+    {
+      "question": "What food was banned in ancient India for Brahmins?",
+      "A": "Beef",
+      "B": "Pork",
+      "C": "Chicken",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beef was banned for Brahmins (priests) in ancient India because cows are considered sacred in Hinduism. Eating beef is still illegal in many Indian states today."
+    },
+    {
+      "question": "What food was banned in ancient Japan for samurai?",
+      "A": "Beef",
+      "B": "Pork",
+      "C": "Chicken",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beef was banned for samurai in ancient Japan because of Buddhist beliefs. Samurai were expected to follow a vegetarian diet, though this was not always enforced."
+    },
+    {
+      "question": "What food was banned in medieval Europe for monks?",
+      "A": "Meat",
+      "B": "Fish",
+      "C": "Wine",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Meat was banned for monks in medieval Europe because of religious beliefs. Monks were expected to follow a vegetarian diet, though fish was sometimes allowed."
+    },
+    {
+      "question": "What food was banned in ancient Persia for Zoroastrians?",
+      "A": "Pork",
+      "B": "Beef",
+      "C": "Wine",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Pork was banned for Zoroastrians in ancient Persia because pigs were considered unclean animals. Eating pork was forbidden by Zoroastrian religious law."
+    },
+    {
+      "question": "What food was banned in ancient Rome for Vestal Virgins?",
+      "A": "Garlic",
+      "B": "Onions",
+      "C": "Beans",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Garlic, onions, and beans were all banned for Vestal Virgins in ancient Rome because they were believed to cause flatulence and were considered impure."
+    },
+    {
+      "question": "What food was banned in ancient Egypt for mummies?",
+      "A": "Beans",
+      "B": "Garlic",
+      "C": "Onions",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beans were banned for mummies in ancient Egypt because they were believed to contain souls. Eating beans was considered a form of cannibalism."
+    },
+    {
+      "question": "What food was banned in ancient Greece for oracles?",
+      "A": "Beans",
+      "B": "Garlic",
+      "C": "Onions",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beans were banned for oracles in ancient Greece because they were believed to contain souls. Eating beans was considered a form of cannibalism and was forbidden for those who communicated with the gods."
+    },
+    {
+      "question": "What food was banned in ancient Rome for augurs?",
+      "A": "Beans",
+      "B": "Garlic",
+      "C": "Onions",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Beans were banned for augurs (priests who interpreted omens) in ancient Rome because they were believed to contain souls. Eating beans was considered a form of cannibalism."
+    },
+    {
+      "question": "What food was banned in ancient India for Jains?",
+      "A": "Root vegetables",
+      "B": "Beef",
+      "C": "Pork",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Root vegetables were banned for Jains in ancient India because harvesting them kills the plant. Jains follow a strict vegetarian diet that avoids harming any living thing."
+    },
+    {
+      "question": "What food was banned in ancient Japan for Buddhists?",
+      "A": "Beef",
+      "B": "Pork",
+      "C": "Chicken",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Beef, pork, and chicken were all banned for Buddhists in ancient Japan because of religious beliefs. Buddhists were expected to follow a vegetarian diet, though this was not always enforced."
+    }
+]
+

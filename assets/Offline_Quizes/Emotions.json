@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the basic emotion that involves feeling good?",
+      "A": "Sadness",
+      "B": "Anger",
+      "C": "Happiness",
+      "D": "Fear",
+      "answer": "C",
+      "funFact": "Happiness is a positive emotion that involves feeling good, content, or joyful. It's one of the most sought-after emotions and is important for overall well-being."
+    },
+    {
+      "question": "What emotion is associated with danger or threat?",
+      "A": "Anger",
+      "B": "Fear",
+      "C": "Sadness",
+      "D": "Surprise",
+      "answer": "B",
+      "funFact": "Fear is an emotion associated with danger or threat. It's a survival mechanism that helps us respond to dangerous situations by fighting, fleeing, or freezing."
+    },
+    {
+      "question": "What are the six basic emotions?",
+      "A": "Happy, sad, angry, scared, surprised, disgusted",
+      "B": "Happy, sad, mad, afraid, shocked, grossed out",
+      "C": "Both A and B (different names)",
+      "D": "There are only 4 basic emotions",
+      "answer": "C",
+      "funFact": "The six basic emotions, identified by psychologist Paul Ekman, are happiness, sadness, anger, fear, surprise, and disgust. These are recognized across cultures."
+    },
+    {
+      "question": "What emotion is often shown with a smile?",
+      "A": "Sadness",
+      "B": "Happiness",
+      "C": "Anger",
+      "D": "Fear",
+      "answer": "B",
+      "funFact": "Happiness is often shown with a smile. Smiling can actually trigger the release of neurotransmitters like dopamine and serotonin, making you feel happier."
+    },
+    {
+      "question": "What emotion involves feeling sorry or regretful?",
+      "A": "Anger",
+      "B": "Guilt",
+      "C": "Shame",
+      "D": "Both B and C",
+      "answer": "D",
+      "funFact": "Guilt and shame are emotions that involve feeling sorry or regretful about something. Guilt is about actions, while shame is about the self."
+    },
+    {
+      "question": "What emotion is the opposite of happiness?",
+      "A": "Anger",
+      "B": "Sadness",
+      "C": "Fear",
+      "D": "Disgust",
+      "answer": "B",
+      "funFact": "Sadness is often considered the opposite of happiness. It's a natural emotion that helps us process loss and difficult situations."
+    },
+    {
+      "question": "What emotion involves feeling excited or eager?",
+      "A": "Anxiety",
+      "B": "Excitement",
+      "C": "Both A and B",
+      "D": "Fear",
+      "answer": "B",
+      "funFact": "Excitement is an emotion that involves feeling thrilled, eager, or enthusiastic about something. It's a positive emotion that can be energizing."
+    },
+    {
+      "question": "What is empathy?",
+      "A": "Feeling your own emotions",
+      "B": "Understanding and sharing others' feelings",
+      "C": "Ignoring emotions",
+      "D": "Controlling emotions",
+      "answer": "B",
+      "funFact": "Empathy is the ability to understand and share the feelings of others. It's an important social skill that helps us connect with and help others."
+    },
+    {
+      "question": "What emotion involves feeling proud of yourself?",
+      "A": "Shame",
+      "B": "Pride",
+      "C": "Guilt",
+      "D": "Embarrassment",
+      "answer": "B",
+      "funFact": "Pride is an emotion that involves feeling satisfied and pleased with yourself or your achievements. It's a positive emotion that can boost self-esteem."
+    },
+    {
+      "question": "Can emotions be controlled?",
+      "A": "No, emotions are automatic",
+      "B": "Yes, completely",
+      "C": "Partially, through awareness and practice",
+      "D": "Only by some people",
+      "answer": "C",
+      "funFact": "While we can't completely control our emotions, we can learn to manage them through awareness, mindfulness, and practice. This is called emotional regulation."
+    }
+]
+

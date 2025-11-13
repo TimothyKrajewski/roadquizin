@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the closest star to Earth?",
+      "A": "Alpha Centauri",
+      "B": "The Sun",
+      "C": "Sirius",
+      "D": "Betelgeuse",
+      "answer": "B",
+      "funFact": "The Sun is the closest star to Earth, located about 93 million miles (150 million kilometers) away. It's the center of our solar system."
+    },
+    {
+      "question": "What is a group of stars that form a pattern called?",
+      "A": "Galaxy",
+      "B": "Constellation",
+      "C": "Nebula",
+      "D": "Cluster",
+      "answer": "B",
+      "funFact": "A constellation is a group of stars that form a recognizable pattern in the night sky. There are 88 officially recognized constellations."
+    },
+    {
+      "question": "What is the brightest star in the night sky?",
+      "A": "Polaris",
+      "B": "Sirius",
+      "C": "Vega",
+      "D": "Betelgeuse",
+      "answer": "B",
+      "funFact": "Sirius, also known as the Dog Star, is the brightest star in the night sky. It's part of the constellation Canis Major and is about 8.6 light-years away."
+    },
+    {
+      "question": "What is the North Star?",
+      "A": "Sirius",
+      "B": "Polaris",
+      "C": "Vega",
+      "D": "Betelgeuse",
+      "answer": "B",
+      "funFact": "Polaris, also called the North Star, appears almost directly above Earth's North Pole. It's been used for navigation for thousands of years."
+    },
+    {
+      "question": "What color are the hottest stars?",
+      "A": "Red",
+      "B": "Yellow",
+      "C": "Blue",
+      "D": "White",
+      "answer": "C",
+      "funFact": "Blue stars are the hottest stars, with surface temperatures exceeding 30,000°C. Red stars are the coolest, with temperatures around 3,000°C."
+    },
+    {
+      "question": "What is a star made of?",
+      "A": "Gas",
+      "B": "Plasma",
+      "C": "Both A and B",
+      "D": "Solid rock",
+      "answer": "C",
+      "funFact": "Stars are made primarily of hydrogen and helium in a plasma state - a superheated gas where atoms are stripped of their electrons."
+    },
+    {
+      "question": "How do stars produce energy?",
+      "A": "Burning",
+      "B": "Nuclear fusion",
+      "C": "Combustion",
+      "D": "Electricity",
+      "answer": "B",
+      "funFact": "Stars produce energy through nuclear fusion, where hydrogen atoms combine to form helium under extreme pressure and temperature, releasing enormous amounts of energy."
+    },
+    {
+      "question": "What is the name of our galaxy?",
+      "A": "Andromeda",
+      "B": "Milky Way",
+      "C": "Orion",
+      "D": "Triangulum",
+      "answer": "B",
+      "funFact": "The Milky Way is our home galaxy, a spiral galaxy containing billions of stars, including our Sun. It gets its name from its milky appearance in the night sky."
+    },
+    {
+      "question": "What is a supernova?",
+      "A": "A new star",
+      "B": "An exploding star",
+      "C": "A dead star",
+      "D": "A planet",
+      "answer": "B",
+      "funFact": "A supernova is the explosive death of a massive star, one of the most energetic events in the universe, briefly outshining entire galaxies."
+    },
+    {
+      "question": "How long does it take for light from the Sun to reach Earth?",
+      "A": "1 second",
+      "B": "8 minutes",
+      "C": "1 hour",
+      "D": "1 day",
+      "answer": "B",
+      "funFact": "Light from the Sun takes approximately 8 minutes and 20 seconds to travel the 93 million miles to Earth, traveling at the speed of light."
+    }
+]
+

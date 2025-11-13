@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was Roman food?",
+      "A": "Varied by social class",
+      "B": "Staples included bread, wine, and olive oil",
+      "C": "Both A and B",
+      "D": "Simple for everyone",
+      "answer": "C",
+      "funFact": "Roman food varied by social class. Staples included bread, wine, and olive oil. The wealthy enjoyed elaborate banquets with exotic foods."
+    },
+    {
+      "question": "What was a Roman's typical day?",
+      "A": "Varied by social class",
+      "B": "Work, leisure, and family",
+      "C": "Both A and B",
+      "D": "Always the same",
+      "answer": "C",
+      "funFact": "A Roman's typical day varied by social class. Most people worked, but the wealthy had more leisure time for entertainment and social activities."
+    },
+    {
+      "question": "What was Roman clothing?",
+      "A": "Togas for citizens",
+      "B": "Tunics for common people",
+      "C": "Both A and B",
+      "D": "Uniform",
+      "answer": "C",
+      "funFact": "Roman clothing varied by class. Togas were worn by male citizens, while common people wore tunics. Clothing indicated social status."
+    },
+    {
+      "question": "What was a toga?",
+      "A": "A Roman garment",
+      "B": "Worn by male citizens",
+      "C": "Both A and B",
+      "D": "Worn by everyone",
+      "answer": "C",
+      "funFact": "A toga was a Roman garment worn by male citizens. It was a large piece of cloth wrapped around the body and was a symbol of Roman citizenship."
+    },
+    {
+      "question": "What was Roman housing?",
+      "A": "Varied by social class",
+      "B": "Villas for the wealthy, insulae for common people",
+      "C": "Both A and B",
+      "D": "Uniform",
+      "answer": "C",
+      "funFact": "Roman housing varied by social class. The wealthy lived in villas (country houses) or domus (city houses), while common people lived in insulae (apartment buildings)."
+    },
+    {
+      "question": "What was Roman education?",
+      "A": "Primarily for the wealthy",
+      "B": "Emphasized rhetoric and literature",
+      "C": "Both A and B",
+      "D": "For everyone",
+      "answer": "C",
+      "funFact": "Roman education was primarily for the wealthy and emphasized rhetoric, literature, and philosophy. Most common people received little formal education."
+    },
+    {
+      "question": "What was Roman marriage?",
+      "A": "Arranged",
+      "B": "For political and economic reasons",
+      "C": "Both A and B",
+      "D": "Always for love",
+      "answer": "C",
+      "funFact": "Roman marriages were often arranged for political and economic reasons. Love matches were less common, especially among the upper classes."
+    },
+    {
+      "question": "What was Roman family life?",
+      "A": "Patriarchal",
+      "B": "Father had absolute power",
+      "C": "Both A and B",
+      "D": "Egalitarian",
+      "answer": "C",
+      "funFact": "Roman family life was patriarchal, with the father (paterfamilias) having absolute power over his family, including the right to sell children into slavery."
+    },
+    {
+      "question": "What was Roman slavery?",
+      "A": "Widespread",
+      "B": "Slaves had no rights",
+      "C": "Both A and B",
+      "D": "Rare",
+      "answer": "C",
+      "funFact": "Roman slavery was widespread, and slaves had no rights. However, some slaves could earn freedom (manumission) and become freedmen."
+    },
+    {
+      "question": "What was Roman entertainment?",
+      "A": "Gladiator fights",
+      "B": "Chariot races",
+      "C": "Theater",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Roman entertainment included gladiator fights, chariot races, theater, and public games. The Colosseum and Circus Maximus were major venues."
+    },
+    {
+      "question": "What was Roman religion?",
+      "A": "Polytheistic",
+      "B": "Many gods",
+      "C": "Both A and B",
+      "D": "Monotheistic",
+      "answer": "C",
+      "funFact": "Roman religion was polytheistic, with many gods. The Romans adopted gods from other cultures and had a complex religious system."
+    },
+    {
+      "question": "What was Roman work?",
+      "A": "Varied by social class",
+      "B": "Agriculture, trade, crafts",
+      "C": "Both A and B",
+      "D": "Uniform",
+      "answer": "C",
+      "funFact": "Roman work varied by social class. Most people worked in agriculture, trade, or crafts. The wealthy didn't need to work and focused on politics and leisure."
+    },
+    {
+      "question": "What was Roman hygiene?",
+      "A": "Public baths",
+      "B": "Important for social life",
+      "C": "Both A and B",
+      "D": "Private only",
+      "answer": "C",
+      "funFact": "Roman hygiene included public baths, which were important for social life. Romans bathed daily and used oils and scrapers to clean themselves."
+    },
+    {
+      "question": "What was Roman medicine?",
+      "A": "Advanced for the time",
+      "B": "Included surgery and herbs",
+      "C": "Both A and B",
+      "D": "Primitive",
+      "answer": "C",
+      "funFact": "Roman medicine was advanced for the time and included surgery and herbal remedies. Roman doctors were skilled, though many practices seem primitive today."
+    },
+    {
+      "question": "What was Roman travel?",
+      "A": "Extensive road network",
+      "B": "Safe and efficient",
+      "C": "Both A and B",
+      "D": "Difficult",
+      "answer": "C",
+      "funFact": "Roman travel was facilitated by an extensive road network that made travel relatively safe and efficient. The saying 'All roads lead to Rome' reflects this."
+    },
+    {
+      "question": "What was Roman communication?",
+      "A": "Written letters",
+      "B": "Messenger system",
+      "C": "Both A and B",
+      "D": "Only oral",
+      "answer": "C",
+      "funFact": "Roman communication included written letters and a messenger system. The empire's road network allowed relatively fast communication across vast distances."
+    },
+    {
+      "question": "What was Roman timekeeping?",
+      "A": "Used sundials and water clocks",
+      "B": "Divided day into hours",
+      "C": "Both A and B",
+      "D": "No timekeeping",
+      "answer": "C",
+      "funFact": "Romans used sundials and water clocks to tell time. They divided the day into 12 hours, though the length of hours varied by season."
+    },
+    {
+      "question": "What was Roman money?",
+      "A": "Coins",
+      "B": "Denarius and aureus",
+      "C": "Both A and B",
+      "D": "Barter only",
+      "answer": "C",
+      "funFact": "Roman money consisted of coins, including the denarius (silver) and aureus (gold). Roman coins were used throughout the empire and beyond."
+    },
+    {
+      "question": "What was Roman social status?",
+      "A": "Very important",
+      "B": "Determined opportunities",
+      "C": "Both A and B",
+      "D": "Unimportant",
+      "answer": "C",
+      "funFact": "Roman social status was very important and determined opportunities in life. Status was based on birth, wealth, and citizenship."
+    },
+    {
+      "question": "What was the legacy of Roman daily life?",
+      "A": "Influenced Western culture",
+      "B": "Many customs continue today",
+      "C": "Both A and B",
+      "D": "Forgotten",
+      "answer": "C",
+      "funFact": "Roman daily life influenced Western culture, and many customs continue today. Aspects of Roman life, from food to entertainment, still resonate in modern culture."
+    }
+]
+

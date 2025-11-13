@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest mammal in the world?",
+      "A": "African Elephant",
+      "B": "Blue Whale",
+      "C": "Giraffe",
+      "D": "Polar Bear",
+      "answer": "B",
+      "funFact": "The blue whale is the largest mammal and the largest animal ever known to have existed, reaching lengths of up to 100 feet and weights of up to 200 tons."
+    },
+    {
+      "question": "What do mammals have that other animals don't?",
+      "A": "Hair or fur",
+      "B": "Mammary glands",
+      "C": "Warm blood",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Mammals are characterized by having hair or fur, mammary glands (for producing milk), and being warm-blooded (endothermic)."
+    },
+    {
+      "question": "What is the fastest land mammal?",
+      "A": "Lion",
+      "B": "Cheetah",
+      "C": "Pronghorn",
+      "D": "Horse",
+      "answer": "B",
+      "funFact": "The cheetah is the fastest land mammal, capable of reaching speeds up to 70 miles per hour (113 km/h) in short bursts covering distances up to 1,500 feet."
+    },
+    {
+      "question": "What is the only mammal capable of true flight?",
+      "A": "Flying squirrel",
+      "B": "Bat",
+      "C": "Flying lemur",
+      "D": "Sugar glider",
+      "answer": "B",
+      "funFact": "Bats are the only mammals capable of sustained, powered flight. Other mammals like flying squirrels can only glide, not truly fly."
+    },
+    {
+      "question": "What is the tallest mammal in the world?",
+      "A": "Elephant",
+      "B": "Giraffe",
+      "C": "Camel",
+      "D": "Horse",
+      "answer": "B",
+      "funFact": "The giraffe is the tallest mammal in the world, reaching heights of up to 18 feet. Its long neck helps it reach leaves high in trees."
+    },
+    {
+      "question": "What is the smallest mammal in the world?",
+      "A": "Mouse",
+      "B": "Shrew",
+      "C": "Bumblebee bat",
+      "D": "Hamster",
+      "answer": "C",
+      "funFact": "The bumblebee bat (Kitti's hog-nosed bat) is the smallest mammal in the world, weighing only about 0.07 ounces and measuring about 1.1 inches long."
+    },
+    {
+      "question": "What mammal lives the longest?",
+      "A": "Elephant",
+      "B": "Whale",
+      "C": "Human",
+      "D": "All of the above can live long",
+      "answer": "D",
+      "funFact": "Bowhead whales can live over 200 years, making them among the longest-living mammals. Elephants can live 60-70 years, and humans can live over 100 years."
+    },
+    {
+      "question": "What is a baby kangaroo called?",
+      "A": "Cub",
+      "B": "Pup",
+      "C": "Joey",
+      "D": "Calf",
+      "answer": "C",
+      "funFact": "A baby kangaroo is called a joey. Joeys are born very underdeveloped and continue to develop in their mother's pouch for several months."
+    },
+    {
+      "question": "What is the most intelligent mammal?",
+      "A": "Dolphin",
+      "B": "Chimpanzee",
+      "C": "Human",
+      "D": "All of the above are highly intelligent",
+      "answer": "D",
+      "funFact": "Humans, dolphins, and great apes (like chimpanzees) are all highly intelligent mammals, each demonstrating advanced problem-solving, communication, and tool use."
+    },
+    {
+      "question": "What do mammals feed their babies?",
+      "A": "Solid food",
+      "B": "Milk",
+      "C": "Insects",
+      "D": "Plants",
+      "answer": "B",
+      "funFact": "Mammals feed their babies milk produced by mammary glands. This is one of the defining characteristics of mammals and provides essential nutrients for growth."
+    }
+]
+

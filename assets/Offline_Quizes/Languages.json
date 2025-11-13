@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the most spoken language in the world?",
+      "A": "English",
+      "B": "Spanish",
+      "C": "Mandarin Chinese",
+      "D": "Hindi",
+      "answer": "C",
+      "funFact": "Mandarin Chinese is the most spoken language in the world by number of native speakers, with over 900 million native speakers."
+    },
+    {
+      "question": "How many official languages does the United Nations have?",
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "answer": "C",
+      "funFact": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish. All UN documents are translated into these languages."
+    },
+    {
+      "question": "What language is spoken in Brazil?",
+      "A": "Spanish",
+      "B": "Portuguese",
+      "C": "French",
+      "D": "English",
+      "answer": "B",
+      "funFact": "Portuguese is the official language of Brazil, spoken by over 200 million people. Brazil is the largest Portuguese-speaking country in the world."
+    },
+    {
+      "question": "What is the second most spoken language in the world?",
+      "A": "English",
+      "B": "Spanish",
+      "C": "Hindi",
+      "D": "Arabic",
+      "answer": "B",
+      "funFact": "Spanish is the second most spoken language in the world by number of native speakers, with over 480 million native speakers, primarily in Latin America and Spain."
+    },
+    {
+      "question": "What language family does English belong to?",
+      "A": "Romance",
+      "B": "Germanic",
+      "C": "Slavic",
+      "D": "Celtic",
+      "answer": "B",
+      "funFact": "English belongs to the Germanic language family, which also includes German, Dutch, Swedish, and Norwegian. It's part of the Indo-European language family."
+    },
+    {
+      "question": "What is the official language of most countries in the Middle East?",
+      "A": "Hebrew",
+      "B": "Turkish",
+      "C": "Arabic",
+      "D": "Persian",
+      "answer": "C",
+      "funFact": "Arabic is the official language of most countries in the Middle East and North Africa. It's also one of the six official languages of the United Nations."
+    },
+    {
+      "question": "What language is written from right to left?",
+      "A": "Chinese",
+      "B": "Japanese",
+      "C": "Arabic and Hebrew",
+      "D": "Korean",
+      "answer": "C",
+      "funFact": "Arabic and Hebrew are written from right to left, unlike most languages which are written from left to right. This is a characteristic of Semitic languages."
+    },
+    {
+      "question": "What is the most widely learned second language in the world?",
+      "A": "Spanish",
+      "B": "French",
+      "C": "English",
+      "D": "Mandarin Chinese",
+      "answer": "C",
+      "funFact": "English is the most widely learned second language in the world, with over 1.5 billion people learning it as a foreign language. It's often called the 'lingua franca' of the modern world."
+    },
+    {
+      "question": "What language is spoken in Japan?",
+      "A": "Chinese",
+      "B": "Korean",
+      "C": "Japanese",
+      "D": "Thai",
+      "answer": "C",
+      "funFact": "Japanese is the official language of Japan, spoken by over 125 million people. It uses three writing systems: hiragana, katakana, and kanji (Chinese characters)."
+    },
+    {
+      "question": "What is the name for a person who speaks multiple languages fluently?",
+      "A": "Bilingual",
+      "B": "Trilingual",
+      "C": "Polyglot",
+      "D": "Linguist",
+      "answer": "C",
+      "funFact": "A polyglot is someone who speaks multiple languages fluently. Bilingual means two languages, trilingual means three, and polyglot typically means four or more."
+    }
+]
+

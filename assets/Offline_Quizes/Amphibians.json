@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What does 'amphibian' mean?",
+      "A": "Water animal",
+      "B": "Land animal",
+      "C": "Double life",
+      "D": "No life",
+      "answer": "C",
+      "funFact": "The word 'amphibian' comes from the Greek words meaning 'double life,' because most amphibians live both in water (as larvae) and on land (as adults)."
+    },
+    {
+      "question": "What are the three main groups of amphibians?",
+      "A": "Frogs, toads, and salamanders",
+      "B": "Frogs, lizards, and snakes",
+      "C": "Toads, turtles, and fish",
+      "D": "Salamanders, lizards, and snakes",
+      "answer": "A",
+      "funFact": "The three main groups of amphibians are frogs and toads (anurans), salamanders and newts (urodeles), and caecilians (limbless amphibians)."
+    },
+    {
+      "question": "What do frogs start as?",
+      "A": "Eggs",
+      "B": "Tadpoles",
+      "C": "Both A and B",
+      "D": "Small frogs",
+      "answer": "C",
+      "funFact": "Frogs start as eggs that hatch into tadpoles, which live in water and have gills. They then undergo metamorphosis to become adult frogs with lungs."
+    },
+    {
+      "question": "What is the largest amphibian in the world?",
+      "A": "Giant salamander",
+      "B": "Bullfrog",
+      "C": "Cane toad",
+      "D": "Axolotl",
+      "answer": "A",
+      "funFact": "The Chinese giant salamander is the largest amphibian in the world, reaching lengths of up to 6 feet and weighing up to 140 pounds."
+    },
+    {
+      "question": "How do amphibians breathe?",
+      "A": "Only with lungs",
+      "B": "Only with gills",
+      "C": "With lungs, gills, or through their skin",
+      "D": "They don't breathe",
+      "answer": "C",
+      "funFact": "Amphibians can breathe in different ways: larvae have gills, adults have lungs, and many can also absorb oxygen through their moist skin."
+    },
+    {
+      "question": "What is the smallest frog in the world?",
+      "A": "Tree frog",
+      "B": "Paedophryne amauensis",
+      "C": "Poison dart frog",
+      "D": "Bullfrog",
+      "answer": "B",
+      "funFact": "Paedophryne amauensis is the smallest frog in the world, measuring only about 0.3 inches (7.7 mm) long. It's found in Papua New Guinea."
+    },
+    {
+      "question": "What do amphibians need to survive?",
+      "A": "Water",
+      "B": "Land",
+      "C": "Both water and land",
+      "D": "Only air",
+      "answer": "C",
+      "funFact": "Amphibians need both water and land to survive. They need water for reproduction (laying eggs) and their skin must stay moist to breathe."
+    },
+    {
+      "question": "What is the process called when a tadpole becomes a frog?",
+      "A": "Evolution",
+      "B": "Metamorphosis",
+      "C": "Transformation",
+      "D": "Mutation",
+      "answer": "B",
+      "funFact": "Metamorphosis is the process by which a tadpole transforms into a frog, developing legs, losing its tail, and developing lungs to replace gills."
+    },
+    {
+      "question": "What is the most poisonous amphibian?",
+      "A": "Bullfrog",
+      "B": "Tree frog",
+      "C": "Poison dart frog",
+      "D": "Salamander",
+      "answer": "C",
+      "funFact": "Poison dart frogs are among the most poisonous animals in the world. The golden poison dart frog has enough poison to kill 10 adult humans."
+    },
+    {
+      "question": "Can amphibians live in saltwater?",
+      "A": "Yes, all amphibians can",
+      "B": "No, amphibians cannot live in saltwater",
+      "C": "Only some amphibians can",
+      "D": "Only as adults",
+      "answer": "B",
+      "funFact": "Amphibians cannot live in saltwater because their skin is permeable and saltwater would dehydrate them. They need fresh water to survive."
+    }
+]
+

@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is an ecosystem?",
+      "A": "A type of animal",
+      "B": "A community of living things and their environment",
+      "C": "A type of plant",
+      "D": "A type of weather",
+      "answer": "B",
+      "funFact": "An ecosystem is a community of living organisms (plants, animals, and microbes) interacting with their physical environment (air, water, soil) in a specific area."
+    },
+    {
+      "question": "What are the living parts of an ecosystem called?",
+      "A": "Abiotic factors",
+      "B": "Biotic factors",
+      "C": "Non-living factors",
+      "D": "Physical factors",
+      "answer": "B",
+      "funFact": "The living parts of an ecosystem are called biotic factors. These include all plants, animals, fungi, and microorganisms."
+    },
+    {
+      "question": "What are the non-living parts of an ecosystem called?",
+      "A": "Biotic factors",
+      "B": "Abiotic factors",
+      "C": "Living factors",
+      "D": "Biological factors",
+      "answer": "B",
+      "funFact": "The non-living parts of an ecosystem are called abiotic factors. These include sunlight, water, air, soil, temperature, and minerals."
+    },
+    {
+      "question": "What is a producer?",
+      "A": "An animal that eats other animals",
+      "B": "An organism that makes its own food",
+      "C": "An organism that breaks down dead things",
+      "D": "A type of plant",
+      "answer": "B",
+      "funFact": "A producer is an organism that makes its own food, usually through photosynthesis. Plants are the main producers in most ecosystems."
+    },
+    {
+      "question": "What is a consumer?",
+      "A": "An organism that makes its own food",
+      "B": "An organism that eats other organisms",
+      "C": "An organism that breaks down dead things",
+      "D": "A type of plant",
+      "answer": "B",
+      "funFact": "A consumer is an organism that eats other organisms to get energy. Consumers include herbivores (plant-eaters), carnivores (meat-eaters), and omnivores (both)."
+    },
+    {
+      "question": "What is a food chain?",
+      "A": "A list of animals",
+      "B": "The path energy takes through an ecosystem",
+      "C": "A type of plant",
+      "D": "A type of habitat",
+      "answer": "B",
+      "funFact": "A food chain shows the path energy takes through an ecosystem, from producers to consumers. For example: grass → rabbit → fox."
+    },
+    {
+      "question": "What is a food web?",
+      "A": "A single food chain",
+      "B": "Multiple interconnected food chains",
+      "C": "A type of spider",
+      "D": "A type of plant",
+      "answer": "B",
+      "funFact": "A food web is multiple interconnected food chains, showing how energy flows through an ecosystem. It's more complex and realistic than a single food chain."
+    },
+    {
+      "question": "What is a decomposer?",
+      "A": "An organism that makes its own food",
+      "B": "An organism that eats other organisms",
+      "C": "An organism that breaks down dead things",
+      "D": "A type of plant",
+      "answer": "C",
+      "funFact": "A decomposer is an organism that breaks down dead plants and animals, returning nutrients to the soil. Examples include bacteria, fungi, and earthworms."
+    },
+    {
+      "question": "What happens if one part of an ecosystem is removed?",
+      "A": "Nothing",
+      "B": "It can affect the entire ecosystem",
+      "C": "Only that part is affected",
+      "D": "The ecosystem improves",
+      "answer": "B",
+      "funFact": "If one part of an ecosystem is removed, it can affect the entire ecosystem because all parts are interconnected. This is why biodiversity and conservation are important."
+    },
+    {
+      "question": "What is biodiversity?",
+      "A": "The number of one type of organism",
+      "B": "The variety of life in an ecosystem",
+      "C": "A type of habitat",
+      "D": "A type of weather",
+      "answer": "B",
+      "funFact": "Biodiversity is the variety of life in an ecosystem, including the number of different species and the genetic diversity within species. High biodiversity makes ecosystems more stable."
+    }
+]
+

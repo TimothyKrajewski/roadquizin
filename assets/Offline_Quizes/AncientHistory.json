@@ -1,0 +1,219 @@
+[
+    {
+      "question": "What was the name of the first civilization in Mesopotamia?",
+      "A": "Sumer",
+      "B": "Babylon",
+      "C": "Assyria",
+      "D": "Persia",
+      "answer": "A",
+      "funFact": "Sumer was the first civilization in Mesopotamia, emerging around 4500 BC. The Sumerians invented writing (cuneiform), the wheel, and many other innovations."
+    },
+    {
+      "question": "What was the name of the first pharaoh of Egypt?",
+      "A": "Tutankhamun",
+      "B": "Ramesses II",
+      "C": "Narmer (Menes)",
+      "D": "Cleopatra",
+      "answer": "C",
+      "funFact": "Narmer (also known as Menes) is considered the first pharaoh of unified Egypt around 3100 BC. He united Upper and Lower Egypt."
+    },
+    {
+      "question": "What was the name of the ancient Greek city-state known for its military?",
+      "A": "Athens",
+      "B": "Sparta",
+      "C": "Thebes",
+      "D": "Corinth",
+      "answer": "B",
+      "funFact": "Sparta was an ancient Greek city-state known for its military prowess. Spartan boys began military training at age 7 and were known for their discipline and bravery."
+    },
+    {
+      "question": "What was the name of the first emperor of China?",
+      "A": "Confucius",
+      "B": "Qin Shi Huang",
+      "C": "Han Wudi",
+      "D": "Tang Taizong",
+      "answer": "B",
+      "funFact": "Qin Shi Huang was the first emperor of a unified China in 221 BC. He built the Great Wall and created the Terracotta Army."
+    },
+    {
+      "question": "What was the name of the ancient Roman general who crossed the Rubicon?",
+      "A": "Julius Caesar",
+      "B": "Augustus",
+      "C": "Mark Antony",
+      "D": "Pompey",
+      "answer": "A",
+      "funFact": "Julius Caesar crossed the Rubicon River in 49 BC, starting a civil war. The phrase 'crossing the Rubicon' means making an irreversible decision."
+    },
+    {
+      "question": "What was the name of the ancient city destroyed by Mount Vesuvius?",
+      "A": "Herculaneum",
+      "B": "Pompeii",
+      "C": "Both A and B",
+      "D": "Rome",
+      "answer": "C",
+      "funFact": "Both Pompeii and Herculaneum were destroyed by the eruption of Mount Vesuvius in 79 AD. The cities were buried in ash and preserved for centuries."
+    },
+    {
+      "question": "What was the name of the ancient Persian king who invaded Greece?",
+      "A": "Cyrus the Great",
+      "B": "Darius I",
+      "C": "Xerxes I",
+      "D": "Artaxerxes",
+      "answer": "C",
+      "funFact": "Xerxes I was the Persian king who led the second invasion of Greece in 480 BC. He is famous for the battles of Thermopylae and Salamis."
+    },
+    {
+      "question": "What was the name of the ancient Greek philosopher who was sentenced to death?",
+      "A": "Plato",
+      "B": "Aristotle",
+      "C": "Socrates",
+      "D": "Pythagoras",
+      "answer": "C",
+      "funFact": "Socrates was an ancient Greek philosopher who was sentenced to death by drinking hemlock in 399 BC. He was accused of corrupting the youth and impiety."
+    },
+    {
+      "question": "What was the name of the ancient Egyptian queen who was the last pharaoh?",
+      "A": "Hatshepsut",
+      "B": "Nefertiti",
+      "C": "Cleopatra",
+      "D": "Nefertari",
+      "answer": "C",
+      "funFact": "Cleopatra VII was the last pharaoh of ancient Egypt. She ruled from 51-30 BC and had relationships with both Julius Caesar and Mark Antony."
+    },
+    {
+      "question": "What was the name of the ancient Roman emperor who built the Colosseum?",
+      "A": "Augustus",
+      "B": "Nero",
+      "C": "Vespasian",
+      "D": "Trajan",
+      "answer": "C",
+      "funFact": "Vespasian began construction of the Colosseum in 72 AD. It was completed by his son Titus in 80 AD and could hold up to 80,000 spectators."
+    },
+    {
+      "question": "What was the name of the ancient Chinese philosopher who founded Confucianism?",
+      "A": "Laozi",
+      "B": "Confucius",
+      "C": "Mencius",
+      "D": "Zhuangzi",
+      "answer": "B",
+      "funFact": "Confucius (551-479 BC) was a Chinese philosopher who founded Confucianism. His teachings emphasized ethics, morality, and proper social relationships."
+    },
+    {
+      "question": "What was the name of the ancient Greek city that was the birthplace of democracy?",
+      "A": "Sparta",
+      "B": "Athens",
+      "C": "Thebes",
+      "D": "Corinth",
+      "answer": "B",
+      "funFact": "Athens is considered the birthplace of democracy. The democratic system developed there in the 5th century BC, though it was limited to male citizens."
+    },
+    {
+      "question": "What was the name of the ancient Roman general who defeated Hannibal?",
+      "A": "Scipio Africanus",
+      "B": "Julius Caesar",
+      "C": "Pompey",
+      "D": "Mark Antony",
+      "answer": "A",
+      "funFact": "Scipio Africanus was the Roman general who defeated Hannibal at the Battle of Zama in 202 BC, ending the Second Punic War."
+    },
+    {
+      "question": "What was the name of the ancient Carthaginian general who crossed the Alps?",
+      "A": "Hannibal",
+      "B": "Hasdrubal",
+      "C": "Hamilcar",
+      "D": "Mago",
+      "answer": "A",
+      "funFact": "Hannibal Barca was the Carthaginian general who crossed the Alps with elephants during the Second Punic War (218-201 BC). He was one of history's greatest military strategists."
+    },
+    {
+      "question": "What was the name of the ancient Egyptian pharaoh who built the Great Pyramid?",
+      "A": "Khufu",
+      "B": "Khafre",
+      "C": "Menkaure",
+      "D": "Djoser",
+      "answer": "A",
+      "funFact": "Khufu (also known as Cheops) was the pharaoh who built the Great Pyramid of Giza around 2560 BC. It's the largest of the three pyramids and one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "question": "What was the name of the ancient Greek historian known as the 'Father of History'?",
+      "A": "Herodotus",
+      "B": "Thucydides",
+      "C": "Xenophon",
+      "D": "Polybius",
+      "answer": "A",
+      "funFact": "Herodotus (c. 484-425 BC) is known as the 'Father of History.' He wrote 'The Histories,' which chronicled the Greco-Persian Wars."
+    },
+    {
+      "question": "What was the name of the ancient Roman emperor who converted to Christianity?",
+      "A": "Constantine the Great",
+      "B": "Diocletian",
+      "C": "Theodosius",
+      "D": "Justinian",
+      "answer": "A",
+      "funFact": "Constantine the Great was the first Roman emperor to convert to Christianity. He issued the Edict of Milan in 313 AD, which legalized Christianity in the Roman Empire."
+    },
+    {
+      "question": "What was the name of the ancient Indian emperor who converted to Buddhism?",
+      "A": "Chandragupta Maurya",
+      "B": "Ashoka",
+      "C": "Kanishka",
+      "D": "Harsha",
+      "answer": "B",
+      "funFact": "Ashoka the Great was an Indian emperor who converted to Buddhism after witnessing the horrors of war. He spread Buddhism throughout Asia and is remembered for his peaceful rule."
+    },
+    {
+      "question": "What was the name of the ancient Greek mathematician who discovered the Pythagorean theorem?",
+      "A": "Euclid",
+      "B": "Archimedes",
+      "C": "Pythagoras",
+      "D": "Aristotle",
+      "answer": "C",
+      "funFact": "Pythagoras (c. 570-495 BC) was a Greek mathematician and philosopher. The Pythagorean theorem (a² + b² = c²) is named after him, though it was known earlier."
+    },
+    {
+      "question": "What was the name of the ancient Roman emperor who 'fiddled while Rome burned'?",
+      "A": "Caligula",
+      "B": "Nero",
+      "C": "Commodus",
+      "D": "Caracalla",
+      "answer": "B",
+      "funFact": "Nero was the Roman emperor during the Great Fire of Rome in 64 AD. The story that he 'fiddled while Rome burned' is likely a myth, as the fiddle didn't exist then."
+    },
+    {
+      "question": "What was the name of the ancient Egyptian pharaoh who tried to establish monotheism?",
+      "A": "Akhenaten",
+      "B": "Tutankhamun",
+      "C": "Ramesses II",
+      "D": "Hatshepsut",
+      "answer": "A",
+      "funFact": "Akhenaten (c. 1353-1336 BC) tried to establish monotheism in ancient Egypt by worshiping only the sun god Aten. His religious reforms were reversed after his death."
+    },
+    {
+      "question": "What was the name of the ancient Greek city that was destroyed by Alexander the Great?",
+      "A": "Thebes",
+      "B": "Athens",
+      "C": "Sparta",
+      "D": "Corinth",
+      "answer": "A",
+      "funFact": "Thebes was destroyed by Alexander the Great in 335 BC as punishment for rebelling. He spared only the house of the poet Pindar and the temples."
+    },
+    {
+      "question": "What was the name of the ancient Roman general who became dictator for life?",
+      "A": "Julius Caesar",
+      "B": "Augustus",
+      "C": "Sulla",
+      "D": "Marius",
+      "answer": "A",
+      "funFact": "Julius Caesar became dictator for life in 44 BC, which led to his assassination by senators who feared he would become a king. His death sparked a civil war."
+    },
+    {
+      "question": "What was the name of the ancient Chinese dynasty that built the Great Wall?",
+      "A": "Han Dynasty",
+      "B": "Qin Dynasty",
+      "C": "Tang Dynasty",
+      "D": "Ming Dynasty",
+      "answer": "B",
+      "funFact": "The Qin Dynasty (221-206 BC) began building the Great Wall of China, though most of what exists today was built during the Ming Dynasty (1368-1644)."
+    }
+]
+

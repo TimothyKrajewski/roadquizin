@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Which state is the largest by area?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Alaska",
+      "D": "Montana",
+      "answer": "C",
+      "funFact": "Alaska is the largest state by area, covering over 663,000 square miles, more than twice the size of Texas."
+    },
+    {
+      "question": "Which state is the smallest by area?",
+      "A": "Delaware",
+      "B": "Rhode Island",
+      "C": "Connecticut",
+      "D": "Hawaii",
+      "answer": "B",
+      "funFact": "Rhode Island is the smallest state by area, covering only 1,214 square miles, but it has the longest official name: 'State of Rhode Island and Providence Plantations.'"
+    },
+    {
+      "question": "Which state has the most people?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Florida",
+      "D": "New York",
+      "answer": "B",
+      "funFact": "California has the most people, with over 39 million residents. It's also the third largest state by area."
+    },
+    {
+      "question": "Which state has the fewest people?",
+      "A": "Wyoming",
+      "B": "Vermont",
+      "C": "Alaska",
+      "D": "North Dakota",
+      "answer": "A",
+      "funFact": "Wyoming has the fewest people, with about 580,000 residents. However, Alaska has the lowest population density."
+    },
+    {
+      "question": "Which state has the highest point in the United States?",
+      "A": "Colorado",
+      "B": "Alaska",
+      "C": "California",
+      "D": "Washington",
+      "answer": "B",
+      "funFact": "Alaska has the highest point in the United States: Denali (formerly Mount McKinley) at 20,310 feet. The highest point in the contiguous U.S. is Mount Whitney in California at 14,505 feet."
+    },
+    {
+      "question": "Which state has the lowest point in the United States?",
+      "A": "Nevada",
+      "B": "Arizona",
+      "C": "California",
+      "D": "Utah",
+      "answer": "C",
+      "funFact": "California has the lowest point in the United States: Badwater Basin in Death Valley at 282 feet below sea level. It's also the hottest place on Earth."
+    },
+    {
+      "question": "Which state has the longest coastline?",
+      "A": "California",
+      "B": "Florida",
+      "C": "Alaska",
+      "D": "Texas",
+      "answer": "C",
+      "funFact": "Alaska has the longest coastline, with over 6,600 miles of coastline, more than all other states combined."
+    },
+    {
+      "question": "Which state has the shortest coastline?",
+      "A": "New Hampshire",
+      "B": "Delaware",
+      "C": "Rhode Island",
+      "D": "Connecticut",
+      "answer": "A",
+      "funFact": "New Hampshire has the shortest coastline, with only 18 miles of coastline on the Atlantic Ocean."
+    },
+    {
+      "question": "Which state has the most lakes?",
+      "A": "Minnesota",
+      "B": "Alaska",
+      "C": "Michigan",
+      "D": "Wisconsin",
+      "answer": "A",
+      "funFact": "Minnesota is known as the 'Land of 10,000 Lakes' and actually has over 11,000 lakes. Alaska has the most total water area, but Minnesota has the most named lakes."
+    },
+    {
+      "question": "Which state has the most rivers?",
+      "A": "Alaska",
+      "B": "Texas",
+      "C": "Montana",
+      "D": "Colorado",
+      "answer": "A",
+      "funFact": "Alaska has the most rivers, with over 3,000 rivers and streams. The Yukon River, one of the longest in North America, flows through Alaska."
+    },
+    {
+      "question": "Which state has the most bridges?",
+      "A": "Pennsylvania",
+      "B": "Texas",
+      "C": "New York",
+      "D": "California",
+      "answer": "A",
+      "funFact": "Pennsylvania has the most bridges, with over 25,000 bridges. This is due to its many rivers, streams, and rugged terrain."
+    },
+    {
+      "question": "Which state has the most airports?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Florida",
+      "D": "Alaska",
+      "answer": "D",
+      "funFact": "Alaska has the most airports, with over 400 airports and airstrips. Many are small, remote airports that serve isolated communities."
+    },
+    {
+      "question": "Which state has the most miles of highway?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Illinois",
+      "D": "Pennsylvania",
+      "answer": "A",
+      "funFact": "Texas has the most miles of highway, with over 313,000 miles of public roads. This is due to the state's large size and population."
+    },
+    {
+      "question": "Which state has the most national parks?",
+      "A": "California",
+      "B": "Alaska",
+      "C": "Utah",
+      "D": "Colorado",
+      "answer": "A",
+      "funFact": "California has the most national parks with 9, including Yosemite, Sequoia, and Death Valley. Alaska has 8 national parks, but they're much larger."
+    },
+    {
+      "question": "Which state has the most state parks?",
+      "A": "California",
+      "B": "New York",
+      "C": "Florida",
+      "D": "Texas",
+      "answer": "A",
+      "funFact": "California has the most state parks, with over 280 state parks and recreation areas, covering over 1.5 million acres."
+    },
+    {
+      "question": "Which state has the most national monuments?",
+      "A": "Arizona",
+      "B": "New Mexico",
+      "C": "Utah",
+      "D": "California",
+      "answer": "A",
+      "funFact": "Arizona has the most national monuments with 18, including the Grand Canyon (also a national park), Montezuma Castle, and Organ Pipe Cactus."
+    },
+    {
+      "question": "Which state has the most colleges and universities?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "California has the most colleges and universities, with over 400 institutions of higher education, including the University of California system and California State University system."
+    },
+    {
+      "question": "Which state has the most professional sports teams?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "California has the most professional sports teams, with teams in all major sports leagues: NFL, NBA, MLB, NHL, MLS, and more."
+    },
+    {
+      "question": "Which state has the most millionaires?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "California has the most millionaires, with over 1.8 million millionaire households. This is due to the state's large population and high incomes in technology and entertainment."
+    },
+    {
+      "question": "Which state has the most billionaires?",
+      "A": "California",
+      "B": "New York",
+      "C": "Texas",
+      "D": "Florida",
+      "answer": "A",
+      "funFact": "California has the most billionaires, with over 180 billionaires. Many are in the technology industry in Silicon Valley."
+    },
+    {
+      "question": "Which state has the most Fortune 500 companies?",
+      "A": "California",
+      "B": "Texas",
+      "C": "New York",
+      "D": "Illinois",
+      "answer": "B",
+      "funFact": "Texas has the most Fortune 500 companies, with over 50 companies. This includes major corporations like ExxonMobil, AT&T, and Dell."
+    },
+    {
+      "question": "Which state has the most farms?",
+      "A": "Texas",
+      "B": "Iowa",
+      "C": "Nebraska",
+      "D": "Kansas",
+      "answer": "A",
+      "funFact": "Texas has the most farms, with over 247,000 farms. However, Iowa and Illinois have more farmland acreage."
+    },
+    {
+      "question": "Which state produces the most oil?",
+      "A": "Texas",
+      "B": "Alaska",
+      "C": "California",
+      "D": "North Dakota",
+      "answer": "A",
+      "funFact": "Texas produces the most oil, accounting for about 40% of U.S. crude oil production. It's also the leading producer of natural gas."
+    },
+    {
+      "question": "Which state produces the most electricity?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Florida",
+      "D": "Pennsylvania",
+      "answer": "A",
+      "funFact": "Texas produces the most electricity, generating over 500 billion kilowatt-hours per year. The state has a diverse mix of energy sources including natural gas, wind, and coal."
+    },
+    {
+      "question": "Which state has the most wind power?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Iowa",
+      "D": "Oklahoma",
+      "answer": "A",
+      "funFact": "Texas has the most wind power capacity, with over 30,000 megawatts of wind energy. The state's windy plains make it ideal for wind farms."
+    }
+]
+

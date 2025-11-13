@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest ocean on Earth?",
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean",
+      "answer": "D",
+      "funFact": "The Pacific Ocean is the largest ocean, covering about one-third of Earth's surface (approximately 63.8 million square miles) and containing more than half of the world's free water."
+    },
+    {
+      "question": "What is the deepest point in the world's oceans?",
+      "A": "Puerto Rico Trench",
+      "B": "Mariana Trench",
+      "C": "Tonga Trench",
+      "D": "Philippine Trench",
+      "answer": "B",
+      "funFact": "The Mariana Trench in the western Pacific Ocean is the deepest point on Earth, reaching a depth of about 36,070 feet (10,994 meters) at the Challenger Deep."
+    },
+    {
+      "question": "What percentage of Earth's surface is covered by oceans?",
+      "A": "About 50%",
+      "B": "About 60%",
+      "C": "About 70%",
+      "D": "About 80%",
+      "answer": "C",
+      "funFact": "Oceans cover approximately 71% of Earth's surface, which is why Earth is sometimes called the 'Blue Planet.'"
+    },
+    {
+      "question": "What is the name of the current that brings warm water to Europe?",
+      "A": "California Current",
+      "B": "Gulf Stream",
+      "C": "Kuroshio Current",
+      "D": "Antarctic Circumpolar Current",
+      "answer": "B",
+      "funFact": "The Gulf Stream is a powerful warm ocean current that flows from the Gulf of Mexico along the eastern coast of the United States and across the Atlantic to Europe, moderating Europe's climate."
+    },
+    {
+      "question": "What is the largest living structure on Earth?",
+      "A": "The Great Wall of China",
+      "B": "The Great Barrier Reef",
+      "C": "The Amazon Rainforest",
+      "D": "Mount Everest",
+      "answer": "B",
+      "funFact": "The Great Barrier Reef off the coast of Australia is the largest living structure on Earth, visible from space, and is composed of over 2,900 individual reefs and 900 islands."
+    },
+    {
+      "question": "What causes tides?",
+      "A": "Wind",
+      "B": "The gravitational pull of the Moon and Sun",
+      "C": "Ocean currents",
+      "D": "Earth's rotation",
+      "answer": "B",
+      "funFact": "Tides are caused primarily by the gravitational pull of the Moon and, to a lesser extent, the Sun. The Moon's gravity pulls on Earth's oceans, creating bulges."
+    },
+    {
+      "question": "What is the saltiest ocean?",
+      "A": "Pacific Ocean",
+      "B": "Atlantic Ocean",
+      "C": "Indian Ocean",
+      "D": "Arctic Ocean",
+      "answer": "B",
+      "funFact": "The Atlantic Ocean is the saltiest ocean, with an average salinity of about 3.5%. The Mediterranean Sea, which connects to the Atlantic, is even saltier."
+    },
+    {
+      "question": "What is the name of the phenomenon where warm ocean water in the Pacific affects global weather?",
+      "A": "La Niña",
+      "B": "El Niño",
+      "C": "The Gulf Stream",
+      "D": "The Jet Stream",
+      "answer": "B",
+      "funFact": "El Niño is a climate pattern that occurs when warm ocean water in the central and eastern Pacific affects weather patterns worldwide, typically every 2-7 years."
+    },
+    {
+      "question": "What is the smallest ocean?",
+      "A": "Indian Ocean",
+      "B": "Arctic Ocean",
+      "C": "Southern Ocean",
+      "D": "Mediterranean Sea",
+      "answer": "B",
+      "funFact": "The Arctic Ocean is the smallest and shallowest of the world's oceans, covering about 5.4 million square miles and largely covered by sea ice."
+    },
+    {
+      "question": "What percentage of Earth's oxygen is produced by ocean plants?",
+      "A": "About 20%",
+      "B": "About 50%",
+      "C": "About 70%",
+      "D": "About 90%",
+      "answer": "C",
+      "funFact": "Ocean plants, particularly phytoplankton, produce approximately 50-70% of Earth's oxygen, making the oceans crucial for life on Earth, not just marine life."
+    }
+]
+

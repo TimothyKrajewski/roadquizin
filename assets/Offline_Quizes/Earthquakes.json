@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What causes earthquakes?",
+      "A": "Weather",
+      "B": "Movement of tectonic plates",
+      "C": "Volcanoes",
+      "D": "Tides",
+      "answer": "B",
+      "funFact": "Earthquakes are caused by the movement of tectonic plates, the massive slabs of rock that make up Earth's crust. When plates move past each other, they can get stuck and then suddenly release energy."
+    },
+    {
+      "question": "What instrument measures earthquakes?",
+      "A": "Barometer",
+      "B": "Seismograph",
+      "C": "Thermometer",
+      "D": "Hygrometer",
+      "answer": "B",
+      "funFact": "A seismograph (or seismometer) measures and records ground motion during earthquakes. The record it produces is called a seismogram."
+    },
+    {
+      "question": "What scale measures earthquake magnitude?",
+      "A": "Fujita Scale",
+      "B": "Richter Scale",
+      "C": "Beaufort Scale",
+      "D": "Saffir-Simpson Scale",
+      "answer": "B",
+      "funFact": "The Richter Scale, developed in 1935, measures earthquake magnitude. The Moment Magnitude Scale (Mw) is now more commonly used by seismologists."
+    },
+    {
+      "question": "What is the point on Earth's surface directly above where an earthquake starts?",
+      "A": "Focus",
+      "B": "Epicenter",
+      "C": "Fault",
+      "D": "Crust",
+      "answer": "B",
+      "funFact": "The epicenter is the point on Earth's surface directly above the focus (hypocenter), where the earthquake actually begins underground."
+    },
+    {
+      "question": "What is the Ring of Fire?",
+      "A": "A type of earthquake",
+      "B": "A region with many earthquakes and volcanoes",
+      "C": "A famous fault line",
+      "D": "A type of volcano",
+      "answer": "B",
+      "funFact": "The Ring of Fire is a region around the Pacific Ocean where many earthquakes and volcanic eruptions occur, due to tectonic plate boundaries and subduction zones."
+    },
+    {
+      "question": "What is a tsunami?",
+      "A": "A type of earthquake",
+      "B": "A large ocean wave",
+      "C": "A type of volcano",
+      "D": "A fault line",
+      "answer": "B",
+      "funFact": "A tsunami is a series of large ocean waves caused by earthquakes, volcanic eruptions, or landslides under the ocean. The word means 'harbor wave' in Japanese."
+    },
+    {
+      "question": "What is the name of the famous fault line in California?",
+      "A": "New Madrid Fault",
+      "B": "San Andreas Fault",
+      "C": "Hayward Fault",
+      "D": "Cascadia Fault",
+      "answer": "B",
+      "funFact": "The San Andreas Fault is a major fault line in California where the Pacific and North American plates meet. It's responsible for many earthquakes in the region."
+    },
+    {
+      "question": "What is the strongest earthquake ever recorded?",
+      "A": "1960 Chile earthquake",
+      "B": "2004 Indian Ocean earthquake",
+      "C": "2011 Japan earthquake",
+      "D": "1906 San Francisco earthquake",
+      "answer": "A",
+      "funFact": "The 1960 Valdivia earthquake in Chile is the strongest earthquake ever recorded, with a magnitude of 9.5. It caused a devastating tsunami that affected the entire Pacific."
+    },
+    {
+      "question": "What are aftershocks?",
+      "A": "Smaller earthquakes after a main earthquake",
+      "B": "Larger earthquakes after a main earthquake",
+      "C": "Earthquakes before a main earthquake",
+      "D": "A type of fault",
+      "answer": "A",
+      "funFact": "Aftershocks are smaller earthquakes that occur after a main earthquake, as the Earth's crust adjusts to the changes caused by the main quake. They can continue for days, weeks, or even months."
+    },
+    {
+      "question": "What percentage of earthquakes occur along the Ring of Fire?",
+      "A": "About 25%",
+      "B": "About 50%",
+      "C": "About 75%",
+      "D": "About 90%",
+      "answer": "D",
+      "funFact": "About 90% of the world's earthquakes occur along the Ring of Fire, a horseshoe-shaped zone around the Pacific Ocean where many tectonic plate boundaries meet."
+    }
+]
+

@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest city in the United States by population?",
+      "A": "Los Angeles",
+      "B": "Chicago",
+      "C": "New York City",
+      "D": "Houston",
+      "answer": "C",
+      "funFact": "New York City is the largest city in the United States by population, with over 8 million people. It's also one of the most populous cities in the world."
+    },
+    {
+      "question": "What is the capital of France?",
+      "A": "Lyon",
+      "B": "Marseille",
+      "C": "Paris",
+      "D": "Nice",
+      "answer": "C",
+      "funFact": "Paris is the capital and largest city of France, known as the 'City of Light' and home to landmarks like the Eiffel Tower and Louvre Museum."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "A": "Osaka",
+      "B": "Kyoto",
+      "C": "Tokyo",
+      "D": "Yokohama",
+      "answer": "C",
+      "funFact": "Tokyo is the capital and largest city of Japan, with a metropolitan population of over 37 million people, making it one of the most populous cities in the world."
+    },
+    {
+      "question": "What is the largest city in the world by population?",
+      "A": "New York City",
+      "B": "Tokyo",
+      "C": "Shanghai",
+      "D": "Mumbai",
+      "answer": "B",
+      "funFact": "Tokyo, Japan, is the largest city in the world by metropolitan population, with over 37 million people in the Greater Tokyo Area."
+    },
+    {
+      "question": "What city is known as the 'Big Apple'?",
+      "A": "Chicago",
+      "B": "Los Angeles",
+      "C": "New York City",
+      "D": "Boston",
+      "answer": "C",
+      "funFact": "New York City is known as the 'Big Apple,' a nickname that became popular in the 1920s and 1930s, possibly from jazz musicians."
+    },
+    {
+      "question": "What city is home to the Eiffel Tower?",
+      "A": "London",
+      "B": "Rome",
+      "C": "Paris",
+      "D": "Berlin",
+      "answer": "C",
+      "funFact": "The Eiffel Tower is located in Paris, France. It was built in 1889 for the World's Fair and has become an iconic symbol of France."
+    },
+    {
+      "question": "What city is known as the 'City of Angels'?",
+      "A": "San Francisco",
+      "B": "Los Angeles",
+      "C": "San Diego",
+      "D": "Seattle",
+      "answer": "B",
+      "funFact": "Los Angeles is known as the 'City of Angels' because its name comes from the Spanish 'El Pueblo de Nuestra Señora la Reina de los Ángeles' (The Town of Our Lady the Queen of the Angels)."
+    },
+    {
+      "question": "What city is home to the Statue of Liberty?",
+      "A": "Boston",
+      "B": "New York City",
+      "C": "Philadelphia",
+      "D": "Washington D.C.",
+      "answer": "B",
+      "funFact": "The Statue of Liberty is located in New York Harbor, a gift from France to the United States, dedicated in 1886. It's a symbol of freedom and democracy."
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Brisbane",
+      "answer": "C",
+      "funFact": "Canberra is the capital of Australia, a planned city built specifically to serve as the capital. Sydney and Melbourne are larger cities but Canberra was chosen as a compromise."
+    },
+    {
+      "question": "What city is known as the 'Eternal City'?",
+      "A": "Athens",
+      "B": "Rome",
+      "C": "Jerusalem",
+      "D": "Cairo",
+      "answer": "B",
+      "funFact": "Rome is known as the 'Eternal City' because of its long history spanning over 2,500 years. It was the capital of the Roman Empire and is now the capital of Italy."
+    }
+]
+

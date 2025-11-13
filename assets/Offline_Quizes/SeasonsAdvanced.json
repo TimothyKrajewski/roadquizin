@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What causes the seasons?",
+      "A": "Earth's distance from the Sun",
+      "B": "Earth's tilt on its axis",
+      "C": "The Moon",
+      "D": "The stars",
+      "answer": "B",
+      "funFact": "Seasons are caused by Earth's tilt on its axis (about 23.5 degrees) as it orbits the Sun, not by Earth's distance from the Sun. When the Northern Hemisphere tilts toward the Sun, it's summer there."
+    },
+    {
+      "question": "What is the summer solstice?",
+      "A": "The shortest day of the year",
+      "B": "The longest day of the year",
+      "C": "When day and night are equal",
+      "D": "The first day of spring",
+      "answer": "B",
+      "funFact": "The summer solstice (around June 21 in the Northern Hemisphere) is the longest day of the year, when the Sun is at its highest point in the sky."
+    },
+    {
+      "question": "What is the winter solstice?",
+      "A": "The longest day of the year",
+      "B": "The shortest day of the year",
+      "C": "When day and night are equal",
+      "D": "The first day of spring",
+      "answer": "B",
+      "funFact": "The winter solstice (around December 21 in the Northern Hemisphere) is the shortest day of the year, when the Sun is at its lowest point in the sky."
+    },
+    {
+      "question": "What is an equinox?",
+      "A": "The longest day of the year",
+      "B": "The shortest day of the year",
+      "C": "When day and night are approximately equal",
+      "D": "The hottest day of the year",
+      "answer": "C",
+      "funFact": "An equinox occurs when day and night are approximately equal in length. There are two equinoxes each year: the vernal (spring) and autumnal (fall) equinoxes."
+    },
+    {
+      "question": "When is the vernal equinox?",
+      "A": "Around March 20-21",
+      "B": "Around June 21",
+      "C": "Around September 22-23",
+      "D": "Around December 21",
+      "answer": "A",
+      "funFact": "The vernal (spring) equinox occurs around March 20-21 in the Northern Hemisphere, marking the first day of spring when day and night are equal."
+    },
+    {
+      "question": "When is the autumnal equinox?",
+      "A": "Around March 20-21",
+      "B": "Around June 21",
+      "C": "Around September 22-23",
+      "D": "Around December 21",
+      "answer": "C",
+      "funFact": "The autumnal (fall) equinox occurs around September 22-23 in the Northern Hemisphere, marking the first day of fall when day and night are equal."
+    },
+    {
+      "question": "What season is it in the Southern Hemisphere when it's summer in the Northern Hemisphere?",
+      "A": "Summer",
+      "B": "Winter",
+      "C": "Spring",
+      "D": "Fall",
+      "answer": "B",
+      "funFact": "Seasons are opposite in the Northern and Southern Hemispheres. When it's summer in the Northern Hemisphere, it's winter in the Southern Hemisphere."
+    },
+    {
+      "question": "How long does it take Earth to orbit the Sun?",
+      "A": "30 days",
+      "B": "90 days",
+      "C": "365.25 days",
+      "D": "730 days",
+      "answer": "C",
+      "funFact": "Earth takes approximately 365.25 days to orbit the Sun once. This is why we have a leap year every 4 years to account for the extra quarter day."
+    },
+    {
+      "question": "What is the angle of Earth's tilt?",
+      "A": "About 15 degrees",
+      "B": "About 23.5 degrees",
+      "C": "About 30 degrees",
+      "D": "About 45 degrees",
+      "answer": "B",
+      "funFact": "Earth's axis is tilted at about 23.5 degrees relative to its orbit around the Sun. This tilt is what causes the seasons."
+    },
+    {
+      "question": "Do all places on Earth have four seasons?",
+      "A": "Yes, everywhere",
+      "B": "No, some places have only wet and dry seasons",
+      "C": "Only in the Northern Hemisphere",
+      "D": "Only near the equator",
+      "answer": "B",
+      "funFact": "Not all places have four distinct seasons. Places near the equator have little seasonal variation, while some tropical regions have wet and dry seasons instead of spring, summer, fall, and winter."
+    }
+]
+

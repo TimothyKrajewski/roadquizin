@@ -1,0 +1,93 @@
+[
+    {
+      "question": "In which year were the first modern Olympic Games held?",
+      "A": "1886",
+      "B": "1896",
+      "C": "1906",
+      "D": "1916",
+      "answer": "B",
+      "funFact": "The first modern Olympic Games were held in Athens, Greece, in 1896, reviving the ancient Greek tradition after a 1,500-year hiatus."
+    },
+    {
+      "question": "What do the five Olympic rings represent?",
+      "A": "Five continents",
+      "B": "Five original sports",
+      "C": "Five years between games",
+      "D": "Five founding countries",
+      "answer": "A",
+      "funFact": "The five interlocking rings represent the five continents (Africa, Americas, Asia, Europe, and Oceania) and the unity of athletes from around the world."
+    },
+    {
+      "question": "What is the Olympic motto?",
+      "A": "Faster, Higher, Stronger",
+      "B": "Citius, Altius, Fortius",
+      "C": "Both A and B",
+      "D": "Go for the Gold",
+      "answer": "C",
+      "funFact": "The Olympic motto is 'Citius, Altius, Fortius' (Latin for 'Faster, Higher, Stronger'), which was adopted in 1894 and remains the official motto today."
+    },
+    {
+      "question": "How often are the Summer Olympic Games held?",
+      "A": "Every 2 years",
+      "B": "Every 3 years",
+      "C": "Every 4 years",
+      "D": "Every 5 years",
+      "answer": "C",
+      "funFact": "The Summer Olympic Games are held every four years, following the ancient Greek tradition. The Winter Olympics also occur every four years, but in alternating two-year intervals."
+    },
+    {
+      "question": "Which city has hosted the Summer Olympics three times?",
+      "A": "Paris",
+      "B": "London",
+      "C": "Los Angeles",
+      "D": "All of the above",
+      "answer": "B",
+      "funFact": "London has hosted the Summer Olympics three times: in 1908, 1948, and 2012, making it the only city to have hosted the modern Games three times."
+    },
+    {
+      "question": "What is the name of the Olympic flame ceremony?",
+      "A": "Torch Relay",
+      "B": "Flame Lighting",
+      "C": "Olympic Torch",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "The Olympic Torch Relay begins with the lighting of the flame in Olympia, Greece, and ends with the lighting of the cauldron at the opening ceremony of the host city."
+    },
+    {
+      "question": "Which sport has been included in every modern Summer Olympics?",
+      "A": "Swimming",
+      "B": "Athletics (Track and Field)",
+      "C": "Gymnastics",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "Athletics (track and field), swimming, and gymnastics have been included in every modern Summer Olympic Games since 1896."
+    },
+    {
+      "question": "What color are the Olympic rings?",
+      "A": "All blue",
+      "B": "Blue, yellow, black, green, and red",
+      "C": "Gold, silver, and bronze",
+      "D": "All white",
+      "answer": "B",
+      "funFact": "The Olympic rings are blue, yellow, black, green, and red on a white background. At least one of these colors appears in every national flag."
+    },
+    {
+      "question": "Which country has won the most Olympic gold medals overall?",
+      "A": "China",
+      "B": "Russia",
+      "C": "United States",
+      "D": "Great Britain",
+      "answer": "C",
+      "funFact": "The United States has won more Olympic gold medals than any other country, with over 1,000 gold medals across all Summer and Winter Games."
+    },
+    {
+      "question": "What do Olympic athletes receive for first, second, and third place?",
+      "A": "Gold, silver, and bronze medals",
+      "B": "Trophies",
+      "C": "Certificates",
+      "D": "Cash prizes only",
+      "answer": "A",
+      "funFact": "Olympic athletes receive gold (first place), silver (second place), and bronze (third place) medals. The tradition dates back to the 1904 St. Louis Games."
+    }
+]
+

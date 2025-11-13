@@ -1,0 +1,228 @@
+[
+    {
+      "question": "Which state was the site of the first English colony in America?",
+      "A": "Massachusetts",
+      "B": "Virginia",
+      "C": "Pennsylvania",
+      "D": "New York",
+      "answer": "B",
+      "funFact": "Virginia was the site of the first permanent English colony in America: Jamestown, founded in 1607. It's known as 'The Old Dominion' and 'The Mother of Presidents.'"
+    },
+    {
+      "question": "Which state was the site of the first Thanksgiving?",
+      "A": "Massachusetts",
+      "B": "Virginia",
+      "C": "Pennsylvania",
+      "D": "New York",
+      "answer": "A",
+      "funFact": "Massachusetts was the site of the first Thanksgiving in 1621, when the Pilgrims and Wampanoag Native Americans shared a harvest feast in Plymouth."
+    },
+    {
+      "question": "Which state was the site of the first shots of the Civil War?",
+      "A": "Virginia",
+      "B": "South Carolina",
+      "C": "Georgia",
+      "D": "North Carolina",
+      "answer": "B",
+      "funFact": "South Carolina was the site of the first shots of the Civil War at Fort Sumter in Charleston Harbor on April 12, 1861."
+    },
+    {
+      "question": "Which state was the site of the Battle of Gettysburg?",
+      "A": "Virginia",
+      "B": "Maryland",
+      "C": "Pennsylvania",
+      "D": "West Virginia",
+      "answer": "C",
+      "funFact": "Pennsylvania was the site of the Battle of Gettysburg in 1863, the turning point of the Civil War and the bloodiest battle in American history."
+    },
+    {
+      "question": "Which state was the site of the Gold Rush of 1849?",
+      "A": "Nevada",
+      "B": "California",
+      "C": "Colorado",
+      "D": "Alaska",
+      "answer": "B",
+      "funFact": "California was the site of the Gold Rush of 1849, when gold was discovered at Sutter's Mill. This led to a massive migration of people seeking fortune."
+    },
+    {
+      "question": "Which state was the site of the Boston Tea Party?",
+      "A": "Massachusetts",
+      "B": "Rhode Island",
+      "C": "Connecticut",
+      "D": "New Hampshire",
+      "answer": "A",
+      "funFact": "Massachusetts was the site of the Boston Tea Party in 1773, when American colonists dumped British tea into Boston Harbor to protest the Tea Act."
+    },
+    {
+      "question": "Which state was the site of the first atomic bomb test?",
+      "A": "Nevada",
+      "B": "New Mexico",
+      "C": "Arizona",
+      "D": "Utah",
+      "answer": "B",
+      "funFact": "New Mexico was the site of the first atomic bomb test at the Trinity site on July 16, 1945, part of the Manhattan Project."
+    },
+    {
+      "question": "Which state was the site of the first successful airplane flight?",
+      "A": "Ohio",
+      "B": "North Carolina",
+      "C": "Virginia",
+      "D": "Florida",
+      "answer": "B",
+      "funFact": "North Carolina was the site of the first successful powered airplane flight by the Wright Brothers at Kitty Hawk on December 17, 1903."
+    },
+    {
+      "question": "Which state was the site of the Alamo?",
+      "A": "New Mexico",
+      "B": "Texas",
+      "C": "Arizona",
+      "D": "California",
+      "answer": "B",
+      "funFact": "Texas was the site of the Battle of the Alamo in 1836, where Texan defenders fought against Mexican forces. 'Remember the Alamo!' became a rallying cry."
+    },
+    {
+      "question": "Which state was the site of the first women's rights convention?",
+      "A": "Massachusetts",
+      "B": "New York",
+      "C": "Pennsylvania",
+      "D": "Ohio",
+      "answer": "B",
+      "funFact": "New York was the site of the first women's rights convention at Seneca Falls in 1848, where the Declaration of Sentiments was signed."
+    },
+    {
+      "question": "Which state was the site of the first European settlement in America?",
+      "A": "Florida",
+      "B": "Virginia",
+      "C": "Massachusetts",
+      "D": "New Mexico",
+      "answer": "A",
+      "funFact": "Florida was the site of the first European settlement in America: St. Augustine, founded by the Spanish in 1565, making it the oldest continuously inhabited European settlement in the U.S."
+    },
+    {
+      "question": "Which state was the site of the Lewis and Clark expedition's starting point?",
+      "A": "Missouri",
+      "B": "Illinois",
+      "C": "Kentucky",
+      "D": "Tennessee",
+      "answer": "A",
+      "funFact": "Missouri was the starting point of the Lewis and Clark expedition in 1804. They began their journey from St. Louis to explore the Louisiana Purchase."
+    },
+    {
+      "question": "Which state was the site of the first state to secede from the Union?",
+      "A": "Georgia",
+      "B": "South Carolina",
+      "C": "Mississippi",
+      "D": "Alabama",
+      "answer": "B",
+      "funFact": "South Carolina was the first state to secede from the Union on December 20, 1860, leading to the Civil War."
+    },
+    {
+      "question": "Which state was the site of the first capital of the United States?",
+      "A": "New York",
+      "B": "Pennsylvania",
+      "C": "Maryland",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "New York City was the first capital of the United States under the Constitution, from 1785 to 1790, before the capital moved to Philadelphia and then Washington, D.C."
+    },
+    {
+      "question": "Which state was the site of the first public library?",
+      "A": "Massachusetts",
+      "B": "Pennsylvania",
+      "C": "New York",
+      "D": "Connecticut",
+      "answer": "A",
+      "funFact": "Massachusetts was the site of the first public library in America: the Boston Public Library, established in 1848, though the first free public library was in Peterborough, New Hampshire in 1833."
+    },
+    {
+      "question": "Which state was the site of the first state to grant women the right to vote?",
+      "A": "Wyoming",
+      "B": "Utah",
+      "C": "Colorado",
+      "D": "Idaho",
+      "answer": "A",
+      "funFact": "Wyoming was the first state to grant women the right to vote in 1869, even before it became a state. It's known as 'The Equality State.'"
+    },
+    {
+      "question": "Which state was the site of the first state to ratify the Constitution?",
+      "A": "Pennsylvania",
+      "B": "Delaware",
+      "C": "New Jersey",
+      "D": "Georgia",
+      "answer": "B",
+      "funFact": "Delaware was the first state to ratify the U.S. Constitution on December 7, 1787, earning it the nickname 'The First State.'"
+    },
+    {
+      "question": "Which state was the site of the first state to enter the Union after the original 13?",
+      "A": "Vermont",
+      "B": "Kentucky",
+      "C": "Tennessee",
+      "D": "Ohio",
+      "answer": "A",
+      "funFact": "Vermont was the first state to enter the Union after the original 13 colonies, becoming the 14th state on March 4, 1791."
+    },
+    {
+      "question": "Which state was the site of the first state to have a written constitution?",
+      "A": "Connecticut",
+      "B": "Massachusetts",
+      "C": "New Hampshire",
+      "D": "Rhode Island",
+      "answer": "A",
+      "funFact": "Connecticut is believed to have had the first written constitution in America: the Fundamental Orders of Connecticut in 1639, earning it the nickname 'The Constitution State.'"
+    },
+    {
+      "question": "Which state was the site of the first state to abolish slavery?",
+      "A": "Vermont",
+      "B": "Massachusetts",
+      "C": "Pennsylvania",
+      "D": "New York",
+      "answer": "A",
+      "funFact": "Vermont was the first state to abolish slavery in 1777, even before it became a state. Its constitution explicitly prohibited slavery."
+    },
+    {
+      "question": "Which state was the site of the first state to have a state university?",
+      "A": "North Carolina",
+      "B": "Georgia",
+      "C": "Virginia",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "North Carolina was the first state to have a public university: the University of North Carolina at Chapel Hill, chartered in 1789 and opened in 1795."
+    },
+    {
+      "question": "Which state was the site of the first state to have a state park?",
+      "A": "New York",
+      "B": "California",
+      "C": "Michigan",
+      "D": "Minnesota",
+      "answer": "A",
+      "funFact": "New York was the first state to establish a state park: Niagara Falls State Park in 1885, protecting the famous waterfalls."
+    },
+    {
+      "question": "Which state was the site of the first state to have a state flag?",
+      "A": "Texas",
+      "B": "California",
+      "C": "Massachusetts",
+      "D": "New York",
+      "answer": "C",
+      "funFact": "Massachusetts was one of the first states to have an official state flag, adopted in 1908, though some states had unofficial flags earlier."
+    },
+    {
+      "question": "Which state was the site of the first state to have a state song?",
+      "A": "South Carolina",
+      "B": "Maryland",
+      "C": "Virginia",
+      "D": "Massachusetts",
+      "answer": "A",
+      "funFact": "South Carolina was the first state to have an official state song: 'Carolina' in 1911. Many states now have official state songs."
+    },
+    {
+      "question": "Which state was the site of the first state to have a state bird?",
+      "A": "Alabama",
+      "B": "Florida",
+      "C": "Texas",
+      "D": "Kentucky",
+      "answer": "A",
+      "funFact": "Alabama was the first state to choose an official state bird: the Northern Flicker (yellowhammer) in 1927, though it was later changed to the Yellowhammer."
+    }
+]
+

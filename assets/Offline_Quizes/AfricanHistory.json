@@ -1,0 +1,183 @@
+[
+    {
+      "question": "What was the name of the ancient Egyptian pharaoh who built the Great Pyramid?",
+      "A": "Khufu",
+      "B": "Khafre",
+      "C": "Menkaure",
+      "D": "Djoser",
+      "answer": "A",
+      "funFact": "Khufu (also known as Cheops) was the pharaoh who built the Great Pyramid of Giza around 2560 BC. It's the largest of the three pyramids."
+    },
+    {
+      "question": "What was the name of the ancient Egyptian queen who was the last pharaoh?",
+      "A": "Hatshepsut",
+      "B": "Nefertiti",
+      "C": "Cleopatra",
+      "D": "Nefertari",
+      "answer": "C",
+      "funFact": "Cleopatra VII was the last pharaoh of ancient Egypt. She ruled from 51-30 BC and had relationships with both Julius Caesar and Mark Antony."
+    },
+    {
+      "question": "What was the name of the ancient West African empire known for its gold?",
+      "A": "Ghana Empire",
+      "B": "Mali Empire",
+      "C": "Songhai Empire",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Ghana, Mali, and Songhai empires were all powerful West African empires known for their gold trade. The Mali Empire's Mansa Musa was one of the wealthiest people in history."
+    },
+    {
+      "question": "What was the name of the East African trading city?",
+      "A": "Timbuktu",
+      "B": "Kilwa",
+      "C": "Great Zimbabwe",
+      "D": "Axum",
+      "answer": "B",
+      "funFact": "Kilwa was a major East African trading city on the Swahili Coast. It was a center of trade between Africa, Arabia, India, and China."
+    },
+    {
+      "question": "What was the name of the ancient Ethiopian kingdom?",
+      "A": "Axum",
+      "B": "Kush",
+      "C": "Nubia",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Axum was an ancient Ethiopian kingdom that flourished from the 1st to the 8th century AD. It was one of the four great powers of the ancient world."
+    },
+    {
+      "question": "What was the name of the slave trade that devastated Africa?",
+      "A": "Atlantic Slave Trade",
+      "B": "Trans-Saharan Slave Trade",
+      "C": "Indian Ocean Slave Trade",
+      "D": "All of the above",
+      "answer": "D",
+      "funFact": "The Atlantic, Trans-Saharan, and Indian Ocean slave trades all devastated Africa. The Atlantic Slave Trade alone transported 12-15 million Africans to the Americas."
+    },
+    {
+      "question": "What was the name of the European colonization of Africa?",
+      "A": "Scramble for Africa",
+      "B": "Partition of Africa",
+      "C": "Both A and B",
+      "D": "Conquest of Africa",
+      "answer": "C",
+      "funFact": "The Scramble for Africa (1881-1914) was the rapid colonization of Africa by European powers. By 1914, almost all of Africa was under European control."
+    },
+    {
+      "question": "What was the name of the South African system of racial segregation?",
+      "A": "Apartheid",
+      "B": "Segregation",
+      "C": "Discrimination",
+      "D": "Oppression",
+      "answer": "A",
+      "funFact": "Apartheid was a system of racial segregation in South Africa from 1948 to 1994. It was ended by Nelson Mandela and the African National Congress."
+    },
+    {
+      "question": "What was the name of the South African leader who fought against apartheid?",
+      "A": "Nelson Mandela",
+      "B": "Desmond Tutu",
+      "C": "F.W. de Klerk",
+      "D": "Thabo Mbeki",
+      "answer": "A",
+      "funFact": "Nelson Mandela (1918-2013) was a South African anti-apartheid revolutionary who became the first black president of South Africa. He spent 27 years in prison."
+    },
+    {
+      "question": "What was the name of the Ethiopian emperor who modernized the country?",
+      "A": "Haile Selassie",
+      "B": "Menelik II",
+      "C": "Tewodros II",
+      "D": "Yohannes IV",
+      "answer": "A",
+      "funFact": "Haile Selassie (1892-1975) was the last emperor of Ethiopia. He modernized the country and was a symbol of African independence."
+    },
+    {
+      "question": "What was the name of the Algerian War of Independence?",
+      "A": "1954-1962",
+      "B": "1956-1964",
+      "C": "1958-1966",
+      "D": "1960-1968",
+      "answer": "A",
+      "funFact": "The Algerian War of Independence (1954-1962) was a war between France and Algerian nationalists. Algeria gained independence in 1962."
+    },
+    {
+      "question": "What was the name of the Kenyan independence leader?",
+      "A": "Jomo Kenyatta",
+      "B": "Daniel arap Moi",
+      "C": "Mwai Kibaki",
+      "D": "Uhuru Kenyatta",
+      "answer": "A",
+      "funFact": "Jomo Kenyatta (c. 1897-1978) was the first president of independent Kenya. He led the country to independence from Britain in 1963."
+    },
+    {
+      "question": "What was the name of the Ghanaian independence leader?",
+      "A": "Kwame Nkrumah",
+      "B": "Jerry Rawlings",
+      "C": "John Kufuor",
+      "D": "John Atta Mills",
+      "answer": "A",
+      "funFact": "Kwame Nkrumah (1909-1972) was the first prime minister and president of Ghana. He led Ghana to independence in 1957, making it the first sub-Saharan African country to gain independence."
+    },
+    {
+      "question": "What was the name of the Rwandan genocide?",
+      "A": "1992",
+      "B": "1994",
+      "C": "1996",
+      "D": "1998",
+      "answer": "B",
+      "funFact": "The Rwandan Genocide (1994) was a mass slaughter of Tutsi and moderate Hutu by Hutu extremists. An estimated 800,000 to 1 million people were killed in 100 days."
+    },
+    {
+      "question": "What was the name of the ancient city in Zimbabwe?",
+      "A": "Timbuktu",
+      "B": "Kilwa",
+      "C": "Great Zimbabwe",
+      "D": "Axum",
+      "answer": "C",
+      "funFact": "Great Zimbabwe was an ancient city in Zimbabwe that flourished from the 11th to the 15th century. It was the capital of the Kingdom of Zimbabwe."
+    },
+    {
+      "question": "What was the name of the ancient trading city in Mali?",
+      "A": "Timbuktu",
+      "B": "Kilwa",
+      "C": "Great Zimbabwe",
+      "D": "Axum",
+      "answer": "A",
+      "funFact": "Timbuktu was a major trading and learning center in the Mali Empire. It was famous for its universities and libraries and was a center of Islamic scholarship."
+    },
+    {
+      "question": "What was the name of the ancient Nubian kingdom?",
+      "A": "Kush",
+      "B": "Axum",
+      "C": "Nubia",
+      "D": "All of the above",
+      "answer": "A",
+      "funFact": "Kush was an ancient Nubian kingdom that existed from around 1070 BC to 350 AD. It was a powerful kingdom that even conquered Egypt for a time."
+    },
+    {
+      "question": "What was the name of the Zulu kingdom?",
+      "A": "Zulu Empire",
+      "B": "Zulu Kingdom",
+      "C": "Both A and B",
+      "D": "Zulu Nation",
+      "answer": "C",
+      "funFact": "The Zulu Kingdom (1816-1897) was a powerful kingdom in southern Africa. It was founded by Shaka Zulu and was known for its military prowess."
+    },
+    {
+      "question": "What was the name of the ancient Egyptian pharaoh who tried to establish monotheism?",
+      "A": "Akhenaten",
+      "B": "Tutankhamun",
+      "C": "Ramesses II",
+      "D": "Hatshepsut",
+      "answer": "A",
+      "funFact": "Akhenaten (c. 1353-1336 BC) tried to establish monotheism in ancient Egypt by worshiping only the sun god Aten. His religious reforms were reversed after his death."
+    },
+    {
+      "question": "What was the name of the African independence movements?",
+      "A": "1940s-1960s",
+      "B": "1950s-1970s",
+      "C": "1960s-1980s",
+      "D": "1970s-1990s",
+      "answer": "B",
+      "funFact": "The African independence movements (1950s-1970s) saw most African countries gain independence from European colonial powers. This period is known as the 'Year of Africa.'"
+    }
+]
+
