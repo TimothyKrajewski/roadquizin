@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Where was the Aztec Empire located?",
+        "A": "South America",
+        "B": "Central Mexico",
+        "C": "North America",
+        "D": "Caribbean",
+        "answer": "B",
+        "funFact": "The Aztec Empire was located in central Mexico, centered around the Valley of Mexico."
+    },
+    {
+        "question": "What was the capital of the Aztec Empire?",
+        "A": "Teotihuacan",
+        "B": "Tenochtitlan",
+        "C": "Tula",
+        "D": "Cholula",
+        "answer": "B",
+        "funFact": "Tenochtitlan was the capital of the Aztec Empire, built on an island in Lake Texcoco, now Mexico City."
+    },
+    {
+        "question": "What was the Aztec name for themselves?",
+        "A": "Aztecs",
+        "B": "Mexica",
+        "C": "Toltecs",
+        "D": "Mayans",
+        "answer": "B",
+        "funFact": "The Aztecs called themselves Mexica, which is why Mexico is named after them."
+    },
+    {
+        "question": "What was the Aztec symbol?",
+        "A": "A jaguar",
+        "B": "An eagle on a cactus with a snake",
+        "C": "A pyramid",
+        "D": "A sun",
+        "answer": "B",
+        "funFact": "The Aztec symbol was an eagle perched on a cactus with a snake, which appears on the Mexican flag today."
+    },
+    {
+        "question": "What was the Aztec religion?",
+        "A": "Monotheistic",
+        "B": "Polytheistic with many gods",
+        "C": "Atheistic",
+        "D": "Agnostic",
+        "answer": "B",
+        "funFact": "The Aztecs were polytheistic, worshiping many gods including Huitzilopochtli (war god) and Quetzalcoatl (feathered serpent)."
+    },
+    {
+        "question": "What was the Aztec practice of human sacrifice?",
+        "A": "They never practiced it",
+        "B": "Ritual practice for religious purposes",
+        "C": "Only for entertainment",
+        "D": "Only for punishment",
+        "answer": "B",
+        "funFact": "The Aztecs practiced human sacrifice as a religious ritual, believing it was necessary to keep the sun moving and prevent the end of the world."
+    },
+    {
+        "question": "What was the Aztec calendar?",
+        "A": "Only solar",
+        "B": "Solar and ritual calendars",
+        "C": "Only lunar",
+        "D": "No calendar",
+        "answer": "B",
+        "funFact": "The Aztecs used both a 365-day solar calendar and a 260-day ritual calendar, similar to the Mayans."
+    },
+    {
+        "question": "What was the Aztec social structure?",
+        "A": "Egalitarian",
+        "B": "Hierarchical with emperor, nobles, and commoners",
+        "C": "Democratic",
+        "D": "Tribal",
+        "answer": "B",
+        "funFact": "Aztec society was hierarchical with the emperor (tlatoani) at the top, followed by nobles, priests, warriors, merchants, and commoners."
+    },
+    {
+        "question": "What was the Aztec agricultural innovation?",
+        "A": "Only basic farming",
+        "B": "Chinampas (floating gardens)",
+        "C": "Only terraces",
+        "D": "Only irrigation",
+        "answer": "B",
+        "funFact": "The Aztecs created chinampas, artificial islands or floating gardens in lakes, for highly productive agriculture."
+    },
+    {
+        "question": "What was the Aztec conquest by Spain?",
+        "A": "Never conquered",
+        "B": "Conquered by Hernán Cortés in 1521",
+        "C": "Conquered in 1500",
+        "D": "Conquered in 1600",
+        "answer": "B",
+        "funFact": "The Aztec Empire was conquered by Hernán Cortés and Spanish conquistadors in 1521, ending the empire."
+    },
+    {
+        "question": "What was the Aztec language?",
+        "A": "Spanish",
+        "B": "Nahuatl",
+        "C": "Quechua",
+        "D": "Mayan",
+        "answer": "B",
+        "funFact": "Nahuatl was the language of the Aztecs and is still spoken by over a million people in Mexico today."
+    },
+    {
+        "question": "What was the Aztec tribute system?",
+        "A": "No tribute",
+        "B": "Conquered peoples paid tribute",
+        "C": "Only voluntary",
+        "D": "Only in goods",
+        "answer": "B",
+        "funFact": "The Aztecs required conquered peoples to pay tribute in goods, which supported the empire and capital city."
+    },
+    {
+        "question": "What was the Aztec military?",
+        "A": "Weak",
+        "B": "Powerful with elite warriors",
+        "C": "Small",
+        "D": "Unorganized",
+        "answer": "B",
+        "funFact": "The Aztec military was powerful with elite warrior societies like the Eagle and Jaguar warriors."
+    },
+    {
+        "question": "What was the Aztec market system?",
+        "A": "No markets",
+        "B": "Large markets with many goods",
+        "C": "Only local",
+        "D": "Only barter",
+        "answer": "B",
+        "funFact": "The Aztecs had large markets, with the market at Tlatelolco being one of the largest in the world at the time."
+    },
+    {
+        "question": "What was the Aztec writing system?",
+        "A": "Alphabet",
+        "B": "Pictographs and glyphs",
+        "C": "Cuneiform",
+        "D": "Hieroglyphs",
+        "answer": "B",
+        "funFact": "The Aztecs used pictographs and glyphs for writing, though less developed than Mayan hieroglyphs."
+    },
+    {
+        "question": "What was the Aztec art?",
+        "A": "Simple",
+        "B": "Sophisticated with stone carvings and featherwork",
+        "C": "Abstract only",
+        "D": "Realistic only",
+        "answer": "B",
+        "funFact": "Aztec art was sophisticated, featuring stone carvings, featherwork, goldwork, and codices (books)."
+    },
+    {
+        "question": "What was the Aztec education?",
+        "A": "No education",
+        "B": "Formal schools for nobles and commoners",
+        "C": "Only for nobles",
+        "D": "Only for priests",
+        "answer": "B",
+        "funFact": "The Aztecs had formal schools (calmecac for nobles, telpochcalli for commoners) teaching religion, history, and skills."
+    },
+    {
+        "question": "What was the Aztec expansion?",
+        "A": "Small territory",
+        "B": "Rapid expansion in the 1400s-1500s",
+        "C": "No expansion",
+        "D": "Slow expansion",
+        "answer": "B",
+        "funFact": "The Aztec Empire expanded rapidly in the 1400s-1500s, controlling much of central Mexico through conquest and alliance."
+    },
+    {
+        "question": "What was the Aztec Triple Alliance?",
+        "A": "Three gods",
+        "B": "Alliance of three city-states",
+        "C": "Three calendars",
+        "D": "Three languages",
+        "answer": "B",
+        "funFact": "The Aztec Triple Alliance was an alliance of three city-states: Tenochtitlan, Texcoco, and Tlacopan."
+    },
+    {
+        "question": "What is the modern legacy of the Aztecs?",
+        "A": "None",
+        "B": "Cultural influence in Mexico and Nahuatl language",
+        "C": "Only ruins",
+        "D": "Only museums",
+        "answer": "B",
+        "funFact": "The Aztec legacy continues through cultural influence in Mexico, the Nahuatl language, and symbols like the eagle and snake on the Mexican flag."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is track and field?",
+        "A": "A single sport",
+        "B": "A collection of running, jumping, and throwing events",
+        "C": "Only running",
+        "D": "Only jumping",
+        "answer": "B",
+        "funFact": "Track and field is a collection of athletic events including running, jumping, and throwing competitions."
+    },
+    {
+        "question": "What is a sprint?",
+        "A": "A long-distance race",
+        "B": "A short, fast race",
+        "C": "A jump",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "A sprint is a short-distance race run at maximum speed, typically 100m, 200m, or 400m."
+    },
+    {
+        "question": "What is a marathon?",
+        "A": "A short race",
+        "B": "A 26.2 mile race",
+        "C": "A jump",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "A marathon is a long-distance race of 26.2 miles (42.195 kilometers)."
+    },
+    {
+        "question": "What is the long jump?",
+        "A": "A running event",
+        "B": "Jumping for distance",
+        "C": "Jumping for height",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "The long jump is a field event where athletes jump as far as possible from a takeoff board."
+    },
+    {
+        "question": "What is the high jump?",
+        "A": "Jumping for distance",
+        "B": "Jumping over a bar for height",
+        "C": "A running event",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "The high jump is a field event where athletes jump over a horizontal bar, attempting to clear the highest height."
+    },
+    {
+        "question": "What is a relay?",
+        "A": "Individual race",
+        "B": "Team race with baton",
+        "C": "A jump",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "A relay is a team race where runners pass a baton to teammates in sequence."
+    },
+    {
+        "question": "What is a hurdle?",
+        "A": "A flat race",
+        "B": "A race with barriers to jump over",
+        "C": "A jump event",
+        "D": "A throw event",
+        "answer": "B",
+        "funFact": "Hurdles is a running event where athletes must jump over barriers (hurdles) while running."
+    },
+    {
+        "question": "What is shot put?",
+        "A": "A running event",
+        "B": "Throwing a heavy metal ball",
+        "C": "A jump",
+        "D": "A race",
+        "answer": "B",
+        "funFact": "Shot put is a throwing event where athletes throw a heavy metal ball (shot) as far as possible."
+    },
+    {
+        "question": "What is discus?",
+        "A": "A running event",
+        "B": "Throwing a disc",
+        "C": "A jump",
+        "D": "A race",
+        "answer": "B",
+        "funFact": "Discus is a throwing event where athletes throw a heavy disc as far as possible."
+    },
+    {
+        "question": "What is javelin?",
+        "A": "A running event",
+        "B": "Throwing a spear",
+        "C": "A jump",
+        "D": "A race",
+        "answer": "B",
+        "funFact": "Javelin is a throwing event where athletes throw a spear-like implement as far as possible."
+    },
+    {
+        "question": "What is pole vault?",
+        "A": "Jumping for distance",
+        "B": "Using a pole to jump over a bar",
+        "C": "A running event",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "Pole vault is a field event where athletes use a flexible pole to jump over a high bar."
+    },
+    {
+        "question": "What is a decathlon?",
+        "A": "One event",
+        "B": "Ten combined events",
+        "C": "Five events",
+        "D": "Seven events",
+        "answer": "B",
+        "funFact": "A decathlon is a combined event competition consisting of ten track and field events."
+    },
+    {
+        "question": "What is a heptathlon?",
+        "A": "One event",
+        "B": "Seven combined events",
+        "C": "Ten events",
+        "D": "Five events",
+        "answer": "B",
+        "funFact": "A heptathlon is a combined event competition consisting of seven track and field events, typically for women."
+    },
+    {
+        "question": "What is a track?",
+        "A": "A field",
+        "B": "The running surface",
+        "C": "A jump",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "The track is the oval running surface, typically 400 meters in circumference for standard tracks."
+    },
+    {
+        "question": "What is a field event?",
+        "A": "A running event",
+        "B": "Jumping or throwing events",
+        "C": "A race",
+        "D": "A relay",
+        "answer": "B",
+        "funFact": "Field events are jumping and throwing competitions that take place in the field area, not on the track."
+    },
+    {
+        "question": "What is a personal best?",
+        "A": "World record",
+        "B": "An athlete's best performance",
+        "C": "A slow time",
+        "D": "A disqualification",
+        "answer": "B",
+        "funFact": "A personal best (PB) is an athlete's best performance in a particular event."
+    },
+    {
+        "question": "What is a false start?",
+        "A": "A legal start",
+        "B": "Starting before the signal",
+        "C": "A good start",
+        "D": "A finish",
+        "answer": "B",
+        "funFact": "A false start occurs when an athlete begins before the starting signal, resulting in disqualification."
+    },
+    {
+        "question": "What is a baton?",
+        "A": "A stick",
+        "B": "A tube passed in relays",
+        "C": "A jump",
+        "D": "A throw",
+        "answer": "B",
+        "funFact": "A baton is a tube passed between runners in relay races."
+    },
+    {
+        "question": "What is the study of track and field called?",
+        "A": "Trackology",
+        "B": "Athletics",
+        "C": "Running",
+        "D": "Sports",
+        "answer": "B",
+        "funFact": "Track and field is also known as athletics, the collection of competitive running, jumping, and throwing events."
+    },
+    {
+        "question": "What is a world record?",
+        "A": "A personal best",
+        "B": "The best performance ever recorded",
+        "C": "A slow time",
+        "D": "A disqualification",
+        "answer": "B",
+        "funFact": "A world record is the best performance ever officially recorded in a particular event."
+    }
+]

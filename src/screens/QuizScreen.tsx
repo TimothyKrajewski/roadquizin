@@ -8,7 +8,7 @@ import { getDownloadURL, ref } from 'firebase/storage';
 import { storage } from '../firebase';
 import ConfettiCannon from 'react-native-confetti-cannon';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import * as FileSystem from 'expo-file-system';
+import { Paths, File } from 'expo-file-system';
 
 type QuizScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Quiz'>;
 type QuizScreenRouteProp = RouteProp<RootStackParamList, 'Quiz'>;
@@ -29,7 +29,7 @@ const QuizScreen: React.FC = () => {
   const [allPlayMode, setAllPlayMode] = useState(false);
   const [showHints, setShowHints] = useState(false);
   const [streak, setStreak] = useState(0);
-  const confettiRef = useRef<any>();
+  const confettiRef = useRef<any>(null);
 
   useEffect(() => {
     const fetchAllPlayMode = async () => {
@@ -58,12 +58,13 @@ const QuizScreen: React.FC = () => {
 
   const fetchQuizFromLocalStorage = async () => {
     try {
-      const fileUri = `${FileSystem.documentDirectory}api/uploaded/${quizName}.json`;
-      const fileContent = await FileSystem.readAsStringAsync(fileUri);
+      const file = new File(Paths.document, 'api', 'uploaded', `${quizName}.json`);
+      const fileContent = await file.text();
       const localQuestions = JSON.parse(fileContent);
       setQuestions(localQuestions);
     } catch (error) {
-      Alert.alert('Error', `Failed to load quiz from local storage. ${error.message}`);
+      const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+      Alert.alert('Error', `Failed to load quiz from local storage. ${errorMessage}`);
       console.error('Failed to load quiz from local storage.', error);
     } finally {
       setLoading(false);
@@ -156,7 +157,7 @@ const QuizScreen: React.FC = () => {
                       style={styles.option}
                       onPress={() => handleAnswerPress(key)}
                     >
-                      <Text style={styles.optionText}>{value}</Text>
+                      <Text style={styles.optionText}>{String(value)}</Text>
                     </TouchableOpacity>
                   ))}
               </>
@@ -177,7 +178,7 @@ const QuizScreen: React.FC = () => {
                   onPress={() => handleAnswerPress(key)}
                   disabled={showResult}
                 >
-                  <Text style={styles.optionText}>{key}: {value}</Text>
+                  <Text style={styles.optionText}>{key}: {String(value)}</Text>
                 </TouchableOpacity>
               ))}
             {showResult && (

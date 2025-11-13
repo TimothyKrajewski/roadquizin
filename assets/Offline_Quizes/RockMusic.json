@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is rock music?",
+        "A": "Classical music",
+        "B": "Music with electric guitars and strong beats",
+        "C": "Jazz",
+        "D": "Country",
+        "answer": "B",
+        "funFact": "Rock music is characterized by electric guitars, strong beats, and often rebellious themes."
+    },
+    {
+        "question": "What instrument is central to rock music?",
+        "A": "Piano",
+        "B": "Electric guitar",
+        "C": "Violin",
+        "D": "Flute",
+        "answer": "B",
+        "funFact": "The electric guitar is the central instrument in rock music, providing rhythm and lead melodies."
+    },
+    {
+        "question": "What is a rock band typically made of?",
+        "A": "One person",
+        "B": "Guitar, bass, drums, and vocals",
+        "C": "Orchestra",
+        "D": "Choir",
+        "answer": "B",
+        "funFact": "A typical rock band consists of electric guitar, bass guitar, drums, and vocals."
+    },
+    {
+        "question": "What is the name of the 'King of Rock and Roll'?",
+        "A": "The Beatles",
+        "B": "Elvis Presley",
+        "C": "The Rolling Stones",
+        "D": "Led Zeppelin",
+        "answer": "B",
+        "funFact": "Elvis Presley is often called the 'King of Rock and Roll' for his pioneering role in the genre."
+    },
+    {
+        "question": "What is a power chord?",
+        "A": "A soft chord",
+        "B": "A simple, powerful chord used in rock",
+        "C": "A jazz chord",
+        "D": "A classical chord",
+        "answer": "B",
+        "funFact": "A power chord is a simple, powerful chord commonly used in rock music, typically using two or three notes."
+    },
+    {
+        "question": "What is a guitar solo?",
+        "A": "A band performance",
+        "B": "A featured guitar performance",
+        "C": "A vocal part",
+        "D": "A drum part",
+        "answer": "B",
+        "funFact": "A guitar solo is a featured section where the guitarist plays a melodic or technical passage."
+    },
+    {
+        "question": "What is a riff?",
+        "A": "A full song",
+        "B": "A repeated musical phrase",
+        "C": "A vocal part",
+        "D": "A drum part",
+        "answer": "B",
+        "funFact": "A riff is a repeated musical phrase, often played on guitar, that forms the basis of a song."
+    },
+    {
+        "question": "What is heavy metal?",
+        "A": "Soft music",
+        "B": "A subgenre of rock with heavy, distorted sound",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Heavy metal is a subgenre of rock with heavy, distorted guitars, powerful vocals, and aggressive sound."
+    },
+    {
+        "question": "What is punk rock?",
+        "A": "Soft music",
+        "B": "Fast, aggressive, anti-establishment rock",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Punk rock is fast, aggressive music with anti-establishment themes and simple, raw sound."
+    },
+    {
+        "question": "What is alternative rock?",
+        "A": "Mainstream pop",
+        "B": "Non-mainstream rock music",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Alternative rock emerged in the 1980s as an alternative to mainstream commercial rock."
+    },
+    {
+        "question": "What is a rock concert?",
+        "A": "A recording",
+        "B": "A live performance of rock music",
+        "C": "A practice",
+        "D": "A rehearsal",
+        "answer": "B",
+        "funFact": "A rock concert is a live performance where rock bands play for an audience."
+    },
+    {
+        "question": "What is a drum kit?",
+        "A": "A guitar",
+        "B": "A set of drums and cymbals",
+        "C": "A bass",
+        "D": "A microphone",
+        "answer": "B",
+        "funFact": "A drum kit is a collection of drums and cymbals played by a single drummer in a rock band."
+    },
+    {
+        "question": "What is a bass guitar?",
+        "A": "A regular guitar",
+        "B": "A lower-pitched guitar",
+        "C": "A drum",
+        "D": "A keyboard",
+        "answer": "B",
+        "funFact": "A bass guitar is a lower-pitched guitar that provides the rhythm foundation in rock music."
+    },
+    {
+        "question": "What is a rock anthem?",
+        "A": "A slow song",
+        "B": "An inspiring, popular rock song",
+        "C": "An instrumental",
+        "D": "A ballad",
+        "answer": "B",
+        "funFact": "A rock anthem is an inspiring, popular rock song that becomes widely recognized and loved."
+    },
+    {
+        "question": "What is a ballad?",
+        "A": "A fast song",
+        "B": "A slow, emotional rock song",
+        "C": "An instrumental",
+        "D": "A heavy song",
+        "answer": "B",
+        "funFact": "A ballad is a slow, emotional rock song, often about love or personal feelings."
+    },
+    {
+        "question": "What is the study of rock music called?",
+        "A": "Rockology",
+        "B": "Musicology",
+        "C": "Rock studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rock music is studied through musicology, cultural studies, and rock history."
+    },
+    {
+        "question": "What is a cover song?",
+        "A": "An original",
+        "B": "A new version of an existing song",
+        "C": "An instrumental",
+        "D": "A demo",
+        "answer": "B",
+        "funFact": "A cover song is when a band performs a new version of a song originally recorded by another artist."
+    },
+    {
+        "question": "What is a rock star?",
+        "A": "A regular person",
+        "B": "A famous rock musician",
+        "C": "A fan",
+        "D": "A producer",
+        "answer": "B",
+        "funFact": "A rock star is a famous, successful rock musician with a large following."
+    },
+    {
+        "question": "What is a rock album?",
+        "A": "A single song",
+        "B": "A collection of rock songs",
+        "C": "A concert",
+        "D": "A video",
+        "answer": "B",
+        "funFact": "A rock album is a collection of rock songs released together, typically on CD, vinyl, or digital format."
+    },
+    {
+        "question": "What is the origin of rock music?",
+        "A": "Classical music",
+        "B": "Blues, country, and R&B in the 1950s",
+        "C": "Jazz only",
+        "D": "Folk only",
+        "answer": "B",
+        "funFact": "Rock music originated in the 1950s from a blend of blues, country, and R&B music."
+    }
+]

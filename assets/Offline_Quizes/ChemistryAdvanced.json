@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is an atom?",
+        "A": "A molecule",
+        "B": "The basic unit of matter",
+        "C": "A compound",
+        "D": "An element",
+        "answer": "B",
+        "funFact": "An atom is the basic unit of matter, consisting of a nucleus (protons and neutrons) and electrons."
+    },
+    {
+        "question": "What is a molecule?",
+        "A": "An atom",
+        "B": "Two or more atoms bonded together",
+        "C": "An element",
+        "D": "A compound only",
+        "answer": "B",
+        "funFact": "A molecule is two or more atoms bonded together, forming the smallest unit of a compound."
+    },
+    {
+        "question": "What is the periodic table?",
+        "A": "A table of elements",
+        "B": "A table organizing all chemical elements",
+        "C": "A table of compounds",
+        "D": "A table of molecules",
+        "answer": "B",
+        "funFact": "The periodic table organizes all chemical elements by atomic number and properties, showing patterns."
+    },
+    {
+        "question": "What is a chemical reaction?",
+        "A": "A physical change",
+        "B": "A process where substances change into new substances",
+        "C": "A state change",
+        "D": "A temperature change",
+        "answer": "B",
+        "funFact": "A chemical reaction is a process where substances (reactants) change into new substances (products)."
+    },
+    {
+        "question": "What is an acid?",
+        "A": "A base",
+        "B": "A substance that donates protons (H+)",
+        "C": "A salt",
+        "D": "A neutral substance",
+        "answer": "B",
+        "funFact": "An acid is a substance that donates protons (H+ ions) in solution, with pH less than 7."
+    },
+    {
+        "question": "What is a base?",
+        "A": "An acid",
+        "B": "A substance that accepts protons (H+)",
+        "C": "A salt",
+        "D": "A neutral substance",
+        "answer": "B",
+        "funFact": "A base is a substance that accepts protons (H+ ions) in solution, with pH greater than 7."
+    },
+    {
+        "question": "What is pH?",
+        "A": "A measure of temperature",
+        "B": "A measure of acidity or basicity",
+        "C": "A measure of pressure",
+        "D": "A measure of volume",
+        "answer": "B",
+        "funFact": "pH is a measure of acidity or basicity, ranging from 0 (acidic) to 14 (basic), with 7 being neutral."
+    },
+    {
+        "question": "What is an ion?",
+        "A": "A neutral atom",
+        "B": "An atom or molecule with an electric charge",
+        "C": "A molecule only",
+        "D": "An element only",
+        "answer": "B",
+        "funFact": "An ion is an atom or molecule with an electric charge, formed by gaining or losing electrons."
+    },
+    {
+        "question": "What is a covalent bond?",
+        "A": "An ionic bond",
+        "B": "A bond where atoms share electrons",
+        "C": "A metallic bond",
+        "D": "A hydrogen bond",
+        "answer": "B",
+        "funFact": "A covalent bond is a chemical bond where atoms share electrons, common in organic molecules."
+    },
+    {
+        "question": "What is an ionic bond?",
+        "A": "A covalent bond",
+        "B": "A bond where electrons are transferred",
+        "C": "A metallic bond",
+        "D": "A hydrogen bond",
+        "answer": "B",
+        "funFact": "An ionic bond is a chemical bond where electrons are transferred from one atom to another, creating ions."
+    },
+    {
+        "question": "What is organic chemistry?",
+        "A": "Chemistry of living things only",
+        "B": "Chemistry of carbon-containing compounds",
+        "C": "Chemistry of non-living things",
+        "D": "Chemistry of metals",
+        "answer": "B",
+        "funFact": "Organic chemistry is the study of carbon-containing compounds, which form the basis of life and many materials."
+    },
+    {
+        "question": "What is inorganic chemistry?",
+        "A": "Chemistry of carbon compounds",
+        "B": "Chemistry of non-carbon compounds",
+        "C": "Chemistry of living things",
+        "D": "Chemistry of organic matter",
+        "answer": "B",
+        "funFact": "Inorganic chemistry is the study of non-carbon compounds, including metals, minerals, and salts."
+    },
+    {
+        "question": "What is a catalyst?",
+        "A": "A reactant",
+        "B": "A substance that speeds up reactions without being consumed",
+        "C": "A product",
+        "D": "An inhibitor",
+        "answer": "B",
+        "funFact": "A catalyst is a substance that speeds up chemical reactions without being consumed in the process."
+    },
+    {
+        "question": "What is equilibrium?",
+        "A": "A state of imbalance",
+        "B": "A state where forward and reverse reactions balance",
+        "C": "A state of no reaction",
+        "D": "A state of completion",
+        "answer": "B",
+        "funFact": "Chemical equilibrium is a state where forward and reverse reactions occur at equal rates, maintaining balance."
+    },
+    {
+        "question": "What is oxidation?",
+        "A": "Gaining electrons",
+        "B": "Losing electrons",
+        "C": "Gaining protons",
+        "D": "Losing protons",
+        "answer": "B",
+        "funFact": "Oxidation is the loss of electrons, while reduction is the gain of electrons (remember: OIL RIG - Oxidation Is Loss, Reduction Is Gain)."
+    },
+    {
+        "question": "What is reduction?",
+        "A": "Losing electrons",
+        "B": "Gaining electrons",
+        "C": "Losing protons",
+        "D": "Gaining protons",
+        "answer": "B",
+        "funFact": "Reduction is the gain of electrons, always paired with oxidation in redox reactions."
+    },
+    {
+        "question": "What is a polymer?",
+        "A": "A single molecule",
+        "B": "A large molecule made of repeating units",
+        "C": "A small molecule",
+        "D": "An atom",
+        "answer": "B",
+        "funFact": "A polymer is a large molecule made of repeating units (monomers), like plastics, DNA, and proteins."
+    },
+    {
+        "question": "What is thermodynamics?",
+        "A": "The study of motion",
+        "B": "The study of energy and heat in chemical reactions",
+        "C": "The study of light",
+        "D": "The study of electricity",
+        "answer": "B",
+        "funFact": "Thermodynamics is the study of energy and heat in chemical reactions, including entropy and enthalpy."
+    },
+    {
+        "question": "What is stoichiometry?",
+        "A": "The study of structure",
+        "B": "The study of quantitative relationships in reactions",
+        "C": "The study of speed",
+        "D": "The study of color",
+        "answer": "B",
+        "funFact": "Stoichiometry is the study of quantitative relationships in chemical reactions, calculating amounts of reactants and products."
+    },
+    {
+        "question": "What is the importance of chemistry?",
+        "A": "Not important",
+        "B": "Fundamental to understanding matter and life",
+        "C": "Minor importance",
+        "D": "Only for scientists",
+        "answer": "B",
+        "funFact": "Chemistry is fundamental to understanding matter, life, materials, medicine, and the world around us."
+    }
+]

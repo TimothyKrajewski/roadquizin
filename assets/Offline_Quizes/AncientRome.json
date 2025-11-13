@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the capital of the Roman Empire?",
+        "A": "Athens",
+        "B": "Rome",
+        "C": "Constantinople",
+        "D": "Alexandria",
+        "answer": "B",
+        "funFact": "Rome was the capital of the Roman Empire, located in modern-day Italy."
+    },
+    {
+        "question": "Who was the first Roman Emperor?",
+        "A": "Julius Caesar",
+        "B": "Augustus",
+        "C": "Nero",
+        "D": "Marcus Aurelius",
+        "answer": "B",
+        "funFact": "Augustus (originally Octavian) was the first Roman Emperor, ruling from 27 BC to 14 AD."
+    },
+    {
+        "question": "What was the Colosseum used for?",
+        "A": "Housing",
+        "B": "Gladiator fights and entertainment",
+        "C": "Government",
+        "D": "Religion",
+        "answer": "B",
+        "funFact": "The Colosseum was an amphitheater used for gladiator fights, animal hunts, and public spectacles."
+    },
+    {
+        "question": "What were gladiators?",
+        "A": "Soldiers",
+        "B": "Fighters who entertained in arenas",
+        "C": "Politicians",
+        "D": "Priests",
+        "answer": "B",
+        "funFact": "Gladiators were fighters, often slaves or prisoners, who fought in arenas for public entertainment."
+    },
+    {
+        "question": "What was the Roman Republic?",
+        "A": "An empire",
+        "B": "A government before the empire",
+        "C": "A city",
+        "D": "A war",
+        "answer": "B",
+        "funFact": "The Roman Republic was the period before the empire, with elected officials and a senate, lasting from 509 BC to 27 BC."
+    },
+    {
+        "question": "What were the Roman legions?",
+        "A": "Cities",
+        "B": "Military units",
+        "C": "Buildings",
+        "D": "Laws",
+        "answer": "B",
+        "funFact": "Roman legions were large military units, typically 4,000-6,000 soldiers, that conquered and defended the empire."
+    },
+    {
+        "question": "What was the Pax Romana?",
+        "A": "A war",
+        "B": "A period of peace and stability",
+        "C": "A city",
+        "D": "An emperor",
+        "answer": "B",
+        "funFact": "The Pax Romana (Roman Peace) was a period of relative peace and stability across the empire from 27 BC to 180 AD."
+    },
+    {
+        "question": "What was the Forum?",
+        "A": "A building",
+        "B": "The center of Roman public life",
+        "C": "A war",
+        "D": "An emperor",
+        "answer": "B",
+        "funFact": "The Forum was the center of Roman public life, with government buildings, temples, and markets."
+    },
+    {
+        "question": "What were aqueducts?",
+        "A": "Bridges",
+        "B": "Structures that carried water",
+        "C": "Roads",
+        "D": "Walls",
+        "answer": "B",
+        "funFact": "Aqueducts were engineering structures that carried water from distant sources to Roman cities."
+    },
+    {
+        "question": "What were Roman roads?",
+        "A": "Dirt paths",
+        "B": "Well-built highways connecting the empire",
+        "C": "Rivers",
+        "D": "Bridges",
+        "answer": "B",
+        "funFact": "Roman roads were well-built highways that connected the empire, enabling trade and military movement."
+    },
+    {
+        "question": "What was the Senate?",
+        "A": "An emperor",
+        "B": "A governing body of elders",
+        "C": "A building",
+        "D": "A war",
+        "answer": "B",
+        "funFact": "The Senate was a governing body of elder statesmen who advised and made laws in the Roman Republic and Empire."
+    },
+    {
+        "question": "What was the fall of Rome?",
+        "A": "A single event",
+        "B": "The decline and end of the Western Roman Empire",
+        "C": "A war",
+        "D": "A building collapse",
+        "answer": "B",
+        "funFact": "The fall of Rome refers to the decline and end of the Western Roman Empire in 476 AD."
+    },
+    {
+        "question": "What was the Eastern Roman Empire?",
+        "A": "The same as Western",
+        "B": "The Byzantine Empire",
+        "C": "A different empire",
+        "D": "A city",
+        "answer": "B",
+        "funFact": "The Eastern Roman Empire continued after the fall of the West, becoming the Byzantine Empire, lasting until 1453."
+    },
+    {
+        "question": "What were the Twelve Tables?",
+        "A": "Furniture",
+        "B": "Early Roman laws",
+        "C": "Buildings",
+        "D": "Wars",
+        "answer": "B",
+        "funFact": "The Twelve Tables were the earliest written laws of Rome, establishing legal rights and procedures."
+    },
+    {
+        "question": "What was a consul?",
+        "A": "An emperor",
+        "B": "An elected official in the Republic",
+        "C": "A soldier",
+        "D": "A gladiator",
+        "answer": "B",
+        "funFact": "A consul was one of two elected officials who led the Roman Republic, serving one-year terms."
+    },
+    {
+        "question": "What was the study of Ancient Rome called?",
+        "A": "Romanology",
+        "B": "Classical studies",
+        "C": "History",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Ancient Rome is studied through classical studies, Roman history, archaeology, and Latin literature."
+    },
+    {
+        "question": "What was Latin?",
+        "A": "A city",
+        "B": "The language of ancient Rome",
+        "C": "A building",
+        "D": "A war",
+        "answer": "B",
+        "funFact": "Latin was the language of ancient Rome, which evolved into the Romance languages (Spanish, French, Italian, etc.)."
+    },
+    {
+        "question": "What was a toga?",
+        "A": "A building",
+        "B": "A garment worn by Roman citizens",
+        "C": "A weapon",
+        "D": "A food",
+        "answer": "B",
+        "funFact": "A toga was a distinctive garment worn by Roman male citizens, a large piece of cloth draped over the body."
+    },
+    {
+        "question": "What was the Circus Maximus?",
+        "A": "A building",
+        "B": "A large stadium for chariot races",
+        "C": "A war",
+        "D": "An emperor",
+        "answer": "B",
+        "funFact": "The Circus Maximus was a large stadium in Rome used for chariot races, holding up to 250,000 spectators."
+    },
+    {
+        "question": "What was a triumvirate?",
+        "A": "One person",
+        "B": "A ruling group of three",
+        "C": "A building",
+        "D": "A war",
+        "answer": "B",
+        "funFact": "A triumvirate was a ruling group of three men, like the First Triumvirate (Caesar, Pompey, Crassus) and Second Triumvirate (Octavian, Antony, Lepidus)."
+    }
+]

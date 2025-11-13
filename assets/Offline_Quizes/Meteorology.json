@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is meteorology?",
+        "A": "The study of meteors",
+        "B": "The study of weather and atmosphere",
+        "C": "The study of space",
+        "D": "The study of rocks",
+        "answer": "B",
+        "funFact": "Meteorology is the study of weather and the atmosphere, including forecasting and understanding weather patterns."
+    },
+    {
+        "question": "What is weather?",
+        "A": "Climate",
+        "B": "Short-term atmospheric conditions",
+        "C": "Long-term patterns",
+        "D": "Temperature only",
+        "answer": "B",
+        "funFact": "Weather refers to short-term atmospheric conditions (temperature, precipitation, wind) in a specific place and time."
+    },
+    {
+        "question": "What is climate?",
+        "A": "Weather",
+        "B": "Long-term average weather patterns",
+        "C": "Daily conditions",
+        "D": "Temperature only",
+        "answer": "B",
+        "funFact": "Climate is the long-term average of weather patterns in a region, typically measured over 30 years or more."
+    },
+    {
+        "question": "What is the atmosphere?",
+        "A": "The ocean",
+        "B": "The layer of gases surrounding Earth",
+        "C": "The ground",
+        "D": "Space",
+        "answer": "B",
+        "funFact": "The atmosphere is the layer of gases surrounding Earth, composed mainly of nitrogen and oxygen."
+    },
+    {
+        "question": "What is a front?",
+        "A": "A type of cloud",
+        "B": "A boundary between air masses",
+        "C": "A type of wind",
+        "D": "A type of precipitation",
+        "answer": "B",
+        "funFact": "A front is a boundary between different air masses, often causing weather changes like storms and temperature shifts."
+    },
+    {
+        "question": "What is a hurricane?",
+        "A": "A type of tornado",
+        "B": "A large tropical storm with strong winds",
+        "C": "A type of cloud",
+        "D": "A type of wind",
+        "answer": "B",
+        "funFact": "A hurricane is a large tropical storm with strong winds (74+ mph) that forms over warm ocean waters."
+    },
+    {
+        "question": "What is a tornado?",
+        "A": "A hurricane",
+        "B": "A rapidly rotating column of air",
+        "C": "A type of cloud",
+        "D": "A type of wind",
+        "answer": "B",
+        "funFact": "A tornado is a rapidly rotating column of air extending from a thunderstorm to the ground, with very strong winds."
+    },
+    {
+        "question": "What is precipitation?",
+        "A": "Wind",
+        "B": "Water falling from clouds",
+        "C": "Sunshine",
+        "D": "Clouds",
+        "answer": "B",
+        "funFact": "Precipitation is water falling from clouds, including rain, snow, sleet, and hail."
+    },
+    {
+        "question": "What is humidity?",
+        "A": "Temperature",
+        "B": "Amount of water vapor in air",
+        "C": "Pressure",
+        "D": "Wind speed",
+        "answer": "B",
+        "funFact": "Humidity is the amount of water vapor in the air, affecting how comfortable the air feels."
+    },
+    {
+        "question": "What is air pressure?",
+        "A": "Wind",
+        "B": "Weight of air pressing down",
+        "C": "Temperature",
+        "D": "Humidity",
+        "answer": "B",
+        "funFact": "Air pressure is the weight of air pressing down on Earth's surface, measured with a barometer."
+    },
+    {
+        "question": "What is a barometer?",
+        "A": "A thermometer",
+        "B": "An instrument measuring air pressure",
+        "C": "A rain gauge",
+        "D": "A wind vane",
+        "answer": "B",
+        "funFact": "A barometer is an instrument that measures air pressure, helping predict weather changes."
+    },
+    {
+        "question": "What is a thermometer?",
+        "A": "A barometer",
+        "B": "An instrument measuring temperature",
+        "C": "A rain gauge",
+        "D": "A wind vane",
+        "answer": "B",
+        "funFact": "A thermometer is an instrument that measures temperature, essential for weather observation."
+    },
+    {
+        "question": "What is wind?",
+        "A": "Still air",
+        "B": "Moving air",
+        "C": "Water",
+        "D": "Clouds",
+        "answer": "B",
+        "funFact": "Wind is moving air, caused by differences in air pressure as air moves from high to low pressure areas."
+    },
+    {
+        "question": "What is a cloud?",
+        "A": "Water vapor",
+        "B": "Visible water droplets or ice crystals",
+        "C": "Rain",
+        "D": "Wind",
+        "answer": "B",
+        "funFact": "A cloud is a visible collection of water droplets or ice crystals suspended in the atmosphere."
+    },
+    {
+        "question": "What is the importance of meteorology?",
+        "A": "Not important",
+        "B": "Weather forecasting and understanding climate",
+        "C": "Minor importance",
+        "D": "Only for scientists",
+        "answer": "B",
+        "funFact": "Meteorology is important for weather forecasting, understanding climate, and preparing for weather-related hazards."
+    },
+    {
+        "question": "What is a weather forecast?",
+        "A": "Past weather",
+        "B": "Prediction of future weather",
+        "C": "Current weather",
+        "D": "Climate",
+        "answer": "B",
+        "funFact": "A weather forecast is a prediction of future weather conditions, using data and models to help people plan."
+    },
+    {
+        "question": "What is the study of meteorology called?",
+        "A": "Meteorology",
+        "B": "Atmospheric science",
+        "C": "Weather science",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Meteorology is also called atmospheric science, studying weather, climate, and atmospheric processes."
+    },
+    {
+        "question": "What is the impact of meteorology on society?",
+        "A": "No impact",
+        "B": "Helps plan activities and prepare for hazards",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Meteorology impacts society by helping people plan activities, prepare for weather hazards, and understand climate."
+    },
+    {
+        "question": "What is a thunderstorm?",
+        "A": "A type of cloud",
+        "B": "A storm with thunder and lightning",
+        "C": "A type of wind",
+        "D": "A type of precipitation",
+        "answer": "B",
+        "funFact": "A thunderstorm is a storm with thunder and lightning, often including heavy rain, strong winds, and sometimes hail."
+    },
+    {
+        "question": "What is lightning?",
+        "A": "Thunder",
+        "B": "Electrical discharge in the atmosphere",
+        "C": "Rain",
+        "D": "Wind",
+        "answer": "B",
+        "funFact": "Lightning is an electrical discharge in the atmosphere, often occurring during thunderstorms."
+    }
+]

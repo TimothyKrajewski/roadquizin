@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is a robot?",
+        "A": "A human",
+        "B": "A machine that can perform tasks automatically",
+        "C": "An animal",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "A robot is a machine that can perform tasks automatically, often programmable and capable of movement."
+    },
+    {
+        "question": "What is robotics?",
+        "A": "The study of robots",
+        "B": "The field of designing and building robots",
+        "C": "A type of robot",
+        "D": "A computer program",
+        "answer": "B",
+        "funFact": "Robotics is the field of designing, building, and operating robots, combining engineering, computer science, and AI."
+    },
+    {
+        "question": "What is an actuator?",
+        "A": "A sensor",
+        "B": "A component that creates movement",
+        "C": "A computer",
+        "D": "A program",
+        "answer": "B",
+        "funFact": "An actuator is a component that converts energy into movement, like motors that move robot joints."
+    },
+    {
+        "question": "What is a sensor?",
+        "A": "An actuator",
+        "B": "A device that detects information",
+        "C": "A motor",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "A sensor is a device that detects information from the environment, like cameras, touch sensors, or distance sensors."
+    },
+    {
+        "question": "What is the difference between a robot and a machine?",
+        "A": "They're the same",
+        "B": "Robots can sense and adapt, machines typically can't",
+        "C": "Machines are smarter",
+        "D": "Robots are simpler",
+        "answer": "B",
+        "funFact": "Robots can sense their environment and adapt, while machines typically perform fixed tasks without sensing."
+    },
+    {
+        "question": "What is autonomous?",
+        "A": "Controlled",
+        "B": "Operating independently",
+        "C": "Manual",
+        "D": "Remote",
+        "answer": "B",
+        "funFact": "Autonomous means operating independently without human control, a key feature of advanced robots."
+    },
+    {
+        "question": "What is the study of robotics called?",
+        "A": "Robotics",
+        "B": "Robot engineering",
+        "C": "Automation",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Robotics involves engineering, computer science, AI, and automation to create intelligent machines."
+    },
+    {
+        "question": "What are robots used for?",
+        "A": "Only manufacturing",
+        "B": "Manufacturing, healthcare, exploration, and more",
+        "C": "Only entertainment",
+        "D": "Only research",
+        "answer": "B",
+        "funFact": "Robots are used in manufacturing, healthcare, space exploration, agriculture, search and rescue, and many other fields."
+    },
+    {
+        "question": "What is an industrial robot?",
+        "A": "A home robot",
+        "B": "A robot used in manufacturing",
+        "C": "A toy robot",
+        "D": "A research robot",
+        "answer": "B",
+        "funFact": "An industrial robot is designed for manufacturing tasks like welding, assembly, and material handling."
+    },
+    {
+        "question": "What is a humanoid robot?",
+        "A": "A robot that looks like a human",
+        "B": "A robot that doesn't look human",
+        "C": "A small robot",
+        "D": "A large robot",
+        "answer": "A",
+        "funFact": "A humanoid robot is designed to resemble and move like a human, with a head, torso, arms, and legs."
+    },
+    {
+        "question": "What is the Three Laws of Robotics?",
+        "A": "Real laws",
+        "B": "Fictional rules by Isaac Asimov",
+        "C": "Government laws",
+        "D": "Company rules",
+        "answer": "B",
+        "funFact": "The Three Laws of Robotics are fictional rules proposed by Isaac Asimov to govern robot behavior in his stories."
+    },
+    {
+        "question": "What is the impact of robotics?",
+        "A": "No impact",
+        "B": "Transforming industries and daily life",
+        "C": "Minor changes",
+        "D": "Only affects manufacturing",
+        "answer": "B",
+        "funFact": "Robotics is transforming industries, creating new capabilities, and raising questions about jobs and ethics."
+    },
+    {
+        "question": "What is the origin of robotics?",
+        "A": "The 2000s",
+        "B": "The 1950s-1960s",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "Modern robotics began in the 1950s-1960s, with the first industrial robot installed in 1961."
+    },
+    {
+        "question": "What is a drone?",
+        "A": "A ground robot",
+        "B": "An unmanned aerial vehicle",
+        "C": "A human",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "A drone is an unmanned aerial vehicle (UAV) that can fly autonomously or be remotely controlled."
+    },
+    {
+        "question": "What is the difference between a robot and AI?",
+        "A": "They're the same",
+        "B": "Robots are physical, AI is intelligence",
+        "C": "AI is physical",
+        "D": "Robots are intelligence",
+        "answer": "B",
+        "funFact": "Robots are physical machines, while AI is intelligence. Many robots use AI, but not all AI is in robots."
+    },
+    {
+        "question": "What is a robotic arm?",
+        "A": "A human arm",
+        "B": "A mechanical arm used in robotics",
+        "C": "A leg",
+        "D": "A head",
+        "answer": "B",
+        "funFact": "A robotic arm is a mechanical arm with multiple joints, used for tasks like assembly, welding, and surgery."
+    },
+    {
+        "question": "What is swarm robotics?",
+        "A": "A single robot",
+        "B": "Multiple simple robots working together",
+        "C": "A large robot",
+        "D": "A small robot",
+        "answer": "B",
+        "funFact": "Swarm robotics uses multiple simple robots that work together to accomplish tasks, inspired by insect swarms."
+    },
+    {
+        "question": "What is the future of robotics?",
+        "A": "No future",
+        "B": "More advanced, capable, and integrated robots",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of robotics includes more advanced AI, better human-robot interaction, and robots in more aspects of life."
+    },
+    {
+        "question": "What is a service robot?",
+        "A": "An industrial robot",
+        "B": "A robot that provides services to humans",
+        "C": "A toy robot",
+        "D": "A research robot",
+        "answer": "B",
+        "funFact": "A service robot is designed to assist humans in tasks like cleaning, delivery, healthcare, or customer service."
+    },
+    {
+        "question": "What is the study of robotics called?",
+        "A": "Robotics",
+        "B": "Robot engineering",
+        "C": "Automation science",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Robotics is an interdisciplinary field combining mechanical engineering, electrical engineering, computer science, and AI."
+    }
+]

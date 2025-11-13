@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many players are on a hockey team on the ice at once?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "answer": "C",
+        "funFact": "Each hockey team has 6 players on the ice: 1 goalie, 2 defensemen, and 3 forwards."
+    },
+    {
+        "question": "How many periods are in a hockey game?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "B",
+        "funFact": "A standard hockey game consists of three 20-minute periods."
+    },
+    {
+        "question": "What is a hat-trick in hockey?",
+        "A": "Three assists",
+        "B": "Three goals in one game",
+        "C": "Three saves",
+        "D": "Three penalties",
+        "answer": "B",
+        "funFact": "A hat-trick is when a player scores three goals in a single game."
+    },
+    {
+        "question": "What is the name of the professional hockey league in North America?",
+        "A": "NHL",
+        "B": "NFL",
+        "C": "NBA",
+        "D": "MLB",
+        "answer": "A",
+        "funFact": "The NHL (National Hockey League) is the premier professional ice hockey league in North America."
+    },
+    {
+        "question": "What is a power play?",
+        "A": "A type of shot",
+        "B": "Advantage when opponent has fewer players",
+        "C": "A penalty",
+        "D": "A face-off",
+        "answer": "B",
+        "funFact": "A power play occurs when one team has a numerical advantage due to an opponent's penalty."
+    },
+    {
+        "question": "What is a penalty shot?",
+        "A": "A regular shot",
+        "B": "A one-on-one shot against the goalie",
+        "C": "A pass",
+        "D": "A face-off",
+        "answer": "B",
+        "funFact": "A penalty shot is awarded when a player is fouled on a breakaway, resulting in a one-on-one shot."
+    },
+    {
+        "question": "What is the Stanley Cup?",
+        "A": "A regular season trophy",
+        "B": "The NHL championship trophy",
+        "C": "A league",
+        "D": "A team",
+        "answer": "B",
+        "funFact": "The Stanley Cup is the oldest professional sports trophy in North America, awarded to the NHL champion."
+    },
+    {
+        "question": "What is icing?",
+        "A": "A goal",
+        "B": "Shooting puck across both goal lines",
+        "C": "A penalty",
+        "D": "A face-off",
+        "answer": "B",
+        "funFact": "Icing occurs when a player shoots the puck across both the center line and the opponent's goal line."
+    },
+    {
+        "question": "What is offside in hockey?",
+        "A": "A penalty",
+        "B": "Entering offensive zone before the puck",
+        "C": "A goal",
+        "D": "A face-off",
+        "answer": "B",
+        "funFact": "Offside occurs when a player enters the offensive zone before the puck crosses the blue line."
+    },
+    {
+        "question": "What is a face-off?",
+        "A": "A goal",
+        "B": "Dropping the puck to start play",
+        "C": "A penalty",
+        "D": "A shot",
+        "answer": "B",
+        "funFact": "A face-off is when the referee drops the puck between two opposing players to start or restart play."
+    },
+    {
+        "question": "What is a shutout?",
+        "A": "No goals scored",
+        "B": "Preventing opponent from scoring",
+        "C": "A penalty",
+        "D": "A goal",
+        "answer": "B",
+        "funFact": "A shutout occurs when a goalie prevents the opposing team from scoring any goals in a game."
+    },
+    {
+        "question": "What is a slapshot?",
+        "A": "A type of pass",
+        "B": "A powerful shot with a full wind-up",
+        "C": "A penalty",
+        "D": "A face-off",
+        "answer": "B",
+        "funFact": "A slapshot is a powerful shot where the player winds up and strikes the puck with full force."
+    },
+    {
+        "question": "What is a hat trick?",
+        "A": "Three assists",
+        "B": "Three goals by one player",
+        "C": "Three saves",
+        "D": "Three penalties",
+        "answer": "B",
+        "funFact": "A hat trick is when a single player scores three goals in one game."
+    },
+    {
+        "question": "What is the blue line?",
+        "A": "The goal line",
+        "B": "The line dividing zones",
+        "C": "The center line",
+        "D": "The penalty box line",
+        "answer": "B",
+        "funFact": "The blue lines divide the ice into three zones: defensive, neutral, and offensive."
+    },
+    {
+        "question": "What is a breakaway?",
+        "A": "A penalty",
+        "B": "A player with the puck alone against the goalie",
+        "C": "A face-off",
+        "D": "A goal",
+        "answer": "B",
+        "funFact": "A breakaway occurs when a player has the puck with no defenders between them and the goalie."
+    },
+    {
+        "question": "What is a goalie?",
+        "A": "A forward",
+        "B": "The player who defends the goal",
+        "C": "A defenseman",
+        "D": "A referee",
+        "answer": "B",
+        "funFact": "The goalie (goaltender) is the player who defends the goal and tries to prevent the other team from scoring."
+    },
+    {
+        "question": "What is a penalty box?",
+        "A": "Where goals are scored",
+        "B": "Where penalized players sit",
+        "C": "Where the goalie stands",
+        "D": "Where the puck is stored",
+        "answer": "B",
+        "funFact": "The penalty box is where players serve time for penalties, leaving their team short-handed."
+    },
+    {
+        "question": "What is a wrist shot?",
+        "A": "A type of pass",
+        "B": "A quick shot using wrist snap",
+        "C": "A penalty",
+        "D": "A face-off",
+        "answer": "B",
+        "funFact": "A wrist shot is a quick, accurate shot made by snapping the wrists while moving the puck."
+    },
+    {
+        "question": "What is overtime?",
+        "A": "Extra time to break a tie",
+        "B": "Regular time",
+        "C": "Half-time",
+        "D": "Time-out",
+        "answer": "A",
+        "funFact": "Overtime is extra playing time used to break a tie, typically 5 minutes of sudden-death play."
+    },
+    {
+        "question": "What is the study of hockey called?",
+        "A": "Hockeyology",
+        "B": "Just hockey",
+        "C": "Ice sports",
+        "D": "Winter sports",
+        "answer": "B",
+        "funFact": "Hockey is simply called hockey, though the sport is studied and analyzed by coaches and analysts."
+    }
+]

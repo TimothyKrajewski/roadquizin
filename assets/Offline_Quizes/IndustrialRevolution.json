@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the Industrial Revolution?",
+        "A": "A war",
+        "B": "A shift to machine-based manufacturing",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The Industrial Revolution was a period of major industrialization from the late 1700s to mid-1800s, shifting from hand production to machines."
+    },
+    {
+        "question": "Where did the Industrial Revolution begin?",
+        "A": "France",
+        "B": "Great Britain",
+        "C": "United States",
+        "D": "Germany",
+        "answer": "B",
+        "funFact": "The Industrial Revolution began in Great Britain in the late 1700s, then spread to other countries."
+    },
+    {
+        "question": "What was the steam engine?",
+        "A": "A type of car",
+        "B": "A machine that powered the revolution",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The steam engine was a revolutionary machine that converted steam into mechanical power, driving factories and transportation."
+    },
+    {
+        "question": "Who improved the steam engine?",
+        "A": "Thomas Edison",
+        "B": "James Watt",
+        "C": "Henry Ford",
+        "D": "Alexander Graham Bell",
+        "answer": "B",
+        "funFact": "James Watt significantly improved the steam engine in the 1770s, making it more efficient and practical."
+    },
+    {
+        "question": "What was a factory?",
+        "A": "A home",
+        "B": "A building with machines for manufacturing",
+        "C": "A farm",
+        "D": "A school",
+        "answer": "B",
+        "funFact": "A factory was a building where goods were manufactured using machines, replacing hand production."
+    },
+    {
+        "question": "What was urbanization?",
+        "A": "Moving to farms",
+        "B": "Growth of cities",
+        "C": "Moving to suburbs",
+        "D": "Staying rural",
+        "answer": "B",
+        "funFact": "Urbanization was the growth of cities as people moved from rural areas to work in factories."
+    },
+    {
+        "question": "What was the spinning jenny?",
+        "A": "A person",
+        "B": "A machine for spinning thread",
+        "C": "A building",
+        "D": "A vehicle",
+        "answer": "B",
+        "funFact": "The spinning jenny was a machine that could spin multiple threads at once, revolutionizing textile production."
+    },
+    {
+        "question": "What was child labor?",
+        "A": "Children playing",
+        "B": "Children working in factories",
+        "C": "Children in school",
+        "D": "Children at home",
+        "answer": "B",
+        "funFact": "Child labor was common during the Industrial Revolution, with children working long hours in dangerous factories."
+    },
+    {
+        "question": "What was a textile?",
+        "A": "A machine",
+        "B": "Cloth or fabric",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "Textiles (cloth and fabric) were among the first products to be mass-produced in factories."
+    },
+    {
+        "question": "What was a railroad?",
+        "A": "A road",
+        "B": "A system of tracks for trains",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "Railroads revolutionized transportation, allowing goods and people to travel quickly across long distances."
+    },
+    {
+        "question": "What was a locomotive?",
+        "A": "A car",
+        "B": "A steam-powered train engine",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "A locomotive was a steam-powered train engine that pulled railroad cars."
+    },
+    {
+        "question": "What was mass production?",
+        "A": "Hand production",
+        "B": "Making large quantities of goods",
+        "C": "Small production",
+        "D": "No production",
+        "answer": "B",
+        "funFact": "Mass production was making large quantities of goods using machines, making products cheaper and more available."
+    },
+    {
+        "question": "What was the study of the Industrial Revolution called?",
+        "A": "Industrialology",
+        "B": "History",
+        "C": "Economic history",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The Industrial Revolution is studied through history, economic history, and social history."
+    },
+    {
+        "question": "What was a mill?",
+        "A": "A home",
+        "B": "A building for grinding or manufacturing",
+        "C": "A farm",
+        "D": "A school",
+        "answer": "B",
+        "funFact": "A mill was a building with machinery for grinding grain or manufacturing textiles."
+    },
+    {
+        "question": "What was the working class?",
+        "A": "Nobles",
+        "B": "People who worked in factories",
+        "C": "Farmers",
+        "D": "Merchants",
+        "answer": "B",
+        "funFact": "The working class were people who worked in factories and mines, often in difficult conditions."
+    },
+    {
+        "question": "What was a union?",
+        "A": "A country",
+        "B": "An organization of workers",
+        "C": "A factory",
+        "D": "A machine",
+        "answer": "B",
+        "funFact": "A union was an organization of workers formed to improve working conditions and wages."
+    },
+    {
+        "question": "What was the Luddite movement?",
+        "A": "Supporting machines",
+        "B": "Workers who destroyed machines",
+        "C": "Building machines",
+        "D": "Selling machines",
+        "answer": "B",
+        "funFact": "The Luddite movement was when workers destroyed machines they believed were taking their jobs."
+    },
+    {
+        "question": "What was the period of the Industrial Revolution?",
+        "A": "The 1600s",
+        "B": "Late 1700s to mid-1800s",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "The Industrial Revolution occurred from the late 1700s to the mid-1800s, transforming society and the economy."
+    },
+    {
+        "question": "What was an invention?",
+        "A": "A discovery",
+        "B": "A new device or process",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "An invention is a new device or process, and the Industrial Revolution saw many important inventions."
+    },
+    {
+        "question": "What was the impact of the Industrial Revolution?",
+        "A": "No change",
+        "B": "Transformed society, economy, and daily life",
+        "C": "Minor changes",
+        "D": "Only affected cities",
+        "answer": "B",
+        "funFact": "The Industrial Revolution transformed society, the economy, and daily life, leading to modern industrial society."
+    }
+]

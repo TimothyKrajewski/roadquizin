@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is a mobile app?",
+        "A": "A website",
+        "B": "Software designed for mobile devices",
+        "C": "A computer program",
+        "D": "A book",
+        "answer": "B",
+        "funFact": "A mobile app (application) is software designed to run on mobile devices like smartphones and tablets."
+    },
+    {
+        "question": "What are the two main mobile operating systems?",
+        "A": "Windows and Mac",
+        "B": "iOS and Android",
+        "C": "Linux and Unix",
+        "D": "Chrome and Firefox",
+        "answer": "B",
+        "funFact": "iOS (Apple) and Android (Google) are the two main mobile operating systems, powering most smartphones."
+    },
+    {
+        "question": "What is an app store?",
+        "A": "A physical store",
+        "B": "A digital marketplace for apps",
+        "C": "A website",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "An app store is a digital marketplace where users can browse, download, and purchase mobile applications."
+    },
+    {
+        "question": "What is the difference between native and web apps?",
+        "A": "They're the same",
+        "B": "Native apps are platform-specific, web apps run in browsers",
+        "C": "Web apps are platform-specific",
+        "D": "Native apps are web-based",
+        "answer": "B",
+        "funFact": "Native apps are built for specific platforms (iOS or Android), while web apps run in browsers and work across platforms."
+    },
+    {
+        "question": "What is a hybrid app?",
+        "A": "A native app",
+        "B": "An app combining native and web technologies",
+        "C": "A web app",
+        "D": "A desktop app",
+        "answer": "B",
+        "funFact": "A hybrid app combines native and web technologies, allowing code to work across multiple platforms."
+    },
+    {
+        "question": "What is the study of mobile apps called?",
+        "A": "Appology",
+        "B": "Mobile development",
+        "C": "App engineering",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Mobile app development involves programming, design, and user experience to create software for mobile devices."
+    },
+    {
+        "question": "What are mobile apps used for?",
+        "A": "Only games",
+        "B": "Communication, productivity, entertainment, and more",
+        "C": "Only work",
+        "D": "Only social media",
+        "answer": "B",
+        "funFact": "Mobile apps are used for communication, productivity, entertainment, shopping, banking, health, and countless other purposes."
+    },
+    {
+        "question": "What is the impact of mobile apps?",
+        "A": "No impact",
+        "B": "Transforming how people work, communicate, and live",
+        "C": "Minor changes",
+        "D": "Only affects phones",
+        "answer": "B",
+        "funFact": "Mobile apps have transformed how people work, communicate, shop, learn, and access information and services."
+    },
+    {
+        "question": "What is the origin of mobile apps?",
+        "A": "The 2000s",
+        "B": "The late 2000s with smartphones",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "Mobile apps became mainstream with the launch of the iPhone App Store in 2008 and Android Market (now Play Store) in 2008."
+    },
+    {
+        "question": "What is an API?",
+        "A": "An app",
+        "B": "An interface for apps to communicate",
+        "C": "A device",
+        "D": "A network",
+        "answer": "B",
+        "funFact": "An API (Application Programming Interface) allows apps to communicate with other services and access data."
+    },
+    {
+        "question": "What is the future of mobile apps?",
+        "A": "No future",
+        "B": "More advanced features and integration",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of mobile apps includes AI integration, AR/VR features, better performance, and deeper device integration."
+    },
+    {
+        "question": "What is app monetization?",
+        "A": "Giving apps away",
+        "B": "Ways apps make money",
+        "C": "Free apps",
+        "D": "Paid apps only",
+        "answer": "B",
+        "funFact": "App monetization includes paid downloads, in-app purchases, subscriptions, and advertising."
+    },
+    {
+        "question": "What is the importance of mobile apps?",
+        "A": "Not important",
+        "B": "Essential tools for modern life",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Mobile apps have become essential tools for modern life, providing access to services, information, and entertainment."
+    },
+    {
+        "question": "What is the study of mobile apps called?",
+        "A": "Appology",
+        "B": "Mobile application development",
+        "C": "App engineering",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Mobile app development combines software engineering, user interface design, and platform-specific knowledge."
+    },
+    {
+        "question": "What is the difference between iOS and Android apps?",
+        "A": "They're the same",
+        "B": "Different platforms require different development",
+        "C": "iOS is Android",
+        "D": "Android is iOS",
+        "answer": "B",
+        "funFact": "iOS and Android apps require different development approaches, programming languages, and follow different design guidelines."
+    },
+    {
+        "question": "What is the impact of mobile apps on business?",
+        "A": "No impact",
+        "B": "Transforming how businesses operate and reach customers",
+        "C": "Minor changes",
+        "D": "Only affects tech companies",
+        "answer": "B",
+        "funFact": "Mobile apps have transformed how businesses operate, market, sell, and provide customer service."
+    },
+    {
+        "question": "What is the origin of mobile apps?",
+        "A": "The 2000s",
+        "B": "The late 2000s",
+        "C": "The 1990s",
+        "D": "The 1980s",
+        "answer": "B",
+        "funFact": "While mobile software existed earlier, the modern app ecosystem began with smartphones and app stores in the late 2000s."
+    },
+    {
+        "question": "What is the future of mobile apps?",
+        "A": "No future",
+        "B": "Continued innovation and integration",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of mobile apps includes AI, AR/VR, IoT integration, and new interaction methods."
+    },
+    {
+        "question": "What is the study of mobile apps called?",
+        "A": "Appology",
+        "B": "Mobile computing",
+        "C": "App science",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Mobile app development involves computer science, software engineering, and user experience design."
+    },
+    {
+        "question": "What is the importance of user experience in apps?",
+        "A": "Not important",
+        "B": "Critical for app success",
+        "C": "Minor importance",
+        "D": "Only for some apps",
+        "answer": "B",
+        "funFact": "User experience (UX) is critical for app success, determining how easy and enjoyable apps are to use."
+    }
+]

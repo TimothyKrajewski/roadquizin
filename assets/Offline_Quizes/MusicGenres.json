@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is a music genre?",
+        "A": "A single song",
+        "B": "A category of music with shared characteristics",
+        "C": "An instrument",
+        "D": "A musician",
+        "answer": "B",
+        "funFact": "A music genre is a category that identifies music as belonging to a shared tradition or set of conventions."
+    },
+    {
+        "question": "What is rock music?",
+        "A": "Classical music",
+        "B": "Music with electric guitars and strong beats",
+        "C": "Jazz",
+        "D": "Country",
+        "answer": "B",
+        "funFact": "Rock music is characterized by electric guitars, strong beats, and often rebellious themes."
+    },
+    {
+        "question": "What is jazz?",
+        "A": "Classical music",
+        "B": "Music with improvisation and syncopation",
+        "C": "Rock",
+        "D": "Country",
+        "answer": "B",
+        "funFact": "Jazz is characterized by improvisation, syncopation, and complex harmonies."
+    },
+    {
+        "question": "What is classical music?",
+        "A": "Rock",
+        "B": "Orchestral and formal music",
+        "C": "Jazz",
+        "D": "Country",
+        "answer": "B",
+        "funFact": "Classical music refers to orchestral and formal music from the Western tradition."
+    },
+    {
+        "question": "What is country music?",
+        "A": "Rock",
+        "B": "Music with rural themes and storytelling",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Country music features rural themes, storytelling, and often includes instruments like guitar and fiddle."
+    },
+    {
+        "question": "What is hip hop?",
+        "A": "Rock",
+        "B": "Music with rapping and beats",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Hip hop is characterized by rapping, DJing, breakdancing, and graffiti, with strong rhythmic beats."
+    },
+    {
+        "question": "What is pop music?",
+        "A": "Rock",
+        "B": "Popular, accessible music",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Pop music is popular, accessible music designed to appeal to a wide audience."
+    },
+    {
+        "question": "What is blues?",
+        "A": "Rock",
+        "B": "Music expressing sadness and emotion",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Blues is a genre expressing sadness and emotion, often with a 12-bar structure."
+    },
+    {
+        "question": "What is electronic music?",
+        "A": "Rock",
+        "B": "Music created with electronic instruments",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Electronic music is created using electronic instruments, synthesizers, and computer technology."
+    },
+    {
+        "question": "What is reggae?",
+        "A": "Rock",
+        "B": "Music from Jamaica with offbeat rhythm",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Reggae is a music genre from Jamaica with a distinctive offbeat rhythm and social commentary."
+    },
+    {
+        "question": "What is metal?",
+        "A": "Soft music",
+        "B": "Heavy, aggressive rock music",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Metal (heavy metal) is a subgenre of rock with heavy, distorted guitars and aggressive sound."
+    },
+    {
+        "question": "What is folk music?",
+        "A": "Rock",
+        "B": "Traditional music passed down",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Folk music is traditional music passed down through generations, often with acoustic instruments."
+    },
+    {
+        "question": "What is R&B?",
+        "A": "Rock",
+        "B": "Rhythm and Blues",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "R&B (Rhythm and Blues) combines elements of jazz, gospel, and blues with a strong beat."
+    },
+    {
+        "question": "What is punk?",
+        "A": "Soft music",
+        "B": "Fast, aggressive, anti-establishment music",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Punk is fast, aggressive music with anti-establishment themes and simple, raw sound."
+    },
+    {
+        "question": "What is funk?",
+        "A": "Rock",
+        "B": "Music with strong bass and rhythm",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Funk is characterized by a strong bass line, syncopated rhythms, and emphasis on groove."
+    },
+    {
+        "question": "What is soul music?",
+        "A": "Rock",
+        "B": "Music combining R&B and gospel",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Soul music combines elements of R&B and gospel with emotional, expressive vocals."
+    },
+    {
+        "question": "What is disco?",
+        "A": "Rock",
+        "B": "Dance music with four-on-the-floor beat",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Disco is dance music with a four-on-the-floor beat, popular in the 1970s."
+    },
+    {
+        "question": "What is alternative?",
+        "A": "Mainstream",
+        "B": "Non-mainstream rock music",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Alternative music refers to non-mainstream rock that emerged as an alternative to commercial pop."
+    },
+    {
+        "question": "What is the study of music genres called?",
+        "A": "Musicology",
+        "B": "Genre study",
+        "C": "Music theory",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Musicology, music theory, and genre studies all examine different aspects of music genres."
+    },
+    {
+        "question": "What is a subgenre?",
+        "A": "A main genre",
+        "B": "A more specific category within a genre",
+        "C": "A different genre",
+        "D": "No genre",
+        "answer": "B",
+        "funFact": "A subgenre is a more specific category within a larger genre, like death metal within metal."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is physiology?",
+        "A": "Study of structure",
+        "B": "Study of body function",
+        "C": "Study of diseases",
+        "D": "Study of cells",
+        "answer": "B",
+        "funFact": "Physiology is the study of how the body and its parts function."
+    },
+    {
+        "question": "What is the function of the heart?",
+        "A": "Filter blood",
+        "B": "Pump blood throughout the body",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The heart pumps blood throughout the body, delivering oxygen and nutrients to tissues."
+    },
+    {
+        "question": "What is the normal resting heart rate for adults?",
+        "A": "40-60 bpm",
+        "B": "60-100 bpm",
+        "C": "100-120 bpm",
+        "D": "120-140 bpm",
+        "answer": "B",
+        "funFact": "The normal resting heart rate for adults is 60-100 beats per minute."
+    },
+    {
+        "question": "What is the function of the respiratory system?",
+        "A": "Pump blood",
+        "B": "Exchange oxygen and carbon dioxide",
+        "C": "Digest food",
+        "D": "Filter waste",
+        "answer": "B",
+        "funFact": "The respiratory system exchanges oxygen from the air with carbon dioxide from the blood."
+    },
+    {
+        "question": "What is metabolism?",
+        "A": "Breathing",
+        "B": "Chemical processes in the body",
+        "C": "Heartbeat",
+        "D": "Digestion",
+        "answer": "B",
+        "funFact": "Metabolism refers to all chemical processes that occur in the body to maintain life."
+    },
+    {
+        "question": "What is homeostasis?",
+        "A": "Disease",
+        "B": "Maintaining stable internal conditions",
+        "C": "Growth",
+        "D": "Reproduction",
+        "answer": "B",
+        "funFact": "Homeostasis is the body's ability to maintain stable internal conditions despite external changes."
+    },
+    {
+        "question": "What is the function of the digestive system?",
+        "A": "Pump blood",
+        "B": "Break down food and absorb nutrients",
+        "C": "Exchange gases",
+        "D": "Filter waste",
+        "answer": "B",
+        "funFact": "The digestive system breaks down food into nutrients that can be absorbed and used by the body."
+    },
+    {
+        "question": "What is blood pressure?",
+        "A": "Heart rate",
+        "B": "Force of blood against artery walls",
+        "C": "Blood volume",
+        "D": "Blood type",
+        "answer": "B",
+        "funFact": "Blood pressure is the force of blood pushing against the walls of arteries as the heart pumps."
+    },
+    {
+        "question": "What is the function of the nervous system?",
+        "A": "Pump blood",
+        "B": "Transmit signals and coordinate body functions",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The nervous system transmits signals throughout the body to coordinate functions and respond to stimuli."
+    },
+    {
+        "question": "What is the function of the endocrine system?",
+        "A": "Pump blood",
+        "B": "Produce and secrete hormones",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The endocrine system produces and secretes hormones that regulate various body functions."
+    },
+    {
+        "question": "What is the function of the immune system?",
+        "A": "Pump blood",
+        "B": "Defend against pathogens",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The immune system defends the body against harmful pathogens and foreign substances."
+    },
+    {
+        "question": "What is the function of the skeletal system?",
+        "A": "Pump blood",
+        "B": "Provide support and protection",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The skeletal system provides support, protection, and enables movement through attachment of muscles."
+    },
+    {
+        "question": "What is the function of the muscular system?",
+        "A": "Pump blood",
+        "B": "Enable movement",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The muscular system enables movement, maintains posture, and generates heat."
+    },
+    {
+        "question": "What is the function of the circulatory system?",
+        "A": "Digest food",
+        "B": "Transport blood and nutrients",
+        "C": "Exchange gases",
+        "D": "Filter waste",
+        "answer": "B",
+        "funFact": "The circulatory system transports blood, oxygen, nutrients, and waste products throughout the body."
+    },
+    {
+        "question": "What is the function of the urinary system?",
+        "A": "Pump blood",
+        "B": "Filter blood and produce urine",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The urinary system filters waste products from the blood and produces urine to remove them."
+    },
+    {
+        "question": "What is the function of the integumentary system?",
+        "A": "Pump blood",
+        "B": "Protect the body",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The integumentary system (skin, hair, nails) protects the body from external damage and regulates temperature."
+    },
+    {
+        "question": "What is the function of the lymphatic system?",
+        "A": "Pump blood",
+        "B": "Drain fluid and fight infection",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The lymphatic system drains excess fluid, transports fats, and helps fight infection."
+    },
+    {
+        "question": "What is the function of the reproductive system?",
+        "A": "Pump blood",
+        "B": "Produce offspring",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The reproductive system produces gametes and enables reproduction."
+    },
+    {
+        "question": "What is the function of the respiratory system?",
+        "A": "Pump blood",
+        "B": "Exchange gases",
+        "C": "Digest food",
+        "D": "Filter waste",
+        "answer": "B",
+        "funFact": "The respiratory system brings in oxygen and removes carbon dioxide from the body."
+    },
+    {
+        "question": "What is the study of body function called?",
+        "A": "Anatomy",
+        "B": "Physiology",
+        "C": "Pathology",
+        "D": "Biology",
+        "answer": "B",
+        "funFact": "Physiology is the study of how the body functions, while anatomy studies structure."
+    }
+]

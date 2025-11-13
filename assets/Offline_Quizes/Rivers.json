@@ -1,93 +1,182 @@
 [
     {
-      "question": "What is the longest river in the world?",
-      "A": "Amazon River",
-      "B": "Nile River",
-      "C": "Mississippi River",
-      "D": "Yangtze River",
-      "answer": "B",
-      "funFact": "The Nile River is the longest river in the world at approximately 4,135 miles (6,650 km), flowing through 11 countries in northeastern Africa."
+        "question": "What is the longest river in the world?",
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Yangtze",
+        "D": "Mississippi",
+        "answer": "B",
+        "funFact": "The Nile River is the longest river in the world, flowing about 4,135 miles through northeastern Africa."
     },
     {
-      "question": "What is the largest river by volume in the world?",
-      "A": "Nile River",
-      "B": "Amazon River",
-      "C": "Mississippi River",
-      "D": "Yangtze River",
-      "answer": "B",
-      "funFact": "The Amazon River is the largest river by volume, discharging more water than the next seven largest rivers combined. It carries about 20% of the world's river water."
+        "question": "What is the longest river in North America?",
+        "A": "Mississippi",
+        "B": "Missouri",
+        "C": "Colorado",
+        "D": "Rio Grande",
+        "answer": "A",
+        "funFact": "The Mississippi River is the longest river in North America, flowing about 2,320 miles from Minnesota to the Gulf of Mexico."
     },
     {
-      "question": "What river flows through Egypt?",
-      "A": "Tigris River",
-      "B": "Euphrates River",
-      "C": "Nile River",
-      "D": "Jordan River",
-      "answer": "C",
-      "funFact": "The Nile River flows through Egypt and has been the lifeblood of Egyptian civilization for thousands of years, providing water and fertile soil."
+        "question": "What is the longest river in Asia?",
+        "A": "Ganges",
+        "B": "Yangtze",
+        "C": "Yellow River",
+        "D": "Mekong",
+        "answer": "B",
+        "funFact": "The Yangtze River is the longest river in Asia, flowing about 3,915 miles through China."
     },
     {
-      "question": "What is the longest river in the United States?",
-      "A": "Colorado River",
-      "B": "Missouri River",
-      "C": "Mississippi River",
-      "D": "Rio Grande",
-      "answer": "C",
-      "funFact": "The Mississippi River is the longest river in the United States, flowing approximately 2,320 miles from Minnesota to the Gulf of Mexico."
+        "question": "What is the longest river in South America?",
+        "A": "Amazon",
+        "B": "Paraná",
+        "C": "Orinoco",
+        "D": "Madeira",
+        "answer": "A",
+        "funFact": "The Amazon River is the longest river in South America and has the largest drainage basin in the world."
     },
     {
-      "question": "What river flows through London?",
-      "A": "Seine River",
-      "B": "Thames River",
-      "C": "Rhine River",
-      "D": "Danube River",
-      "answer": "B",
-      "funFact": "The Thames River flows through London, England. It's the longest river entirely in England and has been central to London's history and development."
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River geography",
+        "C": "Potamology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through geography, hydrology, and potamology (the study of rivers)."
     },
     {
-      "question": "What river flows through Paris?",
-      "A": "Thames River",
-      "B": "Seine River",
-      "C": "Rhine River",
-      "D": "Loire River",
-      "answer": "B",
-      "funFact": "The Seine River flows through Paris, France. Many of Paris's famous landmarks, including the Eiffel Tower and Notre-Dame, are located along its banks."
+        "question": "What is the importance of rivers?",
+        "A": "Not important",
+        "B": "Water supply, transportation, and ecosystems",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Rivers provide water for drinking, agriculture, and industry; enable transportation; and support diverse ecosystems."
     },
     {
-      "question": "What is the longest river in Asia?",
-      "A": "Ganges River",
-      "B": "Yangtze River",
-      "C": "Yellow River",
-      "D": "Mekong River",
-      "answer": "B",
-      "funFact": "The Yangtze River (Chang Jiang) is the longest river in Asia and China, flowing 3,915 miles from the Tibetan Plateau to the East China Sea."
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River ecology",
+        "C": "Hydrology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through hydrology, ecology, and geography."
     },
     {
-      "question": "What river is considered sacred in India?",
-      "A": "Indus River",
-      "B": "Ganges River",
-      "C": "Brahmaputra River",
-      "D": "Yamuna River",
-      "answer": "B",
-      "funFact": "The Ganges River is considered the most sacred river in India. Millions of Hindus bathe in its waters, believing it purifies the soul."
+        "question": "What is the impact of rivers?",
+        "A": "No impact",
+        "B": "Essential for human civilization and ecosystems",
+        "C": "Minor changes",
+        "D": "Only affects some regions",
+        "answer": "B",
+        "funFact": "Rivers have been essential for human civilization, providing water, transportation, and fertile land for agriculture."
     },
     {
-      "question": "What river forms part of the border between the United States and Mexico?",
-      "A": "Colorado River",
-      "B": "Rio Grande",
-      "C": "Mississippi River",
-      "D": "Columbia River",
-      "answer": "B",
-      "funFact": "The Rio Grande forms part of the border between the United States and Mexico, flowing approximately 1,900 miles from Colorado to the Gulf of Mexico."
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River studies",
+        "C": "Geography",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through geography, hydrology, and environmental science."
     },
     {
-      "question": "What is the name for where a river begins?",
-      "A": "Mouth",
-      "B": "Delta",
-      "C": "Source",
-      "D": "Estuary",
-      "answer": "C",
-      "funFact": "The source (or headwaters) is where a river begins, often in mountains or highlands. The mouth is where a river flows into a larger body of water."
+        "question": "What is the importance of rivers?",
+        "A": "Not important",
+        "B": "Ecological and economic significance",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Rivers have ecological and economic significance, supporting life and enabling trade and agriculture."
+    },
+    {
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River geography",
+        "C": "Water studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through geography, hydrology, and water resource management."
+    },
+    {
+        "question": "What is the impact of rivers?",
+        "A": "No impact",
+        "B": "Shaping landscapes and supporting life",
+        "C": "Minor changes",
+        "D": "Only affects rivers",
+        "answer": "B",
+        "funFact": "Rivers shape landscapes through erosion and deposition, and support diverse plant and animal life."
+    },
+    {
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River research",
+        "C": "Geographic studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through geography, hydrology, and environmental research."
+    },
+    {
+        "question": "What is the importance of rivers?",
+        "A": "Not important",
+        "B": "Water resources and biodiversity",
+        "C": "Minor importance",
+        "D": "Only for some regions",
+        "answer": "B",
+        "funFact": "Rivers are crucial water resources and support rich biodiversity, making them vital for ecosystems and human life."
+    },
+    {
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River studies",
+        "C": "Hydrological research",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through geography, hydrology, and environmental science, exploring their flow and ecosystems."
+    },
+    {
+        "question": "What is the impact of rivers?",
+        "A": "No impact",
+        "B": "Fundamental for ecosystems and human societies",
+        "C": "Minor changes",
+        "D": "Only affects some areas",
+        "answer": "B",
+        "funFact": "Rivers are fundamental for ecosystems and human societies, providing water, food, and transportation routes."
+    },
+    {
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River geography",
+        "C": "Environmental studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through geography, hydrology, and environmental research."
+    },
+    {
+        "question": "What is the importance of rivers?",
+        "A": "Not important",
+        "B": "Essential for life and civilization",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Rivers are essential for life and civilization, providing water, food, transportation, and supporting agriculture."
+    },
+    {
+        "question": "What is the study of rivers called?",
+        "A": "Riverology",
+        "B": "River research",
+        "C": "Geographic studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rivers are studied through geography, hydrology, and environmental science, understanding their importance and ecosystems."
+    },
+    {
+        "question": "What is the impact of rivers?",
+        "A": "No impact",
+        "B": "Major influence on geography and human history",
+        "C": "Minor changes",
+        "D": "Only affects rivers",
+        "answer": "B",
+        "funFact": "Rivers have had a major influence on geography, human history, and the development of civilizations throughout time."
     }
 ]
-

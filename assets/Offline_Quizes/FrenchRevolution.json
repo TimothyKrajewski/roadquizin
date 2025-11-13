@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the French Revolution?",
+        "A": "A war",
+        "B": "A period of radical change in France",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The French Revolution (1789-1799) was a period of radical political and social change in France."
+    },
+    {
+        "question": "What was the Bastille?",
+        "A": "A palace",
+        "B": "A prison fortress",
+        "C": "A church",
+        "D": "A school",
+        "answer": "B",
+        "funFact": "The Bastille was a prison fortress in Paris, and its storming on July 14, 1789, marked the start of the revolution."
+    },
+    {
+        "question": "What was the motto of the French Revolution?",
+        "A": "Liberty, Equality, Fraternity",
+        "B": "Life, Liberty, Property",
+        "C": "Peace, Love, Unity",
+        "D": "Freedom, Justice, Peace",
+        "answer": "A",
+        "funFact": "'Liberty, Equality, Fraternity' (Liberté, Égalité, Fraternité) was the motto of the French Revolution."
+    },
+    {
+        "question": "What was the Reign of Terror?",
+        "A": "A peaceful period",
+        "B": "A period of mass executions",
+        "C": "A celebration",
+        "D": "A war",
+        "answer": "B",
+        "funFact": "The Reign of Terror (1793-1794) was a period of mass executions during the revolution, led by Robespierre."
+    },
+    {
+        "question": "What was the guillotine?",
+        "A": "A weapon",
+        "B": "A device for execution",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The guillotine was a device used for executions during the revolution, designed to be a more humane method."
+    },
+    {
+        "question": "What was the study of the French Revolution called?",
+        "A": "Frenchology",
+        "B": "History",
+        "C": "Revolutionary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The French Revolution is studied through history, political science, and revolutionary studies."
+    },
+    {
+        "question": "What was the period of the French Revolution?",
+        "A": "1776-1783",
+        "B": "1789-1799",
+        "C": "1800-1810",
+        "D": "1810-1820",
+        "answer": "B",
+        "funFact": "The French Revolution lasted from 1789 to 1799, ending with Napoleon's rise to power."
+    },
+    {
+        "question": "What was the Estates-General?",
+        "A": "A building",
+        "B": "A representative assembly",
+        "C": "A war",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The Estates-General was a representative assembly of the three estates (clergy, nobility, commoners) called in 1789."
+    },
+    {
+        "question": "What was the Third Estate?",
+        "A": "Nobles",
+        "B": "Commoners",
+        "C": "Clergy",
+        "D": "Royalty",
+        "answer": "B",
+        "funFact": "The Third Estate was the commoners (peasants, workers, bourgeoisie), who made up 98% of the population."
+    },
+    {
+        "question": "What was the National Assembly?",
+        "A": "A building",
+        "B": "A revolutionary government body",
+        "C": "A war",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The National Assembly was formed by the Third Estate, declaring itself the true representative of France."
+    },
+    {
+        "question": "What was the Declaration of the Rights of Man?",
+        "A": "A war",
+        "B": "A document declaring rights",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The Declaration of the Rights of Man and of the Citizen (1789) declared fundamental rights and principles."
+    },
+    {
+        "question": "What was Louis XVI?",
+        "A": "A commoner",
+        "B": "The king executed during the revolution",
+        "C": "A revolutionary",
+        "D": "A general",
+        "answer": "B",
+        "funFact": "Louis XVI was the king of France who was executed by guillotine in 1793 during the revolution."
+    },
+    {
+        "question": "What was Marie Antoinette?",
+        "A": "A commoner",
+        "B": "The queen executed during the revolution",
+        "C": "A revolutionary",
+        "D": "A general",
+        "answer": "B",
+        "funFact": "Marie Antoinette was the queen of France, executed by guillotine in 1793, famous for saying 'Let them eat cake.'"
+    },
+    {
+        "question": "What was Robespierre?",
+        "A": "A king",
+        "B": "A revolutionary leader",
+        "C": "A general",
+        "D": "A commoner",
+        "answer": "B",
+        "funFact": "Maximilien Robespierre was a revolutionary leader who led the Reign of Terror before being executed himself."
+    },
+    {
+        "question": "What was the impact of the French Revolution?",
+        "A": "No change",
+        "B": "Ended the monarchy and transformed France",
+        "C": "Minor changes",
+        "D": "Only affected France",
+        "answer": "B",
+        "funFact": "The French Revolution ended the monarchy, established a republic, and had profound effects on France and Europe."
+    },
+    {
+        "question": "What was the Directory?",
+        "A": "A building",
+        "B": "A government after the Terror",
+        "C": "A war",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The Directory was the government that ruled France from 1795 to 1799, before Napoleon's rise."
+    },
+    {
+        "question": "What was the impact on Europe?",
+        "A": "No impact",
+        "B": "Inspired revolutions and wars",
+        "C": "Only affected France",
+        "D": "Caused peace",
+        "answer": "B",
+        "funFact": "The French Revolution inspired revolutions across Europe and led to the Napoleonic Wars."
+    },
+    {
+        "question": "What was the storming of the Bastille?",
+        "A": "A celebration",
+        "B": "The event that started the revolution",
+        "C": "The end",
+        "D": "A battle",
+        "answer": "B",
+        "funFact": "The storming of the Bastille on July 14, 1789, is considered the start of the French Revolution."
+    },
+    {
+        "question": "What was the significance of the French Revolution?",
+        "A": "No significance",
+        "B": "Marked the end of absolute monarchy",
+        "C": "Only affected France",
+        "D": "Caused no change",
+        "answer": "B",
+        "funFact": "The French Revolution marked the end of absolute monarchy in France and the rise of modern democracy."
+    },
+    {
+        "question": "What was the period of the French Revolution?",
+        "A": "1776-1783",
+        "B": "1789-1799",
+        "C": "1800-1810",
+        "D": "1810-1820",
+        "answer": "B",
+        "funFact": "The French Revolution lasted from 1789 to 1799, fundamentally changing French society and government."
+    }
+]

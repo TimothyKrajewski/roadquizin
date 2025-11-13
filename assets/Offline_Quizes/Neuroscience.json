@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is neuroscience?",
+        "A": "Study of nerves",
+        "B": "Study of the nervous system",
+        "C": "Study of muscles",
+        "D": "Study of bones",
+        "answer": "B",
+        "funFact": "Neuroscience is the scientific study of the nervous system, including the brain, spinal cord, and nerves."
+    },
+    {
+        "question": "What is the basic unit of the nervous system?",
+        "A": "Muscle cell",
+        "B": "Neuron",
+        "C": "Blood cell",
+        "D": "Skin cell",
+        "answer": "B",
+        "funFact": "The neuron is the basic unit of the nervous system, responsible for transmitting information."
+    },
+    {
+        "question": "What is the largest part of the brain?",
+        "A": "Cerebellum",
+        "B": "Brainstem",
+        "C": "Cerebrum",
+        "D": "Thalamus",
+        "answer": "C",
+        "funFact": "The cerebrum is the largest part of the brain, responsible for higher functions like thinking and memory."
+    },
+    {
+        "question": "What is the function of the cerebellum?",
+        "A": "Thinking",
+        "B": "Balance and coordination",
+        "C": "Breathing",
+        "D": "Heart rate",
+        "answer": "B",
+        "funFact": "The cerebellum controls balance, coordination, and fine motor movements."
+    },
+    {
+        "question": "What are neurotransmitters?",
+        "A": "Nerve cells",
+        "B": "Chemicals that transmit signals",
+        "C": "Brain waves",
+        "D": "Blood vessels",
+        "answer": "B",
+        "funFact": "Neurotransmitters are chemicals that transmit signals between neurons."
+    },
+    {
+        "question": "What is the brain's outer layer called?",
+        "A": "Cortex",
+        "B": "Medulla",
+        "C": "Cerebellum",
+        "D": "Thalamus",
+        "answer": "A",
+        "funFact": "The cerebral cortex is the brain's outer layer, responsible for higher cognitive functions."
+    },
+    {
+        "question": "What is a synapse?",
+        "A": "A type of neuron",
+        "B": "The gap between neurons",
+        "C": "A brain region",
+        "D": "A neurotransmitter",
+        "answer": "B",
+        "funFact": "A synapse is the small gap between neurons where neurotransmitters transmit signals."
+    },
+    {
+        "question": "What is the function of the brainstem?",
+        "A": "Thinking",
+        "B": "Basic life functions",
+        "C": "Memory",
+        "D": "Vision",
+        "answer": "B",
+        "funFact": "The brainstem controls basic life functions like breathing, heart rate, and blood pressure."
+    },
+    {
+        "question": "What is memory?",
+        "A": "A type of neuron",
+        "B": "The ability to store and recall information",
+        "C": "A brain region",
+        "D": "A neurotransmitter",
+        "answer": "B",
+        "funFact": "Memory is the brain's ability to encode, store, and retrieve information."
+    },
+    {
+        "question": "What is the hippocampus?",
+        "A": "A type of neuron",
+        "B": "A brain region important for memory",
+        "C": "A neurotransmitter",
+        "D": "A brain wave",
+        "answer": "B",
+        "funFact": "The hippocampus is a brain region crucial for forming and storing memories."
+    },
+    {
+        "question": "What is plasticity in the brain?",
+        "A": "The brain is rigid",
+        "B": "The brain's ability to change and adapt",
+        "C": "The brain is plastic",
+        "D": "The brain doesn't change",
+        "answer": "B",
+        "funFact": "Neuroplasticity is the brain's ability to reorganize and form new neural connections throughout life."
+    },
+    {
+        "question": "What is dopamine?",
+        "A": "A type of neuron",
+        "B": "A neurotransmitter",
+        "C": "A brain region",
+        "D": "A brain wave",
+        "answer": "B",
+        "funFact": "Dopamine is a neurotransmitter associated with pleasure, reward, and motivation."
+    },
+    {
+        "question": "What is the spinal cord?",
+        "A": "A bone",
+        "B": "A bundle of nerves",
+        "C": "A muscle",
+        "D": "A blood vessel",
+        "answer": "B",
+        "funFact": "The spinal cord is a bundle of nerves that connects the brain to the rest of the body."
+    },
+    {
+        "question": "What is an EEG?",
+        "A": "A brain scan",
+        "B": "A test that measures brain activity",
+        "C": "A type of neuron",
+        "D": "A neurotransmitter",
+        "answer": "B",
+        "funFact": "An EEG (electroencephalogram) measures electrical activity in the brain."
+    },
+    {
+        "question": "What is the function of the frontal lobe?",
+        "A": "Vision",
+        "B": "Reasoning and decision-making",
+        "C": "Hearing",
+        "D": "Balance",
+        "answer": "B",
+        "funFact": "The frontal lobe is responsible for reasoning, planning, and decision-making."
+    },
+    {
+        "question": "What is Alzheimer's disease?",
+        "A": "A type of neuron",
+        "B": "A neurodegenerative disease",
+        "C": "A neurotransmitter",
+        "D": "A brain region",
+        "answer": "B",
+        "funFact": "Alzheimer's disease is a neurodegenerative condition that causes memory loss and cognitive decline."
+    },
+    {
+        "question": "What is a reflex?",
+        "A": "A conscious action",
+        "B": "An automatic response",
+        "C": "A thought",
+        "D": "A memory",
+        "answer": "B",
+        "funFact": "A reflex is an automatic, involuntary response to a stimulus."
+    },
+    {
+        "question": "What is serotonin?",
+        "A": "A type of neuron",
+        "B": "A neurotransmitter",
+        "C": "A brain region",
+        "D": "A brain wave",
+        "answer": "B",
+        "funFact": "Serotonin is a neurotransmitter that regulates mood, sleep, and appetite."
+    },
+    {
+        "question": "What is the corpus callosum?",
+        "A": "A type of neuron",
+        "B": "A bundle of fibers connecting brain hemispheres",
+        "C": "A neurotransmitter",
+        "D": "A brain wave",
+        "answer": "B",
+        "funFact": "The corpus callosum is a bundle of nerve fibers that connects the left and right brain hemispheres."
+    },
+    {
+        "question": "What is the study of brain and behavior called?",
+        "A": "Biology",
+        "B": "Psychology",
+        "C": "Neuroscience",
+        "D": "Chemistry",
+        "answer": "C",
+        "funFact": "Neuroscience is the interdisciplinary study of the nervous system and its relationship to behavior."
+    }
+]

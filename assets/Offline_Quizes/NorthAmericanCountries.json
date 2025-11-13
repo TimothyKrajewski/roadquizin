@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the capital of Canada?",
+        "A": "Toronto",
+        "B": "Vancouver",
+        "C": "Ottawa",
+        "D": "Montreal",
+        "answer": "C",
+        "funFact": "Ottawa is the capital of Canada, located on the border between Ontario and Quebec provinces."
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "A": "Guadalajara",
+        "B": "Mexico City",
+        "C": "Monterrey",
+        "D": "Puebla",
+        "answer": "B",
+        "funFact": "Mexico City is the capital of Mexico, built on the site of the ancient Aztec capital of Tenochtitlan."
+    },
+    {
+        "question": "What is the capital of United States?",
+        "A": "New York",
+        "B": "Los Angeles",
+        "C": "Washington, D.C.",
+        "D": "Chicago",
+        "answer": "C",
+        "funFact": "Washington, D.C. is the capital of the United States, not part of any state, and purpose-built as the capital."
+    },
+    {
+        "question": "What is the capital of Guatemala?",
+        "A": "Quetzaltenango",
+        "B": "Guatemala City",
+        "C": "Escuintla",
+        "D": "Mixco",
+        "answer": "B",
+        "funFact": "Guatemala City is the capital and largest city of Guatemala."
+    },
+    {
+        "question": "What is the capital of Cuba?",
+        "A": "Santiago de Cuba",
+        "B": "Havana",
+        "C": "Camagüey",
+        "D": "Holguín",
+        "answer": "B",
+        "funFact": "Havana is the capital of Cuba, known for its historic architecture and vibrant culture."
+    },
+    {
+        "question": "What is the capital of Jamaica?",
+        "A": "Montego Bay",
+        "B": "Kingston",
+        "C": "Spanish Town",
+        "D": "Portmore",
+        "answer": "B",
+        "funFact": "Kingston is the capital and largest city of Jamaica, located on the southeastern coast."
+    },
+    {
+        "question": "What is the capital of Costa Rica?",
+        "A": "San José",
+        "B": "Cartago",
+        "C": "Alajuela",
+        "D": "Heredia",
+        "answer": "A",
+        "funFact": "San José is the capital of Costa Rica, located in the Central Valley."
+    },
+    {
+        "question": "What is the capital of Panama?",
+        "A": "Colón",
+        "B": "Panama City",
+        "C": "David",
+        "D": "Santiago",
+        "answer": "B",
+        "funFact": "Panama City is the capital of Panama, located at the Pacific entrance of the Panama Canal."
+    },
+    {
+        "question": "What is the capital of Dominican Republic?",
+        "A": "Santiago",
+        "B": "Santo Domingo",
+        "C": "La Romana",
+        "D": "San Pedro de Macorís",
+        "answer": "B",
+        "funFact": "Santo Domingo is the capital of the Dominican Republic and the oldest continuously inhabited European settlement in the Americas."
+    },
+    {
+        "question": "What is the capital of Haiti?",
+        "A": "Cap-Haïtien",
+        "B": "Port-au-Prince",
+        "C": "Gonaïves",
+        "D": "Les Cayes",
+        "answer": "B",
+        "funFact": "Port-au-Prince is the capital and largest city of Haiti, located on the Gulf of Gonâve."
+    },
+    {
+        "question": "What is the capital of Honduras?",
+        "A": "San Pedro Sula",
+        "B": "Tegucigalpa",
+        "C": "La Ceiba",
+        "D": "Choloma",
+        "answer": "B",
+        "funFact": "Tegucigalpa is the capital of Honduras, located in a mountain valley."
+    },
+    {
+        "question": "What is the capital of El Salvador?",
+        "A": "Santa Ana",
+        "B": "San Salvador",
+        "C": "Soyapango",
+        "D": "San Miguel",
+        "answer": "B",
+        "funFact": "San Salvador is the capital of El Salvador, located in a valley at the foot of the San Salvador volcano."
+    },
+    {
+        "question": "What is the capital of Nicaragua?",
+        "A": "León",
+        "B": "Managua",
+        "C": "Masaya",
+        "D": "Granada",
+        "answer": "B",
+        "funFact": "Managua is the capital of Nicaragua, located on the southwestern shore of Lake Managua."
+    },
+    {
+        "question": "What is the capital of Belize?",
+        "A": "Belize City",
+        "B": "Belmopan",
+        "C": "San Ignacio",
+        "D": "Orange Walk",
+        "answer": "B",
+        "funFact": "Belmopan is the capital of Belize, built inland in 1970 after Hurricane Hattie damaged Belize City."
+    },
+    {
+        "question": "What is the capital of Trinidad and Tobago?",
+        "A": "San Fernando",
+        "B": "Port of Spain",
+        "C": "Chaguanas",
+        "D": "Arima",
+        "answer": "B",
+        "funFact": "Port of Spain is the capital of Trinidad and Tobago, located on the island of Trinidad."
+    },
+    {
+        "question": "What is the capital of Barbados?",
+        "A": "Speightstown",
+        "B": "Bridgetown",
+        "C": "Oistins",
+        "D": "Holetown",
+        "answer": "B",
+        "funFact": "Bridgetown is the capital of Barbados, located on the southwestern coast of the island."
+    },
+    {
+        "question": "What is the capital of Bahamas?",
+        "A": "Freeport",
+        "B": "Nassau",
+        "C": "Marsh Harbour",
+        "D": "George Town",
+        "answer": "B",
+        "funFact": "Nassau is the capital of the Bahamas, located on the island of New Providence."
+    },
+    {
+        "question": "What is the capital of Antigua and Barbuda?",
+        "A": "All Saints",
+        "B": "Saint John's",
+        "C": "Liberta",
+        "D": "Piggotts",
+        "answer": "B",
+        "funFact": "Saint John's is the capital of Antigua and Barbuda, located on the island of Antigua."
+    },
+    {
+        "question": "What is the capital of Saint Lucia?",
+        "A": "Vieux Fort",
+        "B": "Castries",
+        "C": "Gros Islet",
+        "D": "Soufrière",
+        "answer": "B",
+        "funFact": "Castries is the capital of Saint Lucia, located on the northwestern coast of the island."
+    },
+    {
+        "question": "What is the capital of Grenada?",
+        "A": "Gouyave",
+        "B": "Saint George's",
+        "C": "Grenville",
+        "D": "Victoria",
+        "answer": "B",
+        "funFact": "Saint George's is the capital of Grenada, located on a horseshoe-shaped harbor on the southwestern coast."
+    }
+]

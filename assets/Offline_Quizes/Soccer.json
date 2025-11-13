@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many players are on a soccer team on the field at once?",
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12",
+        "answer": "C",
+        "funFact": "Each soccer team has 11 players on the field: 1 goalkeeper and 10 outfield players."
+    },
+    {
+        "question": "What is the duration of a standard soccer match?",
+        "A": "80 minutes",
+        "B": "90 minutes",
+        "C": "100 minutes",
+        "D": "120 minutes",
+        "answer": "B",
+        "funFact": "A standard soccer match consists of two 45-minute halves, totaling 90 minutes of play."
+    },
+    {
+        "question": "What is the penalty area also called?",
+        "A": "The box",
+        "B": "The 18-yard box",
+        "C": "The penalty box",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The penalty area is commonly called 'the box' or 'the 18-yard box' and is where fouls can result in penalty kicks."
+    },
+    {
+        "question": "What is a hat-trick in soccer?",
+        "A": "Three goals in one game",
+        "B": "Three assists",
+        "C": "Three saves",
+        "D": "Three yellow cards",
+        "answer": "A",
+        "funFact": "A hat-trick is when a player scores three goals in a single match."
+    },
+    {
+        "question": "What is the offside rule?",
+        "A": "A player behind the ball",
+        "B": "A player ahead of the ball and second-to-last defender",
+        "C": "A player in the penalty area",
+        "D": "A player out of bounds",
+        "answer": "B",
+        "funFact": "A player is offside if they are ahead of the ball and the second-to-last defender when the ball is played."
+    },
+    {
+        "question": "What is the World Cup?",
+        "A": "A club tournament",
+        "B": "International soccer championship",
+        "C": "A league",
+        "D": "A friendly match",
+        "answer": "B",
+        "funFact": "The FIFA World Cup is the most prestigious international soccer tournament, held every four years."
+    },
+    {
+        "question": "What is a yellow card?",
+        "A": "A warning",
+        "B": "An ejection",
+        "C": "A goal",
+        "D": "A substitution",
+        "answer": "A",
+        "funFact": "A yellow card is a caution given to a player for misconduct. Two yellow cards result in a red card."
+    },
+    {
+        "question": "What is a red card?",
+        "A": "A warning",
+        "B": "An ejection from the game",
+        "C": "A goal",
+        "D": "A timeout",
+        "answer": "B",
+        "funFact": "A red card means immediate ejection from the game and the team must play with one fewer player."
+    },
+    {
+        "question": "What is the center circle used for?",
+        "A": "Kickoff",
+        "B": "Penalty kicks",
+        "C": "Corner kicks",
+        "D": "Throw-ins",
+        "answer": "A",
+        "funFact": "The center circle is where the game starts at kickoff and after each goal."
+    },
+    {
+        "question": "What is a corner kick?",
+        "A": "A kick from the corner",
+        "B": "A restart when ball goes out over goal line",
+        "C": "A penalty",
+        "D": "A free kick",
+        "answer": "B",
+        "funFact": "A corner kick is awarded when the ball goes out of play over the goal line, last touched by the defending team."
+    },
+    {
+        "question": "What is the penalty spot distance from goal?",
+        "A": "10 yards",
+        "B": "12 yards",
+        "C": "15 yards",
+        "D": "18 yards",
+        "answer": "B",
+        "funFact": "The penalty spot is 12 yards (11 meters) from the goal line."
+    },
+    {
+        "question": "What is a free kick?",
+        "A": "A kick with no restrictions",
+        "B": "A restart after a foul",
+        "C": "A goal kick",
+        "D": "A corner kick",
+        "answer": "B",
+        "funFact": "A free kick is awarded after a foul and can be direct (can score) or indirect (must touch another player first)."
+    },
+    {
+        "question": "What is the goalkeeper's main role?",
+        "A": "Score goals",
+        "B": "Prevent goals",
+        "C": "Take corners",
+        "D": "Take throw-ins",
+        "answer": "B",
+        "funFact": "The goalkeeper's primary role is to prevent the opposing team from scoring by defending the goal."
+    },
+    {
+        "question": "What is extra time?",
+        "A": "Time added for stoppages",
+        "B": "Additional periods after a tie",
+        "C": "Half-time",
+        "D": "Warm-up time",
+        "answer": "B",
+        "funFact": "Extra time consists of two 15-minute periods played when a match is tied after 90 minutes."
+    },
+    {
+        "question": "What is a penalty shootout?",
+        "A": "A type of foul",
+        "B": "Tiebreaker using penalty kicks",
+        "C": "A training exercise",
+        "D": "A celebration",
+        "answer": "B",
+        "funFact": "A penalty shootout is used to decide a winner when a match is still tied after extra time."
+    },
+    {
+        "question": "What is the offside trap?",
+        "A": "A defensive strategy",
+        "B": "An offensive play",
+        "C": "A type of foul",
+        "D": "A substitution",
+        "answer": "A",
+        "funFact": "The offside trap is a defensive tactic where defenders move forward to catch attackers offside."
+    },
+    {
+        "question": "What is a nutmeg?",
+        "A": "A type of pass",
+        "B": "Kicking ball through opponent's legs",
+        "C": "A goal",
+        "D": "A foul",
+        "answer": "B",
+        "funFact": "A nutmeg is when a player kicks the ball through an opponent's legs, considered a skillful move."
+    },
+    {
+        "question": "What is the Champions League?",
+        "A": "A national league",
+        "B": "European club competition",
+        "C": "A friendly tournament",
+        "D": "A youth league",
+        "answer": "B",
+        "funFact": "The UEFA Champions League is Europe's premier club competition, featuring the best teams from each country."
+    },
+    {
+        "question": "What is a bicycle kick?",
+        "A": "A type of pass",
+        "B": "An acrobatic overhead kick",
+        "C": "A foul",
+        "D": "A celebration",
+        "answer": "B",
+        "funFact": "A bicycle kick is an acrobatic move where a player kicks the ball overhead while in mid-air."
+    },
+    {
+        "question": "What is the Golden Boot?",
+        "A": "A trophy",
+        "B": "Award for top goal scorer",
+        "C": "A type of shoe",
+        "D": "A tournament",
+        "answer": "B",
+        "funFact": "The Golden Boot is awarded to the top goal scorer in a league or tournament."
+    }
+]

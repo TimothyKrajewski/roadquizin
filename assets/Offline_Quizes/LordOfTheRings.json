@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who wrote The Lord of the Rings?",
+        "A": "J.K. Rowling",
+        "B": "J.R.R. Tolkien",
+        "C": "C.S. Lewis",
+        "D": "George R.R. Martin",
+        "answer": "B",
+        "funFact": "J.R.R. Tolkien wrote The Lord of the Rings trilogy, published between 1954 and 1955."
+    },
+    {
+        "question": "What is the name of the ring?",
+        "A": "The Golden Ring",
+        "B": "The One Ring",
+        "C": "The Magic Ring",
+        "D": "The Power Ring",
+        "answer": "B",
+        "funFact": "The One Ring is the central artifact of The Lord of the Rings, created by Sauron to control the other rings."
+    },
+    {
+        "question": "What is the inscription on the ring?",
+        "A": "One ring to rule them all",
+        "B": "One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them",
+        "C": "Power and glory",
+        "D": "Magic and might",
+        "answer": "B",
+        "funFact": "The ring's inscription in Black Speech reads: 'One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.'"
+    },
+    {
+        "question": "Who is Frodo Baggins?",
+        "A": "A wizard",
+        "B": "The hobbit who carries the ring",
+        "C": "An elf",
+        "D": "A dwarf",
+        "answer": "B",
+        "funFact": "Frodo Baggins is the hobbit chosen to carry the One Ring to Mount Doom to destroy it."
+    },
+    {
+        "question": "What is the name of Frodo's home?",
+        "A": "Rivendell",
+        "B": "The Shire",
+        "C": "Gondor",
+        "D": "Mordor",
+        "answer": "B",
+        "funFact": "The Shire is the peaceful homeland of the hobbits, where Frodo lives in Bag End."
+    },
+    {
+        "question": "Who is Gandalf?",
+        "A": "A hobbit",
+        "B": "A wizard",
+        "C": "An elf",
+        "D": "A dwarf",
+        "answer": "B",
+        "funFact": "Gandalf is a wizard and member of the Fellowship who guides and protects the hobbits."
+    },
+    {
+        "question": "What is Mount Doom?",
+        "A": "A mountain in the Shire",
+        "B": "The volcano where the ring must be destroyed",
+        "C": "A mountain in Rivendell",
+        "D": "A mountain in Gondor",
+        "answer": "B",
+        "funFact": "Mount Doom (Orodruin) is the volcano in Mordor where the One Ring was forged and must be destroyed."
+    },
+    {
+        "question": "Who is Sauron?",
+        "A": "A hobbit",
+        "B": "The Dark Lord",
+        "C": "A wizard",
+        "D": "An elf",
+        "answer": "B",
+        "funFact": "Sauron is the Dark Lord who created the One Ring and seeks to rule Middle-earth."
+    },
+    {
+        "question": "What is the Fellowship of the Ring?",
+        "A": "A single person",
+        "B": "The group formed to destroy the ring",
+        "C": "A place",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "The Fellowship of the Ring consists of nine members: four hobbits, two men, one elf, one dwarf, and one wizard."
+    },
+    {
+        "question": "Who is Aragorn?",
+        "A": "A hobbit",
+        "B": "The rightful king of Gondor",
+        "C": "A wizard",
+        "D": "An elf",
+        "answer": "B",
+        "funFact": "Aragorn is the heir to the throne of Gondor and becomes King Elessar at the end of the story."
+    },
+    {
+        "question": "What is Rivendell?",
+        "A": "A hobbit home",
+        "B": "An elven realm",
+        "C": "A human city",
+        "D": "A dwarf kingdom",
+        "answer": "B",
+        "funFact": "Rivendell is an elven realm ruled by Elrond, where the Fellowship is formed."
+    },
+    {
+        "question": "Who is Gollum?",
+        "A": "A hobbit",
+        "B": "A creature corrupted by the ring",
+        "C": "A wizard",
+        "D": "An elf",
+        "answer": "B",
+        "funFact": "Gollum (formerly Sméagol) is a creature corrupted by the One Ring, who guides Frodo to Mount Doom."
+    },
+    {
+        "question": "What is Mordor?",
+        "A": "A peaceful land",
+        "B": "Sauron's dark realm",
+        "C": "The Shire",
+        "D": "Rivendell",
+        "answer": "B",
+        "funFact": "Mordor is Sauron's dark realm in the east, where Mount Doom is located."
+    },
+    {
+        "question": "Who is Legolas?",
+        "A": "A hobbit",
+        "B": "An elf",
+        "C": "A dwarf",
+        "D": "A wizard",
+        "answer": "B",
+        "funFact": "Legolas is an elven archer and member of the Fellowship, known for his exceptional archery skills."
+    },
+    {
+        "question": "Who is Gimli?",
+        "A": "A hobbit",
+        "B": "A dwarf",
+        "C": "An elf",
+        "D": "A wizard",
+        "answer": "B",
+        "funFact": "Gimli is a dwarf warrior and member of the Fellowship, known for his axe and friendship with Legolas."
+    },
+    {
+        "question": "What is the name of Frodo's sword?",
+        "A": "Andúril",
+        "B": "Sting",
+        "C": "Glamdring",
+        "D": "Orcrist",
+        "answer": "B",
+        "funFact": "Sting is Frodo's elven sword that glows blue when orcs are nearby."
+    },
+    {
+        "question": "What is the name of Aragorn's sword?",
+        "A": "Sting",
+        "B": "Andúril",
+        "C": "Glamdring",
+        "D": "Orcrist",
+        "answer": "B",
+        "funFact": "Andúril is Aragorn's sword, reforged from the shards of Narsil, the sword that cut the ring from Sauron's hand."
+    },
+    {
+        "question": "What are orcs?",
+        "A": "Elves",
+        "B": "Sauron's evil creatures",
+        "C": "Dwarves",
+        "D": "Hobbits",
+        "answer": "B",
+        "funFact": "Orcs are evil creatures created by Sauron and serve as his soldiers."
+    },
+    {
+        "question": "What is the name of the elven language?",
+        "A": "Black Speech",
+        "B": "Sindarin and Quenya",
+        "C": "Common Speech",
+        "D": "Dwarvish",
+        "answer": "B",
+        "funFact": "Tolkien created multiple elven languages, primarily Sindarin and Quenya, with complete grammar and vocabulary."
+    },
+    {
+        "question": "What is the name of the trilogy?",
+        "A": "The Hobbit",
+        "B": "The Lord of the Rings",
+        "C": "The Silmarillion",
+        "D": "The Children of Húrin",
+        "answer": "B",
+        "funFact": "The Lord of the Rings consists of three volumes: The Fellowship of the Ring, The Two Towers, and The Return of the King."
+    }
+]

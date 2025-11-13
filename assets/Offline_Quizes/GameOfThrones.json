@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who wrote A Song of Ice and Fire (Game of Thrones)?",
+        "A": "J.K. Rowling",
+        "B": "George R.R. Martin",
+        "C": "J.R.R. Tolkien",
+        "D": "Stephen King",
+        "answer": "B",
+        "funFact": "George R.R. Martin wrote A Song of Ice and Fire, which was adapted into the Game of Thrones TV series."
+    },
+    {
+        "question": "What is the name of the main continent?",
+        "A": "Essos",
+        "B": "Westeros",
+        "C": "Sothoryos",
+        "D": "Ulthos",
+        "answer": "B",
+        "funFact": "Westeros is the main continent where most of the story takes place, divided into the Seven Kingdoms."
+    },
+    {
+        "question": "What is the Iron Throne?",
+        "A": "A regular chair",
+        "B": "The throne of the Seven Kingdoms",
+        "C": "A weapon",
+        "D": "A castle",
+        "answer": "B",
+        "funFact": "The Iron Throne is the throne of the Seven Kingdoms, forged from the swords of Aegon the Conqueror's enemies."
+    },
+    {
+        "question": "What is Winterfell?",
+        "A": "A city",
+        "B": "The ancestral home of House Stark",
+        "C": "A throne",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "Winterfell is the ancestral castle of House Stark in the North, ruled by the Starks for thousands of years."
+    },
+    {
+        "question": "What is the Wall?",
+        "A": "A small barrier",
+        "B": "A massive ice wall protecting the realm",
+        "C": "A castle",
+        "D": "A city",
+        "answer": "B",
+        "funFact": "The Wall is a massive 700-foot-tall ice wall that protects the Seven Kingdoms from threats beyond."
+    },
+    {
+        "question": "Who are the Night's Watch?",
+        "A": "Soldiers",
+        "B": "Brothers who guard the Wall",
+        "C": "Kings",
+        "D": "Nobles",
+        "answer": "B",
+        "funFact": "The Night's Watch is an order of men who guard the Wall, taking vows of celibacy and service."
+    },
+    {
+        "question": "What is the motto of House Stark?",
+        "A": "Fire and Blood",
+        "B": "Winter is Coming",
+        "C": "Ours is the Fury",
+        "D": "Hear Me Roar",
+        "answer": "B",
+        "funFact": "'Winter is Coming' is the motto of House Stark, a warning about the long winters in Westeros."
+    },
+    {
+        "question": "What is the motto of House Lannister?",
+        "A": "Winter is Coming",
+        "B": "Hear Me Roar",
+        "C": "Fire and Blood",
+        "D": "Ours is the Fury",
+        "answer": "B",
+        "funFact": "'Hear Me Roar' is the motto of House Lannister, one of the wealthiest and most powerful houses."
+    },
+    {
+        "question": "What are dragons?",
+        "A": "Extinct creatures",
+        "B": "Fire-breathing creatures",
+        "C": "Myths",
+        "D": "Small animals",
+        "answer": "B",
+        "funFact": "Dragons are fire-breathing creatures that were thought to be extinct but are rediscovered by Daenerys Targaryen."
+    },
+    {
+        "question": "Who is Daenerys Targaryen?",
+        "A": "A Stark",
+        "B": "The last Targaryen, Mother of Dragons",
+        "C": "A Lannister",
+        "D": "A Baratheon",
+        "answer": "B",
+        "funFact": "Daenerys Targaryen is the last surviving member of House Targaryen and becomes the Mother of Dragons."
+    },
+    {
+        "question": "What are the White Walkers?",
+        "A": "Humans",
+        "B": "Undead ice creatures",
+        "C": "Dragons",
+        "D": "Animals",
+        "answer": "B",
+        "funFact": "The White Walkers (Others) are undead ice creatures that threaten to destroy all life in Westeros."
+    },
+    {
+        "question": "What is King's Landing?",
+        "A": "A castle",
+        "B": "The capital city",
+        "C": "A region",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "King's Landing is the capital city of the Seven Kingdoms, where the Iron Throne is located."
+    },
+    {
+        "question": "What is Valyrian steel?",
+        "A": "Regular steel",
+        "B": "Magical steel that can kill White Walkers",
+        "C": "Iron",
+        "D": "Bronze",
+        "answer": "B",
+        "funFact": "Valyrian steel is a rare, magical metal that can kill White Walkers and is used to make legendary swords."
+    },
+    {
+        "question": "What is the Red Wedding?",
+        "A": "A happy event",
+        "B": "A massacre at a wedding",
+        "C": "A regular wedding",
+        "D": "A celebration",
+        "answer": "B",
+        "funFact": "The Red Wedding is a massacre where House Stark is betrayed and murdered during a wedding celebration."
+    },
+    {
+        "question": "What are direwolves?",
+        "A": "Small dogs",
+        "B": "Large wolf companions of the Starks",
+        "C": "Dragons",
+        "D": "Horses",
+        "answer": "B",
+        "funFact": "Direwolves are large, intelligent wolves that become companions to the Stark children."
+    },
+    {
+        "question": "What is the Dothraki?",
+        "A": "A city",
+        "B": "A nomadic horse-riding people",
+        "C": "A house",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "The Dothraki are a fierce nomadic people from Essos who are expert horse riders and warriors."
+    },
+    {
+        "question": "What is the name of Jon Snow's sword?",
+        "A": "Ice",
+        "B": "Longclaw",
+        "C": "Needle",
+        "D": "Oathkeeper",
+        "answer": "B",
+        "funFact": "Longclaw is Jon Snow's Valyrian steel sword, given to him by Lord Commander Mormont of the Night's Watch."
+    },
+    {
+        "question": "What is the name of Arya Stark's sword?",
+        "A": "Ice",
+        "B": "Longclaw",
+        "C": "Needle",
+        "D": "Oathkeeper",
+        "answer": "C",
+        "funFact": "Needle is Arya Stark's small sword, given to her by Jon Snow, which she uses throughout her journey."
+    },
+    {
+        "question": "What is the name of the TV series?",
+        "A": "A Song of Ice and Fire",
+        "B": "Game of Thrones",
+        "C": "The Winds of Winter",
+        "D": "A Dream of Spring",
+        "answer": "B",
+        "funFact": "Game of Thrones is the name of the TV series adaptation of George R.R. Martin's A Song of Ice and Fire books."
+    },
+    {
+        "question": "What is the phrase 'You know nothing, Jon Snow'?",
+        "A": "A compliment",
+        "B": "A famous quote from Ygritte",
+        "C": "A threat",
+        "D": "A prophecy",
+        "answer": "B",
+        "funFact": "'You know nothing, Jon Snow' is a famous quote from Ygritte, a wildling who becomes Jon Snow's love interest."
+    }
+]

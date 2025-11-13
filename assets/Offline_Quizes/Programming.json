@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What is programming?",
+        "A": "Using a computer",
+        "B": "Writing code to create software",
+        "C": "Playing games",
+        "D": "Browsing the internet",
+        "answer": "B",
+        "funFact": "Programming is writing code (instructions) that computers can execute to create software, apps, and websites."
+    },
+    {
+        "question": "What is a programming language?",
+        "A": "Human language",
+        "B": "A language for writing code",
+        "C": "A computer",
+        "D": "A program",
+        "answer": "B",
+        "funFact": "A programming language is a formal language with syntax and rules for writing code that computers can understand and execute."
+    },
+    {
+        "question": "What is Python?",
+        "A": "A snake",
+        "B": "A popular programming language",
+        "C": "A computer",
+        "D": "A program",
+        "answer": "B",
+        "funFact": "Python is a popular, versatile programming language known for its simplicity and readability, used for web development, data science, and AI."
+    },
+    {
+        "question": "What is JavaScript?",
+        "A": "Java",
+        "B": "A programming language for web development",
+        "C": "A computer",
+        "D": "A program",
+        "answer": "B",
+        "funFact": "JavaScript is a programming language primarily used for web development, making websites interactive and dynamic."
+    },
+    {
+        "question": "What is the difference between coding and programming?",
+        "A": "They're the same",
+        "B": "Coding is writing code, programming includes design and problem-solving",
+        "C": "Programming is just coding",
+        "D": "Coding is programming",
+        "answer": "B",
+        "funFact": "Coding is writing code, while programming includes the broader process of designing, coding, testing, and debugging software."
+    },
+    {
+        "question": "What is the study of programming called?",
+        "A": "Programmingology",
+        "B": "Computer science",
+        "C": "Software engineering",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Programming is studied through computer science, software engineering, and computer programming courses."
+    },
+    {
+        "question": "What is the impact of programming?",
+        "A": "No impact",
+        "B": "Creating all software and digital technology",
+        "C": "Minor changes",
+        "D": "Only affects computers",
+        "answer": "B",
+        "funFact": "Programming creates all software, apps, websites, and digital technology that powers modern life."
+    },
+    {
+        "question": "What is the origin of programming?",
+        "A": "The 2000s",
+        "B": "The 1940s-1950s",
+        "C": "The 1960s",
+        "D": "The 1970s",
+        "answer": "B",
+        "funFact": "Programming began in the 1940s-1950s with early computers, with the first programming languages developed in the 1950s."
+    },
+    {
+        "question": "What is the future of programming?",
+        "A": "No future",
+        "B": "More powerful languages and tools",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of programming includes more powerful languages, AI-assisted coding, and new ways to develop software."
+    },
+    {
+        "question": "What is the importance of programming?",
+        "A": "Not important",
+        "B": "Essential for creating all digital technology",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Programming is essential for creating all software, apps, websites, and digital technology used in modern life."
+    },
+    {
+        "question": "What is the study of programming called?",
+        "A": "Programmingology",
+        "B": "Computer programming",
+        "C": "Software development",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Programming involves computer science, software development, and writing code to solve problems and create applications."
+    },
+    {
+        "question": "What is the difference between front-end and back-end programming?",
+        "A": "They're the same",
+        "B": "Front-end is user interface, back-end is server logic",
+        "C": "Back-end is user interface",
+        "D": "Front-end is server logic",
+        "answer": "B",
+        "funFact": "Front-end programming creates what users see and interact with, while back-end programming handles server logic and data."
+    },
+    {
+        "question": "What is the impact of programming on society?",
+        "A": "No impact",
+        "B": "Enabling all digital technology and innovation",
+        "C": "Minor changes",
+        "D": "Only affects technology",
+        "answer": "B",
+        "funFact": "Programming enables all digital technology, from smartphones to the internet, transforming how people live and work."
+    },
+    {
+        "question": "What is the origin of programming?",
+        "A": "The 2000s",
+        "B": "The 1940s-1950s",
+        "C": "The 1960s",
+        "D": "The 1970s",
+        "answer": "B",
+        "funFact": "Programming began with early computers in the 1940s-1950s, with Ada Lovelace often credited as the first programmer."
+    },
+    {
+        "question": "What is the future of programming?",
+        "A": "No future",
+        "B": "Continued evolution and new tools",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of programming includes AI-assisted coding, new languages, better tools, and more accessible development."
+    },
+    {
+        "question": "What is the study of programming called?",
+        "A": "Programmingology",
+        "B": "Computer science",
+        "C": "Code studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Programming is studied through computer science, software engineering, and programming courses."
+    },
+    {
+        "question": "What is the importance of programming?",
+        "A": "Not important",
+        "B": "Critical skill for the digital age",
+        "C": "Minor importance",
+        "D": "Only for developers",
+        "answer": "B",
+        "funFact": "Programming is a critical skill for the digital age, enabling people to create software and solve problems with code."
+    },
+    {
+        "question": "What is the difference between compiled and interpreted languages?",
+        "A": "They're the same",
+        "B": "Compiled is translated before running, interpreted is translated during execution",
+        "C": "Interpreted is translated before",
+        "D": "Compiled is interpreted",
+        "answer": "B",
+        "funFact": "Compiled languages are translated to machine code before running, while interpreted languages are translated during execution."
+    },
+    {
+        "question": "What is the impact of programming on innovation?",
+        "A": "No impact",
+        "B": "Enabling all software innovation",
+        "C": "Minor changes",
+        "D": "Only affects some industries",
+        "answer": "B",
+        "funFact": "Programming enables all software innovation, from mobile apps to AI, driving technological advancement."
+    },
+    {
+        "question": "What is the origin of programming?",
+        "A": "The 2000s",
+        "B": "The 1940s-1950s",
+        "C": "The 1960s",
+        "D": "The 1970s",
+        "answer": "B",
+        "funFact": "Programming began with early computers in the 1940s-1950s, evolving into today's diverse programming languages and tools."
+    },
+    {
+        "question": "What is the future of programming?",
+        "A": "No future",
+        "B": "More accessible and powerful development",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of programming includes AI-assisted coding, low-code platforms, and more accessible ways to create software."
+    }
+]

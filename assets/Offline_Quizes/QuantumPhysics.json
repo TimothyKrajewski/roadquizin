@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is quantum physics?",
+        "A": "Study of large objects",
+        "B": "Study of matter and energy at atomic scale",
+        "C": "Study of planets",
+        "D": "Study of weather",
+        "answer": "B",
+        "funFact": "Quantum physics studies matter and energy at the smallest scales, where classical physics breaks down."
+    },
+    {
+        "question": "What is a quantum?",
+        "A": "A large amount",
+        "B": "The smallest discrete unit",
+        "C": "A wave",
+        "D": "A particle",
+        "answer": "B",
+        "funFact": "A quantum is the smallest discrete unit of a physical property, like energy or momentum."
+    },
+    {
+        "question": "What is quantum entanglement?",
+        "A": "Particles are separate",
+        "B": "Particles are connected regardless of distance",
+        "C": "Particles collide",
+        "D": "Particles disappear",
+        "answer": "B",
+        "funFact": "Quantum entanglement is when particles become connected so that measuring one instantly affects the other, even at great distances."
+    },
+    {
+        "question": "What is the uncertainty principle?",
+        "A": "We can know everything",
+        "B": "We cannot know position and momentum simultaneously",
+        "C": "We can predict everything",
+        "D": "There is no uncertainty",
+        "answer": "B",
+        "funFact": "Heisenberg's uncertainty principle states that we cannot simultaneously know the exact position and momentum of a particle."
+    },
+    {
+        "question": "What is wave-particle duality?",
+        "A": "Particles are only particles",
+        "B": "Particles can behave as both waves and particles",
+        "C": "Waves are only waves",
+        "D": "There is no duality",
+        "answer": "B",
+        "funFact": "Wave-particle duality means that particles like electrons can exhibit both wave-like and particle-like properties."
+    },
+    {
+        "question": "What is a photon?",
+        "A": "A particle of light",
+        "B": "A type of atom",
+        "C": "A wave",
+        "D": "A molecule",
+        "answer": "A",
+        "funFact": "A photon is a particle of light, the quantum of electromagnetic radiation."
+    },
+    {
+        "question": "What is quantum superposition?",
+        "A": "A particle is in one state",
+        "B": "A particle can be in multiple states simultaneously",
+        "C": "A particle is fixed",
+        "D": "A particle doesn't exist",
+        "answer": "B",
+        "funFact": "Quantum superposition means a particle can exist in multiple states simultaneously until measured."
+    },
+    {
+        "question": "What is quantum tunneling?",
+        "A": "Particles cannot pass barriers",
+        "B": "Particles can pass through barriers",
+        "C": "Particles bounce off barriers",
+        "D": "Particles stop at barriers",
+        "answer": "B",
+        "funFact": "Quantum tunneling allows particles to pass through energy barriers that would be impossible in classical physics."
+    },
+    {
+        "question": "What is Planck's constant?",
+        "A": "A large number",
+        "B": "A fundamental constant in quantum mechanics",
+        "C": "A variable",
+        "D": "A theory",
+        "answer": "B",
+        "funFact": "Planck's constant (h) is a fundamental constant that relates the energy of a photon to its frequency."
+    },
+    {
+        "question": "What is Schrödinger's cat?",
+        "A": "A real cat",
+        "B": "A thought experiment about superposition",
+        "C": "A type of particle",
+        "D": "A wave",
+        "answer": "B",
+        "funFact": "Schrödinger's cat is a thought experiment illustrating quantum superposition - the cat is both alive and dead until observed."
+    },
+    {
+        "question": "What is quantum mechanics?",
+        "A": "Study of large objects",
+        "B": "Mathematical framework for quantum physics",
+        "C": "Study of planets",
+        "D": "Study of weather",
+        "answer": "B",
+        "funFact": "Quantum mechanics is the mathematical framework that describes the behavior of particles at the quantum level."
+    },
+    {
+        "question": "What is an electron?",
+        "A": "A type of atom",
+        "B": "A subatomic particle",
+        "C": "A molecule",
+        "D": "A wave",
+        "answer": "B",
+        "funFact": "An electron is a subatomic particle with a negative charge that orbits the nucleus of an atom."
+    },
+    {
+        "question": "What is quantum computing?",
+        "A": "Regular computing",
+        "B": "Computing using quantum properties",
+        "C": "Slow computing",
+        "D": "Classical computing",
+        "answer": "B",
+        "funFact": "Quantum computing uses quantum mechanical phenomena like superposition and entanglement to perform computations."
+    },
+    {
+        "question": "What is the double-slit experiment?",
+        "A": "An experiment showing particle behavior",
+        "B": "An experiment demonstrating wave-particle duality",
+        "C": "An experiment with light",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The double-slit experiment demonstrates wave-particle duality by showing particles create interference patterns like waves."
+    },
+    {
+        "question": "What is quantum field theory?",
+        "A": "Study of fields",
+        "B": "Theory combining quantum mechanics and special relativity",
+        "C": "Study of particles only",
+        "D": "Classical physics",
+        "answer": "B",
+        "funFact": "Quantum field theory combines quantum mechanics with special relativity to describe particles as excitations of fields."
+    },
+    {
+        "question": "What is a quantum state?",
+        "A": "A fixed state",
+        "B": "The condition of a quantum system",
+        "C": "A classical state",
+        "D": "An unknown state",
+        "answer": "B",
+        "funFact": "A quantum state describes the condition of a quantum system, including all possible properties."
+    },
+    {
+        "question": "What is quantum decoherence?",
+        "A": "Quantum systems stay coherent",
+        "B": "Loss of quantum coherence",
+        "C": "Quantum systems are stable",
+        "D": "No change in quantum state",
+        "answer": "B",
+        "funFact": "Quantum decoherence is the loss of quantum coherence when a quantum system interacts with its environment."
+    },
+    {
+        "question": "What is the observer effect?",
+        "A": "Observation doesn't matter",
+        "B": "The act of observation affects the system",
+        "C": "Observation is passive",
+        "D": "No effect from observation",
+        "answer": "B",
+        "funFact": "The observer effect in quantum mechanics means that observing a system can change its state."
+    },
+    {
+        "question": "What is quantum spin?",
+        "A": "Physical rotation",
+        "B": "An intrinsic property of particles",
+        "C": "A type of motion",
+        "D": "A wave property",
+        "answer": "B",
+        "funFact": "Quantum spin is an intrinsic property of particles, not actual rotation, but a fundamental quantum characteristic."
+    },
+    {
+        "question": "Who developed quantum theory?",
+        "A": "Einstein alone",
+        "B": "Max Planck and others",
+        "C": "Newton",
+        "D": "Galileo",
+        "answer": "B",
+        "funFact": "Quantum theory was developed by Max Planck, Einstein, Bohr, Heisenberg, Schrödinger, and others in the early 20th century."
+    }
+]

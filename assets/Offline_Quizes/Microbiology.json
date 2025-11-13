@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is microbiology?",
+        "A": "Study of large animals",
+        "B": "Study of microscopic organisms",
+        "C": "Study of plants",
+        "D": "Study of rocks",
+        "answer": "B",
+        "funFact": "Microbiology is the study of microscopic organisms including bacteria, viruses, fungi, and protozoa."
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "A": "Cell",
+        "B": "Atom",
+        "C": "Molecule",
+        "D": "Organ",
+        "answer": "A",
+        "funFact": "The cell is the smallest unit of life, and all living organisms are made of cells."
+    },
+    {
+        "question": "What are bacteria?",
+        "A": "Plants",
+        "B": "Single-celled prokaryotic organisms",
+        "C": "Animals",
+        "D": "Viruses",
+        "answer": "B",
+        "funFact": "Bacteria are single-celled prokaryotic organisms that can be found almost everywhere on Earth."
+    },
+    {
+        "question": "What is a virus?",
+        "A": "A type of bacteria",
+        "B": "A non-living infectious agent",
+        "C": "A type of fungus",
+        "D": "A plant",
+        "answer": "B",
+        "funFact": "Viruses are non-living infectious agents that require a host cell to reproduce."
+    },
+    {
+        "question": "What is pasteurization?",
+        "A": "A type of bacteria",
+        "B": "Heating to kill harmful microorganisms",
+        "C": "Freezing food",
+        "D": "Drying food",
+        "answer": "B",
+        "funFact": "Pasteurization is the process of heating liquids to kill harmful microorganisms, named after Louis Pasteur."
+    },
+    {
+        "question": "What is an antibiotic?",
+        "A": "A type of virus",
+        "B": "A medicine that kills bacteria",
+        "C": "A type of cell",
+        "D": "A microscope",
+        "answer": "B",
+        "funFact": "Antibiotics are medicines that kill or inhibit the growth of bacteria."
+    },
+    {
+        "question": "What is a microscope used for?",
+        "A": "Weighing samples",
+        "B": "Viewing microscopic organisms",
+        "C": "Measuring temperature",
+        "D": "Counting cells",
+        "answer": "B",
+        "funFact": "A microscope is used to view objects too small to be seen with the naked eye."
+    },
+    {
+        "question": "What are fungi?",
+        "A": "Plants",
+        "B": "Eukaryotic organisms including yeasts and molds",
+        "C": "Bacteria",
+        "D": "Viruses",
+        "answer": "B",
+        "funFact": "Fungi are eukaryotic organisms that include yeasts, molds, and mushrooms."
+    },
+    {
+        "question": "What is fermentation?",
+        "A": "Burning",
+        "B": "Chemical breakdown by microorganisms",
+        "C": "Freezing",
+        "D": "Drying",
+        "answer": "B",
+        "funFact": "Fermentation is the chemical breakdown of substances by bacteria, yeasts, or other microorganisms."
+    },
+    {
+        "question": "What is a pathogen?",
+        "A": "A helpful microorganism",
+        "B": "A disease-causing microorganism",
+        "C": "A type of cell",
+        "D": "A microscope",
+        "answer": "B",
+        "funFact": "A pathogen is any microorganism that can cause disease in its host."
+    },
+    {
+        "question": "What is the study of viruses called?",
+        "A": "Bacteriology",
+        "B": "Virology",
+        "C": "Mycology",
+        "D": "Parasitology",
+        "answer": "B",
+        "funFact": "Virology is the branch of microbiology that studies viruses."
+    },
+    {
+        "question": "What is a vaccine?",
+        "A": "A type of bacteria",
+        "B": "A preparation that provides immunity",
+        "C": "An antibiotic",
+        "D": "A virus",
+        "answer": "B",
+        "funFact": "A vaccine is a biological preparation that provides active acquired immunity to a particular disease."
+    },
+    {
+        "question": "What is the study of bacteria called?",
+        "A": "Virology",
+        "B": "Bacteriology",
+        "C": "Mycology",
+        "D": "Parasitology",
+        "answer": "B",
+        "funFact": "Bacteriology is the branch of microbiology that studies bacteria."
+    },
+    {
+        "question": "What is a culture in microbiology?",
+        "A": "A type of bacteria",
+        "B": "Growing microorganisms in a controlled environment",
+        "C": "A microscope",
+        "D": "A vaccine",
+        "answer": "B",
+        "funFact": "A culture is the process of growing microorganisms in a controlled environment for study."
+    },
+    {
+        "question": "What is sterilization?",
+        "A": "Cleaning",
+        "B": "Complete elimination of all microorganisms",
+        "C": "Pasteurization",
+        "D": "Fermentation",
+        "answer": "B",
+        "funFact": "Sterilization is the complete elimination of all microorganisms, including spores."
+    },
+    {
+        "question": "What is a protozoan?",
+        "A": "A type of bacteria",
+        "B": "A single-celled eukaryotic organism",
+        "C": "A virus",
+        "D": "A fungus",
+        "answer": "B",
+        "funFact": "Protozoa are single-celled eukaryotic organisms, many of which are parasitic."
+    },
+    {
+        "question": "What is the study of fungi called?",
+        "A": "Bacteriology",
+        "B": "Virology",
+        "C": "Mycology",
+        "D": "Parasitology",
+        "answer": "C",
+        "funFact": "Mycology is the branch of microbiology that studies fungi."
+    },
+    {
+        "question": "What is an infection?",
+        "A": "A type of bacteria",
+        "B": "Invasion and multiplication of pathogens",
+        "C": "A vaccine",
+        "D": "An antibiotic",
+        "answer": "B",
+        "funFact": "An infection occurs when pathogens invade and multiply in a host organism."
+    },
+    {
+        "question": "What is immunity?",
+        "A": "A disease",
+        "B": "Resistance to infection",
+        "C": "A type of bacteria",
+        "D": "A virus",
+        "answer": "B",
+        "funFact": "Immunity is the ability of an organism to resist a particular infection or toxin."
+    },
+    {
+        "question": "Who is known as the father of microbiology?",
+        "A": "Charles Darwin",
+        "B": "Louis Pasteur",
+        "C": "Robert Koch",
+        "D": "Alexander Fleming",
+        "answer": "B",
+        "funFact": "Louis Pasteur is often called the father of microbiology for his work on pasteurization and vaccines."
+    }
+]

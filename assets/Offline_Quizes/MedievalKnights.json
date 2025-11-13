@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was a knight?",
+        "A": "A commoner",
+        "B": "A mounted warrior in armor",
+        "C": "A peasant",
+        "D": "A merchant",
+        "answer": "B",
+        "funFact": "A knight was a mounted warrior who served a lord, typically wearing armor and fighting on horseback."
+    },
+    {
+        "question": "What was chivalry?",
+        "A": "A weapon",
+        "B": "The code of conduct for knights",
+        "C": "A building",
+        "D": "A war",
+        "answer": "B",
+        "funFact": "Chivalry was the code of conduct for knights, emphasizing honor, bravery, and protection of the weak."
+    },
+    {
+        "question": "What was a sword?",
+        "A": "A tool",
+        "B": "A knight's primary weapon",
+        "C": "A decoration",
+        "D": "Never used",
+        "answer": "B",
+        "funFact": "A sword was a knight's primary weapon, a long blade used for cutting and thrusting in combat."
+    },
+    {
+        "question": "What was armor?",
+        "A": "Clothing",
+        "B": "Protective metal covering",
+        "C": "A weapon",
+        "D": "A horse",
+        "answer": "B",
+        "funFact": "Armor was protective metal covering worn by knights, including chain mail and plate armor."
+    },
+    {
+        "question": "What was a lance?",
+        "A": "A sword",
+        "B": "A long spear for jousting",
+        "C": "A shield",
+        "D": "Armor",
+        "answer": "B",
+        "funFact": "A lance was a long spear used by knights, especially in jousting tournaments."
+    },
+    {
+        "question": "What was jousting?",
+        "A": "A war",
+        "B": "A tournament sport with lances",
+        "C": "A battle",
+        "D": "A hunt",
+        "answer": "B",
+        "funFact": "Jousting was a tournament sport where knights on horseback charged at each other with lances."
+    },
+    {
+        "question": "What was a tournament?",
+        "A": "A war",
+        "B": "A competition for knights",
+        "C": "A battle",
+        "D": "A hunt",
+        "answer": "B",
+        "funFact": "A tournament was a competition where knights demonstrated their skills in jousting, sword fighting, and other contests."
+    },
+    {
+        "question": "What was a castle?",
+        "A": "A house",
+        "B": "A fortified residence",
+        "C": "A city",
+        "D": "A farm",
+        "answer": "B",
+        "funFact": "A castle was a fortified residence where knights and lords lived, designed for defense."
+    },
+    {
+        "question": "What was a squire?",
+        "A": "A knight",
+        "B": "A knight's apprentice",
+        "C": "A lord",
+        "D": "A peasant",
+        "answer": "B",
+        "funFact": "A squire was a young man training to become a knight, serving and learning from an experienced knight."
+    },
+    {
+        "question": "What was a page?",
+        "A": "A book",
+        "B": "A young boy training to be a knight",
+        "C": "A knight",
+        "D": "A lord",
+        "answer": "B",
+        "funFact": "A page was a young boy, usually 7-14 years old, who began training to become a knight by serving in a castle."
+    },
+    {
+        "question": "What was a shield?",
+        "A": "A weapon",
+        "B": "A defensive tool",
+        "C": "Armor",
+        "D": "A horse",
+        "answer": "B",
+        "funFact": "A shield was a defensive tool carried by knights to block attacks, often decorated with heraldic symbols."
+    },
+    {
+        "question": "What was heraldry?",
+        "A": "A weapon",
+        "B": "The system of coats of arms",
+        "C": "A building",
+        "D": "A war",
+        "answer": "B",
+        "funFact": "Heraldry was the system of coats of arms and symbols used to identify knights and noble families."
+    },
+    {
+        "question": "What was a coat of arms?",
+        "A": "Clothing",
+        "B": "A heraldic design identifying a family",
+        "C": "A weapon",
+        "D": "Armor",
+        "answer": "B",
+        "funFact": "A coat of arms was a heraldic design on a shield that identified a knight or noble family."
+    },
+    {
+        "question": "What was a warhorse?",
+        "A": "A regular horse",
+        "B": "A large horse trained for battle",
+        "C": "A small horse",
+        "D": "A wild horse",
+        "answer": "B",
+        "funFact": "A warhorse (destrier) was a large, powerful horse specially trained to carry a knight in battle."
+    },
+    {
+        "question": "What was a knight's duty?",
+        "A": "Only to fight",
+        "B": "To serve their lord and protect the realm",
+        "C": "Only to farm",
+        "D": "Only to trade",
+        "answer": "B",
+        "funFact": "A knight's duty was to serve their lord, fight in battles, and protect the realm and its people."
+    },
+    {
+        "question": "What was the study of knights called?",
+        "A": "Knightology",
+        "B": "Medieval studies",
+        "C": "History",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Knights are studied through medieval studies, military history, and chivalric literature."
+    },
+    {
+        "question": "What was a crusade?",
+        "A": "A regular war",
+        "B": "A religious war to the Holy Land",
+        "C": "A tournament",
+        "D": "A hunt",
+        "answer": "B",
+        "funFact": "A crusade was a religious war where knights and soldiers traveled to the Holy Land to fight for Christianity."
+    },
+    {
+        "question": "What was a knight errant?",
+        "A": "A stationary knight",
+        "B": "A knight who traveled seeking adventure",
+        "C": "A lord",
+        "D": "A peasant",
+        "answer": "B",
+        "funFact": "A knight errant was a knight who traveled seeking adventure, righting wrongs, and proving their valor."
+    },
+    {
+        "question": "What was a round table?",
+        "A": "Furniture",
+        "B": "A legendary table of King Arthur's knights",
+        "C": "A weapon",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "The Round Table was the legendary table of King Arthur's knights, symbolizing equality among them."
+    },
+    {
+        "question": "What was the age to become a knight?",
+        "A": "10",
+        "B": "Usually 21 after years of training",
+        "C": "30",
+        "D": "40",
+        "answer": "B",
+        "funFact": "A boy typically became a knight around age 21, after years of training as a page and squire."
+    }
+]

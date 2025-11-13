@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who created Star Wars?",
+        "A": "Steven Spielberg",
+        "B": "George Lucas",
+        "C": "James Cameron",
+        "D": "Christopher Nolan",
+        "answer": "B",
+        "funFact": "George Lucas created Star Wars and wrote/directed the original trilogy."
+    },
+    {
+        "question": "What is the name of Luke Skywalker's home planet?",
+        "A": "Hoth",
+        "B": "Endor",
+        "C": "Tatooine",
+        "D": "Dagobah",
+        "answer": "C",
+        "funFact": "Tatooine is the desert planet where Luke Skywalker grew up with his aunt and uncle."
+    },
+    {
+        "question": "What is the name of the evil Empire's space station?",
+        "A": "Death Star",
+        "B": "Star Destroyer",
+        "C": "Super Star Destroyer",
+        "D": "Executor",
+        "answer": "A",
+        "funFact": "The Death Star is a moon-sized space station capable of destroying entire planets."
+    },
+    {
+        "question": "Who is Darth Vader's son?",
+        "A": "Han Solo",
+        "B": "Obi-Wan Kenobi",
+        "C": "Luke Skywalker",
+        "D": "Anakin Skywalker",
+        "answer": "C",
+        "funFact": "Darth Vader is revealed to be Anakin Skywalker, making Luke his son."
+    },
+    {
+        "question": "What is the name of Han Solo's ship?",
+        "A": "Millennium Falcon",
+        "B": "X-Wing",
+        "C": "TIE Fighter",
+        "D": "Slave I",
+        "answer": "A",
+        "funFact": "The Millennium Falcon is the fastest ship in the galaxy, according to Han Solo."
+    },
+    {
+        "question": "What color is a Jedi's lightsaber typically?",
+        "A": "Red",
+        "B": "Blue or Green",
+        "C": "Purple",
+        "D": "Yellow",
+        "answer": "B",
+        "funFact": "Jedi typically use blue or green lightsabers, while Sith use red lightsabers."
+    },
+    {
+        "question": "What is the name of the small, green Jedi master?",
+        "A": "Yoda",
+        "B": "Obi-Wan",
+        "C": "Mace Windu",
+        "D": "Qui-Gon Jinn",
+        "answer": "A",
+        "funFact": "Yoda is the wise, 900-year-old Jedi Master who trains Luke Skywalker."
+    },
+    {
+        "question": "What is the name of Princess Leia's home planet?",
+        "A": "Tatooine",
+        "B": "Alderaan",
+        "C": "Naboo",
+        "D": "Coruscant",
+        "answer": "B",
+        "funFact": "Alderaan is Princess Leia's home planet, which is destroyed by the Death Star."
+    },
+    {
+        "question": "What is the name of the furry creatures on Endor?",
+        "A": "Wookiees",
+        "B": "Ewoks",
+        "C": "Jawas",
+        "D": "Tusken Raiders",
+        "answer": "B",
+        "funFact": "Ewoks are the small, bear-like creatures that help the Rebels on Endor."
+    },
+    {
+        "question": "What is the name of the bounty hunter who captures Han Solo?",
+        "A": "Boba Fett",
+        "B": "Jango Fett",
+        "C": "Dengar",
+        "D": "IG-88",
+        "answer": "A",
+        "funFact": "Boba Fett is the famous bounty hunter who captures Han Solo in carbonite."
+    },
+    {
+        "question": "What is the name of the energy field that binds the galaxy together?",
+        "A": "The Force",
+        "B": "The Power",
+        "C": "The Energy",
+        "D": "The Light",
+        "answer": "A",
+        "funFact": "The Force is an energy field created by all living things that Jedi and Sith can use."
+    },
+    {
+        "question": "What is the name of Luke's twin sister?",
+        "A": "Padmé",
+        "B": "Leia",
+        "C": "Rey",
+        "D": "Ahsoka",
+        "answer": "B",
+        "funFact": "Princess Leia is revealed to be Luke Skywalker's twin sister in Return of the Jedi."
+    },
+    {
+        "question": "What is the name of the droid that says 'Beep boop'?",
+        "A": "C-3PO",
+        "B": "R2-D2",
+        "C": "BB-8",
+        "D": "K-2SO",
+        "answer": "B",
+        "funFact": "R2-D2 is the astromech droid that communicates through beeps and whistles."
+    },
+    {
+        "question": "What is the name of the protocol droid?",
+        "A": "R2-D2",
+        "B": "C-3PO",
+        "C": "BB-8",
+        "D": "K-2SO",
+        "answer": "B",
+        "funFact": "C-3PO is the golden protocol droid fluent in over 6 million forms of communication."
+    },
+    {
+        "question": "What is the name of the ice planet in The Empire Strikes Back?",
+        "A": "Hoth",
+        "B": "Tatooine",
+        "C": "Dagobah",
+        "D": "Endor",
+        "answer": "A",
+        "funFact": "Hoth is the ice planet where the Rebels have their base at the beginning of The Empire Strikes Back."
+    },
+    {
+        "question": "What is the name of the Sith Lord who is the Emperor?",
+        "A": "Darth Maul",
+        "B": "Darth Vader",
+        "C": "Darth Sidious",
+        "D": "Darth Tyranus",
+        "answer": "C",
+        "funFact": "Darth Sidious, also known as Emperor Palpatine, is the main antagonist of the original trilogy."
+    },
+    {
+        "question": "What is the name of the forest moon where the second Death Star is located?",
+        "A": "Endor",
+        "B": "Hoth",
+        "C": "Dagobah",
+        "D": "Tatooine",
+        "answer": "A",
+        "funFact": "Endor is the forest moon where the Rebels attack the second Death Star's shield generator."
+    },
+    {
+        "question": "What is the name of the Wookiee who is Han Solo's co-pilot?",
+        "A": "Chewbacca",
+        "B": "Tarfful",
+        "C": "Lumpawaroo",
+        "D": "Attichitcuk",
+        "answer": "A",
+        "funFact": "Chewbacca, or Chewie, is Han Solo's loyal Wookiee co-pilot and friend."
+    },
+    {
+        "question": "What is the name of the planet that is destroyed by the Death Star?",
+        "A": "Tatooine",
+        "B": "Alderaan",
+        "C": "Naboo",
+        "D": "Coruscant",
+        "answer": "B",
+        "funFact": "Alderaan is destroyed by the Death Star as a demonstration of its power."
+    },
+    {
+        "question": "What year was the first Star Wars movie released?",
+        "A": "1975",
+        "B": "1977",
+        "C": "1979",
+        "D": "1981",
+        "answer": "B",
+        "funFact": "Star Wars: A New Hope was released in 1977 and became a cultural phenomenon."
+    }
+]

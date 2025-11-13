@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the capital of Egypt?",
+        "A": "Alexandria",
+        "B": "Cairo",
+        "C": "Giza",
+        "D": "Luxor",
+        "answer": "B",
+        "funFact": "Cairo is the capital and largest city of Egypt, located on the Nile River."
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "A": "Cape Town",
+        "B": "Johannesburg",
+        "C": "Pretoria",
+        "D": "Durban",
+        "answer": "C",
+        "funFact": "South Africa has three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial)."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "A": "Lagos",
+        "B": "Abuja",
+        "C": "Kano",
+        "D": "Ibadan",
+        "answer": "B",
+        "funFact": "Abuja became the capital of Nigeria in 1991, replacing Lagos."
+    },
+    {
+        "question": "What is the capital of Kenya?",
+        "A": "Mombasa",
+        "B": "Nairobi",
+        "C": "Kisumu",
+        "D": "Nakuru",
+        "answer": "B",
+        "funFact": "Nairobi is the capital and largest city of Kenya, known as the 'Green City in the Sun.'"
+    },
+    {
+        "question": "What is the capital of Ethiopia?",
+        "A": "Addis Ababa",
+        "B": "Dire Dawa",
+        "C": "Mekelle",
+        "D": "Gondar",
+        "answer": "A",
+        "funFact": "Addis Ababa is the capital of Ethiopia and the headquarters of the African Union."
+    },
+    {
+        "question": "What is the capital of Morocco?",
+        "A": "Casablanca",
+        "B": "Rabat",
+        "C": "Marrakech",
+        "D": "Fes",
+        "answer": "B",
+        "funFact": "Rabat is the capital of Morocco, while Casablanca is the largest city."
+    },
+    {
+        "question": "What is the capital of Ghana?",
+        "A": "Kumasi",
+        "B": "Accra",
+        "C": "Tamale",
+        "D": "Takoradi",
+        "answer": "B",
+        "funFact": "Accra is the capital and largest city of Ghana, located on the Atlantic coast."
+    },
+    {
+        "question": "What is the capital of Tanzania?",
+        "A": "Dar es Salaam",
+        "B": "Dodoma",
+        "C": "Arusha",
+        "D": "Mwanza",
+        "answer": "B",
+        "funFact": "Dodoma is the capital of Tanzania, though Dar es Salaam is the largest city and commercial center."
+    },
+    {
+        "question": "What is the capital of Algeria?",
+        "A": "Oran",
+        "B": "Constantine",
+        "C": "Algiers",
+        "D": "Annaba",
+        "answer": "C",
+        "funFact": "Algiers is the capital of Algeria, located on the Mediterranean coast."
+    },
+    {
+        "question": "What is the capital of Uganda?",
+        "A": "Kampala",
+        "B": "Entebbe",
+        "C": "Gulu",
+        "D": "Mbarara",
+        "answer": "A",
+        "funFact": "Kampala is the capital and largest city of Uganda, located near Lake Victoria."
+    },
+    {
+        "question": "What is the capital of Senegal?",
+        "A": "Thiès",
+        "B": "Dakar",
+        "C": "Rufisque",
+        "D": "Kaolack",
+        "answer": "B",
+        "funFact": "Dakar is the capital of Senegal, located on the Cape Verde Peninsula, the westernmost point of Africa."
+    },
+    {
+        "question": "What is the capital of Tunisia?",
+        "A": "Sfax",
+        "B": "Sousse",
+        "C": "Tunis",
+        "D": "Kairouan",
+        "answer": "C",
+        "funFact": "Tunis is the capital of Tunisia, located on the Mediterranean coast."
+    },
+    {
+        "question": "What is the capital of Zimbabwe?",
+        "A": "Bulawayo",
+        "B": "Harare",
+        "C": "Chitungwiza",
+        "D": "Mutare",
+        "answer": "B",
+        "funFact": "Harare is the capital and largest city of Zimbabwe."
+    },
+    {
+        "question": "What is the capital of Angola?",
+        "A": "Huambo",
+        "B": "Luanda",
+        "C": "Lobito",
+        "D": "Benguela",
+        "answer": "B",
+        "funFact": "Luanda is the capital and largest city of Angola, located on the Atlantic coast."
+    },
+    {
+        "question": "What is the capital of Sudan?",
+        "A": "Port Sudan",
+        "B": "Khartoum",
+        "C": "Omdurman",
+        "D": "Kassala",
+        "answer": "B",
+        "funFact": "Khartoum is the capital of Sudan, located at the confluence of the White and Blue Nile rivers."
+    },
+    {
+        "question": "What is the capital of Libya?",
+        "A": "Benghazi",
+        "B": "Tripoli",
+        "C": "Misrata",
+        "D": "Sirte",
+        "answer": "B",
+        "funFact": "Tripoli is the capital and largest city of Libya, located on the Mediterranean coast."
+    },
+    {
+        "question": "What is the capital of Cameroon?",
+        "A": "Douala",
+        "B": "Yaoundé",
+        "C": "Garoua",
+        "D": "Bafoussam",
+        "answer": "B",
+        "funFact": "Yaoundé is the capital of Cameroon, while Douala is the largest city and economic center."
+    },
+    {
+        "question": "What is the capital of Côte d'Ivoire?",
+        "A": "Abidjan",
+        "B": "Yamoussoukro",
+        "C": "Bouaké",
+        "D": "San-Pédro",
+        "answer": "B",
+        "funFact": "Yamoussoukro is the capital of Côte d'Ivoire, though Abidjan is the largest city and economic center."
+    },
+    {
+        "question": "What is the capital of Madagascar?",
+        "A": "Toamasina",
+        "B": "Antsirabe",
+        "C": "Antananarivo",
+        "D": "Mahajanga",
+        "answer": "C",
+        "funFact": "Antananarivo is the capital and largest city of Madagascar, located in the central highlands."
+    },
+    {
+        "question": "What is the capital of Mozambique?",
+        "A": "Beira",
+        "B": "Maputo",
+        "C": "Nampula",
+        "D": "Matola",
+        "answer": "B",
+        "funFact": "Maputo is the capital and largest city of Mozambique, located on the Indian Ocean coast."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the name of the town?",
+        "A": "Hawkins",
+        "B": "Springfield",
+        "C": "Riverdale",
+        "D": "Smallville",
+        "answer": "A",
+        "funFact": "Hawkins, Indiana is the fictional town where Stranger Things takes place in the 1980s."
+    },
+    {
+        "question": "What is the Upside Down?",
+        "A": "A normal dimension",
+        "B": "A parallel dark dimension",
+        "C": "A city",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "The Upside Down is a dark, parallel dimension filled with dangerous creatures and toxic atmosphere."
+    },
+    {
+        "question": "What is the name of the girl with powers?",
+        "A": "Nancy",
+        "B": "Eleven",
+        "C": "Max",
+        "D": "Joyce",
+        "answer": "B",
+        "funFact": "Eleven (Jane) is a girl with telekinetic and telepathic powers who escaped from a government lab."
+    },
+    {
+        "question": "What is Eleven's real name?",
+        "A": "Eleven",
+        "B": "Jane",
+        "C": "Nancy",
+        "D": "Max",
+        "answer": "B",
+        "funFact": "Eleven's real name is Jane Ives, though she's called Eleven because of the number tattooed on her arm."
+    },
+    {
+        "question": "What is the name of the main group of kids?",
+        "A": "The Gang",
+        "B": "The Party",
+        "C": "The Group",
+        "D": "The Team",
+        "answer": "B",
+        "funFact": "The main group of kids calls themselves 'The Party' and includes Mike, Dustin, Lucas, Will, and Eleven."
+    },
+    {
+        "question": "What is the name of the monster?",
+        "A": "The Thing",
+        "B": "The Demogorgon",
+        "C": "The Monster",
+        "D": "The Creature",
+        "answer": "B",
+        "funFact": "The Demogorgon is the main monster from the Upside Down that terrorizes Hawkins in season 1."
+    },
+    {
+        "question": "What is the name of the government facility?",
+        "A": "Hawkins Lab",
+        "B": "The Lab",
+        "C": "The Facility",
+        "D": "The Base",
+        "answer": "A",
+        "funFact": "Hawkins National Laboratory is the secret government facility where experiments on children with powers were conducted."
+    },
+    {
+        "question": "What is the name of the police chief?",
+        "A": "Hopper",
+        "B": "Powell",
+        "C": "Callahan",
+        "D": "Flowers",
+        "answer": "A",
+        "funFact": "Jim Hopper is the chief of police in Hawkins who helps investigate the strange occurrences."
+    },
+    {
+        "question": "What is the name of Will's mother?",
+        "A": "Joyce",
+        "B": "Karen",
+        "C": "Terry",
+        "D": "Diane",
+        "answer": "A",
+        "funFact": "Joyce Byers is Will's mother who never gives up searching for her missing son."
+    },
+    {
+        "question": "What is the name of the show?",
+        "A": "Stranger Things",
+        "B": "The Upside Down",
+        "C": "Hawkins",
+        "D": "The Party",
+        "answer": "A",
+        "funFact": "Stranger Things premiered on Netflix in 2016 and became a cultural phenomenon."
+    },
+    {
+        "question": "What decade is the show set in?",
+        "A": "1970s",
+        "B": "1980s",
+        "C": "1990s",
+        "D": "2000s",
+        "answer": "B",
+        "funFact": "Stranger Things is set in the 1980s, with many references to 80s pop culture, movies, and music."
+    },
+    {
+        "question": "What is the name of the game the kids play?",
+        "A": "Dungeons & Dragons",
+        "B": "Magic: The Gathering",
+        "C": "Pokémon",
+        "D": "Yu-Gi-Oh!",
+        "answer": "A",
+        "funFact": "The kids play Dungeons & Dragons, and many elements from the game parallel events in the show."
+    },
+    {
+        "question": "What is the Mind Flayer?",
+        "A": "A character",
+        "B": "A powerful entity from the Upside Down",
+        "C": "A game",
+        "D": "A place",
+        "answer": "B",
+        "funFact": "The Mind Flayer is a powerful, shadowy entity from the Upside Down that controls other creatures."
+    },
+    {
+        "question": "What is the name of the mall?",
+        "A": "Hawkins Mall",
+        "B": "Starcourt Mall",
+        "C": "The Mall",
+        "D": "Shopping Center",
+        "answer": "B",
+        "funFact": "Starcourt Mall is the new mall in Hawkins that becomes a central location in season 3."
+    },
+    {
+        "question": "What is the name of the Russian facility?",
+        "A": "Hawkins Lab",
+        "B": "The Russian Base",
+        "C": "The Facility",
+        "D": "The Lab",
+        "answer": "B",
+        "funFact": "The Russian Base is a secret facility under Starcourt Mall where Russians try to open a gate to the Upside Down."
+    },
+    {
+        "question": "What is the name of the character who works at the video store?",
+        "A": "Steve",
+        "B": "Robin",
+        "C": "Jonathan",
+        "D": "Nancy",
+        "answer": "B",
+        "funFact": "Robin works at the video store with Steve and helps the group in their investigations."
+    },
+    {
+        "question": "What is the name of the character who was Eleven's friend?",
+        "A": "Kali",
+        "B": "Eight",
+        "C": "Both A and B",
+        "D": "None",
+        "answer": "C",
+        "funFact": "Kali (also known as Eight) is another child with powers who escaped from the lab and can create illusions."
+    },
+    {
+        "question": "What is the study of Stranger Things called?",
+        "A": "Stranger Thingsology",
+        "B": "Just Stranger Things",
+        "C": "TV shows",
+        "D": "Sci-fi",
+        "answer": "B",
+        "funFact": "Stranger Things is simply called Stranger Things, though it's studied and analyzed by TV critics and cultural scholars."
+    },
+    {
+        "question": "What is the name of the show's creators?",
+        "A": "The Duffer Brothers",
+        "B": "The Coen Brothers",
+        "C": "The Wachowskis",
+        "D": "The Russo Brothers",
+        "answer": "A",
+        "funFact": "Matt and Ross Duffer, known as the Duffer Brothers, created and produce Stranger Things."
+    },
+    {
+        "question": "What is the phrase 'Friends don't lie'?",
+        "A": "A threat",
+        "B": "A famous quote from Eleven",
+        "C": "A question",
+        "D": "A greeting",
+        "answer": "B",
+        "funFact": "'Friends don't lie' is a famous quote from Eleven, emphasizing the importance of honesty in friendship."
+    }
+]

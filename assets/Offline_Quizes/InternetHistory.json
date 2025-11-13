@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What was the precursor to the internet?",
+        "A": "ARPANET",
+        "B": "The telephone",
+        "C": "The radio",
+        "D": "The television",
+        "answer": "A",
+        "funFact": "ARPANET, created in 1969, was the precursor to the internet, connecting computers at universities and research institutions."
+    },
+    {
+        "question": "When was the World Wide Web invented?",
+        "A": "1989",
+        "B": "1995",
+        "C": "2000",
+        "D": "1985",
+        "answer": "A",
+        "funFact": "The World Wide Web was invented by Tim Berners-Lee in 1989 while working at CERN, making the internet accessible to everyone."
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "A": "Bill Gates",
+        "B": "Tim Berners-Lee",
+        "C": "Steve Jobs",
+        "D": "Mark Zuckerberg",
+        "answer": "B",
+        "funFact": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989, creating the first web browser and server."
+    },
+    {
+        "question": "What was the first web browser?",
+        "A": "Internet Explorer",
+        "B": "Netscape",
+        "C": "WorldWideWeb",
+        "D": "Chrome",
+        "answer": "C",
+        "funFact": "WorldWideWeb, created by Tim Berners-Lee in 1990, was the first web browser and web editor."
+    },
+    {
+        "question": "What is the study of internet history called?",
+        "A": "Internetology",
+        "B": "Internet history",
+        "C": "Digital history",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Internet history is studied through computer science history, digital history, and technology studies."
+    },
+    {
+        "question": "What was the impact of the internet?",
+        "A": "No impact",
+        "B": "Revolutionizing communication and information access",
+        "C": "Minor changes",
+        "D": "Only affects computers",
+        "answer": "B",
+        "funFact": "The internet has revolutionized communication, information access, business, education, and how people live and work."
+    },
+    {
+        "question": "What is the origin of the internet?",
+        "A": "The 2000s",
+        "B": "The 1960s-1970s",
+        "C": "The 1980s",
+        "D": "The 1990s",
+        "answer": "B",
+        "funFact": "The internet originated in the 1960s-1970s with ARPANET, evolving into the global network we know today."
+    },
+    {
+        "question": "What is the future of the internet?",
+        "A": "No future",
+        "B": "Continued evolution and new technologies",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of the internet includes faster speeds, new protocols, IoT integration, and new ways of connecting."
+    },
+    {
+        "question": "What is the importance of the internet?",
+        "A": "Not important",
+        "B": "Essential infrastructure for modern life",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "The internet has become essential infrastructure for modern life, enabling communication, commerce, and information access."
+    },
+    {
+        "question": "What is the study of internet history called?",
+        "A": "Internetology",
+        "B": "Digital archaeology",
+        "C": "Network history",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Internet history involves studying the development of networks, protocols, and how the internet has evolved."
+    },
+    {
+        "question": "What was the first email sent?",
+        "A": "1971",
+        "B": "1980",
+        "C": "1990",
+        "D": "2000",
+        "answer": "A",
+        "funFact": "The first email was sent in 1971 by Ray Tomlinson, who also chose the @ symbol for email addresses."
+    },
+    {
+        "question": "What is the impact of the internet on society?",
+        "A": "No impact",
+        "B": "Transforming how people live, work, and communicate",
+        "C": "Minor changes",
+        "D": "Only affects technology",
+        "answer": "B",
+        "funFact": "The internet has transformed how people live, work, communicate, learn, shop, and access information and services."
+    },
+    {
+        "question": "What is the origin of the internet?",
+        "A": "The 2000s",
+        "B": "The 1960s",
+        "C": "The 1980s",
+        "D": "The 1990s",
+        "answer": "B",
+        "funFact": "The internet began with ARPANET in 1969, connecting computers at UCLA, Stanford, UCSB, and the University of Utah."
+    },
+    {
+        "question": "What is the future of the internet?",
+        "A": "No future",
+        "B": "Continued growth and innovation",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of the internet includes faster speeds, better security, new protocols, and integration with emerging technologies."
+    },
+    {
+        "question": "What is the study of internet history called?",
+        "A": "Internetology",
+        "B": "Internet studies",
+        "C": "Digital history",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Internet history is studied through computer science, digital history, and technology studies."
+    },
+    {
+        "question": "What was the first commercial internet service?",
+        "A": "AOL",
+        "B": "CompuServe",
+        "C": "Prodigy",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Early commercial internet services included CompuServe (1969), Prodigy (1984), and AOL (1985), bringing the internet to consumers."
+    },
+    {
+        "question": "What is the impact of the internet on business?",
+        "A": "No impact",
+        "B": "Transforming how businesses operate",
+        "C": "Minor changes",
+        "D": "Only affects tech companies",
+        "answer": "B",
+        "funFact": "The internet has transformed how businesses operate, market, sell, and provide services, creating new industries and opportunities."
+    },
+    {
+        "question": "What is the origin of the internet?",
+        "A": "The 2000s",
+        "B": "The 1960s-1970s",
+        "C": "The 1980s",
+        "D": "The 1990s",
+        "answer": "B",
+        "funFact": "The internet originated from ARPANET in the 1960s-1970s, evolving through decades into the global network we use today."
+    },
+    {
+        "question": "What is the future of the internet?",
+        "A": "No future",
+        "B": "Continued evolution and new capabilities",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of the internet includes faster speeds, better security, new protocols, and integration with AI, IoT, and other technologies."
+    },
+    {
+        "question": "What is the study of internet history called?",
+        "A": "Internetology",
+        "B": "Internet history",
+        "C": "Digital archaeology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Internet history involves studying the development of networks, protocols, and how the internet has changed society."
+    },
+    {
+        "question": "What is the importance of the internet?",
+        "A": "Not important",
+        "B": "Critical infrastructure for modern society",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "The internet has become critical infrastructure for modern society, enabling communication, commerce, education, and information access."
+    }
+]

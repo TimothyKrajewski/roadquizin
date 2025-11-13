@@ -87,15 +87,13 @@ const styles = StyleSheet.create({
     marginLeft: 10,
   },
   shimmer: {
-    ...StyleSheet.absoluteFillObject,
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
     backgroundColor: 'rgba(255, 255, 255, 0.3)',
-    transform: [{ rotate: '45deg' }],
     opacity: 0.5,
-    width: '200%',
-    left: '-50%',
-    height: '300%',
-    top: '-100%',
-    animation: 'shimmer .5s infinite',
   },
 });
 

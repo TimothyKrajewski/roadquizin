@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, FlatList, Alert } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { getQuizTitle } from '../utils/quizTitles';
 
 const QuizHistoryScreen: React.FC = () => {
-  const [highScores, setHighScores] = useState<{ quizName: string; score: number; name: string }[]>([]);
+  const [highScores, setHighScores] = useState<{ quizName: string; quizTitle: string; score: number; name: string }[]>([]);
 
   useEffect(() => {
     const fetchHighScores = async () => {
@@ -15,7 +16,8 @@ const QuizHistoryScreen: React.FC = () => {
           if (value) {
             const quizName = key.replace('highScore_', '');
             const { score, name } = JSON.parse(value);
-            return { quizName, score, name };
+            const quizTitle = getQuizTitle(quizName);
+            return { quizName, quizTitle, score, name };
           }
           return null;
         }).filter(item => item !== null);
@@ -32,16 +34,17 @@ const QuizHistoryScreen: React.FC = () => {
     try {
       await AsyncStorage.removeItem(`highScore_${quizName}`);
       setHighScores(prevScores => prevScores.filter(score => score.quizName !== quizName));
-      Alert.alert('High Score Deleted', `High score for ${quizName} has been deleted.`);
+      const quizTitle = getQuizTitle(quizName);
+      Alert.alert('High Score Deleted', `High score for ${quizTitle} has been deleted.`);
     } catch (error) {
       console.error('Failed to delete high score.', error);
       Alert.alert('Error', 'Failed to delete high score.');
     }
   };
 
-  const renderItem = ({ item }: { item: { quizName: string; score: number; name: string } }) => (
+  const renderItem = ({ item }: { item: { quizName: string; quizTitle: string; score: number; name: string } }) => (
     <View style={styles.itemContainer}>
-      <Text style={styles.itemText}>{item.quizName} - {item.score} by {item.name}</Text>
+      <Text style={styles.itemText}>{item.quizTitle} - {item.score} by {item.name}</Text>
       <TouchableOpacity style={styles.deleteButton} onPress={() => handleDeleteHighScore(item.quizName)}>
         <Text style={styles.deleteButtonText}>Delete</Text>
       </TouchableOpacity>

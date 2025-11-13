@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What does Mesopotamia mean?",
+        "A": "Land of rivers",
+        "B": "Land between rivers",
+        "C": "Land of mountains",
+        "D": "Land of deserts",
+        "answer": "B",
+        "funFact": "Mesopotamia means 'land between rivers' in Greek, referring to the Tigris and Euphrates rivers."
+    },
+    {
+        "question": "Which two rivers defined Mesopotamia?",
+        "A": "Nile and Jordan",
+        "B": "Tigris and Euphrates",
+        "C": "Indus and Ganges",
+        "D": "Danube and Rhine",
+        "answer": "B",
+        "funFact": "The Tigris and Euphrates rivers defined Mesopotamia, providing water for agriculture and civilization."
+    },
+    {
+        "question": "What was the first major city in Mesopotamia?",
+        "A": "Babylon",
+        "B": "Ur",
+        "C": "Uruk",
+        "D": "Nineveh",
+        "answer": "C",
+        "funFact": "Uruk, founded around 4000 BCE, was one of the first major cities in Mesopotamia and the world."
+    },
+    {
+        "question": "Who created the first known system of writing?",
+        "A": "The Egyptians",
+        "B": "The Sumerians",
+        "C": "The Greeks",
+        "D": "The Romans",
+        "answer": "B",
+        "funFact": "The Sumerians in Mesopotamia created cuneiform, the first known system of writing, around 3200 BCE."
+    },
+    {
+        "question": "What was cuneiform?",
+        "A": "A type of pottery",
+        "B": "A writing system using wedge-shaped marks",
+        "C": "A type of building",
+        "D": "A type of weapon",
+        "answer": "B",
+        "funFact": "Cuneiform was a writing system using wedge-shaped marks pressed into clay tablets, created by the Sumerians."
+    },
+    {
+        "question": "What was the Code of Hammurabi?",
+        "A": "A building code",
+        "B": "One of the earliest known legal codes",
+        "C": "A religious text",
+        "D": "A military manual",
+        "answer": "B",
+        "funFact": "The Code of Hammurabi, created around 1754 BCE, was one of the earliest known legal codes, with 282 laws."
+    },
+    {
+        "question": "Which Mesopotamian empire was known for its hanging gardens?",
+        "A": "Assyrian",
+        "B": "Babylonian",
+        "C": "Sumerian",
+        "D": "Akkadian",
+        "answer": "B",
+        "funFact": "The Babylonian Empire was known for the Hanging Gardens of Babylon, one of the Seven Wonders of the Ancient World."
+    },
+    {
+        "question": "What was the ziggurat?",
+        "A": "A type of ship",
+        "B": "A stepped pyramid temple",
+        "C": "A type of weapon",
+        "D": "A type of writing",
+        "answer": "B",
+        "funFact": "A ziggurat was a massive stepped pyramid temple, the center of Mesopotamian cities and religious life."
+    },
+    {
+        "question": "Which king created the first empire in Mesopotamia?",
+        "A": "Hammurabi",
+        "B": "Sargon of Akkad",
+        "C": "Nebuchadnezzar",
+        "D": "Ashurbanipal",
+        "answer": "B",
+        "funFact": "Sargon of Akkad created the first empire in Mesopotamia around 2334 BCE, uniting city-states."
+    },
+    {
+        "question": "What was the Epic of Gilgamesh?",
+        "A": "A legal code",
+        "B": "One of the earliest known works of literature",
+        "C": "A religious text",
+        "D": "A historical record",
+        "answer": "B",
+        "funFact": "The Epic of Gilgamesh, written around 2100 BCE, is one of the earliest known works of literature."
+    },
+    {
+        "question": "Which Mesopotamian city was known for its library?",
+        "A": "Babylon",
+        "B": "Nineveh",
+        "C": "Ur",
+        "D": "Uruk",
+        "answer": "B",
+        "funFact": "Nineveh had a great library created by King Ashurbanipal, containing thousands of cuneiform tablets."
+    },
+    {
+        "question": "What was the main economic activity in Mesopotamia?",
+        "A": "Mining",
+        "B": "Agriculture",
+        "C": "Fishing",
+        "D": "Hunting",
+        "answer": "B",
+        "funFact": "Agriculture was the main economic activity in Mesopotamia, made possible by irrigation from the rivers."
+    },
+    {
+        "question": "What was the wheel used for in ancient Mesopotamia?",
+        "A": "Only transportation",
+        "B": "Transportation and pottery",
+        "C": "Only pottery",
+        "D": "Only warfare",
+        "answer": "B",
+        "funFact": "The wheel, invented in Mesopotamia around 3500 BCE, was used for transportation and pottery making."
+    },
+    {
+        "question": "Which Mesopotamian empire was known for its military prowess?",
+        "A": "Sumerian",
+        "B": "Assyrian",
+        "C": "Babylonian",
+        "D": "Akkadian",
+        "answer": "B",
+        "funFact": "The Assyrian Empire was known for its military prowess, advanced weapons, and efficient administration."
+    },
+    {
+        "question": "What was the role of priests in Mesopotamian society?",
+        "A": "Only religious",
+        "B": "Religious, administrative, and educational",
+        "C": "Only administrative",
+        "D": "Only educational",
+        "answer": "B",
+        "funFact": "Priests in Mesopotamia had multiple roles: religious, administrative, and educational, running temples and schools."
+    },
+    {
+        "question": "What was the main building material in Mesopotamia?",
+        "A": "Stone",
+        "B": "Mud brick",
+        "C": "Wood",
+        "D": "Metal",
+        "answer": "B",
+        "funFact": "Mud brick was the main building material in Mesopotamia, as stone and wood were scarce in the region."
+    },
+    {
+        "question": "Which Mesopotamian city was the birthplace of Abraham?",
+        "A": "Babylon",
+        "B": "Ur",
+        "C": "Nineveh",
+        "D": "Uruk",
+        "answer": "B",
+        "funFact": "Ur, a major Sumerian city, is traditionally considered the birthplace of Abraham in biblical tradition."
+    },
+    {
+        "question": "What was the significance of the number 60 in Mesopotamia?",
+        "A": "A lucky number",
+        "B": "The base of their number system",
+        "C": "A religious number",
+        "D": "A military number",
+        "answer": "B",
+        "funFact": "Mesopotamians used a base-60 number system, which is why we have 60 seconds in a minute and 360 degrees in a circle."
+    },
+    {
+        "question": "What was the main god of Babylon?",
+        "A": "Enlil",
+        "B": "Marduk",
+        "C": "Ishtar",
+        "D": "Anu",
+        "answer": "B",
+        "funFact": "Marduk was the main god of Babylon, elevated to chief deity when Babylon became the dominant city."
+    },
+    {
+        "question": "What ended the Mesopotamian civilizations?",
+        "A": "Natural disaster",
+        "B": "Conquest by Persians and later empires",
+        "C": "Disease",
+        "D": "Climate change",
+        "answer": "B",
+        "funFact": "Mesopotamian civilizations ended through conquest, first by the Persians in 539 BCE, then by Alexander the Great and later empires."
+    }
+]

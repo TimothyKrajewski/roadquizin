@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the Byzantine Empire?",
+        "A": "A new empire",
+        "B": "The eastern continuation of the Roman Empire",
+        "C": "A Greek empire",
+        "D": "A Turkish empire",
+        "answer": "B",
+        "funFact": "The Byzantine Empire was the eastern continuation of the Roman Empire, lasting from 330 to 1453 CE."
+    },
+    {
+        "question": "What was the capital of the Byzantine Empire?",
+        "A": "Rome",
+        "B": "Constantinople",
+        "C": "Athens",
+        "D": "Alexandria",
+        "answer": "B",
+        "funFact": "Constantinople (modern Istanbul) was the capital of the Byzantine Empire, founded by Emperor Constantine in 330 CE."
+    },
+    {
+        "question": "Who founded Constantinople?",
+        "A": "Justinian",
+        "B": "Constantine the Great",
+        "C": "Theodosius",
+        "D": "Heraclius",
+        "answer": "B",
+        "funFact": "Emperor Constantine the Great founded Constantinople in 330 CE, making it the new capital of the Roman Empire."
+    },
+    {
+        "question": "What was the Byzantine religion?",
+        "A": "Roman paganism",
+        "B": "Eastern Orthodox Christianity",
+        "C": "Catholicism",
+        "D": "Islam",
+        "answer": "B",
+        "funFact": "The Byzantine Empire was Eastern Orthodox Christian, which eventually split from Roman Catholicism."
+    },
+    {
+        "question": "What was Justinian's Code?",
+        "A": "A building code",
+        "B": "A comprehensive legal code",
+        "C": "A religious text",
+        "D": "A military manual",
+        "answer": "B",
+        "funFact": "Justinian's Code was a comprehensive legal code compiled under Emperor Justinian, preserving Roman law."
+    },
+    {
+        "question": "What was the Hagia Sophia?",
+        "A": "A palace",
+        "B": "A great cathedral and architectural marvel",
+        "C": "A fortress",
+        "D": "A market",
+        "answer": "B",
+        "funFact": "The Hagia Sophia was a great cathedral in Constantinople, one of the most impressive architectural achievements of the Byzantine Empire."
+    },
+    {
+        "question": "What was the Byzantine art style?",
+        "A": "Realistic",
+        "B": "Iconic with religious imagery",
+        "C": "Abstract",
+        "D": "Minimalist",
+        "answer": "B",
+        "funFact": "Byzantine art featured iconic religious imagery, mosaics, and distinctive style that influenced later art."
+    },
+    {
+        "question": "What was the Iconoclasm controversy?",
+        "A": "A war",
+        "B": "A debate over religious images",
+        "C": "A political dispute",
+        "D": "An economic crisis",
+        "answer": "B",
+        "funFact": "Iconoclasm was a controversy over whether religious images (icons) should be allowed, causing conflict in the 8th-9th centuries."
+    },
+    {
+        "question": "What was the Byzantine military?",
+        "A": "Weak",
+        "B": "Powerful with advanced tactics",
+        "C": "Small",
+        "D": "Unorganized",
+        "answer": "B",
+        "funFact": "The Byzantine military was powerful with advanced tactics, including Greek fire (a flamethrower-like weapon)."
+    },
+    {
+        "question": "What was Greek fire?",
+        "A": "A type of pottery",
+        "B": "A weapon that burned on water",
+        "C": "A building material",
+        "D": "A type of food",
+        "answer": "B",
+        "funFact": "Greek fire was a weapon that could burn on water, giving the Byzantine navy a significant advantage."
+    },
+    {
+        "question": "What was the Byzantine economy?",
+        "A": "Agricultural only",
+        "B": "Trade-based with strategic location",
+        "C": "Industrial",
+        "D": "Barter only",
+        "answer": "B",
+        "funFact": "The Byzantine economy was trade-based, with Constantinople's strategic location making it a major trading hub."
+    },
+    {
+        "question": "What was the fall of Constantinople?",
+        "A": "1453 to the Ottomans",
+        "B": "1204 to Crusaders",
+        "C": "476 to barbarians",
+        "D": "330 to Constantine",
+        "answer": "A",
+        "funFact": "Constantinople fell to the Ottoman Turks in 1453, marking the end of the Byzantine Empire."
+    },
+    {
+        "question": "What was the Byzantine language?",
+        "A": "Latin",
+        "B": "Greek",
+        "C": "Turkish",
+        "D": "Arabic",
+        "answer": "B",
+        "funFact": "Greek was the primary language of the Byzantine Empire, though Latin was used in early years."
+    },
+    {
+        "question": "What was the Byzantine influence on Russia?",
+        "A": "None",
+        "B": "Significant cultural and religious influence",
+        "C": "Only trade",
+        "D": "Only military",
+        "answer": "B",
+        "funFact": "The Byzantine Empire had significant influence on Russia, including the adoption of Eastern Orthodox Christianity."
+    },
+    {
+        "question": "What was the Byzantine preservation of knowledge?",
+        "A": "No preservation",
+        "B": "Preserved ancient Greek and Roman texts",
+        "C": "Only religious texts",
+        "D": "Only military texts",
+        "answer": "B",
+        "funFact": "The Byzantines preserved ancient Greek and Roman texts, which were later important for the Renaissance."
+    },
+    {
+        "question": "What was the Byzantine Empire's relationship with the West?",
+        "A": "Always friendly",
+        "B": "Complex, including conflicts and cooperation",
+        "C": "Always hostile",
+        "D": "No relationship",
+        "answer": "B",
+        "funFact": "The Byzantine Empire had a complex relationship with the West, including conflicts, cooperation, and eventual schism."
+    },
+    {
+        "question": "What was the Byzantine bureaucracy?",
+        "A": "Simple",
+        "B": "Complex and efficient",
+        "C": "None",
+        "D": "Corrupt",
+        "answer": "B",
+        "funFact": "The Byzantine Empire had a complex and efficient bureaucracy that helped maintain the empire for over 1,000 years."
+    },
+    {
+        "question": "What was the Byzantine Empire's duration?",
+        "A": "100 years",
+        "B": "Over 1,000 years",
+        "C": "500 years",
+        "D": "200 years",
+        "answer": "B",
+        "funFact": "The Byzantine Empire lasted over 1,000 years, from 330 to 1453 CE, one of the longest-lasting empires in history."
+    },
+    {
+        "question": "What was the Byzantine contribution to art?",
+        "A": "None",
+        "B": "Mosaics, icons, and architectural innovations",
+        "C": "Only paintings",
+        "D": "Only sculptures",
+        "answer": "B",
+        "funFact": "The Byzantines contributed mosaics, icons, and architectural innovations that influenced art for centuries."
+    },
+    {
+        "question": "What is the modern legacy of the Byzantine Empire?",
+        "A": "None",
+        "B": "Eastern Orthodox Church and cultural influence",
+        "C": "Only ruins",
+        "D": "Only museums",
+        "answer": "B",
+        "funFact": "The Byzantine legacy continues through the Eastern Orthodox Church and cultural influence in Eastern Europe and the Middle East."
+    }
+]

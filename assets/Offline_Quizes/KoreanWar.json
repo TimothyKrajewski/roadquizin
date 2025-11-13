@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the Korean War?",
+        "A": "A civil war",
+        "B": "A conflict in Korea from 1950-1953",
+        "C": "A trade war",
+        "D": "A cold war",
+        "answer": "B",
+        "funFact": "The Korean War was a conflict in Korea from 1950 to 1953, involving North Korea, South Korea, and UN forces."
+    },
+    {
+        "question": "What were the two sides?",
+        "A": "East and West",
+        "B": "North Korea and South Korea",
+        "C": "North and South Vietnam",
+        "D": "US and USSR",
+        "answer": "B",
+        "funFact": "The war was between North Korea (communist) and South Korea (democratic, supported by UN forces)."
+    },
+    {
+        "question": "What was the UN role?",
+        "A": "Neutral",
+        "B": "Supporting South Korea",
+        "C": "Supporting North Korea",
+        "D": "Not involved",
+        "answer": "B",
+        "funFact": "The United Nations supported South Korea, with the US providing the majority of UN forces."
+    },
+    {
+        "question": "What was the 38th parallel?",
+        "A": "A line of latitude",
+        "B": "The border between North and South Korea",
+        "C": "A river",
+        "D": "A mountain",
+        "answer": "B",
+        "funFact": "The 38th parallel is the line of latitude that divides North and South Korea."
+    },
+    {
+        "question": "What was the study of the Korean War called?",
+        "A": "Koreanology",
+        "B": "History",
+        "C": "Military history",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The Korean War is studied through history, military history, and international relations."
+    },
+    {
+        "question": "What was the period of the Korean War?",
+        "A": "1945-1950",
+        "B": "1950-1953",
+        "C": "1953-1960",
+        "D": "1960-1970",
+        "answer": "B",
+        "funFact": "The Korean War lasted from 1950 to 1953, ending in an armistice (not a peace treaty)."
+    },
+    {
+        "question": "What was an armistice?",
+        "A": "A peace treaty",
+        "B": "A ceasefire agreement",
+        "C": "A war",
+        "D": "A battle",
+        "answer": "B",
+        "funFact": "An armistice is a ceasefire agreement, and the Korean War ended with an armistice, not a peace treaty."
+    },
+    {
+        "question": "What was the DMZ?",
+        "A": "A war zone",
+        "B": "Demilitarized Zone",
+        "C": "A city",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "The DMZ (Demilitarized Zone) is a buffer zone between North and South Korea, established by the armistice."
+    },
+    {
+        "question": "What was the Inchon landing?",
+        "A": "A defeat",
+        "B": "A successful amphibious invasion",
+        "C": "A retreat",
+        "D": "A surrender",
+        "answer": "B",
+        "funFact": "The Inchon landing (1950) was a successful amphibious invasion that turned the tide of the war."
+    },
+    {
+        "question": "What was the Chinese intervention?",
+        "A": "Supporting South Korea",
+        "B": "China entering the war on North Korea's side",
+        "C": "Neutral",
+        "D": "Not involved",
+        "answer": "B",
+        "funFact": "China entered the war in 1950, sending hundreds of thousands of troops to support North Korea."
+    },
+    {
+        "question": "What was a stalemate?",
+        "A": "A victory",
+        "B": "A situation where neither side can win",
+        "C": "A defeat",
+        "D": "A peace treaty",
+        "answer": "B",
+        "funFact": "The Korean War ended in a stalemate, with neither side able to achieve a decisive victory."
+    },
+    {
+        "question": "What was the impact of the Korean War?",
+        "A": "No change",
+        "B": "Korea remains divided",
+        "C": "Korea unified",
+        "D": "Only affected Korea",
+        "answer": "B",
+        "funFact": "The Korean War resulted in Korea remaining divided, with the DMZ still separating North and South today."
+    },
+    {
+        "question": "What was a veteran?",
+        "A": "A civilian",
+        "B": "A former soldier",
+        "C": "A current soldier",
+        "D": "A politician",
+        "answer": "B",
+        "funFact": "A veteran is a former soldier who served in the military, and many served in the Korean War."
+    },
+    {
+        "question": "What was the Korean War Memorial?",
+        "A": "A building",
+        "B": "A monument honoring veterans",
+        "C": "A war",
+        "D": "A treaty",
+        "answer": "B",
+        "funFact": "The Korean War Veterans Memorial in Washington, D.C. honors those who served in the Korean War."
+    },
+    {
+        "question": "What was the 'Forgotten War'?",
+        "A": "World War I",
+        "B": "A nickname for the Korean War",
+        "C": "World War II",
+        "D": "Vietnam War",
+        "answer": "B",
+        "funFact": "The Korean War is sometimes called the 'Forgotten War' because it's less remembered than other conflicts."
+    },
+    {
+        "question": "What was the start of the Korean War?",
+        "A": "1945",
+        "B": "1950",
+        "C": "1953",
+        "D": "1960",
+        "answer": "B",
+        "funFact": "The Korean War began in 1950 when North Korea invaded South Korea."
+    },
+    {
+        "question": "What was the end of the Korean War?",
+        "A": "1950",
+        "B": "1953",
+        "C": "1960",
+        "D": "1970",
+        "answer": "B",
+        "funFact": "The Korean War ended in 1953 with an armistice agreement, though technically the war never officially ended."
+    },
+    {
+        "question": "What was the role of the Soviet Union?",
+        "A": "Supporting South Korea",
+        "B": "Supporting North Korea",
+        "C": "Neutral",
+        "D": "Not involved",
+        "answer": "B",
+        "funFact": "The Soviet Union supported North Korea, providing weapons and advisors, though not sending troops."
+    },
+    {
+        "question": "What was the role of the United States?",
+        "A": "Neutral",
+        "B": "Leading UN forces supporting South Korea",
+        "C": "Supporting North Korea",
+        "D": "Not involved",
+        "answer": "B",
+        "funFact": "The United States led UN forces supporting South Korea, providing the majority of troops and resources."
+    },
+    {
+        "question": "What was the significance of the Korean War?",
+        "A": "No significance",
+        "B": "First major conflict of the Cold War",
+        "C": "Last war",
+        "D": "Only affected Korea",
+        "answer": "B",
+        "funFact": "The Korean War was the first major conflict of the Cold War, testing the policy of containment."
+    }
+]

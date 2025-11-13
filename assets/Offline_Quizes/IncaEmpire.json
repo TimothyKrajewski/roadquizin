@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Where was the Inca Empire located?",
+        "A": "Mexico",
+        "B": "South America (Andes Mountains)",
+        "C": "Central America",
+        "D": "North America",
+        "answer": "B",
+        "funFact": "The Inca Empire was located in South America, primarily in the Andes Mountains, covering parts of modern Peru, Ecuador, Bolivia, Chile, and Colombia."
+    },
+    {
+        "question": "What was the capital of the Inca Empire?",
+        "A": "Lima",
+        "B": "Cusco",
+        "C": "Machu Picchu",
+        "D": "Quito",
+        "answer": "B",
+        "funFact": "Cusco was the capital of the Inca Empire, considered the 'navel of the world' in Quechua."
+    },
+    {
+        "question": "What was Machu Picchu?",
+        "A": "The capital",
+        "B": "A royal estate or religious site",
+        "C": "A military fortress",
+        "D": "A trading post",
+        "answer": "B",
+        "funFact": "Machu Picchu was likely a royal estate or religious site, built around 1450 and abandoned before Spanish arrival."
+    },
+    {
+        "question": "What was the Inca road system?",
+        "A": "Local paths",
+        "B": "An extensive network spanning the empire",
+        "C": "Only mountain trails",
+        "D": "Only coastal roads",
+        "answer": "B",
+        "funFact": "The Incas built an extensive road system (Qhapaq Ñan) spanning over 25,000 miles, connecting the entire empire."
+    },
+    {
+        "question": "What was quipu?",
+        "A": "A weapon",
+        "B": "A recording system using knotted strings",
+        "C": "A building",
+        "D": "A type of food",
+        "answer": "B",
+        "funFact": "Quipu was a recording system using knotted strings of different colors and lengths to record information."
+    },
+    {
+        "question": "What was the Inca social structure?",
+        "A": "Egalitarian",
+        "B": "Hierarchical with the Sapa Inca at top",
+        "C": "Democratic",
+        "D": "Tribal",
+        "answer": "B",
+        "funFact": "Inca society was hierarchical with the Sapa Inca (emperor) at the top, followed by nobles, administrators, and commoners."
+    },
+    {
+        "question": "What was the Inca agricultural innovation?",
+        "A": "Only basic farming",
+        "B": "Terraces, irrigation, and crop rotation",
+        "C": "Only terraces",
+        "D": "Only irrigation",
+        "answer": "B",
+        "funFact": "The Incas developed sophisticated agricultural techniques including terraces, irrigation systems, and crop rotation."
+    },
+    {
+        "question": "What was the Inca religion?",
+        "A": "Monotheistic",
+        "B": "Polytheistic with Inti as sun god",
+        "C": "Atheistic",
+        "D": "Agnostic",
+        "answer": "B",
+        "funFact": "The Incas were polytheistic, worshiping Inti (sun god) as the most important deity, along with other nature gods."
+    },
+    {
+        "question": "What was the Inca practice of mummification?",
+        "A": "They never practiced it",
+        "B": "Preserved mummies of important people",
+        "C": "Only for animals",
+        "D": "Only for enemies",
+        "answer": "B",
+        "funFact": "The Incas practiced mummification, preserving the mummies of important people, including past emperors."
+    },
+    {
+        "question": "What was the Inca conquest by Spain?",
+        "A": "Never conquered",
+        "B": "Conquered by Francisco Pizarro in 1533",
+        "C": "Conquered in 1500",
+        "D": "Conquered in 1600",
+        "answer": "B",
+        "funFact": "The Inca Empire was conquered by Francisco Pizarro and Spanish conquistadors in 1533, ending the empire."
+    },
+    {
+        "question": "What was the Inca language?",
+        "A": "Spanish",
+        "B": "Quechua",
+        "C": "Aymara",
+        "D": "Nahuatl",
+        "answer": "B",
+        "funFact": "Quechua was the official language of the Inca Empire and is still spoken by millions in the Andes today."
+    },
+    {
+        "question": "What was the Inca stonework?",
+        "A": "Rough stones",
+        "B": "Precise stone fitting without mortar",
+        "C": "Only with mortar",
+        "D": "Only wood",
+        "answer": "B",
+        "funFact": "Inca stonework featured precisely cut stones that fit together without mortar, with some joints so tight a knife blade can't fit."
+    },
+    {
+        "question": "What was the Inca system of mit'a?",
+        "A": "A tax",
+        "B": "Labor service to the state",
+        "C": "A currency",
+        "D": "A measurement",
+        "answer": "B",
+        "funFact": "Mit'a was a labor service system where subjects worked for the state, used to build roads, terraces, and buildings."
+    },
+    {
+        "question": "What was the Inca economy?",
+        "A": "Market-based",
+        "B": "State-controlled redistribution",
+        "C": "Capitalist",
+        "D": "Barter only",
+        "answer": "B",
+        "funFact": "The Inca economy was state-controlled with redistribution, where the state collected and redistributed goods."
+    },
+    {
+        "question": "What was the Inca military?",
+        "A": "Weak",
+        "B": "Powerful and well-organized",
+        "C": "Small",
+        "D": "Unorganized",
+        "answer": "B",
+        "funFact": "The Inca military was powerful and well-organized, allowing them to expand and control a vast empire."
+    },
+    {
+        "question": "What was the Inca calendar?",
+        "A": "Only solar",
+        "B": "Solar and lunar calendars",
+        "C": "Only lunar",
+        "D": "No calendar",
+        "answer": "B",
+        "funFact": "The Incas used both solar and lunar calendars to organize agricultural and religious activities."
+    },
+    {
+        "question": "What was the Inca textile production?",
+        "A": "Basic",
+        "B": "Highly skilled with intricate designs",
+        "C": "Simple",
+        "D": "None",
+        "answer": "B",
+        "funFact": "Inca textile production was highly skilled, creating intricate designs and fine fabrics, often using alpaca and llama wool."
+    },
+    {
+        "question": "What was the Inca expansion?",
+        "A": "Small territory",
+        "B": "Rapid expansion over 100 years",
+        "C": "No expansion",
+        "D": "Slow expansion",
+        "answer": "B",
+        "funFact": "The Inca Empire expanded rapidly over about 100 years, becoming the largest empire in pre-Columbian America."
+    },
+    {
+        "question": "What was the Inca treatment of conquered peoples?",
+        "A": "Enslavement",
+        "B": "Integration with local leaders retained",
+        "C": "Extermination",
+        "D": "Expulsion",
+        "answer": "B",
+        "funFact": "The Incas often integrated conquered peoples, allowing local leaders to retain some authority while imposing Inca administration."
+    },
+    {
+        "question": "What is the modern legacy of the Incas?",
+        "A": "None",
+        "B": "Millions of descendants and cultural influence",
+        "C": "Only ruins",
+        "D": "Only museums",
+        "answer": "B",
+        "funFact": "The Inca legacy continues with millions of Quechua-speaking descendants and ongoing cultural influence in the Andes."
+    }
+]

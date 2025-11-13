@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is classical music?",
+        "A": "Rock music",
+        "B": "Orchestral and formal Western music",
+        "C": "Jazz",
+        "D": "Country",
+        "answer": "B",
+        "funFact": "Classical music refers to orchestral and formal music from the Western tradition, spanning centuries."
+    },
+    {
+        "question": "What is a symphony?",
+        "A": "A short piece",
+        "B": "A large orchestral work",
+        "C": "A song",
+        "D": "A solo",
+        "answer": "B",
+        "funFact": "A symphony is a large orchestral work, typically in four movements, written for a full orchestra."
+    },
+    {
+        "question": "What is a concerto?",
+        "A": "A solo piece",
+        "B": "A work featuring a soloist with orchestra",
+        "C": "A song",
+        "D": "A symphony",
+        "answer": "B",
+        "funFact": "A concerto is a work featuring a solo instrument (like piano or violin) accompanied by an orchestra."
+    },
+    {
+        "question": "What is an orchestra?",
+        "A": "A small group",
+        "B": "A large ensemble of instruments",
+        "C": "A soloist",
+        "D": "A choir",
+        "answer": "B",
+        "funFact": "An orchestra is a large ensemble of musicians playing string, woodwind, brass, and percussion instruments."
+    },
+    {
+        "question": "What is a conductor?",
+        "A": "A musician",
+        "B": "The leader who directs the orchestra",
+        "C": "A composer",
+        "D": "A soloist",
+        "answer": "B",
+        "funFact": "A conductor is the leader who directs the orchestra using hand gestures and a baton."
+    },
+    {
+        "question": "What is a composer?",
+        "A": "A performer",
+        "B": "Someone who writes music",
+        "C": "A conductor",
+        "D": "A soloist",
+        "answer": "B",
+        "funFact": "A composer is someone who writes music, creating the musical score that performers play."
+    },
+    {
+        "question": "What is a sonata?",
+        "A": "A symphony",
+        "B": "A work for solo instrument or small group",
+        "C": "A song",
+        "D": "An opera",
+        "answer": "B",
+        "funFact": "A sonata is a work for a solo instrument or small group, typically in three or four movements."
+    },
+    {
+        "question": "What is an opera?",
+        "A": "A symphony",
+        "B": "A dramatic work with singing",
+        "C": "A song",
+        "D": "A concerto",
+        "answer": "B",
+        "funFact": "An opera is a dramatic work that combines music, singing, acting, and often elaborate staging."
+    },
+    {
+        "question": "What is a movement?",
+        "A": "A full work",
+        "B": "A section of a larger work",
+        "C": "A song",
+        "D": "An instrument",
+        "answer": "B",
+        "funFact": "A movement is a section of a larger work, like a symphony, that has its own tempo and character."
+    },
+    {
+        "question": "What is a quartet?",
+        "A": "One person",
+        "B": "Four musicians",
+        "C": "Five musicians",
+        "D": "Six musicians",
+        "answer": "B",
+        "funFact": "A quartet is a group of four musicians, like a string quartet (two violins, viola, cello)."
+    },
+    {
+        "question": "What is a piano?",
+        "A": "A string instrument",
+        "B": "A keyboard instrument",
+        "C": "A wind instrument",
+        "D": "A percussion instrument",
+        "answer": "B",
+        "funFact": "The piano is a keyboard instrument that produces sound by hammers striking strings."
+    },
+    {
+        "question": "What is a violin?",
+        "A": "A keyboard instrument",
+        "B": "A string instrument",
+        "C": "A wind instrument",
+        "D": "A percussion instrument",
+        "answer": "B",
+        "funFact": "The violin is a string instrument played with a bow, the smallest and highest-pitched of the string family."
+    },
+    {
+        "question": "What is a symphony orchestra?",
+        "A": "A small group",
+        "B": "A large orchestra",
+        "C": "A soloist",
+        "D": "A choir",
+        "answer": "B",
+        "funFact": "A symphony orchestra is a large orchestra with all instrument families, typically 80-100 musicians."
+    },
+    {
+        "question": "What is the study of classical music called?",
+        "A": "Classicalology",
+        "B": "Musicology",
+        "C": "Classical studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Classical music is studied through musicology, music theory, and classical studies programs."
+    },
+    {
+        "question": "What is a maestro?",
+        "A": "A student",
+        "B": "A master conductor or musician",
+        "C": "A beginner",
+        "D": "A composer",
+        "answer": "B",
+        "funFact": "Maestro is an Italian term meaning 'master,' used to address respected conductors or musicians."
+    },
+    {
+        "question": "What is a recital?",
+        "A": "A large concert",
+        "B": "A solo or small group performance",
+        "C": "A rehearsal",
+        "D": "A recording",
+        "answer": "B",
+        "funFact": "A recital is a performance by a soloist or small group, often in an intimate setting."
+    },
+    {
+        "question": "What is a conservatory?",
+        "A": "A greenhouse",
+        "B": "A music school",
+        "C": "A concert hall",
+        "D": "A recording studio",
+        "answer": "B",
+        "funFact": "A conservatory is a music school that provides advanced training in classical music performance and composition."
+    },
+    {
+        "question": "What is a score?",
+        "A": "A point",
+        "B": "The written music",
+        "C": "A performance",
+        "D": "A recording",
+        "answer": "B",
+        "funFact": "A score is the written music notation that shows all the parts for an orchestra or ensemble."
+    },
+    {
+        "question": "What is a virtuoso?",
+        "A": "A beginner",
+        "B": "An exceptionally skilled performer",
+        "C": "A composer",
+        "D": "A conductor",
+        "answer": "B",
+        "funFact": "A virtuoso is an exceptionally skilled performer who demonstrates outstanding technical ability."
+    },
+    {
+        "question": "What is the Classical period?",
+        "A": "The 1600s",
+        "B": "The late 1700s to early 1800s",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "The Classical period (late 1700s to early 1800s) featured composers like Mozart, Haydn, and early Beethoven."
+    }
+]

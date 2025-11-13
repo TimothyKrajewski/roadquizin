@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is Norse mythology?",
+        "A": "Greek myths",
+        "B": "Myths and legends of the Norse people",
+        "C": "Roman myths",
+        "D": "Egyptian myths",
+        "answer": "B",
+        "funFact": "Norse mythology consists of the myths and legends of the Norse people (Vikings) from Scandinavia."
+    },
+    {
+        "question": "Who is Odin?",
+        "A": "A warrior",
+        "B": "The chief god, god of wisdom and war",
+        "C": "A giant",
+        "D": "A dwarf",
+        "answer": "B",
+        "funFact": "Odin is the chief god in Norse mythology, associated with wisdom, war, death, and poetry."
+    },
+    {
+        "question": "Who is Thor?",
+        "A": "A giant",
+        "B": "God of thunder and strength",
+        "C": "A dwarf",
+        "D": "A human",
+        "answer": "B",
+        "funFact": "Thor is the god of thunder and strength, wielding the hammer Mjolnir, one of the most popular Norse gods."
+    },
+    {
+        "question": "What is Mjolnir?",
+        "A": "A sword",
+        "B": "Thor's magical hammer",
+        "C": "A shield",
+        "D": "A spear",
+        "answer": "B",
+        "funFact": "Mjolnir is Thor's magical hammer, which always returns to his hand and never misses its target."
+    },
+    {
+        "question": "Who is Loki?",
+        "A": "A hero",
+        "B": "The trickster god",
+        "C": "A giant",
+        "D": "A dwarf",
+        "answer": "B",
+        "funFact": "Loki is the trickster god, known for his cunning, shape-shifting, and causing trouble among the gods."
+    },
+    {
+        "question": "What is Valhalla?",
+        "A": "A realm",
+        "B": "The hall where slain warriors go",
+        "C": "A weapon",
+        "D": "A god",
+        "answer": "B",
+        "funFact": "Valhalla is the great hall where Odin receives slain warriors who died in battle, preparing for Ragnarok."
+    },
+    {
+        "question": "What is Ragnarok?",
+        "A": "A battle",
+        "B": "The end of the world in Norse mythology",
+        "C": "A realm",
+        "D": "A god",
+        "answer": "B",
+        "funFact": "Ragnarok is the prophesied end of the world in Norse mythology, a great battle where many gods die."
+    },
+    {
+        "question": "What is Yggdrasil?",
+        "A": "A god",
+        "B": "The world tree connecting the nine realms",
+        "C": "A weapon",
+        "D": "A realm",
+        "answer": "B",
+        "funFact": "Yggdrasil is the world tree, a giant ash tree that connects the nine realms of Norse mythology."
+    },
+    {
+        "question": "Who are the Valkyries?",
+        "A": "Goddesses",
+        "B": "Female figures who choose slain warriors",
+        "C": "Giants",
+        "D": "Dwarves",
+        "answer": "B",
+        "funFact": "Valkyries are female figures who choose which warriors die in battle and go to Valhalla."
+    },
+    {
+        "question": "What are the nine realms?",
+        "A": "Nine countries",
+        "B": "Nine worlds in Norse cosmology",
+        "C": "Nine gods",
+        "D": "Nine weapons",
+        "answer": "B",
+        "funFact": "The nine realms are the nine worlds in Norse cosmology, including Asgard (gods), Midgard (humans), and others."
+    },
+    {
+        "question": "What is Asgard?",
+        "A": "A weapon",
+        "B": "The realm of the gods",
+        "C": "A god",
+        "D": "A giant",
+        "answer": "B",
+        "funFact": "Asgard is the realm of the Aesir gods, ruled by Odin, connected to Midgard by the rainbow bridge Bifrost."
+    },
+    {
+        "question": "What is Midgard?",
+        "A": "The realm of gods",
+        "B": "The realm of humans",
+        "C": "The realm of giants",
+        "D": "The realm of the dead",
+        "answer": "B",
+        "funFact": "Midgard is the realm of humans, the middle world, protected by the gods from the giants."
+    },
+    {
+        "question": "Who is Freya?",
+        "A": "A giant",
+        "B": "Goddess of love, beauty, and fertility",
+        "C": "A dwarf",
+        "D": "A human",
+        "answer": "B",
+        "funFact": "Freya is the goddess of love, beauty, fertility, and war, one of the most important goddesses in Norse mythology."
+    },
+    {
+        "question": "What are the Jotnar?",
+        "A": "Gods",
+        "B": "Giants, often enemies of the gods",
+        "C": "Dwarves",
+        "D": "Humans",
+        "answer": "B",
+        "funFact": "The Jotnar are giants in Norse mythology, often enemies of the gods, though some have relationships with gods."
+    },
+    {
+        "question": "What is Bifrost?",
+        "A": "A weapon",
+        "B": "The rainbow bridge to Asgard",
+        "C": "A realm",
+        "D": "A god",
+        "answer": "B",
+        "funFact": "Bifrost is the rainbow bridge that connects Midgard (Earth) to Asgard (realm of the gods)."
+    },
+    {
+        "question": "Who is Baldr?",
+        "A": "A giant",
+        "B": "The god of light and beauty, killed by Loki",
+        "C": "A dwarf",
+        "D": "A human",
+        "answer": "B",
+        "funFact": "Baldr is the god of light and beauty, beloved by all, whose death (caused by Loki) is a key event leading to Ragnarok."
+    },
+    {
+        "question": "What are the Eddas?",
+        "A": "Gods",
+        "B": "Medieval texts preserving Norse mythology",
+        "C": "Weapons",
+        "D": "Realms",
+        "answer": "B",
+        "funFact": "The Eddas are medieval Icelandic texts (Poetic Edda and Prose Edda) that preserve much of Norse mythology."
+    },
+    {
+        "question": "What is the importance of Norse mythology?",
+        "A": "Not important",
+        "B": "Cultural heritage and influence on literature",
+        "C": "Minor importance",
+        "D": "Only historical",
+        "answer": "B",
+        "funFact": "Norse mythology is important as cultural heritage and has influenced literature, art, and popular culture."
+    },
+    {
+        "question": "What is the study of Norse mythology called?",
+        "A": "Norseology",
+        "B": "Norse mythology studies",
+        "C": "Scandinavian studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Norse mythology is studied through mythology, literature, and Scandinavian studies, exploring its stories and cultural significance."
+    },
+    {
+        "question": "What is the modern influence of Norse mythology?",
+        "A": "None",
+        "B": "Influences literature, art, and popular culture",
+        "C": "Only historical",
+        "D": "Only in Scandinavia",
+        "answer": "B",
+        "funFact": "Norse mythology continues to influence literature, art, and popular culture, including modern adaptations in books, films, and games."
+    }
+]

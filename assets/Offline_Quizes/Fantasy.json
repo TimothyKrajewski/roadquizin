@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is fantasy literature?",
+        "A": "Realistic fiction",
+        "B": "Fiction with magic and supernatural elements",
+        "C": "Science fiction",
+        "D": "Historical fiction",
+        "answer": "B",
+        "funFact": "Fantasy literature features magic, supernatural elements, and imaginary worlds, distinct from realistic fiction."
+    },
+    {
+        "question": "Who wrote 'The Lord of the Rings'?",
+        "A": "C.S. Lewis",
+        "B": "J.R.R. Tolkien",
+        "C": "George R.R. Martin",
+        "D": "J.K. Rowling",
+        "answer": "B",
+        "funFact": "J.R.R. Tolkien wrote 'The Lord of the Rings,' one of the most influential fantasy works ever written."
+    },
+    {
+        "question": "Who wrote 'The Chronicles of Narnia'?",
+        "A": "J.R.R. Tolkien",
+        "B": "C.S. Lewis",
+        "C": "George R.R. Martin",
+        "D": "J.K. Rowling",
+        "answer": "B",
+        "funFact": "C.S. Lewis wrote 'The Chronicles of Narnia,' a series of seven fantasy novels for children."
+    },
+    {
+        "question": "What is the study of fantasy called?",
+        "A": "Fantasyology",
+        "B": "Fantasy studies",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Fantasy is studied through literary studies, genre analysis, and fantasy research."
+    },
+    {
+        "question": "What is the impact of fantasy?",
+        "A": "No impact",
+        "B": "Influencing literature, film, and culture",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Fantasy has influenced literature, film, games, and culture, creating beloved worlds and characters."
+    },
+    {
+        "question": "What is the origin of fantasy?",
+        "A": "The 2000s",
+        "B": "Ancient myths and legends",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "Fantasy has roots in ancient myths and legends, with modern fantasy developing in the 1800s-1900s."
+    },
+    {
+        "question": "What is the future of fantasy?",
+        "A": "No future",
+        "B": "Continued creation of new worlds and stories",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Fantasy continues to create new worlds and stories, with diverse voices and innovative approaches."
+    },
+    {
+        "question": "What is the importance of fantasy?",
+        "A": "Not important",
+        "B": "Major genre exploring imagination and myth",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Fantasy is a major genre that explores imagination, myth, and human experience through magical worlds."
+    },
+    {
+        "question": "What is the study of fantasy called?",
+        "A": "Fantasyology",
+        "B": "Fantasy analysis",
+        "C": "Genre studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Fantasy is studied through literary studies, genre analysis, and fantasy research."
+    },
+    {
+        "question": "What is the difference between high and low fantasy?",
+        "A": "They're the same",
+        "B": "High fantasy is in imaginary worlds, low is in real world",
+        "C": "Low fantasy is in imaginary worlds",
+        "D": "High fantasy is in real world",
+        "answer": "B",
+        "funFact": "High fantasy is set in completely imaginary worlds, while low fantasy has magical elements in the real world."
+    },
+    {
+        "question": "What is the impact of fantasy on culture?",
+        "A": "No impact",
+        "B": "Creating beloved worlds and influencing media",
+        "C": "Minor changes",
+        "D": "Only affects some countries",
+        "answer": "B",
+        "funFact": "Fantasy has created beloved worlds and characters, influencing books, films, games, and popular culture."
+    },
+    {
+        "question": "What is the origin of fantasy?",
+        "A": "The 2000s",
+        "B": "Ancient mythology and folklore",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "Fantasy has roots in ancient mythology and folklore, with modern fantasy emerging in the 1800s-1900s."
+    },
+    {
+        "question": "What is the future of fantasy?",
+        "A": "No future",
+        "B": "Evolving with new voices and perspectives",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Fantasy continues to evolve with new voices, perspectives, and innovative approaches to world-building."
+    },
+    {
+        "question": "What is the study of fantasy called?",
+        "A": "Fantasyology",
+        "B": "Fantasy studies",
+        "C": "Speculative fiction",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Fantasy is studied through literary studies, genre research, and speculative fiction analysis."
+    },
+    {
+        "question": "What is the importance of fantasy?",
+        "A": "Not important",
+        "B": "Exploring imagination and human experience",
+        "C": "Minor importance",
+        "D": "Only for readers",
+        "answer": "B",
+        "funFact": "Fantasy explores imagination and human experience through magical worlds, providing escape and insight."
+    },
+    {
+        "question": "What is the difference between fantasy and science fiction?",
+        "A": "They're the same",
+        "B": "Fantasy uses magic, sci-fi uses science",
+        "C": "Sci-fi uses magic",
+        "D": "Fantasy uses science",
+        "answer": "B",
+        "funFact": "Fantasy uses magic and supernatural elements, while science fiction is based on scientific principles and technology."
+    },
+    {
+        "question": "What is the impact of fantasy on entertainment?",
+        "A": "No impact",
+        "B": "Major influence on books, films, and games",
+        "C": "Minor changes",
+        "D": "Only affects some media",
+        "answer": "B",
+        "funFact": "Fantasy has major influence on books, films, video games, and other forms of entertainment."
+    },
+    {
+        "question": "What is the origin of fantasy?",
+        "A": "The 2000s",
+        "B": "Ancient myths and modern literature",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "Fantasy draws from ancient myths and has developed as a modern literary genre since the 1800s-1900s."
+    },
+    {
+        "question": "What is the future of fantasy?",
+        "A": "No future",
+        "B": "Continued innovation and diverse stories",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Fantasy continues to innovate with diverse stories, new worlds, and fresh perspectives on the genre."
+    },
+    {
+        "question": "What is the study of fantasy called?",
+        "A": "Fantasyology",
+        "B": "Fantasy research",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Fantasy is studied through literary studies, genre research, and fantasy analysis, exploring its themes and worlds."
+    }
+]

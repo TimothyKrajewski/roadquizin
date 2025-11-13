@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What is cryptocurrency?",
+        "A": "Regular currency",
+        "B": "Digital currency using cryptography",
+        "C": "Physical money",
+        "D": "Bank money",
+        "answer": "B",
+        "funFact": "Cryptocurrency is digital currency that uses cryptography for security and operates independently of central banks."
+    },
+    {
+        "question": "What is Bitcoin?",
+        "A": "A coin",
+        "B": "The first and most famous cryptocurrency",
+        "C": "A bank",
+        "D": "A company",
+        "answer": "B",
+        "funFact": "Bitcoin, created in 2009, was the first cryptocurrency and remains the most valuable and well-known."
+    },
+    {
+        "question": "What is blockchain?",
+        "A": "A chain",
+        "B": "A distributed ledger technology",
+        "C": "A currency",
+        "D": "A bank",
+        "answer": "B",
+        "funFact": "Blockchain is a distributed ledger technology that records transactions across many computers, making it secure and transparent."
+    },
+    {
+        "question": "What is mining?",
+        "A": "Digging",
+        "B": "The process of validating transactions and creating new coins",
+        "C": "Buying",
+        "D": "Selling",
+        "answer": "B",
+        "funFact": "Mining is the process of validating cryptocurrency transactions and creating new coins by solving complex mathematical problems."
+    },
+    {
+        "question": "What is a wallet?",
+        "A": "A physical wallet",
+        "B": "Software for storing cryptocurrency",
+        "C": "A bank",
+        "D": "A coin",
+        "answer": "B",
+        "funFact": "A cryptocurrency wallet is software or hardware that stores the keys needed to access and manage your cryptocurrency."
+    },
+    {
+        "question": "What is the study of cryptocurrency called?",
+        "A": "Cryptocurrencyology",
+        "B": "Cryptocurrency",
+        "C": "Blockchain technology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Cryptocurrency is studied through blockchain technology, cryptography, and digital finance research."
+    },
+    {
+        "question": "What is the impact of cryptocurrency?",
+        "A": "No impact",
+        "B": "Transforming finance and digital transactions",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Cryptocurrency is transforming finance, enabling decentralized transactions and new forms of digital money."
+    },
+    {
+        "question": "What is the origin of cryptocurrency?",
+        "A": "The 2000s",
+        "B": "2009 with Bitcoin",
+        "C": "The 1990s",
+        "D": "The 1980s",
+        "answer": "B",
+        "funFact": "Cryptocurrency began with Bitcoin in 2009, created by an anonymous person or group using the name Satoshi Nakamoto."
+    },
+    {
+        "question": "What is the future of cryptocurrency?",
+        "A": "No future",
+        "B": "Continued evolution and adoption",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of cryptocurrency includes wider adoption, new use cases, and integration with traditional finance."
+    },
+    {
+        "question": "What is the importance of cryptocurrency?",
+        "A": "Not important",
+        "B": "Potential to transform finance and transactions",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Cryptocurrency has the potential to transform finance, enable decentralized transactions, and create new economic systems."
+    },
+    {
+        "question": "What is the study of cryptocurrency called?",
+        "A": "Cryptocurrencyology",
+        "B": "Blockchain studies",
+        "C": "Digital finance",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Cryptocurrency involves blockchain technology, cryptography, economics, and digital finance."
+    },
+    {
+        "question": "What is the difference between cryptocurrency and traditional currency?",
+        "A": "They're the same",
+        "B": "Cryptocurrency is decentralized and digital",
+        "C": "Traditional currency is decentralized",
+        "D": "Cryptocurrency is physical",
+        "answer": "B",
+        "funFact": "Cryptocurrency is decentralized (no central authority) and purely digital, while traditional currency is centralized and can be physical."
+    },
+    {
+        "question": "What is the impact of cryptocurrency on finance?",
+        "A": "No impact",
+        "B": "Challenging traditional banking and payment systems",
+        "C": "Minor changes",
+        "D": "Only affects some countries",
+        "answer": "B",
+        "funFact": "Cryptocurrency is challenging traditional banking and payment systems, enabling peer-to-peer transactions without intermediaries."
+    },
+    {
+        "question": "What is the origin of cryptocurrency?",
+        "A": "The 2000s",
+        "B": "2009",
+        "C": "The 1990s",
+        "D": "The 1980s",
+        "answer": "B",
+        "funFact": "Cryptocurrency began with Bitcoin in 2009, though concepts of digital currency existed earlier."
+    },
+    {
+        "question": "What is the future of cryptocurrency?",
+        "A": "No future",
+        "B": "Continued development and potential mainstream adoption",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of cryptocurrency includes continued development, potential regulation, and possible mainstream adoption."
+    },
+    {
+        "question": "What is the study of cryptocurrency called?",
+        "A": "Cryptocurrencyology",
+        "B": "Cryptocurrency research",
+        "C": "Blockchain technology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Cryptocurrency is studied through blockchain technology, cryptography, economics, and digital finance."
+    },
+    {
+        "question": "What is the importance of cryptocurrency?",
+        "A": "Not important",
+        "B": "Potential to revolutionize finance",
+        "C": "Minor importance",
+        "D": "Only for investors",
+        "answer": "B",
+        "funFact": "Cryptocurrency has the potential to revolutionize finance, enable new economic models, and provide financial inclusion."
+    },
+    {
+        "question": "What is the difference between Bitcoin and other cryptocurrencies?",
+        "A": "They're the same",
+        "B": "Bitcoin was first, others are alternatives",
+        "C": "Others came first",
+        "D": "Bitcoin is not a cryptocurrency",
+        "answer": "B",
+        "funFact": "Bitcoin was the first cryptocurrency, while others (altcoins) are alternatives with different features and purposes."
+    },
+    {
+        "question": "What is the impact of cryptocurrency on society?",
+        "A": "No impact",
+        "B": "Potential to change how people transact and store value",
+        "C": "Minor changes",
+        "D": "Only affects technology",
+        "answer": "B",
+        "funFact": "Cryptocurrency has the potential to change how people transact, store value, and interact with financial systems."
+    },
+    {
+        "question": "What is the origin of cryptocurrency?",
+        "A": "The 2000s",
+        "B": "2009",
+        "C": "The 1990s",
+        "D": "The 1980s",
+        "answer": "B",
+        "funFact": "Cryptocurrency began with Bitcoin in 2009, created to enable peer-to-peer electronic cash without central authority."
+    },
+    {
+        "question": "What is the future of cryptocurrency?",
+        "A": "No future",
+        "B": "Continued innovation and evolution",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of cryptocurrency includes continued innovation, new use cases, and potential integration with traditional finance."
+    }
+]

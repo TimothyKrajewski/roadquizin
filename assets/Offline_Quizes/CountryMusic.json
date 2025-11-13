@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is country music?",
+        "A": "Rock music",
+        "B": "Music with rural themes and storytelling",
+        "C": "Jazz",
+        "D": "Classical",
+        "answer": "B",
+        "funFact": "Country music features rural themes, storytelling, and often includes instruments like guitar, fiddle, and banjo."
+    },
+    {
+        "question": "What is the origin of country music?",
+        "A": "New York",
+        "B": "The American South and Appalachia",
+        "C": "Los Angeles",
+        "D": "Chicago",
+        "answer": "B",
+        "funFact": "Country music originated in the American South and Appalachia, blending folk, blues, and gospel traditions."
+    },
+    {
+        "question": "What instrument is central to country music?",
+        "A": "Piano",
+        "B": "Guitar",
+        "C": "Violin",
+        "D": "Flute",
+        "answer": "B",
+        "funFact": "The guitar is central to country music, often acoustic in traditional country and electric in modern country."
+    },
+    {
+        "question": "What is a fiddle?",
+        "A": "A different instrument",
+        "B": "A violin played in country style",
+        "C": "A guitar",
+        "D": "A banjo",
+        "answer": "B",
+        "funFact": "A fiddle is a violin played in country or folk style, with a distinctive playing technique."
+    },
+    {
+        "question": "What is a banjo?",
+        "A": "A guitar",
+        "B": "A string instrument with a round body",
+        "C": "A drum",
+        "D": "A piano",
+        "answer": "B",
+        "funFact": "A banjo is a string instrument with a round body and distinctive twangy sound, common in country and bluegrass."
+    },
+    {
+        "question": "What is bluegrass?",
+        "A": "A type of grass",
+        "B": "A subgenre of country music",
+        "C": "A color",
+        "D": "A place",
+        "answer": "B",
+        "funFact": "Bluegrass is a subgenre of country music with fast tempos, acoustic instruments, and tight harmonies."
+    },
+    {
+        "question": "What is Nashville?",
+        "A": "A person",
+        "B": "The capital of country music",
+        "C": "A song",
+        "D": "An instrument",
+        "answer": "B",
+        "funFact": "Nashville, Tennessee is known as 'Music City' and is the capital of country music."
+    },
+    {
+        "question": "What is the Grand Ole Opry?",
+        "A": "A song",
+        "B": "A famous country music venue",
+        "C": "An instrument",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The Grand Ole Opry is a famous country music venue and radio show in Nashville, running since 1925."
+    },
+    {
+        "question": "What is a country ballad?",
+        "A": "A fast song",
+        "B": "A slow, emotional country song",
+        "C": "An instrumental",
+        "D": "A dance song",
+        "answer": "B",
+        "funFact": "A country ballad is a slow, emotional song that tells a story, often about love or heartbreak."
+    },
+    {
+        "question": "What is honky-tonk?",
+        "A": "A type of music",
+        "B": "A style of country music and a type of bar",
+        "C": "A person",
+        "D": "An instrument",
+        "answer": "B",
+        "funFact": "Honky-tonk is both a style of country music with a danceable beat and a type of bar where it's played."
+    },
+    {
+        "question": "What is a country star?",
+        "A": "A regular person",
+        "B": "A famous country musician",
+        "C": "A fan",
+        "D": "A producer",
+        "answer": "B",
+        "funFact": "A country star is a famous, successful country musician with a large following."
+    },
+    {
+        "question": "What is the study of country music called?",
+        "A": "Countryology",
+        "B": "Musicology",
+        "C": "Country studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Country music is studied through musicology, cultural studies, and country music history."
+    },
+    {
+        "question": "What is a country album?",
+        "A": "A single song",
+        "B": "A collection of country songs",
+        "C": "A concert",
+        "D": "A video",
+        "answer": "B",
+        "funFact": "A country album is a collection of country songs released together, typically on CD, vinyl, or digital format."
+    },
+    {
+        "question": "What is a steel guitar?",
+        "A": "A regular guitar",
+        "B": "A guitar with a distinctive sliding sound",
+        "C": "A banjo",
+        "D": "A fiddle",
+        "answer": "B",
+        "funFact": "A steel guitar is played with a steel bar, creating a distinctive sliding, twangy sound common in country music."
+    },
+    {
+        "question": "What is a country concert?",
+        "A": "A recording",
+        "B": "A live performance of country music",
+        "C": "A practice",
+        "D": "A rehearsal",
+        "answer": "B",
+        "funFact": "A country concert is a live performance where country artists play for an audience."
+    },
+    {
+        "question": "What is a country song typically about?",
+        "A": "Space",
+        "B": "Love, heartbreak, and rural life",
+        "C": "Technology",
+        "D": "Science",
+        "answer": "B",
+        "funFact": "Country songs typically tell stories about love, heartbreak, rural life, family, and working-class experiences."
+    },
+    {
+        "question": "What is a country band?",
+        "A": "A single person",
+        "B": "A group playing country music",
+        "C": "A rock band",
+        "D": "A jazz band",
+        "answer": "B",
+        "funFact": "A country band is a group of musicians who play country music together, typically with guitar, bass, drums, and other instruments."
+    },
+    {
+        "question": "What is a country music festival?",
+        "A": "A single concert",
+        "B": "A multi-day event featuring country music",
+        "C": "A competition",
+        "D": "A workshop",
+        "answer": "B",
+        "funFact": "A country music festival is a multi-day event featuring multiple country performances and artists."
+    },
+    {
+        "question": "What is the name of the country music awards?",
+        "A": "Grammys",
+        "B": "CMAs",
+        "C": "Oscars",
+        "D": "Emmys",
+        "answer": "B",
+        "funFact": "The CMAs (Country Music Association Awards) are the premier awards for country music."
+    },
+    {
+        "question": "What is a country legend?",
+        "A": "A story",
+        "B": "A highly influential country musician",
+        "C": "A song",
+        "D": "An instrument",
+        "answer": "B",
+        "funFact": "A country legend is a highly influential country musician who has made significant contributions to the genre."
+    }
+]

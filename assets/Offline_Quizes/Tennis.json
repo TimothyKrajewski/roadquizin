@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many points make a game in tennis?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "answer": "B",
+        "funFact": "A game in tennis is won by the first player to reach 4 points (with a 2-point lead)."
+    },
+    {
+        "question": "What is a score of zero called in tennis?",
+        "A": "Zero",
+        "B": "Love",
+        "C": "Nil",
+        "D": "Nothing",
+        "answer": "B",
+        "funFact": "In tennis, 'love' means zero points, possibly derived from the French word 'l'oeuf' (egg)."
+    },
+    {
+        "question": "How many sets are in a standard men's Grand Slam match?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "answer": "C",
+        "funFact": "Men's Grand Slam matches are best of 5 sets, while women's are best of 3 sets."
+    },
+    {
+        "question": "What is the name of the major tournament played at Wimbledon?",
+        "A": "US Open",
+        "B": "French Open",
+        "C": "Australian Open",
+        "D": "Wimbledon Championships",
+        "answer": "D",
+        "funFact": "Wimbledon is the oldest tennis tournament in the world, first held in 1877."
+    },
+    {
+        "question": "What is a serve that the opponent cannot return called?",
+        "A": "Ace",
+        "B": "Fault",
+        "C": "Let",
+        "D": "Double fault",
+        "answer": "A",
+        "funFact": "An ace is a serve that lands in the service box and the opponent cannot return."
+    },
+    {
+        "question": "What is the surface at the French Open?",
+        "A": "Grass",
+        "B": "Hard court",
+        "C": "Clay",
+        "D": "Carpet",
+        "answer": "C",
+        "funFact": "The French Open is played on red clay courts, which slow down the ball."
+    },
+    {
+        "question": "What is the surface at Wimbledon?",
+        "A": "Grass",
+        "B": "Hard court",
+        "C": "Clay",
+        "D": "Carpet",
+        "answer": "A",
+        "funFact": "Wimbledon is the only Grand Slam tournament still played on grass courts."
+    },
+    {
+        "question": "What is a tiebreak?",
+        "A": "A type of serve",
+        "B": "A way to decide a set at 6-6",
+        "C": "A fault",
+        "D": "A let",
+        "answer": "B",
+        "funFact": "A tiebreak is played when a set reaches 6-6 games to decide the winner."
+    },
+    {
+        "question": "What is the maximum number of Grand Slam tournaments in a year?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "C",
+        "funFact": "There are 4 Grand Slam tournaments: Australian Open, French Open, Wimbledon, and US Open."
+    },
+    {
+        "question": "What is a double fault?",
+        "A": "Two aces",
+        "B": "Two missed serves",
+        "C": "A tiebreak",
+        "D": "A let",
+        "answer": "B",
+        "funFact": "A double fault occurs when a player misses both first and second serves, losing the point."
+    },
+    {
+        "question": "What is the name for winning all four Grand Slams in one year?",
+        "A": "Grand Slam",
+        "B": "Golden Slam",
+        "C": "Career Grand Slam",
+        "D": "Super Slam",
+        "answer": "A",
+        "funFact": "A Grand Slam is winning all four major tournaments in a single calendar year."
+    },
+    {
+        "question": "What is deuce?",
+        "A": "40-40",
+        "B": "30-30",
+        "C": "15-15",
+        "D": "Game point",
+        "answer": "A",
+        "funFact": "Deuce is when the score is 40-40, requiring a player to win by 2 points."
+    },
+    {
+        "question": "What is an advantage?",
+        "A": "Winning point after deuce",
+        "B": "A fault",
+        "C": "A let",
+        "D": "Game point",
+        "answer": "A",
+        "funFact": "Advantage is the point scored after deuce - a player must win the next point to win the game."
+    },
+    {
+        "question": "What is the name of the area where serves must land?",
+        "A": "Service box",
+        "B": "Baseline",
+        "C": "Net",
+        "D": "Alley",
+        "answer": "A",
+        "funFact": "The service box is the area diagonally opposite where serves must land to be valid."
+    },
+    {
+        "question": "What is a let?",
+        "A": "A fault",
+        "B": "A serve that hits the net but lands in",
+        "C": "A point",
+        "D": "A game",
+        "answer": "B",
+        "funFact": "A let occurs when a serve hits the net but lands in the service box, and the serve is replayed."
+    },
+    {
+        "question": "What is the name for winning a set 6-0?",
+        "A": "Bagel",
+        "B": "Breadstick",
+        "C": "Love set",
+        "D": "Perfect set",
+        "answer": "A",
+        "funFact": "Winning a set 6-0 is called a 'bagel' in tennis slang."
+    },
+    {
+        "question": "What is the name for winning a set 6-1?",
+        "A": "Bagel",
+        "B": "Breadstick",
+        "C": "Love set",
+        "D": "Perfect set",
+        "answer": "B",
+        "funFact": "Winning a set 6-1 is called a 'breadstick' in tennis slang."
+    },
+    {
+        "question": "What is the highest ranking in tennis?",
+        "A": "Number 1",
+        "B": "Number 2",
+        "C": "Number 3",
+        "D": "Number 4",
+        "answer": "A",
+        "funFact": "The world number 1 ranking is the highest achievement in professional tennis."
+    },
+    {
+        "question": "What is the name of the organization that governs professional tennis?",
+        "A": "ATP",
+        "B": "WTA",
+        "C": "ITF",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "ATP (men's), WTA (women's), and ITF (international) all govern different aspects of professional tennis."
+    },
+    {
+        "question": "What is a break of serve?",
+        "A": "Winning a game when opponent serves",
+        "B": "A fault",
+        "C": "A let",
+        "D": "A tiebreak",
+        "answer": "A",
+        "funFact": "Breaking serve means winning a game when your opponent is serving, which is a significant advantage."
+    }
+]

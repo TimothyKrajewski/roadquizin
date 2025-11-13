@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many players are on a rugby team on the field?",
+        "A": "13",
+        "B": "14",
+        "C": "15",
+        "D": "16",
+        "answer": "C",
+        "funFact": "Each rugby union team has 15 players on the field at once."
+    },
+    {
+        "question": "What is a try?",
+        "A": "A kick",
+        "B": "Touching the ball down in the end zone",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A try is scored by touching the ball down in the opponent's in-goal area, worth 5 points."
+    },
+    {
+        "question": "How many points is a try worth?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "answer": "C",
+        "funFact": "A try is worth 5 points in rugby union."
+    },
+    {
+        "question": "What is a conversion?",
+        "A": "A try",
+        "B": "A kick after a try",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A conversion is a kick after a try, worth 2 points if successful."
+    },
+    {
+        "question": "What is a scrum?",
+        "A": "A try",
+        "B": "A method of restarting play",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A scrum is a method of restarting play where forwards from both teams bind together and compete for the ball."
+    },
+    {
+        "question": "What is a lineout?",
+        "A": "A try",
+        "B": "A method of restarting play from touch",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A lineout is a method of restarting play when the ball goes out of bounds, with players lifting teammates to catch the ball."
+    },
+    {
+        "question": "What is a tackle?",
+        "A": "A try",
+        "B": "Bringing an opponent to the ground",
+        "C": "A pass",
+        "D": "A kick",
+        "answer": "B",
+        "funFact": "A tackle is bringing an opponent carrying the ball to the ground, and they must release the ball."
+    },
+    {
+        "question": "What is a ruck?",
+        "A": "A try",
+        "B": "Players competing for the ball on the ground",
+        "C": "A pass",
+        "D": "A kick",
+        "answer": "B",
+        "funFact": "A ruck forms when players from both teams compete for the ball on the ground after a tackle."
+    },
+    {
+        "question": "What is a maul?",
+        "A": "A try",
+        "B": "Players competing for the ball while standing",
+        "C": "A pass",
+        "D": "A kick",
+        "answer": "B",
+        "funFact": "A maul occurs when players from both teams compete for the ball while all players are on their feet."
+    },
+    {
+        "question": "What is a penalty?",
+        "A": "A try",
+        "B": "Awarded for rule violations",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A penalty is awarded for rule violations, allowing a kick at goal worth 3 points or a kick for territory."
+    },
+    {
+        "question": "What is a drop goal?",
+        "A": "A try",
+        "B": "Kicking the ball through the posts during play",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A drop goal is kicking the ball through the posts during open play, worth 3 points."
+    },
+    {
+        "question": "What is the ball shape in rugby?",
+        "A": "Round",
+        "B": "Oval",
+        "C": "Square",
+        "D": "Triangle",
+        "answer": "B",
+        "funFact": "A rugby ball is oval-shaped, making it easier to carry and pass but harder to kick accurately."
+    },
+    {
+        "question": "What is a forward pass?",
+        "A": "Legal",
+        "B": "Illegal - ball must go backward",
+        "C": "A try",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "In rugby, the ball must be passed backward or sideways; forward passes are illegal."
+    },
+    {
+        "question": "What is offside?",
+        "A": "Legal position",
+        "B": "Being ahead of the ball",
+        "C": "A try",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "Offside occurs when a player is ahead of the ball or the last teammate to play the ball."
+    },
+    {
+        "question": "What is a conversion?",
+        "A": "A try",
+        "B": "A kick after a try",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A conversion is a kick at goal after scoring a try, worth 2 points if successful."
+    },
+    {
+        "question": "What is the Rugby World Cup?",
+        "A": "A league",
+        "B": "The international championship",
+        "C": "A club tournament",
+        "D": "A regional tournament",
+        "answer": "B",
+        "funFact": "The Rugby World Cup is the premier international rugby union tournament, held every four years."
+    },
+    {
+        "question": "What is a hooker?",
+        "A": "A forward position",
+        "B": "A player in the front row",
+        "C": "A back",
+        "D": "A referee",
+        "answer": "B",
+        "funFact": "A hooker is a forward position in the front row of the scrum, who 'hooks' the ball with their foot."
+    },
+    {
+        "question": "What is a fullback?",
+        "A": "A forward",
+        "B": "A defensive back position",
+        "C": "A referee",
+        "D": "A coach",
+        "answer": "B",
+        "funFact": "A fullback is the last line of defense, positioned behind the other backs."
+    },
+    {
+        "question": "What is the study of rugby called?",
+        "A": "Rugbyology",
+        "B": "Just rugby",
+        "C": "Contact sports",
+        "D": "Ball sports",
+        "answer": "B",
+        "funFact": "Rugby is simply called rugby, though it's studied and analyzed by coaches and sports scientists."
+    },
+    {
+        "question": "What is a try?",
+        "A": "A kick",
+        "B": "Touching the ball down in the in-goal area",
+        "C": "A pass",
+        "D": "A tackle",
+        "answer": "B",
+        "funFact": "A try is the primary way to score in rugby, worth 5 points, by touching the ball down in the opponent's in-goal area."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the name of the main character?",
+        "A": "Jesse Pinkman",
+        "B": "Walter White",
+        "C": "Hank Schrader",
+        "D": "Saul Goodman",
+        "answer": "B",
+        "funFact": "Walter White is a high school chemistry teacher who turns to manufacturing methamphetamine after being diagnosed with cancer."
+    },
+    {
+        "question": "What is Walter White's alias?",
+        "A": "Jesse",
+        "B": "Heisenberg",
+        "C": "Gus",
+        "D": "Saul",
+        "answer": "B",
+        "funFact": "Heisenberg is Walter White's criminal alias, named after the uncertainty principle in quantum physics."
+    },
+    {
+        "question": "What is Walter's profession at the start?",
+        "A": "Drug dealer",
+        "B": "High school chemistry teacher",
+        "C": "Lawyer",
+        "D": "DEA agent",
+        "answer": "B",
+        "funFact": "Walter White starts as a high school chemistry teacher before turning to manufacturing meth."
+    },
+    {
+        "question": "What does Walter manufacture?",
+        "A": "Cocaine",
+        "B": "Methamphetamine",
+        "C": "Heroin",
+        "D": "Marijuana",
+        "answer": "B",
+        "funFact": "Walter White manufactures high-purity methamphetamine, known for its blue color and exceptional quality."
+    },
+    {
+        "question": "What is the name of Walter's partner?",
+        "A": "Hank",
+        "B": "Jesse Pinkman",
+        "C": "Gus",
+        "D": "Saul",
+        "answer": "B",
+        "funFact": "Jesse Pinkman is Walter's former student who becomes his partner in the meth business."
+    },
+    {
+        "question": "What is the name of Walter's brother-in-law?",
+        "A": "Jesse",
+        "B": "Hank Schrader",
+        "C": "Gus",
+        "D": "Saul",
+        "answer": "B",
+        "funFact": "Hank Schrader is Walter's brother-in-law and a DEA agent who investigates the meth trade."
+    },
+    {
+        "question": "What is the name of the lawyer?",
+        "A": "Jesse",
+        "B": "Saul Goodman",
+        "C": "Gus",
+        "D": "Hank",
+        "answer": "B",
+        "funFact": "Saul Goodman is the criminal lawyer who helps Walter and Jesse with legal matters."
+    },
+    {
+        "question": "What is the name of the drug kingpin?",
+        "A": "Jesse",
+        "B": "Gus Fring",
+        "C": "Hank",
+        "D": "Saul",
+        "answer": "B",
+        "funFact": "Gus Fring is a drug kingpin who runs a fast-food chain as a front for his meth operation."
+    },
+    {
+        "question": "What is the name of the show?",
+        "A": "Breaking Bad",
+        "B": "Better Call Saul",
+        "C": "The Wire",
+        "D": "The Sopranos",
+        "answer": "A",
+        "funFact": "Breaking Bad aired from 2008 to 2013, following Walter White's transformation from teacher to drug kingpin."
+    },
+    {
+        "question": "What is Walter's diagnosis?",
+        "A": "Heart disease",
+        "B": "Lung cancer",
+        "C": "Diabetes",
+        "D": "High blood pressure",
+        "answer": "B",
+        "funFact": "Walter is diagnosed with inoperable lung cancer, which motivates him to enter the drug trade to provide for his family."
+    },
+    {
+        "question": "What is the name of Walter's wife?",
+        "A": "Marie",
+        "B": "Skyler White",
+        "C": "Jane",
+        "D": "Lydia",
+        "answer": "B",
+        "funFact": "Skyler White is Walter's wife who eventually becomes involved in money laundering for his operation."
+    },
+    {
+        "question": "What is the name of Walter's son?",
+        "A": "Jesse",
+        "B": "Walter Jr.",
+        "C": "Hank",
+        "D": "Saul",
+        "answer": "B",
+        "funFact": "Walter White Jr. is Walter's son who has cerebral palsy and uses crutches."
+    },
+    {
+        "question": "What is the color of Walter's meth?",
+        "A": "White",
+        "B": "Blue",
+        "C": "Red",
+        "D": "Green",
+        "answer": "B",
+        "funFact": "Walter's meth is distinctive for its blue color, indicating its high purity and quality."
+    },
+    {
+        "question": "What is the name of Gus's business?",
+        "A": "Los Pollos Hermanos",
+        "B": "Chicken Brothers",
+        "C": "Fast Food",
+        "D": "The Restaurant",
+        "answer": "A",
+        "funFact": "Los Pollos Hermanos is Gus Fring's fast-food chicken restaurant chain, which serves as a front for his drug operation."
+    },
+    {
+        "question": "What is the name of the RV?",
+        "A": "The Van",
+        "B": "The Krystal Ship",
+        "C": "The Mobile Lab",
+        "D": "The Bus",
+        "answer": "B",
+        "funFact": "The Krystal Ship is the RV that Walter and Jesse use as a mobile meth lab in the early seasons."
+    },
+    {
+        "question": "What is the name of the show's setting?",
+        "A": "Albuquerque, New Mexico",
+        "B": "Los Angeles",
+        "C": "New York",
+        "D": "Chicago",
+        "answer": "A",
+        "funFact": "Breaking Bad is set in Albuquerque, New Mexico, with many scenes filmed on location."
+    },
+    {
+        "question": "What is the name of the spin-off?",
+        "A": "Breaking Bad 2",
+        "B": "Better Call Saul",
+        "C": "Jesse's Story",
+        "D": "The Heisenberg Chronicles",
+        "answer": "B",
+        "funFact": "Better Call Saul is a prequel spin-off focusing on Saul Goodman's backstory before meeting Walter."
+    },
+    {
+        "question": "What is the name of the final episode?",
+        "A": "Felina",
+        "B": "Ozymandias",
+        "C": "Granite State",
+        "D": "Face Off",
+        "answer": "A",
+        "funFact": "'Felina' is the series finale, with the title referencing elements that spell out Walter's fate (Fe, Li, Na - iron, lithium, sodium)."
+    },
+    {
+        "question": "What is the study of Breaking Bad called?",
+        "A": "Breaking Badology",
+        "B": "Just Breaking Bad",
+        "C": "TV shows",
+        "D": "Crime dramas",
+        "answer": "B",
+        "funFact": "Breaking Bad is simply called Breaking Bad, though it's studied and analyzed by TV critics and cultural scholars."
+    },
+    {
+        "question": "What is the phrase 'Say my name'?",
+        "A": "A question",
+        "B": "A famous quote from Walter",
+        "C": "A threat",
+        "D": "A greeting",
+        "answer": "B",
+        "funFact": "'Say my name' is a famous quote from Walter White, demanding recognition as Heisenberg, the drug kingpin."
+    }
+]

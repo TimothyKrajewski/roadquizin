@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the name of Tony Stark's alter ego?",
+        "A": "Iron Man",
+        "B": "Captain America",
+        "C": "Thor",
+        "D": "Hulk",
+        "answer": "A",
+        "funFact": "Tony Stark is Iron Man, a billionaire genius who creates a powered suit of armor."
+    },
+    {
+        "question": "What is Captain America's shield made of?",
+        "A": "Steel",
+        "B": "Vibranium",
+        "C": "Adamantium",
+        "D": "Titanium",
+        "answer": "B",
+        "funFact": "Captain America's shield is made of vibranium, the strongest metal in the Marvel universe."
+    },
+    {
+        "question": "What is the name of Thor's hammer?",
+        "A": "Mjolnir",
+        "B": "Stormbreaker",
+        "C": "Gungnir",
+        "D": "Excalibur",
+        "answer": "A",
+        "funFact": "Mjolnir is Thor's enchanted hammer that only the worthy can lift."
+    },
+    {
+        "question": "What is the name of the organization that recruits superheroes?",
+        "A": "S.H.I.E.L.D.",
+        "B": "Hydra",
+        "C": "A.I.M.",
+        "D": "The Hand",
+        "answer": "A",
+        "funFact": "S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) recruits and manages superheroes."
+    },
+    {
+        "question": "What is the name of the Infinity Stones?",
+        "A": "Power, Space, Reality, Soul, Time, Mind",
+        "B": "Fire, Water, Earth, Air, Light, Dark",
+        "C": "Strength, Speed, Flight, Invisibility, Telepathy, Telekinesis",
+        "D": "Red, Blue, Green, Yellow, Purple, Orange",
+        "answer": "A",
+        "funFact": "The six Infinity Stones are Power, Space, Reality, Soul, Time, and Mind."
+    },
+    {
+        "question": "What is the name of the planet where Thor is from?",
+        "A": "Asgard",
+        "B": "Midgard",
+        "C": "Jotunheim",
+        "D": "Vanaheim",
+        "answer": "A",
+        "funFact": "Asgard is the homeworld of the Asgardians, including Thor and Loki."
+    },
+    {
+        "question": "What is the name of the villain in The Avengers?",
+        "A": "Thanos",
+        "B": "Loki",
+        "C": "Ultron",
+        "D": "Red Skull",
+        "answer": "B",
+        "funFact": "Loki, Thor's adopted brother, is the main villain in the first Avengers movie."
+    },
+    {
+        "question": "What is the name of the superhero team?",
+        "A": "Justice League",
+        "B": "The Avengers",
+        "C": "X-Men",
+        "D": "Fantastic Four",
+        "answer": "B",
+        "funFact": "The Avengers is the team of superheroes including Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye."
+    },
+    {
+        "question": "What is the name of Peter Parker's alter ego?",
+        "A": "Spider-Man",
+        "B": "Iron Man",
+        "C": "Captain America",
+        "D": "Hulk",
+        "answer": "A",
+        "funFact": "Peter Parker is Spider-Man, a teenager who gains spider-like abilities after being bitten by a radioactive spider."
+    },
+    {
+        "question": "What is the name of the Wakandan metal?",
+        "A": "Vibranium",
+        "B": "Adamantium",
+        "C": "Uru",
+        "D": "Titanium",
+        "answer": "A",
+        "funFact": "Vibranium is the rare metal found in Wakanda, used to make Captain America's shield and Black Panther's suit."
+    },
+    {
+        "question": "What is the name of the villain who collects the Infinity Stones?",
+        "A": "Loki",
+        "B": "Thanos",
+        "C": "Ultron",
+        "D": "Red Skull",
+        "answer": "B",
+        "funFact": "Thanos is the Mad Titan who seeks to collect all six Infinity Stones to wipe out half of all life."
+    },
+    {
+        "question": "What is the name of the space organization in Guardians of the Galaxy?",
+        "A": "Nova Corps",
+        "B": "S.H.I.E.L.D.",
+        "C": "Kree",
+        "D": "Skrulls",
+        "answer": "A",
+        "funFact": "The Nova Corps is the intergalactic police force in the Marvel Cinematic Universe."
+    },
+    {
+        "question": "What is the name of the Infinity Gauntlet?",
+        "A": "The glove that holds Infinity Stones",
+        "B": "A weapon",
+        "C": "A shield",
+        "D": "A hammer",
+        "answer": "A",
+        "funFact": "The Infinity Gauntlet is a powerful glove that can hold and use all six Infinity Stones."
+    },
+    {
+        "question": "What is the name of the superhero who can shrink?",
+        "A": "Ant-Man",
+        "B": "Wasp",
+        "C": "Hulk",
+        "D": "Giant-Man",
+        "answer": "A",
+        "funFact": "Ant-Man (Scott Lang) can shrink to the size of an ant using Pym Particles."
+    },
+    {
+        "question": "What is the name of the superhero who can grow giant?",
+        "A": "Ant-Man",
+        "B": "Giant-Man",
+        "C": "Hulk",
+        "D": "Goliath",
+        "answer": "B",
+        "funFact": "Giant-Man is Ant-Man's ability to grow to enormous size, first shown in Captain America: Civil War."
+    },
+    {
+        "question": "What is the name of the villain organization in Captain America?",
+        "A": "S.H.I.E.L.D.",
+        "B": "Hydra",
+        "C": "A.I.M.",
+        "D": "The Hand",
+        "answer": "B",
+        "funFact": "Hydra is the evil organization that opposes S.H.I.E.L.D. and Captain America."
+    },
+    {
+        "question": "What is the name of the superhero who is a master of the mystic arts?",
+        "A": "Doctor Strange",
+        "B": "Scarlet Witch",
+        "C": "Loki",
+        "D": "Ancient One",
+        "answer": "A",
+        "funFact": "Doctor Strange is a neurosurgeon who becomes the Sorcerer Supreme, master of the mystic arts."
+    },
+    {
+        "question": "What is the name of the planet where the Guardians of the Galaxy are from?",
+        "A": "Earth",
+        "B": "Xandar",
+        "C": "Asgard",
+        "D": "Knowhere",
+        "answer": "B",
+        "funFact": "Xandar is the home planet of the Nova Corps and where the Guardians help save the universe."
+    },
+    {
+        "question": "What is the name of the superhero who is the king of Wakanda?",
+        "A": "Black Panther",
+        "B": "Black Widow",
+        "C": "Falcon",
+        "D": "War Machine",
+        "answer": "A",
+        "funFact": "Black Panther (T'Challa) is the king of Wakanda and protector of the vibranium reserves."
+    },
+    {
+        "question": "What year was the first Iron Man movie released?",
+        "A": "2006",
+        "B": "2008",
+        "C": "2010",
+        "D": "2012",
+        "answer": "B",
+        "funFact": "Iron Man was released in 2008 and launched the Marvel Cinematic Universe."
+    }
+]

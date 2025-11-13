@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who wrote 'The Raven'?",
+        "A": "Emily Dickinson",
+        "B": "Edgar Allan Poe",
+        "C": "Walt Whitman",
+        "D": "Robert Frost",
+        "answer": "B",
+        "funFact": "Edgar Allan Poe wrote 'The Raven,' one of the most famous poems in American literature, published in 1845."
+    },
+    {
+        "question": "Who wrote 'The Road Not Taken'?",
+        "A": "Emily Dickinson",
+        "B": "Robert Frost",
+        "C": "Walt Whitman",
+        "D": "Edgar Allan Poe",
+        "answer": "B",
+        "funFact": "Robert Frost wrote 'The Road Not Taken,' one of the most quoted and misunderstood poems in American literature."
+    },
+    {
+        "question": "Who wrote 'I Wandered Lonely as a Cloud'?",
+        "A": "William Wordsworth",
+        "B": "John Keats",
+        "C": "Lord Byron",
+        "D": "Percy Shelley",
+        "answer": "A",
+        "funFact": "William Wordsworth wrote 'I Wandered Lonely as a Cloud' (also known as 'Daffodils'), a famous Romantic poem."
+    },
+    {
+        "question": "Who wrote 'Ozymandias'?",
+        "A": "William Wordsworth",
+        "B": "Percy Bysshe Shelley",
+        "C": "John Keats",
+        "D": "Lord Byron",
+        "answer": "B",
+        "funFact": "Percy Bysshe Shelley wrote 'Ozymandias,' a sonnet about the transience of power and empire."
+    },
+    {
+        "question": "What is the study of poetry called?",
+        "A": "Poetryology",
+        "B": "Poetry studies",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Poetry is studied through literary studies, creative writing, and poetry analysis."
+    },
+    {
+        "question": "What is the impact of poetry?",
+        "A": "No impact",
+        "B": "Expressing emotions and ideas through language",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Poetry expresses emotions and ideas through carefully chosen words, rhythm, and imagery, influencing culture and thought."
+    },
+    {
+        "question": "What is the origin of poetry?",
+        "A": "The 1800s",
+        "B": "Ancient times, predating written language",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "Poetry predates written language, with oral traditions of poetry existing in ancient cultures worldwide."
+    },
+    {
+        "question": "What is the future of poetry?",
+        "A": "No future",
+        "B": "Continued creation and appreciation",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Poetry continues to be created and appreciated, with new forms and voices emerging in the digital age."
+    },
+    {
+        "question": "What is the importance of poetry?",
+        "A": "Not important",
+        "B": "Art form expressing human experience",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Poetry is an important art form that expresses human experience, emotions, and ideas through language."
+    },
+    {
+        "question": "What is the study of poetry called?",
+        "A": "Poetryology",
+        "B": "Poetry analysis",
+        "C": "Literary criticism",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Poetry is studied through literary analysis, creative writing, and literary criticism."
+    },
+    {
+        "question": "What is the difference between poetry and prose?",
+        "A": "They're the same",
+        "B": "Poetry uses rhythm and line breaks, prose is continuous",
+        "C": "Prose uses rhythm",
+        "D": "Poetry is continuous",
+        "answer": "B",
+        "funFact": "Poetry uses rhythm, meter, and line breaks, while prose is continuous writing without these formal structures."
+    },
+    {
+        "question": "What is the impact of poetry on culture?",
+        "A": "No impact",
+        "B": "Influencing literature, music, and thought",
+        "C": "Minor changes",
+        "D": "Only affects some countries",
+        "answer": "B",
+        "funFact": "Poetry has influenced literature, music, culture, and how people express emotions and ideas throughout history."
+    },
+    {
+        "question": "What is the origin of poetry?",
+        "A": "The 1800s",
+        "B": "Ancient oral traditions",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "Poetry originated in ancient oral traditions, with epic poems like The Iliad and The Odyssey predating written literature."
+    },
+    {
+        "question": "What is the future of poetry?",
+        "A": "No future",
+        "B": "Evolving forms and new voices",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Poetry continues to evolve with new forms, voices, and ways of sharing, including digital and spoken word poetry."
+    },
+    {
+        "question": "What is the study of poetry called?",
+        "A": "Poetryology",
+        "B": "Poetry studies",
+        "C": "Creative writing",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Poetry is studied through creative writing, literary analysis, and poetry workshops."
+    },
+    {
+        "question": "What is the importance of poetry?",
+        "A": "Not important",
+        "B": "Essential art form for human expression",
+        "C": "Minor importance",
+        "D": "Only for writers",
+        "answer": "B",
+        "funFact": "Poetry is an essential art form for human expression, capturing emotions, ideas, and experiences in powerful language."
+    },
+    {
+        "question": "What is the difference between a sonnet and a haiku?",
+        "A": "They're the same",
+        "B": "Sonnet is 14 lines, haiku is 3 lines",
+        "C": "Haiku is 14 lines",
+        "D": "Sonnet is 3 lines",
+        "answer": "B",
+        "funFact": "A sonnet is a 14-line poem with a specific rhyme scheme, while a haiku is a 3-line Japanese poem with 5-7-5 syllables."
+    },
+    {
+        "question": "What is the impact of poetry on language?",
+        "A": "No impact",
+        "B": "Enriching language and expression",
+        "C": "Minor changes",
+        "D": "Only affects some languages",
+        "answer": "B",
+        "funFact": "Poetry enriches language and expression, creating new ways to use words and convey meaning."
+    },
+    {
+        "question": "What is the origin of poetry?",
+        "A": "The 1800s",
+        "B": "Ancient civilizations",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "Poetry has existed in ancient civilizations for thousands of years, from Sumerian epics to Greek odes."
+    },
+    {
+        "question": "What is the future of poetry?",
+        "A": "No future",
+        "B": "Continued relevance and innovation",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Poetry continues to be relevant and innovative, with new forms, voices, and ways of sharing emerging."
+    }
+]

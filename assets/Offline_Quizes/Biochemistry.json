@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is biochemistry?",
+        "A": "Study of biology only",
+        "B": "Study of chemical processes in living organisms",
+        "C": "Study of chemistry only",
+        "D": "Study of physics",
+        "answer": "B",
+        "funFact": "Biochemistry is the study of chemical processes and substances that occur in living organisms."
+    },
+    {
+        "question": "What are proteins made of?",
+        "A": "Nucleotides",
+        "B": "Amino acids",
+        "C": "Fatty acids",
+        "D": "Sugars",
+        "answer": "B",
+        "funFact": "Proteins are made of amino acids linked together in chains, folding into complex three-dimensional structures."
+    },
+    {
+        "question": "What is DNA made of?",
+        "A": "Amino acids",
+        "B": "Nucleotides",
+        "C": "Fatty acids",
+        "D": "Sugars only",
+        "answer": "B",
+        "funFact": "DNA is made of nucleotides, each containing a sugar, phosphate, and one of four bases (A, T, G, C)."
+    },
+    {
+        "question": "What is ATP?",
+        "A": "A protein",
+        "B": "Energy currency of cells",
+        "C": "A type of DNA",
+        "D": "A sugar",
+        "answer": "B",
+        "funFact": "ATP (adenosine triphosphate) is the primary energy currency of cells, used to power cellular processes."
+    },
+    {
+        "question": "What is an enzyme?",
+        "A": "A protein that speeds up reactions",
+        "B": "A type of DNA",
+        "C": "A sugar",
+        "D": "A fat",
+        "answer": "A",
+        "funFact": "Enzymes are proteins that act as biological catalysts, speeding up chemical reactions in cells."
+    },
+    {
+        "question": "What is metabolism?",
+        "A": "Breathing",
+        "B": "All chemical reactions in cells",
+        "C": "Digestion only",
+        "D": "Exercise",
+        "answer": "B",
+        "funFact": "Metabolism refers to all chemical reactions that occur in cells to maintain life."
+    },
+    {
+        "question": "What is glucose?",
+        "A": "A protein",
+        "B": "A simple sugar",
+        "C": "A fat",
+        "D": "A nucleotide",
+        "answer": "B",
+        "funFact": "Glucose is a simple sugar (monosaccharide) that is the primary energy source for cells."
+    },
+    {
+        "question": "What is photosynthesis?",
+        "A": "Animals making food",
+        "B": "Plants converting light to chemical energy",
+        "C": "Respiration",
+        "D": "Digestion",
+        "answer": "B",
+        "funFact": "Photosynthesis is the process by which plants convert light energy into chemical energy (glucose)."
+    },
+    {
+        "question": "What is cellular respiration?",
+        "A": "Breathing",
+        "B": "Cells breaking down glucose for energy",
+        "C": "Photosynthesis",
+        "D": "Digestion",
+        "answer": "B",
+        "funFact": "Cellular respiration is the process by which cells break down glucose to produce ATP energy."
+    },
+    {
+        "question": "What is a lipid?",
+        "A": "A protein",
+        "B": "A fat or oil",
+        "C": "A sugar",
+        "D": "A nucleotide",
+        "answer": "B",
+        "funFact": "Lipids are fats and oils that store energy and form cell membranes."
+    },
+    {
+        "question": "What is a carbohydrate?",
+        "A": "A protein",
+        "B": "A sugar or starch",
+        "C": "A fat",
+        "D": "A nucleotide",
+        "answer": "B",
+        "funFact": "Carbohydrates are sugars and starches that provide energy and structural support."
+    },
+    {
+        "question": "What is the pH scale?",
+        "A": "Temperature scale",
+        "B": "Measure of acidity or alkalinity",
+        "C": "Pressure scale",
+        "D": "Volume scale",
+        "answer": "B",
+        "funFact": "The pH scale measures how acidic or basic a solution is, ranging from 0 (acidic) to 14 (basic)."
+    },
+    {
+        "question": "What is a nucleotide?",
+        "A": "A protein",
+        "B": "Building block of DNA and RNA",
+        "C": "A sugar",
+        "D": "A fat",
+        "answer": "B",
+        "funFact": "A nucleotide is the building block of DNA and RNA, consisting of a sugar, phosphate, and base."
+    },
+    {
+        "question": "What is RNA?",
+        "A": "A protein",
+        "B": "Ribonucleic acid",
+        "C": "A sugar",
+        "D": "A fat",
+        "answer": "B",
+        "funFact": "RNA (ribonucleic acid) is a molecule that helps translate genetic information into proteins."
+    },
+    {
+        "question": "What is a gene?",
+        "A": "A protein",
+        "B": "A segment of DNA that codes for a protein",
+        "C": "A sugar",
+        "D": "A fat",
+        "answer": "B",
+        "funFact": "A gene is a segment of DNA that contains instructions for making a specific protein."
+    },
+    {
+        "question": "What is protein synthesis?",
+        "A": "Breaking down proteins",
+        "B": "Making proteins from DNA instructions",
+        "C": "Eating proteins",
+        "D": "Storing proteins",
+        "answer": "B",
+        "funFact": "Protein synthesis is the process by which cells build proteins using instructions from DNA."
+    },
+    {
+        "question": "What is a catalyst?",
+        "A": "A reactant",
+        "B": "A substance that speeds up reactions",
+        "C": "A product",
+        "D": "An inhibitor",
+        "answer": "B",
+        "funFact": "A catalyst is a substance that speeds up chemical reactions without being consumed in the process."
+    },
+    {
+        "question": "What is the study of biochemical processes called?",
+        "A": "Biology",
+        "B": "Biochemistry",
+        "C": "Chemistry",
+        "D": "Physics",
+        "answer": "B",
+        "funFact": "Biochemistry combines biology and chemistry to study chemical processes in living organisms."
+    },
+    {
+        "question": "What is a macromolecule?",
+        "A": "A small molecule",
+        "B": "A large biological molecule",
+        "C": "An atom",
+        "D": "An element",
+        "answer": "B",
+        "funFact": "Macromolecules are large biological molecules like proteins, nucleic acids, carbohydrates, and lipids."
+    },
+    {
+        "question": "What is the primary structure of a protein?",
+        "A": "3D shape",
+        "B": "Sequence of amino acids",
+        "C": "Function",
+        "D": "Location",
+        "answer": "B",
+        "funFact": "The primary structure of a protein is the linear sequence of amino acids in the chain."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What are the main types of wine?",
+        "A": "Red and white only",
+        "B": "Red, white, rosé, and sparkling",
+        "C": "Sweet and dry only",
+        "D": "Old and new only",
+        "answer": "B",
+        "funFact": "The main types of wine are red, white, rosé, and sparkling, each with different production methods and characteristics."
+    },
+    {
+        "question": "What is the difference between red and white wine?",
+        "A": "Color only",
+        "B": "Red uses grape skins, white doesn't",
+        "C": "They're the same",
+        "D": "White is sweeter",
+        "answer": "B",
+        "funFact": "Red wine is made with grape skins included in fermentation, giving it color and tannins, while white wine is made without skins."
+    },
+    {
+        "question": "What is rosé wine?",
+        "A": "A mix of red and white",
+        "B": "Red wine with limited skin contact",
+        "C": "White wine with color added",
+        "D": "A different grape",
+        "answer": "B",
+        "funFact": "Rosé wine is made from red grapes with limited skin contact during fermentation, creating its pink color."
+    },
+    {
+        "question": "What is champagne?",
+        "A": "Any sparkling wine",
+        "B": "Sparkling wine from Champagne, France",
+        "C": "Red wine",
+        "D": "White wine",
+        "answer": "B",
+        "funFact": "Champagne is sparkling wine that comes specifically from the Champagne region of France - other sparkling wines are just 'sparkling wine.'"
+    },
+    {
+        "question": "What are tannins?",
+        "A": "A flavor",
+        "B": "Compounds that create dryness and bitterness",
+        "C": "A color",
+        "D": "A sweetness",
+        "answer": "B",
+        "funFact": "Tannins are compounds found in grape skins, seeds, and stems that create the dry, astringent feeling in red wines."
+    },
+    {
+        "question": "What is the world's largest wine producer?",
+        "A": "France",
+        "B": "Italy",
+        "C": "Spain",
+        "D": "United States",
+        "answer": "B",
+        "funFact": "Italy is the world's largest wine producer, followed by France and Spain."
+    },
+    {
+        "question": "What is a sommelier?",
+        "A": "A wine maker",
+        "B": "A wine expert and server",
+        "C": "A wine region",
+        "D": "A type of wine",
+        "answer": "B",
+        "funFact": "A sommelier is a trained wine professional who helps select and serve wine, often working in restaurants."
+    },
+    {
+        "question": "What is vintage?",
+        "A": "A type of wine",
+        "B": "The year the grapes were harvested",
+        "C": "A wine region",
+        "D": "A wine maker",
+        "answer": "B",
+        "funFact": "Vintage refers to the year the grapes were harvested, which can significantly affect a wine's character."
+    },
+    {
+        "question": "What is a wine's body?",
+        "A": "The bottle",
+        "B": "The weight and texture of the wine",
+        "C": "The color",
+        "D": "The sweetness",
+        "answer": "B",
+        "funFact": "A wine's body refers to its weight and texture - light-bodied wines feel thin, while full-bodied wines feel rich and heavy."
+    },
+    {
+        "question": "What is terroir?",
+        "A": "A type of wine",
+        "B": "The environment where grapes grow",
+        "C": "A wine maker",
+        "D": "A wine region",
+        "answer": "B",
+        "funFact": "Terroir refers to the complete natural environment where grapes are grown, including soil, climate, and topography, which affects the wine's character."
+    },
+    {
+        "question": "What is decanting?",
+        "A": "Pouring wine",
+        "B": "Pouring wine into a decanter to aerate",
+        "C": "Storing wine",
+        "D": "Tasting wine",
+        "answer": "B",
+        "funFact": "Decanting is pouring wine into a decanter to separate it from sediment and allow it to breathe, improving flavor."
+    },
+    {
+        "question": "What is a wine's finish?",
+        "A": "The end of the bottle",
+        "B": "The aftertaste",
+        "C": "The color",
+        "D": "The sweetness",
+        "answer": "B",
+        "funFact": "A wine's finish is the aftertaste that lingers after swallowing, with longer finishes generally indicating higher quality."
+    },
+    {
+        "question": "What is the ideal temperature for serving red wine?",
+        "A": "Room temperature",
+        "B": "55-65°F",
+        "C": "Cold",
+        "D": "Hot",
+        "answer": "B",
+        "funFact": "Red wine is best served at 55-65°F (13-18°C), slightly cooler than room temperature."
+    },
+    {
+        "question": "What is the ideal temperature for serving white wine?",
+        "A": "Room temperature",
+        "B": "45-55°F",
+        "C": "Warm",
+        "D": "Hot",
+        "answer": "B",
+        "funFact": "White wine is best served chilled at 45-55°F (7-13°C) to enhance its crisp, refreshing qualities."
+    },
+    {
+        "question": "What is a wine's bouquet?",
+        "A": "The bottle",
+        "B": "The aroma or smell",
+        "C": "The color",
+        "D": "The taste",
+        "answer": "B",
+        "funFact": "A wine's bouquet refers to its aroma or smell, which can reveal much about the wine's character and quality."
+    },
+    {
+        "question": "What is a wine's legs?",
+        "A": "The bottle shape",
+        "B": "The streaks that form when wine is swirled",
+        "C": "The color",
+        "D": "The sweetness",
+        "answer": "B",
+        "funFact": "Wine legs (or tears) are the streaks that form on the glass when wine is swirled, indicating alcohol content and viscosity."
+    },
+    {
+        "question": "What is a wine's nose?",
+        "A": "The bottle opening",
+        "B": "The aroma or smell",
+        "C": "The color",
+        "D": "The taste",
+        "answer": "B",
+        "funFact": "A wine's nose refers to its aroma or smell, an important part of wine tasting and evaluation."
+    },
+    {
+        "question": "What is the study of wine called?",
+        "A": "Wineology",
+        "B": "Oenology",
+        "C": "Vinology",
+        "D": "All of the above",
+        "answer": "B",
+        "funFact": "Oenology (or enology) is the science and study of wine and winemaking."
+    },
+    {
+        "question": "What is a wine's structure?",
+        "A": "The bottle",
+        "B": "The balance of components like acidity and tannins",
+        "C": "The color",
+        "D": "The sweetness",
+        "answer": "B",
+        "funFact": "A wine's structure refers to the balance of its components like acidity, tannins, alcohol, and sweetness."
+    },
+    {
+        "question": "What is a wine's complexity?",
+        "A": "How expensive it is",
+        "B": "The layers of flavors and aromas",
+        "C": "The color",
+        "D": "The sweetness",
+        "answer": "B",
+        "funFact": "A wine's complexity refers to the multiple layers of flavors and aromas that develop as you taste it, indicating quality."
+    }
+]

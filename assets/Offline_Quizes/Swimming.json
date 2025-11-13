@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is freestyle swimming?",
+        "A": "Any stroke",
+        "B": "The fastest stroke",
+        "C": "Backstroke",
+        "D": "Breaststroke",
+        "answer": "A",
+        "funFact": "In freestyle, swimmers can use any stroke, but most use the front crawl as it's the fastest."
+    },
+    {
+        "question": "What is the butterfly stroke?",
+        "A": "A slow stroke",
+        "B": "A stroke with both arms moving together",
+        "C": "Backstroke",
+        "D": "Breaststroke",
+        "answer": "B",
+        "funFact": "The butterfly stroke features both arms moving together in a circular motion above the water."
+    },
+    {
+        "question": "What is the backstroke?",
+        "A": "Swimming on stomach",
+        "B": "Swimming on back",
+        "C": "Swimming sideways",
+        "D": "Treading water",
+        "answer": "B",
+        "funFact": "Backstroke is swum on the back with alternating arm movements and a flutter kick."
+    },
+    {
+        "question": "What is the breaststroke?",
+        "A": "The fastest stroke",
+        "B": "A stroke with frog-like kick",
+        "C": "Butterfly",
+        "D": "Freestyle",
+        "answer": "B",
+        "funFact": "Breaststroke features a frog-like kick and simultaneous arm movements in a circular pattern."
+    },
+    {
+        "question": "What is a flip turn?",
+        "A": "A type of stroke",
+        "B": "A turn at the wall",
+        "C": "A start",
+        "D": "A finish",
+        "answer": "B",
+        "funFact": "A flip turn is a technique where swimmers somersault at the wall to change direction quickly."
+    },
+    {
+        "question": "What is a medley?",
+        "A": "One stroke",
+        "B": "Multiple strokes in one race",
+        "C": "A relay",
+        "D": "A start",
+        "answer": "B",
+        "funFact": "A medley combines multiple strokes in one race, typically butterfly, backstroke, breaststroke, and freestyle."
+    },
+    {
+        "question": "What is a relay?",
+        "A": "Individual race",
+        "B": "Team race with multiple swimmers",
+        "C": "One stroke",
+        "D": "A turn",
+        "answer": "B",
+        "funFact": "A relay is a team race where each swimmer completes a portion before the next swimmer starts."
+    },
+    {
+        "question": "What is the length of an Olympic pool?",
+        "A": "25 meters",
+        "B": "50 meters",
+        "C": "75 meters",
+        "D": "100 meters",
+        "answer": "B",
+        "funFact": "An Olympic-sized pool is 50 meters long, used for international competitions."
+    },
+    {
+        "question": "What is a lane?",
+        "A": "A stroke",
+        "B": "A designated swimming area",
+        "C": "A turn",
+        "D": "A start",
+        "answer": "B",
+        "funFact": "A lane is a designated area separated by lane lines where a swimmer competes."
+    },
+    {
+        "question": "What is a dive start?",
+        "A": "Starting in water",
+        "B": "Starting from a dive",
+        "C": "A turn",
+        "D": "A finish",
+        "answer": "B",
+        "funFact": "A dive start is when swimmers begin a race by diving into the water from the starting block."
+    },
+    {
+        "question": "What is treading water?",
+        "A": "Swimming forward",
+        "B": "Staying in place vertically",
+        "C": "Swimming backward",
+        "D": "Diving",
+        "answer": "B",
+        "funFact": "Treading water is a technique to stay afloat in a vertical position without moving forward."
+    },
+    {
+        "question": "What is a flip turn used for?",
+        "A": "Starting",
+        "B": "Turning at the wall",
+        "C": "Finishing",
+        "D": "Breathing",
+        "answer": "B",
+        "funFact": "A flip turn is used to quickly change direction at the pool wall during a race."
+    },
+    {
+        "question": "What is the individual medley?",
+        "A": "One stroke",
+        "B": "All four strokes in one race",
+        "C": "A relay",
+        "D": "A team event",
+        "answer": "B",
+        "funFact": "The individual medley (IM) combines all four competitive strokes in one race: butterfly, backstroke, breaststroke, and freestyle."
+    },
+    {
+        "question": "What is a false start?",
+        "A": "A legal start",
+        "B": "Starting before the signal",
+        "C": "A good start",
+        "D": "A finish",
+        "answer": "B",
+        "funFact": "A false start occurs when a swimmer begins before the starting signal, resulting in disqualification."
+    },
+    {
+        "question": "What is the freestyle stroke most commonly used?",
+        "A": "Butterfly",
+        "B": "Front crawl",
+        "C": "Breaststroke",
+        "D": "Backstroke",
+        "answer": "B",
+        "funFact": "The front crawl is the most common stroke used in freestyle events because it's the fastest."
+    },
+    {
+        "question": "What is a pool?",
+        "A": "A lake",
+        "B": "A body of water for swimming",
+        "C": "An ocean",
+        "D": "A river",
+        "answer": "B",
+        "funFact": "A pool is an artificial body of water designed for swimming, typically with lanes and starting blocks."
+    },
+    {
+        "question": "What is a lane line?",
+        "A": "A stroke",
+        "B": "A line separating lanes",
+        "C": "A turn",
+        "D": "A start",
+        "answer": "B",
+        "funFact": "Lane lines are floating dividers that separate swimming lanes and reduce wave interference."
+    },
+    {
+        "question": "What is a starting block?",
+        "A": "A turn",
+        "B": "A platform for diving starts",
+        "C": "A finish",
+        "D": "A stroke",
+        "answer": "B",
+        "funFact": "A starting block is the elevated platform from which swimmers dive to begin a race."
+    },
+    {
+        "question": "What is the study of swimming called?",
+        "A": "Swimmingology",
+        "B": "Aquatics",
+        "C": "Water sports",
+        "D": "Just swimming",
+        "answer": "B",
+        "funFact": "Swimming is part of aquatics, which includes all water-based sports and activities."
+    },
+    {
+        "question": "What is a personal best?",
+        "A": "World record",
+        "B": "A swimmer's best time",
+        "C": "A slow time",
+        "D": "A disqualification",
+        "answer": "B",
+        "funFact": "A personal best (PB) is a swimmer's fastest time for a particular event."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the study of animals called?",
+        "A": "Botany",
+        "B": "Zoology",
+        "C": "Biology",
+        "D": "Ecology",
+        "answer": "B",
+        "funFact": "Zoology is the branch of biology that studies the animal kingdom."
+    },
+    {
+        "question": "What is the largest animal on Earth?",
+        "A": "African Elephant",
+        "B": "Blue Whale",
+        "C": "Giraffe",
+        "D": "Polar Bear",
+        "answer": "B",
+        "funFact": "The blue whale is the largest animal ever known, reaching lengths of 100 feet and weights of 200 tons."
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "A": "Lion",
+        "B": "Cheetah",
+        "C": "Pronghorn",
+        "D": "Horse",
+        "answer": "B",
+        "funFact": "Cheetahs can reach speeds of up to 70 mph in short bursts."
+    },
+    {
+        "question": "What is the smallest mammal?",
+        "A": "Mouse",
+        "B": "Shrew",
+        "C": "Bumblebee Bat",
+        "D": "Hamster",
+        "answer": "C",
+        "funFact": "The bumblebee bat weighs less than a penny and is about 1 inch long."
+    },
+    {
+        "question": "What is a group of lions called?",
+        "A": "Pack",
+        "B": "Pride",
+        "C": "Herd",
+        "D": "Flock",
+        "answer": "B",
+        "funFact": "A pride of lions typically consists of related females, their cubs, and a few males."
+    },
+    {
+        "question": "What is the only mammal that can fly?",
+        "A": "Flying squirrel",
+        "B": "Bat",
+        "C": "Flying lemur",
+        "D": "Sugar glider",
+        "answer": "B",
+        "funFact": "Bats are the only mammals capable of true flight, not just gliding."
+    },
+    {
+        "question": "What is the largest land animal?",
+        "A": "Giraffe",
+        "B": "African Elephant",
+        "C": "Hippopotamus",
+        "D": "Rhinoceros",
+        "answer": "B",
+        "funFact": "African elephants can weigh up to 14,000 pounds and stand 13 feet tall."
+    },
+    {
+        "question": "What is the tallest animal?",
+        "A": "Elephant",
+        "B": "Giraffe",
+        "C": "Ostrich",
+        "D": "Camel",
+        "answer": "B",
+        "funFact": "Giraffes can grow up to 18 feet tall, with their necks alone being 6 feet long."
+    },
+    {
+        "question": "What is a group of crows called?",
+        "A": "Flock",
+        "B": "Murder",
+        "C": "Pack",
+        "D": "Herd",
+        "answer": "B",
+        "funFact": "A group of crows is called a murder, though they're actually very intelligent birds."
+    },
+    {
+        "question": "What is the longest living animal?",
+        "A": "Tortoise",
+        "B": "Bowhead Whale",
+        "C": "Greenland Shark",
+        "D": "Elephant",
+        "answer": "C",
+        "funFact": "Greenland sharks can live over 400 years, making them the longest-living vertebrates."
+    },
+    {
+        "question": "What is the fastest bird?",
+        "A": "Eagle",
+        "B": "Peregrine Falcon",
+        "C": "Hawk",
+        "D": "Ostrich",
+        "answer": "B",
+        "funFact": "Peregrine falcons can dive at speeds over 240 mph, making them the fastest animals on Earth."
+    },
+    {
+        "question": "What is the largest bird?",
+        "A": "Eagle",
+        "B": "Ostrich",
+        "C": "Emu",
+        "D": "Albatross",
+        "answer": "B",
+        "funFact": "Ostriches can grow up to 9 feet tall and weigh over 300 pounds."
+    },
+    {
+        "question": "What is a group of wolves called?",
+        "A": "Pack",
+        "B": "Pride",
+        "C": "Herd",
+        "D": "Flock",
+        "answer": "A",
+        "funFact": "Wolves live in packs that typically consist of 6-10 members with a strict social hierarchy."
+    },
+    {
+        "question": "What is the only marsupial native to North America?",
+        "A": "Kangaroo",
+        "B": "Opossum",
+        "C": "Koala",
+        "D": "Wallaby",
+        "answer": "B",
+        "funFact": "The Virginia opossum is the only marsupial found in North America."
+    },
+    {
+        "question": "What is the largest reptile?",
+        "A": "Alligator",
+        "B": "Saltwater Crocodile",
+        "C": "Komodo Dragon",
+        "D": "Python",
+        "answer": "B",
+        "funFact": "Saltwater crocodiles can grow over 20 feet long and weigh over 2,000 pounds."
+    },
+    {
+        "question": "What is a group of dolphins called?",
+        "A": "School",
+        "B": "Pod",
+        "C": "Pack",
+        "D": "Herd",
+        "answer": "B",
+        "funFact": "Dolphins live in pods that can range from a few individuals to hundreds."
+    },
+    {
+        "question": "What is the smallest bird?",
+        "A": "Hummingbird",
+        "B": "Finch",
+        "C": "Wren",
+        "D": "Sparrow",
+        "answer": "A",
+        "funFact": "The bee hummingbird is the smallest bird, measuring only 2 inches long."
+    },
+    {
+        "question": "What is the only mammal that lays eggs?",
+        "A": "Duck-billed Platypus",
+        "B": "Echidna",
+        "C": "Both A and B",
+        "D": "None",
+        "answer": "C",
+        "funFact": "Both the platypus and echidna are monotremes, the only egg-laying mammals."
+    },
+    {
+        "question": "What is the largest fish?",
+        "A": "Great White Shark",
+        "B": "Whale Shark",
+        "C": "Bluefin Tuna",
+        "D": "Manta Ray",
+        "answer": "B",
+        "funFact": "Whale sharks can grow up to 40 feet long and weigh over 20 tons."
+    },
+    {
+        "question": "What is a group of owls called?",
+        "A": "Flock",
+        "B": "Parliament",
+        "C": "Pack",
+        "D": "Herd",
+        "answer": "B",
+        "funFact": "A group of owls is called a parliament, though owls are mostly solitary creatures."
+    }
+]

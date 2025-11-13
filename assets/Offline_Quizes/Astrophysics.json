@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is astrophysics?",
+        "A": "Study of Earth",
+        "B": "Study of physics in space",
+        "C": "Study of weather",
+        "D": "Study of oceans",
+        "answer": "B",
+        "funFact": "Astrophysics applies physics principles to study celestial objects and the universe."
+    },
+    {
+        "question": "What is a black hole?",
+        "A": "A dark star",
+        "B": "A region where gravity is so strong nothing can escape",
+        "C": "A planet",
+        "D": "A galaxy",
+        "answer": "B",
+        "funFact": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape."
+    },
+    {
+        "question": "What is a neutron star?",
+        "A": "A regular star",
+        "B": "An extremely dense collapsed star",
+        "C": "A planet",
+        "D": "A galaxy",
+        "answer": "B",
+        "funFact": "A neutron star is the collapsed core of a massive star, incredibly dense with neutrons packed tightly together."
+    },
+    {
+        "question": "What is dark matter?",
+        "A": "Visible matter",
+        "B": "Invisible matter that makes up most of the universe",
+        "C": "A type of star",
+        "D": "A planet",
+        "answer": "B",
+        "funFact": "Dark matter is invisible matter that doesn't emit light but makes up about 27% of the universe."
+    },
+    {
+        "question": "What is a supernova?",
+        "A": "A new star",
+        "B": "An exploding star",
+        "C": "A planet",
+        "D": "A galaxy",
+        "answer": "B",
+        "funFact": "A supernova is the explosive death of a star, one of the most energetic events in the universe."
+    },
+    {
+        "question": "What is the speed of light?",
+        "A": "186,000 miles per second",
+        "B": "186,000 miles per hour",
+        "C": "186,000 miles per day",
+        "D": "186,000 miles per year",
+        "answer": "A",
+        "funFact": "The speed of light is approximately 186,000 miles per second (300,000 km/s) in a vacuum."
+    },
+    {
+        "question": "What is a quasar?",
+        "A": "A planet",
+        "B": "An extremely bright distant galaxy",
+        "C": "A star",
+        "D": "A moon",
+        "answer": "B",
+        "funFact": "A quasar is an extremely bright, distant galaxy powered by a supermassive black hole at its center."
+    },
+    {
+        "question": "What is the Big Bang?",
+        "A": "An explosion",
+        "B": "The beginning of the universe",
+        "C": "A supernova",
+        "D": "A black hole",
+        "answer": "B",
+        "funFact": "The Big Bang theory describes the rapid expansion of the universe from an extremely hot, dense state about 13.8 billion years ago."
+    },
+    {
+        "question": "What is a pulsar?",
+        "A": "A regular star",
+        "B": "A rotating neutron star that emits beams of radiation",
+        "C": "A planet",
+        "D": "A galaxy",
+        "answer": "B",
+        "funFact": "A pulsar is a rapidly rotating neutron star that emits beams of radiation, appearing to pulse as it rotates."
+    },
+    {
+        "question": "What is dark energy?",
+        "A": "Visible energy",
+        "B": "Mysterious force accelerating universe expansion",
+        "C": "A type of star",
+        "D": "A planet",
+        "answer": "B",
+        "funFact": "Dark energy is a mysterious force that makes up about 68% of the universe and is causing its expansion to accelerate."
+    },
+    {
+        "question": "What is a white dwarf?",
+        "A": "A new star",
+        "B": "A collapsed star core",
+        "C": "A planet",
+        "D": "A galaxy",
+        "answer": "B",
+        "funFact": "A white dwarf is the hot, dense core left behind after a star like the Sun exhausts its nuclear fuel."
+    },
+    {
+        "question": "What is the event horizon?",
+        "A": "A star's surface",
+        "B": "The boundary of a black hole",
+        "C": "A planet's atmosphere",
+        "D": "A galaxy's edge",
+        "answer": "B",
+        "funFact": "The event horizon is the boundary around a black hole beyond which nothing can escape."
+    },
+    {
+        "question": "What is a galaxy?",
+        "A": "A single star",
+        "B": "A massive system of stars, gas, and dust",
+        "C": "A planet",
+        "D": "A moon",
+        "answer": "B",
+        "funFact": "A galaxy is a massive gravitationally bound system containing stars, stellar remnants, gas, dust, and dark matter."
+    },
+    {
+        "question": "What is the Milky Way?",
+        "A": "A planet",
+        "B": "Our galaxy",
+        "C": "A star",
+        "D": "A moon",
+        "answer": "B",
+        "funFact": "The Milky Way is our home galaxy, a spiral galaxy containing billions of stars, including our Sun."
+    },
+    {
+        "question": "What is redshift?",
+        "A": "Light moving closer",
+        "B": "Light stretching to longer wavelengths",
+        "C": "Light getting brighter",
+        "D": "Light getting dimmer",
+        "answer": "B",
+        "funFact": "Redshift occurs when light from distant objects stretches to longer wavelengths, indicating the universe is expanding."
+    },
+    {
+        "question": "What is a nebula?",
+        "A": "A star",
+        "B": "A cloud of gas and dust in space",
+        "C": "A planet",
+        "D": "A galaxy",
+        "answer": "B",
+        "funFact": "A nebula is a giant cloud of gas and dust in space, often where stars are born."
+    },
+    {
+        "question": "What is the age of the universe?",
+        "A": "4.5 billion years",
+        "B": "13.8 billion years",
+        "C": "100 billion years",
+        "D": "1 billion years",
+        "answer": "B",
+        "funFact": "The universe is approximately 13.8 billion years old, based on observations of the cosmic microwave background."
+    },
+    {
+        "question": "What is a singularity?",
+        "A": "A star",
+        "B": "A point of infinite density",
+        "C": "A planet",
+        "D": "A galaxy",
+        "answer": "B",
+        "funFact": "A singularity is a point of infinite density at the center of a black hole, where physics breaks down."
+    },
+    {
+        "question": "What is cosmic microwave background?",
+        "A": "Radiation from stars",
+        "B": "Remnant radiation from the Big Bang",
+        "C": "Light from galaxies",
+        "D": "Heat from planets",
+        "answer": "B",
+        "funFact": "The cosmic microwave background is remnant radiation from the Big Bang, providing evidence for the universe's origin."
+    },
+    {
+        "question": "What is the study of the universe called?",
+        "A": "Geology",
+        "B": "Astrophysics",
+        "C": "Biology",
+        "D": "Chemistry",
+        "answer": "B",
+        "funFact": "Astrophysics is the branch of astronomy that applies physics to understand the universe and celestial objects."
+    }
+]

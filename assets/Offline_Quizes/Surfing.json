@@ -1,0 +1,173 @@
+[
+    {
+        "question": "What is surfing?",
+        "A": "Swimming",
+        "B": "Riding waves on a board",
+        "C": "Diving",
+        "D": "Fishing",
+        "answer": "B",
+        "funFact": "Surfing is the sport of riding waves on a surfboard, standing or lying on the board."
+    },
+    {
+        "question": "What is a surfboard?",
+        "A": "A boat",
+        "B": "A board for riding waves",
+        "C": "A paddle",
+        "D": "A wetsuit",
+        "answer": "B",
+        "funFact": "A surfboard is a long, narrow board designed for riding ocean waves."
+    },
+    {
+        "question": "What is a wave?",
+        "A": "Still water",
+        "B": "Moving water that forms a swell",
+        "C": "A board",
+        "D": "A beach",
+        "answer": "B",
+        "funFact": "A wave is moving water that forms a swell, which surfers ride on their boards."
+    },
+    {
+        "question": "What is a wipeout?",
+        "A": "A successful ride",
+        "B": "Falling off the board",
+        "C": "Catching a wave",
+        "D": "Standing up",
+        "answer": "B",
+        "funFact": "A wipeout is when a surfer falls off their board, often dramatically."
+    },
+    {
+        "question": "What is a barrel?",
+        "A": "A container",
+        "B": "A hollow wave",
+        "C": "A board",
+        "D": "A beach",
+        "answer": "B",
+        "funFact": "A barrel is a hollow, tube-like wave that forms when a wave breaks, creating a tunnel effect."
+    },
+    {
+        "question": "What is paddling?",
+        "A": "Standing",
+        "B": "Using arms to move the board",
+        "C": "Riding a wave",
+        "D": "Falling",
+        "answer": "B",
+        "funFact": "Paddling is using your arms to move the surfboard through the water while lying on it."
+    },
+    {
+        "question": "What is popping up?",
+        "A": "Falling",
+        "B": "Standing up on the board",
+        "C": "Paddling",
+        "D": "Wiping out",
+        "answer": "B",
+        "funFact": "Popping up is the quick movement from lying on the board to standing up to ride a wave."
+    },
+    {
+        "question": "What is a break?",
+        "A": "A rest",
+        "B": "Where waves break",
+        "C": "A board",
+        "D": "A beach",
+        "answer": "B",
+        "funFact": "A break is a location where waves consistently break, making it good for surfing."
+    },
+    {
+        "question": "What is a reef break?",
+        "A": "A beach break",
+        "B": "Waves breaking over coral or rock",
+        "C": "A point break",
+        "D": "No break",
+        "answer": "B",
+        "funFact": "A reef break is where waves break over a coral reef or rocky bottom, often creating powerful waves."
+    },
+    {
+        "question": "What is a beach break?",
+        "A": "A reef break",
+        "B": "Waves breaking over sand",
+        "C": "A point break",
+        "D": "No break",
+        "answer": "B",
+        "funFact": "A beach break is where waves break over a sandy bottom, typically safer for beginners."
+    },
+    {
+        "question": "What is a leash?",
+        "A": "A rope",
+        "B": "A cord attaching board to surfer",
+        "C": "A board",
+        "D": "A wetsuit",
+        "answer": "B",
+        "funFact": "A leash is a cord that attaches the surfboard to the surfer's ankle, preventing the board from drifting away."
+    },
+    {
+        "question": "What is a wetsuit?",
+        "A": "A board",
+        "B": "A suit that keeps you warm",
+        "C": "A leash",
+        "D": "A wave",
+        "answer": "B",
+        "funFact": "A wetsuit is a neoprene suit that keeps surfers warm in cold water by trapping a layer of water."
+    },
+    {
+        "question": "What is a longboard?",
+        "A": "A short board",
+        "B": "A longer, wider board",
+        "C": "A bodyboard",
+        "D": "A paddleboard",
+        "answer": "B",
+        "funFact": "A longboard is a longer, wider surfboard, typically 8-12 feet, easier for beginners."
+    },
+    {
+        "question": "What is a shortboard?",
+        "A": "A long board",
+        "B": "A shorter, narrower board",
+        "C": "A bodyboard",
+        "D": "A paddleboard",
+        "answer": "B",
+        "funFact": "A shortboard is a shorter, narrower board, typically 5-7 feet, for advanced maneuvers."
+    },
+    {
+        "question": "What is duck diving?",
+        "A": "Swimming",
+        "B": "Pushing board underwater to pass waves",
+        "C": "Riding a wave",
+        "D": "Standing up",
+        "answer": "B",
+        "funFact": "Duck diving is pushing the surfboard underwater to pass through oncoming waves while paddling out."
+    },
+    {
+        "question": "What is a set?",
+        "A": "A single wave",
+        "B": "A group of larger waves",
+        "C": "A board",
+        "D": "A beach",
+        "answer": "B",
+        "funFact": "A set is a group of larger waves that come in sequence, often the best waves to catch."
+    },
+    {
+        "question": "What is a tube ride?",
+        "A": "Riding inside a barrel",
+        "B": "Riding on top",
+        "C": "Falling",
+        "D": "Paddling",
+        "answer": "A",
+        "funFact": "A tube ride is when a surfer rides inside the hollow part of a breaking wave (the barrel)."
+    },
+    {
+        "question": "What is the study of surfing called?",
+        "A": "Surfingology",
+        "B": "Just surfing",
+        "C": "Water sports",
+        "D": "Beach sports",
+        "answer": "B",
+        "funFact": "Surfing is simply called surfing, though it's studied and analyzed by coaches and oceanographers."
+    },
+    {
+        "question": "What is a surf instructor?",
+        "A": "A student",
+        "B": "A teacher of surfing",
+        "C": "A lifeguard",
+        "D": "A beach owner",
+        "answer": "B",
+        "funFact": "A surf instructor is a teacher who helps people learn to surf safely and effectively."
+    }
+]

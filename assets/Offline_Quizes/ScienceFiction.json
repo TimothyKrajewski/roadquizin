@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is science fiction?",
+        "A": "Real science",
+        "B": "Fiction based on science and technology",
+        "C": "Historical fiction",
+        "D": "Fantasy",
+        "answer": "B",
+        "funFact": "Science fiction (sci-fi) is fiction based on imagined future scientific or technological advances and their impact."
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "A": "Aldous Huxley",
+        "B": "George Orwell",
+        "C": "Ray Bradbury",
+        "D": "Isaac Asimov",
+        "answer": "B",
+        "funFact": "George Orwell wrote '1984,' a dystopian science fiction novel about totalitarian surveillance and control."
+    },
+    {
+        "question": "Who wrote 'The War of the Worlds'?",
+        "A": "Jules Verne",
+        "B": "H.G. Wells",
+        "C": "Isaac Asimov",
+        "D": "Arthur C. Clarke",
+        "answer": "B",
+        "funFact": "H.G. Wells wrote 'The War of the Worlds' in 1898, one of the earliest and most influential science fiction novels."
+    },
+    {
+        "question": "What is the study of science fiction called?",
+        "A": "Sci-fiology",
+        "B": "Science fiction studies",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Science fiction is studied through literary studies, genre studies, and science fiction research."
+    },
+    {
+        "question": "What is the impact of science fiction?",
+        "A": "No impact",
+        "B": "Inspiring real scientific innovation",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Science fiction has inspired real scientific innovation, with many technologies first imagined in sci-fi stories."
+    },
+    {
+        "question": "What is the origin of science fiction?",
+        "A": "The 2000s",
+        "B": "The 1800s-1900s",
+        "C": "The 1700s",
+        "D": "The 1600s",
+        "answer": "B",
+        "funFact": "Science fiction emerged in the 1800s-1900s with authors like Jules Verne and H.G. Wells, though earlier works exist."
+    },
+    {
+        "question": "What is the future of science fiction?",
+        "A": "No future",
+        "B": "Continued exploration of future possibilities",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Science fiction continues to explore future possibilities, new technologies, and their impact on society."
+    },
+    {
+        "question": "What is the importance of science fiction?",
+        "A": "Not important",
+        "B": "Exploring future possibilities and technology",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Science fiction explores future possibilities, technology, and their consequences, influencing how people think about the future."
+    },
+    {
+        "question": "What is the study of science fiction called?",
+        "A": "Sci-fiology",
+        "B": "Science fiction analysis",
+        "C": "Genre studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Science fiction is studied through literary studies, genre analysis, and science fiction research."
+    },
+    {
+        "question": "What is the difference between science fiction and fantasy?",
+        "A": "They're the same",
+        "B": "Sci-fi is based on science, fantasy uses magic",
+        "C": "Fantasy is based on science",
+        "D": "Sci-fi uses magic",
+        "answer": "B",
+        "funFact": "Science fiction is based on scientific principles and technology, while fantasy uses magic and supernatural elements."
+    },
+    {
+        "question": "What is the impact of science fiction on culture?",
+        "A": "No impact",
+        "B": "Influencing how people view technology and the future",
+        "C": "Minor changes",
+        "D": "Only affects some countries",
+        "answer": "B",
+        "funFact": "Science fiction has influenced how people view technology, the future, and society, with many concepts entering popular culture."
+    },
+    {
+        "question": "What is the origin of science fiction?",
+        "A": "The 2000s",
+        "B": "The 1800s",
+        "C": "The 1900s",
+        "D": "The 1700s",
+        "answer": "B",
+        "funFact": "Science fiction as a genre emerged in the 1800s with works like 'Frankenstein' (1818) and 'The Time Machine' (1895)."
+    },
+    {
+        "question": "What is the future of science fiction?",
+        "A": "No future",
+        "B": "Continued innovation and new themes",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Science fiction continues to innovate with new themes, technologies, and ways of exploring future possibilities."
+    },
+    {
+        "question": "What is the study of science fiction called?",
+        "A": "Sci-fiology",
+        "B": "Science fiction studies",
+        "C": "Speculative fiction",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Science fiction is studied through literary studies, genre research, and speculative fiction analysis."
+    },
+    {
+        "question": "What is the importance of science fiction?",
+        "A": "Not important",
+        "B": "Exploring technology and future society",
+        "C": "Minor importance",
+        "D": "Only for readers",
+        "answer": "B",
+        "funFact": "Science fiction explores technology, future society, and their consequences, helping people think about possibilities."
+    },
+    {
+        "question": "What is the difference between hard and soft science fiction?",
+        "A": "They're the same",
+        "B": "Hard sci-fi focuses on science, soft focuses on characters",
+        "C": "Soft focuses on science",
+        "D": "Hard focuses on characters",
+        "answer": "B",
+        "funFact": "Hard science fiction emphasizes scientific accuracy, while soft science fiction focuses more on characters and social issues."
+    },
+    {
+        "question": "What is the impact of science fiction on science?",
+        "A": "No impact",
+        "B": "Inspiring scientists and engineers",
+        "C": "Minor changes",
+        "D": "Only affects some fields",
+        "answer": "B",
+        "funFact": "Science fiction has inspired scientists and engineers, with many citing sci-fi as motivation for their careers."
+    },
+    {
+        "question": "What is the origin of science fiction?",
+        "A": "The 2000s",
+        "B": "The 1800s-1900s",
+        "C": "The 1700s",
+        "D": "The 1600s",
+        "answer": "B",
+        "funFact": "Science fiction developed as a distinct genre in the 1800s-1900s, though earlier works had sci-fi elements."
+    },
+    {
+        "question": "What is the future of science fiction?",
+        "A": "No future",
+        "B": "Evolving with new technologies and ideas",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Science fiction evolves with new technologies and ideas, continuing to explore future possibilities and their implications."
+    },
+    {
+        "question": "What is the study of science fiction called?",
+        "A": "Sci-fiology",
+        "B": "Science fiction research",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Science fiction is studied through literary studies, genre research, and science fiction analysis, exploring its themes and impact."
+    }
+]

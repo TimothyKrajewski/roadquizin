@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What is the main leavening agent in most baking?",
+        "A": "Yeast",
+        "B": "Baking powder or baking soda",
+        "C": "Eggs",
+        "D": "Sugar",
+        "answer": "B",
+        "funFact": "Baking powder and baking soda are the main leavening agents in most baked goods, creating bubbles that make dough rise."
+    },
+    {
+        "question": "What is the difference between baking powder and baking soda?",
+        "A": "They're the same",
+        "B": "Baking soda needs acid, baking powder has acid included",
+        "C": "Baking powder is stronger",
+        "D": "Baking soda is for bread only",
+        "answer": "B",
+        "funFact": "Baking soda needs an acid to activate, while baking powder contains both an acid and a base, so it activates with liquid and heat."
+    },
+    {
+        "question": "What is gluten?",
+        "A": "A type of flour",
+        "B": "A protein in wheat flour",
+        "C": "A sugar",
+        "D": "A fat",
+        "answer": "B",
+        "funFact": "Gluten is a protein found in wheat flour that gives bread its structure and elasticity when kneaded."
+    },
+    {
+        "question": "What is the purpose of creaming butter and sugar?",
+        "A": "To melt them",
+        "B": "To incorporate air for lightness",
+        "C": "To mix them",
+        "D": "To dissolve sugar",
+        "answer": "B",
+        "funFact": "Creaming butter and sugar incorporates air into the mixture, creating a light, fluffy texture in baked goods."
+    },
+    {
+        "question": "What temperature should butter be for most baking?",
+        "A": "Frozen",
+        "B": "Room temperature",
+        "C": "Melted",
+        "D": "Hot",
+        "answer": "B",
+        "funFact": "Butter should be at room temperature (around 65-70°F) for most baking to properly cream with sugar and mix with other ingredients."
+    },
+    {
+        "question": "What is proofing?",
+        "A": "Testing a recipe",
+        "B": "Allowing dough to rise",
+        "C": "Baking",
+        "D": "Cooling",
+        "answer": "B",
+        "funFact": "Proofing is allowing yeast dough to rise before baking, giving the yeast time to produce carbon dioxide and expand the dough."
+    },
+    {
+        "question": "What is a leavening agent?",
+        "A": "A flavor",
+        "B": "A substance that makes dough rise",
+        "C": "A color",
+        "D": "A preservative",
+        "answer": "B",
+        "funFact": "A leavening agent is a substance that causes dough or batter to rise by producing gas bubbles, like baking powder, baking soda, or yeast."
+    },
+    {
+        "question": "What is the purpose of sifting flour?",
+        "A": "To remove bugs",
+        "B": "To aerate and remove lumps",
+        "C": "To measure it",
+        "D": "To store it",
+        "answer": "B",
+        "funFact": "Sifting flour aerates it, removes lumps, and makes it lighter, resulting in lighter, more uniform baked goods."
+    },
+    {
+        "question": "What is the difference between all-purpose and bread flour?",
+        "A": "They're the same",
+        "B": "Bread flour has more protein",
+        "C": "All-purpose is stronger",
+        "D": "Bread flour is for cakes",
+        "answer": "B",
+        "funFact": "Bread flour has more protein (gluten) than all-purpose flour, making it better for bread that needs structure and chewiness."
+    },
+    {
+        "question": "What is blind baking?",
+        "A": "Baking in the dark",
+        "B": "Baking a pie crust before adding filling",
+        "C": "Baking without looking",
+        "D": "Baking at night",
+        "answer": "B",
+        "funFact": "Blind baking is pre-baking a pie crust before adding the filling, preventing a soggy bottom crust."
+    },
+    {
+        "question": "What is the purpose of eggs in baking?",
+        "A": "Only for flavor",
+        "B": "To bind, leaven, and add moisture",
+        "C": "Only for color",
+        "D": "Only for sweetness",
+        "answer": "B",
+        "funFact": "Eggs serve multiple purposes in baking: binding ingredients, adding moisture, leavening, and providing structure and color."
+    },
+    {
+        "question": "What is the Maillard reaction?",
+        "A": "A mixing technique",
+        "B": "Browning that creates flavor",
+        "C": "A rising process",
+        "D": "A cooling process",
+        "answer": "B",
+        "funFact": "The Maillard reaction is the chemical reaction between amino acids and sugars that creates browning and complex flavors in baked goods."
+    },
+    {
+        "question": "What is the ideal oven temperature for most baking?",
+        "A": "200°F",
+        "B": "350-375°F",
+        "C": "500°F",
+        "D": "100°F",
+        "answer": "B",
+        "funFact": "Most baked goods are baked at 350-375°F (175-190°C), providing even heat for proper rising and browning."
+    },
+    {
+        "question": "What is a baker's percentage?",
+        "A": "A discount",
+        "B": "A method of calculating ingredient ratios",
+        "C": "A temperature",
+        "D": "A time",
+        "answer": "B",
+        "funFact": "Baker's percentage is a method where all ingredients are expressed as a percentage of the flour weight, making recipes scalable."
+    },
+    {
+        "question": "What is the purpose of salt in baking?",
+        "A": "Only for flavor",
+        "B": "To enhance flavor and control yeast",
+        "C": "Only for preservation",
+        "D": "Only for color",
+        "answer": "B",
+        "funFact": "Salt enhances flavor, strengthens gluten, and controls yeast activity in bread, making it an essential ingredient."
+    },
+    {
+        "question": "What is a sourdough starter?",
+        "A": "A type of flour",
+        "B": "A fermented mixture of flour and water",
+        "C": "A type of yeast",
+        "D": "A type of sugar",
+        "answer": "B",
+        "funFact": "A sourdough starter is a fermented mixture of flour and water containing wild yeast and bacteria, used to leaven bread naturally."
+    },
+    {
+        "question": "What is the purpose of chilling cookie dough?",
+        "A": "To freeze it",
+        "B": "To prevent spreading and improve flavor",
+        "C": "To make it last longer",
+        "D": "To change the color",
+        "answer": "B",
+        "funFact": "Chilling cookie dough solidifies the fat, preventing cookies from spreading too much and allowing flavors to develop."
+    },
+    {
+        "question": "What is the difference between cake flour and all-purpose flour?",
+        "A": "They're the same",
+        "B": "Cake flour has less protein",
+        "C": "All-purpose is softer",
+        "D": "Cake flour is for bread",
+        "answer": "B",
+        "funFact": "Cake flour has less protein than all-purpose flour, resulting in tender, delicate cakes with a fine crumb."
+    },
+    {
+        "question": "What is the study of baking called?",
+        "A": "Bakingology",
+        "B": "Pastry arts",
+        "C": "Bread science",
+        "D": "All of the above",
+        "answer": "B",
+        "funFact": "The study of baking is called pastry arts or baking science, combining culinary skills with scientific understanding."
+    },
+    {
+        "question": "What is the purpose of vanilla extract in baking?",
+        "A": "Only for color",
+        "B": "To enhance and round out flavors",
+        "C": "Only for sweetness",
+        "D": "Only for preservation",
+        "answer": "B",
+        "funFact": "Vanilla extract enhances and rounds out flavors in baked goods, making other flavors taste more pronounced and balanced."
+    },
+    {
+        "question": "What is the windowpane test?",
+        "A": "A temperature test",
+        "B": "A test to check if gluten is developed",
+        "C": "A color test",
+        "D": "A sweetness test",
+        "answer": "B",
+        "funFact": "The windowpane test stretches a small piece of dough thin enough to see light through it, indicating proper gluten development."
+    }
+]

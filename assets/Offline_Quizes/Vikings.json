@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who were the Vikings?",
+        "A": "A modern people",
+        "B": "Norse seafarers and warriors",
+        "C": "A country",
+        "D": "A city",
+        "answer": "B",
+        "funFact": "Vikings were Norse seafarers, traders, and warriors from Scandinavia who raided and explored from the 8th to 11th centuries."
+    },
+    {
+        "question": "Where did the Vikings come from?",
+        "A": "England",
+        "B": "Scandinavia",
+        "C": "France",
+        "D": "Spain",
+        "answer": "B",
+        "funFact": "Vikings came from Scandinavia, including modern-day Norway, Sweden, and Denmark."
+    },
+    {
+        "question": "What were Viking ships called?",
+        "A": "Boats",
+        "B": "Longships",
+        "C": "Ships",
+        "D": "Vessels",
+        "answer": "B",
+        "funFact": "Viking longships were fast, flexible ships that could sail in shallow waters and be rowed, enabling raids and exploration."
+    },
+    {
+        "question": "What was a Viking raid?",
+        "A": "A peaceful visit",
+        "B": "An attack on coastal settlements",
+        "C": "A trade mission",
+        "D": "A celebration",
+        "answer": "B",
+        "funFact": "Viking raids were surprise attacks on coastal settlements, monasteries, and towns throughout Europe."
+    },
+    {
+        "question": "What were the Viking gods?",
+        "A": "Greek gods",
+        "B": "Norse gods like Odin and Thor",
+        "C": "Roman gods",
+        "D": "Egyptian gods",
+        "answer": "B",
+        "funFact": "Vikings worshipped Norse gods like Odin (wisdom), Thor (thunder), and Loki (trickster)."
+    },
+    {
+        "question": "What was Valhalla?",
+        "A": "A city",
+        "B": "The hall where warriors go after death",
+        "C": "A ship",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "Valhalla was the great hall in Norse mythology where warriors who died in battle went after death."
+    },
+    {
+        "question": "What was a berserker?",
+        "A": "A regular warrior",
+        "B": "A fierce warrior who fought in a trance",
+        "C": "A ship",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "A berserker was a fierce Viking warrior who fought in a trance-like state, known for their ferocity."
+    },
+    {
+        "question": "What was runes?",
+        "A": "A language",
+        "B": "The Viking alphabet",
+        "C": "A weapon",
+        "D": "A ship",
+        "answer": "B",
+        "funFact": "Runes were the letters of the Viking alphabet, used for writing and often carved into stone or wood."
+    },
+    {
+        "question": "What was a Viking settlement?",
+        "A": "A raid",
+        "B": "A place where Vikings established communities",
+        "C": "A ship",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "Viking settlements were places where Vikings established communities, like in Iceland, Greenland, and parts of England."
+    },
+    {
+        "question": "What was the Viking Age?",
+        "A": "A single year",
+        "B": "The period from 793 to 1066 AD",
+        "C": "A century",
+        "D": "A millennium",
+        "answer": "B",
+        "funFact": "The Viking Age is typically dated from 793 AD (first recorded raid) to 1066 AD (Battle of Stamford Bridge)."
+    },
+    {
+        "question": "What was a saga?",
+        "A": "A weapon",
+        "B": "A story or history",
+        "C": "A ship",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "A saga was a story or history, often written in Old Norse, telling of Viking adventures and heroes."
+    },
+    {
+        "question": "What was a jarl?",
+        "A": "A commoner",
+        "B": "A Viking noble or chieftain",
+        "C": "A slave",
+        "D": "A priest",
+        "answer": "B",
+        "funFact": "A jarl was a Viking noble or chieftain who ruled over a territory and led warriors."
+    },
+    {
+        "question": "What was a thing?",
+        "A": "An object",
+        "B": "A Viking assembly or parliament",
+        "C": "A weapon",
+        "D": "A ship",
+        "answer": "B",
+        "funFact": "A thing was a Viking assembly where free men gathered to make laws, settle disputes, and make decisions."
+    },
+    {
+        "question": "What was a Viking helmet?",
+        "A": "Always had horns",
+        "B": "Typically did not have horns",
+        "C": "Was made of gold",
+        "D": "Was never worn",
+        "answer": "B",
+        "funFact": "Contrary to popular belief, Viking helmets typically did not have horns - that's a modern myth."
+    },
+    {
+        "question": "What was a Viking sword?",
+        "A": "A tool",
+        "B": "A weapon and status symbol",
+        "C": "A decoration",
+        "D": "Never used",
+        "answer": "B",
+        "funFact": "A Viking sword was both a weapon and a status symbol, often beautifully crafted and passed down through generations."
+    },
+    {
+        "question": "What was the study of Vikings called?",
+        "A": "Vikingology",
+        "B": "Norse studies",
+        "C": "Scandinavian studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Vikings are studied through Norse studies, Scandinavian history, archaeology, and Viking studies."
+    },
+    {
+        "question": "What was a Viking burial?",
+        "A": "Simple",
+        "B": "Often elaborate with grave goods",
+        "C": "Never happened",
+        "D": "Always at sea",
+        "answer": "B",
+        "funFact": "Viking burials were often elaborate, with grave goods, ships, and sometimes human sacrifices, reflecting beliefs about the afterlife."
+    },
+    {
+        "question": "What was a Viking explorer?",
+        "A": "Never existed",
+        "B": "A Viking who discovered new lands",
+        "C": "A myth",
+        "D": "A modern invention",
+        "answer": "B",
+        "funFact": "Viking explorers like Leif Erikson reached North America around 1000 AD, centuries before Columbus."
+    },
+    {
+        "question": "What was the name of the Viking who discovered Greenland?",
+        "A": "Leif Erikson",
+        "B": "Erik the Red",
+        "C": "Ragnar Lothbrok",
+        "D": "Harald Hardrada",
+        "answer": "B",
+        "funFact": "Erik the Red discovered and named Greenland, while his son Leif Erikson reached North America."
+    },
+    {
+        "question": "What was a Viking trader?",
+        "A": "Only a raider",
+        "B": "A Viking who engaged in commerce",
+        "C": "Never existed",
+        "D": "A myth",
+        "answer": "B",
+        "funFact": "Vikings were not just raiders - they were also skilled traders who established trade routes across Europe and beyond."
+    }
+]

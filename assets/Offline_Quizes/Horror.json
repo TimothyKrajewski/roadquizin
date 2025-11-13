@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is horror literature?",
+        "A": "Comedy",
+        "B": "Fiction intended to frighten or disturb",
+        "C": "Romance",
+        "D": "Science fiction",
+        "answer": "B",
+        "funFact": "Horror literature is fiction intended to frighten, scare, or disturb readers through supernatural or psychological elements."
+    },
+    {
+        "question": "Who wrote 'Frankenstein'?",
+        "A": "Bram Stoker",
+        "B": "Mary Shelley",
+        "C": "Edgar Allan Poe",
+        "D": "H.P. Lovecraft",
+        "answer": "B",
+        "funFact": "Mary Shelley wrote 'Frankenstein' in 1818, often considered the first science fiction novel and a classic horror story."
+    },
+    {
+        "question": "Who wrote 'Dracula'?",
+        "A": "Mary Shelley",
+        "B": "Bram Stoker",
+        "C": "Edgar Allan Poe",
+        "D": "H.P. Lovecraft",
+        "answer": "B",
+        "funFact": "Bram Stoker wrote 'Dracula' in 1897, creating one of the most famous vampire stories in literature."
+    },
+    {
+        "question": "What is the study of horror literature called?",
+        "A": "Horrorology",
+        "B": "Horror studies",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Horror literature is studied through literary studies, genre analysis, and horror research."
+    },
+    {
+        "question": "What is the impact of horror?",
+        "A": "No impact",
+        "B": "Influencing entertainment and exploring fears",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Horror influences entertainment and explores human fears, anxieties, and the darker aspects of human nature."
+    },
+    {
+        "question": "What is the origin of horror literature?",
+        "A": "The 2000s",
+        "B": "The 1700s-1800s",
+        "C": "The 1900s",
+        "D": "The 1600s",
+        "answer": "B",
+        "funFact": "Horror literature developed in the 1700s-1800s with Gothic novels, though horror elements exist in ancient stories."
+    },
+    {
+        "question": "What is the future of horror?",
+        "A": "No future",
+        "B": "Continued exploration of fear and darkness",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Horror continues to explore fear and darkness, with new subgenres and approaches to frightening audiences."
+    },
+    {
+        "question": "What is the importance of horror?",
+        "A": "Not important",
+        "B": "Exploring human fears and psychology",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Horror explores human fears, psychology, and the darker aspects of human experience."
+    },
+    {
+        "question": "What is the study of horror literature called?",
+        "A": "Horrorology",
+        "B": "Horror analysis",
+        "C": "Gothic studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Horror literature is studied through literary studies, genre analysis, and Gothic literature research."
+    },
+    {
+        "question": "What is the difference between horror and thriller?",
+        "A": "They're the same",
+        "B": "Horror aims to frighten, thriller aims to thrill",
+        "C": "Thriller aims to frighten",
+        "D": "Horror aims to thrill",
+        "answer": "B",
+        "funFact": "Horror aims to frighten or disturb, while thriller aims to create suspense and excitement."
+    },
+    {
+        "question": "What is the impact of horror on culture?",
+        "A": "No impact",
+        "B": "Influencing books, films, and entertainment",
+        "C": "Minor changes",
+        "D": "Only affects some countries",
+        "answer": "B",
+        "funFact": "Horror has influenced books, films, games, and entertainment, creating iconic monsters and stories."
+    },
+    {
+        "question": "What is the origin of horror literature?",
+        "A": "The 2000s",
+        "B": "The 1700s-1800s",
+        "C": "The 1900s",
+        "D": "The 1600s",
+        "answer": "B",
+        "funFact": "Horror literature emerged with Gothic novels in the 1700s-1800s, though horror elements exist in ancient myths."
+    },
+    {
+        "question": "What is the future of horror?",
+        "A": "No future",
+        "B": "Evolving with new fears and techniques",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Horror evolves with new fears, techniques, and approaches to frightening and disturbing audiences."
+    },
+    {
+        "question": "What is the study of horror literature called?",
+        "A": "Horrorology",
+        "B": "Horror studies",
+        "C": "Dark fiction",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Horror literature is studied through literary studies, genre research, and dark fiction analysis."
+    },
+    {
+        "question": "What is the importance of horror?",
+        "A": "Not important",
+        "B": "Exploring darkness and human psychology",
+        "C": "Minor importance",
+        "D": "Only for readers",
+        "answer": "B",
+        "funFact": "Horror explores darkness and human psychology, providing a safe way to confront fears."
+    },
+    {
+        "question": "What is the difference between supernatural and psychological horror?",
+        "A": "They're the same",
+        "B": "Supernatural uses monsters, psychological uses fear",
+        "C": "Psychological uses monsters",
+        "D": "Supernatural uses fear only",
+        "answer": "B",
+        "funFact": "Supernatural horror uses monsters and ghosts, while psychological horror focuses on mental fear and anxiety."
+    },
+    {
+        "question": "What is the impact of horror on entertainment?",
+        "A": "No impact",
+        "B": "Major influence on books, films, and games",
+        "C": "Minor changes",
+        "D": "Only affects some media",
+        "answer": "B",
+        "funFact": "Horror has major influence on books, films, video games, and other forms of entertainment."
+    },
+    {
+        "question": "What is the origin of horror literature?",
+        "A": "The 2000s",
+        "B": "The 1700s-1800s",
+        "C": "The 1900s",
+        "D": "The 1600s",
+        "answer": "B",
+        "funFact": "Horror literature developed with Gothic novels in the 1700s-1800s, creating a distinct literary genre."
+    },
+    {
+        "question": "What is the future of horror?",
+        "A": "No future",
+        "B": "Continued innovation and new subgenres",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Horror continues to innovate with new subgenres, techniques, and ways of exploring fear."
+    },
+    {
+        "question": "What is the study of horror literature called?",
+        "A": "Horrorology",
+        "B": "Horror research",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Horror literature is studied through literary studies, genre research, and horror analysis, exploring its themes and techniques."
+    }
+]

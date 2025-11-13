@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What was the first video game?",
+        "A": "Pong",
+        "B": "Tennis for Two",
+        "C": "Spacewar!",
+        "D": "Pac-Man",
+        "answer": "B",
+        "funFact": "Tennis for Two, created in 1958, is considered the first video game, displayed on an oscilloscope."
+    },
+    {
+        "question": "What is a console?",
+        "A": "A computer",
+        "B": "A dedicated gaming device",
+        "C": "A phone",
+        "D": "A tablet",
+        "answer": "B",
+        "funFact": "A console is a dedicated gaming device designed primarily for playing video games, like PlayStation, Xbox, or Nintendo Switch."
+    },
+    {
+        "question": "What is the difference between a console and a PC game?",
+        "A": "They're the same",
+        "B": "Consoles are dedicated devices, PCs are general-purpose",
+        "C": "PCs are only for games",
+        "D": "Consoles are computers",
+        "answer": "B",
+        "funFact": "Consoles are dedicated gaming devices, while PC games run on general-purpose computers that can do many things."
+    },
+    {
+        "question": "What is an indie game?",
+        "A": "A large studio game",
+        "B": "A game made by independent developers",
+        "C": "A free game",
+        "D": "An old game",
+        "answer": "B",
+        "funFact": "An indie game is made by independent developers or small studios, often with creative and innovative gameplay."
+    },
+    {
+        "question": "What is the study of video games called?",
+        "A": "Gameology",
+        "B": "Game studies",
+        "C": "Ludology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Video games are studied through game studies, ludology (study of games), and interactive media research."
+    },
+    {
+        "question": "What is the impact of video games?",
+        "A": "No impact",
+        "B": "Major entertainment industry and cultural phenomenon",
+        "C": "Minor changes",
+        "D": "Only affects children",
+        "answer": "B",
+        "funFact": "Video games have become a major entertainment industry and cultural phenomenon, with billions of players worldwide."
+    },
+    {
+        "question": "What is the origin of video games?",
+        "A": "The 2000s",
+        "B": "The 1950s-1970s",
+        "C": "The 1980s",
+        "D": "The 1990s",
+        "answer": "B",
+        "funFact": "Video games originated in the 1950s-1970s, with early games like Tennis for Two (1958) and Pong (1972)."
+    },
+    {
+        "question": "What is the future of video games?",
+        "A": "No future",
+        "B": "More immersive and advanced experiences",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of video games includes more realistic graphics, VR/AR integration, cloud gaming, and new gameplay experiences."
+    },
+    {
+        "question": "What is the importance of video games?",
+        "A": "Not important",
+        "B": "Major entertainment and cultural medium",
+        "C": "Minor importance",
+        "D": "Only for entertainment",
+        "answer": "B",
+        "funFact": "Video games have become a major entertainment medium, art form, and cultural phenomenon, with educational and social value."
+    },
+    {
+        "question": "What is the study of video games called?",
+        "A": "Gameology",
+        "B": "Game design",
+        "C": "Interactive media",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Video games involve game design, programming, art, music, and storytelling, making it a multidisciplinary field."
+    },
+    {
+        "question": "What is the difference between single-player and multiplayer games?",
+        "A": "They're the same",
+        "B": "Single-player is solo, multiplayer involves multiple players",
+        "C": "Multiplayer is solo",
+        "D": "Single-player is multiple",
+        "answer": "B",
+        "funFact": "Single-player games are played alone, while multiplayer games involve multiple players, either cooperatively or competitively."
+    },
+    {
+        "question": "What is the impact of video games on society?",
+        "A": "No impact",
+        "B": "Influencing culture, entertainment, and technology",
+        "C": "Minor changes",
+        "D": "Only affects gamers",
+        "answer": "B",
+        "funFact": "Video games have influenced culture, entertainment, technology, and how people interact and learn."
+    },
+    {
+        "question": "What is the origin of video games?",
+        "A": "The 2000s",
+        "B": "The 1950s-1970s",
+        "C": "The 1980s",
+        "D": "The 1990s",
+        "answer": "B",
+        "funFact": "Video games began in the 1950s-1970s, evolving from simple games to today's complex, immersive experiences."
+    },
+    {
+        "question": "What is the future of video games?",
+        "A": "No future",
+        "B": "Continued innovation and new experiences",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of video games includes VR/AR, cloud gaming, AI-generated content, and new ways to play and interact."
+    },
+    {
+        "question": "What is the study of video games called?",
+        "A": "Gameology",
+        "B": "Game studies",
+        "C": "Digital games",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Video games are studied through game studies, digital media, and interactive entertainment research."
+    },
+    {
+        "question": "What is the importance of video games?",
+        "A": "Not important",
+        "B": "Significant entertainment and cultural medium",
+        "C": "Minor importance",
+        "D": "Only for fun",
+        "answer": "B",
+        "funFact": "Video games are a significant entertainment medium, art form, and cultural phenomenon with educational and social value."
+    },
+    {
+        "question": "What is the difference between casual and hardcore games?",
+        "A": "They're the same",
+        "B": "Casual is easy, hardcore is challenging",
+        "C": "Hardcore is easy",
+        "D": "Casual is challenging",
+        "answer": "B",
+        "funFact": "Casual games are easy to learn and play, while hardcore games are more complex and challenging, requiring more time and skill."
+    },
+    {
+        "question": "What is the impact of video games on technology?",
+        "A": "No impact",
+        "B": "Driving advances in graphics, AI, and hardware",
+        "C": "Minor changes",
+        "D": "Only affects games",
+        "answer": "B",
+        "funFact": "Video games have driven advances in graphics, AI, processing power, and hardware technology."
+    },
+    {
+        "question": "What is the origin of video games?",
+        "A": "The 2000s",
+        "B": "The 1950s-1970s",
+        "C": "The 1980s",
+        "D": "The 1990s",
+        "answer": "B",
+        "funFact": "Video games originated in the 1950s-1970s, with early games leading to the arcade and home console era."
+    },
+    {
+        "question": "What is the future of video games?",
+        "A": "No future",
+        "B": "More immersive, accessible, and innovative",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of video games includes more immersive experiences, better accessibility, and new ways to create and play games."
+    },
+    {
+        "question": "What is the study of video games called?",
+        "A": "Gameology",
+        "B": "Game research",
+        "C": "Interactive entertainment",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Video games are studied through game research, interactive media, and entertainment technology studies."
+    }
+]

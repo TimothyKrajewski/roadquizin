@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many players are on a cricket team?",
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12",
+        "answer": "C",
+        "funFact": "Each cricket team has 11 players on the field at once."
+    },
+    {
+        "question": "What is a wicket?",
+        "A": "A player",
+        "B": "The stumps and bails",
+        "C": "A ball",
+        "D": "A bat",
+        "answer": "B",
+        "funFact": "A wicket consists of three stumps with two bails on top, which the bowler tries to hit."
+    },
+    {
+        "question": "What is a run?",
+        "A": "A point",
+        "B": "Scoring by running between wickets",
+        "C": "A ball",
+        "D": "An out",
+        "answer": "B",
+        "funFact": "A run is scored when batsmen run between the wickets after the ball is hit."
+    },
+    {
+        "question": "What is a batsman?",
+        "A": "A bowler",
+        "B": "A player who hits the ball",
+        "C": "A fielder",
+        "D": "An umpire",
+        "answer": "B",
+        "funFact": "A batsman (or batter) is the player who tries to hit the ball and score runs."
+    },
+    {
+        "question": "What is a bowler?",
+        "A": "A batsman",
+        "B": "A player who throws the ball",
+        "C": "A fielder",
+        "D": "An umpire",
+        "answer": "B",
+        "funFact": "A bowler is the player who throws (bowls) the ball toward the batsman."
+    },
+    {
+        "question": "What is an over?",
+        "A": "A game",
+        "B": "Six balls bowled",
+        "C": "A run",
+        "D": "An out",
+        "answer": "B",
+        "funFact": "An over consists of six legal deliveries (balls) bowled by the same bowler."
+    },
+    {
+        "question": "What is a century?",
+        "A": "50 runs",
+        "B": "100 runs",
+        "C": "200 runs",
+        "D": "A wicket",
+        "answer": "B",
+        "funFact": "A century is when a batsman scores 100 runs in a single innings."
+    },
+    {
+        "question": "What is a six?",
+        "A": "Six runs",
+        "B": "Hitting ball over boundary without bouncing",
+        "C": "Six wickets",
+        "D": "Six overs",
+        "answer": "B",
+        "funFact": "A six is scored when the batsman hits the ball over the boundary without it bouncing, worth 6 runs."
+    },
+    {
+        "question": "What is a four?",
+        "A": "Four runs",
+        "B": "Ball reaching boundary after bouncing",
+        "C": "Four wickets",
+        "D": "Four overs",
+        "answer": "B",
+        "funFact": "A four is scored when the ball reaches the boundary after bouncing, worth 4 runs."
+    },
+    {
+        "question": "What is an innings?",
+        "A": "A ball",
+        "B": "A team's turn to bat",
+        "C": "A run",
+        "D": "A wicket",
+        "answer": "B",
+        "funFact": "An innings is a team's turn to bat, which continues until 10 wickets fall or overs are completed."
+    },
+    {
+        "question": "What is a test match?",
+        "A": "A short game",
+        "B": "A five-day match",
+        "C": "A one-day game",
+        "D": "A T20 game",
+        "answer": "B",
+        "funFact": "A test match is the longest form of cricket, played over five days with unlimited overs."
+    },
+    {
+        "question": "What is a one-day match?",
+        "A": "A test match",
+        "B": "A limited-overs match",
+        "C": "A T20",
+        "D": "A practice",
+        "answer": "B",
+        "funFact": "A one-day match (ODI) is limited to 50 overs per team, completed in one day."
+    },
+    {
+        "question": "What is a T20?",
+        "A": "A test match",
+        "B": "A 20-over match",
+        "C": "A one-day",
+        "D": "A practice",
+        "answer": "B",
+        "funFact": "T20 is the shortest form of cricket, with each team batting for 20 overs, typically lasting 3 hours."
+    },
+    {
+        "question": "What is a wicket?",
+        "A": "A run",
+        "B": "Dismissing a batsman",
+        "C": "A ball",
+        "D": "An over",
+        "answer": "B",
+        "funFact": "A wicket can also mean dismissing a batsman (getting them out)."
+    },
+    {
+        "question": "What is LBW?",
+        "A": "Leg Before Wicket",
+        "B": "A type of run",
+        "C": "A ball",
+        "D": "An over",
+        "answer": "A",
+        "funFact": "LBW (Leg Before Wicket) is a way to dismiss a batsman if the ball hits their leg in front of the wicket."
+    },
+    {
+        "question": "What is a catch?",
+        "A": "A run",
+        "B": "Catching the ball to dismiss batsman",
+        "C": "A wicket",
+        "D": "An over",
+        "answer": "B",
+        "funFact": "A catch occurs when a fielder catches the ball hit by the batsman before it bounces, dismissing the batsman."
+    },
+    {
+        "question": "What is a stumping?",
+        "A": "A run",
+        "B": "Dismissing batsman out of crease",
+        "C": "A ball",
+        "D": "An over",
+        "answer": "B",
+        "funFact": "A stumping occurs when the wicket-keeper removes the bails while the batsman is out of their crease."
+    },
+    {
+        "question": "What is the study of cricket called?",
+        "A": "Cricketology",
+        "B": "Just cricket",
+        "C": "Bat sports",
+        "D": "Ball sports",
+        "answer": "B",
+        "funFact": "Cricket is simply called cricket, though it's studied and analyzed by coaches and statisticians."
+    },
+    {
+        "question": "What is a boundary?",
+        "A": "The edge of the field",
+        "B": "The scoring area",
+        "C": "A wicket",
+        "D": "A run",
+        "answer": "A",
+        "funFact": "The boundary is the edge of the playing field, and hitting the ball over it scores 4 or 6 runs."
+    },
+    {
+        "question": "What is the Ashes?",
+        "A": "A trophy",
+        "B": "A test series between England and Australia",
+        "C": "A one-day series",
+        "D": "A T20 series",
+        "answer": "B",
+        "funFact": "The Ashes is a prestigious test cricket series played between England and Australia."
+    }
+]

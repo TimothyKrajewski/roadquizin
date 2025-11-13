@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How often are the Summer Olympics held?",
+        "A": "Every 2 years",
+        "B": "Every 4 years",
+        "C": "Every 6 years",
+        "D": "Every 8 years",
+        "answer": "B",
+        "funFact": "The Summer Olympics are held every 4 years, alternating with the Winter Olympics every 2 years."
+    },
+    {
+        "question": "What are the five Olympic rings?",
+        "A": "Five colors",
+        "B": "Representing five continents",
+        "C": "Five sports",
+        "D": "Five countries",
+        "answer": "B",
+        "funFact": "The five Olympic rings represent the five continents: Africa, Americas, Asia, Europe, and Oceania."
+    },
+    {
+        "question": "What is the Olympic motto?",
+        "A": "Faster, Higher, Stronger",
+        "B": "Win at all costs",
+        "C": "Play fair",
+        "D": "Have fun",
+        "answer": "A",
+        "funFact": "The Olympic motto is 'Citius, Altius, Fortius' (Faster, Higher, Stronger) in Latin."
+    },
+    {
+        "question": "What is a gold medal?",
+        "A": "Second place",
+        "B": "First place",
+        "C": "Third place",
+        "D": "Participation",
+        "answer": "B",
+        "funFact": "A gold medal is awarded to the first-place finisher in Olympic events."
+    },
+    {
+        "question": "What is a silver medal?",
+        "A": "First place",
+        "B": "Second place",
+        "C": "Third place",
+        "D": "Participation",
+        "answer": "B",
+        "funFact": "A silver medal is awarded to the second-place finisher in Olympic events."
+    },
+    {
+        "question": "What is a bronze medal?",
+        "A": "First place",
+        "B": "Second place",
+        "C": "Third place",
+        "D": "Participation",
+        "answer": "C",
+        "funFact": "A bronze medal is awarded to the third-place finisher in Olympic events."
+    },
+    {
+        "question": "What is the Olympic torch?",
+        "A": "A regular torch",
+        "B": "A symbol of the Games",
+        "C": "A medal",
+        "D": "A flag",
+        "answer": "B",
+        "funFact": "The Olympic torch is lit in Greece and carried to the host city, symbolizing the continuity of the Games."
+    },
+    {
+        "question": "What is the opening ceremony?",
+        "A": "The end",
+        "B": "The start of the Games",
+        "C": "A competition",
+        "D": "A medal ceremony",
+        "answer": "B",
+        "funFact": "The opening ceremony marks the official start of the Olympic Games with parades, performances, and the lighting of the cauldron."
+    },
+    {
+        "question": "What is the closing ceremony?",
+        "A": "The start",
+        "B": "The end of the Games",
+        "C": "A competition",
+        "D": "A medal ceremony",
+        "answer": "B",
+        "funFact": "The closing ceremony marks the end of the Olympic Games, featuring celebrations and the extinguishing of the flame."
+    },
+    {
+        "question": "What is the host city?",
+        "A": "A participant",
+        "B": "The city hosting the Games",
+        "C": "A country",
+        "D": "A sport",
+        "answer": "B",
+        "funFact": "The host city is selected years in advance and organizes and hosts the Olympic Games."
+    },
+    {
+        "question": "What is a record?",
+        "A": "A slow time",
+        "B": "The best performance",
+        "C": "A disqualification",
+        "D": "A participation",
+        "answer": "B",
+        "funFact": "A record is the best performance ever achieved in a particular event."
+    },
+    {
+        "question": "What is the Paralympics?",
+        "A": "The same as Olympics",
+        "B": "Games for athletes with disabilities",
+        "C": "Youth games",
+        "D": "Winter games",
+        "answer": "B",
+        "funFact": "The Paralympics are international multi-sport events for athletes with disabilities, held after the Olympics."
+    },
+    {
+        "question": "What is the Olympic Village?",
+        "A": "A city",
+        "B": "Housing for athletes",
+        "C": "A stadium",
+        "D": "A country",
+        "answer": "B",
+        "funFact": "The Olympic Village is the accommodation complex where athletes and officials stay during the Games."
+    },
+    {
+        "question": "What is the Olympic flag?",
+        "A": "A country flag",
+        "B": "The flag with five rings",
+        "C": "A team flag",
+        "D": "A sport flag",
+        "answer": "B",
+        "funFact": "The Olympic flag features five interlocking rings on a white background, representing the five continents."
+    },
+    {
+        "question": "What is an Olympic sport?",
+        "A": "Any sport",
+        "B": "A sport included in the Games",
+        "C": "A local sport",
+        "D": "A discontinued sport",
+        "answer": "B",
+        "funFact": "An Olympic sport is a sport that has been approved and included in the Olympic program."
+    },
+    {
+        "question": "What is the IOC?",
+        "A": "International Olympic Committee",
+        "B": "A country",
+        "C": "A sport",
+        "D": "A city",
+        "answer": "A",
+        "funFact": "The IOC (International Olympic Committee) is the organization that oversees the Olympic Games."
+    },
+    {
+        "question": "What is the study of the Olympics called?",
+        "A": "Olympicology",
+        "B": "Olympism",
+        "C": "Sports",
+        "D": "Games",
+        "answer": "B",
+        "funFact": "Olympism refers to the philosophy and ideals of the Olympic movement, promoting peace and understanding."
+    },
+    {
+        "question": "What is a medal ceremony?",
+        "A": "The start",
+        "B": "Awarding medals to winners",
+        "C": "A competition",
+        "D": "The end",
+        "answer": "B",
+        "funFact": "A medal ceremony is when winners receive their medals and their national anthems are played."
+    },
+    {
+        "question": "What is the Olympic flame?",
+        "A": "A regular fire",
+        "B": "A symbol lit at the start",
+        "C": "A medal",
+        "D": "A flag",
+        "answer": "B",
+        "funFact": "The Olympic flame is lit in Olympia, Greece, and burns throughout the Games as a symbol of the Olympic spirit."
+    },
+    {
+        "question": "What is the first modern Olympics?",
+        "A": "1896 in Athens",
+        "B": "1900 in Paris",
+        "C": "1904 in St. Louis",
+        "D": "1920 in Antwerp",
+        "answer": "A",
+        "funFact": "The first modern Olympic Games were held in Athens, Greece, in 1896, reviving the ancient tradition."
+    }
+]

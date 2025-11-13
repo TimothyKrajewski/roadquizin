@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is cybersecurity?",
+        "A": "Physical security",
+        "B": "Protecting computer systems from threats",
+        "C": "A type of attack",
+        "D": "A virus",
+        "answer": "B",
+        "funFact": "Cybersecurity is the practice of protecting computer systems, networks, and data from digital attacks and unauthorized access."
+    },
+    {
+        "question": "What is a virus?",
+        "A": "A helpful program",
+        "B": "Malicious software that replicates",
+        "C": "A computer",
+        "D": "A network",
+        "answer": "B",
+        "funFact": "A computer virus is malicious software that replicates itself and spreads to other computers, often causing damage."
+    },
+    {
+        "question": "What is malware?",
+        "A": "Helpful software",
+        "B": "Malicious software",
+        "C": "A computer",
+        "D": "A network",
+        "answer": "B",
+        "funFact": "Malware (malicious software) is any software designed to harm or exploit computer systems, including viruses, trojans, and ransomware."
+    },
+    {
+        "question": "What is a firewall?",
+        "A": "A physical wall",
+        "B": "A security barrier for networks",
+        "C": "A virus",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "A firewall is a security system that monitors and controls incoming and outgoing network traffic based on security rules."
+    },
+    {
+        "question": "What is encryption?",
+        "A": "Decoding",
+        "B": "Scrambling data to protect it",
+        "C": "A virus",
+        "D": "A network",
+        "answer": "B",
+        "funFact": "Encryption is the process of scrambling data so only authorized parties can read it, protecting information from unauthorized access."
+    },
+    {
+        "question": "What is a password?",
+        "A": "A key",
+        "B": "A secret code for authentication",
+        "C": "A username",
+        "D": "An email",
+        "answer": "B",
+        "funFact": "A password is a secret code used to authenticate and verify a user's identity when accessing systems or accounts."
+    },
+    {
+        "question": "What is phishing?",
+        "A": "Fishing",
+        "B": "Fraudulent attempts to steal information",
+        "C": "A virus",
+        "D": "A firewall",
+        "answer": "B",
+        "funFact": "Phishing is fraudulent attempts to steal sensitive information by pretending to be a trustworthy entity, often via email."
+    },
+    {
+        "question": "What is two-factor authentication?",
+        "A": "One password",
+        "B": "Two methods to verify identity",
+        "C": "No authentication",
+        "D": "Three passwords",
+        "answer": "B",
+        "funFact": "Two-factor authentication (2FA) requires two methods to verify identity, like a password plus a code from your phone."
+    },
+    {
+        "question": "What is a hacker?",
+        "A": "A builder",
+        "B": "Someone who accesses computer systems",
+        "C": "A computer",
+        "D": "A network",
+        "answer": "B",
+        "funFact": "A hacker is someone who accesses computer systems, which can be ethical (white hat) or malicious (black hat)."
+    },
+    {
+        "question": "What is ransomware?",
+        "A": "Helpful software",
+        "B": "Malware that locks data until payment",
+        "C": "A firewall",
+        "D": "A password",
+        "answer": "B",
+        "funFact": "Ransomware is malware that encrypts a victim's data and demands payment (ransom) to restore access."
+    },
+    {
+        "question": "What is the study of cybersecurity called?",
+        "A": "Cybersecurity",
+        "B": "Information security",
+        "C": "Computer security",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Cybersecurity is also called information security or computer security, involving protecting digital information and systems."
+    },
+    {
+        "question": "What is a data breach?",
+        "A": "A fix",
+        "B": "Unauthorized access to data",
+        "C": "A firewall",
+        "D": "Encryption",
+        "answer": "B",
+        "funFact": "A data breach is an incident where sensitive, protected, or confidential data is accessed or disclosed without authorization."
+    },
+    {
+        "question": "What is the importance of cybersecurity?",
+        "A": "Not important",
+        "B": "Protecting personal and organizational data",
+        "C": "Minor importance",
+        "D": "Only for companies",
+        "answer": "B",
+        "funFact": "Cybersecurity is crucial for protecting personal information, financial data, and critical infrastructure from cyber threats."
+    },
+    {
+        "question": "What is a VPN?",
+        "A": "A network",
+        "B": "A virtual private network for secure connection",
+        "C": "A virus",
+        "D": "A firewall",
+        "answer": "B",
+        "funFact": "A VPN (Virtual Private Network) creates a secure, encrypted connection over the internet, protecting your online activity."
+    },
+    {
+        "question": "What is the impact of cyber attacks?",
+        "A": "No impact",
+        "B": "Data loss, financial damage, and privacy violations",
+        "C": "Minor issues",
+        "D": "Only affects computers",
+        "answer": "B",
+        "funFact": "Cyber attacks can cause data loss, financial damage, privacy violations, and disruption of services."
+    },
+    {
+        "question": "What is the future of cybersecurity?",
+        "A": "No future",
+        "B": "Evolving threats and defenses",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of cybersecurity involves evolving threats (AI-powered attacks) and new defenses (AI-powered security)."
+    },
+    {
+        "question": "What is the origin of cybersecurity?",
+        "A": "The 2000s",
+        "B": "The 1970s-1980s",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "Cybersecurity emerged in the 1970s-1980s as computers became networked and security threats increased."
+    },
+    {
+        "question": "What is a security patch?",
+        "A": "A hole",
+        "B": "A software update that fixes vulnerabilities",
+        "C": "A virus",
+        "D": "A firewall",
+        "answer": "B",
+        "funFact": "A security patch is a software update that fixes vulnerabilities and security flaws in programs or systems."
+    },
+    {
+        "question": "What is the study of cybersecurity called?",
+        "A": "Cybersecurity",
+        "B": "Information assurance",
+        "C": "Network security",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Cybersecurity involves information assurance, network security, and protecting digital assets from threats."
+    },
+    {
+        "question": "What is the importance of strong passwords?",
+        "A": "Not important",
+        "B": "Protecting accounts from unauthorized access",
+        "C": "Minor importance",
+        "D": "Only for some accounts",
+        "answer": "B",
+        "funFact": "Strong passwords are essential for protecting accounts from unauthorized access and should be unique and complex."
+    }
+]

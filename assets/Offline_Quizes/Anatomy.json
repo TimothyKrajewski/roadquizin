@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is anatomy?",
+        "A": "Study of function",
+        "B": "Study of body structure",
+        "C": "Study of diseases",
+        "D": "Study of cells",
+        "answer": "B",
+        "funFact": "Anatomy is the study of the structure of the body and its parts."
+    },
+    {
+        "question": "How many bones are in the adult human body?",
+        "A": "186",
+        "B": "206",
+        "C": "226",
+        "D": "246",
+        "answer": "B",
+        "funFact": "The adult human body has 206 bones, though babies are born with about 270 bones that fuse together."
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "A": "Liver",
+        "B": "Lungs",
+        "C": "Skin",
+        "D": "Heart",
+        "answer": "C",
+        "funFact": "The skin is the largest organ, covering about 20 square feet and weighing about 8 pounds."
+    },
+    {
+        "question": "What is the strongest muscle in the body?",
+        "A": "Biceps",
+        "B": "Quadriceps",
+        "C": "Jaw muscle (masseter)",
+        "D": "Glutes",
+        "answer": "C",
+        "funFact": "The jaw muscle (masseter) is the strongest muscle relative to its size, generating the most force per unit area."
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "A": "Finger bone",
+        "B": "Toe bone",
+        "C": "Stapes (in ear)",
+        "D": "Rib",
+        "answer": "C",
+        "funFact": "The stapes, located in the middle ear, is the smallest bone in the human body, about the size of a grain of rice."
+    },
+    {
+        "question": "How many chambers does the heart have?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "C",
+        "funFact": "The human heart has four chambers: two atria (upper) and two ventricles (lower)."
+    },
+    {
+        "question": "What is the longest bone in the human body?",
+        "A": "Humerus",
+        "B": "Femur",
+        "C": "Tibia",
+        "D": "Radius",
+        "answer": "B",
+        "funFact": "The femur (thigh bone) is the longest and strongest bone in the human body."
+    },
+    {
+        "question": "What is the function of the lungs?",
+        "A": "Pump blood",
+        "B": "Exchange oxygen and carbon dioxide",
+        "C": "Digest food",
+        "D": "Filter waste",
+        "answer": "B",
+        "funFact": "The lungs exchange oxygen from the air with carbon dioxide from the blood."
+    },
+    {
+        "question": "What is the brain protected by?",
+        "A": "Muscle",
+        "B": "Skin",
+        "C": "Skull",
+        "D": "Cartilage",
+        "answer": "C",
+        "funFact": "The brain is protected by the skull, a hard bony structure, and cerebrospinal fluid."
+    },
+    {
+        "question": "How many teeth does an adult typically have?",
+        "A": "28",
+        "B": "30",
+        "C": "32",
+        "D": "34",
+        "answer": "C",
+        "funFact": "Adults typically have 32 teeth: 8 incisors, 4 canines, 8 premolars, and 12 molars (including wisdom teeth)."
+    },
+    {
+        "question": "What is the largest internal organ?",
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Lungs",
+        "D": "Stomach",
+        "answer": "B",
+        "funFact": "The liver is the largest internal organ, weighing about 3 pounds and performing over 500 functions."
+    },
+    {
+        "question": "What connects bones to bones?",
+        "A": "Tendons",
+        "B": "Ligaments",
+        "C": "Muscles",
+        "D": "Cartilage",
+        "answer": "B",
+        "funFact": "Ligaments connect bones to bones, while tendons connect muscles to bones."
+    },
+    {
+        "question": "What is the function of the kidneys?",
+        "A": "Pump blood",
+        "B": "Filter blood and produce urine",
+        "C": "Digest food",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The kidneys filter waste products from the blood and produce urine to remove them from the body."
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "A": "Organ",
+        "B": "Tissue",
+        "C": "Cell",
+        "D": "Molecule",
+        "answer": "C",
+        "funFact": "The cell is the smallest unit of life, and all living organisms are made of cells."
+    },
+    {
+        "question": "What is the function of the stomach?",
+        "A": "Absorb nutrients",
+        "B": "Break down food",
+        "C": "Filter blood",
+        "D": "Exchange gases",
+        "answer": "B",
+        "funFact": "The stomach breaks down food using acid and enzymes before it moves to the intestines."
+    },
+    {
+        "question": "What is the spinal column made of?",
+        "A": "Muscle",
+        "B": "Bones (vertebrae)",
+        "C": "Cartilage",
+        "D": "Tendons",
+        "answer": "B",
+        "funFact": "The spinal column is made of 33 individual bones called vertebrae that protect the spinal cord."
+    },
+    {
+        "question": "What is the function of red blood cells?",
+        "A": "Fight infection",
+        "B": "Carry oxygen",
+        "C": "Clot blood",
+        "D": "Produce antibodies",
+        "answer": "B",
+        "funFact": "Red blood cells contain hemoglobin, which carries oxygen from the lungs to the rest of the body."
+    },
+    {
+        "question": "What is the largest artery in the body?",
+        "A": "Pulmonary artery",
+        "B": "Aorta",
+        "C": "Carotid artery",
+        "D": "Femoral artery",
+        "answer": "B",
+        "funFact": "The aorta is the largest artery, carrying oxygenated blood from the heart to the rest of the body."
+    },
+    {
+        "question": "What is the function of white blood cells?",
+        "A": "Carry oxygen",
+        "B": "Fight infection",
+        "C": "Clot blood",
+        "D": "Carry nutrients",
+        "answer": "B",
+        "funFact": "White blood cells are part of the immune system and help fight infections and diseases."
+    },
+    {
+        "question": "What is the study of body structure called?",
+        "A": "Physiology",
+        "B": "Anatomy",
+        "C": "Pathology",
+        "D": "Biology",
+        "answer": "B",
+        "funFact": "Anatomy is the study of the structure of the body, while physiology studies how it functions."
+    }
+]

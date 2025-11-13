@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Where was the Mayan civilization located?",
+        "A": "South America",
+        "B": "Mesoamerica (Mexico and Central America)",
+        "C": "North America",
+        "D": "Caribbean",
+        "answer": "B",
+        "funFact": "The Mayan civilization was located in Mesoamerica, covering parts of modern Mexico, Guatemala, Belize, Honduras, and El Salvador."
+    },
+    {
+        "question": "What was the Mayan writing system called?",
+        "A": "Cuneiform",
+        "B": "Hieroglyphs",
+        "C": "Alphabet",
+        "D": "Pictographs",
+        "answer": "B",
+        "funFact": "The Mayans used hieroglyphs, a complex writing system with over 800 symbols, one of the few fully developed writing systems in the Americas."
+    },
+    {
+        "question": "What was the Mayan calendar system?",
+        "A": "Only solar",
+        "B": "Multiple calendars including solar and ritual",
+        "C": "Only lunar",
+        "D": "Only ritual",
+        "answer": "B",
+        "funFact": "The Mayans had multiple calendar systems, including a 365-day solar calendar and a 260-day ritual calendar."
+    },
+    {
+        "question": "What were Mayan pyramids used for?",
+        "A": "Only tombs",
+        "B": "Temples and religious ceremonies",
+        "C": "Only housing",
+        "D": "Only storage",
+        "answer": "B",
+        "funFact": "Mayan pyramids were used as temples for religious ceremonies, with steps leading to temples at the top."
+    },
+    {
+        "question": "What was the Mayan ball game?",
+        "A": "A children's game",
+        "B": "A ritual sport with religious significance",
+        "C": "A military exercise",
+        "D": "A farming activity",
+        "answer": "B",
+        "funFact": "The Mayan ball game was a ritual sport with religious significance, played in large stone courts."
+    },
+    {
+        "question": "What was Chichen Itza?",
+        "A": "A Mayan god",
+        "B": "A major Mayan city",
+        "C": "A Mayan calendar",
+        "D": "A Mayan weapon",
+        "answer": "B",
+        "funFact": "Chichen Itza was a major Mayan city in Mexico, known for its pyramid El Castillo and astronomical observatory."
+    },
+    {
+        "question": "What was the Mayan number system based on?",
+        "A": "Base 10",
+        "B": "Base 20",
+        "C": "Base 5",
+        "D": "Base 12",
+        "answer": "B",
+        "funFact": "The Mayans used a base-20 (vigesimal) number system, which included the concept of zero."
+    },
+    {
+        "question": "What was the Mayan concept of zero?",
+        "A": "They didn't have zero",
+        "B": "They invented zero independently",
+        "C": "They borrowed it",
+        "D": "They only used it for time",
+        "answer": "B",
+        "funFact": "The Mayans independently invented the concept of zero, one of the few civilizations to do so."
+    },
+    {
+        "question": "What was the Mayan Long Count calendar?",
+        "A": "A daily calendar",
+        "B": "A calendar tracking long periods of time",
+        "C": "A weekly calendar",
+        "D": "A monthly calendar",
+        "answer": "B",
+        "funFact": "The Long Count calendar tracked long periods of time and was used to record historical events and predict future ones."
+    },
+    {
+        "question": "What was the Mayan decline?",
+        "A": "Sudden collapse",
+        "B": "Gradual decline over centuries",
+        "C": "Conquest only",
+        "D": "Disease only",
+        "answer": "B",
+        "funFact": "The Mayan decline was gradual over centuries, with factors including drought, warfare, and environmental changes."
+    },
+    {
+        "question": "What was Tikal?",
+        "A": "A Mayan god",
+        "B": "A major Mayan city",
+        "C": "A Mayan calendar",
+        "D": "A Mayan weapon",
+        "answer": "B",
+        "funFact": "Tikal was one of the largest Mayan cities, located in modern Guatemala, with impressive pyramids and temples."
+    },
+    {
+        "question": "What was the Mayan agricultural system?",
+        "A": "Only slash and burn",
+        "B": "Slash and burn, terraces, and raised fields",
+        "C": "Only terraces",
+        "D": "Only raised fields",
+        "answer": "B",
+        "funFact": "The Mayans used various agricultural techniques including slash and burn, terraces, and raised fields in wetlands."
+    },
+    {
+        "question": "What was the Mayan social structure?",
+        "A": "Egalitarian",
+        "B": "Hierarchical with kings, nobles, and commoners",
+        "C": "Democratic",
+        "D": "Tribal",
+        "answer": "B",
+        "funFact": "Mayan society was hierarchical with kings (divine rulers), nobles, priests, merchants, artisans, and commoners."
+    },
+    {
+        "question": "What was the Mayan religion?",
+        "A": "Monotheistic",
+        "B": "Polytheistic with many gods",
+        "C": "Atheistic",
+        "D": "Agnostic",
+        "answer": "B",
+        "funFact": "The Mayans were polytheistic, worshiping many gods related to nature, agriculture, and celestial bodies."
+    },
+    {
+        "question": "What was the Mayan practice of human sacrifice?",
+        "A": "They never practiced it",
+        "B": "Ritual practice for religious purposes",
+        "C": "Only for entertainment",
+        "D": "Only for punishment",
+        "answer": "B",
+        "funFact": "The Mayans practiced human sacrifice as a ritual for religious purposes, believing it maintained cosmic order."
+    },
+    {
+        "question": "What was the Mayan astronomical knowledge?",
+        "A": "Limited",
+        "B": "Advanced, tracking planets and eclipses",
+        "C": "Basic",
+        "D": "None",
+        "answer": "B",
+        "funFact": "The Mayans had advanced astronomical knowledge, tracking planets, eclipses, and creating accurate calendars."
+    },
+    {
+        "question": "What was the Mayan trade network?",
+        "A": "Local only",
+        "B": "Extensive across Mesoamerica",
+        "C": "None",
+        "D": "Only with neighbors",
+        "answer": "B",
+        "funFact": "The Mayans had an extensive trade network across Mesoamerica, trading jade, obsidian, cacao, and other goods."
+    },
+    {
+        "question": "What was the Mayan art style?",
+        "A": "Simple",
+        "B": "Sophisticated with detailed carvings and paintings",
+        "C": "Abstract only",
+        "D": "Realistic only",
+        "answer": "B",
+        "funFact": "Mayan art was sophisticated, featuring detailed stone carvings, murals, pottery, and jade work."
+    },
+    {
+        "question": "What was the Mayan mathematical achievement?",
+        "A": "Basic counting",
+        "B": "Advanced mathematics including zero and place value",
+        "C": "Simple arithmetic",
+        "D": "No mathematics",
+        "answer": "B",
+        "funFact": "The Mayans achieved advanced mathematics, including the concept of zero, place value, and complex calculations."
+    },
+    {
+        "question": "What is the modern legacy of the Mayans?",
+        "A": "None",
+        "B": "Millions of Mayan descendants and cultural traditions",
+        "C": "Only ruins",
+        "D": "Only museums",
+        "answer": "B",
+        "funFact": "The Mayan legacy continues with millions of descendants in Mesoamerica who maintain cultural traditions and languages."
+    }
+]

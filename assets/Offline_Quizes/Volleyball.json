@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many players are on a volleyball team on the court?",
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "answer": "B",
+        "funFact": "Each volleyball team has 6 players on the court at once."
+    },
+    {
+        "question": "What is a serve?",
+        "A": "A hit",
+        "B": "Starting play by hitting the ball over the net",
+        "C": "A block",
+        "D": "A pass",
+        "answer": "B",
+        "funFact": "A serve starts each point by hitting the ball over the net into the opponent's court."
+    },
+    {
+        "question": "What is a spike?",
+        "A": "A serve",
+        "B": "A powerful downward hit",
+        "C": "A pass",
+        "D": "A block",
+        "answer": "B",
+        "funFact": "A spike is a powerful downward hit intended to score a point, usually the third touch."
+    },
+    {
+        "question": "What is a block?",
+        "A": "A serve",
+        "B": "Defending at the net",
+        "C": "A pass",
+        "D": "A hit",
+        "answer": "B",
+        "funFact": "A block is when players jump at the net to stop or deflect an opponent's attack."
+    },
+    {
+        "question": "What is a set?",
+        "A": "A serve",
+        "B": "Positioning the ball for a spike",
+        "C": "A spike",
+        "D": "A block",
+        "answer": "B",
+        "funFact": "A set is the second touch, positioning the ball for a teammate to spike."
+    },
+    {
+        "question": "What is a dig?",
+        "A": "A serve",
+        "B": "A defensive pass",
+        "C": "A spike",
+        "D": "A block",
+        "answer": "B",
+        "funFact": "A dig is a defensive pass, usually the first touch after an opponent's attack."
+    },
+    {
+        "question": "How many touches does a team have per side?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "B",
+        "funFact": "A team has a maximum of 3 touches to return the ball over the net."
+    },
+    {
+        "question": "What is a rotation?",
+        "A": "A serve",
+        "B": "Players moving positions",
+        "C": "A spike",
+        "D": "A block",
+        "answer": "B",
+        "funFact": "Rotation occurs when a team gains the serve, and players move to new positions in a clockwise direction."
+    },
+    {
+        "question": "What is the net height for men?",
+        "A": "7 feet",
+        "B": "7 feet 11.625 inches",
+        "C": "8 feet",
+        "D": "8 feet 6 inches",
+        "answer": "B",
+        "funFact": "The net height for men's volleyball is 7 feet 11.625 inches (2.43 meters)."
+    },
+    {
+        "question": "What is the net height for women?",
+        "A": "7 feet",
+        "B": "7 feet 4.125 inches",
+        "C": "8 feet",
+        "D": "8 feet 6 inches",
+        "answer": "B",
+        "funFact": "The net height for women's volleyball is 7 feet 4.125 inches (2.24 meters)."
+    },
+    {
+        "question": "What is a libero?",
+        "A": "A hitter",
+        "B": "A defensive specialist",
+        "C": "A setter",
+        "D": "A server",
+        "answer": "B",
+        "funFact": "A libero is a defensive specialist who can substitute freely and wears a different colored jersey."
+    },
+    {
+        "question": "What is a side-out?",
+        "A": "Losing the serve",
+        "B": "Gaining the serve",
+        "C": "A point",
+        "D": "A rotation",
+        "answer": "B",
+        "funFact": "A side-out occurs when the receiving team wins the point and gains the serve."
+    },
+    {
+        "question": "What is a rally?",
+        "A": "A serve",
+        "B": "The sequence of play",
+        "C": "A point",
+        "D": "A rotation",
+        "answer": "B",
+        "funFact": "A rally is the sequence of play from the serve until a point is scored."
+    },
+    {
+        "question": "What is a kill?",
+        "A": "A serve",
+        "B": "An attack that scores a point",
+        "C": "A pass",
+        "D": "A block",
+        "answer": "B",
+        "funFact": "A kill is an attack that results in a point, either by landing in bounds or being unreturnable."
+    },
+    {
+        "question": "What is an ace?",
+        "A": "A serve that scores directly",
+        "B": "A spike",
+        "C": "A block",
+        "D": "A pass",
+        "answer": "A",
+        "funFact": "An ace is a serve that lands in the opponent's court untouched or is unreturnable."
+    },
+    {
+        "question": "What is a double hit?",
+        "A": "Legal",
+        "B": "Illegal - hitting the ball twice",
+        "C": "A point",
+        "D": "A serve",
+        "answer": "B",
+        "funFact": "A double hit is illegal - a player cannot hit the ball twice in succession."
+    },
+    {
+        "question": "What is a carry?",
+        "A": "Legal",
+        "B": "Illegal - holding the ball",
+        "C": "A point",
+        "D": "A serve",
+        "answer": "B",
+        "funFact": "A carry is illegal - the ball must be hit, not held or thrown."
+    },
+    {
+        "question": "What is the study of volleyball called?",
+        "A": "Volleyballology",
+        "B": "Just volleyball",
+        "C": "Net sports",
+        "D": "Ball sports",
+        "answer": "B",
+        "funFact": "Volleyball is simply called volleyball, though it's studied and analyzed by coaches and sports scientists."
+    },
+    {
+        "question": "What is beach volleyball?",
+        "A": "Indoor volleyball",
+        "B": "Volleyball played on sand with 2 players",
+        "C": "A different sport",
+        "D": "A variation with 6 players",
+        "answer": "B",
+        "funFact": "Beach volleyball is played on sand with 2 players per team, popular in the Olympics."
+    },
+    {
+        "question": "What is a bump?",
+        "A": "A serve",
+        "B": "A forearm pass",
+        "C": "A spike",
+        "D": "A block",
+        "answer": "B",
+        "funFact": "A bump is a forearm pass, usually the first touch, using the forearms to pass the ball."
+    }
+]

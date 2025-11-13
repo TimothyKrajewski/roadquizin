@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is virtual reality?",
+        "A": "Real reality",
+        "B": "An immersive computer-generated environment",
+        "C": "A video game",
+        "D": "A movie",
+        "answer": "B",
+        "funFact": "Virtual reality (VR) is an immersive computer-generated environment that users can interact with using special equipment like headsets."
+    },
+    {
+        "question": "What is a VR headset?",
+        "A": "A regular screen",
+        "B": "A device that displays VR content",
+        "C": "A controller",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "A VR headset is a device worn on the head that displays virtual reality content, typically with screens for each eye."
+    },
+    {
+        "question": "What is the difference between VR and AR?",
+        "A": "They're the same",
+        "B": "VR is fully virtual, AR overlays digital on real world",
+        "C": "AR is fully virtual",
+        "D": "VR is augmented",
+        "answer": "B",
+        "funFact": "VR creates a fully virtual environment, while AR (augmented reality) overlays digital content onto the real world."
+    },
+    {
+        "question": "What is motion tracking?",
+        "A": "Following motion",
+        "B": "Tracking user movement in VR",
+        "C": "Recording motion",
+        "D": "Stopping motion",
+        "answer": "B",
+        "funFact": "Motion tracking in VR tracks the user's head and body movements, updating the virtual environment in real-time."
+    },
+    {
+        "question": "What is presence in VR?",
+        "A": "Being present",
+        "B": "The feeling of being in the virtual world",
+        "C": "A gift",
+        "D": "A location",
+        "answer": "B",
+        "funFact": "Presence is the psychological feeling of actually being in the virtual world, a key goal of VR design."
+    },
+    {
+        "question": "What is the study of VR called?",
+        "A": "VRology",
+        "B": "Virtual reality",
+        "C": "Immersive technology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "VR is studied through computer science, human-computer interaction, and immersive technology research."
+    },
+    {
+        "question": "What is VR used for?",
+        "A": "Only gaming",
+        "B": "Gaming, training, education, therapy, and more",
+        "C": "Only entertainment",
+        "D": "Only work",
+        "answer": "B",
+        "funFact": "VR is used for gaming, training simulations, education, medical therapy, architecture, and many other applications."
+    },
+    {
+        "question": "What is motion sickness in VR?",
+        "A": "A disease",
+        "B": "Discomfort from VR movement",
+        "C": "A feature",
+        "D": "A benefit",
+        "answer": "B",
+        "funFact": "Motion sickness in VR occurs when there's a mismatch between what users see and feel, causing discomfort."
+    },
+    {
+        "question": "What is haptic feedback?",
+        "A": "Visual feedback",
+        "B": "Tactile feedback through touch",
+        "C": "Audio feedback",
+        "D": "No feedback",
+        "answer": "B",
+        "funFact": "Haptic feedback provides tactile sensations through touch, making VR experiences more immersive."
+    },
+    {
+        "question": "What is the future of VR?",
+        "A": "No future",
+        "B": "More realistic and accessible experiences",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of VR includes more realistic graphics, better hardware, wider accessibility, and new applications."
+    },
+    {
+        "question": "What is a VR controller?",
+        "A": "A remote",
+        "B": "A device for interacting in VR",
+        "C": "A headset",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "A VR controller is a handheld device that allows users to interact with objects and navigate in virtual reality."
+    },
+    {
+        "question": "What is the impact of VR?",
+        "A": "No impact",
+        "B": "Transforming entertainment, education, and work",
+        "C": "Minor changes",
+        "D": "Only affects gaming",
+        "answer": "B",
+        "funFact": "VR is transforming entertainment, education, training, healthcare, and how people work and communicate."
+    },
+    {
+        "question": "What is the origin of VR?",
+        "A": "The 2000s",
+        "B": "The 1960s",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "VR concepts date to the 1960s, with the first head-mounted display system created by Ivan Sutherland in 1968."
+    },
+    {
+        "question": "What is 360-degree video?",
+        "A": "Regular video",
+        "B": "Video that captures all directions",
+        "C": "A circle",
+        "D": "A square",
+        "answer": "B",
+        "funFact": "360-degree video captures all directions simultaneously, allowing viewers to look around in VR."
+    },
+    {
+        "question": "What is the difference between VR and 360 video?",
+        "A": "They're the same",
+        "B": "VR is interactive, 360 video is passive",
+        "C": "360 video is interactive",
+        "D": "VR is passive",
+        "answer": "B",
+        "funFact": "VR is interactive and computer-generated, while 360 video is pre-recorded footage that viewers can look around in."
+    },
+    {
+        "question": "What is social VR?",
+        "A": "VR alone",
+        "B": "VR where multiple users interact",
+        "C": "AR",
+        "D": "Regular VR",
+        "answer": "B",
+        "funFact": "Social VR allows multiple users to interact and share experiences in the same virtual space."
+    },
+    {
+        "question": "What is VR used for in healthcare?",
+        "A": "Nothing",
+        "B": "Therapy, training, and pain management",
+        "C": "Only surgery",
+        "D": "Only diagnosis",
+        "answer": "B",
+        "funFact": "VR is used in healthcare for therapy (exposure therapy, PTSD), medical training, and pain management."
+    },
+    {
+        "question": "What is the resolution of VR?",
+        "A": "Low",
+        "B": "The clarity of the display",
+        "C": "A problem",
+        "D": "A solution",
+        "answer": "B",
+        "funFact": "VR resolution refers to the clarity of the display, with higher resolutions providing more realistic experiences."
+    },
+    {
+        "question": "What is the refresh rate in VR?",
+        "A": "How often it updates",
+        "B": "How many times per second the display updates",
+        "C": "A speed",
+        "D": "A time",
+        "answer": "B",
+        "funFact": "Refresh rate is how many times per second the display updates, with higher rates (90Hz+) reducing motion sickness."
+    },
+    {
+        "question": "What is the study of VR called?",
+        "A": "VRology",
+        "B": "Virtual reality research",
+        "C": "Immersive computing",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "VR research involves computer science, human-computer interaction, psychology, and immersive computing."
+    }
+]

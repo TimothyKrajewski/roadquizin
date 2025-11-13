@@ -5,27 +5,53 @@ import * as MailComposer from 'expo-mail-composer';
 const RequestQuizScreen: React.FC = () => {
   const [topic, setTopic] = useState('');
 
-  const handleRequestQuiz = () => {
+  const handleRequestQuiz = async () => {
     if (topic.trim() === '') {
       Alert.alert('Error', 'Please enter a quiz topic.');
       return;
     }
 
-    MailComposer.composeAsync({
-      subject: 'Quiz Topic Request',
-      recipients: ['your_email@example.com'],
-      body: `I would like to request a quiz on the following topic: ${topic}`,
-    }).then(result => {
+    try {
+      // Check if mail is available
+      const isAvailable = await MailComposer.isAvailableAsync();
+      
+      if (!isAvailable) {
+        Alert.alert(
+          'Email Not Available',
+          'Mail services are not available on this device. Please configure your email account in the Mail app or use an alternative method to submit your request.',
+          [{ text: 'OK' }]
+        );
+        return;
+      }
+
+      const result = await MailComposer.composeAsync({
+        subject: 'Quiz Topic Request',
+        recipients: ['your_email@example.com'],
+        body: `I would like to request a quiz on the following topic: ${topic}`,
+      });
+
       if (result.status === MailComposer.MailComposerStatus.SENT) {
         Alert.alert('Success', 'Your quiz request has been sent.');
         setTopic('');
+      } else if (result.status === MailComposer.MailComposerStatus.CANCELLED) {
+        // User cancelled, don't show error
+        return;
       } else {
         Alert.alert('Error', 'Could not send email. Please try again later.');
       }
-    }).catch(error => {
-      Alert.alert('Error', 'Could not send email. Please try again later.');
+    } catch (error: any) {
+      const errorMessage = error?.message || 'Unknown error';
+      if (errorMessage.includes('Mail services are not available')) {
+        Alert.alert(
+          'Email Not Available',
+          'Mail services are not available. Please make sure you are signed into the Mail app on your device.',
+          [{ text: 'OK' }]
+        );
+      } else {
+        Alert.alert('Error', `Could not send email: ${errorMessage}`);
+      }
       console.error('Failed to send email:', error);
-    });
+    }
   };
 
   return (

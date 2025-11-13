@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the name of the coffee shop?",
+        "A": "Starbucks",
+        "B": "Central Perk",
+        "C": "Coffee House",
+        "D": "The Café",
+        "answer": "B",
+        "funFact": "Central Perk is the coffee shop where the Friends characters frequently gather throughout the series."
+    },
+    {
+        "question": "How many main characters are in Friends?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "answer": "C",
+        "funFact": "Friends features six main characters: Ross, Rachel, Monica, Chandler, Joey, and Phoebe."
+    },
+    {
+        "question": "What is Ross's profession?",
+        "A": "Actor",
+        "B": "Paleontologist",
+        "C": "Chef",
+        "D": "Massage therapist",
+        "answer": "B",
+        "funFact": "Ross Geller is a paleontologist who works at a museum, studying dinosaurs."
+    },
+    {
+        "question": "What is Monica's profession?",
+        "A": "Actor",
+        "B": "Chef",
+        "C": "Paleontologist",
+        "D": "Massage therapist",
+        "answer": "B",
+        "funFact": "Monica Geller is a chef who works at various restaurants throughout the series."
+    },
+    {
+        "question": "What is Chandler's catchphrase?",
+        "A": "How you doin'?",
+        "B": "Could I BE any more...",
+        "C": "Oh my God",
+        "D": "Smelly cat",
+        "answer": "B",
+        "funFact": "Chandler Bing's catchphrase is 'Could I BE any more...' with emphasis on 'BE.'"
+    },
+    {
+        "question": "What is Joey's catchphrase?",
+        "A": "How you doin'?",
+        "B": "Could I BE any more...",
+        "C": "Oh my God",
+        "D": "Smelly cat",
+        "answer": "A",
+        "funFact": "Joey Tribbiani's signature catchphrase is 'How you doin'?' used as a pickup line."
+    },
+    {
+        "question": "What is Phoebe's song?",
+        "A": "How you doin'?",
+        "B": "Smelly Cat",
+        "C": "Oh my God",
+        "D": "Could I BE any more...",
+        "answer": "B",
+        "funFact": "'Smelly Cat' is Phoebe Buffay's most famous song, performed at Central Perk."
+    },
+    {
+        "question": "What is the name of Ross and Monica's building?",
+        "A": "The Apartment",
+        "B": "Monica's Apartment",
+        "C": "The Building",
+        "D": "Greenwich Village",
+        "answer": "D",
+        "funFact": "The friends live in Greenwich Village, Manhattan, with Monica and Rachel's apartment being a central location."
+    },
+    {
+        "question": "What is the name of the show?",
+        "A": "Friends",
+        "B": "The Friends",
+        "C": "Six Friends",
+        "D": "The Gang",
+        "answer": "A",
+        "funFact": "Friends is the name of the show, running for 10 seasons from 1994 to 2004."
+    },
+    {
+        "question": "Who are the main couples?",
+        "A": "Ross and Rachel, Monica and Chandler",
+        "B": "Joey and Phoebe",
+        "C": "Ross and Monica",
+        "D": "Chandler and Rachel",
+        "answer": "A",
+        "funFact": "The main romantic couples are Ross and Rachel, and Monica and Chandler, who eventually marry."
+    },
+    {
+        "question": "What is the name of Ross's monkey?",
+        "A": "Marcel",
+        "B": "Monkey",
+        "C": "George",
+        "D": "Frank",
+        "answer": "A",
+        "funFact": "Marcel is Ross's capuchin monkey that he owns in the early seasons."
+    },
+    {
+        "question": "What is the name of Phoebe's twin?",
+        "A": "Phoebe",
+        "B": "Ursula",
+        "C": "Monica",
+        "D": "Rachel",
+        "answer": "B",
+        "funFact": "Ursula is Phoebe's twin sister, who works as a waitress and looks identical to Phoebe."
+    },
+    {
+        "question": "What is the name of the theme song?",
+        "A": "Friends Theme",
+        "B": "I'll Be There for You",
+        "C": "Smelly Cat",
+        "D": "The Friends Song",
+        "answer": "B",
+        "funFact": "'I'll Be There for You' by The Rembrandts is the iconic theme song of Friends."
+    },
+    {
+        "question": "What is the name of Chandler's job?",
+        "A": "Actor",
+        "B": "Statistical analysis and data reconfiguration",
+        "C": "Chef",
+        "D": "Paleontologist",
+        "answer": "B",
+        "funFact": "Chandler works in statistical analysis and data reconfiguration, though he's vague about what he actually does."
+    },
+    {
+        "question": "What is the name of Joey's acting role?",
+        "A": "Dr. Drake Ramoray",
+        "B": "Joey Tribbiani",
+        "C": "Chandler Bing",
+        "D": "Ross Geller",
+        "answer": "A",
+        "funFact": "Dr. Drake Ramoray is Joey's character on the soap opera 'Days of Our Lives.'"
+    },
+    {
+        "question": "What is the name of the show?",
+        "A": "Friends (1994-2004)",
+        "B": "The Friends",
+        "C": "Six Friends",
+        "D": "The Gang",
+        "answer": "A",
+        "funFact": "Friends aired from 1994 to 2004, becoming one of the most popular sitcoms of all time."
+    },
+    {
+        "question": "What is the name of Rachel's haircut?",
+        "A": "The Rachel",
+        "B": "The Monica",
+        "C": "The Phoebe",
+        "D": "The Friends",
+        "answer": "A",
+        "funFact": "'The Rachel' is the name of Jennifer Aniston's layered haircut, which became extremely popular in the 1990s."
+    },
+    {
+        "question": "What is the name of the apartment number?",
+        "A": "19",
+        "B": "20",
+        "C": "4",
+        "D": "5",
+        "answer": "B",
+        "funFact": "Monica and Rachel's apartment is number 20, while Chandler and Joey live across the hall in apartment 19."
+    },
+    {
+        "question": "What is the study of Friends called?",
+        "A": "Friendsology",
+        "B": "Just Friends",
+        "C": "TV shows",
+        "D": "Sitcoms",
+        "answer": "B",
+        "funFact": "Friends is simply called Friends, though it's studied and analyzed by TV critics and cultural scholars."
+    },
+    {
+        "question": "What is the name of the reunion special?",
+        "A": "Friends: The Reunion",
+        "B": "Friends: Together Again",
+        "C": "Friends: The Return",
+        "D": "Friends: Reunited",
+        "answer": "A",
+        "funFact": "Friends: The Reunion was a 2021 special that brought all six main cast members back together."
+    }
+]

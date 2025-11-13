@@ -1,18 +1,20 @@
-import React from 'react';
+import React, { useRef, useEffect } from 'react';
 import { View, Animated, Easing, StyleSheet } from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons';
 
 const LoadingIndicator: React.FC = () => {
-  const rotation = new Animated.Value(0);
+  const rotation = useRef(new Animated.Value(0)).current;
 
-  Animated.loop(
-    Animated.timing(rotation, {
-      toValue: 1,
-      duration: 2000,
-      easing: Easing.linear,
-      useNativeDriver: true,
-    })
-  ).start();
+  useEffect(() => {
+    Animated.loop(
+      Animated.timing(rotation, {
+        toValue: 1,
+        duration: 2000,
+        easing: Easing.linear,
+        useNativeDriver: true,
+      })
+    ).start();
+  }, [rotation]);
 
   const rotate = rotation.interpolate({
     inputRange: [0, 1],

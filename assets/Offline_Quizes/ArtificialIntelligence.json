@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is artificial intelligence?",
+        "A": "Human intelligence",
+        "B": "Machine intelligence that mimics human thinking",
+        "C": "Natural intelligence",
+        "D": "Animal intelligence",
+        "answer": "B",
+        "funFact": "Artificial intelligence (AI) is machine intelligence that mimics human thinking, learning, and problem-solving."
+    },
+    {
+        "question": "What is machine learning?",
+        "A": "Humans learning",
+        "B": "AI that learns from data",
+        "C": "Robots learning",
+        "D": "Computers learning",
+        "answer": "B",
+        "funFact": "Machine learning is a subset of AI where systems learn and improve from experience without being explicitly programmed."
+    },
+    {
+        "question": "What is deep learning?",
+        "A": "Surface learning",
+        "B": "Machine learning using neural networks",
+        "C": "Human learning",
+        "D": "Simple learning",
+        "answer": "B",
+        "funFact": "Deep learning is machine learning using artificial neural networks with multiple layers, inspired by the human brain."
+    },
+    {
+        "question": "What is a neural network?",
+        "A": "A brain network",
+        "B": "A computing system inspired by the brain",
+        "C": "A social network",
+        "D": "A computer network",
+        "answer": "B",
+        "funFact": "A neural network is a computing system inspired by biological neural networks, consisting of interconnected nodes (neurons)."
+    },
+    {
+        "question": "What is natural language processing?",
+        "A": "Human language",
+        "B": "AI that understands human language",
+        "C": "Computer language",
+        "D": "Programming language",
+        "answer": "B",
+        "funFact": "Natural language processing (NLP) is AI that enables computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is computer vision?",
+        "A": "Human vision",
+        "B": "AI that interprets visual information",
+        "C": "Computer screens",
+        "D": "Cameras",
+        "answer": "B",
+        "funFact": "Computer vision is AI that enables machines to interpret and understand visual information from images and videos."
+    },
+    {
+        "question": "What is a chatbot?",
+        "A": "A human",
+        "B": "An AI program that converses with users",
+        "C": "A robot",
+        "D": "A computer",
+        "answer": "B",
+        "funFact": "A chatbot is an AI program designed to simulate conversation with human users, often used in customer service."
+    },
+    {
+        "question": "What is the Turing Test?",
+        "A": "A speed test",
+        "B": "A test of machine intelligence",
+        "C": "A memory test",
+        "D": "A vision test",
+        "answer": "B",
+        "funFact": "The Turing Test, proposed by Alan Turing, tests if a machine can exhibit intelligent behavior indistinguishable from a human."
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "A": "Learning from rewards",
+        "B": "AI learning through trial and error",
+        "C": "Human learning",
+        "D": "Simple learning",
+        "answer": "B",
+        "funFact": "Reinforcement learning is AI that learns through trial and error, receiving rewards or penalties for actions."
+    },
+    {
+        "question": "What is supervised learning?",
+        "A": "Unsupervised learning",
+        "B": "Learning from labeled data",
+        "C": "Human supervision",
+        "D": "No learning",
+        "answer": "B",
+        "funFact": "Supervised learning is machine learning where the AI learns from labeled training data with known correct answers."
+    },
+    {
+        "question": "What is unsupervised learning?",
+        "A": "Supervised learning",
+        "B": "Learning from unlabeled data",
+        "C": "Human supervision",
+        "D": "No learning",
+        "answer": "B",
+        "funFact": "Unsupervised learning is machine learning where the AI finds patterns in data without labeled examples."
+    },
+    {
+        "question": "What is an algorithm?",
+        "A": "A computer",
+        "B": "A set of instructions for solving problems",
+        "C": "A robot",
+        "D": "A program",
+        "answer": "B",
+        "funFact": "An algorithm is a set of step-by-step instructions for solving a problem or completing a task."
+    },
+    {
+        "question": "What is the study of AI called?",
+        "A": "AIology",
+        "B": "Artificial intelligence",
+        "C": "Machine science",
+        "D": "All of the above",
+        "answer": "B",
+        "funFact": "The study of AI is called artificial intelligence, a field combining computer science, mathematics, and cognitive science."
+    },
+    {
+        "question": "What is a large language model?",
+        "A": "A small model",
+        "B": "An AI trained on vast amounts of text",
+        "C": "A human model",
+        "D": "A simple model",
+        "answer": "B",
+        "funFact": "A large language model (LLM) is an AI trained on vast amounts of text data to understand and generate human language."
+    },
+    {
+        "question": "What is the purpose of AI?",
+        "A": "To replace humans",
+        "B": "To augment human capabilities and solve problems",
+        "C": "To control humans",
+        "D": "To eliminate jobs",
+        "answer": "B",
+        "funFact": "The purpose of AI is to augment human capabilities, solve complex problems, and automate tasks to improve efficiency."
+    },
+    {
+        "question": "What is the difference between AI and machine learning?",
+        "A": "They're the same",
+        "B": "AI is broader, ML is a subset",
+        "C": "ML is broader",
+        "D": "They're different",
+        "answer": "B",
+        "funFact": "AI is the broader field of creating intelligent machines, while machine learning is a subset that enables AI to learn from data."
+    },
+    {
+        "question": "What is an expert system?",
+        "A": "A human expert",
+        "B": "An AI that mimics human expertise",
+        "C": "A computer",
+        "D": "A robot",
+        "answer": "B",
+        "funFact": "An expert system is an AI that mimics the decision-making ability of a human expert in a specific domain."
+    },
+    {
+        "question": "What is the future of AI?",
+        "A": "No future",
+        "B": "Continued advancement in capabilities",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "The future of AI includes continued advancement in capabilities, integration into daily life, and addressing ethical concerns."
+    },
+    {
+        "question": "What is the impact of AI?",
+        "A": "No impact",
+        "B": "Transforming industries and daily life",
+        "C": "Minor changes",
+        "D": "Only affects technology",
+        "answer": "B",
+        "funFact": "AI is transforming industries, healthcare, transportation, and daily life, while raising important ethical and societal questions."
+    },
+    {
+        "question": "What is the origin of AI?",
+        "A": "The 2000s",
+        "B": "The 1950s",
+        "C": "The 1900s",
+        "D": "The 1800s",
+        "answer": "B",
+        "funFact": "AI as a field began in the 1950s, with the term 'artificial intelligence' coined at a 1956 conference at Dartmouth College."
+    }
+]

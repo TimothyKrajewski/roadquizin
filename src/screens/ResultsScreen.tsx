@@ -3,6 +3,7 @@ import { View, Text, StyleSheet, TouchableOpacity, TextInput, Alert, Modal } fro
 import { RouteProp, useNavigation, useRoute, CommonActions } from '@react-navigation/native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { RootStackParamList } from '../types';
+import { getQuizTitle } from '../utils/quizTitles';
 
 type ResultsScreenRouteProp = RouteProp<RootStackParamList, 'Results'>;
 
@@ -62,7 +63,7 @@ const ResultsScreen: React.FC = () => {
       <Text style={styles.resultText}>Incorrect Answers: {incorrectAnswers}</Text>
       {highScore && (
         <Text style={styles.highScoreText}>
-          High Score for {quizName}: {highScore.score} by {highScore.name}
+          High Score for {getQuizTitle(quizName)}: {highScore.score} by {highScore.name}
         </Text>
       )}
       <TouchableOpacity style={styles.homeButton} onPress={handleHomePress}>

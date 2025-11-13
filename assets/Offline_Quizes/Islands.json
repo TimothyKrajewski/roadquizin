@@ -1,93 +1,182 @@
 [
     {
-      "question": "What is the largest island in the world?",
-      "A": "Madagascar",
-      "B": "Borneo",
-      "C": "New Guinea",
-      "D": "Greenland",
-      "answer": "D",
-      "funFact": "Greenland is the largest island in the world, covering approximately 836,330 square miles (2,166,086 square kilometers), though it's mostly covered in ice."
+        "question": "What is the largest island in the world?",
+        "A": "Australia",
+        "B": "Greenland",
+        "C": "New Guinea",
+        "D": "Borneo",
+        "answer": "B",
+        "funFact": "Greenland is the largest island in the world, covering over 836,000 square miles, though it's considered part of North America."
     },
     {
-      "question": "What is the most populous island in the world?",
-      "A": "Java",
-      "B": "Honshu",
-      "C": "Great Britain",
-      "D": "Sumatra",
-      "answer": "A",
-      "funFact": "Java is the most populous island in the world, with over 140 million people. It's part of Indonesia and is home to the capital city, Jakarta."
+        "question": "What is the largest island in Asia?",
+        "A": "Sumatra",
+        "B": "Borneo",
+        "C": "Java",
+        "D": "Luzon",
+        "answer": "B",
+        "funFact": "Borneo is the largest island in Asia and the third largest in the world, shared by Indonesia, Malaysia, and Brunei."
     },
     {
-      "question": "What island is home to the Statue of Liberty?",
-      "A": "Manhattan",
-      "B": "Liberty Island",
-      "C": "Ellis Island",
-      "D": "Long Island",
-      "answer": "B",
-      "funFact": "The Statue of Liberty stands on Liberty Island (formerly Bedloe's Island) in New York Harbor. Ellis Island, nearby, was the immigration station."
+        "question": "What is the largest island in the Mediterranean?",
+        "A": "Sicily",
+        "B": "Sardinia",
+        "C": "Cyprus",
+        "D": "Crete",
+        "answer": "A",
+        "funFact": "Sicily is the largest island in the Mediterranean Sea, located off the southern coast of Italy."
     },
     {
-      "question": "What is the largest island in the Mediterranean Sea?",
-      "A": "Sicily",
-      "B": "Sardinia",
-      "C": "Cyprus",
-      "D": "Crete",
-      "answer": "A",
-      "funFact": "Sicily is the largest island in the Mediterranean Sea, covering about 9,927 square miles. It's part of Italy and is known for Mount Etna, an active volcano."
+        "question": "What is the largest island in the Caribbean?",
+        "A": "Jamaica",
+        "B": "Cuba",
+        "C": "Hispaniola",
+        "D": "Puerto Rico",
+        "answer": "B",
+        "funFact": "Cuba is the largest island in the Caribbean, located in the northern Caribbean Sea."
     },
     {
-      "question": "What island is known as the 'Emerald Isle'?",
-      "A": "Jamaica",
-      "B": "Ireland",
-      "C": "New Zealand",
-      "D": "Sri Lanka",
-      "answer": "B",
-      "funFact": "Ireland is known as the 'Emerald Isle' because of its lush green landscape, caused by frequent rainfall and mild temperatures."
+        "question": "What is the largest island in the Pacific?",
+        "A": "New Guinea",
+        "B": "Borneo",
+        "C": "Sumatra",
+        "D": "Honshu",
+        "answer": "A",
+        "funFact": "New Guinea is the largest island in the Pacific Ocean and the second largest island in the world."
     },
     {
-      "question": "What is the smallest island nation in the world?",
-      "A": "Maldives",
-      "B": "Nauru",
-      "C": "Tuvalu",
-      "D": "All are very small",
-      "answer": "D",
-      "funFact": "Nauru is the smallest island nation by area (8.1 square miles), while Vatican City is the smallest country overall. The Maldives and Tuvalu are also very small island nations."
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island geography",
+        "C": "Insular studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, geology, and insular studies, exploring their formation and ecosystems."
     },
     {
-      "question": "What island is home to the Galápagos Islands?",
-      "A": "In the Pacific Ocean",
-      "B": "Part of Ecuador",
-      "C": "Both A and B",
-      "D": "In the Caribbean",
-      "answer": "C",
-      "funFact": "The Galápagos Islands are located in the Pacific Ocean and are part of Ecuador. They're famous for their unique wildlife and were studied by Charles Darwin."
+        "question": "What is the importance of islands?",
+        "A": "Not important",
+        "B": "Unique ecosystems and biodiversity",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Islands often have unique ecosystems and high biodiversity, with many endemic species found nowhere else."
     },
     {
-      "question": "What is the largest island in the Caribbean?",
-      "A": "Jamaica",
-      "B": "Cuba",
-      "C": "Hispaniola",
-      "D": "Puerto Rico",
-      "answer": "B",
-      "funFact": "Cuba is the largest island in the Caribbean, covering about 42,426 square miles. It's also the most populous Caribbean island."
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island biogeography",
+        "C": "Marine geography",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, biogeography, and marine science."
     },
     {
-      "question": "What island is known as the 'Pearl of the Indian Ocean'?",
-      "A": "Maldives",
-      "B": "Sri Lanka",
-      "C": "Mauritius",
-      "D": "Madagascar",
-      "answer": "B",
-      "funFact": "Sri Lanka is known as the 'Pearl of the Indian Ocean' because of its natural beauty, rich culture, and strategic location in the Indian Ocean."
+        "question": "What is the impact of islands?",
+        "A": "No impact",
+        "B": "Important for biodiversity and culture",
+        "C": "Minor changes",
+        "D": "Only affects some regions",
+        "answer": "B",
+        "funFact": "Islands are important for biodiversity, often serving as refuges for unique species and having distinct cultures."
     },
     {
-      "question": "What island is home to the famous Easter Island statues?",
-      "A": "Easter Island (Rapa Nui)",
-      "B": "Hawaii",
-      "C": "Tahiti",
-      "D": "Fiji",
-      "answer": "A",
-      "funFact": "Easter Island (Rapa Nui) is home to the famous moai statues, massive stone figures carved by the Rapa Nui people. The island is located in the southeastern Pacific Ocean."
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island studies",
+        "C": "Geography",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, geology, and environmental science."
+    },
+    {
+        "question": "What is the importance of islands?",
+        "A": "Not important",
+        "B": "Unique environments and cultures",
+        "C": "Minor importance",
+        "D": "Only for tourism",
+        "answer": "B",
+        "funFact": "Islands provide unique environments, cultures, and ecosystems, often isolated from mainland influences."
+    },
+    {
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island geography",
+        "C": "Marine studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, marine science, and environmental studies."
+    },
+    {
+        "question": "What is the impact of islands?",
+        "A": "No impact",
+        "B": "Significant for biodiversity and research",
+        "C": "Minor changes",
+        "D": "Only affects some areas",
+        "answer": "B",
+        "funFact": "Islands are significant for biodiversity, often having unique species and serving as natural laboratories for research."
+    },
+    {
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island research",
+        "C": "Geographic studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, geology, and environmental science."
+    },
+    {
+        "question": "What is the importance of islands?",
+        "A": "Not important",
+        "B": "Ecological and cultural significance",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Islands have ecological and cultural significance, with unique ecosystems and often distinct cultural traditions."
+    },
+    {
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island studies",
+        "C": "Marine geography",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, marine science, and environmental research."
+    },
+    {
+        "question": "What is the impact of islands?",
+        "A": "No impact",
+        "B": "Important for science and conservation",
+        "C": "Minor changes",
+        "D": "Only affects islands",
+        "answer": "B",
+        "funFact": "Islands are important for scientific research and conservation, often having unique species and ecosystems."
+    },
+    {
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island geography",
+        "C": "Environmental studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, environmental science, and marine studies."
+    },
+    {
+        "question": "What is the importance of islands?",
+        "A": "Not important",
+        "B": "Unique habitats and cultural diversity",
+        "C": "Minor importance",
+        "D": "Only for some regions",
+        "answer": "B",
+        "funFact": "Islands provide unique habitats and cultural diversity, often isolated and developing distinct characteristics."
+    },
+    {
+        "question": "What is the study of islands called?",
+        "A": "Islandology",
+        "B": "Island research",
+        "C": "Geographic studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Islands are studied through geography, geology, and environmental science, exploring their formation and ecosystems."
     }
 ]
-

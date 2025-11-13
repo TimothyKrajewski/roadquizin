@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What is sushi?",
+        "A": "Raw fish only",
+        "B": "Vinegared rice with various ingredients",
+        "C": "Cooked fish",
+        "D": "A type of soup",
+        "answer": "B",
+        "funFact": "Sushi is vinegared rice combined with various ingredients, which may or may not include raw fish. The rice is the essential component."
+    },
+    {
+        "question": "What is paella?",
+        "A": "A Spanish rice dish",
+        "B": "An Italian pasta",
+        "C": "A French soup",
+        "D": "A German sausage",
+        "answer": "A",
+        "funFact": "Paella is a traditional Spanish rice dish from Valencia, typically cooked in a large shallow pan with saffron, seafood, or meat."
+    },
+    {
+        "question": "What is curry?",
+        "A": "A single spice",
+        "B": "A dish with a sauce of spices",
+        "C": "A type of rice",
+        "D": "A type of bread",
+        "answer": "B",
+        "funFact": "Curry is a dish with a sauce made from a blend of spices, popular in Indian, Thai, and other Asian cuisines."
+    },
+    {
+        "question": "What is kimchi?",
+        "A": "A Korean soup",
+        "B": "Fermented vegetables, usually cabbage",
+        "C": "A type of rice",
+        "D": "A type of meat",
+        "answer": "B",
+        "funFact": "Kimchi is a traditional Korean side dish of fermented vegetables, most commonly napa cabbage, seasoned with chili, garlic, and ginger."
+    },
+    {
+        "question": "What is pad thai?",
+        "A": "A Chinese dish",
+        "B": "A Thai stir-fried noodle dish",
+        "C": "A Japanese dish",
+        "D": "A Vietnamese dish",
+        "answer": "B",
+        "funFact": "Pad thai is a popular Thai stir-fried noodle dish made with rice noodles, eggs, tofu, shrimp, and a sweet and sour sauce."
+    },
+    {
+        "question": "What is mole?",
+        "A": "A Mexican sauce",
+        "B": "A type of meat",
+        "C": "A type of rice",
+        "D": "A type of bread",
+        "answer": "A",
+        "funFact": "Mole is a rich Mexican sauce made with chili peppers, spices, and often chocolate, served with meat or poultry."
+    },
+    {
+        "question": "What is tagine?",
+        "A": "A Moroccan cooking vessel and dish",
+        "B": "A type of bread",
+        "C": "A type of rice",
+        "D": "A type of soup",
+        "answer": "A",
+        "funFact": "Tagine is both a North African cooking vessel (cone-shaped pot) and the slow-cooked stews made in it, popular in Moroccan cuisine."
+    },
+    {
+        "question": "What is ceviche?",
+        "A": "Cooked fish",
+        "B": "Raw fish cured in citrus",
+        "C": "Grilled fish",
+        "D": "Fried fish",
+        "answer": "B",
+        "funFact": "Ceviche is a Latin American dish of raw fish or seafood cured in citrus juices, typically lime or lemon, with onions and peppers."
+    },
+    {
+        "question": "What is pho?",
+        "A": "A Vietnamese noodle soup",
+        "B": "A Chinese dish",
+        "C": "A Japanese dish",
+        "D": "A Thai dish",
+        "answer": "A",
+        "funFact": "Pho is a Vietnamese noodle soup with broth, rice noodles, herbs, and meat (usually beef or chicken), considered Vietnam's national dish."
+    },
+    {
+        "question": "What is borscht?",
+        "A": "A Russian soup",
+        "B": "A type of bread",
+        "C": "A type of meat",
+        "D": "A type of rice",
+        "answer": "A",
+        "funFact": "Borscht is a traditional Eastern European soup, often made with beets, giving it a distinctive red color, popular in Russian and Ukrainian cuisine."
+    },
+    {
+        "question": "What is dim sum?",
+        "A": "A Chinese meal of small dishes",
+        "B": "A type of soup",
+        "C": "A type of rice",
+        "D": "A type of bread",
+        "answer": "A",
+        "funFact": "Dim sum is a Chinese meal of small bite-sized dishes, typically served with tea, popular for brunch or lunch."
+    },
+    {
+        "question": "What is risotto?",
+        "A": "A type of pasta",
+        "B": "An Italian rice dish",
+        "C": "A type of soup",
+        "D": "A type of bread",
+        "answer": "B",
+        "funFact": "Risotto is an Italian rice dish cooked slowly with broth until creamy, often flavored with wine, cheese, and other ingredients."
+    },
+    {
+        "question": "What is tikka masala?",
+        "A": "A type of bread",
+        "B": "An Indian curry dish",
+        "C": "A type of rice",
+        "D": "A type of soup",
+        "answer": "B",
+        "funFact": "Tikka masala is a popular Indian curry dish with marinated meat (often chicken) in a creamy, spiced tomato-based sauce."
+    },
+    {
+        "question": "What is moussaka?",
+        "A": "A Greek casserole",
+        "B": "A type of bread",
+        "C": "A type of rice",
+        "D": "A type of soup",
+        "answer": "A",
+        "funFact": "Moussaka is a Greek casserole dish typically made with layers of eggplant, meat, and béchamel sauce."
+    },
+    {
+        "question": "What is jambalaya?",
+        "A": "A Louisiana rice dish",
+        "B": "A type of bread",
+        "C": "A type of soup",
+        "D": "A type of pasta",
+        "answer": "A",
+        "funFact": "Jambalaya is a Louisiana Creole and Cajun rice dish with meat, seafood, and vegetables, similar to Spanish paella."
+    },
+    {
+        "question": "What is injera?",
+        "A": "An Ethiopian flatbread",
+        "B": "A type of rice",
+        "C": "A type of soup",
+        "D": "A type of meat",
+        "answer": "A",
+        "funFact": "Injera is a sourdough flatbread from Ethiopia and Eritrea, made from teff flour, used as both plate and utensil for stews."
+    },
+    {
+        "question": "What is feijoada?",
+        "A": "A Brazilian stew",
+        "B": "A type of bread",
+        "C": "A type of rice",
+        "D": "A type of soup",
+        "answer": "A",
+        "funFact": "Feijoada is Brazil's national dish, a black bean stew with pork, traditionally served with rice, collard greens, and orange slices."
+    },
+    {
+        "question": "What is the study of world cuisines called?",
+        "A": "Cuisinology",
+        "B": "Culinary anthropology",
+        "C": "Food geography",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "World cuisines are studied through culinary anthropology, food geography, and cultural studies, exploring how food reflects culture and history."
+    },
+    {
+        "question": "What is bibimbap?",
+        "A": "A Korean rice bowl",
+        "B": "A type of soup",
+        "C": "A type of bread",
+        "D": "A type of meat",
+        "answer": "A",
+        "funFact": "Bibimbap is a Korean rice bowl dish with vegetables, meat, egg, and gochujang (chili paste), mixed together before eating."
+    },
+    {
+        "question": "What is tapas?",
+        "A": "A Spanish meal of small dishes",
+        "B": "A type of soup",
+        "C": "A type of rice",
+        "D": "A type of bread",
+        "answer": "A",
+        "funFact": "Tapas are Spanish small plates or appetizers, traditionally served with drinks, representing a social dining culture."
+    },
+    {
+        "question": "What is the importance of spices in world cuisines?",
+        "A": "Only for flavor",
+        "B": "To add flavor, preserve food, and reflect culture",
+        "C": "Only to preserve",
+        "D": "Only for color",
+        "answer": "B",
+        "funFact": "Spices add flavor, help preserve food, and reflect cultural traditions and trade routes, making them central to world cuisines."
+    }
+]

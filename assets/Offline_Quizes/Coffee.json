@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What is the most popular coffee drink in the world?",
+        "A": "Espresso",
+        "B": "Cappuccino",
+        "C": "Americano",
+        "D": "Latte",
+        "answer": "A",
+        "funFact": "Espresso is the most popular coffee drink globally, serving as the base for many other coffee beverages."
+    },
+    {
+        "question": "Where did coffee originate?",
+        "A": "Brazil",
+        "B": "Ethiopia",
+        "C": "Colombia",
+        "D": "Vietnam",
+        "answer": "B",
+        "funFact": "Coffee originated in Ethiopia, where legend says a goat herder discovered it after noticing his goats became energetic after eating coffee berries."
+    },
+    {
+        "question": "What is the main active ingredient in coffee?",
+        "A": "Theobromine",
+        "B": "Caffeine",
+        "C": "Tannin",
+        "D": "Theophylline",
+        "answer": "B",
+        "funFact": "Caffeine is the main active ingredient in coffee, a natural stimulant that affects the central nervous system."
+    },
+    {
+        "question": "What is a shot of espresso?",
+        "A": "A large cup",
+        "B": "A concentrated coffee brew",
+        "C": "A cold drink",
+        "D": "A decaf drink",
+        "answer": "B",
+        "funFact": "A shot of espresso is a concentrated coffee brew made by forcing hot water through finely-ground coffee beans under pressure."
+    },
+    {
+        "question": "What is the difference between Arabica and Robusta coffee?",
+        "A": "Arabica is stronger",
+        "B": "Arabica is smoother, Robusta is stronger",
+        "C": "They're the same",
+        "D": "Robusta is smoother",
+        "answer": "B",
+        "funFact": "Arabica beans produce smoother, more flavorful coffee, while Robusta beans are stronger, more bitter, and contain more caffeine."
+    },
+    {
+        "question": "What is a cappuccino?",
+        "A": "Black coffee",
+        "B": "Espresso with steamed milk and foam",
+        "C": "Cold coffee",
+        "D": "Decaf coffee",
+        "answer": "B",
+        "funFact": "A cappuccino is made with equal parts espresso, steamed milk, and milk foam, creating a layered drink."
+    },
+    {
+        "question": "What is a latte?",
+        "A": "Black coffee",
+        "B": "Espresso with more steamed milk than foam",
+        "C": "Cold coffee",
+        "D": "Decaf coffee",
+        "answer": "B",
+        "funFact": "A latte is espresso with steamed milk and a small layer of foam, containing more milk than a cappuccino."
+    },
+    {
+        "question": "What is decaf coffee?",
+        "A": "Coffee with no flavor",
+        "B": "Coffee with most caffeine removed",
+        "C": "Cold coffee",
+        "D": "Instant coffee",
+        "answer": "B",
+        "funFact": "Decaf coffee is coffee that has had most of its caffeine removed through various processes, though it's not 100% caffeine-free."
+    },
+    {
+        "question": "What is cold brew?",
+        "A": "Hot coffee that's cooled",
+        "B": "Coffee steeped in cold water",
+        "C": "Iced coffee",
+        "D": "Frozen coffee",
+        "answer": "B",
+        "funFact": "Cold brew is coffee made by steeping coarsely ground beans in cold water for 12-24 hours, resulting in a smoother, less acidic taste."
+    },
+    {
+        "question": "What is the ideal temperature for brewing coffee?",
+        "A": "Boiling (212°F)",
+        "B": "195-205°F",
+        "C": "Room temperature",
+        "D": "Freezing",
+        "answer": "B",
+        "funFact": "The ideal brewing temperature for coffee is 195-205°F (90-96°C), which extracts the best flavors without burning the beans."
+    },
+    {
+        "question": "What is a macchiato?",
+        "A": "Black coffee",
+        "B": "Espresso with a small amount of milk",
+        "C": "Cold coffee",
+        "D": "Decaf coffee",
+        "answer": "B",
+        "funFact": "A macchiato is espresso 'marked' with a small amount of steamed milk or foam, stronger than a latte or cappuccino."
+    },
+    {
+        "question": "What is the world's largest coffee producer?",
+        "A": "Colombia",
+        "B": "Brazil",
+        "C": "Vietnam",
+        "D": "Ethiopia",
+        "answer": "B",
+        "funFact": "Brazil is the world's largest coffee producer, producing about one-third of the world's coffee supply."
+    },
+    {
+        "question": "What is instant coffee?",
+        "A": "Fresh brewed coffee",
+        "B": "Dehydrated coffee that dissolves in water",
+        "C": "Cold coffee",
+        "D": "Decaf coffee",
+        "answer": "B",
+        "funFact": "Instant coffee is made by freeze-drying or spray-drying brewed coffee, creating a powder that dissolves in hot water."
+    },
+    {
+        "question": "What is a French press?",
+        "A": "A type of coffee bean",
+        "B": "A coffee brewing method",
+        "C": "A coffee shop",
+        "D": "A coffee flavor",
+        "answer": "B",
+        "funFact": "A French press is a coffee brewing device that uses a plunger to separate coffee grounds from the brewed coffee."
+    },
+    {
+        "question": "What is espresso crema?",
+        "A": "The foam on top of espresso",
+        "B": "A type of coffee bean",
+        "C": "A coffee flavor",
+        "D": "A brewing method",
+        "answer": "A",
+        "funFact": "Espresso crema is the golden-brown foam that forms on top of a well-made espresso, indicating proper extraction."
+    },
+    {
+        "question": "What is a mocha?",
+        "A": "Black coffee",
+        "B": "Coffee with chocolate",
+        "C": "Cold coffee",
+        "D": "Decaf coffee",
+        "answer": "B",
+        "funFact": "A mocha is a coffee drink that combines espresso with chocolate, typically cocoa powder or chocolate syrup, and steamed milk."
+    },
+    {
+        "question": "What is the coffee belt?",
+        "A": "A coffee shop chain",
+        "B": "The region where coffee grows best",
+        "C": "A brewing method",
+        "D": "A type of coffee",
+        "answer": "B",
+        "funFact": "The coffee belt is the region between the Tropics of Cancer and Capricorn where coffee grows best, including parts of Africa, Asia, and the Americas."
+    },
+    {
+        "question": "What is a flat white?",
+        "A": "Black coffee",
+        "B": "Espresso with microfoam milk",
+        "C": "Cold coffee",
+        "D": "Decaf coffee",
+        "answer": "B",
+        "funFact": "A flat white is espresso with steamed milk and microfoam, similar to a latte but with less foam and a stronger coffee taste."
+    },
+    {
+        "question": "What is the study of coffee called?",
+        "A": "Coffeeology",
+        "B": "Coffeology",
+        "C": "Coffee science",
+        "D": "All of the above",
+        "answer": "C",
+        "funFact": "The study of coffee involves agriculture, chemistry, and culinary arts, though there's no single formal term for it."
+    },
+    {
+        "question": "What is a barista?",
+        "A": "A coffee bean",
+        "B": "A person who makes coffee",
+        "C": "A coffee shop",
+        "D": "A brewing method",
+        "answer": "B",
+        "funFact": "A barista is a person trained in making and serving coffee, especially espresso-based drinks."
+    },
+    {
+        "question": "What is the recommended daily caffeine limit?",
+        "A": "100mg",
+        "B": "400mg",
+        "C": "600mg",
+        "D": "800mg",
+        "answer": "B",
+        "funFact": "The FDA recommends a daily caffeine limit of 400mg for healthy adults, roughly equivalent to 4-5 cups of coffee."
+    }
+]

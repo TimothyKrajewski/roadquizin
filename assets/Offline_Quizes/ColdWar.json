@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the Cold War?",
+        "A": "A hot war",
+        "B": "A period of tension between US and USSR",
+        "C": "A single battle",
+        "D": "A peace treaty",
+        "answer": "B",
+        "funFact": "The Cold War was a period of political and military tension between the United States and Soviet Union from 1947 to 1991."
+    },
+    {
+        "question": "What were the two main sides?",
+        "A": "East and West",
+        "B": "United States and Soviet Union",
+        "C": "North and South",
+        "D": "Allies and Axis",
+        "answer": "B",
+        "funFact": "The Cold War was primarily between the United States (and allies) and the Soviet Union (and allies)."
+    },
+    {
+        "question": "What was the Iron Curtain?",
+        "A": "A physical wall",
+        "B": "The division between East and West",
+        "C": "A weapon",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "The Iron Curtain was the symbolic division between communist Eastern Europe and democratic Western Europe."
+    },
+    {
+        "question": "What was the Berlin Wall?",
+        "A": "A decoration",
+        "B": "A wall dividing East and West Berlin",
+        "C": "A building",
+        "D": "A bridge",
+        "answer": "B",
+        "funFact": "The Berlin Wall was a physical barrier dividing East and West Berlin from 1961 to 1989."
+    },
+    {
+        "question": "What was the Space Race?",
+        "A": "A running race",
+        "B": "Competition to explore space",
+        "C": "A war",
+        "D": "A treaty",
+        "answer": "B",
+        "funFact": "The Space Race was the competition between the US and USSR to achieve space exploration milestones."
+    },
+    {
+        "question": "What was the Arms Race?",
+        "A": "A running race",
+        "B": "Competition to build more weapons",
+        "C": "A peace treaty",
+        "D": "A trade agreement",
+        "answer": "B",
+        "funFact": "The Arms Race was the competition between the US and USSR to build more and better nuclear weapons."
+    },
+    {
+        "question": "What was NATO?",
+        "A": "A country",
+        "B": "North Atlantic Treaty Organization",
+        "C": "A weapon",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "NATO (North Atlantic Treaty Organization) was a military alliance of Western democracies formed in 1949."
+    },
+    {
+        "question": "What was the Warsaw Pact?",
+        "A": "A country",
+        "B": "A military alliance of communist countries",
+        "C": "A weapon",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "The Warsaw Pact was a military alliance of communist countries led by the Soviet Union, formed in 1955."
+    },
+    {
+        "question": "What was a proxy war?",
+        "A": "Direct war",
+        "B": "A war fought by allies instead of directly",
+        "C": "A peace treaty",
+        "D": "A trade agreement",
+        "answer": "B",
+        "funFact": "A proxy war was a conflict where the US and USSR supported opposing sides without directly fighting each other."
+    },
+    {
+        "question": "What was the Cuban Missile Crisis?",
+        "A": "A celebration",
+        "B": "A confrontation over missiles in Cuba",
+        "C": "A trade agreement",
+        "D": "A peace treaty",
+        "answer": "B",
+        "funFact": "The Cuban Missile Crisis (1962) was a tense confrontation when the US discovered Soviet missiles in Cuba."
+    },
+    {
+        "question": "What was détente?",
+        "A": "Increased tension",
+        "B": "A period of eased relations",
+        "C": "A war",
+        "D": "A treaty",
+        "answer": "B",
+        "funFact": "Détente was a period of eased relations between the US and USSR in the 1970s."
+    },
+    {
+        "question": "What was the study of the Cold War called?",
+        "A": "Cold Warology",
+        "B": "History",
+        "C": "International relations",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The Cold War is studied through history, international relations, and political science."
+    },
+    {
+        "question": "What was the period of the Cold War?",
+        "A": "1914-1918",
+        "B": "1947-1991",
+        "C": "1939-1945",
+        "D": "2001-present",
+        "answer": "B",
+        "funFact": "The Cold War lasted from approximately 1947 (Truman Doctrine) to 1991 (dissolution of the Soviet Union)."
+    },
+    {
+        "question": "What was the fall of the Berlin Wall?",
+        "A": "1987",
+        "B": "1989",
+        "C": "1991",
+        "D": "1993",
+        "answer": "B",
+        "funFact": "The Berlin Wall fell in 1989, symbolizing the end of the Cold War division of Europe."
+    },
+    {
+        "question": "What was the end of the Cold War?",
+        "A": "1987",
+        "B": "1991",
+        "C": "1995",
+        "D": "2000",
+        "answer": "B",
+        "funFact": "The Cold War ended in 1991 with the dissolution of the Soviet Union."
+    },
+    {
+        "question": "What was a superpower?",
+        "A": "A small country",
+        "B": "A nation with great influence",
+        "C": "A city",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "A superpower was a nation with great military, economic, and political influence, like the US and USSR."
+    },
+    {
+        "question": "What was containment?",
+        "A": "Attacking",
+        "B": "US policy to prevent communism spread",
+        "C": "Supporting",
+        "D": "Ignoring",
+        "answer": "B",
+        "funFact": "Containment was the US policy to prevent the spread of communism, a key strategy during the Cold War."
+    },
+    {
+        "question": "What was the Red Scare?",
+        "A": "A celebration",
+        "B": "Fear of communism",
+        "C": "A war",
+        "D": "A treaty",
+        "answer": "B",
+        "funFact": "The Red Scare was a period of intense fear of communism in the United States, particularly in the 1950s."
+    },
+    {
+        "question": "What was the Marshall Plan?",
+        "A": "A war plan",
+        "B": "US aid to rebuild Europe",
+        "C": "A weapon",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "The Marshall Plan was US economic aid to help rebuild Western Europe after World War II, countering Soviet influence."
+    },
+    {
+        "question": "What was the Truman Doctrine?",
+        "A": "A peace treaty",
+        "B": "US policy to support countries against communism",
+        "C": "A war declaration",
+        "D": "A trade agreement",
+        "answer": "B",
+        "funFact": "The Truman Doctrine (1947) was the US policy to support countries threatened by communism, marking the start of the Cold War."
+    }
+]

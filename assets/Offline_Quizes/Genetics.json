@@ -1,0 +1,183 @@
+[
+    {
+        "question": "What is DNA short for?",
+        "A": "Deoxyribonucleic Acid",
+        "B": "Dinitrogenous Acid",
+        "C": "Dihydrogenous Acid",
+        "D": "Deoxyribonucleic Atom",
+        "answer": "A",
+        "funFact": "DNA stands for Deoxyribonucleic Acid, which contains the genetic instructions for all living organisms."
+    },
+    {
+        "question": "How many chromosomes do humans have?",
+        "A": "23",
+        "B": "46",
+        "C": "48",
+        "D": "52",
+        "answer": "B",
+        "funFact": "Humans have 46 chromosomes - 23 pairs - with one set inherited from each parent."
+    },
+    {
+        "question": "What are the four bases in DNA?",
+        "A": "A, T, G, C",
+        "B": "A, U, G, C",
+        "C": "A, T, G, U",
+        "D": "T, U, G, C",
+        "answer": "A",
+        "funFact": "DNA has four bases: Adenine (A), Thymine (T), Guanine (G), and Cytosine (C). RNA uses Uracil (U) instead of Thymine."
+    },
+    {
+        "question": "Who discovered the structure of DNA?",
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "James Watson and Francis Crick",
+        "D": "Rosalind Franklin",
+        "answer": "C",
+        "funFact": "James Watson and Francis Crick discovered the double helix structure of DNA in 1953, though Rosalind Franklin's X-ray images were crucial."
+    },
+    {
+        "question": "What is a gene?",
+        "A": "A type of protein",
+        "B": "A segment of DNA that codes for a protein",
+        "C": "A type of chromosome",
+        "D": "A cell organelle",
+        "answer": "B",
+        "funFact": "A gene is a segment of DNA that contains the instructions for making a specific protein or RNA molecule."
+    },
+    {
+        "question": "What percentage of DNA do humans share with chimpanzees?",
+        "A": "85%",
+        "B": "90%",
+        "C": "95%",
+        "D": "98.8%",
+        "answer": "D",
+        "funFact": "Humans share approximately 98.8% of their DNA with chimpanzees, our closest living relatives."
+    },
+    {
+        "question": "What is the Human Genome Project?",
+        "A": "A study of human behavior",
+        "B": "Mapping all human genes",
+        "C": "A medical treatment program",
+        "D": "A population study",
+        "answer": "B",
+        "funFact": "The Human Genome Project was an international effort to map and sequence all the genes in human DNA, completed in 2003."
+    },
+    {
+        "question": "What is a mutation?",
+        "A": "A change in DNA sequence",
+        "B": "A type of cell",
+        "C": "A disease",
+        "D": "A protein",
+        "answer": "A",
+        "funFact": "A mutation is a permanent change in the DNA sequence that can be inherited or occur during cell division."
+    },
+    {
+        "question": "What is genetic engineering?",
+        "A": "Studying genes",
+        "B": "Modifying genes in an organism",
+        "C": "Mapping genes",
+        "D": "Counting genes",
+        "answer": "B",
+        "funFact": "Genetic engineering involves directly manipulating an organism's genes using biotechnology to add, remove, or alter genetic material."
+    },
+    {
+        "question": "What is CRISPR?",
+        "A": "A type of gene",
+        "B": "A gene-editing technology",
+        "C": "A protein",
+        "D": "A disease",
+        "answer": "B",
+        "funFact": "CRISPR is a revolutionary gene-editing technology that allows scientists to precisely edit DNA sequences."
+    },
+    {
+        "question": "What determines eye color?",
+        "A": "One gene",
+        "B": "Multiple genes",
+        "C": "Environment only",
+        "D": "Random chance",
+        "answer": "B",
+        "funFact": "Eye color is determined by multiple genes, with at least 16 genes involved in determining the final eye color."
+    },
+    {
+        "question": "What is a dominant trait?",
+        "A": "A trait that always appears",
+        "B": "A trait that masks another trait",
+        "C": "A rare trait",
+        "D": "A common trait",
+        "answer": "B",
+        "funFact": "A dominant trait is one that masks the expression of a recessive trait when both are present in an individual's genes."
+    },
+    {
+        "question": "Who is known as the 'Father of Genetics'?",
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "James Watson",
+        "D": "Louis Pasteur",
+        "answer": "B",
+        "funFact": "Gregor Mendel, an Austrian monk, is known as the Father of Genetics for his work with pea plants in the 1860s."
+    },
+    {
+        "question": "What is a genome?",
+        "A": "A single gene",
+        "B": "All the genetic material in an organism",
+        "C": "A chromosome",
+        "D": "A protein",
+        "answer": "B",
+        "funFact": "A genome is the complete set of genetic material (DNA) in an organism, including all of its genes."
+    },
+    {
+        "question": "What percentage of DNA do all humans share?",
+        "A": "85%",
+        "B": "90%",
+        "C": "99.9%",
+        "D": "100%",
+        "answer": "C",
+        "funFact": "All humans share 99.9% of their DNA, with only 0.1% accounting for all the differences between individuals."
+    },
+    {
+        "question": "What is genetic testing used for?",
+        "A": "Only for research",
+        "B": "Identifying genetic disorders and ancestry",
+        "C": "Treating diseases",
+        "D": "Creating new genes",
+        "answer": "B",
+        "funFact": "Genetic testing is used to identify genetic disorders, determine ancestry, and assess risk for certain diseases."
+    },
+    {
+        "question": "What is a chromosome?",
+        "A": "A type of protein",
+        "B": "A structure that contains DNA",
+        "C": "A type of cell",
+        "D": "A gene",
+        "answer": "B",
+        "funFact": "A chromosome is a thread-like structure made of DNA and proteins that carries genetic information."
+    },
+    {
+        "question": "What is cloning?",
+        "A": "Copying DNA",
+        "B": "Creating genetically identical organisms",
+        "C": "Mixing genes",
+        "D": "Deleting genes",
+        "answer": "B",
+        "funFact": "Cloning is the process of creating genetically identical copies of an organism, cell, or DNA sequence."
+    },
+    {
+        "question": "What is epigenetics?",
+        "A": "The study of genes",
+        "B": "Changes in gene expression without changing DNA",
+        "C": "The study of evolution",
+        "D": "Genetic mutations",
+        "answer": "B",
+        "funFact": "Epigenetics studies changes in gene expression that don't involve changes to the DNA sequence itself."
+    },
+    {
+        "question": "What is a genetic disorder?",
+        "A": "A disease caused by bacteria",
+        "B": "A disease caused by viruses",
+        "C": "A disease caused by genetic mutations",
+        "D": "A disease caused by environment only",
+        "answer": "C",
+        "funFact": "A genetic disorder is a disease caused by abnormalities in an individual's genetic material, which can be inherited or occur spontaneously."
+    }
+]
+

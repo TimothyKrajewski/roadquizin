@@ -47,16 +47,20 @@ const SettingsScreen: React.FC = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.label}>Enable Offline Mode</Text>
-      <Switch
-        value={offlineMode}
-        onValueChange={toggleOfflineMode}
-      />
-      <Text style={styles.label}>Enable All Play Mode</Text>
-      <Switch
-        value={allPlayMode}
-        onValueChange={toggleAllPlayMode}
-      />
+      <View style={styles.settingRow}>
+        <Text style={styles.label}>Enable Offline Mode</Text>
+        <Switch
+          value={offlineMode}
+          onValueChange={toggleOfflineMode}
+        />
+      </View>
+      <View style={styles.settingRow}>
+        <Text style={styles.label}>Enable All Play Mode</Text>
+        <Switch
+          value={allPlayMode}
+          onValueChange={toggleAllPlayMode}
+        />
+      </View>
       <TouchableOpacity style={styles.historyButton} onPress={handleNavigateToQuizHistory}>
         <Text style={styles.historyButtonText}>Quiz History</Text>
       </TouchableOpacity>
@@ -72,10 +76,22 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    padding: 20,
+  },
+  settingRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    width: '100%',
+    maxWidth: 400,
+    paddingVertical: 15,
+    paddingHorizontal: 20,
+    marginBottom: 10,
   },
   label: {
     fontSize: 18,
-    marginBottom: 10,
+    flex: 1,
+    marginRight: 15,
   },
   historyButton: {
     marginTop: 20,

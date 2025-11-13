@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is a novel?",
+        "A": "A short story",
+        "B": "A long work of fiction",
+        "C": "A poem",
+        "D": "A play",
+        "answer": "B",
+        "funFact": "A novel is a long work of fiction, typically 40,000 words or more, telling a story with characters and plot."
+    },
+    {
+        "question": "What is the difference between a novel and a short story?",
+        "A": "They're the same",
+        "B": "Novels are longer and more complex",
+        "C": "Short stories are longer",
+        "D": "Novels are shorter",
+        "answer": "B",
+        "funFact": "Novels are longer and more complex than short stories, allowing for deeper character development and multiple plotlines."
+    },
+    {
+        "question": "What is the study of novels called?",
+        "A": "Novelology",
+        "B": "Novel studies",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Novels are studied through literary studies, English literature, and novel analysis courses."
+    },
+    {
+        "question": "What is the impact of novels?",
+        "A": "No impact",
+        "B": "Influencing culture, thought, and entertainment",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Novels have influenced culture, thought, and entertainment, providing stories that shape how people see the world."
+    },
+    {
+        "question": "What is the origin of novels?",
+        "A": "The 1800s",
+        "B": "The 1700s-1800s",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "The modern novel form developed in the 1700s-1800s, though longer fictional works existed earlier."
+    },
+    {
+        "question": "What is the future of novels?",
+        "A": "No future",
+        "B": "Continued creation and new formats",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Novels continue to be created in traditional and new formats, including e-books and audiobooks."
+    },
+    {
+        "question": "What is the importance of novels?",
+        "A": "Not important",
+        "B": "Major art form and entertainment",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Novels are a major art form and source of entertainment, providing stories that explore human experience."
+    },
+    {
+        "question": "What is the study of novels called?",
+        "A": "Novelology",
+        "B": "Novel analysis",
+        "C": "Literary criticism",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Novels are studied through literary analysis, criticism, and English literature courses."
+    },
+    {
+        "question": "What is the difference between fiction and non-fiction novels?",
+        "A": "They're the same",
+        "B": "Fiction is made up, non-fiction is true",
+        "C": "Non-fiction is made up",
+        "D": "Fiction is always true",
+        "answer": "B",
+        "funFact": "Fiction novels are made-up stories, while non-fiction novels (or narrative non-fiction) tell true stories."
+    },
+    {
+        "question": "What is the impact of novels on culture?",
+        "A": "No impact",
+        "B": "Shaping culture, values, and understanding",
+        "C": "Minor changes",
+        "D": "Only affects some countries",
+        "answer": "B",
+        "funFact": "Novels have shaped culture, values, and understanding, with many becoming cultural touchstones."
+    },
+    {
+        "question": "What is the origin of novels?",
+        "A": "The 1800s",
+        "B": "The 1700s",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "The modern novel form emerged in the 1700s with works like 'Robinson Crusoe' and 'Pamela.'"
+    },
+    {
+        "question": "What is the future of novels?",
+        "A": "No future",
+        "B": "Evolving formats and continued popularity",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Novels continue to evolve with new formats (e-books, audiobooks) while maintaining their popularity."
+    },
+    {
+        "question": "What is the study of novels called?",
+        "A": "Novelology",
+        "B": "Novel studies",
+        "C": "Creative writing",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Novels are studied through literary studies, creative writing, and novel analysis."
+    },
+    {
+        "question": "What is the importance of novels?",
+        "A": "Not important",
+        "B": "Essential form of storytelling and art",
+        "C": "Minor importance",
+        "D": "Only for readers",
+        "answer": "B",
+        "funFact": "Novels are an essential form of storytelling and art, exploring human experience and imagination."
+    },
+    {
+        "question": "What is the difference between a novel and a novella?",
+        "A": "They're the same",
+        "B": "Novels are longer, novellas are shorter",
+        "C": "Novellas are longer",
+        "D": "Novels are shorter",
+        "answer": "B",
+        "funFact": "Novels are typically 40,000+ words, while novellas are shorter works, usually 17,500-40,000 words."
+    },
+    {
+        "question": "What is the impact of novels on society?",
+        "A": "No impact",
+        "B": "Influencing social change and understanding",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Novels have influenced social change and understanding, with many addressing important social issues."
+    },
+    {
+        "question": "What is the origin of novels?",
+        "A": "The 1800s",
+        "B": "The 1700s-1800s",
+        "C": "The 1900s",
+        "D": "The 2000s",
+        "answer": "B",
+        "funFact": "The novel form developed in the 1700s-1800s, becoming a major literary form that continues today."
+    },
+    {
+        "question": "What is the future of novels?",
+        "A": "No future",
+        "B": "Continued creation and innovation",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Novels continue to be created and innovated, with new genres, formats, and ways of storytelling emerging."
+    },
+    {
+        "question": "What is the study of novels called?",
+        "A": "Novelology",
+        "B": "Novel research",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Novels are studied through literary studies, English literature, and creative writing programs."
+    },
+    {
+        "question": "What is the importance of novels?",
+        "A": "Not important",
+        "B": "Major literary form and cultural influence",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Novels are a major literary form with significant cultural influence, providing stories that shape understanding and entertainment."
+    }
+]

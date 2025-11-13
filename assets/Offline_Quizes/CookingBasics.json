@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the most important knife in the kitchen?",
+        "A": "Bread knife",
+        "B": "Chef's knife",
+        "C": "Paring knife",
+        "D": "Serrated knife",
+        "answer": "B",
+        "funFact": "A chef's knife is the most versatile and important knife in the kitchen, used for chopping, slicing, and dicing most ingredients."
+    },
+    {
+        "question": "What is the difference between sautéing and frying?",
+        "A": "They're the same",
+        "B": "Sautéing uses less oil and higher heat",
+        "C": "Frying uses less oil",
+        "D": "Sautéing is for desserts",
+        "answer": "B",
+        "funFact": "Sautéing uses a small amount of oil over high heat with constant movement, while frying uses more oil and can be done at various temperatures."
+    },
+    {
+        "question": "What is the Maillard reaction?",
+        "A": "A mixing technique",
+        "B": "Browning that creates flavor",
+        "C": "A rising process",
+        "D": "A cooling process",
+        "answer": "B",
+        "funFact": "The Maillard reaction is the chemical reaction between amino acids and sugars that creates browning and complex flavors when cooking."
+    },
+    {
+        "question": "What is mise en place?",
+        "A": "A cooking method",
+        "B": "Preparing and organizing ingredients before cooking",
+        "C": "A type of dish",
+        "D": "A cooking temperature",
+        "answer": "B",
+        "funFact": "Mise en place (French for 'putting in place') means preparing and organizing all ingredients before you start cooking."
+    },
+    {
+        "question": "What is the difference between boiling and simmering?",
+        "A": "They're the same",
+        "B": "Boiling is vigorous, simmering is gentle",
+        "C": "Simmering is hotter",
+        "D": "Boiling is for cold water",
+        "answer": "B",
+        "funFact": "Boiling is when liquid reaches 212°F with large bubbles, while simmering is a gentle boil around 180-200°F with small bubbles."
+    },
+    {
+        "question": "What is braising?",
+        "A": "Cooking in dry heat",
+        "B": "Cooking with moist heat in a covered pot",
+        "C": "Cooking in water only",
+        "D": "Cooking in oil only",
+        "answer": "B",
+        "funFact": "Braising is a cooking method that combines searing and then slow cooking with moist heat in a covered pot, perfect for tough cuts of meat."
+    },
+    {
+        "question": "What is the purpose of resting meat after cooking?",
+        "A": "To cool it down",
+        "B": "To redistribute juices",
+        "C": "To make it last longer",
+        "D": "To change the color",
+        "answer": "B",
+        "funFact": "Resting meat allows juices to redistribute throughout the meat, resulting in more tender and flavorful results."
+    },
+    {
+        "question": "What is the difference between herbs and spices?",
+        "A": "They're the same",
+        "B": "Herbs are leaves, spices are seeds/barks/roots",
+        "C": "Spices are leaves",
+        "D": "Herbs are seeds",
+        "answer": "B",
+        "funFact": "Herbs are the leaves of plants (like basil, thyme), while spices come from other parts like seeds, bark, roots, or fruits (like cinnamon, pepper)."
+    },
+    {
+        "question": "What is deglazing?",
+        "A": "Removing glaze",
+        "B": "Adding liquid to a hot pan to release browned bits",
+        "C": "Adding glaze",
+        "D": "Cooling a pan",
+        "answer": "B",
+        "funFact": "Deglazing is adding liquid (wine, stock, etc.) to a hot pan to release browned bits stuck to the bottom, creating a flavorful sauce."
+    },
+    {
+        "question": "What is the danger zone for food?",
+        "A": "32-40°F",
+        "B": "40-140°F",
+        "C": "140-200°F",
+        "D": "200-212°F",
+        "answer": "B",
+        "funFact": "The danger zone is 40-140°F (4-60°C), where bacteria multiply rapidly. Food should not be left in this range for more than 2 hours."
+    },
+    {
+        "question": "What is the purpose of salt in cooking?",
+        "A": "Only for flavor",
+        "B": "To enhance flavor and preserve food",
+        "C": "Only for preservation",
+        "D": "Only for color",
+        "answer": "B",
+        "funFact": "Salt enhances flavors, helps preserve food, and can draw out moisture or help retain it depending on how it's used."
+    },
+    {
+        "question": "What is a roux?",
+        "A": "A type of sauce",
+        "B": "A mixture of flour and fat used to thicken",
+        "C": "A type of meat",
+        "D": "A cooking method",
+        "answer": "B",
+        "funFact": "A roux is a mixture of equal parts flour and fat (usually butter) cooked together, used to thicken sauces and soups."
+    },
+    {
+        "question": "What is the difference between stock and broth?",
+        "A": "They're the same",
+        "B": "Stock is made with bones, broth is made with meat",
+        "C": "Broth is made with bones",
+        "D": "Stock is always clear",
+        "answer": "B",
+        "funFact": "Stock is made by simmering bones (often with vegetables), while broth is made by simmering meat. Stock is typically richer and more gelatinous."
+    },
+    {
+        "question": "What is the purpose of marinating?",
+        "A": "Only for flavor",
+        "B": "To add flavor and tenderize",
+        "C": "Only to preserve",
+        "D": "Only to cook",
+        "answer": "B",
+        "funFact": "Marinating adds flavor and can help tenderize meat by breaking down proteins, especially with acidic ingredients like vinegar or citrus."
+    },
+    {
+        "question": "What is the difference between dicing and mincing?",
+        "A": "They're the same",
+        "B": "Dicing is larger cubes, mincing is very fine",
+        "C": "Mincing is larger",
+        "D": "Dicing is for herbs only",
+        "answer": "B",
+        "funFact": "Dicing creates uniform cubes (small, medium, or large), while mincing is cutting into very fine pieces, often for garlic or herbs."
+    },
+    {
+        "question": "What is the study of cooking called?",
+        "A": "Cookingology",
+        "B": "Culinary arts",
+        "C": "Food science",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The study of cooking involves culinary arts (technique and creativity) and food science (the chemistry and physics of cooking)."
+    },
+    {
+        "question": "What is the purpose of acid in cooking?",
+        "A": "Only for sourness",
+        "B": "To brighten flavors and balance richness",
+        "C": "Only to preserve",
+        "D": "Only to cook",
+        "answer": "B",
+        "funFact": "Acid (lemon juice, vinegar) brightens flavors, balances richness, and can help tenderize proteins."
+    },
+    {
+        "question": "What is the difference between baking and roasting?",
+        "A": "They're the same",
+        "B": "Baking is for bread/cakes, roasting is for meats/vegetables",
+        "C": "Roasting is for bread",
+        "D": "Baking is for meats",
+        "answer": "B",
+        "funFact": "Baking typically refers to cooking bread, cakes, and pastries, while roasting refers to cooking meats and vegetables in dry heat."
+    },
+    {
+        "question": "What is the purpose of a food thermometer?",
+        "A": "To measure time",
+        "B": "To ensure food is cooked to safe temperature",
+        "C": "To measure weight",
+        "D": "To measure volume",
+        "answer": "B",
+        "funFact": "A food thermometer ensures food reaches safe internal temperatures, preventing foodborne illness (165°F for poultry, 145°F for beef, etc.)."
+    },
+    {
+        "question": "What is the difference between searing and grilling?",
+        "A": "They're the same",
+        "B": "Searing is in a pan, grilling is over direct heat",
+        "C": "Grilling is in a pan",
+        "D": "Searing is for vegetables only",
+        "answer": "B",
+        "funFact": "Searing is cooking at high heat in a pan to create a browned crust, while grilling is cooking over direct heat (gas, charcoal, or electric)."
+    }
+]

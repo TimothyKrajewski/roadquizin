@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is paleontology?",
+        "A": "Study of living animals",
+        "B": "Study of fossils and ancient life",
+        "C": "Study of rocks",
+        "D": "Study of plants",
+        "answer": "B",
+        "funFact": "Paleontology is the study of fossils and ancient life forms to understand Earth's history."
+    },
+    {
+        "question": "What is a fossil?",
+        "A": "A living organism",
+        "B": "Preserved remains of ancient life",
+        "C": "A type of rock",
+        "D": "A mineral",
+        "answer": "B",
+        "funFact": "Fossils are the preserved remains or traces of ancient organisms, providing evidence of past life."
+    },
+    {
+        "question": "What is the largest dinosaur?",
+        "A": "Tyrannosaurus Rex",
+        "B": "Argentinosaurus",
+        "C": "Triceratops",
+        "D": "Stegosaurus",
+        "answer": "B",
+        "funFact": "Argentinosaurus is believed to be the largest dinosaur, weighing up to 100 tons and reaching 100 feet long."
+    },
+    {
+        "question": "What period did dinosaurs live in?",
+        "A": "Paleozoic",
+        "B": "Mesozoic",
+        "C": "Cenozoic",
+        "D": "Precambrian",
+        "answer": "B",
+        "funFact": "Dinosaurs lived during the Mesozoic Era, which lasted from about 252 to 66 million years ago."
+    },
+    {
+        "question": "What killed the dinosaurs?",
+        "A": "Disease",
+        "B": "Asteroid impact",
+        "C": "Volcanoes",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The dinosaur extinction was likely caused by an asteroid impact combined with volcanic activity and climate change."
+    },
+    {
+        "question": "What is the study of dinosaur footprints called?",
+        "A": "Paleontology",
+        "B": "Ichnology",
+        "C": "Geology",
+        "D": "Biology",
+        "answer": "B",
+        "funFact": "Ichnology is the study of trace fossils, including footprints, tracks, and burrows."
+    },
+    {
+        "question": "What is a paleontologist?",
+        "A": "A geologist",
+        "B": "A scientist who studies fossils",
+        "C": "A biologist",
+        "D": "A chemist",
+        "answer": "B",
+        "funFact": "A paleontologist is a scientist who studies fossils to understand ancient life and Earth's history."
+    },
+    {
+        "question": "What is the oldest known fossil?",
+        "A": "Dinosaur bones",
+        "B": "Microbial fossils",
+        "C": "Plant fossils",
+        "D": "Fish fossils",
+        "answer": "B",
+        "funFact": "The oldest known fossils are microbial mats dating back about 3.5 billion years."
+    },
+    {
+        "question": "What is amber?",
+        "A": "A type of rock",
+        "B": "Fossilized tree resin",
+        "C": "A mineral",
+        "D": "A type of fossil bone",
+        "answer": "B",
+        "funFact": "Amber is fossilized tree resin that can preserve insects and other small organisms."
+    },
+    {
+        "question": "What is a trilobite?",
+        "A": "A dinosaur",
+        "B": "An ancient marine arthropod",
+        "C": "A plant",
+        "D": "A fish",
+        "answer": "B",
+        "funFact": "Trilobites were ancient marine arthropods that lived from 521 to 252 million years ago."
+    },
+    {
+        "question": "What is the name for the study of ancient plants?",
+        "A": "Paleontology",
+        "B": "Paleobotany",
+        "C": "Botany",
+        "D": "Geology",
+        "answer": "B",
+        "funFact": "Paleobotany is the branch of paleontology that studies fossil plants."
+    },
+    {
+        "question": "What is a coprolite?",
+        "A": "A bone",
+        "B": "Fossilized feces",
+        "C": "A footprint",
+        "D": "A tooth",
+        "answer": "B",
+        "funFact": "A coprolite is fossilized feces that provides information about ancient diets and ecosystems."
+    },
+    {
+        "question": "What is relative dating?",
+        "A": "Determining exact age",
+        "B": "Determining age relative to other fossils",
+        "C": "Carbon dating",
+        "D": "Radiometric dating",
+        "answer": "B",
+        "funFact": "Relative dating determines the age of fossils relative to other fossils and rock layers."
+    },
+    {
+        "question": "What is absolute dating?",
+        "A": "Relative dating",
+        "B": "Determining exact age using scientific methods",
+        "C": "Guessing age",
+        "D": "Comparing fossils",
+        "answer": "B",
+        "funFact": "Absolute dating uses scientific methods like radiometric dating to determine exact ages."
+    },
+    {
+        "question": "What is the name for the study of ancient environments?",
+        "A": "Paleontology",
+        "B": "Paleoecology",
+        "C": "Ecology",
+        "D": "Geology",
+        "answer": "B",
+        "funFact": "Paleoecology studies ancient environments and ecosystems using fossil evidence."
+    },
+    {
+        "question": "What is a mass extinction?",
+        "A": "One species dies",
+        "B": "Widespread extinction of many species",
+        "C": "A small extinction",
+        "D": "No extinction",
+        "answer": "B",
+        "funFact": "A mass extinction is a widespread and rapid decrease in biodiversity across many species."
+    },
+    {
+        "question": "What is the name for the study of ancient life?",
+        "A": "Biology",
+        "B": "Paleontology",
+        "C": "Geology",
+        "D": "Chemistry",
+        "answer": "B",
+        "funFact": "Paleontology is the scientific study of ancient life through the examination of fossils."
+    },
+    {
+        "question": "What is a trace fossil?",
+        "A": "A body fossil",
+        "B": "Evidence of activity, like footprints",
+        "C": "A bone",
+        "D": "A tooth",
+        "answer": "B",
+        "funFact": "Trace fossils are evidence of ancient activity, such as footprints, burrows, or bite marks."
+    },
+    {
+        "question": "What is the name for preserved soft tissue?",
+        "A": "Hard tissue",
+        "B": "Soft tissue preservation",
+        "C": "Fossilization",
+        "D": "Mineralization",
+        "answer": "B",
+        "funFact": "Soft tissue preservation is rare but can occur in exceptional conditions like amber or permafrost."
+    },
+    {
+        "question": "What is the most common type of fossil?",
+        "A": "Body fossils",
+        "B": "Trace fossils",
+        "C": "Soft tissue",
+        "D": "Amber",
+        "answer": "A",
+        "funFact": "Body fossils, which preserve the actual remains of organisms, are the most common type of fossil."
+    }
+]

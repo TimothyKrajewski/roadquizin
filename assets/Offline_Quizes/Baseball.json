@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many players are on a baseball team on the field?",
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10",
+        "answer": "C",
+        "funFact": "A baseball team has 9 players on the field at once: pitcher, catcher, first baseman, second baseman, third baseman, shortstop, and three outfielders."
+    },
+    {
+        "question": "How many strikes make an out?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "B",
+        "funFact": "Three strikes make an out in baseball. A strike is called when the batter swings and misses, doesn't swing at a good pitch, or hits a foul ball."
+    },
+    {
+        "question": "How many bases are there in baseball?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "answer": "B",
+        "funFact": "There are 4 bases in baseball: first, second, third, and home plate, forming a diamond shape."
+    },
+    {
+        "question": "What is a home run?",
+        "A": "Running to first base",
+        "B": "Hitting the ball out of the park",
+        "C": "A strike",
+        "D": "A walk",
+        "answer": "B",
+        "funFact": "A home run occurs when a batter hits the ball out of the playing field, allowing them to round all bases and score."
+    },
+    {
+        "question": "What is the distance between bases?",
+        "A": "80 feet",
+        "B": "90 feet",
+        "C": "100 feet",
+        "D": "110 feet",
+        "answer": "B",
+        "funFact": "The distance between bases in professional baseball is 90 feet (27.4 meters)."
+    },
+    {
+        "question": "What is a grand slam?",
+        "A": "A home run",
+        "B": "A home run with bases loaded",
+        "C": "A strikeout",
+        "D": "A walk",
+        "answer": "B",
+        "funFact": "A grand slam is a home run hit when all three bases are occupied, scoring 4 runs total."
+    },
+    {
+        "question": "What is a perfect game?",
+        "A": "Winning by 10 runs",
+        "B": "No hits, walks, or errors allowed",
+        "C": "10 home runs",
+        "D": "All strikeouts",
+        "answer": "B",
+        "funFact": "A perfect game is when a pitcher allows no batters to reach base - no hits, walks, or errors in 9 innings."
+    },
+    {
+        "question": "What is the World Series?",
+        "A": "International tournament",
+        "B": "Championship between AL and NL winners",
+        "C": "Regular season games",
+        "D": "All-Star game",
+        "answer": "B",
+        "funFact": "The World Series is the championship series between the winners of the American League and National League."
+    },
+    {
+        "question": "What is a strikeout?",
+        "A": "A hit",
+        "B": "Three strikes on a batter",
+        "C": "A walk",
+        "D": "A home run",
+        "answer": "B",
+        "funFact": "A strikeout occurs when a batter accumulates three strikes, resulting in an out."
+    },
+    {
+        "question": "What is a walk?",
+        "A": "Running to first",
+        "B": "Four balls, batter goes to first base",
+        "C": "A strike",
+        "D": "A home run",
+        "answer": "B",
+        "funFact": "A walk (base on balls) occurs when a pitcher throws four balls outside the strike zone, allowing the batter to go to first base."
+    },
+    {
+        "question": "What is a double play?",
+        "A": "Two home runs",
+        "B": "Two outs on one play",
+        "C": "Two strikes",
+        "D": "Two walks",
+        "answer": "B",
+        "funFact": "A double play is when the defense gets two outs on a single play, often involving a ground ball to an infielder."
+    },
+    {
+        "question": "What is a no-hitter?",
+        "A": "No runs scored",
+        "B": "No hits allowed in a game",
+        "C": "No strikes",
+        "D": "No walks",
+        "answer": "B",
+        "funFact": "A no-hitter is when a pitcher (or pitchers) allows no hits over the course of a complete game."
+    },
+    {
+        "question": "What is the distance from pitcher's mound to home plate?",
+        "A": "50 feet",
+        "B": "60.5 feet",
+        "C": "70 feet",
+        "D": "80 feet",
+        "answer": "B",
+        "funFact": "The distance from the pitcher's mound to home plate is 60 feet 6 inches (18.4 meters) in professional baseball."
+    },
+    {
+        "question": "What is a save?",
+        "A": "A type of hit",
+        "B": "Pitcher finishing a close game",
+        "C": "A strikeout",
+        "D": "A walk",
+        "answer": "B",
+        "funFact": "A save is credited to a relief pitcher who finishes a game his team wins while preserving a lead."
+    },
+    {
+        "question": "What is a bunt?",
+        "A": "A long hit",
+        "B": "A soft hit to advance runners",
+        "C": "A home run",
+        "D": "A strike",
+        "answer": "B",
+        "funFact": "A bunt is when a batter lightly taps the ball into play, usually to advance runners or reach first base safely."
+    },
+    {
+        "question": "What is a stolen base?",
+        "A": "A type of hit",
+        "B": "Runner advancing to next base during pitch",
+        "C": "A strike",
+        "D": "A walk",
+        "answer": "B",
+        "funFact": "A stolen base occurs when a runner successfully advances to the next base while the pitcher is delivering the ball."
+    },
+    {
+        "question": "What is an RBI?",
+        "A": "Run Batted In",
+        "B": "Run Batted Out",
+        "C": "Run Batted Over",
+        "D": "Run Batted Under",
+        "answer": "A",
+        "funFact": "RBI stands for Run Batted In - a statistic credited to a batter when their hit results in a run scoring."
+    },
+    {
+        "question": "What is a curveball?",
+        "A": "A straight pitch",
+        "B": "A breaking pitch that curves",
+        "C": "A fast pitch",
+        "D": "A slow pitch",
+        "answer": "B",
+        "funFact": "A curveball is a breaking pitch that curves downward as it approaches the plate, making it difficult to hit."
+    },
+    {
+        "question": "What is the All-Star Game?",
+        "A": "Regular season game",
+        "B": "Exhibition game with best players",
+        "C": "World Series",
+        "D": "Playoff game",
+        "answer": "B",
+        "funFact": "The All-Star Game is an annual exhibition game featuring the best players from the American and National Leagues."
+    },
+    {
+        "question": "What is a shutout?",
+        "A": "No hits",
+        "B": "Preventing opponent from scoring",
+        "C": "No strikes",
+        "D": "No walks",
+        "answer": "B",
+        "funFact": "A shutout occurs when a team prevents the opposing team from scoring any runs in a complete game."
+    }
+]

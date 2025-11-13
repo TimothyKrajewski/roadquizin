@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "roadquizin",
+    "name": "Road Quizin",
     "slug": "roadquizin",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -12,16 +12,29 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.roadquizin.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "NSUserTrackingUsageDescription": "This app uses tracking to improve your experience."
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.roadquizin.app",
+      "versionCode": 1,
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "description": "Test your knowledge with fun quizzes on a wide variety of topics including history, science, sports, and more!",
+    "privacy": "public"
   }
 }

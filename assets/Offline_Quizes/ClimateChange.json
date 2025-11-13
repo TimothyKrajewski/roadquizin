@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is climate change?",
+        "A": "Weather changes",
+        "B": "Long-term changes in global climate patterns",
+        "C": "Seasonal changes",
+        "D": "Daily weather",
+        "answer": "B",
+        "funFact": "Climate change refers to long-term changes in global climate patterns, including temperature, precipitation, and weather extremes."
+    },
+    {
+        "question": "What is the greenhouse effect?",
+        "A": "A harmful process",
+        "B": "Natural process that warms Earth's surface",
+        "C": "A cooling process",
+        "D": "A neutral process",
+        "answer": "B",
+        "funFact": "The greenhouse effect is a natural process where gases trap heat in Earth's atmosphere, keeping the planet warm enough for life."
+    },
+    {
+        "question": "What are greenhouse gases?",
+        "A": "Harmful gases only",
+        "B": "Gases that trap heat in the atmosphere",
+        "C": "Cooling gases",
+        "D": "Neutral gases",
+        "answer": "B",
+        "funFact": "Greenhouse gases (like CO2, methane, water vapor) trap heat in the atmosphere, contributing to the greenhouse effect."
+    },
+    {
+        "question": "What is the main cause of current climate change?",
+        "A": "Natural cycles only",
+        "B": "Human activities increasing greenhouse gases",
+        "C": "Solar changes",
+        "D": "Volcanic activity",
+        "answer": "B",
+        "funFact": "Current climate change is primarily caused by human activities, especially burning fossil fuels, which increases greenhouse gases."
+    },
+    {
+        "question": "What is global warming?",
+        "A": "Cooling of Earth",
+        "B": "Rising average temperature of Earth's surface",
+        "C": "No temperature change",
+        "D": "Only regional warming",
+        "answer": "B",
+        "funFact": "Global warming refers to the rising average temperature of Earth's surface, a key aspect of climate change."
+    },
+    {
+        "question": "What is carbon dioxide (CO2)?",
+        "A": "A harmless gas",
+        "B": "A major greenhouse gas from human activities",
+        "C": "A cooling gas",
+        "D": "A rare gas",
+        "answer": "B",
+        "funFact": "Carbon dioxide (CO2) is a major greenhouse gas, with levels increasing significantly due to human activities like burning fossil fuels."
+    },
+    {
+        "question": "What are fossil fuels?",
+        "A": "Renewable energy",
+        "B": "Coal, oil, and natural gas from ancient organisms",
+        "C": "Solar energy",
+        "D": "Wind energy",
+        "answer": "B",
+        "funFact": "Fossil fuels (coal, oil, natural gas) are formed from ancient organisms and release CO2 when burned, contributing to climate change."
+    },
+    {
+        "question": "What is the impact of climate change?",
+        "A": "No impact",
+        "B": "Rising sea levels, extreme weather, and ecosystem changes",
+        "C": "Only temperature",
+        "D": "Only weather",
+        "answer": "B",
+        "funFact": "Climate change impacts include rising sea levels, extreme weather events, ecosystem changes, and effects on human societies."
+    },
+    {
+        "question": "What is sea level rise?",
+        "A": "Falling sea levels",
+        "B": "Rising ocean levels due to melting ice and thermal expansion",
+        "C": "No change",
+        "D": "Only from melting",
+        "answer": "B",
+        "funFact": "Sea level rise occurs due to melting ice sheets and glaciers, plus thermal expansion of warming ocean water."
+    },
+    {
+        "question": "What is the Paris Agreement?",
+        "A": "A trade agreement",
+        "B": "An international climate agreement",
+        "C": "A military agreement",
+        "D": "An economic agreement",
+        "answer": "B",
+        "funFact": "The Paris Agreement (2015) is an international agreement to limit global warming to well below 2°C above pre-industrial levels."
+    },
+    {
+        "question": "What is renewable energy?",
+        "A": "Fossil fuels",
+        "B": "Energy from sources that don't run out",
+        "C": "Coal and oil",
+        "D": "Nuclear energy only",
+        "answer": "B",
+        "funFact": "Renewable energy comes from sources that don't run out, like solar, wind, and hydroelectric power."
+    },
+    {
+        "question": "What is the importance of addressing climate change?",
+        "A": "Not important",
+        "B": "Critical for future generations and ecosystems",
+        "C": "Minor importance",
+        "D": "Only for some countries",
+        "answer": "B",
+        "funFact": "Addressing climate change is critical for protecting future generations, ecosystems, and maintaining a habitable planet."
+    },
+    {
+        "question": "What is carbon footprint?",
+        "A": "A physical footprint",
+        "B": "Total greenhouse gas emissions from activities",
+        "C": "A measurement",
+        "D": "A type of pollution",
+        "answer": "B",
+        "funFact": "Carbon footprint is the total amount of greenhouse gases (especially CO2) emitted by an individual, organization, or product."
+    },
+    {
+        "question": "What is mitigation?",
+        "A": "Adaptation",
+        "B": "Reducing greenhouse gas emissions",
+        "C": "Accepting change",
+        "D": "Ignoring change",
+        "answer": "B",
+        "funFact": "Mitigation means reducing greenhouse gas emissions to limit climate change, through renewable energy, efficiency, and other measures."
+    },
+    {
+        "question": "What is adaptation?",
+        "A": "Mitigation",
+        "B": "Adjusting to climate change impacts",
+        "C": "Preventing change",
+        "D": "Ignoring change",
+        "answer": "B",
+        "funFact": "Adaptation means adjusting to climate change impacts, like building sea walls, changing crops, and improving infrastructure."
+    },
+    {
+        "question": "What is the impact on biodiversity?",
+        "A": "No impact",
+        "B": "Species extinction and ecosystem disruption",
+        "C": "Only positive",
+        "D": "Only minor",
+        "answer": "B",
+        "funFact": "Climate change threatens biodiversity through species extinction, habitat loss, and ecosystem disruption."
+    },
+    {
+        "question": "What is the role of forests?",
+        "A": "No role",
+        "B": "Absorb CO2 and store carbon",
+        "C": "Release CO2 only",
+        "D": "Neutral",
+        "answer": "B",
+        "funFact": "Forests absorb CO2 and store carbon, making them important for mitigating climate change."
+    },
+    {
+        "question": "What is the importance of individual action?",
+        "A": "Not important",
+        "B": "Collective individual actions can make a difference",
+        "C": "Only governments matter",
+        "D": "Only companies matter",
+        "answer": "B",
+        "funFact": "While systemic change is needed, collective individual actions (reducing energy use, sustainable choices) can contribute to addressing climate change."
+    },
+    {
+        "question": "What is the future of climate change?",
+        "A": "No future",
+        "B": "Depends on actions taken now",
+        "C": "Inevitable",
+        "D": "Will reverse naturally",
+        "answer": "B",
+        "funFact": "The future of climate change depends on actions taken now to reduce emissions and adapt to changes."
+    },
+    {
+        "question": "What is the study of climate change called?",
+        "A": "Climateology",
+        "B": "Climate science",
+        "C": "Weather studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Climate change is studied through climate science, meteorology, and environmental science, using data and models to understand and predict changes."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the Renaissance?",
+        "A": "A war",
+        "B": "A period of cultural rebirth",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The Renaissance was a period of cultural rebirth in Europe from the 14th to 17th centuries, emphasizing art, science, and humanism."
+    },
+    {
+        "question": "Where did the Renaissance begin?",
+        "A": "France",
+        "B": "Italy",
+        "C": "England",
+        "D": "Spain",
+        "answer": "B",
+        "funFact": "The Renaissance began in Italy, particularly in Florence, in the 14th century."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "A": "Michelangelo",
+        "B": "Leonardo da Vinci",
+        "C": "Raphael",
+        "D": "Donatello",
+        "answer": "B",
+        "funFact": "Leonardo da Vinci painted the Mona Lisa, one of the most famous paintings in the world."
+    },
+    {
+        "question": "Who painted the Sistine Chapel ceiling?",
+        "A": "Leonardo da Vinci",
+        "B": "Michelangelo",
+        "C": "Raphael",
+        "D": "Donatello",
+        "answer": "B",
+        "funFact": "Michelangelo painted the Sistine Chapel ceiling in the Vatican, one of the greatest works of Renaissance art."
+    },
+    {
+        "question": "What is perspective?",
+        "A": "A color",
+        "B": "A technique showing depth and distance",
+        "C": "A brush",
+        "D": "A canvas",
+        "answer": "B",
+        "funFact": "Perspective is a technique that creates the illusion of depth and distance on a flat surface, developed during the Renaissance."
+    },
+    {
+        "question": "What is chiaroscuro?",
+        "A": "A color",
+        "B": "The use of light and shadow",
+        "C": "A brush",
+        "D": "A canvas",
+        "answer": "B",
+        "funFact": "Chiaroscuro is the use of strong contrasts between light and dark to create depth and drama."
+    },
+    {
+        "question": "What is a fresco?",
+        "A": "A sculpture",
+        "B": "Painting on wet plaster",
+        "C": "A drawing",
+        "D": "A print",
+        "answer": "B",
+        "funFact": "A fresco is a technique of painting on wet plaster, allowing the paint to become part of the wall."
+    },
+    {
+        "question": "What is humanism?",
+        "A": "A religion",
+        "B": "Focus on human potential and achievement",
+        "C": "A painting style",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "Humanism was a Renaissance philosophy focusing on human potential, achievement, and the study of classical texts."
+    },
+    {
+        "question": "What is a patron?",
+        "A": "An artist",
+        "B": "Someone who supports artists",
+        "C": "A painting",
+        "D": "A sculpture",
+        "answer": "B",
+        "funFact": "A patron was a wealthy person (often a noble or merchant) who commissioned and supported artists."
+    },
+    {
+        "question": "What is the study of Renaissance art called?",
+        "A": "Renaissanceology",
+        "B": "Art history",
+        "C": "Renaissance studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Renaissance art is studied through art history, Renaissance studies, and cultural history."
+    },
+    {
+        "question": "What is a sculpture?",
+        "A": "A painting",
+        "B": "A three-dimensional artwork",
+        "C": "A drawing",
+        "D": "A print",
+        "answer": "B",
+        "funFact": "A sculpture is a three-dimensional artwork created by carving, modeling, or casting materials like marble or bronze."
+    },
+    {
+        "question": "What is the David?",
+        "A": "A painting",
+        "B": "A famous sculpture by Michelangelo",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "David is a famous marble sculpture by Michelangelo, depicting the biblical hero, completed in 1504."
+    },
+    {
+        "question": "What is the Last Supper?",
+        "A": "A sculpture",
+        "B": "A famous painting by Leonardo da Vinci",
+        "C": "A building",
+        "D": "A person",
+        "answer": "B",
+        "funFact": "The Last Supper is a famous mural painting by Leonardo da Vinci, depicting Jesus and his disciples."
+    },
+    {
+        "question": "What is a masterpiece?",
+        "A": "A beginner work",
+        "B": "An outstanding work of art",
+        "C": "A practice piece",
+        "D": "A sketch",
+        "answer": "B",
+        "funFact": "A masterpiece is an outstanding work of art that demonstrates exceptional skill and achievement."
+    },
+    {
+        "question": "What is a workshop?",
+        "A": "A single artist",
+        "B": "An artist's studio with assistants",
+        "C": "A building only",
+        "D": "A tool",
+        "answer": "B",
+        "funFact": "A workshop was an artist's studio where the master worked with assistants and apprentices."
+    },
+    {
+        "question": "What is an apprentice?",
+        "A": "A master",
+        "B": "A student learning from a master",
+        "C": "A patron",
+        "D": "A painting",
+        "answer": "B",
+        "funFact": "An apprentice was a student learning from a master artist, often starting as a child and working for years."
+    },
+    {
+        "question": "What is oil painting?",
+        "A": "A new technique",
+        "B": "Painting with oil-based paints",
+        "C": "Watercolor",
+        "D": "Fresco",
+        "answer": "B",
+        "funFact": "Oil painting became popular during the Renaissance, allowing for richer colors and more detailed work."
+    },
+    {
+        "question": "What is a portrait?",
+        "A": "A landscape",
+        "B": "A painting of a person",
+        "C": "A still life",
+        "D": "An abstract",
+        "answer": "B",
+        "funFact": "A portrait is a painting, drawing, or sculpture of a person, popular during the Renaissance."
+    },
+    {
+        "question": "What is a landscape?",
+        "A": "A portrait",
+        "B": "A painting of scenery",
+        "C": "A still life",
+        "D": "An abstract",
+        "answer": "B",
+        "funFact": "A landscape is a painting of natural scenery, which became more popular during the Renaissance."
+    },
+    {
+        "question": "What is the Renaissance period?",
+        "A": "The 1200s",
+        "B": "The 14th to 17th centuries",
+        "C": "The 1800s",
+        "D": "The 1900s",
+        "answer": "B",
+        "funFact": "The Renaissance period spanned from the 14th to 17th centuries, marking a transition from medieval to modern times."
+    }
+]

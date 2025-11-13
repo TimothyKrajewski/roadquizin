@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is geology?",
+        "A": "The study of weather",
+        "B": "The study of Earth's structure and processes",
+        "C": "The study of plants",
+        "D": "The study of animals",
+        "answer": "B",
+        "funFact": "Geology is the study of Earth's structure, composition, and processes, including rocks, minerals, and Earth's history."
+    },
+    {
+        "question": "What is a rock?",
+        "A": "A mineral",
+        "B": "A solid made of minerals or mineral-like materials",
+        "C": "A crystal",
+        "D": "A fossil",
+        "answer": "B",
+        "funFact": "A rock is a solid made of one or more minerals or mineral-like materials, forming Earth's crust."
+    },
+    {
+        "question": "What is a mineral?",
+        "A": "A rock",
+        "B": "A naturally occurring inorganic solid with specific composition",
+        "C": "A crystal only",
+        "D": "A fossil",
+        "answer": "B",
+        "funFact": "A mineral is a naturally occurring inorganic solid with a specific chemical composition and crystal structure."
+    },
+    {
+        "question": "What are the three main types of rocks?",
+        "A": "Hard, soft, medium",
+        "B": "Igneous, sedimentary, metamorphic",
+        "C": "Big, small, medium",
+        "D": "Old, new, ancient",
+        "answer": "B",
+        "funFact": "The three main types of rocks are igneous (from cooling magma), sedimentary (from sediments), and metamorphic (changed by heat/pressure)."
+    },
+    {
+        "question": "What is plate tectonics?",
+        "A": "A building technique",
+        "B": "Theory explaining Earth's crust movement",
+        "C": "A type of rock",
+        "D": "A mineral",
+        "answer": "B",
+        "funFact": "Plate tectonics is the theory that Earth's crust is divided into plates that move, causing earthquakes, volcanoes, and mountain formation."
+    },
+    {
+        "question": "What is an earthquake?",
+        "A": "A volcano",
+        "B": "Shaking from movement of Earth's crust",
+        "C": "A type of rock",
+        "D": "A mineral",
+        "answer": "B",
+        "funFact": "An earthquake is shaking of Earth's surface caused by movement along faults in the crust."
+    },
+    {
+        "question": "What is a volcano?",
+        "A": "A mountain",
+        "B": "An opening where magma reaches the surface",
+        "C": "A type of rock",
+        "D": "A mineral",
+        "answer": "B",
+        "funFact": "A volcano is an opening in Earth's crust where magma (molten rock) reaches the surface, creating lava flows and eruptions."
+    },
+    {
+        "question": "What is a fossil?",
+        "A": "A rock",
+        "B": "Preserved remains or traces of ancient life",
+        "C": "A mineral",
+        "D": "A crystal",
+        "answer": "B",
+        "funFact": "A fossil is preserved remains or traces of ancient life, providing evidence of Earth's history and evolution."
+    },
+    {
+        "question": "What is erosion?",
+        "A": "Building up",
+        "B": "Wearing away of rock and soil",
+        "C": "Creating",
+        "D": "Forming",
+        "answer": "B",
+        "funFact": "Erosion is the wearing away of rock and soil by water, wind, ice, or gravity, shaping Earth's surface."
+    },
+    {
+        "question": "What is weathering?",
+        "A": "Building up",
+        "B": "Breaking down of rocks at Earth's surface",
+        "C": "Creating",
+        "D": "Forming",
+        "answer": "B",
+        "funFact": "Weathering is the breaking down of rocks at Earth's surface by physical, chemical, or biological processes."
+    },
+    {
+        "question": "What is the rock cycle?",
+        "A": "A single process",
+        "B": "Continuous process of rock formation and change",
+        "C": "A one-time event",
+        "D": "A static state",
+        "answer": "B",
+        "funFact": "The rock cycle is the continuous process where rocks form, change, and reform through igneous, sedimentary, and metamorphic processes."
+    },
+    {
+        "question": "What is a fault?",
+        "A": "A type of rock",
+        "B": "A crack where rocks have moved",
+        "C": "A mineral",
+        "D": "A fossil",
+        "answer": "B",
+        "funFact": "A fault is a crack in Earth's crust where rocks have moved, often causing earthquakes."
+    },
+    {
+        "question": "What is a mineral's hardness?",
+        "A": "Its size",
+        "B": "Its resistance to scratching",
+        "C": "Its color",
+        "D": "Its weight",
+        "answer": "B",
+        "funFact": "A mineral's hardness is its resistance to scratching, measured on the Mohs scale from 1 (talc) to 10 (diamond)."
+    },
+    {
+        "question": "What is the age of Earth?",
+        "A": "1 million years",
+        "B": "About 4.5 billion years",
+        "C": "10,000 years",
+        "D": "100 million years",
+        "answer": "B",
+        "funFact": "Earth is about 4.5 billion years old, determined through radiometric dating of rocks and meteorites."
+    },
+    {
+        "question": "What is a geyser?",
+        "A": "A hot spring",
+        "B": "A hot spring that erupts periodically",
+        "C": "A volcano",
+        "D": "A type of rock",
+        "answer": "B",
+        "funFact": "A geyser is a hot spring that erupts periodically, shooting hot water and steam into the air."
+    },
+    {
+        "question": "What is a glacier?",
+        "A": "A river",
+        "B": "A large mass of moving ice",
+        "C": "A lake",
+        "D": "A type of rock",
+        "answer": "B",
+        "funFact": "A glacier is a large mass of moving ice that forms from compacted snow and shapes landscapes through erosion."
+    },
+    {
+        "question": "What is the importance of geology?",
+        "A": "Not important",
+        "B": "Understanding Earth, resources, and hazards",
+        "C": "Minor importance",
+        "D": "Only for scientists",
+        "answer": "B",
+        "funFact": "Geology is important for understanding Earth's history, finding resources (minerals, oil, water), and assessing natural hazards."
+    },
+    {
+        "question": "What is a mineral's streak?",
+        "A": "Its color",
+        "B": "The color of its powder",
+        "C": "Its hardness",
+        "D": "Its size",
+        "answer": "B",
+        "funFact": "A mineral's streak is the color of its powder when scratched on a surface, which can differ from the mineral's surface color."
+    },
+    {
+        "question": "What is the study of geology called?",
+        "A": "Geology",
+        "B": "Earth science",
+        "C": "Rock studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Geology is also called earth science, studying Earth's structure, processes, history, and resources."
+    },
+    {
+        "question": "What is the impact of geology on society?",
+        "A": "No impact",
+        "B": "Provides resources and helps understand hazards",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Geology impacts society by providing resources (minerals, energy, water) and helping understand and prepare for natural hazards."
+    }
+]

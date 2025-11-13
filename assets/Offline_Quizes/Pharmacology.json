@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is pharmacology?",
+        "A": "Study of diseases",
+        "B": "Study of drugs and their effects",
+        "C": "Study of surgery",
+        "D": "Study of anatomy",
+        "answer": "B",
+        "funFact": "Pharmacology is the study of how drugs interact with living organisms to produce therapeutic effects."
+    },
+    {
+        "question": "What is a drug?",
+        "A": "A disease",
+        "B": "A substance that affects body function",
+        "C": "A symptom",
+        "D": "A treatment",
+        "answer": "B",
+        "funFact": "A drug is any substance that, when introduced into the body, affects its structure or function."
+    },
+    {
+        "question": "What is an antibiotic?",
+        "A": "A virus",
+        "B": "A medicine that kills bacteria",
+        "C": "A type of cell",
+        "D": "A disease",
+        "answer": "B",
+        "funFact": "Antibiotics are medicines that kill or inhibit the growth of bacteria."
+    },
+    {
+        "question": "What is a vaccine?",
+        "A": "A treatment for disease",
+        "B": "A preparation that provides immunity",
+        "C": "An antibiotic",
+        "D": "A painkiller",
+        "answer": "B",
+        "funFact": "A vaccine is a biological preparation that provides active acquired immunity to a particular disease."
+    },
+    {
+        "question": "What is a dose?",
+        "A": "A type of drug",
+        "B": "The amount of medication given",
+        "C": "A side effect",
+        "D": "A disease",
+        "answer": "B",
+        "funFact": "A dose is the specific amount of medication administered at one time."
+    },
+    {
+        "question": "What is a side effect?",
+        "A": "The main effect",
+        "B": "An unintended effect of a drug",
+        "C": "A cure",
+        "D": "A disease",
+        "answer": "B",
+        "funFact": "A side effect is an unintended effect of a medication, which can be beneficial or harmful."
+    },
+    {
+        "question": "What is an analgesic?",
+        "A": "An antibiotic",
+        "B": "A pain reliever",
+        "C": "A vaccine",
+        "D": "A vitamin",
+        "answer": "B",
+        "funFact": "An analgesic is a medication that relieves pain, such as aspirin or ibuprofen."
+    },
+    {
+        "question": "What is an antihistamine?",
+        "A": "An antibiotic",
+        "B": "A medication for allergies",
+        "C": "A painkiller",
+        "D": "A vaccine",
+        "answer": "B",
+        "funFact": "An antihistamine blocks histamine to treat allergic reactions and symptoms like sneezing and itching."
+    },
+    {
+        "question": "What is pharmacokinetics?",
+        "A": "Study of drug effects",
+        "B": "Study of how the body processes drugs",
+        "C": "Study of diseases",
+        "D": "Study of anatomy",
+        "answer": "B",
+        "funFact": "Pharmacokinetics studies how the body absorbs, distributes, metabolizes, and excretes drugs."
+    },
+    {
+        "question": "What is pharmacodynamics?",
+        "A": "Study of drug movement",
+        "B": "Study of drug effects on the body",
+        "C": "Study of diseases",
+        "D": "Study of anatomy",
+        "answer": "B",
+        "funFact": "Pharmacodynamics studies how drugs affect the body and produce their therapeutic effects."
+    },
+    {
+        "question": "What is an overdose?",
+        "A": "Too little medication",
+        "B": "Too much medication",
+        "C": "The right amount",
+        "D": "No medication",
+        "answer": "B",
+        "funFact": "An overdose occurs when someone takes more medication than the body can safely handle."
+    },
+    {
+        "question": "What is drug resistance?",
+        "A": "Drug works better",
+        "B": "Drug becomes less effective",
+        "C": "Drug works normally",
+        "D": "No drug effect",
+        "answer": "B",
+        "funFact": "Drug resistance occurs when pathogens or diseases become less responsive to medications over time."
+    },
+    {
+        "question": "What is a generic drug?",
+        "A": "A brand name drug",
+        "B": "A drug with the same active ingredient as a brand name",
+        "C": "A different drug",
+        "D": "A fake drug",
+        "answer": "B",
+        "funFact": "A generic drug has the same active ingredient as a brand-name drug but is typically less expensive."
+    },
+    {
+        "question": "What is a prescription?",
+        "A": "Over-the-counter medication",
+        "B": "A written order for medication",
+        "C": "A disease",
+        "D": "A symptom",
+        "answer": "B",
+        "funFact": "A prescription is a written order from a doctor authorizing a pharmacist to dispense medication."
+    },
+    {
+        "question": "What is an over-the-counter drug?",
+        "A": "Requires prescription",
+        "B": "Available without prescription",
+        "C": "Illegal drug",
+        "D": "Experimental drug",
+        "answer": "B",
+        "funFact": "Over-the-counter (OTC) drugs can be purchased without a prescription, like aspirin or cough medicine."
+    },
+    {
+        "question": "What is drug metabolism?",
+        "A": "Drug absorption",
+        "B": "Breaking down drugs in the body",
+        "C": "Drug distribution",
+        "D": "Drug excretion",
+        "answer": "B",
+        "funFact": "Drug metabolism is the process by which the body breaks down medications, usually in the liver."
+    },
+    {
+        "question": "What is a therapeutic effect?",
+        "A": "A side effect",
+        "B": "The intended beneficial effect",
+        "C": "An overdose",
+        "D": "No effect",
+        "answer": "B",
+        "funFact": "A therapeutic effect is the intended beneficial effect of a medication on a disease or condition."
+    },
+    {
+        "question": "What is a contraindication?",
+        "A": "When a drug should be used",
+        "B": "When a drug should not be used",
+        "C": "A side effect",
+        "D": "A dose",
+        "answer": "B",
+        "funFact": "A contraindication is a condition or factor that makes a particular treatment inadvisable."
+    },
+    {
+        "question": "What is the study of drugs called?",
+        "A": "Biology",
+        "B": "Pharmacology",
+        "C": "Chemistry",
+        "D": "Medicine",
+        "answer": "B",
+        "funFact": "Pharmacology is the branch of medicine and biology concerned with drug action and effects."
+    },
+    {
+        "question": "What is a drug interaction?",
+        "A": "One drug only",
+        "B": "When drugs affect each other",
+        "C": "No drug effect",
+        "D": "A single dose",
+        "answer": "B",
+        "funFact": "A drug interaction occurs when one drug affects the activity of another drug when both are taken together."
+    }
+]

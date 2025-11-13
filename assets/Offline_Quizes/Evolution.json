@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who proposed the theory of evolution by natural selection?",
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "Louis Pasteur",
+        "D": "Albert Einstein",
+        "answer": "A",
+        "funFact": "Charles Darwin published 'On the Origin of Species' in 1859, introducing the theory of evolution by natural selection."
+    },
+    {
+        "question": "What is natural selection?",
+        "A": "Random changes",
+        "B": "Survival of the fittest",
+        "C": "Artificial breeding",
+        "D": "Genetic engineering",
+        "answer": "B",
+        "funFact": "Natural selection is the process where organisms better adapted to their environment tend to survive and produce more offspring."
+    },
+    {
+        "question": "How old is the Earth approximately?",
+        "A": "1 billion years",
+        "B": "2.5 billion years",
+        "C": "4.5 billion years",
+        "D": "10 billion years",
+        "answer": "C",
+        "funFact": "Earth is approximately 4.5 billion years old, giving plenty of time for evolution to occur."
+    },
+    {
+        "question": "What is a fossil?",
+        "A": "A living organism",
+        "B": "Preserved remains of ancient life",
+        "C": "A type of rock",
+        "D": "A mineral",
+        "answer": "B",
+        "funFact": "Fossils are the preserved remains or traces of ancient organisms, providing evidence of evolution."
+    },
+    {
+        "question": "What is the smallest unit of evolution?",
+        "A": "Individual",
+        "B": "Population",
+        "C": "Species",
+        "D": "Ecosystem",
+        "answer": "B",
+        "funFact": "Populations, not individuals, evolve. Evolution is the change in allele frequencies in a population over time."
+    },
+    {
+        "question": "What is speciation?",
+        "A": "Extinction of species",
+        "B": "Formation of new species",
+        "C": "Migration",
+        "D": "Adaptation",
+        "answer": "B",
+        "funFact": "Speciation is the evolutionary process by which populations evolve to become distinct species."
+    },
+    {
+        "question": "What is a common ancestor?",
+        "A": "A living relative",
+        "B": "An extinct species from which two or more species evolved",
+        "C": "A fossil",
+        "D": "A mutation",
+        "answer": "B",
+        "funFact": "A common ancestor is an ancestral species from which two or more descendant species evolved."
+    },
+    {
+        "question": "What evidence supports evolution?",
+        "A": "Only fossils",
+        "B": "Fossils, DNA, anatomy, and embryology",
+        "C": "Only DNA",
+        "D": "Only anatomy",
+        "answer": "B",
+        "funFact": "Evolution is supported by multiple lines of evidence including fossils, DNA similarities, comparative anatomy, and embryology."
+    },
+    {
+        "question": "What is adaptive radiation?",
+        "A": "Extinction",
+        "B": "Rapid diversification into many species",
+        "C": "Migration",
+        "D": "Mutation",
+        "answer": "B",
+        "funFact": "Adaptive radiation is the rapid evolution of many diverse species from a common ancestor, often after a major environmental change."
+    },
+    {
+        "question": "What is genetic drift?",
+        "A": "Natural selection",
+        "B": "Random changes in allele frequencies",
+        "C": "Mutation",
+        "D": "Migration",
+        "answer": "B",
+        "funFact": "Genetic drift is the random change in allele frequencies in a population, especially in small populations."
+    },
+    {
+        "question": "What is convergent evolution?",
+        "A": "Same species evolving",
+        "B": "Unrelated species developing similar traits",
+        "C": "Extinction",
+        "D": "Speciation",
+        "answer": "B",
+        "funFact": "Convergent evolution occurs when unrelated species independently evolve similar traits due to similar environmental pressures."
+    },
+    {
+        "question": "What is the origin of life called?",
+        "A": "Evolution",
+        "B": "Abiogenesis",
+        "C": "Speciation",
+        "D": "Adaptation",
+        "answer": "B",
+        "funFact": "Abiogenesis is the natural process by which life arises from non-living matter, distinct from evolution which is the change in existing life."
+    },
+    {
+        "question": "What is a vestigial structure?",
+        "A": "A new adaptation",
+        "B": "A structure with no current function",
+        "C": "A fossil",
+        "D": "A mutation",
+        "answer": "B",
+        "funFact": "Vestigial structures are anatomical features that have lost their original function through evolution, like the human appendix."
+    },
+    {
+        "question": "What is coevolution?",
+        "A": "Extinction",
+        "B": "Species evolving together",
+        "C": "Mutation",
+        "D": "Migration",
+        "answer": "B",
+        "funFact": "Coevolution occurs when two or more species reciprocally affect each other's evolution, like flowers and their pollinators."
+    },
+    {
+        "question": "What is the molecular clock?",
+        "A": "A timepiece",
+        "B": "Using DNA mutations to estimate evolutionary time",
+        "C": "A fossil dating method",
+        "D": "A type of evolution",
+        "answer": "B",
+        "funFact": "The molecular clock uses the rate of genetic mutations to estimate when species diverged from common ancestors."
+    },
+    {
+        "question": "What is punctuated equilibrium?",
+        "A": "Gradual evolution",
+        "B": "Long periods of stability with rapid change",
+        "C": "Constant evolution",
+        "D": "No evolution",
+        "answer": "B",
+        "funFact": "Punctuated equilibrium suggests evolution occurs in rapid bursts separated by long periods of stability."
+    },
+    {
+        "question": "What is homology?",
+        "A": "Similar structures from common ancestry",
+        "B": "Different structures",
+        "C": "Mutations",
+        "D": "Extinction",
+        "answer": "A",
+        "funFact": "Homology refers to similar structures in different species that share a common evolutionary origin, like the forelimbs of mammals."
+    },
+    {
+        "question": "What is the endosymbiotic theory?",
+        "A": "Cell division",
+        "B": "Mitochondria evolved from bacteria",
+        "C": "DNA replication",
+        "D": "Protein synthesis",
+        "answer": "B",
+        "funFact": "The endosymbiotic theory explains how mitochondria and chloroplasts evolved from bacteria that were engulfed by early cells."
+    },
+    {
+        "question": "What is microevolution?",
+        "A": "Large-scale changes",
+        "B": "Small changes within a species",
+        "C": "Extinction",
+        "D": "Speciation",
+        "answer": "B",
+        "funFact": "Microevolution refers to small-scale changes in allele frequencies within a population over a few generations."
+    },
+    {
+        "question": "What is macroevolution?",
+        "A": "Small changes",
+        "B": "Large-scale evolutionary changes over long periods",
+        "C": "Mutation",
+        "D": "Migration",
+        "answer": "B",
+        "funFact": "Macroevolution refers to large-scale evolutionary changes that occur over long periods, including speciation and extinction events."
+    }
+]

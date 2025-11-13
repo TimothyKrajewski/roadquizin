@@ -1,0 +1,453 @@
+[
+    {
+        "question": "What is the capital of Alabama?",
+        "A": "Birmingham",
+        "B": "Montgomery",
+        "C": "Mobile",
+        "D": "Huntsville",
+        "answer": "B",
+        "funFact": "Montgomery has been the capital of Alabama since 1846."
+    },
+    {
+        "question": "What is the capital of Alaska?",
+        "A": "Anchorage",
+        "B": "Fairbanks",
+        "C": "Juneau",
+        "D": "Nome",
+        "answer": "C",
+        "funFact": "Juneau is the only US state capital that borders another country (Canada)."
+    },
+    {
+        "question": "What is the capital of Arizona?",
+        "A": "Phoenix",
+        "B": "Tucson",
+        "C": "Flagstaff",
+        "D": "Mesa",
+        "answer": "A",
+        "funFact": "Phoenix is the most populous state capital in the United States."
+    },
+    {
+        "question": "What is the capital of Arkansas?",
+        "A": "Little Rock",
+        "B": "Fayetteville",
+        "C": "Fort Smith",
+        "D": "Jonesboro",
+        "answer": "A",
+        "funFact": "Little Rock got its name from a small rock formation on the south bank of the Arkansas River."
+    },
+    {
+        "question": "What is the capital of California?",
+        "A": "Los Angeles",
+        "B": "San Francisco",
+        "C": "Sacramento",
+        "D": "San Diego",
+        "answer": "C",
+        "funFact": "Sacramento became the capital in 1854, replacing Benicia."
+    },
+    {
+        "question": "What is the capital of Colorado?",
+        "A": "Denver",
+        "B": "Colorado Springs",
+        "C": "Aurora",
+        "D": "Fort Collins",
+        "answer": "A",
+        "funFact": "Denver is nicknamed the 'Mile High City' because it's exactly one mile above sea level."
+    },
+    {
+        "question": "What is the capital of Connecticut?",
+        "A": "Hartford",
+        "B": "New Haven",
+        "C": "Stamford",
+        "D": "Bridgeport",
+        "answer": "A",
+        "funFact": "Hartford has been the capital of Connecticut since 1875."
+    },
+    {
+        "question": "What is the capital of Delaware?",
+        "A": "Wilmington",
+        "B": "Dover",
+        "C": "Newark",
+        "D": "Middletown",
+        "answer": "B",
+        "funFact": "Dover is the second-smallest state capital by population."
+    },
+    {
+        "question": "What is the capital of Florida?",
+        "A": "Miami",
+        "B": "Tampa",
+        "C": "Tallahassee",
+        "D": "Orlando",
+        "answer": "C",
+        "funFact": "Tallahassee is located in the Florida Panhandle, far from the state's major population centers."
+    },
+    {
+        "question": "What is the capital of Georgia?",
+        "A": "Atlanta",
+        "B": "Savannah",
+        "C": "Augusta",
+        "D": "Columbus",
+        "answer": "A",
+        "funFact": "Atlanta hosted the 1996 Summer Olympics."
+    },
+    {
+        "question": "What is the capital of Hawaii?",
+        "A": "Honolulu",
+        "B": "Hilo",
+        "C": "Kailua",
+        "D": "Kaneohe",
+        "answer": "A",
+        "funFact": "Honolulu is the only state capital with a royal palace (Iolani Palace)."
+    },
+    {
+        "question": "What is the capital of Idaho?",
+        "A": "Boise",
+        "B": "Nampa",
+        "C": "Meridian",
+        "D": "Idaho Falls",
+        "answer": "A",
+        "funFact": "Boise is the largest city in Idaho and means 'wooded' in French."
+    },
+    {
+        "question": "What is the capital of Illinois?",
+        "A": "Chicago",
+        "B": "Springfield",
+        "C": "Peoria",
+        "D": "Rockford",
+        "answer": "B",
+        "funFact": "Springfield is where Abraham Lincoln lived and is buried."
+    },
+    {
+        "question": "What is the capital of Indiana?",
+        "A": "Indianapolis",
+        "B": "Fort Wayne",
+        "C": "Evansville",
+        "D": "South Bend",
+        "answer": "A",
+        "funFact": "Indianapolis is known as the 'Racing Capital of the World' for the Indianapolis 500."
+    },
+    {
+        "question": "What is the capital of Iowa?",
+        "A": "Des Moines",
+        "B": "Cedar Rapids",
+        "C": "Davenport",
+        "D": "Sioux City",
+        "answer": "A",
+        "funFact": "Des Moines is the largest city in Iowa and hosts the Iowa State Fair."
+    },
+    {
+        "question": "What is the capital of Kansas?",
+        "A": "Wichita",
+        "B": "Overland Park",
+        "C": "Topeka",
+        "D": "Kansas City",
+        "answer": "C",
+        "funFact": "Topeka became the capital in 1861 when Kansas became a state."
+    },
+    {
+        "question": "What is the capital of Kentucky?",
+        "A": "Louisville",
+        "B": "Lexington",
+        "C": "Frankfort",
+        "D": "Bowling Green",
+        "answer": "C",
+        "funFact": "Frankfort is one of the smallest state capitals by population."
+    },
+    {
+        "question": "What is the capital of Louisiana?",
+        "A": "New Orleans",
+        "B": "Baton Rouge",
+        "C": "Shreveport",
+        "D": "Lafayette",
+        "answer": "B",
+        "funFact": "Baton Rouge means 'Red Stick' in French."
+    },
+    {
+        "question": "What is the capital of Maine?",
+        "A": "Portland",
+        "B": "Augusta",
+        "C": "Lewiston",
+        "D": "Bangor",
+        "answer": "B",
+        "funFact": "Augusta is the easternmost state capital in the United States."
+    },
+    {
+        "question": "What is the capital of Maryland?",
+        "A": "Baltimore",
+        "B": "Annapolis",
+        "C": "Frederick",
+        "D": "Rockville",
+        "answer": "B",
+        "funFact": "Annapolis is home to the United States Naval Academy."
+    },
+    {
+        "question": "What is the capital of Massachusetts?",
+        "A": "Boston",
+        "B": "Worcester",
+        "C": "Springfield",
+        "D": "Cambridge",
+        "answer": "A",
+        "funFact": "Boston is one of the oldest cities in the United States, founded in 1630."
+    },
+    {
+        "question": "What is the capital of Michigan?",
+        "A": "Detroit",
+        "B": "Grand Rapids",
+        "C": "Lansing",
+        "D": "Warren",
+        "answer": "C",
+        "funFact": "Lansing is the only state capital that is not also the county seat."
+    },
+    {
+        "question": "What is the capital of Minnesota?",
+        "A": "Minneapolis",
+        "B": "Saint Paul",
+        "C": "Rochester",
+        "D": "Duluth",
+        "answer": "B",
+        "funFact": "Saint Paul and Minneapolis are known as the 'Twin Cities.'"
+    },
+    {
+        "question": "What is the capital of Mississippi?",
+        "A": "Jackson",
+        "B": "Gulfport",
+        "C": "Southaven",
+        "D": "Hattiesburg",
+        "answer": "A",
+        "funFact": "Jackson is named after Andrew Jackson, the seventh President of the United States."
+    },
+    {
+        "question": "What is the capital of Missouri?",
+        "A": "Kansas City",
+        "B": "St. Louis",
+        "C": "Jefferson City",
+        "D": "Springfield",
+        "answer": "C",
+        "funFact": "Jefferson City is located in the center of the state."
+    },
+    {
+        "question": "What is the capital of Montana?",
+        "A": "Billings",
+        "B": "Missoula",
+        "C": "Helena",
+        "D": "Great Falls",
+        "answer": "C",
+        "funFact": "Helena was founded during the Montana gold rush in the 1860s."
+    },
+    {
+        "question": "What is the capital of Nebraska?",
+        "A": "Omaha",
+        "B": "Lincoln",
+        "C": "Bellevue",
+        "D": "Grand Island",
+        "answer": "B",
+        "funFact": "Lincoln is named after Abraham Lincoln and is home to the University of Nebraska."
+    },
+    {
+        "question": "What is the capital of Nevada?",
+        "A": "Las Vegas",
+        "B": "Reno",
+        "C": "Carson City",
+        "D": "Henderson",
+        "answer": "C",
+        "funFact": "Carson City is an independent city and not part of any county."
+    },
+    {
+        "question": "What is the capital of New Hampshire?",
+        "A": "Manchester",
+        "B": "Nashua",
+        "C": "Concord",
+        "D": "Derry",
+        "answer": "C",
+        "funFact": "Concord has been the capital of New Hampshire since 1808."
+    },
+    {
+        "question": "What is the capital of New Jersey?",
+        "A": "Newark",
+        "B": "Jersey City",
+        "C": "Trenton",
+        "D": "Paterson",
+        "answer": "C",
+        "funFact": "Trenton was the site of George Washington's first victory in the Revolutionary War."
+    },
+    {
+        "question": "What is the capital of New Mexico?",
+        "A": "Albuquerque",
+        "B": "Las Cruces",
+        "C": "Santa Fe",
+        "D": "Rio Rancho",
+        "answer": "C",
+        "funFact": "Santa Fe is the highest state capital at 7,000 feet above sea level."
+    },
+    {
+        "question": "What is the capital of New York?",
+        "A": "New York City",
+        "B": "Buffalo",
+        "C": "Albany",
+        "D": "Rochester",
+        "answer": "C",
+        "funFact": "Albany is one of the oldest continuously settled cities in the United States."
+    },
+    {
+        "question": "What is the capital of North Carolina?",
+        "A": "Charlotte",
+        "B": "Raleigh",
+        "C": "Greensboro",
+        "D": "Durham",
+        "answer": "B",
+        "funFact": "Raleigh is known as the 'City of Oaks' for its many oak trees."
+    },
+    {
+        "question": "What is the capital of North Dakota?",
+        "A": "Fargo",
+        "B": "Bismarck",
+        "C": "Grand Forks",
+        "D": "Minot",
+        "answer": "B",
+        "funFact": "Bismarck is named after German Chancellor Otto von Bismarck."
+    },
+    {
+        "question": "What is the capital of Ohio?",
+        "A": "Cleveland",
+        "B": "Columbus",
+        "C": "Cincinnati",
+        "D": "Toledo",
+        "answer": "B",
+        "funFact": "Columbus is the largest city in Ohio and the 14th largest city in the United States."
+    },
+    {
+        "question": "What is the capital of Oklahoma?",
+        "A": "Oklahoma City",
+        "B": "Tulsa",
+        "C": "Norman",
+        "D": "Broken Arrow",
+        "answer": "A",
+        "funFact": "Oklahoma City is the largest city in Oklahoma and the state capital."
+    },
+    {
+        "question": "What is the capital of Oregon?",
+        "A": "Portland",
+        "B": "Salem",
+        "C": "Eugene",
+        "D": "Gresham",
+        "answer": "B",
+        "funFact": "Salem is located in the Willamette Valley and is known for its cherry trees."
+    },
+    {
+        "question": "What is the capital of Pennsylvania?",
+        "A": "Philadelphia",
+        "B": "Pittsburgh",
+        "C": "Harrisburg",
+        "D": "Allentown",
+        "answer": "C",
+        "funFact": "Harrisburg is located on the Susquehanna River."
+    },
+    {
+        "question": "What is the capital of Rhode Island?",
+        "A": "Providence",
+        "B": "Warwick",
+        "C": "Cranston",
+        "D": "Pawtucket",
+        "answer": "A",
+        "funFact": "Providence is the largest city in Rhode Island, though the state capital is technically Newport in some contexts, but Providence serves as the de facto capital."
+    },
+    {
+        "question": "What is the capital of South Carolina?",
+        "A": "Charleston",
+        "B": "Columbia",
+        "C": "North Charleston",
+        "D": "Greenville",
+        "answer": "B",
+        "funFact": "Columbia is located at the confluence of the Saluda and Broad Rivers."
+    },
+    {
+        "question": "What is the capital of South Dakota?",
+        "A": "Sioux Falls",
+        "B": "Rapid City",
+        "C": "Pierre",
+        "D": "Aberdeen",
+        "answer": "C",
+        "funFact": "Pierre is the second-smallest state capital by population."
+    },
+    {
+        "question": "What is the capital of Tennessee?",
+        "A": "Memphis",
+        "B": "Nashville",
+        "C": "Knoxville",
+        "D": "Chattanooga",
+        "answer": "B",
+        "funFact": "Nashville is known as 'Music City' for its country music industry."
+    },
+    {
+        "question": "What is the capital of Texas?",
+        "A": "Houston",
+        "B": "Dallas",
+        "C": "Austin",
+        "D": "San Antonio",
+        "answer": "C",
+        "funFact": "Austin is known as the 'Live Music Capital of the World.'"
+    },
+    {
+        "question": "What is the capital of Utah?",
+        "A": "Salt Lake City",
+        "B": "West Valley City",
+        "C": "Provo",
+        "D": "West Jordan",
+        "answer": "A",
+        "funFact": "Salt Lake City hosted the 2002 Winter Olympics."
+    },
+    {
+        "question": "What is the capital of Vermont?",
+        "A": "Burlington",
+        "B": "Montpelier",
+        "C": "Essex",
+        "D": "South Burlington",
+        "answer": "B",
+        "funFact": "Montpelier is the smallest state capital by population."
+    },
+    {
+        "question": "What is the capital of Virginia?",
+        "A": "Virginia Beach",
+        "B": "Norfolk",
+        "C": "Richmond",
+        "D": "Chesapeake",
+        "answer": "C",
+        "funFact": "Richmond served as the capital of the Confederacy during the Civil War."
+    },
+    {
+        "question": "What is the capital of Washington?",
+        "A": "Seattle",
+        "B": "Spokane",
+        "C": "Olympia",
+        "D": "Tacoma",
+        "answer": "C",
+        "funFact": "Olympia is located at the southern end of Puget Sound."
+    },
+    {
+        "question": "What is the capital of West Virginia?",
+        "A": "Charleston",
+        "B": "Huntington",
+        "C": "Parkersburg",
+        "D": "Wheeling",
+        "answer": "A",
+        "funFact": "Charleston is the largest city in West Virginia."
+    },
+    {
+        "question": "What is the capital of Wisconsin?",
+        "A": "Milwaukee",
+        "B": "Madison",
+        "C": "Green Bay",
+        "D": "Kenosha",
+        "answer": "B",
+        "funFact": "Madison is built on an isthmus between two lakes and is home to the University of Wisconsin."
+    },
+    {
+        "question": "What is the capital of Wyoming?",
+        "A": "Casper",
+        "B": "Cheyenne",
+        "C": "Laramie",
+        "D": "Gillette",
+        "answer": "B",
+        "funFact": "Cheyenne is the capital and most populous city in Wyoming."
+    }
+]
+

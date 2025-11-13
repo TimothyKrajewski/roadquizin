@@ -1,0 +1,191 @@
+[
+    {
+        "question": "What is the largest rainforest in the world?",
+        "A": "Congo",
+        "B": "Amazon",
+        "C": "Southeast Asian",
+        "D": "Daintree",
+        "answer": "B",
+        "funFact": "The Amazon Rainforest is the largest rainforest in the world, covering about 2.1 million square miles across South America."
+    },
+    {
+        "question": "What is a rainforest?",
+        "A": "A regular forest",
+        "B": "A dense forest with high rainfall",
+        "C": "A dry forest",
+        "D": "A cold forest",
+        "answer": "B",
+        "funFact": "A rainforest is a dense forest characterized by high rainfall, typically receiving more than 80 inches per year."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest ecology",
+        "C": "Tropical biology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through ecology, biology, and environmental science, exploring their incredible biodiversity."
+    },
+    {
+        "question": "What is the importance of rainforests?",
+        "A": "Not important",
+        "B": "Biodiversity, climate regulation, and oxygen production",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Rainforests are crucial for biodiversity, climate regulation, oxygen production, and carbon storage."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest studies",
+        "C": "Tropical ecology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through ecology, biology, and environmental science."
+    },
+    {
+        "question": "What is the impact of rainforests?",
+        "A": "No impact",
+        "B": "Essential for global climate and biodiversity",
+        "C": "Minor changes",
+        "D": "Only affects some regions",
+        "answer": "B",
+        "funFact": "Rainforests are essential for global climate regulation, biodiversity, and the water cycle."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest geography",
+        "C": "Environmental studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through geography, ecology, and environmental research."
+    },
+    {
+        "question": "What is the importance of rainforests?",
+        "A": "Not important",
+        "B": "Ecological and climate significance",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Rainforests have immense ecological and climate significance, supporting half of the world's plant and animal species."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest research",
+        "C": "Tropical studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through ecology, biology, and tropical research, exploring their unique ecosystems."
+    },
+    {
+        "question": "What is the impact of rainforests?",
+        "A": "No impact",
+        "B": "Critical for Earth's climate and life",
+        "C": "Minor changes",
+        "D": "Only affects rainforests",
+        "answer": "B",
+        "funFact": "Rainforests are critical for Earth's climate, producing oxygen, storing carbon, and supporting incredible biodiversity."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest studies",
+        "C": "Biodiversity research",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through ecology, biology, and biodiversity research."
+    },
+    {
+        "question": "What is the importance of rainforests?",
+        "A": "Not important",
+        "B": "Biodiversity hotspots and climate regulation",
+        "C": "Minor importance",
+        "D": "Only for some regions",
+        "answer": "B",
+        "funFact": "Rainforests are biodiversity hotspots, home to millions of species, and play a key role in climate regulation."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest geography",
+        "C": "Conservation biology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through geography, ecology, and conservation biology."
+    },
+    {
+        "question": "What is the impact of rainforests?",
+        "A": "No impact",
+        "B": "Fundamental for global ecosystems",
+        "C": "Minor changes",
+        "D": "Only affects some areas",
+        "answer": "B",
+        "funFact": "Rainforests are fundamental for global ecosystems, influencing weather patterns and supporting life worldwide."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest research",
+        "C": "Geographic studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through geography, ecology, and environmental science."
+    },
+    {
+        "question": "What is the importance of rainforests?",
+        "A": "Not important",
+        "B": "Essential for life on Earth",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Rainforests are essential for life on Earth, producing oxygen, regulating climate, and supporting biodiversity."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest studies",
+        "C": "Tropical ecology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through ecology, biology, and tropical research, understanding their importance and threats."
+    },
+    {
+        "question": "What is the impact of rainforests?",
+        "A": "No impact",
+        "B": "Vital for climate, biodiversity, and human life",
+        "C": "Minor changes",
+        "D": "Only affects rainforests",
+        "answer": "B",
+        "funFact": "Rainforests are vital for climate stability, biodiversity, and provide resources and medicines important for human life."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest geography",
+        "C": "Environmental studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through geography, ecology, and environmental science, exploring their ecosystems and conservation."
+    },
+    {
+        "question": "What is the importance of rainforests?",
+        "A": "Not important",
+        "B": "Critical ecosystems for Earth's health",
+        "C": "Minor importance",
+        "D": "Only for some regions",
+        "answer": "B",
+        "funFact": "Rainforests are critical ecosystems for Earth's health, supporting biodiversity and regulating global climate."
+    },
+    {
+        "question": "What is the study of rainforests called?",
+        "A": "Rainforestology",
+        "B": "Rainforest research",
+        "C": "Tropical studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Rainforests are studied through ecology, biology, and tropical research, understanding their unique ecosystems and importance."
+    }
+]

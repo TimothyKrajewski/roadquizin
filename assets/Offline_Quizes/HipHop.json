@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is hip hop?",
+        "A": "A single element",
+        "B": "A culture with music, dance, art, and fashion",
+        "C": "Just music",
+        "D": "Just dance",
+        "answer": "B",
+        "funFact": "Hip hop is a culture that includes music (rapping), DJing, breakdancing, and graffiti art."
+    },
+    {
+        "question": "What is rapping?",
+        "A": "Singing",
+        "B": "Rhythmic spoken word over beats",
+        "C": "Playing instruments",
+        "D": "Dancing",
+        "answer": "B",
+        "funFact": "Rapping is rhythmic spoken word performed over beats, a key element of hip hop music."
+    },
+    {
+        "question": "What is a DJ?",
+        "A": "A singer",
+        "B": "A disc jockey who plays and mixes music",
+        "C": "A dancer",
+        "D": "A rapper",
+        "answer": "B",
+        "funFact": "A DJ (disc jockey) plays and mixes music, creating beats and scratching records in hip hop."
+    },
+    {
+        "question": "What is breakdancing?",
+        "A": "A type of music",
+        "B": "A style of street dance",
+        "C": "A type of art",
+        "D": "A type of fashion",
+        "answer": "B",
+        "funFact": "Breakdancing (breaking) is a style of street dance with acrobatic moves, spins, and freezes."
+    },
+    {
+        "question": "What is graffiti?",
+        "A": "A type of music",
+        "B": "Visual art on walls",
+        "C": "A type of dance",
+        "D": "A type of fashion",
+        "answer": "B",
+        "funFact": "Graffiti is visual art painted or drawn on walls, a key element of hip hop culture."
+    },
+    {
+        "question": "What is a beat?",
+        "A": "A song",
+        "B": "The rhythm and instrumental track",
+        "C": "A lyric",
+        "D": "A dance",
+        "answer": "B",
+        "funFact": "A beat is the rhythm and instrumental track that rappers perform over."
+    },
+    {
+        "question": "What is a producer?",
+        "A": "A rapper",
+        "B": "Someone who creates beats",
+        "C": "A dancer",
+        "D": "A DJ",
+        "answer": "B",
+        "funFact": "A producer creates the beats and instrumental tracks for hip hop songs."
+    },
+    {
+        "question": "What is a verse?",
+        "A": "A chorus",
+        "B": "A section of rap lyrics",
+        "C": "A beat",
+        "D": "A dance",
+        "answer": "B",
+        "funFact": "A verse is a section of rap lyrics, typically 16 bars, where the rapper tells their story."
+    },
+    {
+        "question": "What is a chorus?",
+        "A": "A verse",
+        "B": "The repeated section of a song",
+        "C": "A beat",
+        "D": "A dance",
+        "answer": "B",
+        "funFact": "A chorus (hook) is the repeated section of a hip hop song that's catchy and memorable."
+    },
+    {
+        "question": "What is sampling?",
+        "A": "Creating new music",
+        "B": "Using parts of existing songs",
+        "C": "Writing lyrics",
+        "D": "Dancing",
+        "answer": "B",
+        "funFact": "Sampling is using parts of existing songs to create new beats, a fundamental technique in hip hop."
+    },
+    {
+        "question": "What is scratching?",
+        "A": "A type of singing",
+        "B": "A DJ technique manipulating records",
+        "C": "A type of dancing",
+        "D": "A type of art",
+        "answer": "B",
+        "funFact": "Scratching is a DJ technique where records are moved back and forth to create rhythmic sounds."
+    },
+    {
+        "question": "What is freestyling?",
+        "A": "Written rap",
+        "B": "Improvising rap lyrics",
+        "C": "A beat",
+        "D": "A dance",
+        "answer": "B",
+        "funFact": "Freestyling is improvising rap lyrics on the spot, without writing them beforehand."
+    },
+    {
+        "question": "What is a battle?",
+        "A": "A fight",
+        "B": "A competition between rappers",
+        "C": "A song",
+        "D": "A dance",
+        "answer": "B",
+        "funFact": "A battle is a competition where rappers compete by freestyling or performing against each other."
+    },
+    {
+        "question": "What is the origin of hip hop?",
+        "A": "Europe",
+        "B": "The Bronx, New York in the 1970s",
+        "C": "Los Angeles",
+        "D": "Chicago",
+        "answer": "B",
+        "funFact": "Hip hop originated in the Bronx, New York, in the 1970s, created by African American and Latino youth."
+    },
+    {
+        "question": "What is an MC?",
+        "A": "A DJ",
+        "B": "A master of ceremonies or rapper",
+        "C": "A dancer",
+        "D": "An artist",
+        "answer": "B",
+        "funFact": "MC (Master of Ceremonies) is another term for a rapper who performs and entertains."
+    },
+    {
+        "question": "What is a mixtape?",
+        "A": "An album",
+        "B": "A collection of songs, often free",
+        "C": "A single song",
+        "D": "A concert",
+        "answer": "B",
+        "funFact": "A mixtape is a collection of songs, often released for free, showcasing a rapper's skills."
+    },
+    {
+        "question": "What is a flow?",
+        "A": "A beat",
+        "B": "A rapper's rhythm and delivery",
+        "C": "A dance",
+        "D": "An art style",
+        "answer": "B",
+        "funFact": "Flow is a rapper's rhythm, cadence, and delivery style when performing lyrics."
+    },
+    {
+        "question": "What is the study of hip hop called?",
+        "A": "Hip hopology",
+        "B": "Hip hop studies",
+        "C": "Musicology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Hip hop is studied through musicology, cultural studies, and hip hop studies programs."
+    },
+    {
+        "question": "What is a cypher?",
+        "A": "A single rapper",
+        "B": "A circle of rappers taking turns",
+        "C": "A beat",
+        "D": "A dance",
+        "answer": "B",
+        "funFact": "A cypher is a circle of rappers, beatboxers, and/or breakdancers who take turns performing."
+    },
+    {
+        "question": "What is the Golden Age of Hip Hop?",
+        "A": "1960s",
+        "B": "Late 1980s to early 1990s",
+        "C": "2000s",
+        "D": "2010s",
+        "answer": "B",
+        "funFact": "The Golden Age of Hip Hop (late 1980s to early 1990s) saw innovation and mainstream success."
+    }
+]

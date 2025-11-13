@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the capital of Brazil?",
+        "A": "São Paulo",
+        "B": "Rio de Janeiro",
+        "C": "Brasília",
+        "D": "Salvador",
+        "answer": "C",
+        "funFact": "Brasília is the capital of Brazil, purpose-built in 1960 and a UNESCO World Heritage Site."
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "A": "Buenos Aires",
+        "B": "Córdoba",
+        "C": "Rosario",
+        "D": "Mendoza",
+        "answer": "A",
+        "funFact": "Buenos Aires is the capital of Argentina and one of the largest cities in South America."
+    },
+    {
+        "question": "What is the capital of Colombia?",
+        "A": "Medellín",
+        "B": "Bogotá",
+        "C": "Cali",
+        "D": "Barranquilla",
+        "answer": "B",
+        "funFact": "Bogotá is the capital of Colombia, located at 8,660 feet above sea level in the Andes Mountains."
+    },
+    {
+        "question": "What is the capital of Chile?",
+        "A": "Valparaíso",
+        "B": "Santiago",
+        "C": "Concepción",
+        "D": "Antofagasta",
+        "answer": "B",
+        "funFact": "Santiago is the capital of Chile, located in a valley surrounded by the Andes Mountains."
+    },
+    {
+        "question": "What is the capital of Peru?",
+        "A": "Arequipa",
+        "B": "Lima",
+        "C": "Trujillo",
+        "D": "Cusco",
+        "answer": "B",
+        "funFact": "Lima is the capital of Peru and the second-driest capital city in the world after Cairo."
+    },
+    {
+        "question": "What is the capital of Venezuela?",
+        "A": "Maracaibo",
+        "B": "Caracas",
+        "C": "Valencia",
+        "D": "Barquisimeto",
+        "answer": "B",
+        "funFact": "Caracas is the capital of Venezuela, located in a valley at 3,000 feet above sea level."
+    },
+    {
+        "question": "What is the capital of Ecuador?",
+        "A": "Guayaquil",
+        "B": "Quito",
+        "C": "Cuenca",
+        "D": "Santo Domingo",
+        "answer": "B",
+        "funFact": "Quito is the capital of Ecuador, located at 9,350 feet above sea level, making it one of the highest capitals in the world."
+    },
+    {
+        "question": "What is the capital of Bolivia?",
+        "A": "Santa Cruz",
+        "B": "La Paz",
+        "C": "Sucre",
+        "D": "Cochabamba",
+        "answer": "C",
+        "funFact": "Sucre is the constitutional capital of Bolivia, while La Paz is the seat of government."
+    },
+    {
+        "question": "What is the capital of Paraguay?",
+        "A": "Ciudad del Este",
+        "B": "Asunción",
+        "C": "San Lorenzo",
+        "D": "Luque",
+        "answer": "B",
+        "funFact": "Asunción is the capital of Paraguay, one of the oldest cities in South America, founded in 1537."
+    },
+    {
+        "question": "What is the capital of Uruguay?",
+        "A": "Salto",
+        "B": "Montevideo",
+        "C": "Ciudad de la Costa",
+        "D": "Paysandú",
+        "answer": "B",
+        "funFact": "Montevideo is the capital of Uruguay, located on the Río de la Plata."
+    },
+    {
+        "question": "What is the capital of Guyana?",
+        "A": "Linden",
+        "B": "Georgetown",
+        "C": "New Amsterdam",
+        "D": "Corriverton",
+        "answer": "B",
+        "funFact": "Georgetown is the capital of Guyana, located on the Atlantic coast at the mouth of the Demerara River."
+    },
+    {
+        "question": "What is the capital of Suriname?",
+        "A": "Lelydorp",
+        "B": "Paramaribo",
+        "C": "Nieuw Nickerie",
+        "D": "Moengo",
+        "answer": "B",
+        "funFact": "Paramaribo is the capital of Suriname, located on the Suriname River near the Atlantic coast."
+    },
+    {
+        "question": "What is the capital of French Guiana?",
+        "A": "Kourou",
+        "B": "Cayenne",
+        "C": "Saint-Laurent-du-Maroni",
+        "D": "Matoury",
+        "answer": "B",
+        "funFact": "Cayenne is the capital of French Guiana, an overseas department of France."
+    },
+    {
+        "question": "What is the study of South American countries called?",
+        "A": "South Americanology",
+        "B": "Latin American studies",
+        "C": "Geography",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "South American countries are studied through geography, Latin American studies, and regional studies."
+    },
+    {
+        "question": "What is the importance of South American capitals?",
+        "A": "Not important",
+        "B": "Centers of government, culture, and economy",
+        "C": "Minor importance",
+        "D": "Only for some countries",
+        "answer": "B",
+        "funFact": "South American capitals are centers of government, culture, economy, and history for their respective countries."
+    },
+    {
+        "question": "What is the study of South American countries called?",
+        "A": "South Americanology",
+        "B": "South American geography",
+        "C": "Regional studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "South American countries are studied through geography, history, and regional studies."
+    },
+    {
+        "question": "What is the impact of South American capitals?",
+        "A": "No impact",
+        "B": "Major centers of culture and politics",
+        "C": "Minor changes",
+        "D": "Only affects some countries",
+        "answer": "B",
+        "funFact": "South American capitals are major centers of culture, politics, and economy, influencing their countries and regions."
+    },
+    {
+        "question": "What is the study of South American countries called?",
+        "A": "South Americanology",
+        "B": "South American studies",
+        "C": "Geography",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "South American countries are studied through geography, history, and cultural studies."
+    },
+    {
+        "question": "What is the importance of South American capitals?",
+        "A": "Not important",
+        "B": "Essential centers of national life",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "South American capitals are essential centers of national life, housing government, culture, and major institutions."
+    },
+    {
+        "question": "What is the study of South American countries called?",
+        "A": "South Americanology",
+        "B": "South American geography",
+        "C": "Regional studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "South American countries are studied through geography, history, and regional studies."
+    }
+]

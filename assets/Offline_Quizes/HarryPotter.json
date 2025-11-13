@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who wrote the Harry Potter series?",
+        "A": "J.K. Rowling",
+        "B": "J.R.R. Tolkien",
+        "C": "C.S. Lewis",
+        "D": "Stephen King",
+        "answer": "A",
+        "funFact": "J.K. Rowling wrote all seven Harry Potter books, which have sold over 500 million copies worldwide."
+    },
+    {
+        "question": "What is the name of Harry's owl?",
+        "A": "Errol",
+        "B": "Pigwidgeon",
+        "C": "Hedwig",
+        "D": "Crookshanks",
+        "answer": "C",
+        "funFact": "Hedwig is Harry's snowy owl, given to him by Hagrid for his 11th birthday."
+    },
+    {
+        "question": "What is the name of the wizarding school?",
+        "A": "Hogwarts",
+        "B": "Beauxbatons",
+        "C": "Durmstrang",
+        "D": "Ilvermorny",
+        "answer": "A",
+        "funFact": "Hogwarts School of Witchcraft and Wizardry is the main setting for the Harry Potter series."
+    },
+    {
+        "question": "What house is Harry Potter in?",
+        "A": "Slytherin",
+        "B": "Hufflepuff",
+        "C": "Ravenclaw",
+        "D": "Gryffindor",
+        "answer": "D",
+        "funFact": "Harry Potter is sorted into Gryffindor house, known for bravery and courage."
+    },
+    {
+        "question": "What is the name of Voldemort's snake?",
+        "A": "Nagini",
+        "B": "Basilisk",
+        "C": "Aragog",
+        "D": "Fang",
+        "answer": "A",
+        "funFact": "Nagini is Voldemort's pet snake and one of his Horcruxes."
+    },
+    {
+        "question": "What position does Harry play in Quidditch?",
+        "A": "Chaser",
+        "B": "Beater",
+        "C": "Keeper",
+        "D": "Seeker",
+        "answer": "D",
+        "funFact": "Harry plays Seeker for Gryffindor, the position that catches the Golden Snitch."
+    },
+    {
+        "question": "What is the name of the three-headed dog?",
+        "A": "Fang",
+        "B": "Fluffy",
+        "C": "Padfoot",
+        "D": "Crookshanks",
+        "answer": "B",
+        "funFact": "Fluffy is the three-headed dog that guards the Philosopher's Stone in the first book."
+    },
+    {
+        "question": "What is Harry's mother's name?",
+        "A": "Lily",
+        "B": "Petunia",
+        "C": "Molly",
+        "D": "Narcissa",
+        "answer": "A",
+        "funFact": "Lily Potter (née Evans) is Harry's mother, who died protecting him from Voldemort."
+    },
+    {
+        "question": "What is the name of the train that takes students to Hogwarts?",
+        "A": "The Express",
+        "B": "The Hogwarts Express",
+        "C": "The Magic Express",
+        "D": "The Wizard Express",
+        "answer": "B",
+        "funFact": "The Hogwarts Express departs from Platform 9¾ at King's Cross Station."
+    },
+    {
+        "question": "What is the name of the gamekeeper at Hogwarts?",
+        "A": "Severus Snape",
+        "B": "Rubeus Hagrid",
+        "C": "Remus Lupin",
+        "D": "Albus Dumbledore",
+        "answer": "B",
+        "funFact": "Rubeus Hagrid is the half-giant gamekeeper and Keeper of Keys and Grounds at Hogwarts."
+    },
+    {
+        "question": "What is the name of the Dark Lord?",
+        "A": "Grindelwald",
+        "B": "Voldemort",
+        "C": "Malfoy",
+        "D": "Black",
+        "answer": "B",
+        "funFact": "Lord Voldemort, also known as He-Who-Must-Not-Be-Named, is the main antagonist."
+    },
+    {
+        "question": "What is the name of Hermione's cat?",
+        "A": "Hedwig",
+        "B": "Crookshanks",
+        "C": "Scabbers",
+        "D": "Fang",
+        "answer": "B",
+        "funFact": "Crookshanks is Hermione's half-Kneazle cat that helps identify Scabbers as Peter Pettigrew."
+    },
+    {
+        "question": "What is the name of Ron's pet rat?",
+        "A": "Scabbers",
+        "B": "Crookshanks",
+        "C": "Hedwig",
+        "D": "Fang",
+        "answer": "A",
+        "funFact": "Scabbers is actually Peter Pettigrew, an Animagus who betrayed Harry's parents."
+    },
+    {
+        "question": "What is the name of the sport played on broomsticks?",
+        "A": "Quidditch",
+        "B": "Quodpot",
+        "C": "Broomball",
+        "D": "Flying",
+        "answer": "A",
+        "funFact": "Quidditch is the most popular sport in the wizarding world, played on broomsticks."
+    },
+    {
+        "question": "What is the name of the wizarding bank?",
+        "A": "Gringotts",
+        "B": "Wizard Bank",
+        "C": "Magic Bank",
+        "D": "Hogwarts Bank",
+        "answer": "A",
+        "funFact": "Gringotts is the wizarding bank run by goblins, located in Diagon Alley."
+    },
+    {
+        "question": "What is the name of the street where wizards shop?",
+        "A": "Knockturn Alley",
+        "B": "Diagon Alley",
+        "C": "Hogsmeade",
+        "D": "Godric's Hollow",
+        "answer": "B",
+        "funFact": "Diagon Alley is the main shopping street for wizards, hidden from Muggles."
+    },
+    {
+        "question": "What is the name of Harry's godfather?",
+        "A": "Remus Lupin",
+        "B": "Severus Snape",
+        "C": "Sirius Black",
+        "D": "James Potter",
+        "answer": "C",
+        "funFact": "Sirius Black is Harry's godfather and his father's best friend."
+    },
+    {
+        "question": "What is the name of the Defense Against the Dark Arts teacher in book 3?",
+        "A": "Severus Snape",
+        "B": "Remus Lupin",
+        "C": "Gilderoy Lockhart",
+        "D": "Dolores Umbridge",
+        "answer": "B",
+        "funFact": "Remus Lupin teaches Defense Against the Dark Arts in Harry's third year and is a werewolf."
+    },
+    {
+        "question": "What is the name of the spell that creates light?",
+        "A": "Lumos",
+        "B": "Expelliarmus",
+        "C": "Wingardium Leviosa",
+        "D": "Accio",
+        "answer": "A",
+        "funFact": "Lumos creates light at the tip of the wand, useful for seeing in the dark."
+    },
+    {
+        "question": "What is the name of the spell that disarms an opponent?",
+        "A": "Expelliarmus",
+        "B": "Stupefy",
+        "C": "Petrificus Totalus",
+        "D": "Avada Kedavra",
+        "answer": "A",
+        "funFact": "Expelliarmus is the disarming charm, Harry's signature spell."
+    }
+]

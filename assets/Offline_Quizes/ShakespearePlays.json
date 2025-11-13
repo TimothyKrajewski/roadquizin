@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "A": "Charles Dickens",
+        "B": "William Shakespeare",
+        "C": "Jane Austen",
+        "D": "Mark Twain",
+        "answer": "B",
+        "funFact": "William Shakespeare wrote Romeo and Juliet, one of his most famous tragedies about two young lovers."
+    },
+    {
+        "question": "What is Hamlet?",
+        "A": "A comedy",
+        "B": "A tragedy by Shakespeare",
+        "C": "A history play",
+        "D": "A poem",
+        "answer": "B",
+        "funFact": "Hamlet is one of Shakespeare's most famous tragedies, featuring the famous line 'To be or not to be.'"
+    },
+    {
+        "question": "What is Macbeth?",
+        "A": "A comedy",
+        "B": "A tragedy by Shakespeare",
+        "C": "A history play",
+        "D": "A poem",
+        "answer": "B",
+        "funFact": "Macbeth is a tragedy by Shakespeare about a Scottish general who becomes king through murder."
+    },
+    {
+        "question": "What is A Midsummer Night's Dream?",
+        "A": "A tragedy",
+        "B": "A comedy by Shakespeare",
+        "C": "A history play",
+        "D": "A poem",
+        "answer": "B",
+        "funFact": "A Midsummer Night's Dream is one of Shakespeare's most popular comedies, featuring fairies and mistaken identities."
+    },
+    {
+        "question": "What is the study of Shakespeare called?",
+        "A": "Shakespeareology",
+        "B": "Shakespeare studies",
+        "C": "English literature",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Shakespeare is studied through English literature, drama, and Shakespeare studies programs."
+    },
+    {
+        "question": "What is the impact of Shakespeare?",
+        "A": "No impact",
+        "B": "Influencing English literature and language",
+        "C": "Minor changes",
+        "D": "Only affects some people",
+        "answer": "B",
+        "funFact": "Shakespeare has had enormous influence on English literature, language, and theater, with many phrases still in use today."
+    },
+    {
+        "question": "What is the origin of Shakespeare?",
+        "A": "The 1800s",
+        "B": "The 1500s-1600s",
+        "C": "The 1700s",
+        "D": "The 1900s",
+        "answer": "B",
+        "funFact": "William Shakespeare lived from 1564 to 1616, writing his plays during the late 1500s and early 1600s."
+    },
+    {
+        "question": "What is the future of Shakespeare?",
+        "A": "No future",
+        "B": "Continued study and performance",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Shakespeare's works continue to be studied, performed, and adapted, remaining relevant centuries after his death."
+    },
+    {
+        "question": "What is the importance of Shakespeare?",
+        "A": "Not important",
+        "B": "Foundational to English literature",
+        "C": "Minor importance",
+        "D": "Only for some people",
+        "answer": "B",
+        "funFact": "Shakespeare is foundational to English literature, creating some of the most enduring works in the English language."
+    },
+    {
+        "question": "What is the study of Shakespeare called?",
+        "A": "Shakespeareology",
+        "B": "Shakespeare studies",
+        "C": "Renaissance literature",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Shakespeare is studied through English literature, drama, and Renaissance studies."
+    },
+    {
+        "question": "What is the difference between Shakespeare's comedies and tragedies?",
+        "A": "They're the same",
+        "B": "Comedies end happily, tragedies end in death",
+        "C": "Tragedies end happily",
+        "D": "Comedies end in death",
+        "answer": "B",
+        "funFact": "Shakespeare's comedies typically end with marriage and reconciliation, while tragedies end with death and suffering."
+    },
+    {
+        "question": "What is the impact of Shakespeare on language?",
+        "A": "No impact",
+        "B": "Coining many words and phrases still used today",
+        "C": "Minor changes",
+        "D": "Only affects English",
+        "answer": "B",
+        "funFact": "Shakespeare coined many words and phrases still used today, significantly influencing the English language."
+    },
+    {
+        "question": "What is the origin of Shakespeare?",
+        "A": "The 1800s",
+        "B": "The 1500s-1600s",
+        "C": "The 1700s",
+        "D": "The 1900s",
+        "answer": "B",
+        "funFact": "Shakespeare wrote during the Elizabethan and Jacobean eras, creating 37 plays and 154 sonnets."
+    },
+    {
+        "question": "What is the future of Shakespeare?",
+        "A": "No future",
+        "B": "Enduring relevance and new adaptations",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Shakespeare's works continue to be adapted, performed, and studied, showing enduring relevance across cultures."
+    },
+    {
+        "question": "What is the study of Shakespeare called?",
+        "A": "Shakespeareology",
+        "B": "Shakespeare research",
+        "C": "Literary studies",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Shakespeare is studied through literary studies, drama, and theater research."
+    },
+    {
+        "question": "What is the importance of Shakespeare?",
+        "A": "Not important",
+        "B": "One of the greatest writers in English",
+        "C": "Minor importance",
+        "D": "Only for students",
+        "answer": "B",
+        "funFact": "Shakespeare is considered one of the greatest writers in the English language, with works that have stood the test of time."
+    },
+    {
+        "question": "What is the difference between Shakespeare's plays and sonnets?",
+        "A": "They're the same",
+        "B": "Plays are dramas, sonnets are poems",
+        "C": "Sonnets are dramas",
+        "D": "Plays are poems",
+        "answer": "B",
+        "funFact": "Shakespeare wrote 37 plays (dramas) and 154 sonnets (14-line poems), both important parts of his legacy."
+    },
+    {
+        "question": "What is the impact of Shakespeare on culture?",
+        "A": "No impact",
+        "B": "Influencing theater, film, and literature worldwide",
+        "C": "Minor changes",
+        "D": "Only affects English-speaking countries",
+        "answer": "B",
+        "funFact": "Shakespeare has influenced theater, film, literature, and culture worldwide, with adaptations in many languages."
+    },
+    {
+        "question": "What is the origin of Shakespeare?",
+        "A": "The 1800s",
+        "B": "The 1500s-1600s",
+        "C": "The 1700s",
+        "D": "The 1900s",
+        "answer": "B",
+        "funFact": "Shakespeare lived and wrote during the Renaissance, creating works that defined English drama."
+    },
+    {
+        "question": "What is the future of Shakespeare?",
+        "A": "No future",
+        "B": "Continued performance and study",
+        "C": "Stagnation",
+        "D": "Decline",
+        "answer": "B",
+        "funFact": "Shakespeare's works continue to be performed, studied, and adapted, remaining central to English literature and theater."
+    }
+]

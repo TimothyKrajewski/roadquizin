@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is jazz?",
+        "A": "Classical music",
+        "B": "Music with improvisation and syncopation",
+        "C": "Rock",
+        "D": "Country",
+        "answer": "B",
+        "funFact": "Jazz is characterized by improvisation, syncopation, swing rhythms, and complex harmonies."
+    },
+    {
+        "question": "What is improvisation in jazz?",
+        "A": "Playing written music",
+        "B": "Creating music spontaneously",
+        "C": "Following a script",
+        "D": "Repeating exactly",
+        "answer": "B",
+        "funFact": "Improvisation is creating music spontaneously, a fundamental element of jazz performance."
+    },
+    {
+        "question": "What is syncopation?",
+        "A": "Regular rhythm",
+        "B": "Accenting off-beats",
+        "C": "No rhythm",
+        "D": "Slow tempo",
+        "answer": "B",
+        "funFact": "Syncopation is accenting off-beats, creating the characteristic swing feel of jazz."
+    },
+    {
+        "question": "What is swing?",
+        "A": "A type of dance",
+        "B": "A rhythmic feel in jazz",
+        "C": "A song",
+        "D": "An instrument",
+        "answer": "B",
+        "funFact": "Swing is a rhythmic feel in jazz with a distinctive groove that makes you want to move."
+    },
+    {
+        "question": "What is a jazz standard?",
+        "A": "A new song",
+        "B": "A well-known jazz song",
+        "C": "A classical piece",
+        "D": "A rock song",
+        "answer": "B",
+        "funFact": "A jazz standard is a well-known jazz song that is widely performed and recorded by many artists."
+    },
+    {
+        "question": "What is a jazz combo?",
+        "A": "A large orchestra",
+        "B": "A small jazz group",
+        "C": "A single musician",
+        "D": "A choir",
+        "answer": "B",
+        "funFact": "A jazz combo is a small group, typically 3-7 musicians, that plays jazz together."
+    },
+    {
+        "question": "What is a big band?",
+        "A": "A small group",
+        "B": "A large jazz orchestra",
+        "C": "A rock band",
+        "D": "A soloist",
+        "answer": "B",
+        "funFact": "A big band is a large jazz orchestra with multiple sections: saxophones, trumpets, trombones, and rhythm."
+    },
+    {
+        "question": "What is scat singing?",
+        "A": "Singing words",
+        "B": "Singing nonsense syllables",
+        "C": "Playing instruments",
+        "D": "Dancing",
+        "answer": "B",
+        "funFact": "Scat singing is vocal improvisation using nonsense syllables instead of words, like 'doo-bee-doo-bop.'"
+    },
+    {
+        "question": "What is the origin of jazz?",
+        "A": "Europe",
+        "B": "New Orleans in the late 1800s",
+        "C": "New York",
+        "D": "Chicago",
+        "answer": "B",
+        "funFact": "Jazz originated in New Orleans in the late 1800s, blending African, European, and Caribbean musical traditions."
+    },
+    {
+        "question": "What is bebop?",
+        "A": "Slow jazz",
+        "B": "Fast, complex jazz",
+        "C": "Classical music",
+        "D": "Rock",
+        "answer": "B",
+        "funFact": "Bebop is a fast, complex style of jazz that emerged in the 1940s with intricate melodies and harmonies."
+    },
+    {
+        "question": "What is cool jazz?",
+        "A": "Hot jazz",
+        "B": "Relaxed, understated jazz",
+        "C": "Fast jazz",
+        "D": "Loud jazz",
+        "answer": "B",
+        "funFact": "Cool jazz is a relaxed, understated style that emerged in the 1950s as a reaction to bebop's intensity."
+    },
+    {
+        "question": "What is fusion?",
+        "A": "Pure jazz",
+        "B": "Jazz combined with rock or other genres",
+        "C": "Classical",
+        "D": "Country",
+        "answer": "B",
+        "funFact": "Fusion (jazz fusion) combines jazz with rock, funk, or other genres, using electric instruments."
+    },
+    {
+        "question": "What is a jazz solo?",
+        "A": "A group performance",
+        "B": "An individual improvisation",
+        "C": "A written part",
+        "D": "A vocal part",
+        "answer": "B",
+        "funFact": "A jazz solo is when an individual musician improvises, taking the spotlight while others provide accompaniment."
+    },
+    {
+        "question": "What is a jam session?",
+        "A": "A formal concert",
+        "B": "An informal gathering to play jazz",
+        "C": "A recording",
+        "D": "A rehearsal",
+        "answer": "B",
+        "funFact": "A jam session is an informal gathering where jazz musicians play together, often improvising."
+    },
+    {
+        "question": "What is the study of jazz called?",
+        "A": "Jazzology",
+        "B": "Jazz studies",
+        "C": "Musicology",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "Jazz is studied through musicology, jazz studies programs, and cultural studies."
+    },
+    {
+        "question": "What is a jazz club?",
+        "A": "A sports club",
+        "B": "A venue for live jazz",
+        "C": "A recording studio",
+        "D": "A school",
+        "answer": "B",
+        "funFact": "A jazz club is a venue where live jazz is performed, often with an intimate atmosphere."
+    },
+    {
+        "question": "What is a jazz festival?",
+        "A": "A single concert",
+        "B": "A multi-day event featuring jazz",
+        "C": "A competition",
+        "D": "A workshop",
+        "answer": "B",
+        "funFact": "A jazz festival is a multi-day event featuring multiple jazz performances and artists."
+    },
+    {
+        "question": "What is the Blue Note?",
+        "A": "A single note",
+        "B": "A flattened note creating jazz sound",
+        "C": "A song",
+        "D": "An instrument",
+        "answer": "B",
+        "funFact": "The blue note is a flattened note (often the third, fifth, or seventh) that creates the distinctive jazz sound."
+    },
+    {
+        "question": "What is a jazz legend?",
+        "A": "A story",
+        "B": "A highly influential jazz musician",
+        "C": "A song",
+        "D": "An instrument",
+        "answer": "B",
+        "funFact": "A jazz legend is a highly influential jazz musician who has made significant contributions to the genre."
+    },
+    {
+        "question": "Who is often called the 'Father of Jazz'?",
+        "A": "Louis Armstrong",
+        "B": "Duke Ellington",
+        "C": "Charlie Parker",
+        "D": "Miles Davis",
+        "answer": "A",
+        "funFact": "Louis Armstrong is often called the 'Father of Jazz' for his pioneering contributions to the genre."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the name of the paper company?",
+        "A": "Dunder Mifflin",
+        "B": "Paper Company",
+        "C": "Office Supplies",
+        "D": "Scranton Paper",
+        "answer": "A",
+        "funFact": "Dunder Mifflin is the fictional paper company where The Office is set."
+    },
+    {
+        "question": "What is the name of the branch?",
+        "A": "New York",
+        "B": "Scranton",
+        "C": "Stamford",
+        "D": "Nashua",
+        "answer": "B",
+        "funFact": "The Scranton branch is the main setting of The Office, located in Scranton, Pennsylvania."
+    },
+    {
+        "question": "Who is the regional manager?",
+        "A": "Jim Halpert",
+        "B": "Michael Scott",
+        "C": "Dwight Schrute",
+        "D": "Pam Beesly",
+        "answer": "B",
+        "funFact": "Michael Scott is the regional manager of Dunder Mifflin Scranton, known for his inappropriate humor and management style."
+    },
+    {
+        "question": "What is Michael Scott's catchphrase?",
+        "A": "That's what she said",
+        "B": "Bears, beets, Battlestar Galactica",
+        "C": "Identity theft is not a joke",
+        "D": "That's what I said",
+        "answer": "A",
+        "funFact": "'That's what she said' is Michael Scott's signature catchphrase, used inappropriately throughout the series."
+    },
+    {
+        "question": "Who is Dwight Schrute?",
+        "A": "The manager",
+        "B": "Assistant to the regional manager",
+        "C": "A salesman",
+        "D": "The receptionist",
+        "answer": "B",
+        "funFact": "Dwight Schrute is the assistant to the regional manager, known for his beet farming and survivalist skills."
+    },
+    {
+        "question": "What is Dwight's farm?",
+        "A": "A paper farm",
+        "B": "Schrute Farms",
+        "C": "Beet Farm",
+        "D": "Dwight's Farm",
+        "answer": "B",
+        "funFact": "Schrute Farms is Dwight's beet farm, which he runs with his cousin Mose."
+    },
+    {
+        "question": "Who is Jim Halpert?",
+        "A": "The manager",
+        "B": "A salesman who pranks Dwight",
+        "C": "The receptionist",
+        "D": "The accountant",
+        "answer": "B",
+        "funFact": "Jim Halpert is a salesman known for his pranks on Dwight and his relationship with Pam."
+    },
+    {
+        "question": "Who is Pam Beesly?",
+        "A": "The manager",
+        "B": "The receptionist",
+        "C": "A salesman",
+        "D": "The accountant",
+        "answer": "B",
+        "funFact": "Pam Beesly is the receptionist who eventually becomes a salesperson and marries Jim."
+    },
+    {
+        "question": "What is the name of the documentary?",
+        "A": "The Office",
+        "B": "An American Workplace",
+        "C": "Dunder Mifflin",
+        "D": "Scranton",
+        "answer": "B",
+        "funFact": "The show is presented as a documentary called 'An American Workplace' filming the employees."
+    },
+    {
+        "question": "What is a Dundie?",
+        "A": "A trophy",
+        "B": "An award given by Michael",
+        "C": "A prank",
+        "D": "A meeting",
+        "answer": "B",
+        "funFact": "The Dundies are annual awards given by Michael Scott at a local restaurant, with categories like 'Hottest in the Office.'"
+    },
+    {
+        "question": "What is the name of the warehouse?",
+        "A": "Dunder Mifflin Warehouse",
+        "B": "Scranton Warehouse",
+        "C": "The Warehouse",
+        "D": "Storage",
+        "answer": "A",
+        "funFact": "The Dunder Mifflin warehouse is located below the office, run by characters like Darryl and Roy."
+    },
+    {
+        "question": "Who is Stanley?",
+        "A": "The manager",
+        "B": "A salesman who does crosswords",
+        "C": "The receptionist",
+        "D": "The accountant",
+        "answer": "B",
+        "funFact": "Stanley Hudson is a salesman known for doing crosswords and being uninterested in office activities."
+    },
+    {
+        "question": "What is the name of the conference room?",
+        "A": "The Office",
+        "B": "The Conference Room",
+        "C": "Michael's Office",
+        "D": "The Break Room",
+        "answer": "B",
+        "funFact": "The conference room is where many meetings and important scenes take place throughout the series."
+    },
+    {
+        "question": "What is the name of the show?",
+        "A": "The Office (US)",
+        "B": "The Office (UK)",
+        "C": "Dunder Mifflin",
+        "D": "Scranton",
+        "answer": "A",
+        "funFact": "The Office (US) is the American adaptation of the British series, running for 9 seasons from 2005 to 2013."
+    },
+    {
+        "question": "Who created the US version?",
+        "A": "Ricky Gervais",
+        "B": "Greg Daniels",
+        "C": "Steve Carell",
+        "D": "John Krasinski",
+        "answer": "B",
+        "funFact": "Greg Daniels adapted the British series for American television, creating the US version."
+    },
+    {
+        "question": "What is the name of the theme song?",
+        "A": "The Office Theme",
+        "B": "Scranton",
+        "C": "Dunder Mifflin",
+        "D": "The Office Song",
+        "answer": "A",
+        "funFact": "The Office has a distinctive theme song that plays during the opening credits."
+    },
+    {
+        "question": "What is a 'that's what she said' joke?",
+        "A": "A clean joke",
+        "B": "An inappropriate double entendre",
+        "C": "A prank",
+        "D": "A meeting",
+        "answer": "B",
+        "funFact": "'That's what she said' is Michael Scott's signature inappropriate joke, adding a sexual innuendo to innocent statements."
+    },
+    {
+        "question": "What is the name of the branch manager after Michael?",
+        "A": "Jim",
+        "B": "Dwight",
+        "C": "Andy",
+        "D": "Robert California",
+        "answer": "C",
+        "funFact": "Andy Bernard becomes the branch manager after Michael Scott leaves, though several others also serve as manager."
+    },
+    {
+        "question": "What is the study of The Office called?",
+        "A": "Officeology",
+        "B": "Just The Office",
+        "C": "TV shows",
+        "D": "Comedy",
+        "answer": "B",
+        "funFact": "The Office is simply called The Office, though it's studied and analyzed by TV critics and comedy scholars."
+    },
+    {
+        "question": "What is the format of the show?",
+        "A": "Traditional sitcom",
+        "B": "Mockumentary",
+        "C": "Drama",
+        "D": "Reality show",
+        "answer": "B",
+        "funFact": "The Office is filmed in a mockumentary style, presented as a documentary crew filming the employees."
+    }
+]

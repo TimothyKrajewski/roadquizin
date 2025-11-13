@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the process by which plants make food using sunlight?",
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Transpiration",
+        "D": "Germination",
+        "answer": "A",
+        "funFact": "Photosynthesis converts light energy, water, and carbon dioxide into glucose and oxygen."
+    },
+    {
+        "question": "What is the green pigment in plants that captures light energy?",
+        "A": "Chlorophyll",
+        "B": "Carotene",
+        "C": "Xanthophyll",
+        "D": "Anthocyanin",
+        "answer": "A",
+        "funFact": "Chlorophyll is the green pigment that gives plants their color and is essential for photosynthesis."
+    },
+    {
+        "question": "What part of the plant is responsible for absorbing water and nutrients?",
+        "A": "Leaves",
+        "B": "Stem",
+        "C": "Roots",
+        "D": "Flowers",
+        "answer": "C",
+        "funFact": "Roots anchor plants and absorb water and nutrients from the soil."
+    },
+    {
+        "question": "What is the study of plants called?",
+        "A": "Zoology",
+        "B": "Botany",
+        "C": "Biology",
+        "D": "Ecology",
+        "answer": "B",
+        "funFact": "Botany is the scientific study of plants, including their structure, properties, and biochemical processes."
+    },
+    {
+        "question": "What is the largest flower in the world?",
+        "A": "Sunflower",
+        "B": "Rafflesia",
+        "C": "Rose",
+        "D": "Orchid",
+        "answer": "B",
+        "funFact": "The Rafflesia arnoldii can grow up to 3 feet in diameter and weigh up to 15 pounds."
+    },
+    {
+        "question": "What gas do plants release during photosynthesis?",
+        "A": "Carbon dioxide",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Hydrogen",
+        "answer": "C",
+        "funFact": "Plants release oxygen as a byproduct of photosynthesis, which is essential for life on Earth."
+    },
+    {
+        "question": "What is the process of water movement through a plant called?",
+        "A": "Photosynthesis",
+        "B": "Transpiration",
+        "C": "Respiration",
+        "D": "Germination",
+        "answer": "B",
+        "funFact": "Transpiration is the process where water moves through plants and evaporates from leaves."
+    },
+    {
+        "question": "What are the tiny pores on plant leaves called?",
+        "A": "Stomata",
+        "B": "Chloroplasts",
+        "C": "Xylem",
+        "D": "Phloem",
+        "answer": "A",
+        "funFact": "Stomata are small openings on leaves that allow gas exchange and water vapor to escape."
+    },
+    {
+        "question": "What is the tallest type of tree?",
+        "A": "Oak",
+        "B": "Redwood",
+        "C": "Pine",
+        "D": "Maple",
+        "answer": "B",
+        "funFact": "Coast redwoods can grow over 350 feet tall, making them the tallest trees on Earth."
+    },
+    {
+        "question": "What is the oldest living tree species?",
+        "A": "Oak",
+        "B": "Bristlecone Pine",
+        "C": "Redwood",
+        "D": "Cedar",
+        "answer": "B",
+        "funFact": "Bristlecone pines can live over 5,000 years, with the oldest known tree being over 4,800 years old."
+    },
+    {
+        "question": "What is the process by which a seed begins to grow?",
+        "A": "Photosynthesis",
+        "B": "Germination",
+        "C": "Pollination",
+        "D": "Fertilization",
+        "answer": "B",
+        "funFact": "Germination is when a seed starts to sprout and grow into a new plant."
+    },
+    {
+        "question": "What is the main function of plant leaves?",
+        "A": "Absorb water",
+        "B": "Photosynthesis",
+        "C": "Store food",
+        "D": "Anchor plant",
+        "answer": "B",
+        "funFact": "Leaves are the primary site of photosynthesis, where plants make their food."
+    },
+    {
+        "question": "What is the waxy outer layer of leaves called?",
+        "A": "Cuticle",
+        "B": "Epidermis",
+        "C": "Mesophyll",
+        "D": "Stomata",
+        "answer": "A",
+        "funFact": "The cuticle is a waxy layer that helps prevent water loss from leaves."
+    },
+    {
+        "question": "What type of plant reproduces using spores?",
+        "A": "Flowering plants",
+        "B": "Ferns",
+        "C": "Conifers",
+        "D": "Grasses",
+        "answer": "B",
+        "funFact": "Ferns reproduce using spores instead of seeds, a method used by ancient plants."
+    },
+    {
+        "question": "What is the process of transferring pollen called?",
+        "A": "Germination",
+        "B": "Pollination",
+        "C": "Fertilization",
+        "D": "Photosynthesis",
+        "answer": "B",
+        "funFact": "Pollination is the transfer of pollen from the male part to the female part of a flower."
+    },
+    {
+        "question": "What is the largest seed in the world?",
+        "A": "Coconut",
+        "B": "Coco de mer",
+        "C": "Avocado",
+        "D": "Mango",
+        "answer": "B",
+        "funFact": "The coco de mer seed can weigh up to 30 pounds and is found in the Seychelles."
+    },
+    {
+        "question": "What is the process by which plants lose water vapor?",
+        "A": "Photosynthesis",
+        "B": "Transpiration",
+        "C": "Respiration",
+        "D": "Osmosis",
+        "answer": "B",
+        "funFact": "Transpiration helps cool plants and moves water and nutrients from roots to leaves."
+    },
+    {
+        "question": "What are the two main types of root systems?",
+        "A": "Deep and shallow",
+        "B": "Taproot and fibrous",
+        "C": "Primary and secondary",
+        "D": "Aerial and underground",
+        "answer": "B",
+        "funFact": "Taproot systems have one main root, while fibrous systems have many thin roots."
+    },
+    {
+        "question": "What is the study of tree rings called?",
+        "A": "Botany",
+        "B": "Dendrochronology",
+        "C": "Ecology",
+        "D": "Forestry",
+        "answer": "B",
+        "funFact": "Dendrochronology uses tree rings to determine age and study past climate conditions."
+    },
+    {
+        "question": "What is the fastest growing plant?",
+        "A": "Bamboo",
+        "B": "Sunflower",
+        "C": "Kudzu",
+        "D": "Eucalyptus",
+        "answer": "A",
+        "funFact": "Bamboo can grow up to 35 inches in a single day, making it the fastest growing plant."
+    }
+]

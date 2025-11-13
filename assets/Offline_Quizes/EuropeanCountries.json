@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "A": "Lyon",
+        "B": "Marseille",
+        "C": "Paris",
+        "D": "Toulouse",
+        "answer": "C",
+        "funFact": "Paris is the capital of France, known as the 'City of Light' and one of the world's most visited cities."
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "A": "Munich",
+        "B": "Berlin",
+        "C": "Hamburg",
+        "D": "Frankfurt",
+        "answer": "B",
+        "funFact": "Berlin is the capital of Germany and became the capital of reunified Germany in 1990."
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "A": "Milan",
+        "B": "Rome",
+        "C": "Naples",
+        "D": "Turin",
+        "answer": "B",
+        "funFact": "Rome is the capital of Italy, known as the 'Eternal City' and home to the Vatican City."
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "A": "Barcelona",
+        "B": "Madrid",
+        "C": "Valencia",
+        "D": "Seville",
+        "answer": "B",
+        "funFact": "Madrid is the capital of Spain and the highest capital city in Europe at 2,120 feet above sea level."
+    },
+    {
+        "question": "What is the capital of United Kingdom?",
+        "A": "Manchester",
+        "B": "London",
+        "C": "Birmingham",
+        "D": "Liverpool",
+        "answer": "B",
+        "funFact": "London is the capital of the United Kingdom and has been a major settlement for over 2,000 years."
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "A": "Saint Petersburg",
+        "B": "Moscow",
+        "C": "Novosibirsk",
+        "D": "Yekaterinburg",
+        "answer": "B",
+        "funFact": "Moscow is the capital of Russia and the largest city in Europe."
+    },
+    {
+        "question": "What is the capital of Poland?",
+        "A": "Kraków",
+        "B": "Warsaw",
+        "C": "Gdańsk",
+        "D": "Wrocław",
+        "answer": "B",
+        "funFact": "Warsaw is the capital of Poland, almost completely destroyed in World War II and rebuilt from the ground up."
+    },
+    {
+        "question": "What is the capital of Netherlands?",
+        "A": "Rotterdam",
+        "B": "Amsterdam",
+        "C": "The Hague",
+        "D": "Utrecht",
+        "answer": "B",
+        "funFact": "Amsterdam is the capital of the Netherlands, while The Hague is where the government is located."
+    },
+    {
+        "question": "What is the capital of Greece?",
+        "A": "Thessaloniki",
+        "B": "Athens",
+        "C": "Patras",
+        "D": "Heraklion",
+        "answer": "B",
+        "funFact": "Athens is the capital of Greece and one of the oldest cities in the world, with a recorded history of over 3,400 years."
+    },
+    {
+        "question": "What is the capital of Sweden?",
+        "A": "Gothenburg",
+        "B": "Stockholm",
+        "C": "Malmö",
+        "D": "Uppsala",
+        "answer": "B",
+        "funFact": "Stockholm is the capital of Sweden, built on 14 islands connected by over 50 bridges."
+    },
+    {
+        "question": "What is the capital of Switzerland?",
+        "A": "Zurich",
+        "B": "Geneva",
+        "C": "Bern",
+        "D": "Basel",
+        "answer": "C",
+        "funFact": "Bern is the capital of Switzerland and a UNESCO World Heritage Site known for its medieval architecture."
+    },
+    {
+        "question": "What is the capital of Norway?",
+        "A": "Bergen",
+        "B": "Oslo",
+        "C": "Trondheim",
+        "D": "Stavanger",
+        "answer": "B",
+        "funFact": "Oslo is the capital of Norway, founded around 1000 AD and one of the oldest capital cities in Scandinavia."
+    },
+    {
+        "question": "What is the capital of Denmark?",
+        "A": "Aarhus",
+        "B": "Copenhagen",
+        "C": "Odense",
+        "D": "Aalborg",
+        "answer": "B",
+        "funFact": "Copenhagen is the capital of Denmark, known for its cycling culture and sustainable urban planning."
+    },
+    {
+        "question": "What is the capital of Belgium?",
+        "A": "Antwerp",
+        "B": "Brussels",
+        "C": "Ghent",
+        "D": "Bruges",
+        "answer": "B",
+        "funFact": "Brussels is the capital of Belgium and also the de facto capital of the European Union."
+    },
+    {
+        "question": "What is the capital of Austria?",
+        "A": "Vienna",
+        "B": "Graz",
+        "C": "Linz",
+        "D": "Salzburg",
+        "answer": "A",
+        "funFact": "Vienna is the capital of Austria, known for its classical music heritage and coffeehouse culture."
+    },
+    {
+        "question": "What is the capital of Portugal?",
+        "A": "Porto",
+        "B": "Lisbon",
+        "C": "Coimbra",
+        "D": "Braga",
+        "answer": "B",
+        "funFact": "Lisbon is the capital of Portugal, one of the oldest cities in Europe and the westernmost capital on the European mainland."
+    },
+    {
+        "question": "What is the capital of Czech Republic?",
+        "A": "Brno",
+        "B": "Prague",
+        "C": "Ostrava",
+        "D": "Plzeň",
+        "answer": "B",
+        "funFact": "Prague is the capital of the Czech Republic, known as the 'City of a Hundred Spires' for its beautiful architecture."
+    },
+    {
+        "question": "What is the capital of Hungary?",
+        "A": "Debrecen",
+        "B": "Budapest",
+        "C": "Szeged",
+        "D": "Miskolc",
+        "answer": "B",
+        "funFact": "Budapest is the capital of Hungary, formed by the unification of Buda, Pest, and Óbuda in 1873."
+    },
+    {
+        "question": "What is the capital of Romania?",
+        "A": "Cluj-Napoca",
+        "B": "Bucharest",
+        "C": "Timișoara",
+        "D": "Iași",
+        "answer": "B",
+        "funFact": "Bucharest is the capital of Romania, known as 'Little Paris' for its architecture and culture."
+    },
+    {
+        "question": "What is the capital of Finland?",
+        "A": "Tampere",
+        "B": "Helsinki",
+        "C": "Turku",
+        "D": "Oulu",
+        "answer": "B",
+        "funFact": "Helsinki is the capital of Finland, located on the Gulf of Finland and known for its design and architecture."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many players are on a basketball team on the court at once?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "answer": "B",
+        "funFact": "Each team has 5 players on the court at once in basketball."
+    },
+    {
+        "question": "What is the height of a basketball hoop?",
+        "A": "8 feet",
+        "B": "10 feet",
+        "C": "12 feet",
+        "D": "15 feet",
+        "answer": "B",
+        "funFact": "A regulation basketball hoop is 10 feet (3.05 meters) high."
+    },
+    {
+        "question": "How many points is a free throw worth?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "answer": "A",
+        "funFact": "A free throw is worth 1 point and is taken from the free throw line after a foul."
+    },
+    {
+        "question": "What is the NBA?",
+        "A": "National Baseball Association",
+        "B": "National Basketball Association",
+        "C": "National Badminton Association",
+        "D": "National Bowling Association",
+        "answer": "B",
+        "funFact": "The NBA (National Basketball Association) is the premier professional basketball league in North America."
+    },
+    {
+        "question": "How long is a regulation NBA game?",
+        "A": "32 minutes",
+        "B": "40 minutes",
+        "C": "48 minutes",
+        "D": "60 minutes",
+        "answer": "C",
+        "funFact": "An NBA game consists of four 12-minute quarters, totaling 48 minutes of playing time."
+    },
+    {
+        "question": "What is a slam dunk?",
+        "A": "A type of pass",
+        "B": "Scoring by putting ball through hoop with hand above rim",
+        "C": "A foul",
+        "D": "A timeout",
+        "answer": "B",
+        "funFact": "A slam dunk is when a player jumps and puts the ball through the hoop with their hand above the rim."
+    },
+    {
+        "question": "What is a three-pointer?",
+        "A": "A shot worth 2 points",
+        "B": "A shot worth 3 points from beyond the arc",
+        "C": "A foul",
+        "D": "A pass",
+        "answer": "B",
+        "funFact": "A three-pointer is a shot made from beyond the three-point line, worth 3 points."
+    },
+    {
+        "question": "Who is known as 'Air Jordan'?",
+        "A": "LeBron James",
+        "B": "Michael Jordan",
+        "C": "Kobe Bryant",
+        "D": "Magic Johnson",
+        "answer": "B",
+        "funFact": "Michael Jordan earned the nickname 'Air Jordan' for his incredible jumping ability and aerial play."
+    },
+    {
+        "question": "What is a rebound?",
+        "A": "A type of shot",
+        "B": "Gaining possession after a missed shot",
+        "C": "A foul",
+        "D": "A pass",
+        "answer": "B",
+        "funFact": "A rebound occurs when a player gains possession of the ball after a missed field goal or free throw."
+    },
+    {
+        "question": "What is a layup?",
+        "A": "A long shot",
+        "B": "A close-range shot",
+        "C": "A pass",
+        "D": "A foul",
+        "answer": "B",
+        "funFact": "A layup is a close-range shot made by releasing the ball near the basket, usually off the backboard."
+    },
+    {
+        "question": "What is the shot clock in the NBA?",
+        "A": "24 seconds",
+        "B": "30 seconds",
+        "C": "35 seconds",
+        "D": "45 seconds",
+        "answer": "A",
+        "funFact": "The NBA shot clock gives teams 24 seconds to attempt a shot that hits the rim."
+    },
+    {
+        "question": "What is a technical foul?",
+        "A": "A personal foul",
+        "B": "A violation of game rules or unsportsmanlike conduct",
+        "C": "A timeout",
+        "D": "A substitution",
+        "answer": "B",
+        "funFact": "A technical foul is called for rule violations, unsportsmanlike conduct, or arguing with officials."
+    },
+    {
+        "question": "What is a fast break?",
+        "A": "A timeout",
+        "B": "A quick offensive play after gaining possession",
+        "C": "A foul",
+        "D": "A substitution",
+        "answer": "B",
+        "funFact": "A fast break is an offensive strategy where a team quickly moves the ball upcourt to score before the defense can set up."
+    },
+    {
+        "question": "What is a pick and roll?",
+        "A": "A type of shot",
+        "B": "An offensive play using a screen",
+        "C": "A foul",
+        "D": "A timeout",
+        "answer": "B",
+        "funFact": "A pick and roll is an offensive play where one player sets a screen (pick) and then moves toward the basket (roll)."
+    },
+    {
+        "question": "What is the diameter of a basketball?",
+        "A": "7.5 inches",
+        "B": "9.5 inches",
+        "C": "11.5 inches",
+        "D": "13.5 inches",
+        "answer": "B",
+        "funFact": "A regulation basketball has a diameter of approximately 9.5 inches (24 cm)."
+    },
+    {
+        "question": "What is a double-double?",
+        "A": "Two points",
+        "B": "Achieving double digits in two statistical categories",
+        "C": "A type of shot",
+        "D": "A foul",
+        "answer": "B",
+        "funFact": "A double-double is when a player reaches double digits in two statistical categories (like points and rebounds) in one game."
+    },
+    {
+        "question": "What is the 'key' or 'paint'?",
+        "A": "The three-point line",
+        "B": "The rectangular area under the basket",
+        "C": "The sideline",
+        "D": "The center circle",
+        "answer": "B",
+        "funFact": "The key or paint is the rectangular area extending from the baseline to the free throw line, also called the lane."
+    },
+    {
+        "question": "What is a buzzer beater?",
+        "A": "A shot before the clock expires",
+        "B": "A foul",
+        "C": "A timeout",
+        "D": "A substitution",
+        "answer": "A",
+        "funFact": "A buzzer beater is a shot made just before the game clock or shot clock expires."
+    },
+    {
+        "question": "What is a triple-double?",
+        "A": "Three points",
+        "B": "Achieving double digits in three statistical categories",
+        "C": "A type of shot",
+        "D": "A foul",
+        "answer": "B",
+        "funFact": "A triple-double is when a player reaches double digits in three statistical categories in one game."
+    },
+    {
+        "question": "What is the WNBA?",
+        "A": "World National Basketball Association",
+        "B": "Women's National Basketball Association",
+        "C": "Western National Basketball Association",
+        "D": "Winter National Basketball Association",
+        "answer": "B",
+        "funFact": "The WNBA (Women's National Basketball Association) is the premier professional women's basketball league in the United States."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is alpine skiing?",
+        "A": "Cross-country skiing",
+        "B": "Downhill skiing on slopes",
+        "C": "Ski jumping",
+        "D": "Nordic skiing",
+        "answer": "B",
+        "funFact": "Alpine skiing is downhill skiing on slopes, the most common form of recreational skiing."
+    },
+    {
+        "question": "What is cross-country skiing?",
+        "A": "Downhill skiing",
+        "B": "Skiing across flat or rolling terrain",
+        "C": "Ski jumping",
+        "D": "Freestyle skiing",
+        "answer": "B",
+        "funFact": "Cross-country skiing involves skiing across flat or rolling terrain, often for long distances."
+    },
+    {
+        "question": "What is a ski lift?",
+        "A": "A type of ski",
+        "B": "A machine that carries skiers uphill",
+        "C": "A slope",
+        "D": "A boot",
+        "answer": "B",
+        "funFact": "A ski lift is a mechanical device that transports skiers up a mountain to the top of slopes."
+    },
+    {
+        "question": "What is a slope?",
+        "A": "A flat area",
+        "B": "An inclined surface for skiing",
+        "C": "A lift",
+        "D": "A boot",
+        "answer": "B",
+        "funFact": "A slope is an inclined surface on a mountain where skiers descend."
+    },
+    {
+        "question": "What is a ski?",
+        "A": "A boot",
+        "B": "A long, narrow board for gliding on snow",
+        "C": "A pole",
+        "D": "A lift",
+        "answer": "B",
+        "funFact": "A ski is a long, narrow board attached to boots that allows gliding on snow."
+    },
+    {
+        "question": "What is a ski pole?",
+        "A": "A ski",
+        "B": "A stick used for balance and propulsion",
+        "C": "A boot",
+        "D": "A lift",
+        "answer": "B",
+        "funFact": "Ski poles are sticks used for balance, turning, and propulsion while skiing."
+    },
+    {
+        "question": "What is a bunny slope?",
+        "A": "A difficult slope",
+        "B": "An easy beginner slope",
+        "C": "A steep slope",
+        "D": "A long slope",
+        "answer": "B",
+        "funFact": "A bunny slope is a gentle, easy slope designed for beginners learning to ski."
+    },
+    {
+        "question": "What is a black diamond?",
+        "A": "An easy slope",
+        "B": "A difficult expert slope",
+        "C": "A moderate slope",
+        "D": "A beginner slope",
+        "answer": "B",
+        "funFact": "A black diamond is the most difficult slope rating, indicating expert-level terrain."
+    },
+    {
+        "question": "What is freestyle skiing?",
+        "A": "Downhill racing",
+        "B": "Skiing with tricks and jumps",
+        "C": "Cross-country",
+        "D": "Ski jumping",
+        "answer": "B",
+        "funFact": "Freestyle skiing involves performing tricks, jumps, and acrobatic maneuvers on skis."
+    },
+    {
+        "question": "What is ski jumping?",
+        "A": "Downhill skiing",
+        "B": "Jumping off a ramp for distance",
+        "C": "Cross-country",
+        "D": "Freestyle",
+        "answer": "B",
+        "funFact": "Ski jumping is a sport where skiers jump off a ramp and are judged on distance and style."
+    },
+    {
+        "question": "What is a mogul?",
+        "A": "A flat area",
+        "B": "A bump on a ski slope",
+        "C": "A lift",
+        "D": "A boot",
+        "answer": "B",
+        "funFact": "A mogul is a bump formed on a ski slope from repeated turns, creating a challenging terrain."
+    },
+    {
+        "question": "What is a chairlift?",
+        "A": "A type of ski",
+        "B": "A lift with seats",
+        "C": "A slope",
+        "D": "A boot",
+        "answer": "B",
+        "funFact": "A chairlift is a type of ski lift with suspended chairs that carry skiers up the mountain."
+    },
+    {
+        "question": "What is a gondola?",
+        "A": "A type of ski",
+        "B": "An enclosed lift cabin",
+        "C": "A slope",
+        "D": "A boot",
+        "answer": "B",
+        "funFact": "A gondola is an enclosed cabin lift that protects skiers from weather while ascending."
+    },
+    {
+        "question": "What is parallel skiing?",
+        "A": "Skis apart",
+        "B": "Skis together and parallel",
+        "C": "One ski",
+        "D": "No skis",
+        "answer": "B",
+        "funFact": "Parallel skiing is an advanced technique where both skis are kept parallel while turning."
+    },
+    {
+        "question": "What is a snowplow?",
+        "A": "An advanced technique",
+        "B": "A beginner stopping technique",
+        "C": "A jump",
+        "D": "A lift",
+        "answer": "B",
+        "funFact": "The snowplow is a beginner technique where skis form a V-shape to slow down or stop."
+    },
+    {
+        "question": "What is a ski resort?",
+        "A": "A single slope",
+        "B": "A facility with slopes and amenities",
+        "C": "A lift",
+        "D": "A boot",
+        "answer": "B",
+        "funFact": "A ski resort is a facility with multiple slopes, lifts, and amenities for skiing and snowboarding."
+    },
+    {
+        "question": "What is backcountry skiing?",
+        "A": "Resort skiing",
+        "B": "Skiing in unmarked, ungroomed areas",
+        "C": "Cross-country",
+        "D": "Freestyle",
+        "answer": "B",
+        "funFact": "Backcountry skiing is skiing in unmarked, ungroomed areas outside of ski resorts."
+    },
+    {
+        "question": "What is a ski binding?",
+        "A": "A boot",
+        "B": "A device that attaches ski to boot",
+        "C": "A pole",
+        "D": "A lift",
+        "answer": "B",
+        "funFact": "A ski binding is a device that attaches the ski boot to the ski and releases in a fall."
+    },
+    {
+        "question": "What is the study of skiing called?",
+        "A": "Skiingology",
+        "B": "Just skiing",
+        "C": "Snow sports",
+        "D": "Winter sports",
+        "answer": "B",
+        "funFact": "Skiing is simply called skiing, though it's studied and analyzed by coaches and sports scientists."
+    },
+    {
+        "question": "What is a ski instructor?",
+        "A": "A student",
+        "B": "A teacher of skiing",
+        "C": "A lift operator",
+        "D": "A resort owner",
+        "answer": "B",
+        "funFact": "A ski instructor is a certified teacher who helps people learn and improve their skiing skills."
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "question": "What is the largest animal on Earth?",
+        "A": "African Elephant",
+        "B": "Blue Whale",
+        "C": "Giant Squid",
+        "D": "Great White Shark",
+        "answer": "B",
+        "funFact": "The blue whale is the largest animal ever known to have existed, reaching lengths of up to 100 feet and weights of 200 tons."
+    },
+    {
+        "question": "How many hearts does an octopus have?",
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "answer": "C",
+        "funFact": "Octopuses have three hearts - two pump blood to the gills, while the third pumps blood to the rest of the body."
+    },
+    {
+        "question": "What percentage of the ocean remains unexplored?",
+        "A": "50%",
+        "B": "65%",
+        "C": "80%",
+        "D": "95%",
+        "answer": "D",
+        "funFact": "More than 95% of the ocean remains unexplored, making it one of the last frontiers on Earth."
+    },
+    {
+        "question": "What is the deepest part of the ocean called?",
+        "A": "Mariana Trench",
+        "B": "Puerto Rico Trench",
+        "C": "Java Trench",
+        "D": "Tonga Trench",
+        "answer": "A",
+        "funFact": "The Mariana Trench in the Pacific Ocean is the deepest point on Earth, reaching depths of over 36,000 feet."
+    },
+    {
+        "question": "Which marine animal is known for its ability to regenerate lost limbs?",
+        "A": "Starfish",
+        "B": "Jellyfish",
+        "C": "Sea Urchin",
+        "D": "Sea Cucumber",
+        "answer": "A",
+        "funFact": "Starfish can regenerate lost arms, and some species can even regenerate an entire new starfish from a single arm."
+    },
+    {
+        "question": "What is the largest species of shark?",
+        "A": "Great White Shark",
+        "B": "Tiger Shark",
+        "C": "Whale Shark",
+        "D": "Hammerhead Shark",
+        "answer": "C",
+        "funFact": "The whale shark is the largest fish in the ocean, growing up to 40 feet long, but it's a gentle filter feeder."
+    },
+    {
+        "question": "How do dolphins communicate?",
+        "A": "Through clicks and whistles",
+        "B": "Through body language only",
+        "C": "Through color changes",
+        "D": "Through electrical signals",
+        "answer": "A",
+        "funFact": "Dolphins use a complex system of clicks, whistles, and body movements to communicate with each other."
+    },
+    {
+        "question": "What is coral made of?",
+        "A": "Rock",
+        "B": "Plant material",
+        "C": "Tiny animals called polyps",
+        "D": "Seaweed",
+        "answer": "C",
+        "funFact": "Coral reefs are built by tiny marine animals called polyps that secrete calcium carbonate to form hard skeletons."
+    },
+    {
+        "question": "Which fish is known for changing its gender?",
+        "A": "Clownfish",
+        "B": "Angelfish",
+        "C": "Pufferfish",
+        "D": "Seahorse",
+        "answer": "A",
+        "funFact": "Clownfish are sequential hermaphrodites - they can change from male to female, with the largest fish in a group becoming female."
+    },
+    {
+        "question": "What is the primary food source for most whales?",
+        "A": "Large fish",
+        "B": "Krill",
+        "C": "Seaweed",
+        "D": "Other whales",
+        "answer": "B",
+        "funFact": "Many whale species, including blue whales, feed primarily on krill, tiny shrimp-like crustaceans."
+    },
+    {
+        "question": "How long can a sea turtle hold its breath underwater?",
+        "A": "5 minutes",
+        "B": "30 minutes",
+        "C": "2 hours",
+        "D": "5 hours",
+        "answer": "D",
+        "funFact": "Sea turtles can hold their breath for up to 5 hours when resting, thanks to their slow metabolism."
+    },
+    {
+        "question": "What is bioluminescence?",
+        "A": "The ability to change color",
+        "B": "The production of light by living organisms",
+        "C": "The ability to glow in the dark",
+        "D": "The reflection of sunlight",
+        "answer": "B",
+        "funFact": "Bioluminescence is the production and emission of light by living organisms, common in deep-sea creatures."
+    },
+    {
+        "question": "Which marine mammal is known as the 'sea cow'?",
+        "A": "Dolphin",
+        "B": "Manatee",
+        "C": "Seal",
+        "D": "Walrus",
+        "answer": "B",
+        "funFact": "Manatees are often called 'sea cows' because they graze on sea grass, similar to how cows graze on land."
+    },
+    {
+        "question": "What is the largest type of jellyfish?",
+        "A": "Moon Jellyfish",
+        "B": "Box Jellyfish",
+        "C": "Lion's Mane Jellyfish",
+        "D": "Portuguese Man o' War",
+        "answer": "C",
+        "funFact": "The lion's mane jellyfish can have tentacles up to 120 feet long, making it one of the longest animals in the world."
+    },
+    {
+        "question": "How do seahorses differ from most fish?",
+        "A": "They swim backwards",
+        "B": "Males give birth",
+        "C": "They have no fins",
+        "D": "They live in freshwater",
+        "answer": "B",
+        "funFact": "Seahorses are unique because the male carries the eggs and gives birth to the young, not the female."
+    },
+    {
+        "question": "What percentage of Earth's surface is covered by oceans?",
+        "A": "50%",
+        "B": "61%",
+        "C": "71%",
+        "D": "81%",
+        "answer": "C",
+        "funFact": "Oceans cover approximately 71% of Earth's surface and contain 97% of the planet's water."
+    },
+    {
+        "question": "Which creature is known for having the strongest bite force in the ocean?",
+        "A": "Great White Shark",
+        "B": "Saltwater Crocodile",
+        "C": "Orca",
+        "D": "Giant Squid",
+        "answer": "B",
+        "funFact": "Saltwater crocodiles have the strongest bite force of any living animal, measured at over 3,700 pounds per square inch."
+    },
+    {
+        "question": "What is the name for a group of jellyfish?",
+        "A": "School",
+        "B": "Pod",
+        "C": "Smack",
+        "D": "Colony",
+        "answer": "C",
+        "funFact": "A group of jellyfish is called a 'smack' or a 'bloom'."
+    },
+    {
+        "question": "Which fish is known for its ability to 'walk' on land?",
+        "A": "Flying Fish",
+        "B": "Mudskipper",
+        "C": "Anglerfish",
+        "D": "Pufferfish",
+        "answer": "B",
+        "funFact": "Mudskippers can walk on land using their pectoral fins and can breathe through their skin and mouth lining."
+    },
+    {
+        "question": "What is the primary threat to coral reefs worldwide?",
+        "A": "Overfishing",
+        "B": "Pollution",
+        "C": "Climate change and ocean acidification",
+        "D": "Tourism",
+        "answer": "C",
+        "funFact": "Climate change, rising sea temperatures, and ocean acidification are the greatest threats to coral reefs, causing widespread bleaching."
+    }
+]
+

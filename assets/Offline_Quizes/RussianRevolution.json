@@ -1,0 +1,173 @@
+[
+    {
+        "question": "When did the Russian Revolution occur?",
+        "A": "1914",
+        "B": "1917",
+        "C": "1920",
+        "D": "1915",
+        "answer": "B",
+        "funFact": "The Russian Revolution occurred in 1917, with two main phases: the February Revolution and the October Revolution."
+    },
+    {
+        "question": "What was the February Revolution?",
+        "A": "The end of the revolution",
+        "B": "The overthrow of the Tsar",
+        "C": "The start of World War I",
+        "D": "The end of World War I",
+        "answer": "B",
+        "funFact": "The February Revolution (March 1917 by Western calendar) overthrew Tsar Nicholas II and ended the Russian monarchy."
+    },
+    {
+        "question": "What was the October Revolution?",
+        "A": "The overthrow of the Tsar",
+        "B": "The Bolshevik seizure of power",
+        "C": "The end of World War I",
+        "D": "The start of World War I",
+        "answer": "B",
+        "funFact": "The October Revolution (November 1917 by Western calendar) was when the Bolsheviks, led by Lenin, seized power."
+    },
+    {
+        "question": "Who led the Bolsheviks?",
+        "A": "Stalin",
+        "B": "Vladimir Lenin",
+        "C": "Trotsky",
+        "D": "Kerensky",
+        "answer": "B",
+        "funFact": "Vladimir Lenin led the Bolsheviks and became the first leader of the Soviet Union after the revolution."
+    },
+    {
+        "question": "What was the cause of the Russian Revolution?",
+        "A": "Only World War I",
+        "B": "Multiple factors including war, poverty, and autocracy",
+        "C": "Only poverty",
+        "D": "Only autocracy",
+        "answer": "B",
+        "funFact": "The revolution was caused by multiple factors: World War I losses, poverty, food shortages, and autocratic rule."
+    },
+    {
+        "question": "What happened to Tsar Nicholas II?",
+        "A": "Exiled",
+        "B": "Executed with his family",
+        "C": "Imprisoned",
+        "D": "Fled the country",
+        "answer": "B",
+        "funFact": "Tsar Nicholas II and his family were executed by the Bolsheviks in 1918, ending the Romanov dynasty."
+    },
+    {
+        "question": "What was the Russian Civil War?",
+        "A": "Before the revolution",
+        "B": "1918-1922 between Reds and Whites",
+        "C": "After World War II",
+        "D": "During World War I",
+        "answer": "B",
+        "funFact": "The Russian Civil War (1918-1922) was fought between the Red Army (Bolsheviks) and White Army (opponents)."
+    },
+    {
+        "question": "What was the Soviet Union?",
+        "A": "The old Russian Empire",
+        "B": "The new communist state formed after the revolution",
+        "C": "A temporary government",
+        "D": "A region",
+        "answer": "B",
+        "funFact": "The Soviet Union (USSR) was the new communist state formed after the revolution, lasting from 1922 to 1991."
+    },
+    {
+        "question": "What was the slogan of the revolution?",
+        "A": "Liberty, Equality, Fraternity",
+        "B": "Peace, Land, and Bread",
+        "C": "Workers of the world, unite!",
+        "D": "No taxation without representation",
+        "answer": "B",
+        "funFact": "'Peace, Land, and Bread' was a key slogan of the Russian Revolution, addressing major concerns of the people."
+    },
+    {
+        "question": "What was the Provisional Government?",
+        "A": "The Tsar's government",
+        "B": "The temporary government after the February Revolution",
+        "C": "The Bolshevik government",
+        "D": "The Soviet government",
+        "answer": "B",
+        "funFact": "The Provisional Government was the temporary government that ruled Russia between the February and October Revolutions."
+    },
+    {
+        "question": "What was the impact of World War I on Russia?",
+        "A": "No impact",
+        "B": "Major losses and economic strain",
+        "C": "Economic boom",
+        "D": "No involvement",
+        "answer": "B",
+        "funFact": "World War I caused major losses and economic strain in Russia, contributing to revolutionary conditions."
+    },
+    {
+        "question": "What was the role of the peasants?",
+        "A": "No role",
+        "B": "Major force in the revolution",
+        "C": "Opposed the revolution",
+        "D": "Neutral",
+        "answer": "B",
+        "funFact": "Peasants were a major force in the revolution, seeking land reform and an end to their exploitation."
+    },
+    {
+        "question": "What was the role of workers?",
+        "A": "No role",
+        "B": "Key force in the revolution",
+        "C": "Opposed the revolution",
+        "D": "Neutral",
+        "answer": "B",
+        "funFact": "Workers were a key force in the revolution, organizing strikes and supporting the Bolsheviks."
+    },
+    {
+        "question": "What was the impact of the revolution?",
+        "A": "No impact",
+        "B": "Transformed Russia and influenced world history",
+        "C": "Minor changes",
+        "D": "Only affected Russia",
+        "answer": "B",
+        "funFact": "The Russian Revolution transformed Russia and influenced world history, leading to the Cold War and spreading communist ideology."
+    },
+    {
+        "question": "What was the Red Army?",
+        "A": "The old Russian army",
+        "B": "The Bolshevik military force",
+        "C": "The White Army",
+        "D": "A foreign army",
+        "answer": "B",
+        "funFact": "The Red Army was the military force of the Bolsheviks, led by Trotsky, that won the Civil War."
+    },
+    {
+        "question": "What was the White Army?",
+        "A": "The Bolshevik army",
+        "B": "The anti-Bolshevik forces",
+        "C": "The Russian army",
+        "D": "A foreign army",
+        "answer": "B",
+        "funFact": "The White Army was the anti-Bolshevik forces in the Civil War, including monarchists, liberals, and others."
+    },
+    {
+        "question": "What was the New Economic Policy (NEP)?",
+        "A": "War communism",
+        "B": "A temporary return to market economics",
+        "C": "Full communism",
+        "D": "Capitalism",
+        "answer": "B",
+        "funFact": "The New Economic Policy (NEP) was a temporary return to market economics under Lenin to recover from war."
+    },
+    {
+        "question": "What was the impact on women?",
+        "A": "No change",
+        "B": "Gained legal equality and new opportunities",
+        "C": "Lost rights",
+        "D": "No impact",
+        "answer": "B",
+        "funFact": "Women gained legal equality and new opportunities after the revolution, though full equality took longer."
+    },
+    {
+        "question": "What is the legacy of the Russian Revolution?",
+        "A": "None",
+        "B": "Shaped 20th century history and politics",
+        "C": "Only affected Russia",
+        "D": "Only historical interest",
+        "answer": "B",
+        "funFact": "The Russian Revolution shaped 20th century history, leading to the Soviet Union, Cold War, and influencing global politics."
+    }
+]

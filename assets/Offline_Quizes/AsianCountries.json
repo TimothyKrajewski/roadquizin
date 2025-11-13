@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the capital of China?",
+        "A": "Shanghai",
+        "B": "Beijing",
+        "C": "Guangzhou",
+        "D": "Shenzhen",
+        "answer": "B",
+        "funFact": "Beijing is the capital of China and one of the most populous cities in the world."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "A": "Osaka",
+        "B": "Tokyo",
+        "C": "Yokohama",
+        "D": "Kyoto",
+        "answer": "B",
+        "funFact": "Tokyo is the capital of Japan and the most populous metropolitan area in the world."
+    },
+    {
+        "question": "What is the capital of India?",
+        "A": "Mumbai",
+        "B": "New Delhi",
+        "C": "Bangalore",
+        "D": "Kolkata",
+        "answer": "B",
+        "funFact": "New Delhi is the capital of India, part of the larger Delhi metropolitan area."
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "A": "Busan",
+        "B": "Seoul",
+        "C": "Incheon",
+        "D": "Daegu",
+        "answer": "B",
+        "funFact": "Seoul is the capital and largest city of South Korea, one of the world's most technologically advanced cities."
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "A": "Chiang Mai",
+        "B": "Bangkok",
+        "C": "Pattaya",
+        "D": "Phuket",
+        "answer": "B",
+        "funFact": "Bangkok is the capital of Thailand and one of the most visited cities in the world."
+    },
+    {
+        "question": "What is the capital of Indonesia?",
+        "A": "Surabaya",
+        "B": "Jakarta",
+        "C": "Bandung",
+        "D": "Medan",
+        "answer": "B",
+        "funFact": "Jakarta is the capital of Indonesia and the largest city in Southeast Asia."
+    },
+    {
+        "question": "What is the capital of Vietnam?",
+        "A": "Ho Chi Minh City",
+        "B": "Hanoi",
+        "C": "Da Nang",
+        "D": "Hai Phong",
+        "answer": "B",
+        "funFact": "Hanoi is the capital of Vietnam and has been a major city for over 1,000 years."
+    },
+    {
+        "question": "What is the capital of Philippines?",
+        "A": "Cebu",
+        "B": "Manila",
+        "C": "Davao",
+        "D": "Quezon City",
+        "answer": "B",
+        "funFact": "Manila is the capital of the Philippines, though Quezon City is the most populous city."
+    },
+    {
+        "question": "What is the capital of Malaysia?",
+        "A": "Kuala Lumpur",
+        "B": "Putrajaya",
+        "C": "Penang",
+        "D": "Johor Bahru",
+        "answer": "A",
+        "funFact": "Kuala Lumpur is the capital of Malaysia, while Putrajaya is the administrative capital."
+    },
+    {
+        "question": "What is the capital of Singapore?",
+        "A": "Singapore",
+        "B": "Kuala Lumpur",
+        "C": "Bangkok",
+        "D": "Jakarta",
+        "answer": "A",
+        "funFact": "Singapore is both a city and a country, serving as its own capital."
+    },
+    {
+        "question": "What is the capital of Pakistan?",
+        "A": "Karachi",
+        "B": "Lahore",
+        "C": "Islamabad",
+        "D": "Faisalabad",
+        "answer": "C",
+        "funFact": "Islamabad is the capital of Pakistan, purpose-built in the 1960s to replace Karachi."
+    },
+    {
+        "question": "What is the capital of Bangladesh?",
+        "A": "Chittagong",
+        "B": "Dhaka",
+        "C": "Khulna",
+        "D": "Rajshahi",
+        "answer": "B",
+        "funFact": "Dhaka is the capital of Bangladesh and one of the most densely populated cities in the world."
+    },
+    {
+        "question": "What is the capital of Myanmar?",
+        "A": "Yangon",
+        "B": "Naypyidaw",
+        "C": "Mandalay",
+        "D": "Bago",
+        "answer": "B",
+        "funFact": "Naypyidaw became the capital of Myanmar in 2006, replacing Yangon."
+    },
+    {
+        "question": "What is the capital of Sri Lanka?",
+        "A": "Colombo",
+        "B": "Sri Jayawardenepura Kotte",
+        "C": "Kandy",
+        "D": "Galle",
+        "answer": "B",
+        "funFact": "Sri Jayawardenepura Kotte is the capital of Sri Lanka, while Colombo is the commercial center."
+    },
+    {
+        "question": "What is the capital of Nepal?",
+        "A": "Pokhara",
+        "B": "Kathmandu",
+        "C": "Lalitpur",
+        "D": "Bharatpur",
+        "answer": "B",
+        "funFact": "Kathmandu is the capital of Nepal, located in a valley in the Himalayas."
+    },
+    {
+        "question": "What is the capital of Afghanistan?",
+        "A": "Kandahar",
+        "B": "Kabul",
+        "C": "Herat",
+        "D": "Mazar-i-Sharif",
+        "answer": "B",
+        "funFact": "Kabul is the capital of Afghanistan, one of the highest capitals in the world at 5,876 feet."
+    },
+    {
+        "question": "What is the capital of Iran?",
+        "A": "Isfahan",
+        "B": "Tehran",
+        "C": "Mashhad",
+        "D": "Shiraz",
+        "answer": "B",
+        "funFact": "Tehran is the capital of Iran, located at the foot of the Alborz Mountains."
+    },
+    {
+        "question": "What is the capital of Iraq?",
+        "A": "Mosul",
+        "B": "Basra",
+        "C": "Baghdad",
+        "D": "Erbil",
+        "answer": "C",
+        "funFact": "Baghdad is the capital of Iraq, founded in the 8th century and once the center of the Islamic Golden Age."
+    },
+    {
+        "question": "What is the capital of Saudi Arabia?",
+        "A": "Jeddah",
+        "B": "Riyadh",
+        "C": "Mecca",
+        "D": "Medina",
+        "answer": "B",
+        "funFact": "Riyadh is the capital of Saudi Arabia, located in the center of the Arabian Peninsula."
+    },
+    {
+        "question": "What is the capital of United Arab Emirates?",
+        "A": "Dubai",
+        "B": "Abu Dhabi",
+        "C": "Sharjah",
+        "D": "Ajman",
+        "answer": "B",
+        "funFact": "Abu Dhabi is the capital of the United Arab Emirates, while Dubai is the most populous city."
+    }
+]

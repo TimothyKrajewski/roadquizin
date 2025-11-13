@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What was the Vietnam War?",
+        "A": "A civil war",
+        "B": "A conflict in Vietnam from 1955-1975",
+        "C": "A trade war",
+        "D": "A cold war",
+        "answer": "B",
+        "funFact": "The Vietnam War was a conflict in Vietnam from 1955 to 1975, involving North Vietnam, South Vietnam, and the United States."
+    },
+    {
+        "question": "What were the two sides?",
+        "A": "East and West",
+        "B": "North Vietnam and South Vietnam",
+        "C": "North and South Korea",
+        "D": "US and USSR",
+        "answer": "B",
+        "funFact": "The war was between North Vietnam (communist) and South Vietnam (anti-communist, supported by the US)."
+    },
+    {
+        "question": "What was the US role?",
+        "A": "Neutral",
+        "B": "Supporting South Vietnam",
+        "C": "Supporting North Vietnam",
+        "D": "Not involved",
+        "answer": "B",
+        "funFact": "The United States supported South Vietnam with military advisors and eventually hundreds of thousands of troops."
+    },
+    {
+        "question": "What was the draft?",
+        "A": "A choice",
+        "B": "Mandatory military service",
+        "C": "A volunteer program",
+        "D": "A lottery",
+        "answer": "B",
+        "funFact": "The draft was mandatory military service, requiring young men to serve in the military."
+    },
+    {
+        "question": "What was the Tet Offensive?",
+        "A": "A celebration",
+        "B": "A major attack in 1968",
+        "C": "A peace treaty",
+        "D": "A trade agreement",
+        "answer": "B",
+        "funFact": "The Tet Offensive (1968) was a major coordinated attack by North Vietnam, turning US public opinion against the war."
+    },
+    {
+        "question": "What was the study of the Vietnam War called?",
+        "A": "Vietnamology",
+        "B": "History",
+        "C": "Military history",
+        "D": "All of the above",
+        "answer": "D",
+        "funFact": "The Vietnam War is studied through history, military history, and political science."
+    },
+    {
+        "question": "What was the period of the Vietnam War?",
+        "A": "1945-1955",
+        "B": "1955-1975",
+        "C": "1975-1985",
+        "D": "1985-1995",
+        "answer": "B",
+        "funFact": "The Vietnam War lasted from 1955 to 1975, though US involvement was heaviest from 1965 to 1973."
+    },
+    {
+        "question": "What was the fall of Saigon?",
+        "A": "1973",
+        "B": "1975",
+        "C": "1977",
+        "D": "1980",
+        "answer": "B",
+        "funFact": "The fall of Saigon in 1975 marked the end of the Vietnam War, with North Vietnam taking control."
+    },
+    {
+        "question": "What was a protest?",
+        "A": "Support",
+        "B": "Public opposition to the war",
+        "C": "A celebration",
+        "D": "A parade",
+        "answer": "B",
+        "funFact": "Protests were public demonstrations against the Vietnam War, particularly strong in the late 1960s and early 1970s."
+    },
+    {
+        "question": "What was the My Lai Massacre?",
+        "A": "A battle",
+        "B": "A war crime",
+        "C": "A victory",
+        "D": "A treaty",
+        "answer": "B",
+        "funFact": "The My Lai Massacre (1968) was a war crime where US soldiers killed hundreds of Vietnamese civilians."
+    },
+    {
+        "question": "What was Agent Orange?",
+        "A": "A weapon",
+        "B": "A chemical defoliant",
+        "C": "A person",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "Agent Orange was a chemical defoliant used by the US to destroy jungle cover, causing long-term health problems."
+    },
+    {
+        "question": "What was the Ho Chi Minh Trail?",
+        "A": "A road",
+        "B": "A supply route",
+        "C": "A city",
+        "D": "A building",
+        "answer": "B",
+        "funFact": "The Ho Chi Minh Trail was a network of supply routes from North Vietnam through Laos and Cambodia to South Vietnam."
+    },
+    {
+        "question": "What was a POW?",
+        "A": "A soldier",
+        "B": "Prisoner of War",
+        "C": "A civilian",
+        "D": "A general",
+        "answer": "B",
+        "funFact": "POW stands for Prisoner of War, soldiers captured by the enemy during the conflict."
+    },
+    {
+        "question": "What was the Gulf of Tonkin incident?",
+        "A": "A celebration",
+        "B": "An event that escalated US involvement",
+        "C": "A peace treaty",
+        "D": "A trade agreement",
+        "answer": "B",
+        "funFact": "The Gulf of Tonkin incident (1964) led to increased US military involvement in Vietnam."
+    },
+    {
+        "question": "What was the anti-war movement?",
+        "A": "Supporting the war",
+        "B": "Opposition to the war",
+        "C": "Neutral",
+        "D": "A government program",
+        "answer": "B",
+        "funFact": "The anti-war movement was widespread opposition to US involvement in Vietnam, including protests and demonstrations."
+    },
+    {
+        "question": "What was the Paris Peace Accords?",
+        "A": "A war",
+        "B": "A peace agreement",
+        "C": "A battle",
+        "D": "A protest",
+        "answer": "B",
+        "funFact": "The Paris Peace Accords (1973) was an agreement to end US involvement in Vietnam."
+    },
+    {
+        "question": "What was the impact of the Vietnam War?",
+        "A": "No change",
+        "B": "Profound impact on US society and politics",
+        "C": "Minor changes",
+        "D": "Only affected Vietnam",
+        "answer": "B",
+        "funFact": "The Vietnam War had a profound impact on US society, politics, and foreign policy, creating deep divisions."
+    },
+    {
+        "question": "What was a veteran?",
+        "A": "A civilian",
+        "B": "A former soldier",
+        "C": "A current soldier",
+        "D": "A politician",
+        "answer": "B",
+        "funFact": "A veteran is a former soldier who served in the military, and many Vietnam veterans faced challenges returning home."
+    },
+    {
+        "question": "What was the Vietnam Veterans Memorial?",
+        "A": "A building",
+        "B": "A monument honoring veterans",
+        "C": "A war",
+        "D": "A treaty",
+        "answer": "B",
+        "funFact": "The Vietnam Veterans Memorial in Washington, D.C. honors those who served and died in the Vietnam War."
+    },
+    {
+        "question": "What was the domino theory?",
+        "A": "A game",
+        "B": "The fear that communism would spread",
+        "C": "A strategy",
+        "D": "A weapon",
+        "answer": "B",
+        "funFact": "The domino theory was the fear that if one country fell to communism, others would follow like dominoes."
+    }
+]

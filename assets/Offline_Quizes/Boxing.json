@@ -1,0 +1,182 @@
+[
+    {
+        "question": "How many rounds are in a standard professional boxing match?",
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "15",
+        "answer": "C",
+        "funFact": "Most professional championship boxing matches consist of 12 rounds of 3 minutes each."
+    },
+    {
+        "question": "How long is each round in professional boxing?",
+        "A": "2 minutes",
+        "B": "3 minutes",
+        "C": "4 minutes",
+        "D": "5 minutes",
+        "answer": "B",
+        "funFact": "Each round in professional boxing lasts 3 minutes, with 1 minute rest between rounds."
+    },
+    {
+        "question": "What is a knockout?",
+        "A": "A decision",
+        "B": "When a boxer cannot continue",
+        "C": "A draw",
+        "D": "A round",
+        "answer": "B",
+        "funFact": "A knockout (KO) occurs when a boxer is knocked down and cannot get up within 10 seconds."
+    },
+    {
+        "question": "What is a TKO?",
+        "A": "Total Knockout",
+        "B": "Technical Knockout",
+        "C": "Time Knockout",
+        "D": "Temporary Knockout",
+        "answer": "B",
+        "funFact": "A TKO (Technical Knockout) occurs when the referee stops the fight because a boxer cannot safely continue."
+    },
+    {
+        "question": "What are the weight classes in boxing called?",
+        "A": "Divisions",
+        "B": "Categories",
+        "C": "Classes",
+        "D": "Groups",
+        "answer": "A",
+        "funFact": "Boxing weight classes are called divisions, ranging from minimumweight to heavyweight."
+    },
+    {
+        "question": "What is a jab?",
+        "A": "A power punch",
+        "B": "A quick, straight punch",
+        "C": "A hook",
+        "D": "An uppercut",
+        "answer": "B",
+        "funFact": "A jab is a quick, straight punch thrown with the lead hand, used to set up other punches."
+    },
+    {
+        "question": "What is a hook?",
+        "A": "A straight punch",
+        "B": "A curved punch to the side",
+        "C": "An uppercut",
+        "D": "A jab",
+        "answer": "B",
+        "funFact": "A hook is a curved punch thrown to the side of an opponent's head or body."
+    },
+    {
+        "question": "What is an uppercut?",
+        "A": "A straight punch",
+        "B": "An upward punch",
+        "C": "A hook",
+        "D": "A jab",
+        "answer": "B",
+        "funFact": "An uppercut is an upward punch thrown from below, typically targeting the chin or body."
+    },
+    {
+        "question": "What is the ring?",
+        "A": "A circle",
+        "B": "The boxing arena",
+        "C": "A round",
+        "D": "A glove",
+        "answer": "B",
+        "funFact": "The ring is the square or rectangular area where boxers fight, typically 16-20 feet per side."
+    },
+    {
+        "question": "What is a corner?",
+        "A": "The center",
+        "B": "A boxer's rest area",
+        "C": "A punch",
+        "D": "A round",
+        "answer": "B",
+        "funFact": "The corner is where a boxer rests between rounds, where their trainer provides advice and water."
+    },
+    {
+        "question": "What is a referee?",
+        "A": "A boxer",
+        "B": "The official who enforces rules",
+        "C": "A trainer",
+        "D": "A judge",
+        "answer": "B",
+        "funFact": "The referee is the official inside the ring who enforces rules and ensures boxer safety."
+    },
+    {
+        "question": "What are judges?",
+        "A": "Referees",
+        "B": "Officials who score the fight",
+        "C": "Boxers",
+        "D": "Trainers",
+        "answer": "B",
+        "funFact": "Judges are officials who score each round to determine the winner if the fight goes the distance."
+    },
+    {
+        "question": "What is a decision?",
+        "A": "A knockout",
+        "B": "Winner determined by judges' scores",
+        "C": "A draw",
+        "D": "A TKO",
+        "answer": "B",
+        "funFact": "A decision is when the winner is determined by the judges' scorecards after all rounds."
+    },
+    {
+        "question": "What is a draw?",
+        "A": "A knockout",
+        "B": "A tie",
+        "C": "A decision",
+        "D": "A TKO",
+        "answer": "B",
+        "funFact": "A draw occurs when the judges' scores result in a tie, with no winner declared."
+    },
+    {
+        "question": "What is a weight class?",
+        "A": "A division",
+        "B": "A category based on weight",
+        "C": "A round",
+        "D": "A punch",
+        "answer": "B",
+        "funFact": "Weight classes are categories that group boxers by weight to ensure fair competition."
+    },
+    {
+        "question": "What is a title fight?",
+        "A": "A regular fight",
+        "B": "A championship bout",
+        "C": "An exhibition",
+        "D": "A sparring match",
+        "answer": "B",
+        "funFact": "A title fight is a championship bout where a title belt is at stake."
+    },
+    {
+        "question": "What is a belt?",
+        "A": "A piece of clothing",
+        "B": "A championship title",
+        "C": "A round",
+        "D": "A punch",
+        "answer": "B",
+        "funFact": "A belt is the physical championship title awarded to the winner of a title fight."
+    },
+    {
+        "question": "What is a trainer?",
+        "A": "A boxer",
+        "B": "A coach who prepares the boxer",
+        "C": "A referee",
+        "D": "A judge",
+        "answer": "B",
+        "funFact": "A trainer is a coach who prepares the boxer, provides strategy, and assists during fights."
+    },
+    {
+        "question": "What is a cut?",
+        "A": "A punch",
+        "B": "A wound that can stop a fight",
+        "C": "A round",
+        "D": "A decision",
+        "answer": "B",
+        "funFact": "A cut is a wound that can cause a fight to be stopped if it's too severe or affects vision."
+    },
+    {
+        "question": "What is the study of boxing called?",
+        "A": "Boxingology",
+        "B": "Pugilism",
+        "C": "Fighting",
+        "D": "Combat sports",
+        "answer": "B",
+        "funFact": "Boxing is also known as pugilism, from the Latin word for 'fist fighter'."
+    }
+]

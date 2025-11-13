@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is ecology?",
+        "A": "Study of animals",
+        "B": "Study of interactions between organisms and environment",
+        "C": "Study of plants",
+        "D": "Study of cells",
+        "answer": "B",
+        "funFact": "Ecology is the study of how organisms interact with each other and their environment."
+    },
+    {
+        "question": "What is an ecosystem?",
+        "A": "A single organism",
+        "B": "A community of living and non-living things",
+        "C": "A type of cell",
+        "D": "A molecule",
+        "answer": "B",
+        "funFact": "An ecosystem is a community of living organisms interacting with their physical environment."
+    },
+    {
+        "question": "What is a food chain?",
+        "A": "A list of foods",
+        "B": "A sequence of who eats whom",
+        "C": "A type of ecosystem",
+        "D": "A habitat",
+        "answer": "B",
+        "funFact": "A food chain shows the sequence of who eats whom in an ecosystem, transferring energy."
+    },
+    {
+        "question": "What is a producer?",
+        "A": "An animal",
+        "B": "An organism that makes its own food",
+        "C": "A consumer",
+        "D": "A decomposer",
+        "answer": "B",
+        "funFact": "Producers, like plants, make their own food through photosynthesis."
+    },
+    {
+        "question": "What is a consumer?",
+        "A": "A plant",
+        "B": "An organism that eats other organisms",
+        "C": "A producer",
+        "D": "A decomposer",
+        "answer": "B",
+        "funFact": "Consumers are organisms that eat other organisms for energy."
+    },
+    {
+        "question": "What is a decomposer?",
+        "A": "A plant",
+        "B": "An organism that breaks down dead matter",
+        "C": "A consumer",
+        "D": "A producer",
+        "answer": "B",
+        "funFact": "Decomposers, like bacteria and fungi, break down dead organic matter and return nutrients to the soil."
+    },
+    {
+        "question": "What is biodiversity?",
+        "A": "One type of organism",
+        "B": "Variety of life in an area",
+        "C": "A food chain",
+        "D": "An ecosystem",
+        "answer": "B",
+        "funFact": "Biodiversity refers to the variety of life forms in a particular habitat or ecosystem."
+    },
+    {
+        "question": "What is a habitat?",
+        "A": "A food chain",
+        "B": "The natural environment where an organism lives",
+        "C": "A type of organism",
+        "D": "A population",
+        "answer": "B",
+        "funFact": "A habitat is the natural environment where an organism lives and finds what it needs to survive."
+    },
+    {
+        "question": "What is a niche?",
+        "A": "A habitat",
+        "B": "An organism's role in its ecosystem",
+        "C": "A food chain",
+        "D": "A population",
+        "answer": "B",
+        "funFact": "A niche is an organism's role in its ecosystem, including what it eats and how it interacts with other species."
+    },
+    {
+        "question": "What is a population?",
+        "A": "A single organism",
+        "B": "A group of the same species in an area",
+        "C": "A community",
+        "D": "An ecosystem",
+        "answer": "B",
+        "funFact": "A population is a group of individuals of the same species living in the same area."
+    },
+    {
+        "question": "What is a community?",
+        "A": "A single species",
+        "B": "All populations in an area",
+        "C": "An ecosystem",
+        "D": "A habitat",
+        "answer": "B",
+        "funFact": "A community consists of all the different populations of species living in the same area."
+    },
+    {
+        "question": "What is photosynthesis?",
+        "A": "Animals making food",
+        "B": "Plants converting light to energy",
+        "C": "Decomposition",
+        "D": "Respiration",
+        "answer": "B",
+        "funFact": "Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into glucose and oxygen."
+    },
+    {
+        "question": "What is a predator?",
+        "A": "An organism that is eaten",
+        "B": "An organism that hunts and eats other organisms",
+        "C": "A plant",
+        "D": "A decomposer",
+        "answer": "B",
+        "funFact": "A predator is an organism that hunts and kills other organisms for food."
+    },
+    {
+        "question": "What is prey?",
+        "A": "An organism that hunts",
+        "B": "An organism that is hunted and eaten",
+        "C": "A plant",
+        "D": "A decomposer",
+        "answer": "B",
+        "funFact": "Prey are organisms that are hunted and eaten by predators."
+    },
+    {
+        "question": "What is symbiosis?",
+        "A": "Competition",
+        "B": "Close relationship between different species",
+        "C": "Predation",
+        "D": "Isolation",
+        "answer": "B",
+        "funFact": "Symbiosis is a close, long-term relationship between different species, which can be mutualistic, parasitic, or commensal."
+    },
+    {
+        "question": "What is mutualism?",
+        "A": "One benefits, one harmed",
+        "B": "Both species benefit",
+        "C": "One benefits, one unaffected",
+        "D": "Both harmed",
+        "answer": "B",
+        "funFact": "Mutualism is a type of symbiosis where both species benefit from the relationship."
+    },
+    {
+        "question": "What is competition?",
+        "A": "Cooperation",
+        "B": "Struggle for resources",
+        "C": "Symbiosis",
+        "D": "Mutualism",
+        "answer": "B",
+        "funFact": "Competition occurs when organisms struggle for the same limited resources like food, water, or space."
+    },
+    {
+        "question": "What is a food web?",
+        "A": "A single food chain",
+        "B": "Interconnected food chains",
+        "C": "A type of habitat",
+        "D": "A population",
+        "answer": "B",
+        "funFact": "A food web is a complex network of interconnected food chains showing all feeding relationships in an ecosystem."
+    },
+    {
+        "question": "What is carrying capacity?",
+        "A": "Maximum population size",
+        "B": "Minimum population size",
+        "C": "Current population",
+        "D": "Population growth",
+        "answer": "A",
+        "funFact": "Carrying capacity is the maximum number of individuals an environment can support sustainably."
+    },
+    {
+        "question": "What is the study of ecosystems called?",
+        "A": "Biology",
+        "B": "Ecology",
+        "C": "Chemistry",
+        "D": "Physics",
+        "answer": "B",
+        "funFact": "Ecology is the scientific study of interactions between organisms and their environment."
+    }
+]
