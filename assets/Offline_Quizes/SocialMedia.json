@@ -76,7 +76,7 @@
         "A": "Social mediaology",
         "B": "Social media studies",
         "C": "Digital media",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Social media is studied through digital media, communication studies, and social media research."
     },
@@ -117,15 +117,6 @@
         "funFact": "Social media has become a major platform for communication, information sharing, business, and social connection."
     },
     {
-        "question": "What is the study of social media called?",
-        "A": "Social mediaology",
-        "B": "Digital communication",
-        "C": "Social networking",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Social media involves digital communication, social networking, and how people interact online."
-    },
-    {
         "question": "What is the difference between social media and traditional media?",
         "A": "They're the same",
         "B": "Social media is interactive and user-generated",
@@ -142,33 +133,6 @@
         "D": "Only affects individuals",
         "answer": "B",
         "funFact": "Social media has significantly impacted communication, politics, business, culture, and how people form relationships."
-    },
-    {
-        "question": "What is the origin of social media?",
-        "A": "The 2000s",
-        "B": "The late 1990s-early 2000s",
-        "C": "The 1980s",
-        "D": "The 1970s",
-        "answer": "B",
-        "funFact": "Social media began with early platforms in the late 1990s-early 2000s, evolving into today's diverse ecosystem."
-    },
-    {
-        "question": "What is the future of social media?",
-        "A": "No future",
-        "B": "Continued innovation and new forms",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of social media includes new platforms, features, and ways of connecting and sharing content."
-    },
-    {
-        "question": "What is the study of social media called?",
-        "A": "Social mediaology",
-        "B": "Social media research",
-        "C": "Digital sociology",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Social media is studied through communication, sociology, psychology, and digital media research."
     },
     {
         "question": "What is the importance of privacy on social media?",

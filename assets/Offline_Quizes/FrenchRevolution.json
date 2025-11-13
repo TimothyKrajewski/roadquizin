@@ -49,7 +49,7 @@
         "A": "Frenchology",
         "B": "History",
         "C": "Revolutionary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The French Revolution is studied through history, political science, and revolutionary studies."
     },
@@ -169,14 +169,5 @@
         "D": "Caused no change",
         "answer": "B",
         "funFact": "The French Revolution marked the end of absolute monarchy in France and the rise of modern democracy."
-    },
-    {
-        "question": "What was the period of the French Revolution?",
-        "A": "1776-1783",
-        "B": "1789-1799",
-        "C": "1800-1810",
-        "D": "1810-1820",
-        "answer": "B",
-        "funFact": "The French Revolution lasted from 1789 to 1799, fundamentally changing French society and government."
     }
 ]

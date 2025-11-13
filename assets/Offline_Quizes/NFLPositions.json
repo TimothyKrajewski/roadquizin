@@ -12,7 +12,7 @@
         "question": "What is a quarterback?",
         "A": "Most important offensive position",
         "B": "Throws passes and leads offense",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Defensive position",
         "answer": "A",
         "funFact": "A quarterback is the most important offensive position. They throw passes, hand off the ball, and lead the offense."
@@ -21,7 +21,7 @@
         "question": "What is a running back?",
         "A": "Carries the ball",
         "B": "Also catches passes",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only runs",
         "answer": "A",
         "funFact": "A running back primarily carries the ball but also catches passes and blocks. There are different types like halfbacks and fullbacks."
@@ -30,7 +30,7 @@
         "question": "What is a wide receiver?",
         "A": "Catches passes",
         "B": "Runs routes",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Blocks only",
         "answer": "A",
         "funFact": "A wide receiver catches passes and runs routes to get open. They're key targets for the quarterback."
@@ -39,7 +39,7 @@
         "question": "What is a tight end?",
         "A": "Combines receiver and blocker",
         "B": "Can catch passes or block",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only blocks",
         "answer": "A",
         "funFact": "A tight end combines the skills of a receiver and blocker. They can catch passes or block depending on the play."
@@ -48,7 +48,7 @@
         "question": "What is an offensive lineman?",
         "A": "Blocks for offense",
         "B": "Includes tackles, guards, center",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only center",
         "answer": "A",
         "funFact": "An offensive lineman blocks for the offense. The line includes tackles (outside), guards (inside), and a center (snaps the ball)."
@@ -57,7 +57,7 @@
         "question": "What is a defensive lineman?",
         "A": "Rushes quarterback",
         "B": "Stops running plays",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only covers receivers",
         "answer": "A",
         "funFact": "A defensive lineman rushes the quarterback and stops running plays. They're the first line of defense."
@@ -66,7 +66,7 @@
         "question": "What is a linebacker?",
         "A": "Defensive position",
         "B": "Stops runs and covers passes",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only rushes",
         "answer": "A",
         "funFact": "A linebacker is a defensive position that stops running plays and covers passes. They're versatile defensive players."
@@ -75,17 +75,17 @@
         "question": "What is a cornerback?",
         "A": "Covers wide receivers",
         "B": "Defensive back",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only tackles",
         "answer": "A",
         "funFact": "A cornerback covers wide receivers and is a defensive back. They're responsible for preventing completions."
     },
     {
         "question": "What is a safety?",
-        "B": "Defensive back",
-        "C": "Neither A nor B",
-        "D": "Only rushes",
         "A": "Last line of defense",
+        "B": "Defensive back",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Only rushes",
         "answer": "A",
         "funFact": "A safety is the last line of defense and is a defensive back. They help cover deep passes and support the run."
     },
@@ -93,7 +93,7 @@
         "question": "What is a kicker?",
         "A": "Kicks field goals and extra points",
         "B": "Special teams",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only punts",
         "answer": "A",
         "funFact": "A kicker kicks field goals and extra points and is part of special teams. They're crucial for scoring points."
@@ -102,7 +102,7 @@
         "question": "What is a punter?",
         "A": "Kicks ball to opponent",
         "B": "Special teams",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only kicks field goals",
         "answer": "A",
         "funFact": "A punter kicks the ball to the opponent and is part of special teams. They're used on fourth down to change field position."
@@ -111,7 +111,7 @@
         "question": "What is a returner?",
         "A": "Returns kicks and punts",
         "B": "Special teams",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only kicks",
         "answer": "A",
         "funFact": "A returner returns kicks and punts and is part of special teams. They try to gain yards after catching the ball."
@@ -120,7 +120,7 @@
         "question": "What is the importance of positions?",
         "A": "Each has specific role",
         "B": "Team needs all positions",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Some unimportant",
         "answer": "A",
         "funFact": "Each position has a specific role, and teams need all positions to succeed. Football is the ultimate team sport."
@@ -129,7 +129,7 @@
         "question": "What is position flexibility?",
         "A": "Some players play multiple positions",
         "B": "Valuable skill",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Not allowed",
         "answer": "A",
         "funFact": "Some players can play multiple positions, which is a valuable skill. It gives teams more flexibility and options."
@@ -138,7 +138,7 @@
         "question": "What is the salary by position?",
         "A": "Varies greatly",
         "B": "Quarterbacks highest paid",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "All equal",
         "answer": "A",
         "funFact": "Salaries vary greatly by position, with quarterbacks typically being the highest paid. Other positions earn less but still well."
@@ -147,7 +147,7 @@
         "question": "What is the draft by position?",
         "A": "Some positions drafted higher",
         "B": "Quarterbacks often first",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Random",
         "answer": "A",
         "funFact": "Some positions are drafted higher than others. Quarterbacks are often selected first overall due to their importance."
@@ -156,7 +156,7 @@
         "question": "What is the evolution of positions?",
         "A": "Positions have evolved",
         "B": "New roles created",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Never changed",
         "answer": "A",
         "funFact": "Positions have evolved over time, and new roles have been created. The game continues to change and adapt."
@@ -165,7 +165,7 @@
         "question": "What is the future of positions?",
         "A": "Will continue to evolve",
         "B": "New positions may emerge",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Will stay same",
         "answer": "A",
         "funFact": "Positions will continue to evolve, and new positions may emerge as the game changes. Football is always adapting."
@@ -174,7 +174,7 @@
         "question": "What is the importance of understanding positions?",
         "A": "Essential for understanding game",
         "B": "Each position matters",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Unimportant",
         "answer": "A",
         "funFact": "Understanding positions is essential for understanding the game. Each position matters and contributes to team success."

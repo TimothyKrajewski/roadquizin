@@ -4,7 +4,7 @@
         "A": "Red, green, blue",
         "B": "Red, yellow, blue",
         "C": "Cyan, magenta, yellow",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Primary colors depend on the color model: red, yellow, blue for pigments (subtractive); red, green, blue for light (additive/RGB); cyan, magenta, yellow for printing (CMYK)."
     },

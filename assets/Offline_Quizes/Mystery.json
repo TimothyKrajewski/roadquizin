@@ -31,7 +31,7 @@
         "A": "Mysteryology",
         "B": "Mystery studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Mystery literature is studied through literary studies, genre analysis, and detective fiction research."
     },
@@ -72,15 +72,6 @@
         "funFact": "Mystery novels provide popular entertainment and engage readers in puzzle-solving and deduction."
     },
     {
-        "question": "What is the study of mystery literature called?",
-        "A": "Mysteryology",
-        "B": "Mystery analysis",
-        "C": "Detective fiction",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mystery literature is studied through literary studies, genre analysis, and detective fiction research."
-    },
-    {
         "question": "What is the difference between mystery and thriller?",
         "A": "They're the same",
         "B": "Mystery focuses on puzzle, thriller on suspense",
@@ -99,42 +90,6 @@
         "funFact": "Mystery novels have influenced detective stories in books, films, television, and other media."
     },
     {
-        "question": "What is the origin of mystery literature?",
-        "A": "The 2000s",
-        "B": "The 1800s",
-        "C": "The 1900s",
-        "D": "The 1700s",
-        "answer": "B",
-        "funFact": "Mystery literature began in the 1800s with Edgar Allan Poe, developing into a major genre in the 1900s."
-    },
-    {
-        "question": "What is the future of mystery novels?",
-        "A": "No future",
-        "B": "Evolving with new styles and voices",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Mystery novels continue to evolve with new styles, voices, and approaches to the genre."
-    },
-    {
-        "question": "What is the study of mystery literature called?",
-        "A": "Mysteryology",
-        "B": "Mystery studies",
-        "C": "Crime fiction",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mystery literature is studied through literary studies, genre research, and crime fiction analysis."
-    },
-    {
-        "question": "What is the importance of mystery novels?",
-        "A": "Not important",
-        "B": "Engaging entertainment and mental exercise",
-        "C": "Minor importance",
-        "D": "Only for readers",
-        "answer": "B",
-        "funFact": "Mystery novels provide engaging entertainment and mental exercise through puzzle-solving and deduction."
-    },
-    {
         "question": "What is the difference between a whodunit and a howdunit?",
         "A": "They're the same",
         "B": "Whodunit asks who, howdunit asks how",
@@ -151,32 +106,5 @@
         "D": "Only affects some media",
         "answer": "B",
         "funFact": "Mystery novels have major influence on books, films, television shows, and other forms of entertainment."
-    },
-    {
-        "question": "What is the origin of mystery literature?",
-        "A": "The 2000s",
-        "B": "The 1800s-1900s",
-        "C": "The 1700s",
-        "D": "The 1600s",
-        "answer": "B",
-        "funFact": "Mystery literature developed in the 1800s-1900s, becoming one of the most popular literary genres."
-    },
-    {
-        "question": "What is the future of mystery novels?",
-        "A": "No future",
-        "B": "Continued popularity and innovation",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Mystery novels continue to be popular and innovative, with new subgenres and diverse perspectives."
-    },
-    {
-        "question": "What is the study of mystery literature called?",
-        "A": "Mysteryology",
-        "B": "Mystery research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mystery literature is studied through literary studies, genre research, and detective fiction analysis, exploring its techniques and appeal."
     }
 ]

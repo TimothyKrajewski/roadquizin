@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Which one-hit wonder sang 'Macarena'?",
+    "A": "Los Del Rio",
+    "B": "Ricky Martin",
+    "C": "Enrique Iglesias",
+    "D": "Shakira",
+    "answer": "A",
+    "funFact": "Macarena by Los Del Rio was released in 1993 and became a worldwide dance craze in 1996."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Who Let the Dogs Out'?",
+    "A": "Baha Men",
+    "B": "The B-52's",
+    "C": "The Proclaimers",
+    "D": "Chumbawamba",
+    "answer": "A",
+    "funFact": "Who Let the Dogs Out by Baha Men was released in 2000 and became a sports stadium anthem."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Tubthumping'?",
+    "A": "Chumbawamba",
+    "B": "Baha Men",
+    "C": "The Proclaimers",
+    "D": "Los Del Rio",
+    "answer": "A",
+    "funFact": "Tubthumping by Chumbawamba was released in 1997 with the famous chorus 'I get knocked down, but I get up again.'"
+  },
+  {
+    "question": "Which one-hit wonder sang 'I'm Too Sexy'?",
+    "A": "Right Said Fred",
+    "B": "The Proclaimers",
+    "C": "Chumbawamba",
+    "D": "Baha Men",
+    "answer": "A",
+    "funFact": "I'm Too Sexy by Right Said Fred was released in 1991 and reached number one in multiple countries."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Mambo No. 5'?",
+    "A": "Lou Bega",
+    "B": "Ricky Martin",
+    "C": "Enrique Iglesias",
+    "D": "Shakira",
+    "answer": "A",
+    "funFact": "Mambo No. 5 by Lou Bega was released in 1999 and became a worldwide hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'The Safety Dance'?",
+    "A": "Men Without Hats",
+    "B": "A Flock of Seagulls",
+    "C": "The B-52's",
+    "D": "Devo",
+    "answer": "A",
+    "funFact": "The Safety Dance by Men Without Hats was released in 1982 and became a new wave classic."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Come On Eileen'?",
+    "A": "Dexys Midnight Runners",
+    "B": "The Proclaimers",
+    "C": "Chumbawamba",
+    "D": "Baha Men",
+    "answer": "A",
+    "funFact": "Come On Eileen by Dexys Midnight Runners was released in 1982 and reached number one in the UK and US."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Take On Me'?",
+    "A": "a-ha",
+    "B": "Men Without Hats",
+    "C": "A Flock of Seagulls",
+    "D": "The B-52's",
+    "answer": "A",
+    "funFact": "Take On Me by a-ha was released in 1985 and became famous for its innovative animated music video."
+  },
+  {
+    "question": "Which one-hit wonder sang 'I Ran (So Far Away)'?",
+    "A": "A Flock of Seagulls",
+    "B": "Men Without Hats",
+    "C": "The B-52's",
+    "D": "Devo",
+    "answer": "A",
+    "funFact": "I Ran (So Far Away) by A Flock of Seagulls was released in 1982 and became a new wave hit."
+  },
+  {
+    "question": "Which one-hit wonder sang '99 Luftballons'?",
+    "A": "Nena",
+    "B": "Falco",
+    "C": "Kraftwerk",
+    "D": "Alphaville",
+    "answer": "A",
+    "funFact": "99 Luftballons by Nena was released in 1983 and became an anti-war anthem."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Rock Me Amadeus'?",
+    "A": "Falco",
+    "B": "Nena",
+    "C": "Kraftwerk",
+    "D": "Alphaville",
+    "answer": "A",
+    "funFact": "Rock Me Amadeus by Falco was released in 1985 and became the first German-language song to top the US charts."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Blue (Da Ba Dee)'?",
+    "A": "Eiffel 65",
+    "B": "Aqua",
+    "C": "Vengaboys",
+    "D": "Scooter",
+    "answer": "A",
+    "funFact": "Blue (Da Ba Dee) by Eiffel 65 was released in 1998 and became a worldwide dance hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Barbie Girl'?",
+    "A": "Aqua",
+    "B": "Eiffel 65",
+    "C": "Vengaboys",
+    "D": "Scooter",
+    "answer": "A",
+    "funFact": "Barbie Girl by Aqua was released in 1997 and became a controversial but successful hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'The Ketchup Song (Aserejé)'?",
+    "A": "Las Ketchup",
+    "B": "Los Del Rio",
+    "C": "Ricky Martin",
+    "D": "Enrique Iglesias",
+    "answer": "A",
+    "funFact": "The Ketchup Song by Las Ketchup was released in 2002 and became a worldwide dance hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Gangnam Style'?",
+    "A": "PSY",
+    "B": "BTS",
+    "C": "Blackpink",
+    "D": "Twice",
+    "answer": "A",
+    "funFact": "Gangnam Style by PSY was released in 2012 and became the first YouTube video to reach one billion views."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Somebody That I Used to Know'?",
+    "A": "Gotye",
+    "B": "PSY",
+    "C": "Eiffel 65",
+    "D": "Aqua",
+    "answer": "A",
+    "funFact": "Somebody That I Used to Know by Gotye was released in 2011 and became a worldwide hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Harlem Shake'?",
+    "A": "Baauer",
+    "B": "PSY",
+    "C": "Gotye",
+    "D": "Eiffel 65",
+    "answer": "A",
+    "funFact": "Harlem Shake by Baauer was released in 2012 and became a viral internet meme in 2013."
+  },
+  {
+    "question": "Which one-hit wonder sang 'What Does the Fox Say'?",
+    "A": "Ylvis",
+    "B": "PSY",
+    "C": "Gotye",
+    "D": "Baauer",
+    "answer": "A",
+    "funFact": "What Does the Fox Say by Ylvis was released in 2013 and became a viral internet sensation."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Friday'?",
+    "A": "Rebecca Black",
+    "B": "PSY",
+    "C": "Gotye",
+    "D": "Ylvis",
+    "answer": "A",
+    "funFact": "Friday by Rebecca Black was released in 2011 and became famous for being widely criticized, making it a viral hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Call Me Maybe'?",
+    "A": "Carly Rae Jepsen",
+    "B": "Rebecca Black",
+    "C": "PSY",
+    "D": "Gotye",
+    "answer": "A",
+    "funFact": "Call Me Maybe by Carly Rae Jepsen was released in 2011 and became a worldwide pop hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Never Gonna Give You Up'?",
+    "A": "Rick Astley",
+    "B": "Carly Rae Jepsen",
+    "C": "Rebecca Black",
+    "D": "PSY",
+    "answer": "A",
+    "funFact": "Never Gonna Give You Up by Rick Astley was released in 1987 and became famous for the 'Rickroll' internet meme."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Tainted Love'?",
+    "A": "Soft Cell",
+    "B": "Rick Astley",
+    "C": "Carly Rae Jepsen",
+    "D": "Rebecca Black",
+    "answer": "A",
+    "funFact": "Tainted Love by Soft Cell was released in 1981 and became a new wave classic."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Don't You Want Me'?",
+    "A": "The Human League",
+    "B": "Soft Cell",
+    "C": "Rick Astley",
+    "D": "Carly Rae Jepsen",
+    "answer": "A",
+    "funFact": "Don't You Want Me by The Human League was released in 1981 and became a synth-pop classic."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Relax'?",
+    "A": "Frankie Goes to Hollywood",
+    "B": "The Human League",
+    "C": "Soft Cell",
+    "D": "Rick Astley",
+    "answer": "A",
+    "funFact": "Relax by Frankie Goes to Hollywood was released in 1983 and became controversial but successful."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Video Killed the Radio Star'?",
+    "A": "The Buggles",
+    "B": "Frankie Goes to Hollywood",
+    "C": "The Human League",
+    "D": "Soft Cell",
+    "answer": "A",
+    "funFact": "Video Killed the Radio Star by The Buggles was the first music video ever played on MTV in 1981."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Turning Japanese'?",
+    "A": "The Vapors",
+    "B": "The Buggles",
+    "C": "Frankie Goes to Hollywood",
+    "D": "The Human League",
+    "answer": "A",
+    "funFact": "Turning Japanese by The Vapors was released in 1980 and became a new wave hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Puttin' On the Ritz'?",
+    "A": "Taco",
+    "B": "The Vapors",
+    "C": "The Buggles",
+    "D": "Frankie Goes to Hollywood",
+    "answer": "A",
+    "funFact": "Puttin' On the Ritz by Taco was released in 1982 and became a synth-pop hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Pop Muzik'?",
+    "A": "M",
+    "B": "Taco",
+    "C": "The Vapors",
+    "D": "The Buggles",
+    "answer": "A",
+    "funFact": "Pop Muzik by M was released in 1979 and became a new wave and disco hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Funkytown'?",
+    "A": "Lipps Inc.",
+    "B": "M",
+    "C": "Taco",
+    "D": "The Vapors",
+    "answer": "A",
+    "funFact": "Funkytown by Lipps Inc. was released in 1979 and became a disco and dance hit."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Mickey'?",
+    "A": "Toni Basil",
+    "B": "Lipps Inc.",
+    "C": "M",
+    "D": "Taco",
+    "answer": "A",
+    "funFact": "Mickey by Toni Basil was released in 1981 and became famous for its cheerleader-themed music video."
+  },
+  {
+    "question": "Which one-hit wonder sang 'Tubthumping'?",
+    "A": "Chumbawamba",
+    "B": "Toni Basil",
+    "C": "Lipps Inc.",
+    "D": "M",
+    "answer": "A",
+    "funFact": "Tubthumping by Chumbawamba was released in 1997 and became a worldwide hit with its catchy chorus."
+  },
+  {
+    "question": "Which one-hit wonder sang 'The Final Countdown'?",
+    "A": "Europe",
+    "B": "Chumbawamba",
+    "C": "Toni Basil",
+    "D": "Lipps Inc.",
+    "answer": "A",
+    "funFact": "The Final Countdown by Europe was released in 1986 and became a rock anthem."
+  }
+]
+
+

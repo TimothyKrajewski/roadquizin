@@ -67,7 +67,7 @@
         "A": "Hollywood Studios",
         "B": "MGM Studios",
         "C": "Disney Studios",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Disney's Hollywood Studios opened in 1989 as Disney-MGM Studios. It was renamed Disney's Hollywood Studios in 2008 after the MGM licensing agreement ended."
     },
@@ -175,7 +175,7 @@
         "A": "Disneyland Hotel",
         "B": "Grand Californian Hotel",
         "C": "Paradise Pier Hotel",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "There are three Disney hotels at the Disneyland Resort: the original Disneyland Hotel, Disney's Grand Californian Hotel & Spa, and Disney's Paradise Pier Hotel."
     }

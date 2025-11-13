@@ -45,10 +45,10 @@
         "funFact": "Julius Caesar crossed the Rubicon River in 49 BC, starting a civil war. The phrase 'crossing the Rubicon' means making an irreversible decision."
     },
     {
-        "question": "What was the name of the ancient city destroyed by Mount Vesuvius?",
+        "question": "What was the primary characteristic of the name of the ancient city destroyed by Mount Vesuvius?",
         "A": "Herculaneum",
         "B": "Pompeii",
-        "C": "Neither A nor B",
+        "C": "The Battle of Gettysburg (1863)",
         "D": "Rome",
         "answer": "A",
         "funFact": "Both Pompeii and Herculaneum were destroyed by the eruption of Mount Vesuvius in 79 AD. The cities were buried in ash and preserved for centuries."

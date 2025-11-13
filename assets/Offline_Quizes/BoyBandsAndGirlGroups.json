@@ -1,0 +1,283 @@
+[
+  {
+    "question": "Which boy band sang 'I Want It That Way'?",
+    "A": "Backstreet Boys",
+    "B": "NSYNC",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "I Want It That Way by Backstreet Boys was released in 1999 and became one of their biggest hits."
+  },
+  {
+    "question": "Which boy band sang 'Bye Bye Bye'?",
+    "A": "NSYNC",
+    "B": "Backstreet Boys",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Bye Bye Bye by NSYNC was released in 2000 and became one of their signature songs."
+  },
+  {
+    "question": "Which boy band sang 'Step by Step'?",
+    "A": "New Kids on the Block",
+    "B": "Backstreet Boys",
+    "C": "NSYNC",
+    "D": "98 Degrees",
+    "answer": "A",
+    "funFact": "Step by Step by New Kids on the Block was released in 1990 and became a number one hit."
+  },
+  {
+    "question": "Which girl group sang 'Wannabe'?",
+    "A": "Spice Girls",
+    "B": "Destiny's Child",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Wannabe by Spice Girls was released in 1996 and became their debut number one hit."
+  },
+  {
+    "question": "Which girl group sang 'Say My Name'?",
+    "A": "Destiny's Child",
+    "B": "Spice Girls",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Say My Name by Destiny's Child was released in 1999 and won Grammy Awards for Best R&B Song and Best R&B Performance."
+  },
+  {
+    "question": "Which girl group sang 'Waterfalls'?",
+    "A": "TLC",
+    "B": "Spice Girls",
+    "C": "Destiny's Child",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Waterfalls by TLC was released in 1995 and became one of their most successful songs."
+  },
+  {
+    "question": "Which boy band sang 'Everybody (Backstreet's Back)'?",
+    "A": "Backstreet Boys",
+    "B": "NSYNC",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Everybody (Backstreet's Back) by Backstreet Boys was released in 1997 and became a worldwide hit."
+  },
+  {
+    "question": "Which boy band sang 'Tearin' Up My Heart'?",
+    "A": "NSYNC",
+    "B": "Backstreet Boys",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Tearin' Up My Heart by NSYNC was released in 1997 and became one of their early hits."
+  },
+  {
+    "question": "Which girl group sang 'Spice Up Your Life'?",
+    "A": "Spice Girls",
+    "B": "Destiny's Child",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Spice Up Your Life by Spice Girls was released in 1997 and became a worldwide hit."
+  },
+  {
+    "question": "Which girl group sang 'Survivor'?",
+    "A": "Destiny's Child",
+    "B": "Spice Girls",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Survivor by Destiny's Child was released in 2001 and became an anthem of empowerment."
+  },
+  {
+    "question": "Which girl group sang 'No Scrubs'?",
+    "A": "TLC",
+    "B": "Spice Girls",
+    "C": "Destiny's Child",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "No Scrubs by TLC was released in 1999 and became a number one hit."
+  },
+  {
+    "question": "Which boy band sang 'As Long as You Love Me'?",
+    "A": "Backstreet Boys",
+    "B": "NSYNC",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "As Long as You Love Me by Backstreet Boys was released in 1997 and became a worldwide hit."
+  },
+  {
+    "question": "Which boy band sang 'It's Gonna Be Me'?",
+    "A": "NSYNC",
+    "B": "Backstreet Boys",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "It's Gonna Be Me by NSYNC was released in 2000 and became a number one hit."
+  },
+  {
+    "question": "Which girl group sang '2 Become 1'?",
+    "A": "Spice Girls",
+    "B": "Destiny's Child",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "2 Become 1 by Spice Girls was released in 1996 and became a number one hit in the UK."
+  },
+  {
+    "question": "Which girl group sang 'Bootylicious'?",
+    "A": "Destiny's Child",
+    "B": "Spice Girls",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Bootylicious by Destiny's Child was released in 2001 and popularized the word 'bootylicious.'"
+  },
+  {
+    "question": "Which girl group sang 'Unpretty'?",
+    "A": "TLC",
+    "B": "Spice Girls",
+    "C": "Destiny's Child",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Unpretty by TLC was released in 1999 and became a number one hit with a message about self-acceptance."
+  },
+  {
+    "question": "Which boy band sang 'Quit Playing Games (With My Heart)'?",
+    "A": "Backstreet Boys",
+    "B": "NSYNC",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Quit Playing Games (With My Heart) by Backstreet Boys was released in 1996 and became their first major hit."
+  },
+  {
+    "question": "Which boy band sang 'This I Promise You'?",
+    "A": "NSYNC",
+    "B": "Backstreet Boys",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "This I Promise You by NSYNC was released in 2000 and became a popular ballad."
+  },
+  {
+    "question": "Which girl group sang 'Stop'?",
+    "A": "Spice Girls",
+    "B": "Destiny's Child",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Stop by Spice Girls was released in 1997 and became a number one hit in the UK."
+  },
+  {
+    "question": "Which girl group sang 'Independent Women Part I'?",
+    "A": "Destiny's Child",
+    "B": "Spice Girls",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Independent Women Part I by Destiny's Child was released in 2000 and was featured in the film Charlie's Angels."
+  },
+  {
+    "question": "Which girl group sang 'Creep'?",
+    "A": "TLC",
+    "B": "Spice Girls",
+    "C": "Destiny's Child",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Creep by TLC was released in 1994 and became their first number one hit."
+  },
+  {
+    "question": "Which boy band sang 'Larger Than Life'?",
+    "A": "Backstreet Boys",
+    "B": "NSYNC",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Larger Than Life by Backstreet Boys was released in 1999 and became a worldwide hit."
+  },
+  {
+    "question": "Which boy band sang 'Pop'?",
+    "A": "NSYNC",
+    "B": "Backstreet Boys",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Pop by NSYNC was released in 2001 and became a hit with its electronic sound."
+  },
+  {
+    "question": "Which girl group sang 'Viva Forever'?",
+    "A": "Spice Girls",
+    "B": "Destiny's Child",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Viva Forever by Spice Girls was released in 1998 and became a number one hit in the UK."
+  },
+  {
+    "question": "Which girl group sang 'Lose My Breath'?",
+    "A": "Destiny's Child",
+    "B": "Spice Girls",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Lose My Breath by Destiny's Child was released in 2004 and became a hit with its fast-paced rhythm."
+  },
+  {
+    "question": "Which girl group sang 'Ain't 2 Proud 2 Beg'?",
+    "A": "TLC",
+    "B": "Spice Girls",
+    "C": "Destiny's Child",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Ain't 2 Proud 2 Beg by TLC was released in 1992 and became their first hit."
+  },
+  {
+    "question": "Which boy band sang 'Shape of My Heart'?",
+    "A": "Backstreet Boys",
+    "B": "NSYNC",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Shape of My Heart by Backstreet Boys was released in 2000 and became a worldwide hit."
+  },
+  {
+    "question": "Which boy band sang 'Gone'?",
+    "A": "NSYNC",
+    "B": "Backstreet Boys",
+    "C": "98 Degrees",
+    "D": "New Kids on the Block",
+    "answer": "A",
+    "funFact": "Gone by NSYNC was released in 2001 and became a hit with its emotional lyrics."
+  },
+  {
+    "question": "Which girl group sang 'Goodbye'?",
+    "A": "Spice Girls",
+    "B": "Destiny's Child",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Goodbye by Spice Girls was released in 1998 and became a number one hit in the UK."
+  },
+  {
+    "question": "Which girl group sang 'Cater 2 U'?",
+    "A": "Destiny's Child",
+    "B": "Spice Girls",
+    "C": "TLC",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Cater 2 U by Destiny's Child was released in 2004 and became a hit R&B ballad."
+  },
+  {
+    "question": "Which girl group sang 'Diggin' on You'?",
+    "A": "TLC",
+    "B": "Spice Girls",
+    "C": "Destiny's Child",
+    "D": "The Pussycat Dolls",
+    "answer": "A",
+    "funFact": "Diggin' on You by TLC was released in 1995 and became a hit from their CrazySexyCool album."
+  }
+]
+
+

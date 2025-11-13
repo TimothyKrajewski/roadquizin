@@ -12,7 +12,7 @@
         "question": "What is the Super Bowl?",
         "A": "The NFL championship game",
         "B": "Played between AFC and NFC champions",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "A regular season game",
         "answer": "A",
         "funFact": "The Super Bowl is the NFL championship game, played between the AFC and NFC champions. It's the most-watched television event in the United States."
@@ -21,7 +21,7 @@
         "question": "What team has won the most Super Bowls?",
         "A": "Pittsburgh Steelers",
         "B": "New England Patriots",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Dallas Cowboys",
         "answer": "A",
         "funFact": "The Pittsburgh Steelers and New England Patriots are tied with 6 Super Bowl wins each."
@@ -48,7 +48,7 @@
         "question": "What is the Super Bowl halftime show?",
         "A": "Musical performance",
         "B": "Major entertainment event",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No entertainment",
         "answer": "A",
         "funFact": "The Super Bowl halftime show is a major musical performance that has featured artists like The Rolling Stones, Beyoncé, and The Weeknd."
@@ -57,7 +57,7 @@
         "question": "What are Super Bowl commercials?",
         "A": "Most expensive TV ads",
         "B": "Often creative and memorable",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Regular ads",
         "answer": "A",
         "funFact": "Super Bowl commercials are the most expensive TV ads, costing millions of dollars for 30 seconds. They're often creative and memorable."
@@ -66,7 +66,7 @@
         "question": "What is the Vince Lombardi Trophy?",
         "A": "Awarded to Super Bowl winner",
         "B": "Named after legendary coach",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Regular trophy",
         "answer": "A",
         "funFact": "The Vince Lombardi Trophy is awarded to the Super Bowl winner. It's named after Vince Lombardi, the legendary Green Bay Packers coach."
@@ -75,7 +75,7 @@
         "question": "What is the Super Bowl MVP?",
         "A": "Most Valuable Player",
         "B": "Awarded to best player in game",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Team award",
         "answer": "A",
         "funFact": "The Super Bowl MVP (Most Valuable Player) is awarded to the best player in the game. Quarterbacks have won it most often."
@@ -93,7 +93,7 @@
         "question": "What is the highest-scoring Super Bowl?",
         "A": "Super Bowl XXIX (1995)",
         "B": "75 total points",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Super Bowl LII",
         "answer": "A",
         "funFact": "Super Bowl XXIX (1995) had 75 total points, with the San Francisco 49ers beating the San Diego Chargers 49-26."
@@ -102,7 +102,7 @@
         "question": "What is the lowest-scoring Super Bowl?",
         "A": "Super Bowl LIII (2019)",
         "B": "16 total points",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Super Bowl VII",
         "answer": "A",
         "funFact": "Super Bowl LIII (2019) had only 16 total points, with the New England Patriots beating the Los Angeles Rams 13-3."
@@ -112,7 +112,7 @@
         "A": "Buffalo Bills",
         "B": "Minnesota Vikings",
         "C": "Atlanta Falcons",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Buffalo Bills, Minnesota Vikings, and Atlanta Falcons are among the teams that have appeared in Super Bowls but never won."
     },
@@ -120,7 +120,7 @@
         "question": "What is Super Bowl Sunday?",
         "A": "Major American holiday",
         "B": "Most-watched TV event",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Regular Sunday",
         "answer": "A",
         "funFact": "Super Bowl Sunday is treated like a major American holiday, with parties, food, and the most-watched TV event of the year."
@@ -129,7 +129,7 @@
         "question": "What is the Super Bowl location?",
         "A": "Rotates each year",
         "B": "Warm-weather or domed stadiums",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Always same place",
         "answer": "A",
         "funFact": "The Super Bowl location rotates each year, typically in warm-weather cities or domed stadiums to ensure good playing conditions."
@@ -138,7 +138,7 @@
         "question": "What is the Super Bowl coin toss?",
         "A": "Determines who receives first",
         "B": "Tradition before the game",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "After the game",
         "answer": "A",
         "funFact": "The Super Bowl coin toss determines which team receives the ball first. It's a tradition that happens before the game."
@@ -147,7 +147,7 @@
         "question": "What is the Super Bowl trophy presentation?",
         "A": "After the game",
         "B": "Commissioner presents trophy",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Before the game",
         "answer": "A",
         "funFact": "The Super Bowl trophy presentation happens after the game, with the NFL commissioner presenting the Vince Lombardi Trophy to the winning team."
@@ -156,7 +156,7 @@
         "question": "What is the Super Bowl's economic impact?",
         "A": "Billions of dollars",
         "B": "On host city",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Minimal",
         "answer": "A",
         "funFact": "The Super Bowl has an economic impact of billions of dollars on the host city, from tourism, hotels, restaurants, and local businesses."
@@ -165,7 +165,7 @@
         "question": "What is the Super Bowl's cultural impact?",
         "A": "Significant",
         "B": "Major cultural event",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Minimal",
         "answer": "A",
         "funFact": "The Super Bowl has a significant cultural impact and is a major cultural event, bringing together millions of Americans regardless of team affiliation."
@@ -174,7 +174,7 @@
         "question": "What is the future of the Super Bowl?",
         "A": "Continued growth",
         "B": "International expansion possible",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Declining",
         "answer": "A",
         "funFact": "The Super Bowl will likely continue to grow, and there's discussion about potentially playing it internationally in the future."

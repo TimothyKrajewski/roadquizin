@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Which 90s sitcom featured a group of friends living in New York City?",
+    "A": "Friends",
+    "B": "Seinfeld",
+    "C": "The Fresh Prince of Bel-Air",
+    "D": "Full House",
+    "answer": "A",
+    "funFact": "Friends premiered in 1994 and ran for 10 seasons, becoming one of the most popular sitcoms of all time."
+  },
+  {
+    "question": "What was the name of the coffee shop in Friends?",
+    "A": "Central Perk",
+    "B": "The Coffee Bean",
+    "C": "Starbucks",
+    "D": "The Daily Grind",
+    "answer": "A",
+    "funFact": "Central Perk was the fictional coffee shop where the Friends characters often gathered."
+  },
+  {
+    "question": "Which 90s sitcom starred Will Smith as a teenager from Philadelphia?",
+    "A": "The Fresh Prince of Bel-Air",
+    "B": "Family Matters",
+    "C": "Saved by the Bell",
+    "D": "Boy Meets World",
+    "answer": "A",
+    "funFact": "The Fresh Prince of Bel-Air ran from 1990 to 1996 and launched Will Smith's acting career."
+  },
+  {
+    "question": "What was the catchphrase of Steve Urkel in Family Matters?",
+    "A": "Did I do that?",
+    "B": "How rude!",
+    "C": "You got it, dude!",
+    "D": "Cut it out!",
+    "answer": "A",
+    "funFact": "Steve Urkel's 'Did I do that?' became one of the most famous catchphrases of the 1990s."
+  },
+  {
+    "question": "Which 90s sitcom featured the Tanner family in San Francisco?",
+    "A": "Full House",
+    "B": "Family Matters",
+    "C": "Step by Step",
+    "D": "Perfect Strangers",
+    "answer": "A",
+    "funFact": "Full House aired from 1987 to 1995 and was one of the most popular family sitcoms of the era."
+  },
+  {
+    "question": "What was the name of the high school in Saved by the Bell?",
+    "A": "Bayside High",
+    "B": "West Beverly High",
+    "C": "Rydell High",
+    "D": "John Adams High",
+    "answer": "A",
+    "funFact": "Bayside High was the fictional school where Zack, Kelly, Slater, and Screech attended."
+  },
+  {
+    "question": "Which 90s sitcom featured a talking baby named Stewie?",
+    "A": "Family Guy",
+    "B": "The Simpsons",
+    "C": "South Park",
+    "D": "King of the Hill",
+    "answer": "A",
+    "funFact": "Family Guy premiered in 1999, though it became more popular in the 2000s."
+  },
+  {
+    "question": "What was the name of the bar in Cheers?",
+    "A": "Cheers",
+    "B": "The Regal Beagle",
+    "C": "Paddy's Pub",
+    "D": "The Drunken Clam",
+    "answer": "A",
+    "funFact": "Cheers ran from 1982 to 1993, with most of its run in the 1990s."
+  },
+  {
+    "question": "Which 90s sitcom featured the Winslow family and their nerdy neighbor?",
+    "A": "Family Matters",
+    "B": "Full House",
+    "C": "Step by Step",
+    "D": "Perfect Strangers",
+    "answer": "A",
+    "funFact": "Family Matters introduced Steve Urkel in season 1, and he became the show's breakout character."
+  },
+  {
+    "question": "What was the name of the diner in Seinfeld?",
+    "A": "Monk's Cafe",
+    "B": "Tom's Restaurant",
+    "C": "The Coffee Shop",
+    "D": "Jerry's Diner",
+    "answer": "A",
+    "funFact": "Monk's Cafe was the fictional diner where the Seinfeld characters often met."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with three daughters and their father Danny?",
+    "A": "Full House",
+    "B": "Family Matters",
+    "C": "Step by Step",
+    "D": "Growing Pains",
+    "answer": "A",
+    "funFact": "Full House featured Danny Tanner raising his three daughters with help from his brother-in-law and best friend."
+  },
+  {
+    "question": "What was the name of the apartment building in Friends?",
+    "A": "Monica's Apartment",
+    "B": "The Regal Beagle",
+    "C": "Greenwich Village Apartments",
+    "D": "Manhattan Heights",
+    "answer": "A",
+    "funFact": "Monica's apartment was a central location in Friends, though the building's actual name was rarely mentioned."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with stepchildren from previous marriages?",
+    "A": "Step by Step",
+    "B": "Full House",
+    "C": "Family Matters",
+    "D": "Perfect Strangers",
+    "answer": "A",
+    "funFact": "Step by Step featured Frank and Carol, who each had three children from previous marriages."
+  },
+  {
+    "question": "What was the name of the coffee shop owner in Friends?",
+    "A": "Gunther",
+    "B": "Terry",
+    "C": "Mike",
+    "D": "Barry",
+    "answer": "A",
+    "funFact": "Gunther was played by James Michael Tyler and was the manager of Central Perk."
+  },
+  {
+    "question": "Which 90s sitcom featured a family living in the suburbs with a talking baby?",
+    "A": "Family Guy",
+    "B": "The Simpsons",
+    "C": "South Park",
+    "D": "King of the Hill",
+    "answer": "A",
+    "funFact": "Family Guy's Stewie Griffin is known for his sophisticated vocabulary and evil plans."
+  },
+  {
+    "question": "What was the name of the high school in Boy Meets World?",
+    "A": "John Adams High",
+    "B": "Bayside High",
+    "C": "West Beverly High",
+    "D": "Rydell High",
+    "answer": "A",
+    "funFact": "Boy Meets World followed Cory Matthews from middle school through college."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with a talking dog?",
+    "A": "Family Guy",
+    "B": "The Simpsons",
+    "C": "South Park",
+    "D": "King of the Hill",
+    "answer": "A",
+    "funFact": "Family Guy's Brian Griffin is the family's talking dog who is more intelligent than most humans."
+  },
+  {
+    "question": "What was the name of the bar where the gang hung out in How I Met Your Mother?",
+    "A": "MacLaren's Pub",
+    "B": "Paddy's Pub",
+    "C": "The Drunken Clam",
+    "D": "The Regal Beagle",
+    "answer": "A",
+    "funFact": "How I Met Your Mother premiered in 2005, but it was inspired by 90s sitcoms like Friends."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with a robot maid?",
+    "A": "The Jetsons",
+    "B": "The Flintstones",
+    "C": "Family Matters",
+    "D": "Full House",
+    "answer": "A",
+    "funFact": "The Jetsons originally aired in the 1960s but had a revival in the 1980s and 1990s."
+  },
+  {
+    "question": "What was the name of the apartment building in Seinfeld?",
+    "A": "Jerry's Apartment Building",
+    "B": "Monk's Building",
+    "C": "Manhattan Apartments",
+    "D": "Greenwich Village Apartments",
+    "answer": "A",
+    "funFact": "Jerry's apartment was a central location in Seinfeld, located at 129 West 81st Street."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with a talking baby and a dog?",
+    "A": "Family Guy",
+    "B": "The Simpsons",
+    "C": "South Park",
+    "D": "King of the Hill",
+    "answer": "A",
+    "funFact": "Family Guy features both Stewie (the talking baby) and Brian (the talking dog)."
+  },
+  {
+    "question": "What was the name of the coffee shop in Frasier?",
+    "A": "Cafe Nervosa",
+    "B": "Central Perk",
+    "C": "Monk's Cafe",
+    "D": "The Coffee Bean",
+    "answer": "A",
+    "funFact": "Cafe Nervosa was the coffee shop where Frasier and Niles often met in the spin-off series."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with a talking baby who wanted to take over the world?",
+    "A": "Family Guy",
+    "B": "The Simpsons",
+    "C": "South Park",
+    "D": "King of the Hill",
+    "answer": "A",
+    "funFact": "Stewie Griffin's original character arc involved him trying to kill his mother and take over the world."
+  },
+  {
+    "question": "What was the name of the high school in Saved by the Bell: The New Class?",
+    "A": "Bayside High",
+    "B": "West Beverly High",
+    "C": "John Adams High",
+    "D": "Rydell High",
+    "answer": "A",
+    "funFact": "Saved by the Bell: The New Class continued at Bayside High with a new group of students."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with a talking baby and a talking dog?",
+    "A": "Family Guy",
+    "B": "The Simpsons",
+    "C": "South Park",
+    "D": "King of the Hill",
+    "answer": "A",
+    "funFact": "Family Guy is unique for having both a talking baby (Stewie) and a talking dog (Brian) as main characters."
+  },
+  {
+    "question": "What was the name of the apartment building in Friends?",
+    "A": "Monica and Rachel's Apartment",
+    "B": "The Regal Beagle",
+    "C": "Greenwich Village Apartments",
+    "D": "Manhattan Heights",
+    "answer": "A",
+    "funFact": "Monica and Rachel's apartment was located at 90 Bedford Street in Greenwich Village."
+  },
+  {
+    "question": "Which 90s sitcom featured a family with a talking baby who was a genius?",
+    "A": "Family Guy",
+    "B": "The Simpsons",
+    "C": "South Park",
+    "D": "King of the Hill",
+    "answer": "A",
+    "funFact": "Stewie Griffin is portrayed as a genius baby with advanced vocabulary and knowledge."
+  }
+]
+
+

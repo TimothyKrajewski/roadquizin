@@ -40,7 +40,7 @@
         "A": "Salt",
         "B": "Sugar",
         "C": "Spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
     },
@@ -58,7 +58,7 @@
         "A": "Absinthe",
         "B": "Raw milk cheese",
         "C": "Foie gras",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Absinthe was banned in the United States from 1912 to 2007 due to concerns about its hallucinogenic properties, though modern research shows it's no more dangerous than other alcohol."
     },
@@ -94,7 +94,7 @@
         "A": "Carrots",
         "B": "Parsley",
         "C": "Dill",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "In ancient times, carrots, parsley, and dill were all believed to have contraceptive properties. Women would eat large amounts hoping to prevent pregnancy."
     },
@@ -112,7 +112,7 @@
         "A": "Pineapples",
         "B": "Oranges",
         "C": "Bananas",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pineapples, oranges, and bananas were all once considered exotic luxuries in Europe. Pineapples were so rare that people would rent them as centerpieces for parties."
     },
@@ -148,7 +148,7 @@
         "A": "Chocolate",
         "B": "Coffee",
         "C": "Tea",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Chocolate, coffee, and tea were all once considered luxury items only affordable by the wealthy. They were expensive imports from distant lands."
     },
@@ -166,7 +166,7 @@
         "A": "Bread and water",
         "B": "Salt",
         "C": "Spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Bread and water was a common form of punishment in ancient times, given to prisoners as a minimal diet. It was considered harsh and unpleasant."
     },
@@ -184,7 +184,7 @@
         "A": "Sugar",
         "B": "Salt",
         "C": "Spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Sugar, salt, and spices were all once considered luxury items only affordable by the wealthy. They were expensive imports and were only used on special occasions."
     },
@@ -202,7 +202,7 @@
         "A": "Tea",
         "B": "Rice",
         "C": "Salt",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
     },
@@ -220,7 +220,7 @@
         "A": "Pineapples",
         "B": "Chocolate",
         "C": "Ice cream",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pineapples, chocolate, and ice cream were all once considered luxury items only affordable by royalty. They were expensive imports and difficult to obtain."
     }

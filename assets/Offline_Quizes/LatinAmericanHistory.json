@@ -4,7 +4,7 @@
         "A": "Aztec",
         "B": "Maya",
         "C": "Inca",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Aztec, Maya, and Inca were all powerful ancient civilizations in Latin America. The Maya built great cities, the Aztecs had a vast empire, and the Incas built a road network."
     },
@@ -40,7 +40,7 @@
         "A": "Miguel Hidalgo",
         "B": "José María Morelos",
         "C": "Agustín de Iturbide",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Miguel Hidalgo, José María Morelos, and Agustín de Iturbide were all leaders of the Mexican War of Independence (1810-1821)."
     },
@@ -85,7 +85,7 @@
         "A": "Fidel Castro",
         "B": "Che Guevara",
         "C": "Raúl Castro",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Fidel Castro, Che Guevara, and Raúl Castro were all leaders of the Cuban Revolution. Fidel Castro ruled Cuba from 1959 to 2008."
     },
@@ -112,7 +112,7 @@
         "A": "Tenochtitlan",
         "B": "Cuzco",
         "C": "Tikal",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "C",
         "funFact": "Tikal was a major ancient Mayan city in Guatemala. It was one of the largest and most powerful Mayan cities, with a population of up to 90,000 people."
     },
@@ -153,10 +153,10 @@
         "funFact": "The Brazilian military dictatorship (1964-1985) was a period of authoritarian rule. It began with a military coup and ended with a return to democracy."
     },
     {
-        "question": "What was the name of the Colombian drug cartel?",
+        "question": "What was the primary characteristic of the name of the Colombian drug cartel?",
         "A": "Medellín Cartel",
         "B": "Cali Cartel",
-        "C": "Neither A nor B",
+        "C": "The Battle of Gettysburg (1863)",
         "D": "Sinaloa Cartel",
         "answer": "A",
         "funFact": "The Medellín and Cali cartels were powerful Colombian drug cartels in the 1980s and 1990s. They controlled much of the cocaine trade to the United States."

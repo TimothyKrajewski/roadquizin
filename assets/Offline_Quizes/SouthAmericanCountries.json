@@ -121,7 +121,7 @@
         "A": "South Americanology",
         "B": "Latin American studies",
         "C": "Geography",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "South American countries are studied through geography, Latin American studies, and regional studies."
     },
@@ -135,15 +135,6 @@
         "funFact": "South American capitals are centers of government, culture, economy, and history for their respective countries."
     },
     {
-        "question": "What is the study of South American countries called?",
-        "A": "South Americanology",
-        "B": "South American geography",
-        "C": "Regional studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "South American countries are studied through geography, history, and regional studies."
-    },
-    {
         "question": "What is the impact of South American capitals?",
         "A": "No impact",
         "B": "Major centers of culture and politics",
@@ -151,32 +142,5 @@
         "D": "Only affects some countries",
         "answer": "B",
         "funFact": "South American capitals are major centers of culture, politics, and economy, influencing their countries and regions."
-    },
-    {
-        "question": "What is the study of South American countries called?",
-        "A": "South Americanology",
-        "B": "South American studies",
-        "C": "Geography",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "South American countries are studied through geography, history, and cultural studies."
-    },
-    {
-        "question": "What is the importance of South American capitals?",
-        "A": "Not important",
-        "B": "Essential centers of national life",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "South American capitals are essential centers of national life, housing government, culture, and major institutions."
-    },
-    {
-        "question": "What is the study of South American countries called?",
-        "A": "South Americanology",
-        "B": "South American geography",
-        "C": "Regional studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "South American countries are studied through geography, history, and regional studies."
     }
 ]

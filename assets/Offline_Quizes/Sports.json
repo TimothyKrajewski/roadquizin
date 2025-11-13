@@ -67,7 +67,7 @@
         "A": "Cricket",
         "B": "Baseball",
         "C": "Softball",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "A home run is used in both baseball and softball, occurring when a batter hits the ball out of the playing field in fair territory, allowing them to circle all bases and score."
     },
@@ -84,7 +84,7 @@
         "question": "What is the name of the trophy awarded to the winner of the FIFA World Cup?",
         "A": "Jules Rimet Trophy",
         "B": "FIFA World Cup Trophy",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "The Golden Ball",
         "answer": "B",
         "funFact": "The FIFA World Cup Trophy is the current trophy awarded to World Cup winners since 1974. The original Jules Rimet Trophy was retired after Brazil won it three times."

@@ -22,7 +22,7 @@
         "A": "Biographyology",
         "B": "Biography studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Biographies are studied through literary studies, history, and biographical research."
     },
@@ -63,15 +63,6 @@
         "funFact": "Biographies preserve history and human stories, providing insight into people's lives and achievements."
     },
     {
-        "question": "What is the study of biographies called?",
-        "A": "Biographyology",
-        "B": "Biography analysis",
-        "C": "Historical research",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Biographies are studied through literary studies, history, and biographical research."
-    },
-    {
         "question": "What is the difference between a biography and a memoir?",
         "A": "They're the same",
         "B": "Biography is full life, memoir is specific period",
@@ -90,42 +81,6 @@
         "funFact": "Biographies influence understanding of historical figures, providing insight into their lives and contributions."
     },
     {
-        "question": "What is the origin of biographies?",
-        "A": "The 2000s",
-        "B": "Ancient civilizations",
-        "C": "The 1900s",
-        "D": "The 1800s",
-        "answer": "B",
-        "funFact": "Biographies have existed since ancient civilizations, with examples from Greek, Roman, and other early cultures."
-    },
-    {
-        "question": "What is the future of biographies?",
-        "A": "No future",
-        "B": "Evolving with new formats and perspectives",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Biographies evolve with new formats, perspectives, and ways of documenting and sharing life stories."
-    },
-    {
-        "question": "What is the study of biographies called?",
-        "A": "Biographyology",
-        "B": "Biography studies",
-        "C": "Life writing",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Biographies are studied through literary studies, history, and life writing research."
-    },
-    {
-        "question": "What is the importance of biographies?",
-        "A": "Not important",
-        "B": "Documenting lives and preserving history",
-        "C": "Minor importance",
-        "D": "Only for readers",
-        "answer": "B",
-        "funFact": "Biographies document lives and preserve history, providing valuable insight into people and their times."
-    },
-    {
         "question": "What is the difference between authorized and unauthorized biographies?",
         "A": "They're the same",
         "B": "Authorized has subject's cooperation, unauthorized doesn't",
@@ -142,41 +97,5 @@
         "D": "Only affects some periods",
         "answer": "B",
         "funFact": "Biographies provide personal perspectives on historical events, helping people understand history through individual lives."
-    },
-    {
-        "question": "What is the origin of biographies?",
-        "A": "The 2000s",
-        "B": "Ancient times",
-        "C": "The 1900s",
-        "D": "The 1800s",
-        "answer": "B",
-        "funFact": "Biographies have existed since ancient times, with early examples documenting the lives of rulers, philosophers, and notable figures."
-    },
-    {
-        "question": "What is the future of biographies?",
-        "A": "No future",
-        "B": "Continued documentation and new approaches",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Biographies continue to document lives with new approaches, formats, and perspectives on telling life stories."
-    },
-    {
-        "question": "What is the study of biographies called?",
-        "A": "Biographyology",
-        "B": "Biography research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Biographies are studied through literary studies, history, and biographical research, exploring how lives are documented and told."
-    },
-    {
-        "question": "What is the importance of biographies?",
-        "A": "Not important",
-        "B": "Essential for preserving human stories and history",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Biographies are essential for preserving human stories and history, providing insight into lives, achievements, and historical periods."
     }
 ]

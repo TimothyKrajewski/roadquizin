@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Which city is known as the 'City of Light'?",
+    "A": "Paris",
+    "B": "London",
+    "C": "New York",
+    "D": "Tokyo",
+    "answer": "A",
+    "funFact": "Paris is known as the 'City of Light' because it was one of the first European cities to adopt gas street lighting."
+  },
+  {
+    "question": "Which country is home to the ancient city of Machu Picchu?",
+    "A": "Peru",
+    "B": "Mexico",
+    "C": "Chile",
+    "D": "Colombia",
+    "answer": "A",
+    "funFact": "Machu Picchu is an ancient Incan citadel located in the Andes Mountains of Peru, built in the 15th century."
+  },
+  {
+    "question": "Which city is home to the Eiffel Tower?",
+    "A": "Paris",
+    "B": "London",
+    "C": "Berlin",
+    "D": "Rome",
+    "answer": "A",
+    "funFact": "The Eiffel Tower is located in Paris, France, and was built in 1889 for the World's Fair."
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "A": "Australia",
+    "B": "New Zealand",
+    "C": "Indonesia",
+    "D": "Philippines",
+    "answer": "A",
+    "funFact": "The Great Barrier Reef is located off the coast of Queensland, Australia, and is the world's largest coral reef system."
+  },
+  {
+    "question": "Which city is home to the Colosseum?",
+    "A": "Rome",
+    "B": "Athens",
+    "C": "Istanbul",
+    "D": "Cairo",
+    "answer": "A",
+    "funFact": "The Colosseum is an ancient amphitheater located in Rome, Italy, built in 70-80 AD."
+  },
+  {
+    "question": "Which country is home to the Taj Mahal?",
+    "A": "India",
+    "B": "Pakistan",
+    "C": "Bangladesh",
+    "D": "Nepal",
+    "answer": "A",
+    "funFact": "The Taj Mahal is a white marble mausoleum located in Agra, India, built by Mughal emperor Shah Jahan in memory of his wife."
+  },
+  {
+    "question": "Which city is home to the Statue of Liberty?",
+    "A": "New York",
+    "B": "Los Angeles",
+    "C": "Chicago",
+    "D": "Boston",
+    "answer": "A",
+    "funFact": "The Statue of Liberty is located on Liberty Island in New York Harbor and was a gift from France to the United States."
+  },
+  {
+    "question": "Which country is home to the Pyramids of Giza?",
+    "A": "Egypt",
+    "B": "Sudan",
+    "C": "Libya",
+    "D": "Morocco",
+    "answer": "A",
+    "funFact": "The Pyramids of Giza are located in Egypt and are among the oldest and largest structures ever built."
+  },
+  {
+    "question": "Which city is home to the Big Ben clock tower?",
+    "A": "London",
+    "B": "Paris",
+    "C": "Berlin",
+    "D": "Amsterdam",
+    "answer": "A",
+    "funFact": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London."
+  },
+  {
+    "question": "Which country is home to the Angkor Wat temple complex?",
+    "A": "Cambodia",
+    "B": "Thailand",
+    "C": "Vietnam",
+    "D": "Laos",
+    "answer": "A",
+    "funFact": "Angkor Wat is a temple complex in Cambodia and is the largest religious monument in the world."
+  },
+  {
+    "question": "Which city is home to the Golden Gate Bridge?",
+    "A": "San Francisco",
+    "B": "Los Angeles",
+    "C": "Seattle",
+    "D": "Portland",
+    "answer": "A",
+    "funFact": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait in San Francisco, California."
+  },
+  {
+    "question": "Which country is home to the Christ the Redeemer statue?",
+    "A": "Brazil",
+    "B": "Argentina",
+    "C": "Chile",
+    "D": "Peru",
+    "answer": "A",
+    "funFact": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, completed in 1931."
+  },
+  {
+    "question": "Which city is home to the Acropolis?",
+    "A": "Athens",
+    "B": "Rome",
+    "C": "Istanbul",
+    "D": "Cairo",
+    "answer": "A",
+    "funFact": "The Acropolis is an ancient citadel located on a rocky outcrop above the city of Athens, Greece."
+  },
+  {
+    "question": "Which country is home to the Serengeti National Park?",
+    "A": "Tanzania",
+    "B": "Kenya",
+    "C": "Uganda",
+    "D": "Rwanda",
+    "answer": "A",
+    "funFact": "Serengeti National Park is located in Tanzania and is famous for its annual migration of wildebeest and zebras."
+  },
+  {
+    "question": "Which city is home to the Sagrada Familia?",
+    "A": "Barcelona",
+    "B": "Madrid",
+    "C": "Seville",
+    "D": "Valencia",
+    "answer": "A",
+    "funFact": "The Sagrada Familia is an unfinished basilica in Barcelona, Spain, designed by architect Antoni Gaudí."
+  },
+  {
+    "question": "Which country is home to the Great Wall of China?",
+    "A": "China",
+    "B": "Mongolia",
+    "C": "North Korea",
+    "D": "South Korea",
+    "answer": "A",
+    "funFact": "The Great Wall of China is a series of fortifications built along the historical northern borders of China."
+  },
+  {
+    "question": "Which city is home to the Sydney Opera House?",
+    "A": "Sydney",
+    "B": "Melbourne",
+    "C": "Brisbane",
+    "D": "Perth",
+    "answer": "A",
+    "funFact": "The Sydney Opera House is a performing arts center in Sydney, Australia, designed by Danish architect Jørn Utzon."
+  },
+  {
+    "question": "Which country is home to the Northern Lights (Aurora Borealis)?",
+    "A": "Norway",
+    "B": "Sweden",
+    "C": "Finland",
+    "D": "Iceland",
+    "answer": "A",
+    "funFact": "The Northern Lights can be seen in Norway, particularly in the northern regions like Tromsø, during the winter months."
+  },
+  {
+    "question": "Which city is home to the Forbidden City?",
+    "A": "Beijing",
+    "B": "Shanghai",
+    "C": "Xi'an",
+    "D": "Guangzhou",
+    "answer": "A",
+    "funFact": "The Forbidden City is a palace complex in Beijing, China, that served as the imperial palace for 24 emperors."
+  },
+  {
+    "question": "Which country is home to the Galápagos Islands?",
+    "A": "Ecuador",
+    "B": "Peru",
+    "C": "Colombia",
+    "D": "Chile",
+    "answer": "A",
+    "funFact": "The Galápagos Islands are part of Ecuador and are famous for their unique wildlife that inspired Charles Darwin's theory of evolution."
+  },
+  {
+    "question": "Which city is home to the Leaning Tower of Pisa?",
+    "A": "Pisa",
+    "B": "Florence",
+    "C": "Venice",
+    "D": "Milan",
+    "answer": "A",
+    "funFact": "The Leaning Tower of Pisa is a freestanding bell tower in Pisa, Italy, known for its unintended tilt."
+  },
+  {
+    "question": "Which country is home to the Victoria Falls?",
+    "A": "Zambia",
+    "B": "Zimbabwe",
+    "C": "Botswana",
+    "D": "Namibia",
+    "answer": "A",
+    "funFact": "Victoria Falls is located on the border between Zambia and Zimbabwe and is one of the world's largest waterfalls."
+  },
+  {
+    "question": "Which city is home to the Burj Khalifa?",
+    "A": "Dubai",
+    "B": "Abu Dhabi",
+    "C": "Doha",
+    "D": "Kuwait City",
+    "answer": "A",
+    "funFact": "The Burj Khalifa is the tallest building in the world, located in Dubai, United Arab Emirates."
+  },
+  {
+    "question": "Which country is home to the Petra archaeological site?",
+    "A": "Jordan",
+    "B": "Israel",
+    "C": "Lebanon",
+    "D": "Syria",
+    "answer": "A",
+    "funFact": "Petra is an ancient city carved into rock in Jordan, known as the 'Rose City' due to the color of the stone."
+  },
+  {
+    "question": "Which city is home to the Neuschwanstein Castle?",
+    "A": "Füssen",
+    "B": "Munich",
+    "C": "Berlin",
+    "D": "Hamburg",
+    "answer": "A",
+    "funFact": "Neuschwanstein Castle is a 19th-century palace in Bavaria, Germany, that inspired Disney's Sleeping Beauty Castle."
+  },
+  {
+    "question": "Which country is home to the Mount Fuji volcano?",
+    "A": "Japan",
+    "B": "South Korea",
+    "C": "China",
+    "D": "North Korea",
+    "answer": "A",
+    "funFact": "Mount Fuji is Japan's highest mountain and an active volcano, considered a sacred symbol of Japan."
+  },
+  {
+    "question": "Which city is home to the Blue Mosque?",
+    "A": "Istanbul",
+    "B": "Ankara",
+    "C": "Izmir",
+    "D": "Antalya",
+    "answer": "A",
+    "funFact": "The Blue Mosque (Sultan Ahmed Mosque) is a historic mosque in Istanbul, Turkey, known for its blue tiles."
+  },
+  {
+    "question": "Which country is home to the Iguazu Falls?",
+    "A": "Argentina",
+    "B": "Brazil",
+    "C": "Paraguay",
+    "D": "Uruguay",
+    "answer": "A",
+    "funFact": "Iguazu Falls is located on the border between Argentina and Brazil and is one of the world's largest waterfall systems."
+  },
+  {
+    "question": "Which city is home to the CN Tower?",
+    "A": "Toronto",
+    "B": "Montreal",
+    "C": "Vancouver",
+    "D": "Ottawa",
+    "answer": "A",
+    "funFact": "The CN Tower is a communications and observation tower in Toronto, Canada, and was the world's tallest free-standing structure from 1975 to 2007."
+  },
+  {
+    "question": "Which country is home to the Bora Bora island?",
+    "A": "French Polynesia",
+    "B": "Fiji",
+    "C": "Maldives",
+    "D": "Seychelles",
+    "answer": "A",
+    "funFact": "Bora Bora is an island in French Polynesia, known for its stunning turquoise lagoon and luxury resorts."
+  },
+  {
+    "question": "Which city is home to the Brandenburg Gate?",
+    "A": "Berlin",
+    "B": "Munich",
+    "C": "Hamburg",
+    "D": "Frankfurt",
+    "answer": "A",
+    "funFact": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany, and a symbol of German unity."
+  }
+]
+

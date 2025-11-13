@@ -49,7 +49,7 @@
         "A": "Programmingology",
         "B": "Computer science",
         "C": "Software engineering",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Programming is studied through computer science, software engineering, and computer programming courses."
     },
@@ -90,15 +90,6 @@
         "funFact": "Programming is essential for creating all software, apps, websites, and digital technology used in modern life."
     },
     {
-        "question": "What is the study of programming called?",
-        "A": "Programmingology",
-        "B": "Computer programming",
-        "C": "Software development",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Programming involves computer science, software development, and writing code to solve problems and create applications."
-    },
-    {
         "question": "What is the difference between front-end and back-end programming?",
         "A": "They're the same",
         "B": "Front-end is user interface, back-end is server logic",
@@ -117,42 +108,6 @@
         "funFact": "Programming enables all digital technology, from smartphones to the internet, transforming how people live and work."
     },
     {
-        "question": "What is the origin of programming?",
-        "A": "The 2000s",
-        "B": "The 1940s-1950s",
-        "C": "The 1960s",
-        "D": "The 1970s",
-        "answer": "B",
-        "funFact": "Programming began with early computers in the 1940s-1950s, with Ada Lovelace often credited as the first programmer."
-    },
-    {
-        "question": "What is the future of programming?",
-        "A": "No future",
-        "B": "Continued evolution and new tools",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of programming includes AI-assisted coding, new languages, better tools, and more accessible development."
-    },
-    {
-        "question": "What is the study of programming called?",
-        "A": "Programmingology",
-        "B": "Computer science",
-        "C": "Code studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Programming is studied through computer science, software engineering, and programming courses."
-    },
-    {
-        "question": "What is the importance of programming?",
-        "A": "Not important",
-        "B": "Critical skill for the digital age",
-        "C": "Minor importance",
-        "D": "Only for developers",
-        "answer": "B",
-        "funFact": "Programming is a critical skill for the digital age, enabling people to create software and solve problems with code."
-    },
-    {
         "question": "What is the difference between compiled and interpreted languages?",
         "A": "They're the same",
         "B": "Compiled is translated before running, interpreted is translated during execution",
@@ -169,23 +124,5 @@
         "D": "Only affects some industries",
         "answer": "B",
         "funFact": "Programming enables all software innovation, from mobile apps to AI, driving technological advancement."
-    },
-    {
-        "question": "What is the origin of programming?",
-        "A": "The 2000s",
-        "B": "The 1940s-1950s",
-        "C": "The 1960s",
-        "D": "The 1970s",
-        "answer": "B",
-        "funFact": "Programming began with early computers in the 1940s-1950s, evolving into today's diverse programming languages and tools."
-    },
-    {
-        "question": "What is the future of programming?",
-        "A": "No future",
-        "B": "More accessible and powerful development",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of programming includes AI-assisted coding, low-code platforms, and more accessible ways to create software."
     }
 ]

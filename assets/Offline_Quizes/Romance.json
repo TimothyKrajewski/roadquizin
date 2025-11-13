@@ -13,7 +13,7 @@
         "A": "Romanceology",
         "B": "Romance studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Romance literature is studied through literary studies, genre analysis, and romance research."
     },
@@ -54,15 +54,6 @@
         "funFact": "Romance novels provide popular entertainment and explore relationships, love, and human connection."
     },
     {
-        "question": "What is the study of romance literature called?",
-        "A": "Romanceology",
-        "B": "Romance analysis",
-        "C": "Genre studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Romance literature is studied through literary studies, genre analysis, and romance research."
-    },
-    {
         "question": "What is the difference between romance and erotica?",
         "A": "They're the same",
         "B": "Romance focuses on relationship, erotica on explicit content",
@@ -81,42 +72,6 @@
         "funFact": "Romance novels have influenced how people view relationships, love, and romance in popular culture."
     },
     {
-        "question": "What is the origin of romance literature?",
-        "A": "The 2000s",
-        "B": "The 1700s-1800s",
-        "C": "The 1900s",
-        "D": "The 1600s",
-        "answer": "B",
-        "funFact": "Romance literature emerged in the 1700s-1800s, becoming a major genre in the 1900s and 2000s."
-    },
-    {
-        "question": "What is the future of romance novels?",
-        "A": "No future",
-        "B": "Evolving with diverse voices and subgenres",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Romance novels evolve with diverse voices, subgenres, and new approaches to love stories."
-    },
-    {
-        "question": "What is the study of romance literature called?",
-        "A": "Romanceology",
-        "B": "Romance studies",
-        "C": "Love stories",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Romance literature is studied through literary studies, genre research, and romance analysis."
-    },
-    {
-        "question": "What is the importance of romance novels?",
-        "A": "Not important",
-        "B": "Exploring love and human relationships",
-        "C": "Minor importance",
-        "D": "Only for readers",
-        "answer": "B",
-        "funFact": "Romance novels explore love and human relationships, providing entertainment and emotional connection."
-    },
-    {
         "question": "What is the difference between contemporary and historical romance?",
         "A": "They're the same",
         "B": "Contemporary is modern, historical is past",
@@ -133,50 +88,5 @@
         "D": "Only affects some media",
         "answer": "B",
         "funFact": "Romance novels have major influence on books, films, and other forms of entertainment."
-    },
-    {
-        "question": "What is the origin of romance literature?",
-        "A": "The 2000s",
-        "B": "The 1700s-1800s",
-        "C": "The 1900s",
-        "D": "The 1600s",
-        "answer": "B",
-        "funFact": "Romance literature developed in the 1700s-1800s, with early examples including Gothic romances."
-    },
-    {
-        "question": "What is the future of romance novels?",
-        "A": "No future",
-        "B": "Continued popularity and innovation",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Romance novels continue to be popular and innovative, with new subgenres and diverse perspectives."
-    },
-    {
-        "question": "What is the study of romance literature called?",
-        "A": "Romanceology",
-        "B": "Romance research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Romance literature is studied through literary studies, genre research, and romance analysis, exploring its themes and appeal."
-    },
-    {
-        "question": "What is the importance of romance novels?",
-        "A": "Not important",
-        "B": "Major genre exploring love and relationships",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Romance novels are a major genre that explores love, relationships, and human connection."
-    },
-    {
-        "question": "What is the study of romance literature called?",
-        "A": "Romanceology",
-        "B": "Romance studies",
-        "C": "Genre analysis",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Romance literature is studied through literary studies, genre research, and romance analysis, understanding its themes and cultural impact."
     }
 ]

@@ -49,7 +49,7 @@
         "A": "VRology",
         "B": "Virtual reality",
         "C": "Immersive technology",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "VR is studied through computer science, human-computer interaction, and immersive technology research."
     },
@@ -169,14 +169,5 @@
         "D": "A time",
         "answer": "B",
         "funFact": "Refresh rate is how many times per second the display updates, with higher rates (90Hz+) reducing motion sickness."
-    },
-    {
-        "question": "What is the study of VR called?",
-        "A": "VRology",
-        "B": "Virtual reality research",
-        "C": "Immersive computing",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "VR research involves computer science, human-computer interaction, psychology, and immersive computing."
     }
 ]

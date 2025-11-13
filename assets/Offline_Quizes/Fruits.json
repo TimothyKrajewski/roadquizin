@@ -22,7 +22,7 @@
         "A": "Watermelon",
         "B": "Jackfruit",
         "C": "Pumpkin",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The jackfruit can weigh up to 80 pounds, pumpkins can be even larger, and watermelons can reach 200 pounds. The largest depends on the specific variety."
     },
@@ -49,7 +49,7 @@
         "A": "Strawberry",
         "B": "Raspberry",
         "C": "Banana",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "C",
         "funFact": "Botanically, bananas, grapes, and tomatoes are berries, while strawberries and raspberries are not - they're aggregate fruits!"
     },
@@ -76,7 +76,7 @@
         "A": "Grapes",
         "B": "Strawberries",
         "C": "Blueberries",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Grapes grow on vines, which can climb and spread. Strawberries grow on low plants, and blueberries grow on bushes."
     },

@@ -4,7 +4,7 @@
         "A": "Potatoes",
         "B": "Tomatoes",
         "C": "Eggplants",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Potatoes were once believed to cause leprosy in Europe. People were afraid to eat them for centuries, even though they're now a staple food."
     },
@@ -13,7 +13,7 @@
         "A": "Tomatoes",
         "B": "Potatoes",
         "C": "Eggplants",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Tomatoes, potatoes, and eggplants were all once considered poisonous because they're part of the nightshade family. People were afraid to eat them for centuries."
     },
@@ -22,7 +22,7 @@
         "A": "Carrots",
         "B": "Parsley",
         "C": "Dill",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "In ancient times, carrots, parsley, and dill were all believed to have contraceptive properties. Women would eat large amounts hoping to prevent pregnancy."
     },
@@ -31,7 +31,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans, garlic, and onions were all once believed to cause flatulence in ancient times. They were banned for priests and other religious figures."
     },
@@ -40,7 +40,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans were once believed to contain souls in ancient Greece. Followers of Pythagoras refused to eat them, thinking it was a form of cannibalism."
     },
@@ -49,7 +49,7 @@
         "A": "Oysters",
         "B": "Chocolate",
         "C": "Ginseng",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Oysters, chocolate, and ginseng were all once believed to be aphrodisiacs. People would eat them hoping to increase their libido."
     },
@@ -58,7 +58,7 @@
         "A": "Garlic",
         "B": "Onions",
         "C": "Herbs",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Garlic, onions, and herbs were all once believed to cure the plague in medieval Europe. People would carry them or eat them hoping to ward off disease."
     },
@@ -67,7 +67,7 @@
         "A": "Citrus fruits",
         "B": "Potatoes",
         "C": "Cabbage",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Citrus fruits, potatoes, and cabbage were all once believed to prevent scurvy. Sailors would eat them on long voyages to avoid the disease."
     },
@@ -76,7 +76,7 @@
         "A": "Honey",
         "B": "Garlic",
         "C": "Ginger",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, garlic, and ginger were all once believed to be cures for all diseases in ancient times. They were used to treat everything from colds to serious illnesses."
     },
@@ -85,7 +85,7 @@
         "A": "Peaches",
         "B": "Ginseng",
         "C": "Mushrooms",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Peaches, ginseng, and mushrooms were all once believed to grant immortality in ancient China. People would eat them hoping to live forever."
     },
@@ -94,7 +94,7 @@
         "A": "Spinach",
         "B": "Meat",
         "C": "Eggs",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Spinach was once believed to give you super strength because of a decimal point error in nutritional data. Popeye the Sailor Man helped popularize this myth."
     },
@@ -103,7 +103,7 @@
         "A": "Ambrosia",
         "B": "Nectar",
         "C": "Honey",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Ambrosia, nectar, and honey were all once believed to be the food of the gods in ancient mythology. They were thought to grant immortality and divine powers."
     },
@@ -112,7 +112,7 @@
         "A": "Garlic",
         "B": "Salt",
         "C": "Herbs",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Garlic, salt, and herbs were all once believed to ward off evil spirits. People would carry them or place them around their homes for protection."
     },
@@ -121,7 +121,7 @@
         "A": "Fish",
         "B": "Nuts",
         "C": "Berries",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Fish, nuts, and berries were all once believed to make you smarter. Modern science has actually found some truth to these beliefs, as they contain brain-boosting nutrients."
     },
@@ -130,7 +130,7 @@
         "A": "Yogurt",
         "B": "Green tea",
         "C": "Olive oil",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Yogurt, green tea, and olive oil were all once believed to make you live longer. Modern science has found some truth to these beliefs, as they contain health-promoting compounds."
     },
@@ -139,7 +139,7 @@
         "A": "Milk",
         "B": "Honey",
         "C": "Charcoal",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Milk, honey, and charcoal were all once believed to be poison antidotes. People would consume them hoping to neutralize toxins, though modern medicine has better treatments."
     },
@@ -148,7 +148,7 @@
         "A": "Onions",
         "B": "Garlic",
         "C": "Herbs",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Onions, garlic, and herbs were all once believed to cure baldness. People would apply them to their scalps or eat them hoping to regrow hair."
     },
@@ -157,7 +157,7 @@
         "A": "Carrots",
         "B": "Bilberries",
         "C": "Fish",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Carrots, bilberries, and fish were all once believed to improve eyesight. While carrots contain vitamin A which is good for eye health, eating them won't give you super vision."
     },
@@ -166,7 +166,7 @@
         "A": "Mushrooms",
         "B": "Herbs",
         "C": "Potions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Mushrooms, herbs, and potions were all once believed to make you invisible in folklore. These beliefs were part of ancient magic and mythology."
     },
@@ -175,7 +175,7 @@
         "A": "Mushrooms",
         "B": "Herbs",
         "C": "Potions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Mushrooms, herbs, and potions were all once believed to make you fly in folklore. These beliefs were part of ancient magic and mythology, often associated with witches and wizards."
     }

@@ -9,82 +9,82 @@
         "funFact": "Pirates preferred fast, maneuverable ships like sloops and schooners. These ships could outrun larger vessels and were ideal for quick attacks and escapes."
     },
     {
-        "question": "What was a sloop?",
+        "question": "What was the primary characteristic of a sloop?",
         "A": "A type of pirate ship",
         "B": "A small, fast sailing vessel",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A large warship",
         "answer": "A",
         "funFact": "A sloop was a small, fast sailing vessel with a single mast. It was the most popular type of ship among pirates because of its speed and maneuverability."
     },
     {
-        "question": "What was a schooner?",
+        "question": "What was the primary characteristic of a schooner?",
         "A": "A type of pirate ship",
         "B": "A fast sailing vessel with two masts",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A large warship",
         "answer": "A",
         "funFact": "A schooner was a fast sailing vessel with two or more masts. It was popular with pirates because it was fast, maneuverable, and could sail well in various wind conditions."
     },
     {
-        "question": "What was Blackbeard's ship called?",
+        "question": "What was the primary characteristic of Blackbeard's ship called?",
         "A": "Queen Anne's Revenge",
         "B": "Adventure",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Black Pearl",
         "answer": "A",
         "funFact": "Blackbeard's most famous ship was the Queen Anne's Revenge, but he also used a smaller ship called the Adventure. The Queen Anne's Revenge was a former French slave ship."
     },
     {
-        "question": "What was Captain Kidd's ship called?",
+        "question": "What was the primary characteristic of Captain Kidd's ship called?",
         "A": "Adventure Galley",
         "B": "Adventure Prize",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Whydah",
         "answer": "A",
         "funFact": "Captain Kidd's ships were called the Adventure Galley and later the Adventure Prize. The Adventure Galley was a 287-ton galley-frigate hybrid."
     },
     {
-        "question": "What was Black Sam Bellamy's ship called?",
+        "question": "What was the primary characteristic of Black Sam Bellamy's ship called?",
         "A": "Whydah",
         "B": "Marianne",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Queen Anne's Revenge",
         "answer": "A",
         "funFact": "Black Sam Bellamy's flagship was the Whydah, a former slave ship. He also used the Marianne. The Whydah sank off Cape Cod in 1717 and was discovered in 1984."
     },
     {
-        "question": "What was a brigantine?",
+        "question": "What was the primary characteristic of a brigantine?",
         "A": "A type of pirate ship",
         "B": "A two-masted sailing vessel",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A large warship",
         "answer": "A",
         "funFact": "A brigantine was a two-masted sailing vessel that was popular with pirates. It combined the speed of a schooner with the firepower of a larger ship."
     },
     {
-        "question": "What was a frigate?",
+        "question": "What was the primary characteristic of a frigate?",
         "A": "A type of warship",
         "B": "A fast, medium-sized warship",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A pirate ship",
         "answer": "A",
         "funFact": "A frigate was a fast, medium-sized warship. Pirates sometimes captured frigates, but they preferred smaller, faster ships for their operations."
     },
     {
-        "question": "What was a galleon?",
+        "question": "What was the primary characteristic of a galleon?",
         "A": "A large Spanish ship",
         "B": "A treasure ship",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A pirate ship",
         "answer": "A",
         "funFact": "A galleon was a large Spanish ship used for trade and treasure transport. Pirates often targeted galleons because they carried valuable cargo from the Americas."
     },
     {
-        "question": "What was a man-of-war?",
+        "question": "What was the primary characteristic of a man-of-war?",
         "A": "A large warship",
         "B": "A heavily armed naval vessel",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A pirate ship",
         "answer": "A",
         "funFact": "A man-of-war was a large, heavily armed warship used by navies. Pirates tried to avoid these ships because they were too powerful and well-armed."
@@ -117,19 +117,19 @@
         "funFact": "A typical pirate ship could sail at 10-15 knots (about 11-17 mph) in good conditions. Speed was crucial for catching prey and escaping naval vessels."
     },
     {
-        "question": "What was a ship's main weapon?",
+        "question": "What was the primary characteristic of a ship's main weapon?",
         "A": "Cannons",
         "B": "Boarding",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Swords",
         "answer": "A",
         "funFact": "Pirates used cannons to disable ships, but their main tactic was boarding. They would fire cannons to weaken the enemy, then board and fight hand-to-hand."
     },
     {
-        "question": "What was a ship's flag used for?",
+        "question": "What was the primary characteristic of a ship's flag used for?",
         "A": "Identification",
         "B": "Intimidation",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Navigation",
         "answer": "A",
         "funFact": "A ship's flag (Jolly Roger) was used for both identification and intimidation. Pirates would fly false flags to get close to targets, then raise the Jolly Roger."
@@ -138,7 +138,7 @@
         "question": "What was a ship's treasure storage?",
         "A": "A special treasure room",
         "B": "Distributed throughout the ship",
-        "C": "Neither A nor B",
+        "C": "A different time period",
         "D": "Buried on islands",
         "answer": "B",
         "funFact": "Treasure was typically distributed throughout the ship rather than stored in one place. The romantic image of a treasure room is largely fictional."
@@ -148,24 +148,24 @@
         "A": "Compass",
         "B": "Stars",
         "C": "Maps",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirates used compasses, stars, and maps for navigation. They often had skilled navigators who could read the stars and use navigational instruments."
     },
     {
-        "question": "What was a ship's food storage?",
+        "question": "What was the primary characteristic of a ship's food storage?",
         "A": "Limited",
         "B": "Had to be replenished frequently",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Unlimited",
         "answer": "A",
         "funFact": "Ship's food storage was limited and had to be replenished frequently. Pirates often raided ships and ports for food, water, and supplies."
     },
     {
-        "question": "What was a ship's maintenance?",
+        "question": "What was the primary characteristic of a ship's maintenance?",
         "A": "Constant",
         "B": "Required regular care",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Minimal",
         "answer": "A",
         "funFact": "Ship maintenance was constant and required regular care. Ships needed repairs, cleaning, and care to stay seaworthy, especially in tropical waters."
@@ -175,7 +175,7 @@
         "A": "Naval vessels",
         "B": "Storms",
         "C": "Disease",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirate ships faced threats from naval vessels, storms, and disease. Storms could sink ships, and disease could decimate crews faster than combat."
     }

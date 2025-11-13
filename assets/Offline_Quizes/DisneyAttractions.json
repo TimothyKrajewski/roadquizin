@@ -48,7 +48,7 @@
         "question": "What is the name of the ride based on Indiana Jones at Disneyland?",
         "A": "Indiana Jones Adventure",
         "B": "Temple of the Forbidden Eye",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Raiders of the Lost Ark",
         "answer": "A",
         "funFact": "Indiana Jones Adventure: Temple of the Forbidden Eye opened at Disneyland in 1995. It's an immersive dark ride that takes guests through an ancient temple."
@@ -94,7 +94,7 @@
         "A": "Star Tours",
         "B": "Star Wars: Rise of the Resistance",
         "C": "Millennium Falcon: Smugglers Run",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Disney's Hollywood Studios has multiple Star Wars attractions: Star Tours (opened 1987), Star Wars: Rise of the Resistance (2019), and Millennium Falcon: Smugglers Run (2019)."
     },
@@ -112,7 +112,7 @@
         "A": "Toy Story Mania!",
         "B": "Slinky Dog Dash",
         "C": "Alien Swirling Saucers",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Toy Story Land at Disney's Hollywood Studios features multiple attractions: Toy Story Mania! (2008), Slinky Dog Dash (2018), and Alien Swirling Saucers (2018)."
     },
@@ -120,7 +120,7 @@
         "question": "What is the name of the ride that takes you through the Avatar world at Animal Kingdom?",
         "A": "Avatar Flight of Passage",
         "B": "Na'vi River Journey",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Pandora: The World of Avatar",
         "answer": "A",
         "funFact": "Pandora: The World of Avatar at Animal Kingdom features two attractions: Avatar Flight of Passage (a flight simulator) and Na'vi River Journey (a boat ride)."
@@ -147,19 +147,10 @@
         "question": "What is the name of the ride that takes you through different movie scenes at Disney's Hollywood Studios?",
         "A": "The Great Movie Ride",
         "B": "Mickey and Minnie's Runaway Railway",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Star Tours",
         "answer": "B",
         "funFact": "Mickey and Minnie's Runaway Railway opened in 2020, replacing The Great Movie Ride. It's the first ride-through attraction starring Mickey and Minnie Mouse."
-    },
-    {
-        "question": "What is the name of the ride that takes you through different countries at Epcot?",
-        "A": "World Showcase",
-        "B": "Spaceship Earth",
-        "C": "Test Track",
-        "D": "Soarin'",
-        "answer": "A",
-        "funFact": "World Showcase at Epcot is not a ride but a walkable area with 11 country pavilions. However, some pavilions have rides like Gran Fiesta Tour in Mexico and Frozen Ever After in Norway."
     },
     {
         "question": "What is the name of the ride that takes you through the history of communication at Epcot?",

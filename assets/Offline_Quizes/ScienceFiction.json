@@ -31,7 +31,7 @@
         "A": "Sci-fiology",
         "B": "Science fiction studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Science fiction is studied through literary studies, genre studies, and science fiction research."
     },
@@ -72,15 +72,6 @@
         "funFact": "Science fiction explores future possibilities, technology, and their consequences, influencing how people think about the future."
     },
     {
-        "question": "What is the study of science fiction called?",
-        "A": "Sci-fiology",
-        "B": "Science fiction analysis",
-        "C": "Genre studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Science fiction is studied through literary studies, genre analysis, and science fiction research."
-    },
-    {
         "question": "What is the difference between science fiction and fantasy?",
         "A": "They're the same",
         "B": "Sci-fi is based on science, fantasy uses magic",
@@ -99,42 +90,6 @@
         "funFact": "Science fiction has influenced how people view technology, the future, and society, with many concepts entering popular culture."
     },
     {
-        "question": "What is the origin of science fiction?",
-        "A": "The 2000s",
-        "B": "The 1800s",
-        "C": "The 1900s",
-        "D": "The 1700s",
-        "answer": "B",
-        "funFact": "Science fiction as a genre emerged in the 1800s with works like 'Frankenstein' (1818) and 'The Time Machine' (1895)."
-    },
-    {
-        "question": "What is the future of science fiction?",
-        "A": "No future",
-        "B": "Continued innovation and new themes",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Science fiction continues to innovate with new themes, technologies, and ways of exploring future possibilities."
-    },
-    {
-        "question": "What is the study of science fiction called?",
-        "A": "Sci-fiology",
-        "B": "Science fiction studies",
-        "C": "Speculative fiction",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Science fiction is studied through literary studies, genre research, and speculative fiction analysis."
-    },
-    {
-        "question": "What is the importance of science fiction?",
-        "A": "Not important",
-        "B": "Exploring technology and future society",
-        "C": "Minor importance",
-        "D": "Only for readers",
-        "answer": "B",
-        "funFact": "Science fiction explores technology, future society, and their consequences, helping people think about possibilities."
-    },
-    {
         "question": "What is the difference between hard and soft science fiction?",
         "A": "They're the same",
         "B": "Hard sci-fi focuses on science, soft focuses on characters",
@@ -151,32 +106,5 @@
         "D": "Only affects some fields",
         "answer": "B",
         "funFact": "Science fiction has inspired scientists and engineers, with many citing sci-fi as motivation for their careers."
-    },
-    {
-        "question": "What is the origin of science fiction?",
-        "A": "The 2000s",
-        "B": "The 1800s-1900s",
-        "C": "The 1700s",
-        "D": "The 1600s",
-        "answer": "B",
-        "funFact": "Science fiction developed as a distinct genre in the 1800s-1900s, though earlier works had sci-fi elements."
-    },
-    {
-        "question": "What is the future of science fiction?",
-        "A": "No future",
-        "B": "Evolving with new technologies and ideas",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Science fiction evolves with new technologies and ideas, continuing to explore future possibilities and their implications."
-    },
-    {
-        "question": "What is the study of science fiction called?",
-        "A": "Sci-fiology",
-        "B": "Science fiction research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Science fiction is studied through literary studies, genre research, and science fiction analysis, exploring its themes and impact."
     }
 ]

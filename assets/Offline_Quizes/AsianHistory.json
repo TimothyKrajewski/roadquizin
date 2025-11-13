@@ -58,7 +58,7 @@
         "A": "Tang Dynasty",
         "B": "Song Dynasty",
         "C": "Ming Dynasty",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Tang, Song, and Ming dynasties were all known for their cultural achievements. The Tang Dynasty (618-907) is often considered a golden age of Chinese culture."
     },
@@ -108,10 +108,10 @@
         "funFact": "Mahatma Gandhi (1869-1948) was the leader of the Indian independence movement. He used nonviolent civil disobedience to achieve independence from Britain."
     },
     {
-        "question": "What was the name of the Chinese civil war?",
+        "question": "What was the primary characteristic of the name of the Chinese civil war?",
         "A": "1927-1937",
-        "B": "1945-1949",
-        "C": "Neither A nor B",
+        "B": "1941",
+        "C": "The Battle of Gettysburg (1863)",
         "D": "1950-1953",
         "answer": "A",
         "funFact": "The Chinese Civil War was fought in two phases: 1927-1937 and 1945-1949. The Communist Party, led by Mao Zedong, eventually defeated the Nationalists."
@@ -126,10 +126,10 @@
         "funFact": "The Korean War (1950-1953) was fought between North Korea (supported by China and the Soviet Union) and South Korea (supported by the United Nations)."
     },
     {
-        "question": "What was the name of the Vietnamese War?",
+        "question": "What was the primary characteristic of the name of the Vietnamese War?",
         "A": "1945-1954",
-        "B": "1955-1975",
-        "C": "Neither A nor B",
+        "B": "1941",
+        "C": "The Battle of Gettysburg (1863)",
         "D": "1975-1979",
         "answer": "A",
         "funFact": "The Vietnam War consisted of two phases: the First Indochina War (1945-1954) and the Vietnam War (1955-1975). The latter involved the United States."

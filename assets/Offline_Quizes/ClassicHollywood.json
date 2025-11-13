@@ -1,0 +1,300 @@
+[
+  {
+    "question": "What was the first feature-length film with synchronized sound?",
+    "A": "The Jazz Singer",
+    "B": "Gone with the Wind",
+    "C": "Casablanca",
+    "D": "Citizen Kane",
+    "answer": "A",
+    "funFact": "The Jazz Singer (1927) was the first feature-length film with synchronized dialogue sequences, marking the end of the silent film era."
+  },
+  {
+    "question": "Which actress starred in 'Breakfast at Tiffany's'?",
+    "A": "Marilyn Monroe",
+    "B": "Audrey Hepburn",
+    "C": "Grace Kelly",
+    "D": "Elizabeth Taylor",
+    "answer": "B",
+    "funFact": "Audrey Hepburn's portrayal of Holly Golightly in Breakfast at Tiffany's (1961) became one of the most iconic roles in film history."
+  },
+  {
+    "question": "What was the first film to win the Academy Award for Best Picture?",
+    "A": "Wings",
+    "B": "Sunrise",
+    "C": "The Broadway Melody",
+    "D": "All Quiet on the Western Front",
+    "answer": "A",
+    "funFact": "Wings (1927) was the first film to win the Academy Award for Best Picture at the inaugural Oscars ceremony in 1929."
+  },
+  {
+    "question": "Which actor starred in 'Casablanca'?",
+    "A": "Clark Gable",
+    "B": "Humphrey Bogart",
+    "C": "Cary Grant",
+    "D": "James Stewart",
+    "answer": "B",
+    "funFact": "Humphrey Bogart's performance as Rick Blaine in Casablanca (1942) is considered one of the greatest in cinema history."
+  },
+  {
+    "question": "What was the highest-grossing film of the 1930s?",
+    "A": "Gone with the Wind",
+    "B": "Snow White and the Seven Dwarfs",
+    "C": "The Wizard of Oz",
+    "D": "King Kong",
+    "answer": "A",
+    "funFact": "Gone with the Wind (1939) was the highest-grossing film of the 1930s and remains one of the highest-grossing films of all time when adjusted for inflation."
+  },
+  {
+    "question": "Which director made 'Citizen Kane'?",
+    "A": "Alfred Hitchcock",
+    "B": "Orson Welles",
+    "C": "John Ford",
+    "D": "Frank Capra",
+    "answer": "B",
+    "funFact": "Orson Welles co-wrote, directed, and starred in Citizen Kane (1941), which is often cited as the greatest film ever made."
+  },
+  {
+    "question": "What was the first animated feature film?",
+    "A": "Snow White and the Seven Dwarfs",
+    "B": "Pinocchio",
+    "C": "Fantasia",
+    "D": "Bambi",
+    "answer": "A",
+    "funFact": "Snow White and the Seven Dwarfs (1937) was the first full-length cel-animated feature film and Disney's first animated feature."
+  },
+  {
+    "question": "Which actress was known as 'The It Girl'?",
+    "A": "Marlene Dietrich",
+    "B": "Clara Bow",
+    "C": "Greta Garbo",
+    "D": "Jean Harlow",
+    "answer": "B",
+    "funFact": "Clara Bow was dubbed 'The It Girl' after starring in the 1927 film 'It', becoming one of the biggest stars of the silent era."
+  },
+  {
+    "question": "What was the first film to use Technicolor?",
+    "A": "The Wizard of Oz",
+    "B": "Becky Sharp",
+    "C": "Gone with the Wind",
+    "D": "The Adventures of Robin Hood",
+    "answer": "B",
+    "funFact": "Becky Sharp (1935) was the first feature film to use the three-strip Technicolor process."
+  },
+  {
+    "question": "Which actor starred in 'The Maltese Falcon'?",
+    "A": "James Cagney",
+    "B": "Humphrey Bogart",
+    "C": "Edward G. Robinson",
+    "D": "Spencer Tracy",
+    "answer": "B",
+    "funFact": "Humphrey Bogart played private detective Sam Spade in The Maltese Falcon (1941), establishing him as a leading man."
+  },
+  {
+    "question": "What was the first film to win five major Academy Awards?",
+    "A": "It Happened One Night",
+    "B": "Gone with the Wind",
+    "C": "One Flew Over the Cuckoo's Nest",
+    "D": "The Silence of the Lambs",
+    "answer": "A",
+    "funFact": "It Happened One Night (1934) was the first film to win the 'Big Five' Oscars: Best Picture, Director, Actor, Actress, and Screenplay."
+  },
+  {
+    "question": "Which actress starred in 'All About Eve'?",
+    "A": "Katharine Hepburn",
+    "B": "Bette Davis",
+    "C": "Joan Crawford",
+    "D": "Barbara Stanwyck",
+    "answer": "B",
+    "funFact": "Bette Davis delivered one of her most acclaimed performances in All About Eve (1950), which received 14 Oscar nominations."
+  },
+  {
+    "question": "What was the first film to feature synchronized music and sound effects?",
+    "A": "The Jazz Singer",
+    "B": "Don Juan",
+    "C": "The Lights of New York",
+    "D": "The Singing Fool",
+    "answer": "B",
+    "funFact": "Don Juan (1926) was the first feature-length film to use the Vitaphone sound-on-disc system with synchronized music and sound effects."
+  },
+  {
+    "question": "Which director made 'Psycho'?",
+    "A": "Alfred Hitchcock",
+    "B": "Billy Wilder",
+    "C": "Howard Hawks",
+    "D": "John Huston",
+    "answer": "A",
+    "funFact": "Alfred Hitchcock's Psycho (1960) revolutionized the horror genre and is considered one of the greatest films ever made."
+  },
+  {
+    "question": "What was the first film to win the Academy Award for Best Animated Feature?",
+    "A": "Shrek",
+    "B": "Toy Story",
+    "C": "Beauty and the Beast",
+    "D": "The Little Mermaid",
+    "answer": "A",
+    "funFact": "Shrek (2001) won the first Academy Award for Best Animated Feature, a category that was introduced in 2001."
+  },
+  {
+    "question": "Which actor starred in 'The Great Dictator'?",
+    "A": "Buster Keaton",
+    "B": "Harold Lloyd",
+    "C": "Charlie Chaplin",
+    "D": "Laurel and Hardy",
+    "answer": "C",
+    "funFact": "Charlie Chaplin wrote, directed, produced, and starred in The Great Dictator (1940), his first true talking picture."
+  },
+  {
+    "question": "What was the first film to gross over $100 million?",
+    "A": "Jaws",
+    "B": "The Godfather",
+    "C": "The Sound of Music",
+    "D": "Gone with the Wind",
+    "answer": "C",
+    "funFact": "The Sound of Music (1965) was the first film to gross over $100 million at the box office."
+  },
+  {
+    "question": "Which actress won the most Academy Awards for Best Actress?",
+    "A": "Meryl Streep",
+    "B": "Katharine Hepburn",
+    "C": "Ingrid Bergman",
+    "D": "Bette Davis",
+    "answer": "B",
+    "funFact": "Katharine Hepburn won four Academy Awards for Best Actress, more than any other actor or actress in history."
+  },
+  {
+    "question": "What was the first film to use computer-generated imagery (CGI)?",
+    "A": "Tron",
+    "B": "Star Wars",
+    "C": "Westworld",
+    "D": "The Last Starfighter",
+    "answer": "C",
+    "funFact": "Westworld (1973) was the first feature film to use computer-generated imagery, created by computer graphics pioneer John Whitney Jr."
+  },
+  {
+    "question": "Which actor starred in 'On the Waterfront'?",
+    "A": "Marlon Brando",
+    "B": "James Dean",
+    "C": "Montgomery Clift",
+    "D": "Paul Newman",
+    "answer": "A",
+    "funFact": "Marlon Brando won his first Academy Award for Best Actor for his performance in On the Waterfront (1954)."
+  },
+  {
+    "question": "What was the first film to be shown on television?",
+    "A": "The Wizard of Oz",
+    "B": "King Kong",
+    "C": "Casablanca",
+    "D": "Gone with the Wind",
+    "answer": "A",
+    "funFact": "The Wizard of Oz (1939) was the first major motion picture to be shown on television, airing on CBS in 1956."
+  },
+  {
+    "question": "Which director made 'Sunset Boulevard'?",
+    "A": "Billy Wilder",
+    "B": "Alfred Hitchcock",
+    "C": "Howard Hawks",
+    "D": "John Ford",
+    "answer": "A",
+    "funFact": "Billy Wilder's Sunset Boulevard (1950) is considered one of the greatest films about Hollywood and the film industry."
+  },
+  {
+    "question": "What was the first film to win the Palme d'Or at the Cannes Film Festival?",
+    "A": "Marty",
+    "B": "The Third Man",
+    "C": "The Lost Weekend",
+    "D": "Brief Encounter",
+    "answer": "A",
+    "funFact": "Marty (1955) was the first film to win the Palme d'Or at the Cannes Film Festival, and it also won the Academy Award for Best Picture."
+  },
+  {
+    "question": "Which actress starred in 'Roman Holiday'?",
+    "A": "Grace Kelly",
+    "B": "Audrey Hepburn",
+    "C": "Ingrid Bergman",
+    "D": "Vivien Leigh",
+    "answer": "B",
+    "funFact": "Audrey Hepburn won her first Academy Award for Best Actress for her performance in Roman Holiday (1953)."
+  },
+  {
+    "question": "What was the first film to be rated X by the MPAA?",
+    "A": "Midnight Cowboy",
+    "B": "A Clockwork Orange",
+    "C": "Last Tango in Paris",
+    "D": "The Devils",
+    "answer": "A",
+    "funFact": "Midnight Cowboy (1969) was the first and only X-rated film to win the Academy Award for Best Picture."
+  },
+  {
+    "question": "Which actor starred in 'The African Queen'?",
+    "A": "Clark Gable",
+    "B": "Humphrey Bogart",
+    "C": "Cary Grant",
+    "D": "James Stewart",
+    "answer": "B",
+    "funFact": "Humphrey Bogart won his only Academy Award for Best Actor for his performance in The African Queen (1951)."
+  },
+  {
+    "question": "What was the first film to use Dolby Stereo sound?",
+    "A": "Star Wars",
+    "B": "Close Encounters of the Third Kind",
+    "C": "A Star is Born",
+    "D": "The Exorcist",
+    "answer": "C",
+    "funFact": "A Star is Born (1976) was the first film to use Dolby Stereo sound, revolutionizing the movie-going experience."
+  },
+  {
+    "question": "Which director made 'The Searchers'?",
+    "A": "John Ford",
+    "B": "Howard Hawks",
+    "C": "Anthony Mann",
+    "D": "Raoul Walsh",
+    "answer": "A",
+    "funFact": "John Ford's The Searchers (1956) is considered one of the greatest Western films ever made and influenced many later directors."
+  },
+  {
+    "question": "What was the first film to win the Academy Award for Best Foreign Language Film?",
+    "A": "La Strada",
+    "B": "The Bicycle Thief",
+    "C": "Rashomon",
+    "D": "The Virgin Spring",
+    "answer": "A",
+    "funFact": "La Strada (1954) was the first winner of the Academy Award for Best Foreign Language Film, a category introduced in 1956."
+  },
+  {
+    "question": "Which actress starred in 'Double Indemnity'?",
+    "A": "Barbara Stanwyck",
+    "B": "Joan Crawford",
+    "C": "Bette Davis",
+    "D": "Katharine Hepburn",
+    "answer": "A",
+    "funFact": "Barbara Stanwyck's performance in Double Indemnity (1944) is considered one of the greatest in film noir history."
+  },
+  {
+    "question": "What was the first film to use the widescreen format CinemaScope?",
+    "A": "The Robe",
+    "B": "How to Marry a Millionaire",
+    "C": "20,000 Leagues Under the Sea",
+    "D": "Oklahoma!",
+    "answer": "A",
+    "funFact": "The Robe (1953) was the first film to be shot and released in CinemaScope, a widescreen format that became popular in the 1950s."
+  },
+  {
+    "question": "Which actor starred in 'Rebel Without a Cause'?",
+    "A": "Marlon Brando",
+    "B": "James Dean",
+    "C": "Montgomery Clift",
+    "D": "Paul Newman",
+    "answer": "B",
+    "funFact": "James Dean's performance in Rebel Without a Cause (1955) made him a cultural icon, though he died before the film's release."
+  },
+  {
+    "question": "What was the first film to win the Academy Award for Best Picture that was also a comedy?",
+    "A": "It Happened One Night",
+    "B": "You Can't Take It with You",
+    "C": "The Apartment",
+    "D": "Annie Hall",
+    "answer": "A",
+    "funFact": "It Happened One Night (1934) was the first comedy to win the Academy Award for Best Picture."
+  }
+]
+

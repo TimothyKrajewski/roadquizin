@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Who wrote '1984'?",
+    "A": "George Orwell",
+    "B": "Aldous Huxley",
+    "C": "Ray Bradbury",
+    "D": "H.G. Wells",
+    "answer": "A",
+    "funFact": "1984 by George Orwell was published in 1949 and is a dystopian novel about totalitarian surveillance."
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "A": "Harper Lee",
+    "B": "Truman Capote",
+    "C": "Flannery O'Connor",
+    "D": "Eudora Welty",
+    "answer": "A",
+    "funFact": "To Kill a Mockingbird by Harper Lee was published in 1960 and won the Pulitzer Prize for Fiction."
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "A": "Jane Austen",
+    "B": "Charlotte Brontë",
+    "C": "Emily Brontë",
+    "D": "Virginia Woolf",
+    "answer": "A",
+    "funFact": "Pride and Prejudice by Jane Austen was published in 1813 and is one of the most popular novels in English literature."
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "A": "F. Scott Fitzgerald",
+    "B": "Ernest Hemingway",
+    "C": "John Steinbeck",
+    "D": "William Faulkner",
+    "answer": "A",
+    "funFact": "The Great Gatsby by F. Scott Fitzgerald was published in 1925 and is considered a masterpiece of American literature."
+  },
+  {
+    "question": "Who wrote 'Moby-Dick'?",
+    "A": "Herman Melville",
+    "B": "Nathaniel Hawthorne",
+    "C": "Edgar Allan Poe",
+    "D": "Mark Twain",
+    "answer": "A",
+    "funFact": "Moby-Dick by Herman Melville was published in 1851 and is considered one of the greatest American novels."
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "A": "J.D. Salinger",
+    "B": "F. Scott Fitzgerald",
+    "C": "Ernest Hemingway",
+    "D": "John Steinbeck",
+    "answer": "A",
+    "funFact": "The Catcher in the Rye by J.D. Salinger was published in 1951 and is a controversial coming-of-age novel."
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "A": "Leo Tolstoy",
+    "B": "Fyodor Dostoevsky",
+    "C": "Anton Chekhov",
+    "D": "Ivan Turgenev",
+    "answer": "A",
+    "funFact": "War and Peace by Leo Tolstoy was published in 1869 and is considered one of the longest and greatest novels ever written."
+  },
+  {
+    "question": "Who wrote 'The Lord of the Rings'?",
+    "A": "J.R.R. Tolkien",
+    "B": "C.S. Lewis",
+    "C": "George R.R. Martin",
+    "D": "J.K. Rowling",
+    "answer": "A",
+    "funFact": "The Lord of the Rings by J.R.R. Tolkien was published between 1954 and 1955 and is a fantasy epic."
+  },
+  {
+    "question": "Who wrote 'Harry Potter'?",
+    "A": "J.K. Rowling",
+    "B": "J.R.R. Tolkien",
+    "C": "C.S. Lewis",
+    "D": "George R.R. Martin",
+    "answer": "A",
+    "funFact": "The Harry Potter series by J.K. Rowling was published between 1997 and 2007 and became a global phenomenon."
+  },
+  {
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "A": "Mark Twain",
+    "B": "Herman Melville",
+    "C": "Nathaniel Hawthorne",
+    "D": "Edgar Allan Poe",
+    "answer": "A",
+    "funFact": "The Adventures of Huckleberry Finn by Mark Twain was published in 1884 and is considered a masterpiece of American literature."
+  },
+  {
+    "question": "Who wrote 'Jane Eyre'?",
+    "A": "Charlotte Brontë",
+    "B": "Jane Austen",
+    "C": "Emily Brontë",
+    "D": "Virginia Woolf",
+    "answer": "A",
+    "funFact": "Jane Eyre by Charlotte Brontë was published in 1847 and is a classic Gothic romance novel."
+  },
+  {
+    "question": "Who wrote 'Wuthering Heights'?",
+    "A": "Emily Brontë",
+    "B": "Charlotte Brontë",
+    "C": "Jane Austen",
+    "D": "Virginia Woolf",
+    "answer": "A",
+    "funFact": "Wuthering Heights by Emily Brontë was published in 1847 and is a classic Gothic romance novel."
+  },
+  {
+    "question": "Who wrote 'The Old Man and the Sea'?",
+    "A": "Ernest Hemingway",
+    "B": "F. Scott Fitzgerald",
+    "C": "John Steinbeck",
+    "D": "William Faulkner",
+    "answer": "A",
+    "funFact": "The Old Man and the Sea by Ernest Hemingway was published in 1952 and won the Pulitzer Prize for Fiction."
+  },
+  {
+    "question": "Who wrote 'The Grapes of Wrath'?",
+    "A": "John Steinbeck",
+    "B": "Ernest Hemingway",
+    "C": "F. Scott Fitzgerald",
+    "D": "William Faulkner",
+    "answer": "A",
+    "funFact": "The Grapes of Wrath by John Steinbeck was published in 1939 and won the Pulitzer Prize for Fiction."
+  },
+  {
+    "question": "Who wrote 'Crime and Punishment'?",
+    "A": "Fyodor Dostoevsky",
+    "B": "Leo Tolstoy",
+    "C": "Anton Chekhov",
+    "D": "Ivan Turgenev",
+    "answer": "A",
+    "funFact": "Crime and Punishment by Fyodor Dostoevsky was published in 1866 and is a psychological thriller novel."
+  },
+  {
+    "question": "Who wrote 'The Chronicles of Narnia'?",
+    "A": "C.S. Lewis",
+    "B": "J.R.R. Tolkien",
+    "C": "J.K. Rowling",
+    "D": "George R.R. Martin",
+    "answer": "A",
+    "funFact": "The Chronicles of Narnia by C.S. Lewis was published between 1950 and 1956 and is a fantasy series."
+  },
+  {
+    "question": "Who wrote 'Dracula'?",
+    "A": "Bram Stoker",
+    "B": "Mary Shelley",
+    "C": "Edgar Allan Poe",
+    "D": "H.P. Lovecraft",
+    "answer": "A",
+    "funFact": "Dracula by Bram Stoker was published in 1897 and is the most famous vampire novel ever written."
+  },
+  {
+    "question": "Who wrote 'Frankenstein'?",
+    "A": "Mary Shelley",
+    "B": "Bram Stoker",
+    "C": "Edgar Allan Poe",
+    "D": "H.P. Lovecraft",
+    "answer": "A",
+    "funFact": "Frankenstein by Mary Shelley was published in 1818 and is considered one of the first science fiction novels."
+  },
+  {
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "A": "Oscar Wilde",
+    "B": "Bram Stoker",
+    "C": "Mary Shelley",
+    "D": "Edgar Allan Poe",
+    "answer": "A",
+    "funFact": "The Picture of Dorian Gray by Oscar Wilde was published in 1890 and is a philosophical novel about vanity and morality."
+  },
+  {
+    "question": "Who wrote 'Les Misérables'?",
+    "A": "Victor Hugo",
+    "B": "Alexandre Dumas",
+    "C": "Gustave Flaubert",
+    "D": "Émile Zola",
+    "answer": "A",
+    "funFact": "Les Misérables by Victor Hugo was published in 1862 and is one of the longest novels ever written."
+  },
+  {
+    "question": "Who wrote 'The Count of Monte Cristo'?",
+    "A": "Alexandre Dumas",
+    "B": "Victor Hugo",
+    "C": "Gustave Flaubert",
+    "D": "Émile Zola",
+    "answer": "A",
+    "funFact": "The Count of Monte Cristo by Alexandre Dumas was published in 1844 and is a classic adventure novel."
+  },
+  {
+    "question": "Who wrote 'Don Quixote'?",
+    "A": "Miguel de Cervantes",
+    "B": "Gabriel García Márquez",
+    "C": "Isabel Allende",
+    "D": "Jorge Luis Borges",
+    "answer": "A",
+    "funFact": "Don Quixote by Miguel de Cervantes was published in 1605 and is considered the first modern novel."
+  },
+  {
+    "question": "Who wrote 'One Hundred Years of Solitude'?",
+    "A": "Gabriel García Márquez",
+    "B": "Miguel de Cervantes",
+    "C": "Isabel Allende",
+    "D": "Jorge Luis Borges",
+    "answer": "A",
+    "funFact": "One Hundred Years of Solitude by Gabriel García Márquez was published in 1967 and won the Nobel Prize in Literature."
+  },
+  {
+    "question": "Who wrote 'The Handmaid's Tale'?",
+    "A": "Margaret Atwood",
+    "B": "Alice Munro",
+    "C": "Carol Shields",
+    "D": "Robertson Davies",
+    "answer": "A",
+    "funFact": "The Handmaid's Tale by Margaret Atwood was published in 1985 and is a dystopian novel."
+  },
+  {
+    "question": "Who wrote 'Beloved'?",
+    "A": "Toni Morrison",
+    "B": "Maya Angelou",
+    "C": "Alice Walker",
+    "D": "Zora Neale Hurston",
+    "answer": "A",
+    "funFact": "Beloved by Toni Morrison was published in 1987 and won the Pulitzer Prize for Fiction."
+  },
+  {
+    "question": "Who wrote 'The Color Purple'?",
+    "A": "Alice Walker",
+    "B": "Toni Morrison",
+    "C": "Maya Angelou",
+    "D": "Zora Neale Hurston",
+    "answer": "A",
+    "funFact": "The Color Purple by Alice Walker was published in 1982 and won the Pulitzer Prize for Fiction."
+  },
+  {
+    "question": "Who wrote 'The Kite Runner'?",
+    "A": "Khaled Hosseini",
+    "B": "Salman Rushdie",
+    "C": "Arundhati Roy",
+    "D": "Jhumpa Lahiri",
+    "answer": "A",
+    "funFact": "The Kite Runner by Khaled Hosseini was published in 2003 and became an international bestseller."
+  },
+  {
+    "question": "Who wrote 'The Alchemist'?",
+    "A": "Paulo Coelho",
+    "B": "Jorge Luis Borges",
+    "C": "Isabel Allende",
+    "D": "Gabriel García Márquez",
+    "answer": "A",
+    "funFact": "The Alchemist by Paulo Coelho was published in 1988 and became one of the best-selling books of all time."
+  },
+  {
+    "question": "Who wrote 'The Book Thief'?",
+    "A": "Markus Zusak",
+    "B": "John Green",
+    "C": "Jodi Picoult",
+    "D": "Nicholas Sparks",
+    "answer": "A",
+    "funFact": "The Book Thief by Markus Zusak was published in 2005 and is a historical fiction novel set in Nazi Germany."
+  },
+  {
+    "question": "Who wrote 'The Hunger Games'?",
+    "A": "Suzanne Collins",
+    "B": "J.K. Rowling",
+    "C": "Stephenie Meyer",
+    "D": "Veronica Roth",
+    "answer": "A",
+    "funFact": "The Hunger Games trilogy by Suzanne Collins was published between 2008 and 2010 and became a global phenomenon."
+  }
+]
+

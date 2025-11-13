@@ -21,7 +21,7 @@
         "question": "What is the Olympic motto?",
         "A": "Faster, Higher, Stronger",
         "B": "Citius, Altius, Fortius",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Go for the Gold",
         "answer": "A",
         "funFact": "The Olympic motto is 'Citius, Altius, Fortius' (Latin for 'Faster, Higher, Stronger'), which was adopted in 1894 and remains the official motto today."
@@ -40,7 +40,7 @@
         "A": "Paris",
         "B": "London",
         "C": "Los Angeles",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "B",
         "funFact": "London has hosted the Summer Olympics three times: in 1908, 1948, and 2012, making it the only city to have hosted the modern Games three times."
     },
@@ -49,7 +49,7 @@
         "A": "Torch Relay",
         "B": "Flame Lighting",
         "C": "Olympic Torch",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Olympic Torch Relay begins with the lighting of the flame in Olympia, Greece, and ends with the lighting of the cauldron at the opening ceremony of the host city."
     },
@@ -58,7 +58,7 @@
         "A": "Swimming",
         "B": "Athletics (Track and Field)",
         "C": "Gymnastics",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Athletics (track and field), swimming, and gymnastics have been included in every modern Summer Olympic Games since 1896."
     },

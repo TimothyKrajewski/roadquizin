@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which book was adapted into the movie 'The Godfather'?",
+    "A": "The Godfather by Mario Puzo",
+    "B": "The Great Gatsby by F. Scott Fitzgerald",
+    "C": "Gone with the Wind by Margaret Mitchell",
+    "D": "The Shining by Stephen King",
+    "answer": "A",
+    "funFact": "The Godfather (1972) was adapted from Mario Puzo's 1969 novel and won the Academy Award for Best Picture."
+  },
+  {
+    "question": "Which book was adapted into the movie 'Gone with the Wind'?",
+    "A": "Gone with the Wind by Margaret Mitchell",
+    "B": "The Godfather by Mario Puzo",
+    "C": "The Great Gatsby by F. Scott Fitzgerald",
+    "D": "The Shining by Stephen King",
+    "answer": "A",
+    "funFact": "Gone with the Wind (1939) was adapted from Margaret Mitchell's 1936 novel and won 10 Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Lord of the Rings' trilogy?",
+    "A": "The Lord of the Rings by J.R.R. Tolkien",
+    "B": "The Hobbit by J.R.R. Tolkien",
+    "C": "The Chronicles of Narnia by C.S. Lewis",
+    "D": "Harry Potter by J.K. Rowling",
+    "answer": "A",
+    "funFact": "The Lord of the Rings trilogy (2001-2003) was adapted from J.R.R. Tolkien's fantasy novels and won 17 Academy Awards total."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Shawshank Redemption'?",
+    "A": "Rita Hayworth and Shawshank Redemption by Stephen King",
+    "B": "The Shining by Stephen King",
+    "C": "Carrie by Stephen King",
+    "D": "The Green Mile by Stephen King",
+    "answer": "A",
+    "funFact": "The Shawshank Redemption (1994) was adapted from Stephen King's novella Rita Hayworth and Shawshank Redemption."
+  },
+  {
+    "question": "Which book was adapted into the movie 'To Kill a Mockingbird'?",
+    "A": "To Kill a Mockingbird by Harper Lee",
+    "B": "The Great Gatsby by F. Scott Fitzgerald",
+    "C": "Gone with the Wind by Margaret Mitchell",
+    "D": "The Catcher in the Rye by J.D. Salinger",
+    "answer": "A",
+    "funFact": "To Kill a Mockingbird (1962) was adapted from Harper Lee's 1960 novel and won three Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Shining'?",
+    "A": "The Shining by Stephen King",
+    "B": "Carrie by Stephen King",
+    "C": "It by Stephen King",
+    "D": "Misery by Stephen King",
+    "answer": "A",
+    "funFact": "The Shining (1980) was adapted from Stephen King's 1977 horror novel, though King was not satisfied with the adaptation."
+  },
+  {
+    "question": "Which book was adapted into the movie 'Fight Club'?",
+    "A": "Fight Club by Chuck Palahniuk",
+    "B": "American Psycho by Bret Easton Ellis",
+    "C": "Trainspotting by Irvine Welsh",
+    "D": "Less Than Zero by Bret Easton Ellis",
+    "answer": "A",
+    "funFact": "Fight Club (1999) was adapted from Chuck Palahniuk's 1996 novel and became a cult classic."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Silence of the Lambs'?",
+    "A": "The Silence of the Lambs by Thomas Harris",
+    "B": "Red Dragon by Thomas Harris",
+    "C": "Hannibal by Thomas Harris",
+    "D": "The Girl with the Dragon Tattoo by Stieg Larsson",
+    "answer": "A",
+    "funFact": "The Silence of the Lambs (1991) was adapted from Thomas Harris's 1988 novel and won five Academy Awards including Best Picture."
+  },
+  {
+    "question": "Which book was adapted into the movie 'Forrest Gump'?",
+    "A": "Forrest Gump by Winston Groom",
+    "B": "The Curious Case of Benjamin Button by F. Scott Fitzgerald",
+    "C": "The Great Gatsby by F. Scott Fitzgerald",
+    "D": "Tender Is the Night by F. Scott Fitzgerald",
+    "answer": "A",
+    "funFact": "Forrest Gump (1994) was adapted from Winston Groom's 1986 novel and won six Academy Awards including Best Picture."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Green Mile'?",
+    "A": "The Green Mile by Stephen King",
+    "B": "The Shawshank Redemption by Stephen King",
+    "C": "The Shining by Stephen King",
+    "D": "Carrie by Stephen King",
+    "answer": "A",
+    "funFact": "The Green Mile (1999) was adapted from Stephen King's 1996 serial novel and was nominated for four Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Great Gatsby'?",
+    "A": "The Great Gatsby by F. Scott Fitzgerald",
+    "B": "Tender Is the Night by F. Scott Fitzgerald",
+    "C": "This Side of Paradise by F. Scott Fitzgerald",
+    "D": "The Beautiful and Damned by F. Scott Fitzgerald",
+    "answer": "A",
+    "funFact": "The Great Gatsby has been adapted multiple times, most notably in 1974 and 2013, from F. Scott Fitzgerald's 1925 novel."
+  },
+  {
+    "question": "Which book was adapted into the movie 'Jurassic Park'?",
+    "A": "Jurassic Park by Michael Crichton",
+    "B": "The Andromeda Strain by Michael Crichton",
+    "C": "Sphere by Michael Crichton",
+    "D": "Timeline by Michael Crichton",
+    "answer": "A",
+    "funFact": "Jurassic Park (1993) was adapted from Michael Crichton's 1990 novel and revolutionized special effects in film."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Girl with the Dragon Tattoo'?",
+    "A": "The Girl with the Dragon Tattoo by Stieg Larsson",
+    "B": "The Silence of the Lambs by Thomas Harris",
+    "C": "Gone Girl by Gillian Flynn",
+    "D": "The Girl on the Train by Paula Hawkins",
+    "answer": "A",
+    "funFact": "The Girl with the Dragon Tattoo (2011) was adapted from Stieg Larsson's 2005 novel, the first in the Millennium series."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Hunger Games'?",
+    "A": "The Hunger Games by Suzanne Collins",
+    "B": "Divergent by Veronica Roth",
+    "C": "The Maze Runner by James Dashner",
+    "D": "The Giver by Lois Lowry",
+    "answer": "A",
+    "funFact": "The Hunger Games (2012) was adapted from Suzanne Collins's 2008 novel and launched a successful film franchise."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Fault in Our Stars'?",
+    "A": "The Fault in Our Stars by John Green",
+    "B": "Looking for Alaska by John Green",
+    "C": "Paper Towns by John Green",
+    "D": "An Abundance of Katherines by John Green",
+    "answer": "A",
+    "funFact": "The Fault in Our Stars (2014) was adapted from John Green's 2012 novel and became a box office success."
+  },
+  {
+    "question": "Which book was adapted into the movie 'Gone Girl'?",
+    "A": "Gone Girl by Gillian Flynn",
+    "B": "The Girl with the Dragon Tattoo by Stieg Larsson",
+    "C": "The Girl on the Train by Paula Hawkins",
+    "D": "Sharp Objects by Gillian Flynn",
+    "answer": "A",
+    "funFact": "Gone Girl (2014) was adapted from Gillian Flynn's 2012 novel and was a critical and commercial success."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Notebook'?",
+    "A": "The Notebook by Nicholas Sparks",
+    "B": "A Walk to Remember by Nicholas Sparks",
+    "C": "The Last Song by Nicholas Sparks",
+    "D": "Message in a Bottle by Nicholas Sparks",
+    "answer": "A",
+    "funFact": "The Notebook (2004) was adapted from Nicholas Sparks's 1996 novel and became a romantic drama classic."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Help'?",
+    "A": "The Help by Kathryn Stockett",
+    "B": "To Kill a Mockingbird by Harper Lee",
+    "C": "The Color Purple by Alice Walker",
+    "D": "Beloved by Toni Morrison",
+    "answer": "A",
+    "funFact": "The Help (2011) was adapted from Kathryn Stockett's 2009 novel and was nominated for four Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Martian'?",
+    "A": "The Martian by Andy Weir",
+    "B": "2001: A Space Odyssey by Arthur C. Clarke",
+    "C": "Dune by Frank Herbert",
+    "D": "Ender's Game by Orson Scott Card",
+    "answer": "A",
+    "funFact": "The Martian (2015) was adapted from Andy Weir's 2011 novel and was nominated for seven Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'Life of Pi'?",
+    "A": "Life of Pi by Yann Martel",
+    "B": "The Kite Runner by Khaled Hosseini",
+    "C": "The White Tiger by Aravind Adiga",
+    "D": "The God of Small Things by Arundhati Roy",
+    "answer": "A",
+    "funFact": "Life of Pi (2012) was adapted from Yann Martel's 2001 novel and won four Academy Awards including Best Director."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Curious Case of Benjamin Button'?",
+    "A": "The Curious Case of Benjamin Button by F. Scott Fitzgerald",
+    "B": "The Great Gatsby by F. Scott Fitzgerald",
+    "C": "Tender Is the Night by F. Scott Fitzgerald",
+    "D": "This Side of Paradise by F. Scott Fitzgerald",
+    "answer": "A",
+    "funFact": "The Curious Case of Benjamin Button (2008) was adapted from F. Scott Fitzgerald's 1922 short story and won three Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'No Country for Old Men'?",
+    "A": "No Country for Old Men by Cormac McCarthy",
+    "B": "The Road by Cormac McCarthy",
+    "C": "All the Pretty Horses by Cormac McCarthy",
+    "D": "Blood Meridian by Cormac McCarthy",
+    "answer": "A",
+    "funFact": "No Country for Old Men (2007) was adapted from Cormac McCarthy's 2005 novel and won four Academy Awards including Best Picture."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Road'?",
+    "A": "The Road by Cormac McCarthy",
+    "B": "No Country for Old Men by Cormac McCarthy",
+    "C": "All the Pretty Horses by Cormac McCarthy",
+    "D": "Blood Meridian by Cormac McCarthy",
+    "answer": "A",
+    "funFact": "The Road (2009) was adapted from Cormac McCarthy's 2006 post-apocalyptic novel and was nominated for two Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Prestige'?",
+    "A": "The Prestige by Christopher Priest",
+    "B": "The Illusionist by Steven Millhauser",
+    "C": "The Magicians by Lev Grossman",
+    "D": "The Night Circus by Erin Morgenstern",
+    "answer": "A",
+    "funFact": "The Prestige (2006) was adapted from Christopher Priest's 1995 novel about rival magicians."
+  },
+  {
+    "question": "Which book was adapted into the movie 'A Clockwork Orange'?",
+    "A": "A Clockwork Orange by Anthony Burgess",
+    "B": "1984 by George Orwell",
+    "C": "Brave New World by Aldous Huxley",
+    "D": "Fahrenheit 451 by Ray Bradbury",
+    "answer": "A",
+    "funFact": "A Clockwork Orange (1971) was adapted from Anthony Burgess's 1962 dystopian novel."
+  },
+  {
+    "question": "Which book was adapted into the movie 'One Flew Over the Cuckoo's Nest'?",
+    "A": "One Flew Over the Cuckoo's Nest by Ken Kesey",
+    "B": "The Catcher in the Rye by J.D. Salinger",
+    "C": "The Bell Jar by Sylvia Plath",
+    "D": "Girl, Interrupted by Susanna Kaysen",
+    "answer": "A",
+    "funFact": "One Flew Over the Cuckoo's Nest (1975) was adapted from Ken Kesey's 1962 novel and won five Academy Awards including Best Picture."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The English Patient'?",
+    "A": "The English Patient by Michael Ondaatje",
+    "B": "The Remains of the Day by Kazuo Ishiguro",
+    "C": "Atonement by Ian McEwan",
+    "D": "The Reader by Bernhard Schlink",
+    "answer": "A",
+    "funFact": "The English Patient (1996) was adapted from Michael Ondaatje's 1992 novel and won nine Academy Awards including Best Picture."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Remains of the Day'?",
+    "A": "The Remains of the Day by Kazuo Ishiguro",
+    "B": "The English Patient by Michael Ondaatje",
+    "C": "Atonement by Ian McEwan",
+    "D": "The Reader by Bernhard Schlink",
+    "answer": "A",
+    "funFact": "The Remains of the Day (1993) was adapted from Kazuo Ishiguro's 1989 novel and was nominated for eight Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'Atonement'?",
+    "A": "Atonement by Ian McEwan",
+    "B": "The English Patient by Michael Ondaatje",
+    "C": "The Remains of the Day by Kazuo Ishiguro",
+    "D": "The Reader by Bernhard Schlink",
+    "answer": "A",
+    "funFact": "Atonement (2007) was adapted from Ian McEwan's 2001 novel and was nominated for seven Academy Awards."
+  },
+  {
+    "question": "Which book was adapted into the movie 'The Reader'?",
+    "A": "The Reader by Bernhard Schlink",
+    "B": "The English Patient by Michael Ondaatje",
+    "C": "The Remains of the Day by Kazuo Ishiguro",
+    "D": "Atonement by Ian McEwan",
+    "answer": "A",
+    "funFact": "The Reader (2008) was adapted from Bernhard Schlink's 1995 novel and won Kate Winslet the Academy Award for Best Actress."
+  }
+]
+

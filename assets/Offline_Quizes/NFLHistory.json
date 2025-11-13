@@ -30,7 +30,7 @@
         "question": "What is the Super Bowl?",
         "A": "The NFL championship game",
         "B": "Played between AFC and NFC champions",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "A regular season game",
         "answer": "A",
         "funFact": "The Super Bowl is the NFL championship game, played between the AFC and NFC champions. It's the most-watched television event in the United States."
@@ -57,7 +57,7 @@
         "question": "What is the NFL regular season?",
         "A": "17 games per team",
         "B": "18 weeks",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "16 games",
         "answer": "A",
         "funFact": "The NFL regular season consists of 17 games per team over 18 weeks (each team has one bye week). It was expanded from 16 games in 2021."
@@ -66,7 +66,7 @@
         "question": "What is the NFL playoffs?",
         "A": "Single-elimination tournament",
         "B": "14 teams qualify",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Double-elimination",
         "answer": "A",
         "funFact": "The NFL playoffs are a single-elimination tournament with 14 teams (7 from each conference). The top seed in each conference gets a first-round bye."
@@ -75,7 +75,7 @@
         "question": "What is the Pro Bowl?",
         "A": "The NFL all-star game",
         "B": "Played after the Super Bowl",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Before the Super Bowl",
         "answer": "A",
         "funFact": "The Pro Bowl is the NFL all-star game, played after the Super Bowl. It features the best players from each conference."
@@ -84,7 +84,7 @@
         "question": "What is the NFL Draft?",
         "A": "Where teams select college players",
         "B": "Held annually in April",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "In May",
         "answer": "A",
         "funFact": "The NFL Draft is where teams select college players. It's held annually in April and consists of 7 rounds with 32 picks per round."
@@ -93,16 +93,16 @@
         "question": "What is the Hall of Fame?",
         "A": "Honors greatest players and coaches",
         "B": "Located in Canton, Ohio",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "In New York",
         "answer": "A",
         "funFact": "The Pro Football Hall of Fame honors the greatest players, coaches, and contributors. It's located in Canton, Ohio, where the NFL was founded."
     },
     {
-        "question": "What was the AFL?",
+        "question": "What was the primary characteristic of the AFL?",
         "A": "American Football League",
-        "B": "Merged with NFL in 1970",
-        "C": "Neither A nor B",
+        "B": "1941",
+        "C": "The Battle of Gettysburg (1863)",
         "D": "Still exists",
         "answer": "A",
         "funFact": "The American Football League (AFL) was a rival league that merged with the NFL in 1970. The merger created the modern NFL structure."
@@ -111,7 +111,7 @@
         "question": "What is the salary cap?",
         "A": "Maximum team payroll",
         "B": "Designed for competitive balance",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No limit",
         "answer": "A",
         "funFact": "The salary cap is the maximum amount a team can spend on player salaries. It's designed to promote competitive balance across the league."
@@ -120,7 +120,7 @@
         "question": "What is free agency?",
         "A": "Players can sign with any team",
         "B": "After their contract expires",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only with their team",
         "answer": "A",
         "funFact": "Free agency allows players to sign with any team after their contract expires. This system was established in 1993."
@@ -129,7 +129,7 @@
         "question": "What is the NFL Combine?",
         "A": "Where prospects are evaluated",
         "B": "Physical and mental tests",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "A game",
         "answer": "A",
         "funFact": "The NFL Combine is where college prospects are evaluated through physical and mental tests. It helps teams evaluate players before the draft."
@@ -138,7 +138,7 @@
         "question": "What is Monday Night Football?",
         "A": "A weekly primetime game",
         "B": "Started in 1970",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "On Sundays",
         "answer": "A",
         "funFact": "Monday Night Football is a weekly primetime game that started in 1970. It's one of the longest-running primetime sports programs."
@@ -147,7 +147,7 @@
         "question": "What is the NFL's revenue?",
         "A": "Billions of dollars",
         "B": "From TV, tickets, merchandise",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Millions",
         "answer": "A",
         "funFact": "The NFL generates billions of dollars in revenue from TV contracts, tickets, merchandise, and other sources. It's the most profitable sports league in the world."
@@ -156,7 +156,7 @@
         "question": "What is the NFL's international expansion?",
         "A": "Games in London and Mexico",
         "B": "Growing international fanbase",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only in US",
         "answer": "A",
         "funFact": "The NFL plays games in London and Mexico and has a growing international fanbase. There are discussions about expanding to other countries."
@@ -165,7 +165,7 @@
         "question": "What is the NFL's impact on culture?",
         "A": "Significant",
         "B": "Most popular sport in US",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Minimal",
         "answer": "A",
         "funFact": "The NFL has a significant impact on American culture and is the most popular sport in the United States. The Super Bowl is a major cultural event."
@@ -174,7 +174,7 @@
         "question": "What is the future of the NFL?",
         "A": "Continued growth",
         "B": "International expansion",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Declining",
         "answer": "A",
         "funFact": "The NFL's future includes continued growth and international expansion. The league is exploring new markets and technologies to grow the game."

@@ -4,7 +4,7 @@
         "A": "Absinthe",
         "B": "Raw milk cheese",
         "C": "Foie gras",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Absinthe was banned in the United States from 1912 to 2007 due to concerns about its hallucinogenic properties, though modern research shows it's no more dangerous than other alcohol."
     },
@@ -13,7 +13,7 @@
         "A": "Garlic",
         "B": "Onions",
         "C": "Beans",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Garlic, onions, and beans were all banned in ancient Rome for priests because they were believed to cause flatulence and were considered impure."
     },
@@ -22,7 +22,7 @@
         "A": "Potatoes",
         "B": "Tomatoes",
         "C": "Coffee",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Potatoes, tomatoes, and coffee were all banned in medieval Europe at various times. Potatoes were thought to cause leprosy, tomatoes were considered poisonous, and coffee was banned by some religious leaders."
     },
@@ -31,7 +31,7 @@
         "A": "Beef",
         "B": "Pork",
         "C": "Chicken",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beef was banned in ancient China during certain dynasties because cattle were needed for farming. Eating beef was considered wasteful and was punishable by law."
     },
@@ -40,7 +40,7 @@
         "A": "Pork",
         "B": "Beef",
         "C": "Fish",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pork was banned in ancient Egypt for priests because pigs were associated with the god Set, who was considered evil. However, common people could still eat pork."
     },
@@ -49,7 +49,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans were banned in ancient Greece for followers of Pythagoras because they were believed to contain souls. Eating beans was considered a form of cannibalism."
     },
@@ -58,7 +58,7 @@
         "A": "Beef",
         "B": "Pork",
         "C": "Chicken",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beef was banned in ancient India because cows are considered sacred in Hinduism. Eating beef is still illegal in many Indian states today."
     },
@@ -67,7 +67,7 @@
         "A": "Beef",
         "B": "Pork",
         "C": "Chicken",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beef was banned in ancient Japan for over 1,200 years because of Buddhist beliefs. The ban was lifted in the 19th century when Japan opened to the West."
     },
@@ -76,7 +76,7 @@
         "A": "Coffee",
         "B": "Tea",
         "C": "Chocolate",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Coffee was banned in medieval England by King Charles II in 1675 because coffeehouses were seen as places of political dissent. The ban was lifted after public outcry."
     },
@@ -85,7 +85,7 @@
         "A": "Pork",
         "B": "Beef",
         "C": "Wine",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pork was banned in ancient Persia because of Zoroastrian beliefs. Pigs were considered unclean animals and eating pork was forbidden."
     },
@@ -94,7 +94,7 @@
         "A": "Meat",
         "B": "Beans",
         "C": "Garlic",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "B",
         "funFact": "Beans were banned for gladiators in ancient Rome because they were believed to make fighters weak. Gladiators were fed a diet of barley and vegetables instead."
     },
@@ -103,7 +103,7 @@
         "A": "Fish",
         "B": "Beef",
         "C": "Pork",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Fish was banned for priests in ancient Egypt because fish were associated with the god Set, who was considered evil. Priests had to follow strict dietary restrictions."
     },
@@ -112,7 +112,7 @@
         "A": "Beef",
         "B": "Pork",
         "C": "Chicken",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beef was banned for emperors in ancient China because cattle were needed for farming. Eating beef was considered wasteful and was reserved for special occasions."
     },
@@ -121,7 +121,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans were banned for athletes in ancient Greece because they were believed to cause flatulence and were thought to be impure. Athletes were fed a diet of meat and bread instead."
     },
@@ -130,7 +130,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans were banned for soldiers in ancient Rome because they were believed to cause flatulence and were thought to make fighters weak. Soldiers were fed a diet of bread and meat instead."
     },
@@ -139,7 +139,7 @@
         "A": "Beef",
         "B": "Pork",
         "C": "Chicken",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beef was banned for Brahmins (priests) in ancient India because cows are considered sacred in Hinduism. Eating beef is still illegal in many Indian states today."
     },
@@ -148,7 +148,7 @@
         "A": "Beef",
         "B": "Pork",
         "C": "Chicken",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beef was banned for samurai in ancient Japan because of Buddhist beliefs. Samurai were expected to follow a vegetarian diet, though this was not always enforced."
     },
@@ -157,7 +157,7 @@
         "A": "Meat",
         "B": "Fish",
         "C": "Wine",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Meat was banned for monks in medieval Europe because of religious beliefs. Monks were expected to follow a vegetarian diet, though fish was sometimes allowed."
     },
@@ -166,7 +166,7 @@
         "A": "Pork",
         "B": "Beef",
         "C": "Wine",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pork was banned for Zoroastrians in ancient Persia because pigs were considered unclean animals. Eating pork was forbidden by Zoroastrian religious law."
     },
@@ -175,7 +175,7 @@
         "A": "Garlic",
         "B": "Onions",
         "C": "Beans",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Garlic, onions, and beans were all banned for Vestal Virgins in ancient Rome because they were believed to cause flatulence and were considered impure."
     },
@@ -184,7 +184,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans were banned for mummies in ancient Egypt because they were believed to contain souls. Eating beans was considered a form of cannibalism."
     },
@@ -193,7 +193,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans were banned for oracles in ancient Greece because they were believed to contain souls. Eating beans was considered a form of cannibalism and was forbidden for those who communicated with the gods."
     },
@@ -202,7 +202,7 @@
         "A": "Beans",
         "B": "Garlic",
         "C": "Onions",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beans were banned for augurs (priests who interpreted omens) in ancient Rome because they were believed to contain souls. Eating beans was considered a form of cannibalism."
     },
@@ -211,7 +211,7 @@
         "A": "Root vegetables",
         "B": "Beef",
         "C": "Pork",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Root vegetables were banned for Jains in ancient India because harvesting them kills the plant. Jains follow a strict vegetarian diet that avoids harming any living thing."
     },
@@ -220,7 +220,7 @@
         "A": "Beef",
         "B": "Pork",
         "C": "Chicken",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Beef, pork, and chicken were all banned for Buddhists in ancient Japan because of religious beliefs. Buddhists were expected to follow a vegetarian diet, though this was not always enforced."
     }

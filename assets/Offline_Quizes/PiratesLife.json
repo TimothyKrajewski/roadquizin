@@ -1,9 +1,9 @@
 [
     {
-        "question": "What was a pirate's daily life like?",
+        "question": "What was the primary characteristic of a pirate's daily life like?",
         "A": "Constant adventure",
         "B": "Hard work and danger",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Easy and relaxing",
         "answer": "A",
         "funFact": "A pirate's daily life was hard work and danger, though it could be adventurous. Pirates faced disease, violence, and harsh conditions."
@@ -13,15 +13,15 @@
         "A": "Hardtack and salted meat",
         "B": "Rum",
         "C": "Limited fresh food",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "A pirate's diet consisted mainly of hardtack (hard bread), salted meat, and rum. Fresh fruits and vegetables were rare, leading to scurvy."
     },
     {
-        "question": "What was hardtack?",
+        "question": "What was the primary characteristic of hardtack?",
         "A": "Hard bread",
         "B": "A staple food",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A weapon",
         "answer": "A",
         "funFact": "Hardtack was hard bread that didn't spoil. It was a staple food for sailors and pirates, though it was often infested with weevils."
@@ -31,15 +31,15 @@
         "A": "Rum",
         "B": "Water (often contaminated)",
         "C": "Beer",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirates drank rum, water (often contaminated), and beer. Rum was preferred because it didn't spoil and was used as currency."
     },
     {
-        "question": "What was a pirate's sleep?",
+        "question": "What was the primary characteristic of a pirate's sleep?",
         "A": "On deck or in hammocks",
         "B": "Limited and uncomfortable",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Comfortable",
         "answer": "A",
         "funFact": "Pirates slept on deck or in hammocks below deck. Sleep was limited and uncomfortable, especially during storms or battles."
@@ -49,7 +49,7 @@
         "A": "Sailing the ship",
         "B": "Maintaining the ship",
         "C": "Fighting",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirates worked constantly: sailing the ship, maintaining it, and fighting. There was always work to be done, from cleaning to repairs."
     },
@@ -58,123 +58,123 @@
         "A": "Music and singing",
         "B": "Gambling",
         "C": "Drinking",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirates entertained themselves with music, singing, gambling, and drinking. These activities helped pass time and build camaraderie."
     },
     {
-        "question": "What was a pirate's health?",
+        "question": "What was the primary characteristic of a pirate's health?",
         "A": "Poor",
         "B": "Affected by disease and injury",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Good",
         "answer": "A",
         "funFact": "Pirate health was poor, affected by disease (especially scurvy), injury, and harsh conditions. Medical care was limited and often primitive."
     },
     {
-        "question": "What was scurvy?",
+        "question": "What was the primary characteristic of scurvy?",
         "A": "A disease caused by lack of vitamin C",
         "B": "Common among pirates",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A type of ship",
         "answer": "A",
         "funFact": "Scurvy was a disease caused by lack of vitamin C. It was common among pirates who didn't have fresh fruits and vegetables."
     },
     {
-        "question": "What was a pirate's medical care?",
+        "question": "What was the primary characteristic of a pirate's medical care?",
         "A": "Limited",
         "B": "Often primitive",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Advanced",
         "answer": "A",
         "funFact": "Medical care was limited and often primitive. Ships sometimes had a surgeon, but treatment was basic and many injuries were fatal."
     },
     {
-        "question": "What was a pirate's life expectancy?",
+        "question": "What was the primary characteristic of a pirate's life expectancy?",
         "A": "Very short",
         "B": "Often only a few years",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Normal",
         "answer": "A",
         "funFact": "A pirate's life expectancy was very short, often only a few years. Disease, violence, and harsh conditions made piracy a dangerous profession."
     },
     {
-        "question": "What was a pirate's relationship with crew?",
+        "question": "What was the primary characteristic of a pirate's relationship with crew?",
         "A": "Often democratic",
         "B": "Based on the pirate's code",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Always hierarchical",
         "answer": "A",
         "funFact": "Pirate crews were often more democratic than naval crews. Captains were elected and could be removed, and decisions were sometimes made by vote."
     },
     {
-        "question": "What was a pirate's punishment?",
+        "question": "What was the primary characteristic of a pirate's punishment?",
         "A": "Based on the code",
         "B": "Could include marooning",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Always execution",
         "answer": "A",
         "funFact": "Punishment was based on the pirate's code and could include marooning (leaving someone on a deserted island), flogging, or execution."
     },
     {
-        "question": "What was marooning?",
+        "question": "What was the primary characteristic of marooning?",
         "A": "Leaving someone on a deserted island",
         "B": "A form of punishment",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A type of ship",
         "answer": "A",
         "funFact": "Marooning was leaving someone on a deserted island with limited supplies. It was a common form of punishment for breaking the pirate's code."
     },
     {
-        "question": "What was a pirate's relationship with women?",
+        "question": "What was the primary characteristic of a pirate's relationship with women?",
         "A": "Complex",
         "B": "Some female pirates existed",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Women were not allowed",
         "answer": "A",
         "funFact": "Some female pirates existed, like Anne Bonny and Mary Read, though they often disguised themselves as men. Most pirate crews were all male."
     },
     {
-        "question": "What was a pirate's relationship with ports?",
+        "question": "What was the primary characteristic of a pirate's relationship with ports?",
         "A": "Necessary for supplies",
         "B": "Dangerous due to authorities",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Avoided completely",
         "answer": "A",
         "funFact": "Ports were necessary for supplies but dangerous due to authorities. Pirates often used remote ports or friendly harbors to avoid capture."
     },
     {
-        "question": "What was a pirate's relationship with natives?",
+        "question": "What was the primary characteristic of a pirate's relationship with natives?",
         "A": "Varied",
         "B": "Sometimes friendly, sometimes hostile",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Always hostile",
         "answer": "A",
         "funFact": "Pirate relationships with natives varied. Some pirates traded with natives, while others were hostile. It depended on the situation and individuals."
     },
     {
-        "question": "What was a pirate's relationship with other pirates?",
+        "question": "What was the primary characteristic of a pirate's relationship with other pirates?",
         "A": "Could be allies or enemies",
         "B": "Sometimes formed fleets",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Always enemies",
         "answer": "A",
         "funFact": "Pirates could be allies or enemies. Some pirates formed fleets to attack larger targets, while others competed for the same prey."
     },
     {
-        "question": "What was a pirate's end?",
+        "question": "What was the primary characteristic of a pirate's end?",
         "A": "Often execution",
         "B": "Sometimes retirement",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Always death in battle",
         "answer": "A",
         "funFact": "Pirates often ended up executed when captured, though some received pardons and retired. Very few pirates died of old age."
     },
     {
-        "question": "What was a pirate's legacy?",
+        "question": "What was the primary characteristic of a pirate's legacy?",
         "A": "Romanticized in fiction",
         "B": "Feared in reality",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Forgotten",
         "answer": "A",
         "funFact": "Pirates are romanticized in fiction but were feared in reality. Their legacy lives on in books, movies, and popular culture, though the reality was much harsher."

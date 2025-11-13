@@ -1,0 +1,372 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "A": "Paris",
+    "B": "London",
+    "C": "Berlin",
+    "D": "Madrid",
+    "answer": "A",
+    "funFact": "Paris is the capital and largest city of France, known as the 'City of Light' and home to the Eiffel Tower."
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "A": "Tokyo",
+    "B": "Osaka",
+    "C": "Kyoto",
+    "D": "Yokohama",
+    "answer": "A",
+    "funFact": "Tokyo is the capital and largest city of Japan, with a population of over 13 million people."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "A": "Canberra",
+    "B": "Sydney",
+    "C": "Melbourne",
+    "D": "Brisbane",
+    "answer": "A",
+    "funFact": "Canberra is the capital of Australia, a planned city located between Sydney and Melbourne."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "A": "Ottawa",
+    "B": "Toronto",
+    "C": "Vancouver",
+    "D": "Montreal",
+    "answer": "A",
+    "funFact": "Ottawa is the capital of Canada, located in the province of Ontario."
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "A": "Brasília",
+    "B": "São Paulo",
+    "C": "Rio de Janeiro",
+    "D": "Buenos Aires",
+    "answer": "A",
+    "funFact": "Brasília is the capital of Brazil, a planned city built in the 1960s and a UNESCO World Heritage Site."
+  },
+  {
+    "question": "What is the capital of India?",
+    "A": "New Delhi",
+    "B": "Mumbai",
+    "C": "Kolkata",
+    "D": "Bangalore",
+    "answer": "A",
+    "funFact": "New Delhi is the capital of India, part of the larger Delhi metropolitan area."
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "A": "Moscow",
+    "B": "Saint Petersburg",
+    "C": "Novosibirsk",
+    "D": "Yekaterinburg",
+    "answer": "A",
+    "funFact": "Moscow is the capital and largest city of Russia, home to the Kremlin and Red Square."
+  },
+  {
+    "question": "What is the capital of China?",
+    "A": "Beijing",
+    "B": "Shanghai",
+    "C": "Guangzhou",
+    "D": "Shenzhen",
+    "answer": "A",
+    "funFact": "Beijing is the capital of China, home to the Forbidden City and the Great Wall of China."
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "A": "Cape Town, Pretoria, and Bloemfontein",
+    "B": "Johannesburg",
+    "C": "Durban",
+    "D": "Port Elizabeth",
+    "answer": "A",
+    "funFact": "South Africa has three capital cities: Cape Town (legislative), Pretoria (executive), and Bloemfontein (judicial)."
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "A": "Cairo",
+    "B": "Alexandria",
+    "C": "Giza",
+    "D": "Luxor",
+    "answer": "A",
+    "funFact": "Cairo is the capital and largest city of Egypt, located near the Great Pyramids of Giza."
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "A": "Buenos Aires",
+    "B": "São Paulo",
+    "C": "Lima",
+    "D": "Santiago",
+    "answer": "A",
+    "funFact": "Buenos Aires is the capital and largest city of Argentina, known for its tango culture and European architecture."
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "A": "Mexico City",
+    "B": "Guadalajara",
+    "C": "Monterrey",
+    "D": "Puebla",
+    "answer": "A",
+    "funFact": "Mexico City is the capital and largest city of Mexico, one of the most populous cities in the world."
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "A": "Rome",
+    "B": "Milan",
+    "C": "Naples",
+    "D": "Turin",
+    "answer": "A",
+    "funFact": "Rome is the capital of Italy, known as the 'Eternal City' and home to the Colosseum and Vatican City."
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "A": "Madrid",
+    "B": "Barcelona",
+    "C": "Valencia",
+    "D": "Seville",
+    "answer": "A",
+    "funFact": "Madrid is the capital and largest city of Spain, located in the center of the Iberian Peninsula."
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "A": "Berlin",
+    "B": "Munich",
+    "C": "Hamburg",
+    "D": "Frankfurt",
+    "answer": "A",
+    "funFact": "Berlin is the capital and largest city of Germany, known for its history and vibrant culture."
+  },
+  {
+    "question": "What is the capital of the United Kingdom?",
+    "A": "London",
+    "B": "Manchester",
+    "C": "Birmingham",
+    "D": "Edinburgh",
+    "answer": "A",
+    "funFact": "London is the capital and largest city of the United Kingdom, home to Big Ben and the Tower of London."
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "A": "Seoul",
+    "B": "Busan",
+    "C": "Incheon",
+    "D": "Daegu",
+    "answer": "A",
+    "funFact": "Seoul is the capital and largest city of South Korea, a major global technology hub."
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "A": "Jakarta",
+    "B": "Surabaya",
+    "C": "Bandung",
+    "D": "Medan",
+    "answer": "A",
+    "funFact": "Jakarta is the capital and largest city of Indonesia, located on the island of Java."
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "A": "Ankara",
+    "B": "Istanbul",
+    "C": "Izmir",
+    "D": "Bursa",
+    "answer": "A",
+    "funFact": "Ankara is the capital of Turkey, while Istanbul is the largest city and former capital."
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "A": "Riyadh",
+    "B": "Jeddah",
+    "C": "Mecca",
+    "D": "Medina",
+    "answer": "A",
+    "funFact": "Riyadh is the capital and largest city of Saudi Arabia, located in the center of the Arabian Peninsula."
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "A": "Bangkok",
+    "B": "Chiang Mai",
+    "C": "Phuket",
+    "D": "Pattaya",
+    "answer": "A",
+    "funFact": "Bangkok is the capital and largest city of Thailand, known for its ornate temples and vibrant street life."
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "A": "Hanoi",
+    "B": "Ho Chi Minh City",
+    "C": "Da Nang",
+    "D": "Hai Phong",
+    "answer": "A",
+    "funFact": "Hanoi is the capital of Vietnam, while Ho Chi Minh City (formerly Saigon) is the largest city."
+  },
+  {
+    "question": "What is the capital of the Philippines?",
+    "A": "Manila",
+    "B": "Quezon City",
+    "C": "Cebu City",
+    "D": "Davao City",
+    "answer": "A",
+    "funFact": "Manila is the capital of the Philippines, while Quezon City is the largest city in the country."
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "A": "Islamabad",
+    "B": "Karachi",
+    "C": "Lahore",
+    "D": "Faisalabad",
+    "answer": "A",
+    "funFact": "Islamabad is the capital of Pakistan, a planned city built in the 1960s, while Karachi is the largest city."
+  },
+  {
+    "question": "What is the capital of Bangladesh?",
+    "A": "Dhaka",
+    "B": "Chittagong",
+    "C": "Khulna",
+    "D": "Rajshahi",
+    "answer": "A",
+    "funFact": "Dhaka is the capital and largest city of Bangladesh, one of the most densely populated cities in the world."
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "A": "Tehran",
+    "B": "Isfahan",
+    "C": "Shiraz",
+    "D": "Mashhad",
+    "answer": "A",
+    "funFact": "Tehran is the capital and largest city of Iran, located at the foot of the Alborz mountain range."
+  },
+  {
+    "question": "What is the capital of Iraq?",
+    "A": "Baghdad",
+    "B": "Basra",
+    "C": "Mosul",
+    "D": "Erbil",
+    "answer": "A",
+    "funFact": "Baghdad is the capital and largest city of Iraq, located on the Tigris River."
+  },
+  {
+    "question": "What is the capital of Israel?",
+    "A": "Jerusalem",
+    "B": "Tel Aviv",
+    "C": "Haifa",
+    "D": "Beersheba",
+    "answer": "A",
+    "funFact": "Jerusalem is the capital of Israel, though many countries maintain their embassies in Tel Aviv due to political disputes."
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "A": "Athens",
+    "B": "Thessaloniki",
+    "C": "Patras",
+    "D": "Heraklion",
+    "answer": "A",
+    "funFact": "Athens is the capital and largest city of Greece, home to the Acropolis and Parthenon."
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "A": "Lisbon",
+    "B": "Porto",
+    "C": "Coimbra",
+    "D": "Braga",
+    "answer": "A",
+    "funFact": "Lisbon is the capital and largest city of Portugal, located on the Atlantic coast."
+  },
+  {
+    "question": "What is the capital of the Netherlands?",
+    "A": "Amsterdam",
+    "B": "Rotterdam",
+    "C": "The Hague",
+    "D": "Utrecht",
+    "answer": "A",
+    "funFact": "Amsterdam is the capital of the Netherlands, while The Hague is the seat of government."
+  },
+  {
+    "question": "What is the capital of Belgium?",
+    "A": "Brussels",
+    "B": "Antwerp",
+    "C": "Ghent",
+    "D": "Bruges",
+    "answer": "A",
+    "funFact": "Brussels is the capital of Belgium and also serves as the de facto capital of the European Union."
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "A": "Bern",
+    "B": "Zurich",
+    "C": "Geneva",
+    "D": "Basel",
+    "answer": "A",
+    "funFact": "Bern is the capital of Switzerland, while Zurich is the largest city and financial center."
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "A": "Vienna",
+    "B": "Graz",
+    "C": "Linz",
+    "D": "Salzburg",
+    "answer": "A",
+    "funFact": "Vienna is the capital and largest city of Austria, known for its classical music heritage and imperial palaces."
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "A": "Warsaw",
+    "B": "Kraków",
+    "C": "Wrocław",
+    "D": "Gdańsk",
+    "answer": "A",
+    "funFact": "Warsaw is the capital and largest city of Poland, rebuilt after being nearly destroyed in World War II."
+  },
+  {
+    "question": "What is the capital of Czech Republic?",
+    "A": "Prague",
+    "B": "Brno",
+    "C": "Ostrava",
+    "D": "Plzen",
+    "answer": "A",
+    "funFact": "Prague is the capital and largest city of the Czech Republic, known for its beautiful historic architecture."
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "A": "Stockholm",
+    "B": "Gothenburg",
+    "C": "Malmö",
+    "D": "Uppsala",
+    "answer": "A",
+    "funFact": "Stockholm is the capital and largest city of Sweden, built on 14 islands connected by bridges."
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "A": "Oslo",
+    "B": "Bergen",
+    "C": "Trondheim",
+    "D": "Stavanger",
+    "answer": "A",
+    "funFact": "Oslo is the capital and largest city of Norway, located at the head of the Oslofjord."
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "A": "Copenhagen",
+    "B": "Aarhus",
+    "C": "Odense",
+    "D": "Aalborg",
+    "answer": "A",
+    "funFact": "Copenhagen is the capital and largest city of Denmark, known for its cycling culture and colorful buildings."
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "A": "Helsinki",
+    "B": "Espoo",
+    "C": "Tampere",
+    "D": "Vantaa",
+    "answer": "A",
+    "funFact": "Helsinki is the capital and largest city of Finland, located on the Gulf of Finland."
+  },
+  {
+    "question": "What is the capital of Ireland?",
+    "A": "Dublin",
+    "B": "Cork",
+    "C": "Limerick",
+    "D": "Galway",
+    "answer": "A",
+    "funFact": "Dublin is the capital and largest city of Ireland, known for its literary heritage and vibrant pub culture."
+  }
+]
+

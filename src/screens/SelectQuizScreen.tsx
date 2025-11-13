@@ -68,13 +68,18 @@ const ALL_QUIZ_NAMES = [
   'ColdWar', 'VietnamWar', 'KoreanWar', 'FrenchRevolution', 'RussianRevolution',
   'AncientMesopotamia', 'MayanCivilization', 'IncaEmpire', 'AztecEmpire', 'ByzantineEmpire',
   'EuropeanCountries', 'AsianCountries', 'AfricanCountries', 'SouthAmericanCountries',
-  'NorthAmericanCountries', 'Islands', 'Deserts', 'Rainforests', 'Mountains', 'Rivers',
+  'NorthAmericanCountries', 'Deserts', 'Rainforests',
   'ShakespearePlays', 'PoetryFamous', 'Novels', 'ScienceFiction', 'Fantasy',
   'Mystery', 'Horror', 'Romance', 'Biographies', 'MythologyNorse',
   'ArtificialIntelligence', 'Cryptocurrency', 'Programming', 'VideoGames', 'SocialMedia',
   'InternetHistory', 'MobileApps', 'Cybersecurity', 'Robotics', 'VirtualReality',
   'CookingBasics', 'WorldCuisines', 'Baking', 'Wine', 'Coffee',
-  'USStatesAndCapitals', 'WorldCountriesAndCapitals'
+  'USStatesAndCapitals', 'WorldCountriesAndCapitals',
+  'NinetiesSitcoms', 'CultClassics', 'RealityTV', 'EightiesRockAnthems',
+  'OneHitWonders', 'BoyBandsAndGirlGroups', 'GrammyWinners', 'MovieSoundtracks',
+  'BeatlesAndRollingStones', 'PopDivas', 'TravelDestinations', 'FamousAuthors',
+  'ChildrensLiterature', 'BookToMovieAdaptations', 'BannedBooks', 'USStatesAndLandmarks',
+  'OlympicGames', 'WorldCupSoccer', 'SuperBowl', 'NBAChampions'
 ];
 
 // Static quiz mapping for all quiz files - required for React Native bundling
@@ -350,11 +355,8 @@ const QUIZ_MAP: { [key: string]: () => any } = {
   'AfricanCountries': () => require('../../assets/Offline_Quizes/AfricanCountries.json'),
   'SouthAmericanCountries': () => require('../../assets/Offline_Quizes/SouthAmericanCountries.json'),
   'NorthAmericanCountries': () => require('../../assets/Offline_Quizes/NorthAmericanCountries.json'),
-  'Islands': () => require('../../assets/Offline_Quizes/Islands.json'),
   'Deserts': () => require('../../assets/Offline_Quizes/Deserts.json'),
   'Rainforests': () => require('../../assets/Offline_Quizes/Rainforests.json'),
-  'Mountains': () => require('../../assets/Offline_Quizes/Mountains.json'),
-  'Rivers': () => require('../../assets/Offline_Quizes/Rivers.json'),
   'ShakespearePlays': () => require('../../assets/Offline_Quizes/ShakespearePlays.json'),
   'PoetryFamous': () => require('../../assets/Offline_Quizes/PoetryFamous.json'),
   'Novels': () => require('../../assets/Offline_Quizes/Novels.json'),
@@ -382,6 +384,26 @@ const QUIZ_MAP: { [key: string]: () => any } = {
   'Coffee': () => require('../../assets/Offline_Quizes/Coffee.json'),
   'USStatesAndCapitals': () => require('../../assets/Offline_Quizes/USStatesAndCapitals.json'),
   'WorldCountriesAndCapitals': () => require('../../assets/Offline_Quizes/WorldCountriesAndCapitals.json'),
+  'NinetiesSitcoms': () => require('../../assets/Offline_Quizes/NinetiesSitcoms.json'),
+  'CultClassics': () => require('../../assets/Offline_Quizes/CultClassics.json'),
+  'RealityTV': () => require('../../assets/Offline_Quizes/RealityTV.json'),
+  'EightiesRockAnthems': () => require('../../assets/Offline_Quizes/EightiesRockAnthems.json'),
+  'OneHitWonders': () => require('../../assets/Offline_Quizes/OneHitWonders.json'),
+  'BoyBandsAndGirlGroups': () => require('../../assets/Offline_Quizes/BoyBandsAndGirlGroups.json'),
+  'GrammyWinners': () => require('../../assets/Offline_Quizes/GrammyWinners.json'),
+  'MovieSoundtracks': () => require('../../assets/Offline_Quizes/MovieSoundtracks.json'),
+  'BeatlesAndRollingStones': () => require('../../assets/Offline_Quizes/BeatlesAndRollingStones.json'),
+  'PopDivas': () => require('../../assets/Offline_Quizes/PopDivas.json'),
+  'TravelDestinations': () => require('../../assets/Offline_Quizes/TravelDestinations.json'),
+  'FamousAuthors': () => require('../../assets/Offline_Quizes/FamousAuthors.json'),
+  'ChildrensLiterature': () => require('../../assets/Offline_Quizes/ChildrensLiterature.json'),
+  'BookToMovieAdaptations': () => require('../../assets/Offline_Quizes/BookToMovieAdaptations.json'),
+  'BannedBooks': () => require('../../assets/Offline_Quizes/BannedBooks.json'),
+  'USStatesAndLandmarks': () => require('../../assets/Offline_Quizes/USStatesAndLandmarks.json'),
+  'OlympicGames': () => require('../../assets/Offline_Quizes/OlympicGames.json'),
+  'WorldCupSoccer': () => require('../../assets/Offline_Quizes/WorldCupSoccer.json'),
+  'SuperBowl': () => require('../../assets/Offline_Quizes/SuperBowl.json'),
+  'NBAChampions': () => require('../../assets/Offline_Quizes/NBAChampions.json'),
 };
 
 const SelectQuizScreen: React.FC = () => {
@@ -473,6 +495,15 @@ const SelectQuizScreen: React.FC = () => {
     navigation.navigate('Quiz', { quizData, quizName });
   };
 
+  const handleRandomQuiz = () => {
+    // Get a random quiz from filtered quizzes (or all quizzes if no search)
+    const availableQuizzes = filteredQuizzes.length > 0 ? filteredQuizzes : quizzes;
+    if (availableQuizzes.length === 0) return;
+    const randomIndex = Math.floor(Math.random() * availableQuizzes.length);
+    const randomQuiz = availableQuizzes[randomIndex];
+    handleQuizPress(randomQuiz.name);
+  };
+
   const totalPages = Math.ceil(filteredQuizzes.length / QUIZZES_PER_PAGE);
 
   const handleClearSearch = () => {
@@ -547,6 +578,12 @@ const SelectQuizScreen: React.FC = () => {
           </Text>
         </TouchableOpacity>
         <TouchableOpacity
+          style={styles.randomButton}
+          onPress={handleRandomQuiz}
+        >
+          <Text style={styles.randomButtonText}>👨🏼‍🏫</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
           style={[styles.pageButton, currentPage >= totalPages - 1 && styles.pageButtonDisabled]}
           onPress={handleNextPage}
           disabled={currentPage >= totalPages - 1}
@@ -564,6 +601,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
+    paddingBottom: 25,
   },
   loaderContainer: {
     flex: 1,
@@ -596,7 +634,7 @@ const styles = StyleSheet.create({
     marginLeft: 5,
   },
   paginationInfo: {
-    paddingVertical: 10,
+    paddingVertical: 1,
     alignItems: 'center',
   },
   paginationText: {
@@ -606,14 +644,45 @@ const styles = StyleSheet.create({
   },
   listContent: {
     flexGrow: 1,
+    paddingBottom: 5,
+  },
+  randomButton: {
+    backgroundColor: '#4A90E2',
+    borderRadius: 12,
+    padding: 12,
+    paddingVertical: 12,
+    alignItems: 'center',
+    justifyContent: 'center',
+    minWidth: 70,
+    minHeight: 50,
+    marginVertical: 0,
+    overflow: 'visible',
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+    elevation: 5,
+  },
+  randomButtonText: {
+    fontSize: 28,
+    lineHeight: 34,
+    textAlign: 'center',
+    includeFontPadding: false,
   },
   paginationControls: {
     flexDirection: 'row',
     justifyContent: 'space-between',
+    alignItems: 'center',
     paddingVertical: 15,
+    paddingHorizontal: 5,
+    paddingBottom: 20,
     borderTopWidth: 1,
     borderTopColor: '#ddd',
     marginTop: 10,
+    overflow: 'visible',
   },
   pageButton: {
     paddingVertical: 12,

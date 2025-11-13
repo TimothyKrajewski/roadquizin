@@ -22,7 +22,7 @@
         "A": "Herbert Hoover",
         "B": "Franklin D. Roosevelt",
         "C": "Harry S. Truman",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Franklin D. Roosevelt was President for most of World War II (1933-1945), and Harry S. Truman succeeded him in 1945 and made the decision to drop atomic bombs on Japan."
     },
@@ -84,7 +84,7 @@
         "question": "Who was the President during the Great Depression?",
         "A": "Herbert Hoover",
         "B": "Franklin D. Roosevelt",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Calvin Coolidge",
         "answer": "A",
         "funFact": "Herbert Hoover was President when the Great Depression began in 1929, and Franklin D. Roosevelt succeeded him in 1933 and implemented the New Deal to address the crisis."

@@ -22,7 +22,7 @@
         "A": "Ghana Empire",
         "B": "Mali Empire",
         "C": "Songhai Empire",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Ghana, Mali, and Songhai empires were all powerful West African empires known for their gold trade. The Mali Empire's Mansa Musa was one of the wealthiest people in history."
     },
@@ -40,7 +40,7 @@
         "A": "Axum",
         "B": "Kush",
         "C": "Nubia",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Axum was an ancient Ethiopian kingdom that flourished from the 1st to the 8th century AD. It was one of the four great powers of the ancient world."
     },
@@ -49,15 +49,15 @@
         "A": "Atlantic Slave Trade",
         "B": "Trans-Saharan Slave Trade",
         "C": "Indian Ocean Slave Trade",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Atlantic, Trans-Saharan, and Indian Ocean slave trades all devastated Africa. The Atlantic Slave Trade alone transported 12-15 million Africans to the Americas."
     },
     {
-        "question": "What was the name of the European colonization of Africa?",
+        "question": "What was the primary characteristic of the name of the European colonization of Africa?",
         "A": "Scramble for Africa",
         "B": "Partition of Africa",
-        "C": "Neither A nor B",
+        "C": "The Battle of Gettysburg (1863)",
         "D": "Conquest of Africa",
         "answer": "A",
         "funFact": "The Scramble for Africa (1881-1914) was the rapid colonization of Africa by European powers. By 1914, almost all of Africa was under European control."
@@ -148,15 +148,15 @@
         "A": "Kush",
         "B": "Axum",
         "C": "Nubia",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Kush was an ancient Nubian kingdom that existed from around 1070 BC to 350 AD. It was a powerful kingdom that even conquered Egypt for a time."
     },
     {
-        "question": "What was the name of the Zulu kingdom?",
+        "question": "What was the primary characteristic of the name of the Zulu kingdom?",
         "A": "Zulu Empire",
         "B": "Zulu Kingdom",
-        "C": "Neither A nor B",
+        "C": "The Battle of Gettysburg (1863)",
         "D": "Zulu Nation",
         "answer": "A",
         "funFact": "The Zulu Kingdom (1816-1897) was a powerful kingdom in southern Africa. It was founded by Shaka Zulu and was known for its military prowess."

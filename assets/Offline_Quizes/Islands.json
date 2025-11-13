@@ -49,7 +49,7 @@
         "A": "Islandology",
         "B": "Island geography",
         "C": "Insular studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Islands are studied through geography, geology, and insular studies, exploring their formation and ecosystems."
     },
@@ -63,15 +63,6 @@
         "funFact": "Islands often have unique ecosystems and high biodiversity, with many endemic species found nowhere else."
     },
     {
-        "question": "What is the study of islands called?",
-        "A": "Islandology",
-        "B": "Island biogeography",
-        "C": "Marine geography",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Islands are studied through geography, biogeography, and marine science."
-    },
-    {
         "question": "What is the impact of islands?",
         "A": "No impact",
         "B": "Important for biodiversity and culture",
@@ -79,104 +70,5 @@
         "D": "Only affects some regions",
         "answer": "B",
         "funFact": "Islands are important for biodiversity, often serving as refuges for unique species and having distinct cultures."
-    },
-    {
-        "question": "What is the study of islands called?",
-        "A": "Islandology",
-        "B": "Island studies",
-        "C": "Geography",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Islands are studied through geography, geology, and environmental science."
-    },
-    {
-        "question": "What is the importance of islands?",
-        "A": "Not important",
-        "B": "Unique environments and cultures",
-        "C": "Minor importance",
-        "D": "Only for tourism",
-        "answer": "B",
-        "funFact": "Islands provide unique environments, cultures, and ecosystems, often isolated from mainland influences."
-    },
-    {
-        "question": "What is the study of islands called?",
-        "A": "Islandology",
-        "B": "Island geography",
-        "C": "Marine studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Islands are studied through geography, marine science, and environmental studies."
-    },
-    {
-        "question": "What is the impact of islands?",
-        "A": "No impact",
-        "B": "Significant for biodiversity and research",
-        "C": "Minor changes",
-        "D": "Only affects some areas",
-        "answer": "B",
-        "funFact": "Islands are significant for biodiversity, often having unique species and serving as natural laboratories for research."
-    },
-    {
-        "question": "What is the study of islands called?",
-        "A": "Islandology",
-        "B": "Island research",
-        "C": "Geographic studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Islands are studied through geography, geology, and environmental science."
-    },
-    {
-        "question": "What is the importance of islands?",
-        "A": "Not important",
-        "B": "Ecological and cultural significance",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Islands have ecological and cultural significance, with unique ecosystems and often distinct cultural traditions."
-    },
-    {
-        "question": "What is the study of islands called?",
-        "A": "Islandology",
-        "B": "Island studies",
-        "C": "Marine geography",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Islands are studied through geography, marine science, and environmental research."
-    },
-    {
-        "question": "What is the impact of islands?",
-        "A": "No impact",
-        "B": "Important for science and conservation",
-        "C": "Minor changes",
-        "D": "Only affects islands",
-        "answer": "B",
-        "funFact": "Islands are important for scientific research and conservation, often having unique species and ecosystems."
-    },
-    {
-        "question": "What is the study of islands called?",
-        "A": "Islandology",
-        "B": "Island geography",
-        "C": "Environmental studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Islands are studied through geography, environmental science, and marine studies."
-    },
-    {
-        "question": "What is the importance of islands?",
-        "A": "Not important",
-        "B": "Unique habitats and cultural diversity",
-        "C": "Minor importance",
-        "D": "Only for some regions",
-        "answer": "B",
-        "funFact": "Islands provide unique habitats and cultural diversity, often isolated and developing distinct characteristics."
-    },
-    {
-        "question": "What is the study of islands called?",
-        "A": "Islandology",
-        "B": "Island research",
-        "C": "Geographic studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Islands are studied through geography, geology, and environmental science, exploring their formation and ecosystems."
     }
 ]

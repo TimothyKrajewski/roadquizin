@@ -40,7 +40,7 @@
         "A": "Texas",
         "B": "California",
         "C": "New York",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Texas's flag features a single star (the 'Lone Star') and horizontal stripes of blue, white, and red. It's known as the 'Lone Star Flag.'"
     },
@@ -58,7 +58,7 @@
         "A": "Maine",
         "B": "Vermont",
         "C": "New Hampshire",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Maine's flag features a pine tree and a North Star, representing the state's nickname 'The Pine Tree State' and its northern location."
     },
@@ -175,7 +175,7 @@
         "A": "Colorado",
         "B": "Nevada",
         "C": "Montana",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Many western state flags feature mountains: Colorado's flag has a mountain symbol, Nevada's seal features mountains, and Montana's flag shows mountains in the background."
     },
@@ -193,7 +193,7 @@
         "A": "Rhode Island",
         "B": "Massachusetts",
         "C": "Maine",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Several New England state flags feature ships: Massachusetts's flag shows a Native American and a star, but the state seal features ships; Maine's seal also features ships."
     },

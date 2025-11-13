@@ -85,7 +85,7 @@
         "A": "Woodrow Wilson",
         "B": "Lyndon B. Johnson",
         "C": "Jimmy Carter",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Several Presidents were teachers: Woodrow Wilson was a professor, Lyndon B. Johnson taught school, and Jimmy Carter was a naval instructor and later taught Sunday school."
     },
@@ -94,7 +94,7 @@
         "A": "George Washington",
         "B": "Thomas Jefferson",
         "C": "Jimmy Carter",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Many early Presidents were farmers or plantation owners, including George Washington, Thomas Jefferson, and James Madison. Jimmy Carter was a peanut farmer."
     },
@@ -103,7 +103,7 @@
         "A": "George Washington",
         "B": "Andrew Jackson",
         "C": "Ulysses S. Grant",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Many Presidents were military generals, including George Washington, Andrew Jackson, Ulysses S. Grant, and Dwight D. Eisenhower."
     },
@@ -121,7 +121,7 @@
         "A": "Theodore Roosevelt",
         "B": "Warren G. Harding",
         "C": "Herbert Hoover",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Several Presidents had journalism backgrounds: Theodore Roosevelt was a writer, Warren G. Harding was a newspaper publisher, and Herbert Hoover wrote engineering articles."
     },
@@ -139,7 +139,7 @@
         "A": "Herbert Hoover",
         "B": "Donald Trump",
         "C": "George H.W. Bush",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Several Presidents were successful businessmen: Herbert Hoover (mining), George H.W. Bush (oil), and Donald Trump (real estate and entertainment)."
     },
@@ -157,7 +157,7 @@
         "A": "Theodore Roosevelt",
         "B": "Woodrow Wilson",
         "C": "John F. Kennedy",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Many Presidents were writers: Theodore Roosevelt wrote many books, Woodrow Wilson was a professor and author, and John F. Kennedy won a Pulitzer Prize."
     },
@@ -166,7 +166,7 @@
         "A": "Dwight D. Eisenhower",
         "B": "George H.W. Bush",
         "C": "George W. Bush",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "B",
         "funFact": "George H.W. Bush was a Navy pilot during World War II, flying torpedo bombers. He was shot down and rescued, earning the Distinguished Flying Cross."
     },
@@ -175,7 +175,7 @@
         "A": "John F. Kennedy",
         "B": "Jimmy Carter",
         "C": "George H.W. Bush",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Several Presidents served in the Navy: John F. Kennedy commanded a PT boat, Jimmy Carter was a submariner, and George H.W. Bush was a pilot."
     },
@@ -184,7 +184,7 @@
         "A": "Theodore Roosevelt",
         "B": "Ronald Reagan",
         "C": "George W. Bush",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Theodore Roosevelt was a rancher in the Dakota Territory before becoming President. He embraced the cowboy lifestyle and wrote about his experiences."
     },
@@ -202,7 +202,7 @@
         "A": "Abraham Lincoln",
         "B": "Ulysses S. Grant",
         "C": "Harry S. Truman",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Several Presidents worked as store clerks: Abraham Lincoln ran a store, Ulysses S. Grant worked in his father's store, and Harry S. Truman worked in a drugstore."
     },
@@ -211,7 +211,7 @@
         "A": "Abraham Lincoln",
         "B": "Harry S. Truman",
         "C": "None have been postmasters",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Abraham Lincoln served as postmaster of New Salem, Illinois, in the 1830s. He was also a storekeeper and surveyor before entering politics."
     },

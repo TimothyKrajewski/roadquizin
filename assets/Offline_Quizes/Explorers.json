@@ -4,7 +4,7 @@
         "A": "Christopher Columbus",
         "B": "Leif Erikson",
         "C": "Amerigo Vespucci",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "While Christopher Columbus is often credited with 'discovering' America in 1492, Leif Erikson reached North America around 1000 CE, and the continent is named after Amerigo Vespucci."
     },
@@ -22,7 +22,7 @@
         "A": "Lewis and Clark",
         "B": "Jacques Marquette",
         "C": "Robert de La Salle",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Multiple explorers explored the Mississippi River: Marquette and Joliet in 1673, La Salle who claimed it for France in 1682, and Lewis and Clark who explored its upper reaches."
     },
@@ -40,7 +40,7 @@
         "A": "Lewis and Clark",
         "B": "Daniel Boone",
         "C": "John Fremont",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Lewis and Clark explored the Pacific Northwest from 1804-1806, commissioned by President Thomas Jefferson to find a route to the Pacific Ocean."
     },
@@ -76,7 +76,7 @@
         "A": "David Livingstone",
         "B": "Henry Stanley",
         "C": "Mungo Park",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "David Livingstone, Henry Stanley, and Mungo Park were all famous African explorers. Stanley famously found Livingstone with the words 'Dr. Livingstone, I presume?'"
     },
@@ -84,7 +84,7 @@
         "question": "Who was the first person to climb Mount Everest?",
         "A": "Edmund Hillary",
         "B": "Tenzing Norgay",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "George Mallory",
         "answer": "A",
         "funFact": "Edmund Hillary and Tenzing Norgay were the first people to successfully reach the summit of Mount Everest on May 29, 1953, as part of a British expedition."

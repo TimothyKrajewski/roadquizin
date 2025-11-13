@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "A": "France",
+    "B": "Croatia",
+    "C": "Belgium",
+    "D": "England",
+    "answer": "A",
+    "funFact": "France won the 2018 FIFA World Cup, defeating Croatia 4-2 in the final held in Russia."
+  },
+  {
+    "question": "Which country won the 2014 FIFA World Cup?",
+    "A": "Germany",
+    "B": "Argentina",
+    "C": "Netherlands",
+    "D": "Brazil",
+    "answer": "A",
+    "funFact": "Germany won the 2014 FIFA World Cup, defeating Argentina 1-0 in the final held in Brazil."
+  },
+  {
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "A": "Spain",
+    "B": "Netherlands",
+    "C": "Germany",
+    "D": "Uruguay",
+    "answer": "A",
+    "funFact": "Spain won the 2010 FIFA World Cup, defeating Netherlands 1-0 in the final held in South Africa."
+  },
+  {
+    "question": "Which country won the 2006 FIFA World Cup?",
+    "A": "Italy",
+    "B": "France",
+    "C": "Germany",
+    "D": "Portugal",
+    "answer": "A",
+    "funFact": "Italy won the 2006 FIFA World Cup, defeating France 5-3 on penalties in the final held in Germany."
+  },
+  {
+    "question": "Which country won the 2002 FIFA World Cup?",
+    "A": "Brazil",
+    "B": "Germany",
+    "C": "Turkey",
+    "D": "South Korea",
+    "answer": "A",
+    "funFact": "Brazil won the 2002 FIFA World Cup, defeating Germany 2-0 in the final held in South Korea and Japan."
+  },
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "A": "France",
+    "B": "Brazil",
+    "C": "Croatia",
+    "D": "Netherlands",
+    "answer": "A",
+    "funFact": "France won the 1998 FIFA World Cup, defeating Brazil 3-0 in the final held in France."
+  },
+  {
+    "question": "Which country won the 1994 FIFA World Cup?",
+    "A": "Brazil",
+    "B": "Italy",
+    "C": "Sweden",
+    "D": "Bulgaria",
+    "answer": "A",
+    "funFact": "Brazil won the 1994 FIFA World Cup, defeating Italy 3-2 on penalties in the final held in the United States."
+  },
+  {
+    "question": "Which country won the 1990 FIFA World Cup?",
+    "A": "West Germany",
+    "B": "Argentina",
+    "C": "Italy",
+    "D": "England",
+    "answer": "A",
+    "funFact": "West Germany won the 1990 FIFA World Cup, defeating Argentina 1-0 in the final held in Italy."
+  },
+  {
+    "question": "Which country won the 1986 FIFA World Cup?",
+    "A": "Argentina",
+    "B": "West Germany",
+    "C": "France",
+    "D": "Belgium",
+    "answer": "A",
+    "funFact": "Argentina won the 1986 FIFA World Cup, defeating West Germany 3-2 in the final held in Mexico."
+  },
+  {
+    "question": "Which country won the 1982 FIFA World Cup?",
+    "A": "Italy",
+    "B": "West Germany",
+    "C": "Poland",
+    "D": "France",
+    "answer": "A",
+    "funFact": "Italy won the 1982 FIFA World Cup, defeating West Germany 3-1 in the final held in Spain."
+  },
+  {
+    "question": "Which country won the 1978 FIFA World Cup?",
+    "A": "Argentina",
+    "B": "Netherlands",
+    "C": "Brazil",
+    "D": "Italy",
+    "answer": "A",
+    "funFact": "Argentina won the 1978 FIFA World Cup, defeating Netherlands 3-1 in the final held in Argentina."
+  },
+  {
+    "question": "Which country won the 1974 FIFA World Cup?",
+    "A": "West Germany",
+    "B": "Netherlands",
+    "C": "Poland",
+    "D": "Brazil",
+    "answer": "A",
+    "funFact": "West Germany won the 1974 FIFA World Cup, defeating Netherlands 2-1 in the final held in West Germany."
+  },
+  {
+    "question": "Which country won the 1970 FIFA World Cup?",
+    "A": "Brazil",
+    "B": "Italy",
+    "C": "West Germany",
+    "D": "Uruguay",
+    "answer": "A",
+    "funFact": "Brazil won the 1970 FIFA World Cup, defeating Italy 4-1 in the final held in Mexico."
+  },
+  {
+    "question": "Which country won the 1966 FIFA World Cup?",
+    "A": "England",
+    "B": "West Germany",
+    "C": "Portugal",
+    "D": "Soviet Union",
+    "answer": "A",
+    "funFact": "England won the 1966 FIFA World Cup, defeating West Germany 4-2 in the final held in England."
+  },
+  {
+    "question": "Which country won the 1962 FIFA World Cup?",
+    "A": "Brazil",
+    "B": "Czechoslovakia",
+    "C": "Chile",
+    "D": "Yugoslavia",
+    "answer": "A",
+    "funFact": "Brazil won the 1962 FIFA World Cup, defeating Czechoslovakia 3-1 in the final held in Chile."
+  },
+  {
+    "question": "Which country won the 1958 FIFA World Cup?",
+    "A": "Brazil",
+    "B": "Sweden",
+    "C": "France",
+    "D": "West Germany",
+    "answer": "A",
+    "funFact": "Brazil won the 1958 FIFA World Cup, defeating Sweden 5-2 in the final held in Sweden."
+  },
+  {
+    "question": "Which country won the 1954 FIFA World Cup?",
+    "A": "West Germany",
+    "B": "Hungary",
+    "C": "Austria",
+    "D": "Uruguay",
+    "answer": "A",
+    "funFact": "West Germany won the 1954 FIFA World Cup, defeating Hungary 3-2 in the final held in Switzerland."
+  },
+  {
+    "question": "Which country won the 1950 FIFA World Cup?",
+    "A": "Uruguay",
+    "B": "Brazil",
+    "C": "Sweden",
+    "D": "Spain",
+    "answer": "A",
+    "funFact": "Uruguay won the 1950 FIFA World Cup, defeating Brazil 2-1 in the final held in Brazil."
+  },
+  {
+    "question": "Which country won the 1938 FIFA World Cup?",
+    "A": "Italy",
+    "B": "Hungary",
+    "C": "Brazil",
+    "D": "Sweden",
+    "answer": "A",
+    "funFact": "Italy won the 1938 FIFA World Cup, defeating Hungary 4-2 in the final held in France."
+  },
+  {
+    "question": "Which country won the 1934 FIFA World Cup?",
+    "A": "Italy",
+    "B": "Czechoslovakia",
+    "C": "Germany",
+    "D": "Austria",
+    "answer": "A",
+    "funFact": "Italy won the 1934 FIFA World Cup, defeating Czechoslovakia 2-1 in the final held in Italy."
+  },
+  {
+    "question": "Which country won the 1930 FIFA World Cup?",
+    "A": "Uruguay",
+    "B": "Argentina",
+    "C": "United States",
+    "D": "Yugoslavia",
+    "answer": "A",
+    "funFact": "Uruguay won the 1930 FIFA World Cup, defeating Argentina 4-2 in the final held in Uruguay, the first World Cup."
+  },
+  {
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "A": "Argentina",
+    "B": "France",
+    "C": "Croatia",
+    "D": "Morocco",
+    "answer": "A",
+    "funFact": "Argentina won the 2022 FIFA World Cup, defeating France 4-2 on penalties in the final held in Qatar."
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "A": "Brazil",
+    "B": "Germany",
+    "C": "Italy",
+    "D": "Argentina",
+    "answer": "A",
+    "funFact": "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002), more than any other country."
+  },
+  {
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "A": "Russia",
+    "B": "Brazil",
+    "C": "South Africa",
+    "D": "Germany",
+    "answer": "A",
+    "funFact": "Russia hosted the 2018 FIFA World Cup, the first time the tournament was held in Eastern Europe."
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "A": "Brazil",
+    "B": "South Africa",
+    "C": "Germany",
+    "D": "South Korea",
+    "answer": "A",
+    "funFact": "Brazil hosted the 2014 FIFA World Cup, the second time Brazil hosted the tournament."
+  },
+  {
+    "question": "Which country hosted the 2010 FIFA World Cup?",
+    "A": "South Africa",
+    "B": "Germany",
+    "C": "South Korea",
+    "D": "Japan",
+    "answer": "A",
+    "funFact": "South Africa hosted the 2010 FIFA World Cup, the first time the tournament was held in Africa."
+  },
+  {
+    "question": "Which country hosted the 2006 FIFA World Cup?",
+    "A": "Germany",
+    "B": "South Korea",
+    "C": "Japan",
+    "D": "France",
+    "answer": "A",
+    "funFact": "Germany hosted the 2006 FIFA World Cup, the second time Germany hosted the tournament."
+  },
+  {
+    "question": "Which country hosted the 2002 FIFA World Cup?",
+    "A": "South Korea and Japan",
+    "B": "France",
+    "C": "United States",
+    "D": "Italy",
+    "answer": "A",
+    "funFact": "South Korea and Japan co-hosted the 2002 FIFA World Cup, the first time the tournament was held in Asia and co-hosted by two countries."
+  },
+  {
+    "question": "Which country hosted the 1998 FIFA World Cup?",
+    "A": "France",
+    "B": "United States",
+    "C": "Italy",
+    "D": "Mexico",
+    "answer": "A",
+    "funFact": "France hosted the 1998 FIFA World Cup, the second time France hosted the tournament."
+  },
+  {
+    "question": "Which country hosted the 1994 FIFA World Cup?",
+    "A": "United States",
+    "B": "Italy",
+    "C": "Mexico",
+    "D": "Argentina",
+    "answer": "A",
+    "funFact": "The United States hosted the 1994 FIFA World Cup, the first time the tournament was held in North America."
+  }
+]
+

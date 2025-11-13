@@ -13,7 +13,7 @@
         "A": "Thomas Edison",
         "B": "Nikola Tesla",
         "C": "Joseph Swan",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Thomas Edison is often credited with inventing the light bulb, but Joseph Swan also developed a working light bulb around the same time. Edison improved the design and made it commercially viable."
     },
@@ -76,7 +76,7 @@
         "A": "Thomas Edison",
         "B": "Guglielmo Marconi",
         "C": "Nikola Tesla",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Both Guglielmo Marconi and Nikola Tesla made significant contributions to radio technology. Marconi is often credited with the first practical radio, while Tesla developed key radio technology."
     },

@@ -31,7 +31,7 @@
         "A": "Horrorology",
         "B": "Horror studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Horror literature is studied through literary studies, genre analysis, and horror research."
     },
@@ -72,15 +72,6 @@
         "funFact": "Horror explores human fears, psychology, and the darker aspects of human experience."
     },
     {
-        "question": "What is the study of horror literature called?",
-        "A": "Horrorology",
-        "B": "Horror analysis",
-        "C": "Gothic studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Horror literature is studied through literary studies, genre analysis, and Gothic literature research."
-    },
-    {
         "question": "What is the difference between horror and thriller?",
         "A": "They're the same",
         "B": "Horror aims to frighten, thriller aims to thrill",
@@ -99,42 +90,6 @@
         "funFact": "Horror has influenced books, films, games, and entertainment, creating iconic monsters and stories."
     },
     {
-        "question": "What is the origin of horror literature?",
-        "A": "The 2000s",
-        "B": "The 1700s-1800s",
-        "C": "The 1900s",
-        "D": "The 1600s",
-        "answer": "B",
-        "funFact": "Horror literature emerged with Gothic novels in the 1700s-1800s, though horror elements exist in ancient myths."
-    },
-    {
-        "question": "What is the future of horror?",
-        "A": "No future",
-        "B": "Evolving with new fears and techniques",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Horror evolves with new fears, techniques, and approaches to frightening and disturbing audiences."
-    },
-    {
-        "question": "What is the study of horror literature called?",
-        "A": "Horrorology",
-        "B": "Horror studies",
-        "C": "Dark fiction",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Horror literature is studied through literary studies, genre research, and dark fiction analysis."
-    },
-    {
-        "question": "What is the importance of horror?",
-        "A": "Not important",
-        "B": "Exploring darkness and human psychology",
-        "C": "Minor importance",
-        "D": "Only for readers",
-        "answer": "B",
-        "funFact": "Horror explores darkness and human psychology, providing a safe way to confront fears."
-    },
-    {
         "question": "What is the difference between supernatural and psychological horror?",
         "A": "They're the same",
         "B": "Supernatural uses monsters, psychological uses fear",
@@ -151,32 +106,5 @@
         "D": "Only affects some media",
         "answer": "B",
         "funFact": "Horror has major influence on books, films, video games, and other forms of entertainment."
-    },
-    {
-        "question": "What is the origin of horror literature?",
-        "A": "The 2000s",
-        "B": "The 1700s-1800s",
-        "C": "The 1900s",
-        "D": "The 1600s",
-        "answer": "B",
-        "funFact": "Horror literature developed with Gothic novels in the 1700s-1800s, creating a distinct literary genre."
-    },
-    {
-        "question": "What is the future of horror?",
-        "A": "No future",
-        "B": "Continued innovation and new subgenres",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Horror continues to innovate with new subgenres, techniques, and ways of exploring fear."
-    },
-    {
-        "question": "What is the study of horror literature called?",
-        "A": "Horrorology",
-        "B": "Horror research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Horror literature is studied through literary studies, genre research, and horror analysis, exploring its themes and techniques."
     }
 ]

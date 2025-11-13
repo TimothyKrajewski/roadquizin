@@ -22,7 +22,7 @@
         "A": "Australia and New Zealand",
         "B": "Canada",
         "C": "United States",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Both Australia and New Zealand have the Union Jack (British flag) in the upper left corner, reflecting their historical ties to the United Kingdom."
     },
@@ -49,7 +49,7 @@
         "A": "China",
         "B": "Vietnam",
         "C": "North Korea",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "China, Vietnam, and North Korea all have flags with red backgrounds and yellow/gold stars, though the designs differ. Red often represents revolution, and stars represent unity."
     },
@@ -67,7 +67,7 @@
         "A": "Pakistan",
         "B": "Turkey",
         "C": "Algeria",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pakistan, Turkey, and Algeria all have flags with green backgrounds and white crescents and stars, though the designs vary. The crescent and star are Islamic symbols."
     },

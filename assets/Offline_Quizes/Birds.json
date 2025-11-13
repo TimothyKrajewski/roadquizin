@@ -49,7 +49,7 @@
         "A": "Penguin",
         "B": "Ostrich",
         "C": "Emu",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Penguins, ostriches, and emus are all flightless birds. There are about 60 species of flightless birds, including kiwis, cassowaries, and rheas."
     },
@@ -67,7 +67,7 @@
         "A": "Arctic tern",
         "B": "Albatross",
         "C": "Swallow",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Arctic tern has the longest migration, flying from the Arctic to Antarctica and back each year, covering about 44,000 miles. Albatrosses and swallows also migrate long distances."
     },
@@ -84,7 +84,7 @@
         "question": "What bird is known for its pink color?",
         "A": "Flamingo",
         "B": "Roseate spoonbill",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Toucan",
         "answer": "A",
         "funFact": "Flamingos and roseate spoonbills are both known for their pink coloration, which comes from the carotenoid pigments in the food they eat."

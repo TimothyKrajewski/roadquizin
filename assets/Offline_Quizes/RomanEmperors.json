@@ -49,7 +49,7 @@
         "A": "Trajan",
         "B": "Hadrian",
         "C": "Marcus Aurelius",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Trajan, Hadrian, and Marcus Aurelius are known as the 'Five Good Emperors' (along with Nerva and Antoninus Pius). They ruled during a period of stability and prosperity."
     },
@@ -93,7 +93,7 @@
         "question": "Who was the last Western Roman emperor?",
         "A": "Romulus Augustulus",
         "B": "Julius Nepos",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Constantine",
         "answer": "A",
         "funFact": "Romulus Augustulus is traditionally considered the last Western Roman emperor (deposed 476 AD), though Julius Nepos also claimed the title until 480 AD."
@@ -129,7 +129,7 @@
         "question": "Who was the emperor during the Year of the Four Emperors?",
         "A": "Galba, Otho, Vitellius, Vespasian",
         "B": "Nero, Galba, Otho, Vitellius",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "None",
         "answer": "A",
         "funFact": "The Year of the Four Emperors (69 AD) saw Galba, Otho, Vitellius, and Vespasian all claim the throne. Vespasian emerged victorious and established the Flavian dynasty."
@@ -165,7 +165,7 @@
         "question": "Who was the longest-reigning Roman emperor?",
         "A": "Augustus",
         "B": "Tiberius",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Nero",
         "answer": "A",
         "funFact": "Augustus had the longest reign of any Roman emperor, ruling for 41 years from 27 BC to 14 AD."
@@ -174,7 +174,7 @@
         "question": "Who was the shortest-reigning Roman emperor?",
         "A": "Otho",
         "B": "Pertinax",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Galba",
         "answer": "A",
         "funFact": "Otho and Pertinax both had very short reigns. Otho ruled for 3 months in 69 AD, and Pertinax ruled for 3 months in 193 AD."

@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Which team won the 2023 NBA Championship?",
+    "A": "Denver Nuggets",
+    "B": "Miami Heat",
+    "C": "Boston Celtics",
+    "D": "Los Angeles Lakers",
+    "answer": "A",
+    "funFact": "The Denver Nuggets won the 2023 NBA Championship, defeating the Miami Heat 4-1 in the Finals."
+  },
+  {
+    "question": "Which team won the 2022 NBA Championship?",
+    "A": "Golden State Warriors",
+    "B": "Boston Celtics",
+    "C": "Miami Heat",
+    "D": "Dallas Mavericks",
+    "answer": "A",
+    "funFact": "The Golden State Warriors won the 2022 NBA Championship, defeating the Boston Celtics 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 2021 NBA Championship?",
+    "A": "Milwaukee Bucks",
+    "B": "Phoenix Suns",
+    "C": "Los Angeles Lakers",
+    "D": "Brooklyn Nets",
+    "answer": "A",
+    "funFact": "The Milwaukee Bucks won the 2021 NBA Championship, defeating the Phoenix Suns 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 2020 NBA Championship?",
+    "A": "Los Angeles Lakers",
+    "B": "Miami Heat",
+    "C": "Boston Celtics",
+    "D": "Denver Nuggets",
+    "answer": "A",
+    "funFact": "The Los Angeles Lakers won the 2020 NBA Championship, defeating the Miami Heat 4-2 in the Finals held in the NBA Bubble."
+  },
+  {
+    "question": "Which team won the 2019 NBA Championship?",
+    "A": "Toronto Raptors",
+    "B": "Golden State Warriors",
+    "C": "Milwaukee Bucks",
+    "D": "Portland Trail Blazers",
+    "answer": "A",
+    "funFact": "The Toronto Raptors won the 2019 NBA Championship, defeating the Golden State Warriors 4-2 in the Finals, becoming the first Canadian team to win the title."
+  },
+  {
+    "question": "Which team won the 2018 NBA Championship?",
+    "A": "Golden State Warriors",
+    "B": "Cleveland Cavaliers",
+    "C": "Houston Rockets",
+    "D": "Boston Celtics",
+    "answer": "A",
+    "funFact": "The Golden State Warriors won the 2018 NBA Championship, defeating the Cleveland Cavaliers 4-0 in a sweep."
+  },
+  {
+    "question": "Which team won the 2017 NBA Championship?",
+    "A": "Golden State Warriors",
+    "B": "Cleveland Cavaliers",
+    "C": "San Antonio Spurs",
+    "D": "Boston Celtics",
+    "answer": "A",
+    "funFact": "The Golden State Warriors won the 2017 NBA Championship, defeating the Cleveland Cavaliers 4-1 in the Finals."
+  },
+  {
+    "question": "Which team won the 2016 NBA Championship?",
+    "A": "Cleveland Cavaliers",
+    "B": "Golden State Warriors",
+    "C": "Oklahoma City Thunder",
+    "D": "San Antonio Spurs",
+    "answer": "A",
+    "funFact": "The Cleveland Cavaliers won the 2016 NBA Championship, defeating the Golden State Warriors 4-3 after being down 3-1, the first team to do so in NBA Finals history."
+  },
+  {
+    "question": "Which team won the 2015 NBA Championship?",
+    "A": "Golden State Warriors",
+    "B": "Cleveland Cavaliers",
+    "C": "Atlanta Hawks",
+    "D": "Houston Rockets",
+    "answer": "A",
+    "funFact": "The Golden State Warriors won the 2015 NBA Championship, defeating the Cleveland Cavaliers 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 2014 NBA Championship?",
+    "A": "San Antonio Spurs",
+    "B": "Miami Heat",
+    "C": "Oklahoma City Thunder",
+    "D": "Indiana Pacers",
+    "answer": "A",
+    "funFact": "The San Antonio Spurs won the 2014 NBA Championship, defeating the Miami Heat 4-1 in the Finals."
+  },
+  {
+    "question": "Which team won the 2013 NBA Championship?",
+    "A": "Miami Heat",
+    "B": "San Antonio Spurs",
+    "C": "Indiana Pacers",
+    "D": "Memphis Grizzlies",
+    "answer": "A",
+    "funFact": "The Miami Heat won the 2013 NBA Championship, defeating the San Antonio Spurs 4-3 in a thrilling seven-game series."
+  },
+  {
+    "question": "Which team won the 2012 NBA Championship?",
+    "A": "Miami Heat",
+    "B": "Oklahoma City Thunder",
+    "C": "Boston Celtics",
+    "D": "San Antonio Spurs",
+    "answer": "A",
+    "funFact": "The Miami Heat won the 2012 NBA Championship, defeating the Oklahoma City Thunder 4-1 in the Finals."
+  },
+  {
+    "question": "Which team won the 2011 NBA Championship?",
+    "A": "Dallas Mavericks",
+    "B": "Miami Heat",
+    "C": "Chicago Bulls",
+    "D": "Boston Celtics",
+    "answer": "A",
+    "funFact": "The Dallas Mavericks won the 2011 NBA Championship, defeating the Miami Heat 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 2010 NBA Championship?",
+    "A": "Los Angeles Lakers",
+    "B": "Boston Celtics",
+    "C": "Orlando Magic",
+    "D": "Cleveland Cavaliers",
+    "answer": "A",
+    "funFact": "The Los Angeles Lakers won the 2010 NBA Championship, defeating the Boston Celtics 4-3 in a classic seven-game series."
+  },
+  {
+    "question": "Which team won the 2009 NBA Championship?",
+    "A": "Los Angeles Lakers",
+    "B": "Orlando Magic",
+    "C": "Cleveland Cavaliers",
+    "D": "Denver Nuggets",
+    "answer": "A",
+    "funFact": "The Los Angeles Lakers won the 2009 NBA Championship, defeating the Orlando Magic 4-1 in the Finals."
+  },
+  {
+    "question": "Which team won the 2008 NBA Championship?",
+    "A": "Boston Celtics",
+    "B": "Los Angeles Lakers",
+    "C": "Detroit Pistons",
+    "D": "San Antonio Spurs",
+    "answer": "A",
+    "funFact": "The Boston Celtics won the 2008 NBA Championship, defeating the Los Angeles Lakers 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 2007 NBA Championship?",
+    "A": "San Antonio Spurs",
+    "B": "Cleveland Cavaliers",
+    "C": "Detroit Pistons",
+    "D": "Phoenix Suns",
+    "answer": "A",
+    "funFact": "The San Antonio Spurs won the 2007 NBA Championship, defeating the Cleveland Cavaliers 4-0 in a sweep."
+  },
+  {
+    "question": "Which team won the 2006 NBA Championship?",
+    "A": "Miami Heat",
+    "B": "Dallas Mavericks",
+    "C": "Detroit Pistons",
+    "D": "Phoenix Suns",
+    "answer": "A",
+    "funFact": "The Miami Heat won the 2006 NBA Championship, defeating the Dallas Mavericks 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 2005 NBA Championship?",
+    "A": "San Antonio Spurs",
+    "B": "Detroit Pistons",
+    "C": "Miami Heat",
+    "D": "Phoenix Suns",
+    "answer": "A",
+    "funFact": "The San Antonio Spurs won the 2005 NBA Championship, defeating the Detroit Pistons 4-3 in a seven-game series."
+  },
+  {
+    "question": "Which team won the 2004 NBA Championship?",
+    "A": "Detroit Pistons",
+    "B": "Los Angeles Lakers",
+    "C": "San Antonio Spurs",
+    "D": "Minnesota Timberwolves",
+    "answer": "A",
+    "funFact": "The Detroit Pistons won the 2004 NBA Championship, defeating the heavily favored Los Angeles Lakers 4-1 in the Finals."
+  },
+  {
+    "question": "Which team won the 2003 NBA Championship?",
+    "A": "San Antonio Spurs",
+    "B": "New Jersey Nets",
+    "C": "Dallas Mavericks",
+    "D": "Sacramento Kings",
+    "answer": "A",
+    "funFact": "The San Antonio Spurs won the 2003 NBA Championship, defeating the New Jersey Nets 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 2002 NBA Championship?",
+    "A": "Los Angeles Lakers",
+    "B": "New Jersey Nets",
+    "C": "Sacramento Kings",
+    "D": "San Antonio Spurs",
+    "answer": "A",
+    "funFact": "The Los Angeles Lakers won the 2002 NBA Championship, defeating the New Jersey Nets 4-0 in a sweep, completing a three-peat."
+  },
+  {
+    "question": "Which team won the 2001 NBA Championship?",
+    "A": "Los Angeles Lakers",
+    "B": "Philadelphia 76ers",
+    "C": "San Antonio Spurs",
+    "D": "Sacramento Kings",
+    "answer": "A",
+    "funFact": "The Los Angeles Lakers won the 2001 NBA Championship, defeating the Philadelphia 76ers 4-1 in the Finals."
+  },
+  {
+    "question": "Which team won the 2000 NBA Championship?",
+    "A": "Los Angeles Lakers",
+    "B": "Indiana Pacers",
+    "C": "Portland Trail Blazers",
+    "D": "San Antonio Spurs",
+    "answer": "A",
+    "funFact": "The Los Angeles Lakers won the 2000 NBA Championship, defeating the Indiana Pacers 4-2 in the Finals."
+  },
+  {
+    "question": "Which team has won the most NBA Championships?",
+    "A": "Boston Celtics and Los Angeles Lakers",
+    "B": "Chicago Bulls",
+    "C": "San Antonio Spurs",
+    "D": "Golden State Warriors",
+    "answer": "A",
+    "funFact": "The Boston Celtics and Los Angeles Lakers have each won 17 NBA Championships, tied for the most."
+  },
+  {
+    "question": "Which team won the 1998 NBA Championship?",
+    "A": "Chicago Bulls",
+    "B": "Utah Jazz",
+    "C": "Indiana Pacers",
+    "D": "Los Angeles Lakers",
+    "answer": "A",
+    "funFact": "The Chicago Bulls won the 1998 NBA Championship, defeating the Utah Jazz 4-2 in the Finals, completing their second three-peat."
+  },
+  {
+    "question": "Which team won the 1997 NBA Championship?",
+    "A": "Chicago Bulls",
+    "B": "Utah Jazz",
+    "C": "Houston Rockets",
+    "D": "Seattle SuperSonics",
+    "answer": "A",
+    "funFact": "The Chicago Bulls won the 1997 NBA Championship, defeating the Utah Jazz 4-2 in the Finals."
+  },
+  {
+    "question": "Which team won the 1996 NBA Championship?",
+    "A": "Chicago Bulls",
+    "B": "Seattle SuperSonics",
+    "C": "Orlando Magic",
+    "D": "Houston Rockets",
+    "answer": "A",
+    "funFact": "The Chicago Bulls won the 1996 NBA Championship, defeating the Seattle SuperSonics 4-2 in the Finals, finishing with a 72-10 regular season record."
+  },
+  {
+    "question": "Which team won the 1995 NBA Championship?",
+    "A": "Houston Rockets",
+    "B": "Orlando Magic",
+    "C": "San Antonio Spurs",
+    "D": "Indiana Pacers",
+    "answer": "A",
+    "funFact": "The Houston Rockets won the 1995 NBA Championship, defeating the Orlando Magic 4-0 in a sweep."
+  },
+  {
+    "question": "Which team won the 1994 NBA Championship?",
+    "A": "Houston Rockets",
+    "B": "New York Knicks",
+    "C": "Chicago Bulls",
+    "D": "Phoenix Suns",
+    "answer": "A",
+    "funFact": "The Houston Rockets won the 1994 NBA Championship, defeating the New York Knicks 4-3 in a seven-game series."
+  },
+  {
+    "question": "Which team won the 1993 NBA Championship?",
+    "A": "Chicago Bulls",
+    "B": "Phoenix Suns",
+    "C": "New York Knicks",
+    "D": "Seattle SuperSonics",
+    "answer": "A",
+    "funFact": "The Chicago Bulls won the 1993 NBA Championship, defeating the Phoenix Suns 4-2 in the Finals, completing their first three-peat."
+  }
+]
+

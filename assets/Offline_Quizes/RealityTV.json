@@ -1,0 +1,283 @@
+[
+  {
+    "question": "Which reality TV show features contestants competing in physical and mental challenges?",
+    "A": "Survivor",
+    "B": "The Amazing Race",
+    "C": "Big Brother",
+    "D": "The Bachelor",
+    "answer": "A",
+    "funFact": "Survivor premiered in 2000 and became one of the most successful reality TV shows of all time."
+  },
+  {
+    "question": "Which reality TV show features contestants living in a house with cameras?",
+    "A": "Big Brother",
+    "B": "The Real World",
+    "C": "Jersey Shore",
+    "D": "The Hills",
+    "answer": "A",
+    "funFact": "Big Brother features contestants living in a house with cameras watching their every move 24/7."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in cooking challenges?",
+    "A": "Top Chef",
+    "B": "MasterChef",
+    "C": "Hell's Kitchen",
+    "D": "Chopped",
+    "answer": "A",
+    "funFact": "Top Chef premiered in 2006 and features professional chefs competing in culinary challenges."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in singing competitions?",
+    "A": "American Idol",
+    "B": "The Voice",
+    "C": "America's Got Talent",
+    "D": "The X Factor",
+    "answer": "A",
+    "funFact": "American Idol premiered in 2002 and became one of the most watched TV shows in American history."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in dance competitions?",
+    "A": "Dancing with the Stars",
+    "B": "So You Think You Can Dance",
+    "C": "World of Dance",
+    "D": "Dance Moms",
+    "answer": "A",
+    "funFact": "Dancing with the Stars pairs celebrities with professional dancers in a ballroom competition."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in fashion design challenges?",
+    "A": "Project Runway",
+    "B": "Making the Cut",
+    "C": "Next in Fashion",
+    "D": "The Fashion Show",
+    "answer": "A",
+    "funFact": "Project Runway premiered in 2004 and features fashion designers competing in design challenges."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in home renovation challenges?",
+    "A": "The Block",
+    "B": "Fixer Upper",
+    "C": "Property Brothers",
+    "D": "Love It or List It",
+    "answer": "A",
+    "funFact": "The Block features teams renovating apartments or houses and competing for the highest sale price."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in talent competitions?",
+    "A": "America's Got Talent",
+    "B": "The Voice",
+    "C": "American Idol",
+    "D": "The X Factor",
+    "answer": "A",
+    "funFact": "America's Got Talent features a wide variety of acts, from singers to magicians to comedians."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in weight loss challenges?",
+    "A": "The Biggest Loser",
+    "B": "My 600-lb Life",
+    "C": "Extreme Weight Loss",
+    "D": "I Used to Be Fat",
+    "answer": "A",
+    "funFact": "The Biggest Loser features contestants competing to lose the most weight through diet and exercise."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in modeling competitions?",
+    "A": "America's Next Top Model",
+    "B": "The Face",
+    "C": "Make Me a Supermodel",
+    "D": "Project Runway",
+    "answer": "A",
+    "funFact": "America's Next Top Model premiered in 2003 and features aspiring models competing for a modeling contract."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in business challenges?",
+    "A": "The Apprentice",
+    "B": "Shark Tank",
+    "C": "Dragons' Den",
+    "D": "Undercover Boss",
+    "answer": "A",
+    "funFact": "The Apprentice features contestants competing in business challenges to win a job with Donald Trump."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in dating competitions?",
+    "A": "The Bachelor",
+    "B": "Love Island",
+    "C": "Too Hot to Handle",
+    "D": "Love Is Blind",
+    "answer": "A",
+    "funFact": "The Bachelor premiered in 2002 and features a single man dating multiple women to find a wife."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in adventure races?",
+    "A": "The Amazing Race",
+    "B": "Survivor",
+    "C": "Fear Factor",
+    "D": "Wipeout",
+    "answer": "A",
+    "funFact": "The Amazing Race features teams racing around the world, completing challenges in different countries."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in tattoo competitions?",
+    "A": "Ink Master",
+    "B": "Best Ink",
+    "C": "Tattoo Nightmares",
+    "D": "Miami Ink",
+    "answer": "A",
+    "funFact": "Ink Master features tattoo artists competing in various tattoo challenges to win a cash prize."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in cake decorating challenges?",
+    "A": "Cake Boss",
+    "B": "Ace of Cakes",
+    "C": "Cupcake Wars",
+    "D": "Nailed It!",
+    "answer": "A",
+    "funFact": "Cake Boss features the Valastro family creating elaborate cakes for various occasions."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in home design challenges?",
+    "A": "Trading Spaces",
+    "B": "Extreme Makeover: Home Edition",
+    "C": "Fixer Upper",
+    "D": "Property Brothers",
+    "answer": "A",
+    "funFact": "Trading Spaces features neighbors swapping homes and redecorating a room in each other's houses."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in cooking competitions with a twist?",
+    "A": "Chopped",
+    "B": "Top Chef",
+    "C": "MasterChef",
+    "D": "Hell's Kitchen",
+    "answer": "A",
+    "funFact": "Chopped features chefs competing with mystery ingredients in a basket, creating dishes under time pressure."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in drag queen competitions?",
+    "A": "RuPaul's Drag Race",
+    "B": "Drag U",
+    "C": "Skin Wars",
+    "D": "Face Off",
+    "answer": "A",
+    "funFact": "RuPaul's Drag Race premiered in 2009 and features drag queens competing in various challenges."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in fitness challenges?",
+    "A": "The Biggest Loser",
+    "B": "Extreme Weight Loss",
+    "C": "I Used to Be Fat",
+    "D": "My 600-lb Life",
+    "answer": "A",
+    "funFact": "The Biggest Loser combines weight loss with fitness challenges and competitions."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in singing competitions with blind auditions?",
+    "A": "The Voice",
+    "B": "American Idol",
+    "C": "The X Factor",
+    "D": "America's Got Talent",
+    "answer": "A",
+    "funFact": "The Voice features blind auditions where judges can't see the contestants until they turn their chairs."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in home renovation competitions?",
+    "A": "The Block",
+    "B": "Fixer Upper",
+    "C": "Property Brothers",
+    "D": "Love It or List It",
+    "answer": "A",
+    "funFact": "The Block features teams renovating properties and competing for the highest sale price."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in talent shows with judges?",
+    "A": "America's Got Talent",
+    "B": "The Voice",
+    "C": "American Idol",
+    "D": "The X Factor",
+    "answer": "A",
+    "funFact": "America's Got Talent features a panel of judges who evaluate various talent acts."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in cooking shows with professional chefs?",
+    "A": "Top Chef",
+    "B": "MasterChef",
+    "C": "Hell's Kitchen",
+    "D": "Chopped",
+    "answer": "A",
+    "funFact": "Top Chef features professional chefs competing in culinary challenges judged by industry experts."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in dating shows with roses?",
+    "A": "The Bachelor",
+    "B": "Love Island",
+    "C": "Too Hot to Handle",
+    "D": "Love Is Blind",
+    "answer": "A",
+    "funFact": "The Bachelor features a rose ceremony where the bachelor gives roses to contestants he wants to keep."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in adventure shows around the world?",
+    "A": "The Amazing Race",
+    "B": "Survivor",
+    "C": "Fear Factor",
+    "D": "Wipeout",
+    "answer": "A",
+    "funFact": "The Amazing Race features teams traveling to different countries, completing challenges and racing to the finish."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in tattoo shows with judges?",
+    "A": "Ink Master",
+    "B": "Best Ink",
+    "C": "Tattoo Nightmares",
+    "D": "Miami Ink",
+    "answer": "A",
+    "funFact": "Ink Master features tattoo artists competing in various challenges, judged by industry experts."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in cake shows with elaborate designs?",
+    "A": "Cake Boss",
+    "B": "Ace of Cakes",
+    "C": "Cupcake Wars",
+    "D": "Nailed It!",
+    "answer": "A",
+    "funFact": "Cake Boss features the Valastro family creating elaborate, themed cakes for special occasions."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in home design shows with neighbors?",
+    "A": "Trading Spaces",
+    "B": "Extreme Makeover: Home Edition",
+    "C": "Fixer Upper",
+    "D": "Property Brothers",
+    "answer": "A",
+    "funFact": "Trading Spaces features neighbors swapping homes and redecorating rooms with a budget and designer help."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in cooking shows with mystery ingredients?",
+    "A": "Chopped",
+    "B": "Top Chef",
+    "C": "MasterChef",
+    "D": "Hell's Kitchen",
+    "answer": "A",
+    "funFact": "Chopped features chefs receiving mystery ingredients in a basket and creating dishes under time constraints."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in drag shows with RuPaul?",
+    "A": "RuPaul's Drag Race",
+    "B": "Drag U",
+    "C": "Skin Wars",
+    "D": "Face Off",
+    "answer": "A",
+    "funFact": "RuPaul's Drag Race is hosted by RuPaul and features drag queens competing in various challenges."
+  },
+  {
+    "question": "Which reality TV show features contestants competing in fitness shows with trainers?",
+    "A": "The Biggest Loser",
+    "B": "Extreme Weight Loss",
+    "C": "I Used to Be Fat",
+    "D": "My 600-lb Life",
+    "answer": "A",
+    "funFact": "The Biggest Loser features contestants working with trainers to lose weight and compete for a cash prize."
+  }
+]
+
+

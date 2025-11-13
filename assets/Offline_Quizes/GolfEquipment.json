@@ -3,7 +3,7 @@
         "question": "What is a driver?",
         "A": "Club for long shots",
         "B": "Used off the tee",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Putting club",
         "answer": "A",
         "funFact": "A driver is a club designed for long shots, typically used off the tee. It has the longest shaft and lowest loft."
@@ -12,7 +12,7 @@
         "question": "What is a putter?",
         "A": "Club for putting",
         "B": "Used on the green",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Long distance club",
         "answer": "A",
         "funFact": "A putter is a club designed for putting on the green. It has a flat face and is used for short, precise shots."
@@ -21,7 +21,7 @@
         "question": "What are irons?",
         "A": "Clubs for various distances",
         "B": "Numbered 1-9",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only one type",
         "answer": "A",
         "funFact": "Irons are clubs for various distances, numbered 1-9 (and wedges). Lower numbers hit farther, higher numbers hit shorter."
@@ -30,7 +30,7 @@
         "question": "What are wedges?",
         "A": "Specialized irons",
         "B": "For short shots and sand",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Long distance",
         "answer": "A",
         "funFact": "Wedges are specialized irons for short shots and getting out of sand traps. Types include pitching, sand, and lob wedges."
@@ -39,7 +39,7 @@
         "question": "What is a golf ball?",
         "A": "Small, dimpled ball",
         "B": "Designed for distance and control",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Smooth ball",
         "answer": "A",
         "funFact": "A golf ball is a small, dimpled ball designed for distance and control. Modern balls have multiple layers."
@@ -48,7 +48,7 @@
         "question": "What is a tee?",
         "A": "Small peg",
         "B": "Elevates ball for first shot",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "The hole",
         "answer": "A",
         "funFact": "A tee is a small peg that elevates the ball for the first shot on each hole. It's only used on the tee box."
@@ -57,7 +57,7 @@
         "question": "What is a golf bag?",
         "A": "Carries clubs",
         "B": "Also holds balls, tees, etc.",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only clubs",
         "answer": "A",
         "funFact": "A golf bag carries clubs and also holds balls, tees, and other equipment. Bags can be carried or pulled on a cart."
@@ -66,7 +66,7 @@
         "question": "What are golf shoes?",
         "A": "Special shoes with spikes",
         "B": "Provide traction",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Regular shoes",
         "answer": "A",
         "funFact": "Golf shoes are special shoes with spikes (or cleats) that provide traction on the course, especially on wet grass."
@@ -75,7 +75,7 @@
         "question": "What is a golf glove?",
         "A": "Worn on one hand",
         "B": "Improves grip",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Both hands",
         "answer": "A",
         "funFact": "A golf glove is worn on one hand (usually the left for right-handed golfers) to improve grip on the club."
@@ -84,7 +84,7 @@
         "question": "What is a rangefinder?",
         "A": "Measures distance",
         "B": "Helps club selection",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Not allowed",
         "answer": "A",
         "funFact": "A rangefinder measures distance to the hole or hazards, helping golfers select the right club. Some are allowed in tournaments."
@@ -93,7 +93,7 @@
         "question": "What is a divot tool?",
         "A": "Repairs ball marks",
         "B": "On the green",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Not used",
         "answer": "A",
         "funFact": "A divot tool repairs ball marks on the green, helping maintain the course. It's good etiquette to repair marks."
@@ -102,7 +102,7 @@
         "question": "What is a ball marker?",
         "A": "Marks ball position",
         "B": "On the green",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Not used",
         "answer": "A",
         "funFact": "A ball marker marks the ball's position on the green so you can pick it up to clean it or let others putt."
@@ -111,7 +111,7 @@
         "question": "What is club technology?",
         "A": "Advanced materials",
         "B": "Better performance",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No improvement",
         "answer": "A",
         "funFact": "Modern club technology uses advanced materials like titanium and carbon fiber for better performance and distance."
@@ -120,7 +120,7 @@
         "question": "What is ball technology?",
         "A": "Multi-layer construction",
         "B": "Better distance and control",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Simple design",
         "answer": "A",
         "funFact": "Modern golf balls have multi-layer construction with advanced materials for better distance, control, and feel."
@@ -129,7 +129,7 @@
         "question": "What is the importance of equipment?",
         "A": "Affects performance",
         "B": "Right clubs matter",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Doesn't matter",
         "answer": "A",
         "funFact": "Equipment affects performance, and having the right clubs for your game matters. However, skill is still most important."
@@ -138,7 +138,7 @@
         "question": "What is custom fitting?",
         "A": "Clubs fitted to player",
         "B": "Improves performance",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Not available",
         "answer": "A",
         "funFact": "Custom fitting adjusts clubs to a player's height, swing, and preferences, which can improve performance."
@@ -147,7 +147,7 @@
         "question": "What is the cost of equipment?",
         "A": "Varies greatly",
         "B": "Can be expensive",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Always cheap",
         "answer": "A",
         "funFact": "The cost of golf equipment varies greatly. High-end clubs can be expensive, but there are options for all budgets."
@@ -156,7 +156,7 @@
         "question": "What is equipment maintenance?",
         "A": "Keep clubs clean",
         "B": "Replace grips",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No maintenance",
         "answer": "A",
         "funFact": "Equipment maintenance includes keeping clubs clean and replacing grips when worn. This helps maintain performance."
@@ -165,7 +165,7 @@
         "question": "What is the evolution of equipment?",
         "A": "Improved over time",
         "B": "Better materials and design",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Never changed",
         "answer": "A",
         "funFact": "Golf equipment has improved over time with better materials and design, allowing players to hit longer and more accurately."
@@ -174,7 +174,7 @@
         "question": "What is the future of equipment?",
         "A": "Continued improvement",
         "B": "New technology",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No change",
         "answer": "A",
         "funFact": "Golf equipment will continue to improve with new technology, though rules limit some innovations to maintain the game's challenge."

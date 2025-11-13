@@ -49,7 +49,7 @@
         "A": "Appology",
         "B": "Mobile development",
         "C": "App engineering",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Mobile app development involves programming, design, and user experience to create software for mobile devices."
     },
@@ -117,15 +117,6 @@
         "funFact": "Mobile apps have become essential tools for modern life, providing access to services, information, and entertainment."
     },
     {
-        "question": "What is the study of mobile apps called?",
-        "A": "Appology",
-        "B": "Mobile application development",
-        "C": "App engineering",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mobile app development combines software engineering, user interface design, and platform-specific knowledge."
-    },
-    {
         "question": "What is the difference between iOS and Android apps?",
         "A": "They're the same",
         "B": "Different platforms require different development",
@@ -142,33 +133,6 @@
         "D": "Only affects tech companies",
         "answer": "B",
         "funFact": "Mobile apps have transformed how businesses operate, market, sell, and provide customer service."
-    },
-    {
-        "question": "What is the origin of mobile apps?",
-        "A": "The 2000s",
-        "B": "The late 2000s",
-        "C": "The 1990s",
-        "D": "The 1980s",
-        "answer": "B",
-        "funFact": "While mobile software existed earlier, the modern app ecosystem began with smartphones and app stores in the late 2000s."
-    },
-    {
-        "question": "What is the future of mobile apps?",
-        "A": "No future",
-        "B": "Continued innovation and integration",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of mobile apps includes AI, AR/VR, IoT integration, and new interaction methods."
-    },
-    {
-        "question": "What is the study of mobile apps called?",
-        "A": "Appology",
-        "B": "Mobile computing",
-        "C": "App science",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mobile app development involves computer science, software engineering, and user experience design."
     },
     {
         "question": "What is the importance of user experience in apps?",

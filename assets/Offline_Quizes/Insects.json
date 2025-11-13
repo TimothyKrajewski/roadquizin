@@ -31,7 +31,7 @@
         "A": "Ant",
         "B": "Bee",
         "C": "Termite",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Ants, bees, and termites are all incredibly hardworking insects. Bees pollinate flowers, ants build complex colonies, and termites build massive structures."
     },
@@ -39,7 +39,7 @@
         "question": "What do bees make?",
         "A": "Honey",
         "B": "Wax",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Nectar",
         "answer": "A",
         "funFact": "Bees make both honey (from nectar) and beeswax (from glands on their bodies). Honey is stored food, and wax is used to build the honeycomb."

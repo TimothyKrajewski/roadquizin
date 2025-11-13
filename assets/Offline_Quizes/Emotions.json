@@ -21,7 +21,7 @@
         "question": "What are the six basic emotions?",
         "A": "Happy, sad, angry, scared, surprised, disgusted",
         "B": "Happy, sad, mad, afraid, shocked, grossed out",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "There are only 4 basic emotions",
         "answer": "A",
         "funFact": "The six basic emotions, identified by psychologist Paul Ekman, are happiness, sadness, anger, fear, surprise, and disgust. These are recognized across cultures."
@@ -40,7 +40,7 @@
         "A": "Anger",
         "B": "Guilt",
         "C": "Shame",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Guilt and shame are emotions that involve feeling sorry or regretful about something. Guilt is about actions, while shame is about the self."
     },
@@ -57,7 +57,7 @@
         "question": "What emotion involves feeling excited or eager?",
         "A": "Anxiety",
         "B": "Excitement",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Fear",
         "answer": "B",
         "funFact": "Excitement is an emotion that involves feeling thrilled, eager, or enthusiastic about something. It's a positive emotion that can be energizing."

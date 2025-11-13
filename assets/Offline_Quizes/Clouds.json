@@ -4,7 +4,7 @@
         "A": "Water vapor",
         "B": "Tiny water droplets or ice crystals",
         "C": "Dust",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "B",
         "funFact": "Clouds are made of tiny water droplets or ice crystals suspended in the air. When water vapor condenses, it forms these droplets or crystals."
     },
@@ -13,7 +13,7 @@
         "A": "Water evaporates and condenses",
         "B": "Dust collects in the sky",
         "C": "Air cools and water vapor condenses",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Clouds form when water evaporates from Earth's surface, rises into the atmosphere, cools, and condenses into tiny water droplets or ice crystals around particles in the air."
     },
@@ -67,7 +67,7 @@
         "A": "A type of cloud",
         "B": "A cloud that touches the ground",
         "C": "Water vapor",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "B",
         "funFact": "Fog is essentially a cloud that touches the ground. It forms when air near the ground cools and water vapor condenses into tiny water droplets."
     },

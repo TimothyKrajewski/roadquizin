@@ -31,7 +31,7 @@
         "A": "Fantasyology",
         "B": "Fantasy studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Fantasy is studied through literary studies, genre analysis, and fantasy research."
     },
@@ -72,15 +72,6 @@
         "funFact": "Fantasy is a major genre that explores imagination, myth, and human experience through magical worlds."
     },
     {
-        "question": "What is the study of fantasy called?",
-        "A": "Fantasyology",
-        "B": "Fantasy analysis",
-        "C": "Genre studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Fantasy is studied through literary studies, genre analysis, and fantasy research."
-    },
-    {
         "question": "What is the difference between high and low fantasy?",
         "A": "They're the same",
         "B": "High fantasy is in imaginary worlds, low is in real world",
@@ -99,42 +90,6 @@
         "funFact": "Fantasy has created beloved worlds and characters, influencing books, films, games, and popular culture."
     },
     {
-        "question": "What is the origin of fantasy?",
-        "A": "The 2000s",
-        "B": "Ancient mythology and folklore",
-        "C": "The 1900s",
-        "D": "The 1800s",
-        "answer": "B",
-        "funFact": "Fantasy has roots in ancient mythology and folklore, with modern fantasy emerging in the 1800s-1900s."
-    },
-    {
-        "question": "What is the future of fantasy?",
-        "A": "No future",
-        "B": "Evolving with new voices and perspectives",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Fantasy continues to evolve with new voices, perspectives, and innovative approaches to world-building."
-    },
-    {
-        "question": "What is the study of fantasy called?",
-        "A": "Fantasyology",
-        "B": "Fantasy studies",
-        "C": "Speculative fiction",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Fantasy is studied through literary studies, genre research, and speculative fiction analysis."
-    },
-    {
-        "question": "What is the importance of fantasy?",
-        "A": "Not important",
-        "B": "Exploring imagination and human experience",
-        "C": "Minor importance",
-        "D": "Only for readers",
-        "answer": "B",
-        "funFact": "Fantasy explores imagination and human experience through magical worlds, providing escape and insight."
-    },
-    {
         "question": "What is the difference between fantasy and science fiction?",
         "A": "They're the same",
         "B": "Fantasy uses magic, sci-fi uses science",
@@ -151,32 +106,5 @@
         "D": "Only affects some media",
         "answer": "B",
         "funFact": "Fantasy has major influence on books, films, video games, and other forms of entertainment."
-    },
-    {
-        "question": "What is the origin of fantasy?",
-        "A": "The 2000s",
-        "B": "Ancient myths and modern literature",
-        "C": "The 1900s",
-        "D": "The 1800s",
-        "answer": "B",
-        "funFact": "Fantasy draws from ancient myths and has developed as a modern literary genre since the 1800s-1900s."
-    },
-    {
-        "question": "What is the future of fantasy?",
-        "A": "No future",
-        "B": "Continued innovation and diverse stories",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Fantasy continues to innovate with diverse stories, new worlds, and fresh perspectives on the genre."
-    },
-    {
-        "question": "What is the study of fantasy called?",
-        "A": "Fantasyology",
-        "B": "Fantasy research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Fantasy is studied through literary studies, genre research, and fantasy analysis, exploring its themes and worlds."
     }
 ]

@@ -12,7 +12,7 @@
         "question": "What is par?",
         "A": "Expected number of strokes",
         "B": "For a hole or course",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Actual score",
         "answer": "A",
         "funFact": "Par is the expected number of strokes a skilled golfer should take to complete a hole or course. Par 3, 4, and 5 are common for individual holes."
@@ -21,7 +21,7 @@
         "question": "What is a birdie?",
         "A": "One stroke under par",
         "B": "Good score",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "One over par",
         "answer": "A",
         "funFact": "A birdie is scoring one stroke under par on a hole. For example, a 3 on a par 4 is a birdie."
@@ -30,7 +30,7 @@
         "question": "What is an eagle?",
         "A": "Two strokes under par",
         "B": "Excellent score",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "One under par",
         "answer": "A",
         "funFact": "An eagle is scoring two strokes under par on a hole. For example, a 3 on a par 5 is an eagle."
@@ -39,7 +39,7 @@
         "question": "What is a bogey?",
         "A": "One stroke over par",
         "B": "Not ideal",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Under par",
         "answer": "A",
         "funFact": "A bogey is scoring one stroke over par on a hole. For example, a 5 on a par 4 is a bogey."
@@ -48,7 +48,7 @@
         "question": "What is a double bogey?",
         "A": "Two strokes over par",
         "B": "Poor score",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "One over par",
         "answer": "A",
         "funFact": "A double bogey is scoring two strokes over par on a hole. For example, a 6 on a par 4 is a double bogey."
@@ -57,7 +57,7 @@
         "question": "What is a hole-in-one?",
         "A": "Ball goes in hole in one stroke",
         "B": "Rare achievement",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Common",
         "answer": "A",
         "funFact": "A hole-in-one is when the ball goes into the hole in one stroke from the tee. It's a rare and celebrated achievement."
@@ -66,7 +66,7 @@
         "question": "What is a tee?",
         "A": "Starting point for each hole",
         "B": "Where you hit first shot",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "The hole",
         "answer": "A",
         "funFact": "The tee is the starting point for each hole, where you hit your first shot. You can use a tee (small peg) to elevate the ball."
@@ -75,7 +75,7 @@
         "question": "What is the fairway?",
         "A": "Mowed area to the green",
         "B": "Ideal path to hole",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Rough area",
         "answer": "A",
         "funFact": "The fairway is the mowed area between the tee and green. It's the ideal path to the hole, with shorter grass for easier shots."
@@ -84,7 +84,7 @@
         "question": "What is the green?",
         "A": "Area around the hole",
         "B": "Very short grass",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Rough area",
         "answer": "A",
         "funFact": "The green is the area around the hole with very short grass, where you putt the ball into the hole."
@@ -93,7 +93,7 @@
         "question": "What is the rough?",
         "A": "Longer grass area",
         "B": "Off the fairway",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "The green",
         "answer": "A",
         "funFact": "The rough is the area with longer grass, typically off the fairway. It's more difficult to hit from than the fairway."
@@ -102,7 +102,7 @@
         "question": "What is a bunker?",
         "A": "Sand trap",
         "B": "Hazard on course",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Water hazard",
         "answer": "A",
         "funFact": "A bunker (sand trap) is a hazard filled with sand. It's designed to challenge golfers and requires skill to escape."
@@ -111,7 +111,7 @@
         "question": "What is a water hazard?",
         "A": "Water on the course",
         "B": "Pond, lake, or stream",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Sand trap",
         "answer": "A",
         "funFact": "A water hazard is any body of water on the course (pond, lake, stream). Hitting into it results in a penalty stroke."
@@ -120,7 +120,7 @@
         "question": "What is a driver?",
         "A": "Club for long shots",
         "B": "Used off the tee",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Putting club",
         "answer": "A",
         "funFact": "A driver is a club designed for long shots, typically used off the tee. It has the longest shaft and lowest loft."
@@ -129,7 +129,7 @@
         "question": "What is a putter?",
         "A": "Club for putting",
         "B": "Used on the green",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Long distance club",
         "answer": "A",
         "funFact": "A putter is a club designed for putting on the green. It has a flat face and is used for short, precise shots."
@@ -138,7 +138,7 @@
         "question": "What is a handicap?",
         "A": "System to level playing field",
         "B": "Allows different skill levels to compete",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No purpose",
         "answer": "A",
         "funFact": "A handicap is a system that levels the playing field, allowing golfers of different skill levels to compete fairly."
@@ -147,7 +147,7 @@
         "question": "What is stroke play?",
         "A": "Counting total strokes",
         "B": "Lowest score wins",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Match play",
         "answer": "A",
         "funFact": "Stroke play is a format where you count total strokes over the round. The golfer with the lowest total score wins."
@@ -156,7 +156,7 @@
         "question": "What is match play?",
         "A": "Hole-by-hole competition",
         "B": "Win more holes than opponent",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Total strokes",
         "answer": "A",
         "funFact": "Match play is a format where you compete hole-by-hole. The golfer who wins more holes than their opponent wins the match."
@@ -165,7 +165,7 @@
         "question": "What is the US Open?",
         "A": "Major championship",
         "B": "One of four majors",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Regular tournament",
         "answer": "A",
         "funFact": "The US Open is one of the four major championships in golf, along with the Masters, British Open, and PGA Championship."
@@ -174,7 +174,7 @@
         "question": "What is the Masters?",
         "A": "Major championship",
         "B": "Played at Augusta National",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Regular tournament",
         "answer": "A",
         "funFact": "The Masters is one of the four major championships, played annually at Augusta National Golf Club in Georgia."

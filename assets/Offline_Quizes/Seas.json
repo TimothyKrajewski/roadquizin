@@ -49,7 +49,7 @@
         "A": "Mediterranean Sea",
         "B": "Red Sea",
         "C": "Dead Sea",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "C",
         "funFact": "The Dead Sea is the saltiest body of water, though it's technically a lake. The Red Sea is the saltiest actual sea, about 40% saltier than the average ocean."
     },
@@ -57,7 +57,7 @@
         "question": "What sea is located in the Caribbean?",
         "A": "Caribbean Sea",
         "B": "Gulf of Mexico",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Mediterranean Sea",
         "answer": "A",
         "funFact": "The Caribbean Sea is located in the Caribbean region, bordered by Central America, South America, and the Caribbean islands. It's known for its warm waters and coral reefs."

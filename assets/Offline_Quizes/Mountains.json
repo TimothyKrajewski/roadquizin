@@ -40,7 +40,7 @@
         "A": "Mountainology",
         "B": "Mountain geography",
         "C": "Orology",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Mountains are studied through geography, geology, and orology (the study of mountains)."
     },
@@ -54,15 +54,6 @@
         "funFact": "Mountains are important water sources, support unique biodiversity, and influence climate patterns."
     },
     {
-        "question": "What is the study of mountains called?",
-        "A": "Mountainology",
-        "B": "Mountain ecology",
-        "C": "Alpine studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mountains are studied through geography, ecology, and alpine research."
-    },
-    {
         "question": "What is the impact of mountains?",
         "A": "No impact",
         "B": "Significant for climate, water, and ecosystems",
@@ -70,113 +61,5 @@
         "D": "Only affects some regions",
         "answer": "B",
         "funFact": "Mountains significantly influence climate, provide water sources for billions, and support unique ecosystems."
-    },
-    {
-        "question": "What is the study of mountains called?",
-        "A": "Mountainology",
-        "B": "Mountain studies",
-        "C": "Geography",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mountains are studied through geography, geology, and environmental science."
-    },
-    {
-        "question": "What is the importance of mountains?",
-        "A": "Not important",
-        "B": "Ecological and cultural significance",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Mountains have ecological and cultural significance, often considered sacred and supporting diverse life."
-    },
-    {
-        "question": "What is the study of mountains called?",
-        "A": "Mountainology",
-        "B": "Mountain geography",
-        "C": "Geological studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mountains are studied through geography, geology, and environmental research."
-    },
-    {
-        "question": "What is the impact of mountains?",
-        "A": "No impact",
-        "B": "Important for water, climate, and biodiversity",
-        "C": "Minor changes",
-        "D": "Only affects mountains",
-        "answer": "B",
-        "funFact": "Mountains are important for water supply, climate regulation, and supporting unique biodiversity."
-    },
-    {
-        "question": "What is the study of mountains called?",
-        "A": "Mountainology",
-        "B": "Mountain research",
-        "C": "Geographic studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mountains are studied through geography, geology, and environmental science."
-    },
-    {
-        "question": "What is the importance of mountains?",
-        "A": "Not important",
-        "B": "Unique environments and resources",
-        "C": "Minor importance",
-        "D": "Only for some regions",
-        "answer": "B",
-        "funFact": "Mountains provide unique environments, water resources, and are often rich in minerals and biodiversity."
-    },
-    {
-        "question": "What is the study of mountains called?",
-        "A": "Mountainology",
-        "B": "Mountain studies",
-        "C": "Alpine research",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mountains are studied through geography, geology, and alpine research, exploring their formation and ecosystems."
-    },
-    {
-        "question": "What is the impact of mountains?",
-        "A": "No impact",
-        "B": "Significant for ecosystems and human life",
-        "C": "Minor changes",
-        "D": "Only affects some areas",
-        "answer": "B",
-        "funFact": "Mountains significantly impact ecosystems, provide water for billions of people, and influence weather patterns."
-    },
-    {
-        "question": "What is the study of mountains called?",
-        "A": "Mountainology",
-        "B": "Mountain geography",
-        "C": "Environmental studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mountains are studied through geography, geology, and environmental science."
-    },
-    {
-        "question": "What is the importance of mountains?",
-        "A": "Not important",
-        "B": "Ecological diversity and water sources",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Mountains support ecological diversity, provide water sources, and are important for climate regulation."
-    },
-    {
-        "question": "What is the study of mountains called?",
-        "A": "Mountainology",
-        "B": "Mountain research",
-        "C": "Geographic studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Mountains are studied through geography, geology, and environmental research, understanding their formation and importance."
-    },
-    {
-        "question": "What is the impact of mountains?",
-        "A": "No impact",
-        "B": "Major influence on climate and water systems",
-        "C": "Minor changes",
-        "D": "Only affects mountains",
-        "answer": "B",
-        "funFact": "Mountains have a major influence on climate patterns, water cycles, and support unique ecosystems worldwide."
     }
 ]

@@ -22,7 +22,7 @@
         "A": "Novelology",
         "B": "Novel studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Novels are studied through literary studies, English literature, and novel analysis courses."
     },
@@ -63,15 +63,6 @@
         "funFact": "Novels are a major art form and source of entertainment, providing stories that explore human experience."
     },
     {
-        "question": "What is the study of novels called?",
-        "A": "Novelology",
-        "B": "Novel analysis",
-        "C": "Literary criticism",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Novels are studied through literary analysis, criticism, and English literature courses."
-    },
-    {
         "question": "What is the difference between fiction and non-fiction novels?",
         "A": "They're the same",
         "B": "Fiction is made up, non-fiction is true",
@@ -90,42 +81,6 @@
         "funFact": "Novels have shaped culture, values, and understanding, with many becoming cultural touchstones."
     },
     {
-        "question": "What is the origin of novels?",
-        "A": "The 1800s",
-        "B": "The 1700s",
-        "C": "The 1900s",
-        "D": "The 2000s",
-        "answer": "B",
-        "funFact": "The modern novel form emerged in the 1700s with works like 'Robinson Crusoe' and 'Pamela.'"
-    },
-    {
-        "question": "What is the future of novels?",
-        "A": "No future",
-        "B": "Evolving formats and continued popularity",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Novels continue to evolve with new formats (e-books, audiobooks) while maintaining their popularity."
-    },
-    {
-        "question": "What is the study of novels called?",
-        "A": "Novelology",
-        "B": "Novel studies",
-        "C": "Creative writing",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Novels are studied through literary studies, creative writing, and novel analysis."
-    },
-    {
-        "question": "What is the importance of novels?",
-        "A": "Not important",
-        "B": "Essential form of storytelling and art",
-        "C": "Minor importance",
-        "D": "Only for readers",
-        "answer": "B",
-        "funFact": "Novels are an essential form of storytelling and art, exploring human experience and imagination."
-    },
-    {
         "question": "What is the difference between a novel and a novella?",
         "A": "They're the same",
         "B": "Novels are longer, novellas are shorter",
@@ -142,41 +97,5 @@
         "D": "Only affects some people",
         "answer": "B",
         "funFact": "Novels have influenced social change and understanding, with many addressing important social issues."
-    },
-    {
-        "question": "What is the origin of novels?",
-        "A": "The 1800s",
-        "B": "The 1700s-1800s",
-        "C": "The 1900s",
-        "D": "The 2000s",
-        "answer": "B",
-        "funFact": "The novel form developed in the 1700s-1800s, becoming a major literary form that continues today."
-    },
-    {
-        "question": "What is the future of novels?",
-        "A": "No future",
-        "B": "Continued creation and innovation",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Novels continue to be created and innovated, with new genres, formats, and ways of storytelling emerging."
-    },
-    {
-        "question": "What is the study of novels called?",
-        "A": "Novelology",
-        "B": "Novel research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Novels are studied through literary studies, English literature, and creative writing programs."
-    },
-    {
-        "question": "What is the importance of novels?",
-        "A": "Not important",
-        "B": "Major literary form and cultural influence",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Novels are a major literary form with significant cultural influence, providing stories that shape understanding and entertainment."
     }
 ]

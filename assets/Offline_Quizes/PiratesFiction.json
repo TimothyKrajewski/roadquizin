@@ -22,7 +22,7 @@
         "A": "Long John Silver",
         "B": "Captain Hook",
         "C": "Jack Sparrow",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Long John Silver, Captain Hook, and Jack Sparrow are all famous pirate characters. Each has contributed to the popular image of pirates."
     },
@@ -58,7 +58,7 @@
         "A": "Black Sails",
         "B": "Pirates of Dark Water",
         "C": "One Piece",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "'Black Sails,' 'Pirates of Dark Water,' and 'One Piece' are all famous pirate TV shows. Each has contributed to pirate fiction in different ways."
     },
@@ -67,7 +67,7 @@
         "A": "Assassin's Creed: Black Flag",
         "B": "Sea of Thieves",
         "C": "Sid Meier's Pirates!",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "'Assassin's Creed: Black Flag,' 'Sea of Thieves,' and 'Sid Meier's Pirates!' are all famous pirate video games. They let players experience pirate life."
     },
@@ -75,7 +75,7 @@
         "question": "What is the most famous pirate song?",
         "A": "Yo Ho (A Pirate's Life for Me)",
         "B": "Fifteen Men on a Dead Man's Chest",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "The Pirates Who Don't Do Anything",
         "answer": "A",
         "funFact": "'Yo Ho (A Pirate's Life for Me)' from Disney's Pirates of the Caribbean ride and 'Fifteen Men on a Dead Man's Chest' from Treasure Island are both famous pirate songs."
@@ -84,7 +84,7 @@
         "question": "What is the most famous pirate theme park ride?",
         "A": "Pirates of the Caribbean",
         "B": "Peter Pan's Flight",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Jungle Cruise",
         "answer": "A",
         "funFact": "Pirates of the Caribbean is a famous theme park ride at Disney parks. It inspired the film series and is one of the most popular attractions."
@@ -93,7 +93,7 @@
         "question": "What is the most famous pirate comic?",
         "A": "One Piece",
         "B": "Pirates of Dark Water",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "None",
         "answer": "A",
         "funFact": "'One Piece' is a famous Japanese manga and anime about pirates. It's one of the best-selling manga series of all time."
@@ -102,7 +102,7 @@
         "question": "What is the most famous pirate musical?",
         "A": "Pirates of Penzance",
         "B": "Peter Pan",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "None",
         "answer": "A",
         "funFact": "'The Pirates of Penzance' (1879) is a famous comic opera by Gilbert and Sullivan. It's a parody of pirate stories and remains popular today."
@@ -111,7 +111,7 @@
         "question": "What is the most famous pirate play?",
         "A": "Peter Pan",
         "B": "Treasure Island",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "None",
         "answer": "A",
         "funFact": "'Peter Pan' (1904) is a famous play by J.M. Barrie featuring Captain Hook. It has been adapted into many films and remains popular."
@@ -121,7 +121,7 @@
         "A": "Treasure Island",
         "B": "Pirates of the Caribbean",
         "C": "One Piece",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "'Treasure Island,' 'Pirates of the Caribbean,' and 'One Piece' are all famous pirate book/manga series. Each has influenced pirate fiction."
     },
@@ -130,7 +130,7 @@
         "A": "Saying 'Arrr'",
         "B": "Having a parrot",
         "C": "Buried treasure",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Saying 'Arrr,' having a parrot, and buried treasure are all famous pirate character traits, though they're largely fictional."
     },
@@ -139,7 +139,7 @@
         "A": "Arrr",
         "B": "Shiver me timbers",
         "C": "Yo ho ho",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "'Arrr,' 'Shiver me timbers,' and 'Yo ho ho' are all famous pirate catchphrases, though they're largely fictional and come from literature and film."
     },
@@ -148,7 +148,7 @@
         "A": "Tricorn hat",
         "B": "Eye patch",
         "C": "Cutlass",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Tricorn hat, eye patch, and cutlass are all part of the famous pirate costume, though real pirates dressed more practically and varied greatly."
     },
@@ -156,7 +156,7 @@
         "question": "What is the most famous pirate setting?",
         "A": "The Caribbean",
         "B": "Treasure Island",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "The Mediterranean",
         "answer": "A",
         "funFact": "The Caribbean and Treasure Island are both famous pirate settings. The Caribbean is real, while Treasure Island is fictional but based on real locations."
@@ -165,7 +165,7 @@
         "question": "What is the most famous pirate treasure?",
         "A": "Captain Kidd's treasure",
         "B": "Flint's treasure",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Blackbeard's treasure",
         "answer": "B",
         "funFact": "Flint's treasure from 'Treasure Island' is the most famous fictional treasure. Captain Kidd's and Blackbeard's treasures are real but largely legendary."
@@ -174,7 +174,7 @@
         "question": "What is the impact of pirate fiction on reality?",
         "A": "Shaped popular image",
         "B": "Created stereotypes",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No impact",
         "answer": "A",
         "funFact": "Pirate fiction has shaped the popular image of pirates and created many stereotypes. The fictional image often overshadows the historical reality."

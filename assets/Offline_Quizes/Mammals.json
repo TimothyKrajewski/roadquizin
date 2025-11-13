@@ -13,7 +13,7 @@
         "A": "Hair or fur",
         "B": "Mammary glands",
         "C": "Warm blood",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Mammals are characterized by having hair or fur, mammary glands (for producing milk), and being warm-blooded (endothermic)."
     },
@@ -58,7 +58,7 @@
         "A": "Elephant",
         "B": "Whale",
         "C": "Human",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Bowhead whales can live over 200 years, making them among the longest-living mammals. Elephants can live 60-70 years, and humans can live over 100 years."
     },
@@ -76,7 +76,7 @@
         "A": "Dolphin",
         "B": "Chimpanzee",
         "C": "Human",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Humans, dolphins, and great apes (like chimpanzees) are all highly intelligent mammals, each demonstrating advanced problem-solving, communication, and tool use."
     },

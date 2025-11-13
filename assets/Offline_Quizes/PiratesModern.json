@@ -13,7 +13,7 @@
         "A": "Somalia",
         "B": "Southeast Asia",
         "C": "West Africa",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Modern pirates are most active off the coast of Somalia, in Southeast Asia (especially the Strait of Malacca), and in the Gulf of Guinea off West Africa."
     },
@@ -22,7 +22,7 @@
         "A": "Cargo ships",
         "B": "Yachts",
         "C": "Fishing boats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Modern pirates target cargo ships, yachts, fishing boats, and other vessels. They often seek cargo, valuables, or ransom for crew members."
     },
@@ -30,7 +30,7 @@
         "question": "What weapons do modern pirates use?",
         "A": "Automatic rifles",
         "B": "Rocket-propelled grenades",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Swords",
         "answer": "A",
         "funFact": "Modern pirates use automatic rifles, rocket-propelled grenades, and other modern weapons. They're much more heavily armed than historical pirates."
@@ -39,7 +39,7 @@
         "question": "What ships do modern pirates use?",
         "A": "Fast boats",
         "B": "Speedboats",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Sailing ships",
         "answer": "A",
         "funFact": "Modern pirates use fast boats and speedboats to approach and board larger ships. They're much faster and more maneuverable than historical pirate ships."
@@ -49,7 +49,7 @@
         "A": "Weapons",
         "B": "Technology",
         "C": "Motivation",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Modern pirates differ from historical pirates in weapons, technology, and motivation. They use modern weapons and technology, and often seek ransom rather than treasure."
     },
@@ -57,7 +57,7 @@
         "question": "What is the economic impact of modern piracy?",
         "A": "Billions of dollars",
         "B": "Affects global trade",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Minimal",
         "answer": "A",
         "funFact": "Modern piracy costs billions of dollars annually and affects global trade. Shipping companies pay higher insurance and security costs."
@@ -67,7 +67,7 @@
         "A": "Naval patrols",
         "B": "Private security",
         "C": "International cooperation",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Modern piracy is being combated through naval patrols, private security on ships, and international cooperation. Several countries have navies patrolling pirate-infested waters."
     },
@@ -75,7 +75,7 @@
         "question": "What is the legal status of modern piracy?",
         "A": "Illegal everywhere",
         "B": "Punishable by law",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Legal in some places",
         "answer": "A",
         "funFact": "Modern piracy is illegal everywhere and is punishable by law. Pirates can face long prison sentences or even the death penalty in some countries."
@@ -84,7 +84,7 @@
         "question": "What is the future of modern piracy?",
         "A": "Likely to continue",
         "B": "Being reduced by security measures",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Will disappear soon",
         "answer": "A",
         "funFact": "Modern piracy is likely to continue but is being reduced by increased security measures. However, as long as there are vulnerable ships and economic incentives, piracy will persist."
@@ -93,7 +93,7 @@
         "question": "What is the cultural impact of historical pirates?",
         "A": "Still popular in fiction",
         "B": "Influences movies and books",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Forgotten",
         "answer": "A",
         "funFact": "Historical pirates are still popular in fiction and influence movies, books, and popular culture. The romantic image of pirates continues to captivate audiences."
@@ -102,7 +102,7 @@
         "question": "What is the difference between piracy and privateering?",
         "A": "Privateering was legal",
         "B": "Piracy is always illegal",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No difference",
         "answer": "A",
         "funFact": "Privateering was legal (with government permission), while piracy is always illegal. Privateers had letters of marque authorizing them to attack enemy ships."
@@ -111,7 +111,7 @@
         "question": "What is the role of international law in modern piracy?",
         "A": "Defines piracy",
         "B": "Provides for prosecution",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No role",
         "answer": "A",
         "funFact": "International law defines piracy and provides for prosecution. The United Nations Convention on the Law of the Sea defines piracy and allows any country to prosecute pirates."
@@ -120,7 +120,7 @@
         "question": "What is the impact of modern piracy on shipping?",
         "A": "Increased costs",
         "B": "Route changes",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No impact",
         "answer": "A",
         "funFact": "Modern piracy increases shipping costs (insurance, security) and sometimes forces ships to change routes to avoid dangerous areas."
@@ -129,7 +129,7 @@
         "question": "What is the human cost of modern piracy?",
         "A": "Kidnappings",
         "B": "Deaths",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Minimal",
         "answer": "A",
         "funFact": "Modern piracy has a significant human cost, including kidnappings, deaths, and psychological trauma for crew members and their families."
@@ -138,7 +138,7 @@
         "question": "What is the connection between modern piracy and poverty?",
         "A": "Poverty drives piracy",
         "B": "Pirates often come from poor areas",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No connection",
         "answer": "A",
         "funFact": "There's a strong connection between modern piracy and poverty. Many pirates come from poor coastal areas with few economic opportunities."
@@ -147,7 +147,7 @@
         "question": "What is the role of technology in modern piracy?",
         "A": "GPS and communication",
         "B": "Modern weapons",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No role",
         "answer": "A",
         "funFact": "Modern pirates use technology like GPS and communication devices, as well as modern weapons. However, ships also use technology to defend against pirates."
@@ -156,7 +156,7 @@
         "question": "What is the future of anti-piracy measures?",
         "A": "Improved technology",
         "B": "Better cooperation",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No improvements",
         "answer": "A",
         "funFact": "Anti-piracy measures are improving with better technology (drones, sensors) and increased international cooperation. However, pirates also adapt to new security measures."
@@ -165,7 +165,7 @@
         "question": "What is the romantic image of pirates?",
         "A": "Largely fictional",
         "B": "Based on some truth",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Completely accurate",
         "answer": "A",
         "funFact": "The romantic image of pirates is largely fictional but based on some truth. Real pirates were much harsher and less romantic than fiction suggests."
@@ -174,7 +174,7 @@
         "question": "What is the legacy of historical pirates?",
         "A": "Still influences culture",
         "B": "Subject of ongoing research",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Forgotten",
         "answer": "A",
         "funFact": "The legacy of historical pirates still influences culture and is the subject of ongoing research. New discoveries continue to shed light on the reality of piracy."

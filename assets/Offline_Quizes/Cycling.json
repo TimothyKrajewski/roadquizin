@@ -1,182 +1,173 @@
 [
-    {
-        "question": "What is the Tour de France?",
-        "A": "A one-day race",
-        "B": "A multi-stage cycling race",
-        "C": "A track race",
-        "D": "A mountain bike race",
-        "answer": "B",
-        "funFact": "The Tour de France is the most prestigious multi-stage cycling race, covering over 2,000 miles in about 3 weeks."
-    },
-    {
-        "question": "What is a peloton?",
-        "A": "A single rider",
-        "B": "The main group of riders",
-        "C": "A breakaway",
-        "D": "A team",
-        "answer": "B",
-        "funFact": "The peloton is the main group of riders in a race, where cyclists draft behind each other to save energy."
-    },
-    {
-        "question": "What is drafting?",
-        "A": "Riding alone",
-        "B": "Riding behind another cyclist to reduce wind resistance",
-        "C": "Riding uphill",
-        "D": "Riding downhill",
-        "answer": "B",
-        "funFact": "Drafting is riding closely behind another cyclist to reduce wind resistance and save energy."
-    },
-    {
-        "question": "What is a breakaway?",
-        "A": "The main group",
-        "B": "Riders who escape from the peloton",
-        "C": "A crash",
-        "D": "A finish",
-        "answer": "B",
-        "funFact": "A breakaway is when one or more riders escape from the main peloton to try to win the race."
-    },
-    {
-        "question": "What is a time trial?",
-        "A": "A mass start race",
-        "B": "Riders start individually against the clock",
-        "C": "A team race",
-        "D": "A sprint",
-        "answer": "B",
-        "funFact": "A time trial is a race where riders start individually and race against the clock, not other riders."
-    },
-    {
-        "question": "What is a sprint?",
-        "A": "A long race",
-        "B": "A fast finish",
-        "C": "A time trial",
-        "D": "A breakaway",
-        "answer": "B",
-        "funFact": "A sprint is a fast finish where riders compete for position at the end of a race or stage."
-    },
-    {
-        "question": "What is a stage?",
-        "A": "A single day of racing",
-        "B": "A whole race",
-        "C": "A breakaway",
-        "D": "A sprint",
-        "answer": "A",
-        "funFact": "A stage is a single day of racing in a multi-day race like the Tour de France."
-    },
-    {
-        "question": "What is the yellow jersey?",
-        "A": "Best sprinter",
-        "B": "Race leader",
-        "C": "Best climber",
-        "D": "Best young rider",
-        "answer": "B",
-        "funFact": "The yellow jersey (maillot jaune) is worn by the overall race leader in the Tour de France."
-    },
-    {
-        "question": "What is a mountain stage?",
-        "A": "Flat terrain",
-        "B": "A stage with significant climbs",
-        "C": "A time trial",
-        "D": "A sprint",
-        "answer": "B",
-        "funFact": "A mountain stage features significant climbs and is often where the race is won or lost."
-    },
-    {
-        "question": "What is a domestique?",
-        "A": "A team leader",
-        "B": "A support rider",
-        "C": "A sprinter",
-        "D": "A climber",
-        "answer": "B",
-        "funFact": "A domestique is a support rider who helps the team leader by fetching water, blocking wind, and sacrificing their own chances."
-    },
-    {
-        "question": "What is a chain?",
-        "A": "A gear",
-        "B": "The metal links that drive the bike",
-        "C": "A brake",
-        "D": "A wheel",
-        "answer": "B",
-        "funFact": "The chain transfers power from the pedals to the rear wheel, driving the bicycle forward."
-    },
-    {
-        "question": "What is a derailleur?",
-        "A": "A brake",
-        "B": "A mechanism that moves the chain between gears",
-        "C": "A wheel",
-        "D": "A frame",
-        "answer": "B",
-        "funFact": "A derailleur is the mechanism that moves the chain between different gears on a bicycle."
-    },
-    {
-        "question": "What is a peloton?",
-        "A": "A single rider",
-        "B": "The main group of cyclists",
-        "C": "A breakaway",
-        "D": "A team",
-        "answer": "B",
-        "funFact": "The peloton is the main group of riders in a race, where cyclists work together to maintain speed."
-    },
-    {
-        "question": "What is a criterium?",
-        "A": "A long road race",
-        "B": "A short race on a closed circuit",
-        "C": "A time trial",
-        "D": "A mountain race",
-        "answer": "B",
-        "funFact": "A criterium is a short, fast race on a closed circuit, typically less than 3 miles per lap."
-    },
-    {
-        "question": "What is a fixie?",
-        "A": "A multi-speed bike",
-        "B": "A fixed-gear bicycle",
-        "C": "A mountain bike",
-        "D": "A road bike",
-        "answer": "B",
-        "funFact": "A fixie (fixed-gear) is a bicycle with no freewheel, so the pedals always move when the bike is moving."
-    },
-    {
-        "question": "What is a wheelie?",
-        "A": "Riding on both wheels",
-        "B": "Riding on the rear wheel only",
-        "C": "Riding on the front wheel",
-        "D": "Stopping",
-        "answer": "B",
-        "funFact": "A wheelie is a trick where the rider lifts the front wheel and rides on only the rear wheel."
-    },
-    {
-        "question": "What is the study of cycling called?",
-        "A": "Cyclingology",
-        "B": "Just cycling",
-        "C": "Bike sports",
-        "D": "Wheel sports",
-        "answer": "B",
-        "funFact": "Cycling is simply called cycling, though it's studied and analyzed by coaches and sports scientists."
-    },
-    {
-        "question": "What is a time trial bike?",
-        "A": "A mountain bike",
-        "B": "An aerodynamic bike for time trials",
-        "C": "A fixie",
-        "D": "A BMX bike",
-        "answer": "B",
-        "funFact": "A time trial bike is designed for aerodynamics, with features to reduce wind resistance."
-    },
-    {
-        "question": "What is a grand tour?",
-        "A": "A one-day race",
-        "B": "A three-week stage race",
-        "C": "A time trial",
-        "D": "A criterium",
-        "answer": "B",
-        "funFact": "A grand tour is a three-week stage race, including the Tour de France, Giro d'Italia, and Vuelta a España."
-    },
-    {
-        "question": "What is a puncture?",
-        "A": "A flat tire",
-        "B": "A good tire",
-        "C": "A brake",
-        "D": "A gear",
-        "answer": "A",
-        "funFact": "A puncture is when a tire is damaged and loses air, commonly called a flat tire."
-    }
+  {
+    "question": "What is the Tour de France?",
+    "A": "A one-day race",
+    "B": "A multi-stage cycling race",
+    "C": "A track race",
+    "D": "A mountain bike race",
+    "answer": "B",
+    "funFact": "The Tour de France is the most prestigious multi-stage cycling race, covering over 2,000 miles in about 3 weeks."
+  },
+  {
+    "question": "What is a peloton?",
+    "A": "A single rider",
+    "B": "The main group of riders",
+    "C": "A breakaway",
+    "D": "A team",
+    "answer": "B",
+    "funFact": "The peloton is the main group of riders in a race, where cyclists draft behind each other to save energy."
+  },
+  {
+    "question": "What is drafting?",
+    "A": "Riding alone",
+    "B": "Riding behind another cyclist to reduce wind resistance",
+    "C": "Riding uphill",
+    "D": "Riding downhill",
+    "answer": "B",
+    "funFact": "Drafting is riding closely behind another cyclist to reduce wind resistance and save energy."
+  },
+  {
+    "question": "What is a breakaway?",
+    "A": "The main group",
+    "B": "Riders who escape from the peloton",
+    "C": "A crash",
+    "D": "A finish",
+    "answer": "B",
+    "funFact": "A breakaway is when one or more riders escape from the main peloton to try to win the race."
+  },
+  {
+    "question": "What is a time trial?",
+    "A": "A mass start race",
+    "B": "Riders start individually against the clock",
+    "C": "A team race",
+    "D": "A sprint",
+    "answer": "B",
+    "funFact": "A time trial is a race where riders start individually and race against the clock, not other riders."
+  },
+  {
+    "question": "What is a sprint?",
+    "A": "A long race",
+    "B": "A fast finish",
+    "C": "A time trial",
+    "D": "A breakaway",
+    "answer": "B",
+    "funFact": "A sprint is a fast finish where riders compete for position at the end of a race or stage."
+  },
+  {
+    "question": "What is a stage?",
+    "A": "A single day of racing",
+    "B": "A whole race",
+    "C": "A breakaway",
+    "D": "A sprint",
+    "answer": "A",
+    "funFact": "A stage is a single day of racing in a multi-day race like the Tour de France."
+  },
+  {
+    "question": "What is the yellow jersey?",
+    "A": "Best sprinter",
+    "B": "Race leader",
+    "C": "Best climber",
+    "D": "Best young rider",
+    "answer": "B",
+    "funFact": "The yellow jersey (maillot jaune) is worn by the overall race leader in the Tour de France."
+  },
+  {
+    "question": "What is a mountain stage?",
+    "A": "Flat terrain",
+    "B": "A stage with significant climbs",
+    "C": "A time trial",
+    "D": "A sprint",
+    "answer": "B",
+    "funFact": "A mountain stage features significant climbs and is often where the race is won or lost."
+  },
+  {
+    "question": "What is a domestique?",
+    "A": "A team leader",
+    "B": "A support rider",
+    "C": "A sprinter",
+    "D": "A climber",
+    "answer": "B",
+    "funFact": "A domestique is a support rider who helps the team leader by fetching water, blocking wind, and sacrificing their own chances."
+  },
+  {
+    "question": "What is a chain?",
+    "A": "A gear",
+    "B": "The metal links that drive the bike",
+    "C": "A brake",
+    "D": "A wheel",
+    "answer": "B",
+    "funFact": "The chain transfers power from the pedals to the rear wheel, driving the bicycle forward."
+  },
+  {
+    "question": "What is a derailleur?",
+    "A": "A brake",
+    "B": "A mechanism that moves the chain between gears",
+    "C": "A wheel",
+    "D": "A frame",
+    "answer": "B",
+    "funFact": "A derailleur is the mechanism that moves the chain between different gears on a bicycle."
+  },
+  {
+    "question": "What is a criterium?",
+    "A": "A long road race",
+    "B": "A short race on a closed circuit",
+    "C": "A time trial",
+    "D": "A mountain race",
+    "answer": "B",
+    "funFact": "A criterium is a short, fast race on a closed circuit, typically less than 3 miles per lap."
+  },
+  {
+    "question": "What is a fixie?",
+    "A": "A multi-speed bike",
+    "B": "A fixed-gear bicycle",
+    "C": "A mountain bike",
+    "D": "A road bike",
+    "answer": "B",
+    "funFact": "A fixie (fixed-gear) is a bicycle with no freewheel, so the pedals always move when the bike is moving."
+  },
+  {
+    "question": "What is a wheelie?",
+    "A": "Riding on both wheels",
+    "B": "Riding on the rear wheel only",
+    "C": "Riding on the front wheel",
+    "D": "Stopping",
+    "answer": "B",
+    "funFact": "A wheelie is a trick where the rider lifts the front wheel and rides on only the rear wheel."
+  },
+  {
+    "question": "What is the study of cycling called?",
+    "A": "Cyclingology",
+    "B": "Just cycling",
+    "C": "Bike sports",
+    "D": "Wheel sports",
+    "answer": "B",
+    "funFact": "Cycling is simply called cycling, though it's studied and analyzed by coaches and sports scientists."
+  },
+  {
+    "question": "What is a time trial bike?",
+    "A": "A mountain bike",
+    "B": "An aerodynamic bike for time trials",
+    "C": "A fixie",
+    "D": "A BMX bike",
+    "answer": "B",
+    "funFact": "A time trial bike is designed for aerodynamics, with features to reduce wind resistance."
+  },
+  {
+    "question": "What is a grand tour?",
+    "A": "A one-day race",
+    "B": "A three-week stage race",
+    "C": "A time trial",
+    "D": "A criterium",
+    "answer": "B",
+    "funFact": "A grand tour is a three-week stage race, including the Tour de France, Giro d'Italia, and Vuelta a España."
+  },
+  {
+    "question": "What is a puncture?",
+    "A": "A flat tire",
+    "B": "A good tire",
+    "C": "A brake",
+    "D": "A gear",
+    "answer": "A",
+    "funFact": "A puncture is when a tire is damaged and loses air, commonly called a flat tire."
+  }
 ]

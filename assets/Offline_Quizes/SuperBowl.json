@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which team won Super Bowl LVII (2023)?",
+    "A": "Kansas City Chiefs",
+    "B": "Philadelphia Eagles",
+    "C": "Cincinnati Bengals",
+    "D": "San Francisco 49ers",
+    "answer": "A",
+    "funFact": "The Kansas City Chiefs won Super Bowl LVII, defeating the Philadelphia Eagles 38-35."
+  },
+  {
+    "question": "Which team won Super Bowl LVI (2022)?",
+    "A": "Los Angeles Rams",
+    "B": "Cincinnati Bengals",
+    "C": "Kansas City Chiefs",
+    "D": "Tampa Bay Buccaneers",
+    "answer": "A",
+    "funFact": "The Los Angeles Rams won Super Bowl LVI, defeating the Cincinnati Bengals 23-20."
+  },
+  {
+    "question": "Which team won Super Bowl LV (2021)?",
+    "A": "Tampa Bay Buccaneers",
+    "B": "Kansas City Chiefs",
+    "C": "San Francisco 49ers",
+    "D": "Green Bay Packers",
+    "answer": "A",
+    "funFact": "The Tampa Bay Buccaneers won Super Bowl LV, defeating the Kansas City Chiefs 31-9."
+  },
+  {
+    "question": "Which team won Super Bowl LIV (2020)?",
+    "A": "Kansas City Chiefs",
+    "B": "San Francisco 49ers",
+    "C": "New England Patriots",
+    "D": "Los Angeles Rams",
+    "answer": "A",
+    "funFact": "The Kansas City Chiefs won Super Bowl LIV, defeating the San Francisco 49ers 31-20."
+  },
+  {
+    "question": "Which team won Super Bowl LIII (2019)?",
+    "A": "New England Patriots",
+    "B": "Los Angeles Rams",
+    "C": "Kansas City Chiefs",
+    "D": "New Orleans Saints",
+    "answer": "A",
+    "funFact": "The New England Patriots won Super Bowl LIII, defeating the Los Angeles Rams 13-3 in the lowest-scoring Super Bowl."
+  },
+  {
+    "question": "Which team won Super Bowl LII (2018)?",
+    "A": "Philadelphia Eagles",
+    "B": "New England Patriots",
+    "C": "Minnesota Vikings",
+    "D": "Jacksonville Jaguars",
+    "answer": "A",
+    "funFact": "The Philadelphia Eagles won Super Bowl LII, defeating the New England Patriots 41-33."
+  },
+  {
+    "question": "Which team won Super Bowl LI (2017)?",
+    "A": "New England Patriots",
+    "B": "Atlanta Falcons",
+    "C": "Pittsburgh Steelers",
+    "D": "Green Bay Packers",
+    "answer": "A",
+    "funFact": "The New England Patriots won Super Bowl LI, defeating the Atlanta Falcons 34-28 in the first Super Bowl to go to overtime."
+  },
+  {
+    "question": "Which team won Super Bowl 50 (2016)?",
+    "A": "Denver Broncos",
+    "B": "Carolina Panthers",
+    "C": "Arizona Cardinals",
+    "D": "New England Patriots",
+    "answer": "A",
+    "funFact": "The Denver Broncos won Super Bowl 50, defeating the Carolina Panthers 24-10."
+  },
+  {
+    "question": "Which team won Super Bowl XLIX (2015)?",
+    "A": "New England Patriots",
+    "B": "Seattle Seahawks",
+    "C": "Green Bay Packers",
+    "D": "Indianapolis Colts",
+    "answer": "A",
+    "funFact": "The New England Patriots won Super Bowl XLIX, defeating the Seattle Seahawks 28-24."
+  },
+  {
+    "question": "Which team won Super Bowl XLVIII (2014)?",
+    "A": "Seattle Seahawks",
+    "B": "Denver Broncos",
+    "C": "San Francisco 49ers",
+    "D": "New England Patriots",
+    "answer": "A",
+    "funFact": "The Seattle Seahawks won Super Bowl XLVIII, defeating the Denver Broncos 43-8."
+  },
+  {
+    "question": "Which team won Super Bowl XLVII (2013)?",
+    "A": "Baltimore Ravens",
+    "B": "San Francisco 49ers",
+    "C": "New England Patriots",
+    "D": "Atlanta Falcons",
+    "answer": "A",
+    "funFact": "The Baltimore Ravens won Super Bowl XLVII, defeating the San Francisco 49ers 34-31 in the 'HarBowl' featuring brothers John and Jim Harbaugh."
+  },
+  {
+    "question": "Which team won Super Bowl XLVI (2012)?",
+    "A": "New York Giants",
+    "B": "New England Patriots",
+    "C": "San Francisco 49ers",
+    "D": "Baltimore Ravens",
+    "answer": "A",
+    "funFact": "The New York Giants won Super Bowl XLVI, defeating the New England Patriots 21-17."
+  },
+  {
+    "question": "Which team won Super Bowl XLV (2011)?",
+    "A": "Green Bay Packers",
+    "B": "Pittsburgh Steelers",
+    "C": "Chicago Bears",
+    "D": "New York Jets",
+    "answer": "A",
+    "funFact": "The Green Bay Packers won Super Bowl XLV, defeating the Pittsburgh Steelers 31-25."
+  },
+  {
+    "question": "Which team won Super Bowl XLIV (2010)?",
+    "A": "New Orleans Saints",
+    "B": "Indianapolis Colts",
+    "C": "Minnesota Vikings",
+    "D": "New York Jets",
+    "answer": "A",
+    "funFact": "The New Orleans Saints won Super Bowl XLIV, defeating the Indianapolis Colts 31-17."
+  },
+  {
+    "question": "Which team won Super Bowl XLIII (2009)?",
+    "A": "Pittsburgh Steelers",
+    "B": "Arizona Cardinals",
+    "C": "Philadelphia Eagles",
+    "D": "Baltimore Ravens",
+    "answer": "A",
+    "funFact": "The Pittsburgh Steelers won Super Bowl XLIII, defeating the Arizona Cardinals 27-23."
+  },
+  {
+    "question": "Which team won Super Bowl XLII (2008)?",
+    "A": "New York Giants",
+    "B": "New England Patriots",
+    "C": "Green Bay Packers",
+    "D": "San Diego Chargers",
+    "answer": "A",
+    "funFact": "The New York Giants won Super Bowl XLII, defeating the previously undefeated New England Patriots 17-14."
+  },
+  {
+    "question": "Which team won Super Bowl XLI (2007)?",
+    "A": "Indianapolis Colts",
+    "B": "Chicago Bears",
+    "C": "New England Patriots",
+    "D": "New Orleans Saints",
+    "answer": "A",
+    "funFact": "The Indianapolis Colts won Super Bowl XLI, defeating the Chicago Bears 29-17 in the first Super Bowl played in the rain."
+  },
+  {
+    "question": "Which team won Super Bowl XL (2006)?",
+    "A": "Pittsburgh Steelers",
+    "B": "Seattle Seahawks",
+    "C": "Denver Broncos",
+    "D": "Carolina Panthers",
+    "answer": "A",
+    "funFact": "The Pittsburgh Steelers won Super Bowl XL, defeating the Seattle Seahawks 21-10."
+  },
+  {
+    "question": "Which team won Super Bowl XXXIX (2005)?",
+    "A": "New England Patriots",
+    "B": "Philadelphia Eagles",
+    "C": "Pittsburgh Steelers",
+    "D": "Atlanta Falcons",
+    "answer": "A",
+    "funFact": "The New England Patriots won Super Bowl XXXIX, defeating the Philadelphia Eagles 24-21."
+  },
+  {
+    "question": "Which team won Super Bowl XXXVIII (2004)?",
+    "A": "New England Patriots",
+    "B": "Carolina Panthers",
+    "C": "Indianapolis Colts",
+    "D": "Tennessee Titans",
+    "answer": "A",
+    "funFact": "The New England Patriots won Super Bowl XXXVIII, defeating the Carolina Panthers 32-29."
+  },
+  {
+    "question": "Which team has won the most Super Bowls?",
+    "A": "Pittsburgh Steelers and New England Patriots",
+    "B": "Dallas Cowboys",
+    "C": "San Francisco 49ers",
+    "D": "Green Bay Packers",
+    "answer": "A",
+    "funFact": "The Pittsburgh Steelers and New England Patriots have each won 6 Super Bowls, tied for the most."
+  },
+  {
+    "question": "Which team won Super Bowl I (1967)?",
+    "A": "Green Bay Packers",
+    "B": "Kansas City Chiefs",
+    "C": "Dallas Cowboys",
+    "D": "Baltimore Colts",
+    "answer": "A",
+    "funFact": "The Green Bay Packers won Super Bowl I, defeating the Kansas City Chiefs 35-10 in the first Super Bowl."
+  },
+  {
+    "question": "Which team won Super Bowl III (1969)?",
+    "A": "New York Jets",
+    "B": "Baltimore Colts",
+    "C": "Minnesota Vikings",
+    "D": "Oakland Raiders",
+    "answer": "A",
+    "funFact": "The New York Jets won Super Bowl III, defeating the heavily favored Baltimore Colts 16-7 in one of the biggest upsets in Super Bowl history."
+  },
+  {
+    "question": "Which team won Super Bowl XX (1986)?",
+    "A": "Chicago Bears",
+    "B": "New England Patriots",
+    "C": "Miami Dolphins",
+    "D": "Los Angeles Raiders",
+    "answer": "A",
+    "funFact": "The Chicago Bears won Super Bowl XX, defeating the New England Patriots 46-10 in one of the most dominant Super Bowl performances."
+  },
+  {
+    "question": "Which team won Super Bowl XXV (1991)?",
+    "A": "New York Giants",
+    "B": "Buffalo Bills",
+    "C": "San Francisco 49ers",
+    "D": "Denver Broncos",
+    "answer": "A",
+    "funFact": "The New York Giants won Super Bowl XXV, defeating the Buffalo Bills 20-19 in the closest Super Bowl ever."
+  },
+  {
+    "question": "Which team won Super Bowl XXXIV (2000)?",
+    "A": "St. Louis Rams",
+    "B": "Tennessee Titans",
+    "C": "Jacksonville Jaguars",
+    "D": "Tampa Bay Buccaneers",
+    "answer": "A",
+    "funFact": "The St. Louis Rams won Super Bowl XXXIV, defeating the Tennessee Titans 23-16 in a game that came down to the final play."
+  },
+  {
+    "question": "Which team won Super Bowl XXXII (1998)?",
+    "A": "Denver Broncos",
+    "B": "Green Bay Packers",
+    "C": "San Francisco 49ers",
+    "D": "Pittsburgh Steelers",
+    "answer": "A",
+    "funFact": "The Denver Broncos won Super Bowl XXXII, defeating the Green Bay Packers 31-24, ending the NFC's 13-year Super Bowl winning streak."
+  },
+  {
+    "question": "Which team won Super Bowl XXIII (1989)?",
+    "A": "San Francisco 49ers",
+    "B": "Cincinnati Bengals",
+    "C": "Chicago Bears",
+    "D": "New York Giants",
+    "answer": "A",
+    "funFact": "The San Francisco 49ers won Super Bowl XXIII, defeating the Cincinnati Bengals 20-16 on a last-minute touchdown drive."
+  },
+  {
+    "question": "Which team won Super Bowl XIII (1979)?",
+    "A": "Pittsburgh Steelers",
+    "B": "Dallas Cowboys",
+    "C": "Los Angeles Rams",
+    "D": "Houston Oilers",
+    "answer": "A",
+    "funFact": "The Pittsburgh Steelers won Super Bowl XIII, defeating the Dallas Cowboys 35-31 in a high-scoring game."
+  },
+  {
+    "question": "Which team won Super Bowl X (1976)?",
+    "A": "Pittsburgh Steelers",
+    "B": "Dallas Cowboys",
+    "C": "Minnesota Vikings",
+    "D": "Oakland Raiders",
+    "answer": "A",
+    "funFact": "The Pittsburgh Steelers won Super Bowl X, defeating the Dallas Cowboys 21-17."
+  }
+]
+

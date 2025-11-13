@@ -40,7 +40,7 @@
         "A": "Poetryology",
         "B": "Poetry studies",
         "C": "Literary studies",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Poetry is studied through literary studies, creative writing, and poetry analysis."
     },
@@ -81,15 +81,6 @@
         "funFact": "Poetry is an important art form that expresses human experience, emotions, and ideas through language."
     },
     {
-        "question": "What is the study of poetry called?",
-        "A": "Poetryology",
-        "B": "Poetry analysis",
-        "C": "Literary criticism",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Poetry is studied through literary analysis, creative writing, and literary criticism."
-    },
-    {
         "question": "What is the difference between poetry and prose?",
         "A": "They're the same",
         "B": "Poetry uses rhythm and line breaks, prose is continuous",
@@ -108,42 +99,6 @@
         "funFact": "Poetry has influenced literature, music, culture, and how people express emotions and ideas throughout history."
     },
     {
-        "question": "What is the origin of poetry?",
-        "A": "The 1800s",
-        "B": "Ancient oral traditions",
-        "C": "The 1900s",
-        "D": "The 2000s",
-        "answer": "B",
-        "funFact": "Poetry originated in ancient oral traditions, with epic poems like The Iliad and The Odyssey predating written literature."
-    },
-    {
-        "question": "What is the future of poetry?",
-        "A": "No future",
-        "B": "Evolving forms and new voices",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Poetry continues to evolve with new forms, voices, and ways of sharing, including digital and spoken word poetry."
-    },
-    {
-        "question": "What is the study of poetry called?",
-        "A": "Poetryology",
-        "B": "Poetry studies",
-        "C": "Creative writing",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Poetry is studied through creative writing, literary analysis, and poetry workshops."
-    },
-    {
-        "question": "What is the importance of poetry?",
-        "A": "Not important",
-        "B": "Essential art form for human expression",
-        "C": "Minor importance",
-        "D": "Only for writers",
-        "answer": "B",
-        "funFact": "Poetry is an essential art form for human expression, capturing emotions, ideas, and experiences in powerful language."
-    },
-    {
         "question": "What is the difference between a sonnet and a haiku?",
         "A": "They're the same",
         "B": "Sonnet is 14 lines, haiku is 3 lines",
@@ -160,23 +115,5 @@
         "D": "Only affects some languages",
         "answer": "B",
         "funFact": "Poetry enriches language and expression, creating new ways to use words and convey meaning."
-    },
-    {
-        "question": "What is the origin of poetry?",
-        "A": "The 1800s",
-        "B": "Ancient civilizations",
-        "C": "The 1900s",
-        "D": "The 2000s",
-        "answer": "B",
-        "funFact": "Poetry has existed in ancient civilizations for thousands of years, from Sumerian epics to Greek odes."
-    },
-    {
-        "question": "What is the future of poetry?",
-        "A": "No future",
-        "B": "Continued relevance and innovation",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Poetry continues to be relevant and innovative, with new forms, voices, and ways of sharing emerging."
     }
 ]

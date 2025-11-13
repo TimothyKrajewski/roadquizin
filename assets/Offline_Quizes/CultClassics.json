@@ -1,0 +1,283 @@
+[
+  {
+    "question": "Which cult classic film features a character named The Dude?",
+    "A": "The Big Lebowski",
+    "B": "Fight Club",
+    "C": "Donnie Darko",
+    "D": "The Rocky Horror Picture Show",
+    "answer": "A",
+    "funFact": "The Big Lebowski (1998) became a cult classic, with annual Lebowski Fest celebrations held worldwide."
+  },
+  {
+    "question": "Which cult classic musical features the song 'Time Warp'?",
+    "A": "The Rocky Horror Picture Show",
+    "B": "Little Shop of Horrors",
+    "C": "Hedwig and the Angry Inch",
+    "D": "Repo! The Genetic Opera",
+    "answer": "A",
+    "funFact": "The Rocky Horror Picture Show (1975) has been shown in theaters for decades with audience participation."
+  },
+  {
+    "question": "Which cult classic film features a character who follows Tyler Durden's rules?",
+    "A": "Fight Club",
+    "B": "The Matrix",
+    "C": "Donnie Darko",
+    "D": "Blade Runner",
+    "answer": "A",
+    "funFact": "Fight Club (1999) developed a massive cult following despite initially mixed reviews."
+  },
+  {
+    "question": "Which cult classic film features a giant rabbit named Frank?",
+    "A": "Donnie Darko",
+    "B": "Harvey",
+    "C": "Watership Down",
+    "D": "Who Framed Roger Rabbit",
+    "answer": "A",
+    "funFact": "Donnie Darko (2001) became a cult classic after its DVD release, with Frank being a key character."
+  },
+  {
+    "question": "Which cult classic film features the line 'Say hello to my little friend!'?",
+    "A": "Scarface",
+    "B": "The Godfather",
+    "C": "Goodfellas",
+    "D": "Casino",
+    "answer": "A",
+    "funFact": "Scarface (1983) became a cult classic, especially in hip-hop culture, despite initial mixed reviews."
+  },
+  {
+    "question": "Which cult classic film features a character who discovers he's living in a simulation?",
+    "A": "The Matrix",
+    "B": "Blade Runner",
+    "C": "Total Recall",
+    "D": "Dark City",
+    "answer": "A",
+    "funFact": "The Matrix (1999) became a cultural phenomenon and developed a massive cult following."
+  },
+  {
+    "question": "Which cult classic film features a character who can see dead people?",
+    "A": "The Sixth Sense",
+    "B": "The Others",
+    "C": "The Ring",
+    "D": "The Exorcist",
+    "answer": "A",
+    "funFact": "The Sixth Sense (1999) became a cult classic, known for its famous twist ending."
+  },
+  {
+    "question": "Which cult classic film features a character who fights in underground clubs?",
+    "A": "Fight Club",
+    "B": "Bloodsport",
+    "C": "Kickboxer",
+    "D": "The Karate Kid",
+    "answer": "A",
+    "funFact": "Fight Club's first rule is 'You do not talk about Fight Club,' which became a famous quote."
+  },
+  {
+    "question": "Which cult classic film features a character who takes the red pill?",
+    "A": "The Matrix",
+    "B": "Total Recall",
+    "C": "Blade Runner",
+    "D": "Dark City",
+    "answer": "A",
+    "funFact": "The red pill in The Matrix represents choosing to see the truth, becoming a cultural metaphor."
+  },
+  {
+    "question": "Which cult classic film features a character who is a professional bowler?",
+    "A": "The Big Lebowski",
+    "B": "Kingpin",
+    "C": "Alley Cats Strike",
+    "D": "Greedy",
+    "answer": "A",
+    "funFact": "The Dude in The Big Lebowski is an avid bowler, and bowling is central to the film's plot."
+  },
+  {
+    "question": "Which cult classic film features a character who creates an alter ego named Tyler?",
+    "A": "Fight Club",
+    "B": "The Machinist",
+    "C": "Identity",
+    "D": "Shutter Island",
+    "answer": "A",
+    "funFact": "Tyler Durden in Fight Club is revealed to be the narrator's alter ego, a major plot twist."
+  },
+  {
+    "question": "Which cult classic film features a character who wears a bathrobe throughout?",
+    "A": "The Big Lebowski",
+    "B": "Fight Club",
+    "C": "Donnie Darko",
+    "D": "The Rocky Horror Picture Show",
+    "answer": "A",
+    "funFact": "The Dude in The Big Lebowski is rarely seen without his bathrobe, which became iconic."
+  },
+  {
+    "question": "Which cult classic film features a character who is a time traveler?",
+    "A": "Donnie Darko",
+    "B": "The Time Machine",
+    "C": "Back to the Future",
+    "D": "Looper",
+    "answer": "A",
+    "funFact": "Donnie Darko involves time travel and parallel universes, making it a complex cult classic."
+  },
+  {
+    "question": "Which cult classic film features a character who is a transvestite from Transylvania?",
+    "A": "The Rocky Horror Picture Show",
+    "B": "Hedwig and the Angry Inch",
+    "C": "To Wong Foo",
+    "D": "Priscilla, Queen of the Desert",
+    "answer": "A",
+    "funFact": "Dr. Frank-N-Furter in The Rocky Horror Picture Show is a transvestite scientist from Transylvania."
+  },
+  {
+    "question": "Which cult classic film features a character who follows the rules of Project Mayhem?",
+    "A": "Fight Club",
+    "B": "The Matrix",
+    "C": "V for Vendetta",
+    "D": "Equilibrium",
+    "answer": "A",
+    "funFact": "Project Mayhem is the anarchist organization created by Tyler Durden in Fight Club."
+  },
+  {
+    "question": "Which cult classic film features a character who drinks White Russians?",
+    "A": "The Big Lebowski",
+    "B": "Casino Royale",
+    "C": "The Shining",
+    "D": "Fear and Loathing in Las Vegas",
+    "answer": "A",
+    "funFact": "The Dude's favorite drink in The Big Lebowski is the White Russian, which he drinks throughout the film."
+  },
+  {
+    "question": "Which cult classic film features a character who is a nihilist?",
+    "A": "The Big Lebowski",
+    "B": "Fight Club",
+    "C": "Donnie Darko",
+    "D": "The Matrix",
+    "answer": "A",
+    "funFact": "The Big Lebowski features a group of German nihilists who are antagonists in the film."
+  },
+  {
+    "question": "Which cult classic film features a character who is a private investigator?",
+    "A": "The Big Lebowski",
+    "B": "Chinatown",
+    "C": "The Maltese Falcon",
+    "D": "Blade Runner",
+    "answer": "A",
+    "funFact": "The Dude in The Big Lebowski is mistaken for a private investigator, though he's actually unemployed."
+  },
+  {
+    "question": "Which cult classic film features a character who is a performance artist?",
+    "A": "The Rocky Horror Picture Show",
+    "B": "Hedwig and the Angry Inch",
+    "C": "Velvet Goldmine",
+    "D": "Priscilla, Queen of the Desert",
+    "answer": "A",
+    "funFact": "The Rocky Horror Picture Show features elaborate musical numbers and performance art elements."
+  },
+  {
+    "question": "Which cult classic film features a character who is a Vietnam War veteran?",
+    "A": "The Big Lebowski",
+    "B": "Apocalypse Now",
+    "C": "Platoon",
+    "D": "Full Metal Jacket",
+    "answer": "A",
+    "funFact": "Walter Sobchak in The Big Lebowski is a Vietnam War veteran who takes his service very seriously."
+  },
+  {
+    "question": "Which cult classic film features a character who is a millionaire?",
+    "A": "The Big Lebowski",
+    "B": "Citizen Kane",
+    "C": "The Great Gatsby",
+    "D": "Trading Places",
+    "answer": "A",
+    "funFact": "The Big Lebowski features Jeffrey Lebowski, a millionaire who is mistaken for The Dude."
+  },
+  {
+    "question": "Which cult classic film features a character who is a bowler?",
+    "A": "The Big Lebowski",
+    "B": "Kingpin",
+    "C": "Alley Cats Strike",
+    "D": "Greedy",
+    "answer": "A",
+    "funFact": "Bowling is central to The Big Lebowski, with The Dude and Walter being avid bowlers."
+  },
+  {
+    "question": "Which cult classic film features a character who is a nihilist philosopher?",
+    "A": "The Big Lebowski",
+    "B": "Fight Club",
+    "C": "Donnie Darko",
+    "D": "The Matrix",
+    "answer": "A",
+    "funFact": "The Big Lebowski explores themes of nihilism through its characters and plot."
+  },
+  {
+    "question": "Which cult classic film features a character who is a performance artist from Transylvania?",
+    "A": "The Rocky Horror Picture Show",
+    "B": "Hedwig and the Angry Inch",
+    "C": "Velvet Goldmine",
+    "D": "Priscilla, Queen of the Desert",
+    "answer": "A",
+    "funFact": "Dr. Frank-N-Furter in The Rocky Horror Picture Show is a performance artist and scientist."
+  },
+  {
+    "question": "Which cult classic film features a character who is a private eye?",
+    "A": "The Big Lebowski",
+    "B": "Chinatown",
+    "C": "The Maltese Falcon",
+    "D": "Blade Runner",
+    "answer": "A",
+    "funFact": "The Big Lebowski is structured like a film noir, with The Dude as an unlikely private investigator."
+  },
+  {
+    "question": "Which cult classic film features a character who is a time-traveling teenager?",
+    "A": "Donnie Darko",
+    "B": "Back to the Future",
+    "C": "The Time Machine",
+    "D": "Looper",
+    "answer": "A",
+    "funFact": "Donnie Darko features a teenager who experiences time travel and parallel universes."
+  },
+  {
+    "question": "Which cult classic film features a character who is a nihilist gangster?",
+    "A": "The Big Lebowski",
+    "B": "Fight Club",
+    "C": "Pulp Fiction",
+    "D": "Reservoir Dogs",
+    "answer": "A",
+    "funFact": "The Big Lebowski features German nihilists who are involved in criminal activities."
+  },
+  {
+    "question": "Which cult classic film features a character who is a performance artist and scientist?",
+    "A": "The Rocky Horror Picture Show",
+    "B": "Hedwig and the Angry Inch",
+    "C": "Velvet Goldmine",
+    "D": "Priscilla, Queen of the Desert",
+    "answer": "A",
+    "funFact": "Dr. Frank-N-Furter in The Rocky Horror Picture Show combines performance art with scientific experimentation."
+  },
+  {
+    "question": "Which cult classic film features a character who is a bowler and a slacker?",
+    "A": "The Big Lebowski",
+    "B": "Kingpin",
+    "C": "Alley Cats Strike",
+    "D": "Greedy",
+    "answer": "A",
+    "funFact": "The Dude in The Big Lebowski is both an avid bowler and a laid-back slacker."
+  },
+  {
+    "question": "Which cult classic film features a character who is a time-traveling high school student?",
+    "A": "Donnie Darko",
+    "B": "Back to the Future",
+    "C": "The Time Machine",
+    "D": "Looper",
+    "answer": "A",
+    "funFact": "Donnie Darko follows a high school student who experiences time travel and strange phenomena."
+  },
+  {
+    "question": "Which cult classic film features a character who is a nihilist and a criminal?",
+    "A": "The Big Lebowski",
+    "B": "Fight Club",
+    "C": "Pulp Fiction",
+    "D": "Reservoir Dogs",
+    "answer": "A",
+    "funFact": "The Big Lebowski features German nihilists who engage in criminal activities as part of their philosophy."
+  }
+]
+
+

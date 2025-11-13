@@ -40,7 +40,7 @@
         "A": "Riverology",
         "B": "River geography",
         "C": "Potamology",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Rivers are studied through geography, hydrology, and potamology (the study of rivers)."
     },
@@ -54,15 +54,6 @@
         "funFact": "Rivers provide water for drinking, agriculture, and industry; enable transportation; and support diverse ecosystems."
     },
     {
-        "question": "What is the study of rivers called?",
-        "A": "Riverology",
-        "B": "River ecology",
-        "C": "Hydrology",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Rivers are studied through hydrology, ecology, and geography."
-    },
-    {
         "question": "What is the impact of rivers?",
         "A": "No impact",
         "B": "Essential for human civilization and ecosystems",
@@ -70,113 +61,5 @@
         "D": "Only affects some regions",
         "answer": "B",
         "funFact": "Rivers have been essential for human civilization, providing water, transportation, and fertile land for agriculture."
-    },
-    {
-        "question": "What is the study of rivers called?",
-        "A": "Riverology",
-        "B": "River studies",
-        "C": "Geography",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Rivers are studied through geography, hydrology, and environmental science."
-    },
-    {
-        "question": "What is the importance of rivers?",
-        "A": "Not important",
-        "B": "Ecological and economic significance",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Rivers have ecological and economic significance, supporting life and enabling trade and agriculture."
-    },
-    {
-        "question": "What is the study of rivers called?",
-        "A": "Riverology",
-        "B": "River geography",
-        "C": "Water studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Rivers are studied through geography, hydrology, and water resource management."
-    },
-    {
-        "question": "What is the impact of rivers?",
-        "A": "No impact",
-        "B": "Shaping landscapes and supporting life",
-        "C": "Minor changes",
-        "D": "Only affects rivers",
-        "answer": "B",
-        "funFact": "Rivers shape landscapes through erosion and deposition, and support diverse plant and animal life."
-    },
-    {
-        "question": "What is the study of rivers called?",
-        "A": "Riverology",
-        "B": "River research",
-        "C": "Geographic studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Rivers are studied through geography, hydrology, and environmental research."
-    },
-    {
-        "question": "What is the importance of rivers?",
-        "A": "Not important",
-        "B": "Water resources and biodiversity",
-        "C": "Minor importance",
-        "D": "Only for some regions",
-        "answer": "B",
-        "funFact": "Rivers are crucial water resources and support rich biodiversity, making them vital for ecosystems and human life."
-    },
-    {
-        "question": "What is the study of rivers called?",
-        "A": "Riverology",
-        "B": "River studies",
-        "C": "Hydrological research",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Rivers are studied through geography, hydrology, and environmental science, exploring their flow and ecosystems."
-    },
-    {
-        "question": "What is the impact of rivers?",
-        "A": "No impact",
-        "B": "Fundamental for ecosystems and human societies",
-        "C": "Minor changes",
-        "D": "Only affects some areas",
-        "answer": "B",
-        "funFact": "Rivers are fundamental for ecosystems and human societies, providing water, food, and transportation routes."
-    },
-    {
-        "question": "What is the study of rivers called?",
-        "A": "Riverology",
-        "B": "River geography",
-        "C": "Environmental studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Rivers are studied through geography, hydrology, and environmental research."
-    },
-    {
-        "question": "What is the importance of rivers?",
-        "A": "Not important",
-        "B": "Essential for life and civilization",
-        "C": "Minor importance",
-        "D": "Only for some people",
-        "answer": "B",
-        "funFact": "Rivers are essential for life and civilization, providing water, food, transportation, and supporting agriculture."
-    },
-    {
-        "question": "What is the study of rivers called?",
-        "A": "Riverology",
-        "B": "River research",
-        "C": "Geographic studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Rivers are studied through geography, hydrology, and environmental science, understanding their importance and ecosystems."
-    },
-    {
-        "question": "What is the impact of rivers?",
-        "A": "No impact",
-        "B": "Major influence on geography and human history",
-        "C": "Minor changes",
-        "D": "Only affects rivers",
-        "answer": "B",
-        "funFact": "Rivers have had a major influence on geography, human history, and the development of civilizations throughout time."
     }
 ]

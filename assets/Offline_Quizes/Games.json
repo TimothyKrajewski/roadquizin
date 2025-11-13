@@ -30,7 +30,7 @@
         "question": "What card game uses 52 cards?",
         "A": "Uno",
         "B": "Poker",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Go Fish",
         "answer": "B",
         "funFact": "Poker uses a standard deck of 52 cards. Uno uses a special deck of 108 cards. Many card games use the standard 52-card deck."
@@ -58,7 +58,7 @@
         "A": "Boggle",
         "B": "Scrabble",
         "C": "Words with Friends",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Scrabble and Words with Friends are word games where players form words from lettered tiles. Scrabble was invented in 1938 and has sold over 150 million sets."
     },
@@ -85,7 +85,7 @@
         "A": "Monopoly",
         "B": "Snakes and Ladders",
         "C": "Backgammon",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Monopoly, Snakes and Ladders, and Backgammon all involve rolling dice and moving pieces around a board, though each has different rules and objectives."
     }

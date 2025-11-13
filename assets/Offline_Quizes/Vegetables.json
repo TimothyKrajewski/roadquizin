@@ -13,7 +13,7 @@
         "A": "Tomato",
         "B": "Cucumber",
         "C": "Pepper",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Botanically, tomatoes, cucumbers, and peppers are all fruits because they contain seeds and develop from the flower of the plant, though they're used as vegetables in cooking."
     },
@@ -40,7 +40,7 @@
         "A": "Cauliflower",
         "B": "Cabbage",
         "C": "Brussels sprouts",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Broccoli, cauliflower, cabbage, and Brussels sprouts are all in the same plant family (Brassicaceae) and are closely related."
     },
@@ -58,7 +58,7 @@
         "A": "Spinach",
         "B": "Kale",
         "C": "Broccoli",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Spinach, kale, and broccoli are all incredibly nutrient-dense vegetables, rich in vitamins, minerals, and antioxidants, earning them the nickname 'nature's multivitamin.'"
     },
@@ -85,7 +85,7 @@
         "A": "Garlic",
         "B": "Onion",
         "C": "Pepper",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "B",
         "funFact": "Onions make people cry because cutting them releases a gas that reacts with the water in your eyes to form sulfuric acid, which irritates the eyes."
     }

@@ -3,7 +3,7 @@
         "question": "How long is an NFL game?",
         "A": "60 minutes",
         "B": "4 quarters of 15 minutes",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "90 minutes",
         "answer": "A",
         "funFact": "An NFL game is 60 minutes long, divided into 4 quarters of 15 minutes each. There's also a halftime break and timeouts."
@@ -30,7 +30,7 @@
         "question": "What is a touchdown worth?",
         "A": "6 points",
         "B": "Can be followed by extra point or 2-point conversion",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "7 points",
         "answer": "A",
         "funFact": "A touchdown is worth 6 points. After a touchdown, teams can kick an extra point (1 point) or attempt a 2-point conversion (2 points)."
@@ -39,7 +39,7 @@
         "question": "What is a field goal worth?",
         "A": "3 points",
         "B": "Kicked through the goalposts",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "2 points",
         "answer": "A",
         "funFact": "A field goal is worth 3 points and is scored by kicking the ball through the opponent's goalposts. It can be attempted on any down."
@@ -48,7 +48,7 @@
         "question": "What is a safety worth?",
         "A": "2 points",
         "B": "When offense is tackled in own end zone",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "1 point",
         "answer": "A",
         "funFact": "A safety is worth 2 points and occurs when the offense is tackled in their own end zone or commits a penalty in the end zone."
@@ -57,7 +57,7 @@
         "question": "What is the two-minute warning?",
         "A": "Automatic timeout",
         "B": "At 2:00 remaining in each half",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "At 1:00",
         "answer": "A",
         "funFact": "The two-minute warning is an automatic timeout that occurs when 2:00 remains in each half. It's the only automatic timeout in the NFL."
@@ -66,7 +66,7 @@
         "question": "What is overtime?",
         "A": "Extra period if game is tied",
         "B": "10 minutes in regular season",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "15 minutes",
         "answer": "A",
         "funFact": "Overtime is an extra period played if the game is tied after regulation. In the regular season, it's 10 minutes; in playoffs, it continues until there's a winner."
@@ -75,7 +75,7 @@
         "question": "What is a penalty?",
         "A": "Rule violation",
         "B": "Results in yardage loss or gain",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No consequence",
         "answer": "A",
         "funFact": "A penalty is a rule violation that results in yardage being added or subtracted. Common penalties include holding, pass interference, and false starts."
@@ -84,7 +84,7 @@
         "question": "What is pass interference?",
         "A": "Illegal contact on receiver",
         "B": "Can result in significant yardage",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No penalty",
         "answer": "A",
         "funFact": "Pass interference is illegal contact on a receiver before the ball arrives. It can result in significant yardage or an automatic first down."
@@ -93,7 +93,7 @@
         "question": "What is a false start?",
         "A": "Offensive player moves before snap",
         "B": "5-yard penalty",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "10-yard penalty",
         "answer": "A",
         "funFact": "A false start occurs when an offensive player moves before the snap. It's a 5-yard penalty and the down is replayed."
@@ -102,7 +102,7 @@
         "question": "What is holding?",
         "A": "Illegal blocking",
         "B": "10-yard penalty",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "5-yard penalty",
         "answer": "A",
         "funFact": "Holding is illegal blocking where a player grabs an opponent. It's a 10-yard penalty (or half the distance to the goal if less than 10 yards)."
@@ -111,7 +111,7 @@
         "question": "What is a fumble?",
         "A": "Ball is dropped",
         "B": "Can be recovered by either team",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Always goes to offense",
         "answer": "A",
         "funFact": "A fumble occurs when a player drops the ball. Either team can recover it, and the recovering team gains possession."
@@ -120,7 +120,7 @@
         "question": "What is an interception?",
         "A": "Defense catches a pass",
         "B": "Results in possession change",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "No possession change",
         "answer": "A",
         "funFact": "An interception occurs when the defense catches a pass intended for an offensive player. The defense gains possession and can advance the ball."
@@ -129,7 +129,7 @@
         "question": "What is a punt?",
         "A": "Kicking the ball to opponent",
         "B": "On fourth down",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "On any down",
         "answer": "A",
         "funFact": "A punt is kicking the ball to the opponent, typically done on fourth down when a team doesn't want to risk turning the ball over."
@@ -138,7 +138,7 @@
         "question": "What is a kickoff?",
         "A": "Starts each half",
         "B": "After scoring",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only at start",
         "answer": "A",
         "funFact": "A kickoff occurs at the start of each half and after scoring. The kicking team kicks the ball to the receiving team."
@@ -147,7 +147,7 @@
         "question": "What is a fair catch?",
         "A": "Receiver signals to catch without running",
         "B": "Cannot be hit",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Can be hit",
         "answer": "A",
         "funFact": "A fair catch is when a receiver signals to catch the ball without running. The receiver cannot be hit and the play ends immediately."
@@ -156,7 +156,7 @@
         "question": "What is a challenge?",
         "A": "Coach can challenge a call",
         "B": "Limited number per game",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Unlimited",
         "answer": "A",
         "funFact": "A challenge allows a coach to challenge a referee's call. Coaches have a limited number of challenges per game and lose a timeout if wrong."
@@ -165,7 +165,7 @@
         "question": "What is instant replay?",
         "A": "Review of plays",
         "B": "Used for challenges and reviews",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Not used",
         "answer": "A",
         "funFact": "Instant replay is used to review plays, either through coach challenges or automatic reviews by officials in certain situations."
@@ -174,7 +174,7 @@
         "question": "What is the goal line?",
         "A": "End of the field",
         "B": "Where touchdowns are scored",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Middle of field",
         "answer": "A",
         "funFact": "The goal line is at each end of the field (100 yards apart). A touchdown is scored when the ball crosses the opponent's goal line."

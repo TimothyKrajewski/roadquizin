@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Which movie soundtrack features the song 'My Heart Will Go On'?",
+    "A": "Titanic",
+    "B": "The Bodyguard",
+    "C": "Dirty Dancing",
+    "D": "Top Gun",
+    "answer": "A",
+    "funFact": "My Heart Will Go On by Celine Dion was the theme song for Titanic (1997) and won an Academy Award."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'I Will Always Love You'?",
+    "A": "The Bodyguard",
+    "B": "Titanic",
+    "C": "Dirty Dancing",
+    "D": "Top Gun",
+    "answer": "A",
+    "funFact": "I Will Always Love You by Whitney Houston was the theme song for The Bodyguard (1992) and became one of the best-selling singles of all time."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'I've Had the Time of My Life'?",
+    "A": "Dirty Dancing",
+    "B": "The Bodyguard",
+    "C": "Titanic",
+    "D": "Top Gun",
+    "answer": "A",
+    "funFact": "I've Had the Time of My Life by Bill Medley and Jennifer Warnes was the theme song for Dirty Dancing (1987) and won an Academy Award."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Take My Breath Away'?",
+    "A": "Top Gun",
+    "B": "The Bodyguard",
+    "C": "Titanic",
+    "D": "Dirty Dancing",
+    "answer": "A",
+    "funFact": "Take My Breath Away by Berlin was the theme song for Top Gun (1986) and won an Academy Award."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Eye of the Tiger'?",
+    "A": "Rocky III",
+    "B": "Top Gun",
+    "C": "The Bodyguard",
+    "D": "Titanic",
+    "answer": "A",
+    "funFact": "Eye of the Tiger by Survivor was the theme song for Rocky III (1982) and became a number one hit."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Lose Yourself'?",
+    "A": "8 Mile",
+    "B": "Rocky III",
+    "C": "Top Gun",
+    "D": "The Bodyguard",
+    "answer": "A",
+    "funFact": "Lose Yourself by Eminem was the theme song for 8 Mile (2002) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Skyfall'?",
+    "A": "Skyfall",
+    "B": "8 Mile",
+    "C": "Rocky III",
+    "D": "Top Gun",
+    "answer": "A",
+    "funFact": "Skyfall by Adele was the theme song for Skyfall (2012) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Let It Go'?",
+    "A": "Frozen",
+    "B": "Skyfall",
+    "C": "8 Mile",
+    "D": "Rocky III",
+    "answer": "A",
+    "funFact": "Let It Go by Idina Menzel was the theme song for Frozen (2013) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Shallow'?",
+    "A": "A Star Is Born",
+    "B": "Frozen",
+    "C": "Skyfall",
+    "D": "8 Mile",
+    "answer": "A",
+    "funFact": "Shallow by Lady Gaga and Bradley Cooper was featured in A Star Is Born (2018) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Circle of Life'?",
+    "A": "The Lion King",
+    "B": "A Star Is Born",
+    "C": "Frozen",
+    "D": "Skyfall",
+    "answer": "A",
+    "funFact": "Circle of Life by Elton John was featured in The Lion King (1994) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Can You Feel the Love Tonight'?",
+    "A": "The Lion King",
+    "B": "A Star Is Born",
+    "C": "Frozen",
+    "D": "Skyfall",
+    "answer": "A",
+    "funFact": "Can You Feel the Love Tonight by Elton John was featured in The Lion King (1994) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Colors of the Wind'?",
+    "A": "Pocahontas",
+    "B": "The Lion King",
+    "C": "A Star Is Born",
+    "D": "Frozen",
+    "answer": "A",
+    "funFact": "Colors of the Wind by Vanessa Williams was featured in Pocahontas (1995) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'A Whole New World'?",
+    "A": "Aladdin",
+    "B": "Pocahontas",
+    "C": "The Lion King",
+    "D": "A Star Is Born",
+    "answer": "A",
+    "funFact": "A Whole New World by Peabo Bryson and Regina Belle was featured in Aladdin (1992) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Beauty and the Beast'?",
+    "A": "Beauty and the Beast",
+    "B": "Aladdin",
+    "C": "Pocahontas",
+    "D": "The Lion King",
+    "answer": "A",
+    "funFact": "Beauty and the Beast by Celine Dion and Peabo Bryson was featured in Beauty and the Beast (1991) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Under the Sea'?",
+    "A": "The Little Mermaid",
+    "B": "Beauty and the Beast",
+    "C": "Aladdin",
+    "D": "Pocahontas",
+    "answer": "A",
+    "funFact": "Under the Sea by Samuel E. Wright was featured in The Little Mermaid (1989) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Flashdance... What a Feeling'?",
+    "A": "Flashdance",
+    "B": "The Little Mermaid",
+    "C": "Beauty and the Beast",
+    "D": "Aladdin",
+    "answer": "A",
+    "funFact": "Flashdance... What a Feeling by Irene Cara was featured in Flashdance (1983) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Fame'?",
+    "A": "Fame",
+    "B": "Flashdance",
+    "C": "The Little Mermaid",
+    "D": "Beauty and the Beast",
+    "answer": "A",
+    "funFact": "Fame by Irene Cara was featured in Fame (1980) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Up Where We Belong'?",
+    "A": "An Officer and a Gentleman",
+    "B": "Fame",
+    "C": "Flashdance",
+    "D": "The Little Mermaid",
+    "answer": "A",
+    "funFact": "Up Where We Belong by Joe Cocker and Jennifer Warnes was featured in An Officer and a Gentleman (1982) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Streets of Philadelphia'?",
+    "A": "Philadelphia",
+    "B": "An Officer and a Gentleman",
+    "C": "Fame",
+    "D": "Flashdance",
+    "answer": "A",
+    "funFact": "Streets of Philadelphia by Bruce Springsteen was featured in Philadelphia (1993) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'You'll Be in My Heart'?",
+    "A": "Tarzan",
+    "B": "Philadelphia",
+    "C": "An Officer and a Gentleman",
+    "D": "Fame",
+    "answer": "A",
+    "funFact": "You'll Be in My Heart by Phil Collins was featured in Tarzan (1999) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'When You Wish Upon a Star'?",
+    "A": "Pinocchio",
+    "B": "Tarzan",
+    "C": "Philadelphia",
+    "D": "An Officer and a Gentleman",
+    "answer": "A",
+    "funFact": "When You Wish Upon a Star by Cliff Edwards was featured in Pinocchio (1940) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Over the Rainbow'?",
+    "A": "The Wizard of Oz",
+    "B": "Pinocchio",
+    "C": "Tarzan",
+    "D": "Philadelphia",
+    "answer": "A",
+    "funFact": "Over the Rainbow by Judy Garland was featured in The Wizard of Oz (1939) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Moon River'?",
+    "A": "Breakfast at Tiffany's",
+    "B": "The Wizard of Oz",
+    "C": "Pinocchio",
+    "D": "Tarzan",
+    "answer": "A",
+    "funFact": "Moon River by Henry Mancini and Johnny Mercer was featured in Breakfast at Tiffany's (1961) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'The Way We Were'?",
+    "A": "The Way We Were",
+    "B": "Breakfast at Tiffany's",
+    "C": "The Wizard of Oz",
+    "D": "Pinocchio",
+    "answer": "A",
+    "funFact": "The Way We Were by Barbra Streisand was featured in The Way We Were (1973) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'We May Never Love Like This Again'?",
+    "A": "The Towering Inferno",
+    "B": "The Way We Were",
+    "C": "Breakfast at Tiffany's",
+    "D": "The Wizard of Oz",
+    "answer": "A",
+    "funFact": "We May Never Love Like This Again by Maureen McGovern was featured in The Towering Inferno (1974) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Evergreen'?",
+    "A": "A Star Is Born",
+    "B": "The Towering Inferno",
+    "C": "The Way We Were",
+    "D": "Breakfast at Tiffany's",
+    "answer": "A",
+    "funFact": "Evergreen by Barbra Streisand was featured in A Star Is Born (1976) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'You Light Up My Life'?",
+    "A": "You Light Up My Life",
+    "B": "A Star Is Born",
+    "C": "The Towering Inferno",
+    "D": "The Way We Were",
+    "answer": "A",
+    "funFact": "You Light Up My Life by Debby Boone was featured in You Light Up My Life (1977) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Last Dance'?",
+    "A": "Thank God It's Friday",
+    "B": "You Light Up My Life",
+    "C": "A Star Is Born",
+    "D": "The Towering Inferno",
+    "answer": "A",
+    "funFact": "Last Dance by Donna Summer was featured in Thank God It's Friday (1978) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'It Goes Like It Goes'?",
+    "A": "Norma Rae",
+    "B": "Thank God It's Friday",
+    "C": "You Light Up My Life",
+    "D": "A Star Is Born",
+    "answer": "A",
+    "funFact": "It Goes Like It Goes by Jennifer Warnes was featured in Norma Rae (1979) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Fame'?",
+    "A": "Fame",
+    "B": "Norma Rae",
+    "C": "Thank God It's Friday",
+    "D": "You Light Up My Life",
+    "answer": "A",
+    "funFact": "Fame by Irene Cara was featured in Fame (1980) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Arthur's Theme (Best That You Can Do)'?",
+    "A": "Arthur",
+    "B": "Fame",
+    "C": "Norma Rae",
+    "D": "Thank God It's Friday",
+    "answer": "A",
+    "funFact": "Arthur's Theme (Best That You Can Do) by Christopher Cross was featured in Arthur (1981) and won an Academy Award for Best Original Song."
+  },
+  {
+    "question": "Which movie soundtrack features the song 'Up Where We Belong'?",
+    "A": "An Officer and a Gentleman",
+    "B": "Arthur",
+    "C": "Fame",
+    "D": "Norma Rae",
+    "answer": "A",
+    "funFact": "Up Where We Belong by Joe Cocker and Jennifer Warnes was featured in An Officer and a Gentleman (1982) and won an Academy Award for Best Original Song."
+  }
+]
+
+

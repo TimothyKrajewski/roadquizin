@@ -1,0 +1,362 @@
+[
+    {
+        "question": "Which film won the Academy Award for Best Picture in 2020?",
+        "A": "1917",
+        "B": "Parasite",
+        "C": "Joker",
+        "D": "Once Upon a Time in Hollywood",
+        "answer": "B",
+        "funFact": "Parasite (2019) was the first non-English language film to win the Academy Award for Best Picture."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actor in 1994 for 'Forrest Gump'?",
+        "A": "Tom Hanks",
+        "B": "Morgan Freeman",
+        "C": "John Travolta",
+        "D": "Brad Pitt",
+        "answer": "A",
+        "funFact": "Tom Hanks won consecutive Best Actor Oscars in 1993 and 1994, for Philadelphia and Forrest Gump respectively."
+    },
+    {
+        "question": "Which film won the most Academy Awards without winning Best Picture?",
+        "A": "Cabaret",
+        "B": "The Color Purple",
+        "C": "The Turning Point",
+        "D": "All three tied with 0 wins",
+        "answer": "A",
+        "funFact": "Cabaret (1972) won 8 Academy Awards but lost Best Picture to The Godfather, making it the film with the most Oscars without winning Best Picture."
+    },
+    {
+        "question": "Who is the youngest person to win an Academy Award?",
+        "A": "Tatum O'Neal",
+        "B": "Anna Paquin",
+        "C": "Quvenzhané Wallis",
+        "D": "Haley Joel Osment",
+        "answer": "A",
+        "funFact": "Tatum O'Neal won Best Supporting Actress at age 10 for Paper Moon (1973), making her the youngest competitive Oscar winner."
+    },
+    {
+        "question": "Which film won Best Picture, Best Director, Best Actor, Best Actress, and Best Screenplay in the same year?",
+        "A": "It Happened One Night",
+        "B": "One Flew Over the Cuckoo's Nest",
+        "C": "The Silence of the Lambs",
+        "D": "A combination of unrelated events",
+        "answer": "D",
+        "funFact": "Only three films have won the 'Big Five' Oscars: It Happened One Night (1934), One Flew Over the Cuckoo's Nest (1975), and The Silence of the Lambs (1991)."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actress in 2012 for 'The Iron Lady'?",
+        "A": "Meryl Streep",
+        "B": "Viola Davis",
+        "C": "Glenn Close",
+        "D": "Michelle Williams",
+        "answer": "A",
+        "funFact": "Meryl Streep won her third Academy Award for The Iron Lady, having previously won for Kramer vs. Kramer and Sophie's Choice."
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1997?",
+        "A": "Fargo",
+        "B": "The English Patient",
+        "C": "Jerry Maguire",
+        "D": "Secrets & Lies",
+        "answer": "B",
+        "funFact": "The English Patient (1996) won 9 Academy Awards including Best Picture, Best Director, and Best Supporting Actress."
+    },
+    {
+        "question": "Who won the Academy Award for Best Director in 2010 for 'The Hurt Locker'?",
+        "A": "Kathryn Bigelow",
+        "B": "James Cameron",
+        "C": "Quentin Tarantino",
+        "D": "Jason Reitman",
+        "answer": "A",
+        "funFact": "Kathryn Bigelow became the first woman to win the Academy Award for Best Director for The Hurt Locker (2008)."
+    },
+    {
+        "question": "Which actor has won the most Academy Awards?",
+        "A": "Jack Nicholson",
+        "B": "Daniel Day-Lewis",
+        "C": "Walter Brennan",
+        "D": "All three tied",
+        "answer": "C",
+        "funFact": "Walter Brennan won three Academy Awards for Best Supporting Actor, the most for any male actor in a single category."
+    },
+    {
+        "question": "What was the first animated film to be nominated for Best Picture?",
+        "A": "Beauty and the Beast",
+        "B": "Up",
+        "C": "Toy Story 3",
+        "D": "WALL-E",
+        "answer": "A",
+        "funFact": "Beauty and the Beast (1991) was the first animated film to be nominated for the Academy Award for Best Picture."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actor in 2008 for 'There Will Be Blood'?",
+        "A": "Daniel Day-Lewis",
+        "B": "George Clooney",
+        "C": "Johnny Depp",
+        "D": "Viggo Mortensen",
+        "answer": "A",
+        "funFact": "Daniel Day-Lewis won his second Best Actor Oscar for There Will Be Blood, having previously won for My Left Foot."
+    },
+    {
+        "question": "Which film won Best Picture in 2004?",
+        "A": "Mystic River",
+        "B": "The Lord of the Rings: The Return of the King",
+        "C": "Lost in Translation",
+        "D": "Master and Commander",
+        "answer": "B",
+        "funFact": "The Lord of the Rings: The Return of the King (2003) won 11 Academy Awards, tying the record for most wins with Ben-Hur and Titanic."
+    },
+    {
+        "question": "Who is the oldest person to win an Academy Award?",
+        "A": "Christopher Plummer",
+        "B": "Jessica Tandy",
+        "C": "John Gielgud",
+        "D": "Gloria Stuart",
+        "answer": "A",
+        "funFact": "Christopher Plummer won Best Supporting Actor at age 82 for Beginners (2010), making him the oldest competitive Oscar winner."
+    },
+    {
+        "question": "Which film won Best Picture in 2016?",
+        "A": "La La Land",
+        "B": "Moonlight",
+        "C": "Arrival",
+        "D": "Manchester by the Sea",
+        "answer": "B",
+        "funFact": "Moonlight (2016) won Best Picture after a famous mix-up where La La Land was initially announced as the winner."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actress in 2001 for 'Monster's Ball'?",
+        "A": "Halle Berry",
+        "B": "Nicole Kidman",
+        "C": "Sissy Spacek",
+        "D": "Judi Dench",
+        "answer": "A",
+        "funFact": "Halle Berry became the first African American woman to win the Academy Award for Best Actress for Monster's Ball (2001)."
+    },
+    {
+        "question": "Which film won the most Academy Awards in a single year?",
+        "A": "Ben-Hur",
+        "B": "Titanic",
+        "C": "The Lord of the Rings: The Return of the King",
+        "D": "All three tied",
+        "answer": "D",
+        "funFact": "Ben-Hur (1959), Titanic (1997), and The Lord of the Rings: The Return of the King (2003) each won 11 Academy Awards."
+    },
+    {
+        "question": "Who won the Academy Award for Best Director in 2021 for 'Nomadland'?",
+        "A": "Chloé Zhao",
+        "B": "David Fincher",
+        "C": "Lee Isaac Chung",
+        "D": "Emerald Fennell",
+        "answer": "A",
+        "funFact": "Chloé Zhao became the first woman of color and second woman overall to win the Academy Award for Best Director for Nomadland (2020)."
+    },
+    {
+        "question": "Which film won Best Picture in 1991?",
+        "A": "Dances with Wolves",
+        "B": "The Silence of the Lambs",
+        "C": "Goodfellas",
+        "D": "Awakenings",
+        "answer": "A",
+        "funFact": "Dances with Wolves (1990) won 7 Academy Awards including Best Picture and Best Director for Kevin Costner."
+    },
+    {
+        "question": "Who won the Academy Award for Best Supporting Actor in 2014 for 'Dallas Buyers Club'?",
+        "A": "Jared Leto",
+        "B": "Barkhad Abdi",
+        "C": "Bradley Cooper",
+        "D": "Michael Fassbender",
+        "answer": "A",
+        "funFact": "Jared Leto won Best Supporting Actor for his role as Rayon in Dallas Buyers Club (2013)."
+    },
+    {
+        "question": "Which film won Best Picture in 2014?",
+        "A": "12 Years a Slave",
+        "B": "Gravity",
+        "C": "American Hustle",
+        "D": "The Wolf of Wall Street",
+        "answer": "A",
+        "funFact": "12 Years a Slave (2013) was the first film directed by a black filmmaker to win the Academy Award for Best Picture."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actress in 2019 for 'Judy'?",
+        "A": "Renée Zellweger",
+        "B": "Scarlett Johansson",
+        "C": "Saoirse Ronan",
+        "D": "Charlize Theron",
+        "answer": "A",
+        "funFact": "Renée Zellweger won Best Actress for her portrayal of Judy Garland in Judy (2019)."
+    },
+    {
+        "question": "Which film won Best Picture in 2000?",
+        "A": "American Beauty",
+        "B": "The Cider House Rules",
+        "C": "The Green Mile",
+        "D": "The Sixth Sense",
+        "answer": "A",
+        "funFact": "American Beauty (1999) won 5 Academy Awards including Best Picture, Best Director, and Best Actor for Kevin Spacey."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actor in 2013 for 'Dallas Buyers Club'?",
+        "A": "Matthew McConaughey",
+        "B": "Leonardo DiCaprio",
+        "C": "Chiwetel Ejiofor",
+        "D": "Christian Bale",
+        "answer": "A",
+        "funFact": "Matthew McConaughey won Best Actor for his role as Ron Woodroof in Dallas Buyers Club (2013)."
+    },
+    {
+        "question": "Which film won Best Picture in 2018?",
+        "A": "The Shape of Water",
+        "B": "Three Billboards Outside Ebbing, Missouri",
+        "C": "Get Out",
+        "D": "Dunkirk",
+        "answer": "A",
+        "funFact": "The Shape of Water (2017) won 4 Academy Awards including Best Picture and Best Director for Guillermo del Toro."
+    },
+    {
+        "question": "Who won the Academy Award for Best Supporting Actress in 2017 for 'Fences'?",
+        "A": "Viola Davis",
+        "B": "Naomie Harris",
+        "C": "Nicole Kidman",
+        "D": "Octavia Spencer",
+        "answer": "A",
+        "funFact": "Viola Davis won Best Supporting Actress for Fences (2016), making her the first African American to achieve the Triple Crown of Acting (Oscar, Emmy, Tony)."
+    },
+    {
+        "question": "Which film won Best Picture in 2012?",
+        "A": "The Artist",
+        "B": "Hugo",
+        "C": "The Descendants",
+        "D": "Moneyball",
+        "answer": "A",
+        "funFact": "The Artist (2011) was the first silent film to win Best Picture since Wings in 1927."
+    },
+    {
+        "question": "Who won the Academy Award for Best Director in 2019 for 'Parasite'?",
+        "A": "Bong Joon-ho",
+        "B": "Sam Mendes",
+        "C": "Todd Phillips",
+        "D": "Martin Scorsese",
+        "answer": "A",
+        "funFact": "Bong Joon-ho became the first South Korean director to win the Academy Award for Best Director for Parasite (2019)."
+    },
+    {
+        "question": "Which film won Best Picture in 2006?",
+        "A": "Crash",
+        "B": "Brokeback Mountain",
+        "C": "Capote",
+        "D": "Good Night, and Good Luck",
+        "answer": "A",
+        "funFact": "Crash (2004) won Best Picture in one of the most controversial Oscar decisions, beating the heavily favored Brokeback Mountain."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actor in 2020 for 'Joker'?",
+        "A": "Joaquin Phoenix",
+        "B": "Adam Driver",
+        "C": "Jonathan Pryce",
+        "D": "Leonardo DiCaprio",
+        "answer": "A",
+        "funFact": "Joaquin Phoenix won Best Actor for Joker (2019), becoming the second actor to win an Oscar for playing the Joker character."
+    },
+    {
+        "question": "Which film won Best Picture in 2015?",
+        "A": "Birdman",
+        "B": "Boyhood",
+        "C": "The Grand Budapest Hotel",
+        "D": "The Imitation Game",
+        "answer": "A",
+        "funFact": "Birdman (2014) won 4 Academy Awards including Best Picture and Best Director for Alejandro González Iñárritu."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actress in 2015 for 'Still Alice'?",
+        "A": "Julianne Moore",
+        "B": "Marion Cotillard",
+        "C": "Felicity Jones",
+        "D": "Rosamund Pike",
+        "answer": "A",
+        "funFact": "Julianne Moore won Best Actress for Still Alice (2014) after being nominated five times previously without winning."
+    },
+    {
+        "question": "Which film won Best Picture in 2011?",
+        "A": "The King's Speech",
+        "B": "The Social Network",
+        "C": "True Grit",
+        "D": "Inception",
+        "answer": "A",
+        "funFact": "The King's Speech (2010) won 4 Academy Awards including Best Picture, Best Director, and Best Actor for Colin Firth."
+    },
+    {
+        "question": "Who won the Academy Award for Best Supporting Actor in 2019 for 'Green Book'?",
+        "A": "Mahershala Ali",
+        "B": "Richard E. Grant",
+        "C": "Sam Elliott",
+        "D": "Adam Driver",
+        "answer": "A",
+        "funFact": "Mahershala Ali won his second Best Supporting Actor Oscar for Green Book (2018), having previously won for Moonlight."
+    },
+    {
+        "question": "Which film won Best Picture in 2017?",
+        "A": "The Shape of Water",
+        "B": "Three Billboards Outside Ebbing, Missouri",
+        "C": "Get Out",
+        "D": "Call Me by Your Name",
+        "answer": "A",
+        "funFact": "The Shape of Water (2017) won Best Picture, making Guillermo del Toro the third Mexican director to win Best Picture in five years."
+    },
+    {
+        "question": "Who won the Academy Award for Best Director in 2018 for 'The Shape of Water'?",
+        "A": "Guillermo del Toro",
+        "B": "Christopher Nolan",
+        "C": "Greta Gerwig",
+        "D": "Jordan Peele",
+        "answer": "A",
+        "funFact": "Guillermo del Toro won Best Director for The Shape of Water (2017), becoming the third Mexican director to win in five years."
+    },
+    {
+        "question": "Which film won Best Picture in 2013?",
+        "A": "Argo",
+        "B": "Life of Pi",
+        "C": "Lincoln",
+        "D": "Silver Linings Playbook",
+        "answer": "A",
+        "funFact": "Argo (2012) won 3 Academy Awards including Best Picture, making Ben Affleck the first person to win Best Picture without a Best Director nomination since Driving Miss Daisy."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actress in 2018 for 'The Favourite'?",
+        "A": "Olivia Colman",
+        "B": "Glenn Close",
+        "C": "Lady Gaga",
+        "D": "Melissa McCarthy",
+        "answer": "A",
+        "funFact": "Olivia Colman won Best Actress for The Favourite (2018), beating the heavily favored Glenn Close who was nominated for her seventh Oscar."
+    },
+    {
+        "question": "Which film won Best Picture in 2019?",
+        "A": "Green Book",
+        "B": "Roma",
+        "C": "Black Panther",
+        "D": "BlacKkKlansman",
+        "answer": "A",
+        "funFact": "Green Book (2018) won Best Picture, Best Supporting Actor, and Best Original Screenplay at the 91st Academy Awards."
+    },
+    {
+        "question": "Who won the Academy Award for Best Actor in 2017 for 'Darkest Hour'?",
+        "A": "Gary Oldman",
+        "B": "Daniel Day-Lewis",
+        "C": "Timothée Chalamet",
+        "D": "Daniel Kaluuya",
+        "answer": "A",
+        "funFact": "Gary Oldman won Best Actor for his portrayal of Winston Churchill in Darkest Hour (2017) after being nominated once before."
+    },
+    {
+        "question": "Which film won Best Picture in 2021?",
+        "A": "Nomadland",
+        "B": "The Trial of the Chicago 7",
+        "C": "Mank",
+        "D": "The Father",
+        "answer": "A",
+        "funFact": "Nomadland (2020) won 3 Academy Awards including Best Picture and Best Director for Chloé Zhao, making it the first film directed by a woman of color to win Best Picture."
+    }
+]

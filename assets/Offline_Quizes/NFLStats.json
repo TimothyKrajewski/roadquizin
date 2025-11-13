@@ -3,7 +3,7 @@
         "question": "What is a touchdown?",
         "A": "6 points",
         "B": "Ball crosses goal line",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "3 points",
         "answer": "A",
         "funFact": "A touchdown is worth 6 points and occurs when the ball crosses the opponent's goal line or is caught in the end zone."
@@ -12,7 +12,7 @@
         "question": "What is a field goal?",
         "A": "3 points",
         "B": "Kicked through goalposts",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "2 points",
         "answer": "A",
         "funFact": "A field goal is worth 3 points and is scored by kicking the ball through the opponent's goalposts. It can be attempted on any down."
@@ -21,7 +21,7 @@
         "question": "What is a passing yard?",
         "A": "Yard gained through pass",
         "B": "Quarterback to receiver",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Running only",
         "answer": "A",
         "funFact": "A passing yard is a yard gained through a pass from the quarterback to a receiver. It's a key offensive statistic."
@@ -30,7 +30,7 @@
         "question": "What is a rushing yard?",
         "A": "Yard gained by running",
         "B": "Running back or quarterback",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Passing only",
         "answer": "A",
         "funFact": "A rushing yard is a yard gained by running with the ball, typically by a running back or quarterback."
@@ -39,7 +39,7 @@
         "question": "What is a reception?",
         "A": "Catching a pass",
         "B": "Wide receiver or tight end",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Running only",
         "answer": "A",
         "funFact": "A reception is catching a pass, typically by a wide receiver or tight end. It's a key statistic for receivers."
@@ -48,7 +48,7 @@
         "question": "What is a sack?",
         "A": "Tackling quarterback behind line",
         "B": "Defensive statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Offensive statistic",
         "answer": "A",
         "funFact": "A sack is tackling the quarterback behind the line of scrimmage. It's a key defensive statistic."
@@ -57,7 +57,7 @@
         "question": "What is an interception?",
         "A": "Defense catches pass",
         "B": "Results in possession change",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Offensive play",
         "answer": "A",
         "funFact": "An interception occurs when the defense catches a pass intended for an offensive player. It results in a change of possession."
@@ -66,7 +66,7 @@
         "question": "What is a fumble?",
         "A": "Ball is dropped",
         "B": "Can be recovered by either team",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Always offense keeps",
         "answer": "A",
         "funFact": "A fumble occurs when a player drops the ball. Either team can recover it, and the recovering team gains possession."
@@ -75,7 +75,7 @@
         "question": "What is a completion percentage?",
         "A": "Percentage of passes completed",
         "B": "Quarterback statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Running statistic",
         "answer": "A",
         "funFact": "Completion percentage is the percentage of passes that are completed. It's a key quarterback statistic."
@@ -84,7 +84,7 @@
         "question": "What is a passer rating?",
         "A": "Quarterback efficiency rating",
         "B": "Based on completions, yards, touchdowns, interceptions",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Running statistic",
         "answer": "A",
         "funFact": "Passer rating is a quarterback efficiency rating based on completions, yards, touchdowns, and interceptions. Maximum is 158.3."
@@ -93,7 +93,7 @@
         "question": "What is a touchdown-to-interception ratio?",
         "A": "TDs divided by INTs",
         "B": "Quarterback statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Running statistic",
         "answer": "A",
         "funFact": "Touchdown-to-interception ratio is touchdowns divided by interceptions. A higher ratio indicates better quarterback play."
@@ -102,7 +102,7 @@
         "question": "What is yards per carry?",
         "A": "Average yards per rush",
         "B": "Running back statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Passing statistic",
         "answer": "A",
         "funFact": "Yards per carry is the average yards gained per rushing attempt. It's a key running back statistic."
@@ -111,7 +111,7 @@
         "question": "What is yards per reception?",
         "A": "Average yards per catch",
         "B": "Receiver statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Running statistic",
         "answer": "A",
         "funFact": "Yards per reception is the average yards gained per catch. It's a key receiver statistic."
@@ -120,7 +120,7 @@
         "question": "What is a tackle?",
         "A": "Bringing down ball carrier",
         "B": "Defensive statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Offensive statistic",
         "answer": "A",
         "funFact": "A tackle is bringing down the ball carrier. It's a key defensive statistic, with solo and assisted tackles."
@@ -129,7 +129,7 @@
         "question": "What is a forced fumble?",
         "A": "Causing opponent to fumble",
         "B": "Defensive statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Offensive statistic",
         "answer": "A",
         "funFact": "A forced fumble is causing an opponent to fumble the ball. It's a defensive statistic that can change games."
@@ -138,7 +138,7 @@
         "question": "What is a fumble recovery?",
         "A": "Recovering a fumble",
         "B": "Either team can recover",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Only defense",
         "answer": "A",
         "funFact": "A fumble recovery is recovering a fumbled ball. Either team can recover it, and the recovering team gains possession."
@@ -147,7 +147,7 @@
         "question": "What is a safety?",
         "A": "2 points",
         "B": "Tackling offense in own end zone",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "1 point",
         "answer": "A",
         "funFact": "A safety is worth 2 points and occurs when the offense is tackled in their own end zone or commits a penalty in the end zone."
@@ -156,7 +156,7 @@
         "question": "What is time of possession?",
         "A": "How long team has ball",
         "B": "Important statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Unimportant",
         "answer": "A",
         "funFact": "Time of possession is how long a team has the ball. Controlling the ball longer often leads to more scoring opportunities."
@@ -165,7 +165,7 @@
         "question": "What is third-down conversion?",
         "A": "Converting third down to first down",
         "B": "Key offensive statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Unimportant",
         "answer": "A",
         "funFact": "Third-down conversion is converting a third down into a first down. It's a key offensive statistic that keeps drives alive."
@@ -174,7 +174,7 @@
         "question": "What is red zone efficiency?",
         "A": "Scoring inside 20-yard line",
         "B": "Key offensive statistic",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Unimportant",
         "answer": "A",
         "funFact": "Red zone efficiency is scoring when inside the opponent's 20-yard line. It's crucial for offensive success."

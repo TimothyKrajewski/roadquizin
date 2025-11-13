@@ -211,7 +211,7 @@
         "A": "Ronald Reagan",
         "B": "George H.W. Bush",
         "C": "Bill Clinton",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Both Ronald Reagan and George H.W. Bush are credited with ending the Cold War. Reagan's policies pressured the Soviet Union, and Bush was President when it collapsed."
     },
@@ -238,7 +238,7 @@
         "A": "Bill Clinton",
         "B": "George W. Bush",
         "C": "Barack Obama",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The 'War on Terror' began under George W. Bush after 9/11 and continued through Barack Obama's presidency, involving conflicts in Afghanistan, Iraq, and other regions."
     }

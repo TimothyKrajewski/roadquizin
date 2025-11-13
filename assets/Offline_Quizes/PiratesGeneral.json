@@ -27,10 +27,10 @@
         "funFact": "A Jolly Roger is a pirate flag, typically featuring a skull and crossbones. Different pirates had different designs on their flags to identify themselves."
     },
     {
-        "question": "What was the name of the most famous pirate flag?",
+        "question": "What was the primary characteristic of the name of the most famous pirate flag?",
         "A": "Skull and Crossbones",
         "B": "Jolly Roger",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Black Flag",
         "answer": "A",
         "funFact": "The skull and crossbones flag is also known as the Jolly Roger. It was used by many pirates to strike fear into their victims."
@@ -67,7 +67,7 @@
         "A": "Gold coins",
         "B": "Jewels",
         "C": "Spices and goods",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirate treasure could include gold coins, jewels, spices, silk, sugar, and other valuable goods. The romantic image of buried treasure chests is largely fictional."
     },
@@ -103,7 +103,7 @@
         "A": "Sword",
         "B": "Pistol",
         "C": "Cannon",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirates used various weapons including swords (cutlasses), pistols, cannons, and boarding axes. They often carried multiple weapons for close combat."
     },
@@ -130,7 +130,7 @@
         "A": "Combat",
         "B": "Disease",
         "C": "Execution",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirates died from combat, disease (especially scurvy), and execution. Many were hanged when captured, as piracy was punishable by death."
     },
@@ -148,7 +148,7 @@
         "A": "Equal for all",
         "B": "Based on rank",
         "C": "Based on performance",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "B",
         "funFact": "Treasure was typically divided based on rank, with the captain getting the largest share. The shares were outlined in the pirate's code."
     },
@@ -157,7 +157,7 @@
         "A": "The Caribbean",
         "B": "The Mediterranean",
         "C": "The Indian Ocean",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pirates operated in many areas, but the Caribbean was particularly popular during the Golden Age because of the many trade routes and Spanish treasure ships."
     },
@@ -175,7 +175,7 @@
         "A": "Better naval forces",
         "B": "Improved trade routes",
         "C": "Harsh punishments",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Golden Age of Piracy ended due to improved naval forces, better trade routes, and harsh punishments. Many pirates were captured and executed, discouraging others."
     }

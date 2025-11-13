@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Which artist won the most Grammy Awards of all time?",
+    "A": "Georg Solti",
+    "B": "Beyoncé",
+    "C": "Quincy Jones",
+    "D": "Alison Krauss",
+    "answer": "A",
+    "funFact": "Georg Solti, a Hungarian-British conductor, won 31 Grammy Awards, the most of any artist."
+  },
+  {
+    "question": "Which female artist has won the most Grammy Awards?",
+    "A": "Beyoncé",
+    "B": "Alison Krauss",
+    "C": "Adele",
+    "D": "Taylor Swift",
+    "answer": "A",
+    "funFact": "Beyoncé has won 32 Grammy Awards, making her the most awarded female artist and the most awarded artist overall."
+  },
+  {
+    "question": "Which album won Album of the Year in 2020?",
+    "A": "When We All Fall Asleep, Where Do We Go?",
+    "B": "thank u, next",
+    "C": "7",
+    "D": "Cuz I Love You",
+    "answer": "A",
+    "funFact": "When We All Fall Asleep, Where Do We Go? by Billie Eilish won Album of the Year at the 2020 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2020?",
+    "A": "bad guy",
+    "B": "Old Town Road",
+    "C": "Truth Hurts",
+    "D": "7 rings",
+    "answer": "A",
+    "funFact": "bad guy by Billie Eilish won Record of the Year at the 2020 Grammys."
+  },
+  {
+    "question": "Which artist won Song of the Year in 2020?",
+    "A": "Billie Eilish",
+    "B": "Lizzo",
+    "C": "Ariana Grande",
+    "D": "Taylor Swift",
+    "answer": "A",
+    "funFact": "Billie Eilish won Song of the Year for 'bad guy' at the 2020 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2019?",
+    "A": "Golden Hour",
+    "B": "Invasion of Privacy",
+    "C": "Dirty Computer",
+    "D": "By the Way, I Forgive You",
+    "answer": "A",
+    "funFact": "Golden Hour by Kacey Musgraves won Album of the Year at the 2019 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2019?",
+    "A": "This Is America",
+    "B": "God's Plan",
+    "C": "Shallow",
+    "D": "All the Stars",
+    "answer": "A",
+    "funFact": "This Is America by Childish Gambino won Record of the Year at the 2019 Grammys."
+  },
+  {
+    "question": "Which artist won Best New Artist in 2020?",
+    "A": "Billie Eilish",
+    "B": "Lizzo",
+    "C": "Maggie Rogers",
+    "D": "Rosalía",
+    "answer": "A",
+    "funFact": "Billie Eilish won Best New Artist at the 2020 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2018?",
+    "A": "24K Magic",
+    "B": "Awaken, My Love!",
+    "C": "4:44",
+    "D": "DAMN.",
+    "answer": "A",
+    "funFact": "24K Magic by Bruno Mars won Album of the Year at the 2018 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2018?",
+    "A": "24K Magic",
+    "B": "Despacito",
+    "C": "The Story of O.J.",
+    "D": "Humble.",
+    "answer": "A",
+    "funFact": "24K Magic by Bruno Mars won Record of the Year at the 2018 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2017?",
+    "A": "25",
+    "B": "Lemonade",
+    "C": "Purpose",
+    "D": "A Sailor's Guide to Earth",
+    "answer": "A",
+    "funFact": "25 by Adele won Album of the Year at the 2017 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2017?",
+    "A": "Hello",
+    "B": "Formation",
+    "C": "7 Years",
+    "D": "Work",
+    "answer": "A",
+    "funFact": "Hello by Adele won Record of the Year at the 2017 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2016?",
+    "A": "1989",
+    "B": "To Pimp a Butterfly",
+    "C": "Traveller",
+    "D": "Sound & Color",
+    "answer": "A",
+    "funFact": "1989 by Taylor Swift won Album of the Year at the 2016 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2016?",
+    "A": "Uptown Funk",
+    "B": "Thinking Out Loud",
+    "C": "Blank Space",
+    "D": "See You Again",
+    "answer": "A",
+    "funFact": "Uptown Funk by Mark Ronson featuring Bruno Mars won Record of the Year at the 2016 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2015?",
+    "A": "Morning Phase",
+    "B": "Beyoncé",
+    "C": "x",
+    "D": "In the Lonely Hour",
+    "answer": "A",
+    "funFact": "Morning Phase by Beck won Album of the Year at the 2015 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2015?",
+    "A": "Stay with Me",
+    "B": "Shake It Off",
+    "C": "All About That Bass",
+    "D": "Fancy",
+    "answer": "A",
+    "funFact": "Stay with Me by Sam Smith won Record of the Year at the 2015 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2014?",
+    "A": "Random Access Memories",
+    "B": "The Blessed Unrest",
+    "C": "Good Kid, M.A.A.D City",
+    "D": "The Heist",
+    "answer": "A",
+    "funFact": "Random Access Memories by Daft Punk won Album of the Year at the 2014 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2014?",
+    "A": "Get Lucky",
+    "B": "Radioactive",
+    "C": "Royals",
+    "D": "Locked Out of Heaven",
+    "answer": "A",
+    "funFact": "Get Lucky by Daft Punk featuring Pharrell Williams won Record of the Year at the 2014 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2013?",
+    "A": "Babel",
+    "B": "Channel Orange",
+    "C": "El Camino",
+    "D": "Some Nights",
+    "answer": "A",
+    "funFact": "Babel by Mumford & Sons won Album of the Year at the 2013 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2013?",
+    "A": "Somebody That I Used to Know",
+    "B": "We Are Young",
+    "C": "Call Me Maybe",
+    "D": "Stronger (What Doesn't Kill You)",
+    "answer": "A",
+    "funFact": "Somebody That I Used to Know by Gotye featuring Kimbra won Record of the Year at the 2013 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2012?",
+    "A": "21",
+    "B": "Wasting Light",
+    "C": "Born This Way",
+    "D": "Doo-Wops & Hooligans",
+    "answer": "A",
+    "funFact": "21 by Adele won Album of the Year at the 2012 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2012?",
+    "A": "Rolling in the Deep",
+    "B": "Grenade",
+    "C": "Firework",
+    "D": "The Cave",
+    "answer": "A",
+    "funFact": "Rolling in the Deep by Adele won Record of the Year at the 2012 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2011?",
+    "A": "The Suburbs",
+    "B": "Recovery",
+    "C": "Need You Now",
+    "D": "Teenage Dream",
+    "answer": "A",
+    "funFact": "The Suburbs by Arcade Fire won Album of the Year at the 2011 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2011?",
+    "A": "Need You Now",
+    "B": "Love the Way You Lie",
+    "C": "Empire State of Mind",
+    "D": "Nothin' on You",
+    "answer": "A",
+    "funFact": "Need You Now by Lady Antebellum won Record of the Year at the 2011 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2010?",
+    "A": "Fearless",
+    "B": "The E.N.D.",
+    "C": "The Fame",
+    "D": "I Am... Sasha Fierce",
+    "answer": "A",
+    "funFact": "Fearless by Taylor Swift won Album of the Year at the 2010 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2010?",
+    "A": "Use Somebody",
+    "B": "Poker Face",
+    "C": "You Belong with Me",
+    "D": "Single Ladies (Put a Ring on It)",
+    "answer": "A",
+    "funFact": "Use Somebody by Kings of Leon won Record of the Year at the 2010 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2009?",
+    "A": "Raising Sand",
+    "B": "Viva la Vida or Death and All His Friends",
+    "C": "Tha Carter III",
+    "D": "Year of the Gentleman",
+    "answer": "A",
+    "funFact": "Raising Sand by Robert Plant and Alison Krauss won Album of the Year at the 2009 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2009?",
+    "A": "Please Read the Letter",
+    "B": "Viva la Vida",
+    "C": "American Boy",
+    "D": "Chasing Pavements",
+    "answer": "A",
+    "funFact": "Please Read the Letter by Robert Plant and Alison Krauss won Record of the Year at the 2009 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2008?",
+    "A": "River: The Joni Letters",
+    "B": "Echoes, Silence, Patience & Grace",
+    "C": "Graduation",
+    "D": "These Days",
+    "answer": "A",
+    "funFact": "River: The Joni Letters by Herbie Hancock won Album of the Year at the 2008 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2008?",
+    "A": "Rehab",
+    "B": "Irreplaceable",
+    "C": "The Pretender",
+    "D": "Umbrella",
+    "answer": "A",
+    "funFact": "Rehab by Amy Winehouse won Record of the Year at the 2008 Grammys."
+  },
+  {
+    "question": "Which album won Album of the Year in 2007?",
+    "A": "Taking the Long Way",
+    "B": "St. Elsewhere",
+    "C": "Continuum",
+    "D": "Stadium Arcadium",
+    "answer": "A",
+    "funFact": "Taking the Long Way by Dixie Chicks won Album of the Year at the 2007 Grammys."
+  },
+  {
+    "question": "Which song won Record of the Year in 2007?",
+    "A": "Not Ready to Make Nice",
+    "B": "Crazy",
+    "C": "Waiting on the World to Change",
+    "D": "Be Without You",
+    "answer": "A",
+    "funFact": "Not Ready to Make Nice by Dixie Chicks won Record of the Year at the 2007 Grammys."
+  }
+]
+
+

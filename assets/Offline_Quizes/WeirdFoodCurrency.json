@@ -4,7 +4,7 @@
         "A": "Salt",
         "B": "Sugar",
         "C": "Spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Salt, sugar, and spices were all so valuable in ancient times that they were used as currency. The word 'salary' comes from the Latin word for salt."
     },
@@ -22,7 +22,7 @@
         "A": "Tea",
         "B": "Rice",
         "C": "Salt",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Tea, rice, and salt were all used as forms of currency in ancient China. They were valuable commodities that could be traded for other goods."
     },
@@ -31,7 +31,7 @@
         "A": "Wheat",
         "B": "Barley",
         "C": "Beer",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Wheat, barley, and beer were all used as forms of currency in ancient Egypt. Workers were often paid in bread and beer, which were staples of the Egyptian diet."
     },
@@ -40,7 +40,7 @@
         "A": "Rice",
         "B": "Spices",
         "C": "Salt",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Rice, spices, and salt were all used as forms of currency in ancient India. They were valuable commodities that could be traded for other goods."
     },
@@ -49,7 +49,7 @@
         "A": "Barley",
         "B": "Wheat",
         "C": "Dates",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Barley, wheat, and dates were all used as forms of currency in ancient Mesopotamia. They were valuable commodities that could be traded for other goods."
     },
@@ -58,7 +58,7 @@
         "A": "Olive oil",
         "B": "Wine",
         "C": "Wheat",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Olive oil, wine, and wheat were all used as forms of currency in ancient Greece. They were valuable commodities that could be traded for other goods."
     },
@@ -67,7 +67,7 @@
         "A": "Wheat",
         "B": "Barley",
         "C": "Dates",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Wheat, barley, and dates were all used as forms of currency in ancient Persia. They were valuable commodities that could be traded for other goods."
     },
@@ -76,7 +76,7 @@
         "A": "Rice",
         "B": "Tea",
         "C": "Salt",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Rice, tea, and salt were all used as forms of currency in ancient Japan. They were valuable commodities that could be traded for other goods."
     },
@@ -85,7 +85,7 @@
         "A": "Salt",
         "B": "Gold",
         "C": "Spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Salt, gold, and spices were all used as forms of currency in ancient Africa. They were valuable commodities that could be traded for other goods."
     },
@@ -94,7 +94,7 @@
         "A": "Cacao beans",
         "B": "Corn",
         "C": "Quinoa",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cacao beans, corn, and quinoa were all used as forms of currency in ancient Americas. Cacao beans were especially valuable and were used as money by the Aztecs and Mayans."
     },
@@ -103,7 +103,7 @@
         "A": "Coconuts",
         "B": "Yams",
         "C": "Taro",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Coconuts, yams, and taro were all used as forms of currency in ancient Oceania. They were valuable commodities that could be traded for other goods."
     },
@@ -112,7 +112,7 @@
         "A": "Butter",
         "B": "Cheese",
         "C": "Fish",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Butter, cheese, and fish were all used as forms of currency in ancient Scandinavia. They were valuable commodities that could be traded for other goods."
     },
@@ -121,7 +121,7 @@
         "A": "Cattle",
         "B": "Grain",
         "C": "Honey",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cattle, grain, and honey were all used as forms of currency in ancient Celtic cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -130,7 +130,7 @@
         "A": "Honey",
         "B": "Wax",
         "C": "Furs",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, wax, and furs were all used as forms of currency in ancient Slavic cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -139,7 +139,7 @@
         "A": "Wampum",
         "B": "Corn",
         "C": "Tobacco",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Wampum (shell beads), corn, and tobacco were all used as forms of currency in ancient Native American cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -148,7 +148,7 @@
         "A": "Shells",
         "B": "Ochre",
         "C": "Tools",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Shells, ochre (colored clay), and tools were all used as forms of currency in ancient Australian Aboriginal cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -157,7 +157,7 @@
         "A": "Dates",
         "B": "Camels",
         "C": "Spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Dates, camels, and spices were all used as forms of currency in ancient Arabian cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -166,7 +166,7 @@
         "A": "Horses",
         "B": "Sheep",
         "C": "Grain",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Horses, sheep, and grain were all used as forms of currency in ancient Turkish cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -175,7 +175,7 @@
         "A": "Horses",
         "B": "Sheep",
         "C": "Cattle",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Horses, sheep, and cattle were all used as forms of currency in ancient Mongolian cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -184,7 +184,7 @@
         "A": "Coca leaves",
         "B": "Corn",
         "C": "Quinoa",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Coca leaves, corn, and quinoa were all used as forms of currency in ancient Inca cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -193,7 +193,7 @@
         "A": "Cacao beans",
         "B": "Corn",
         "C": "Quinoa",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cacao beans, corn, and quinoa were all used as forms of currency in ancient Aztec cultures. Cacao beans were especially valuable and were used as money."
     },
@@ -202,7 +202,7 @@
         "A": "Cacao beans",
         "B": "Corn",
         "C": "Jade",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cacao beans, corn, and jade were all used as forms of currency in ancient Mayan cultures. Cacao beans were especially valuable and were used as money."
     },
@@ -211,7 +211,7 @@
         "A": "Silver",
         "B": "Furs",
         "C": "Amber",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Silver, furs, and amber were all used as forms of currency in ancient Viking cultures. They were valuable commodities that could be traded for other goods."
     },
@@ -220,7 +220,7 @@
         "A": "Shells",
         "B": "Feathers",
         "C": "Stones",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Shells, feathers, and stones were all used as forms of currency in ancient Polynesian cultures. They were valuable commodities that could be traded for other goods."
     }

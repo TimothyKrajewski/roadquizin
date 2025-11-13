@@ -1,182 +1,281 @@
 [
-    {
-        "question": "How often are the Summer Olympics held?",
-        "A": "Every 2 years",
-        "B": "Every 4 years",
-        "C": "Every 6 years",
-        "D": "Every 8 years",
-        "answer": "B",
-        "funFact": "The Summer Olympics are held every 4 years, alternating with the Winter Olympics every 2 years."
-    },
-    {
-        "question": "What are the five Olympic rings?",
-        "A": "Five colors",
-        "B": "Representing five continents",
-        "C": "Five sports",
-        "D": "Five countries",
-        "answer": "B",
-        "funFact": "The five Olympic rings represent the five continents: Africa, Americas, Asia, Europe, and Oceania."
-    },
-    {
-        "question": "What is the Olympic motto?",
-        "A": "Faster, Higher, Stronger",
-        "B": "Win at all costs",
-        "C": "Play fair",
-        "D": "Have fun",
-        "answer": "A",
-        "funFact": "The Olympic motto is 'Citius, Altius, Fortius' (Faster, Higher, Stronger) in Latin."
-    },
-    {
-        "question": "What is a gold medal?",
-        "A": "Second place",
-        "B": "First place",
-        "C": "Third place",
-        "D": "Participation",
-        "answer": "B",
-        "funFact": "A gold medal is awarded to the first-place finisher in Olympic events."
-    },
-    {
-        "question": "What is a silver medal?",
-        "A": "First place",
-        "B": "Second place",
-        "C": "Third place",
-        "D": "Participation",
-        "answer": "B",
-        "funFact": "A silver medal is awarded to the second-place finisher in Olympic events."
-    },
-    {
-        "question": "What is a bronze medal?",
-        "A": "First place",
-        "B": "Second place",
-        "C": "Third place",
-        "D": "Participation",
-        "answer": "C",
-        "funFact": "A bronze medal is awarded to the third-place finisher in Olympic events."
-    },
-    {
-        "question": "What is the Olympic torch?",
-        "A": "A regular torch",
-        "B": "A symbol of the Games",
-        "C": "A medal",
-        "D": "A flag",
-        "answer": "B",
-        "funFact": "The Olympic torch is lit in Greece and carried to the host city, symbolizing the continuity of the Games."
-    },
-    {
-        "question": "What is the opening ceremony?",
-        "A": "The end",
-        "B": "The start of the Games",
-        "C": "A competition",
-        "D": "A medal ceremony",
-        "answer": "B",
-        "funFact": "The opening ceremony marks the official start of the Olympic Games with parades, performances, and the lighting of the cauldron."
-    },
-    {
-        "question": "What is the closing ceremony?",
-        "A": "The start",
-        "B": "The end of the Games",
-        "C": "A competition",
-        "D": "A medal ceremony",
-        "answer": "B",
-        "funFact": "The closing ceremony marks the end of the Olympic Games, featuring celebrations and the extinguishing of the flame."
-    },
-    {
-        "question": "What is the host city?",
-        "A": "A participant",
-        "B": "The city hosting the Games",
-        "C": "A country",
-        "D": "A sport",
-        "answer": "B",
-        "funFact": "The host city is selected years in advance and organizes and hosts the Olympic Games."
-    },
-    {
-        "question": "What is a record?",
-        "A": "A slow time",
-        "B": "The best performance",
-        "C": "A disqualification",
-        "D": "A participation",
-        "answer": "B",
-        "funFact": "A record is the best performance ever achieved in a particular event."
-    },
-    {
-        "question": "What is the Paralympics?",
-        "A": "The same as Olympics",
-        "B": "Games for athletes with disabilities",
-        "C": "Youth games",
-        "D": "Winter games",
-        "answer": "B",
-        "funFact": "The Paralympics are international multi-sport events for athletes with disabilities, held after the Olympics."
-    },
-    {
-        "question": "What is the Olympic Village?",
-        "A": "A city",
-        "B": "Housing for athletes",
-        "C": "A stadium",
-        "D": "A country",
-        "answer": "B",
-        "funFact": "The Olympic Village is the accommodation complex where athletes and officials stay during the Games."
-    },
-    {
-        "question": "What is the Olympic flag?",
-        "A": "A country flag",
-        "B": "The flag with five rings",
-        "C": "A team flag",
-        "D": "A sport flag",
-        "answer": "B",
-        "funFact": "The Olympic flag features five interlocking rings on a white background, representing the five continents."
-    },
-    {
-        "question": "What is an Olympic sport?",
-        "A": "Any sport",
-        "B": "A sport included in the Games",
-        "C": "A local sport",
-        "D": "A discontinued sport",
-        "answer": "B",
-        "funFact": "An Olympic sport is a sport that has been approved and included in the Olympic program."
-    },
-    {
-        "question": "What is the IOC?",
-        "A": "International Olympic Committee",
-        "B": "A country",
-        "C": "A sport",
-        "D": "A city",
-        "answer": "A",
-        "funFact": "The IOC (International Olympic Committee) is the organization that oversees the Olympic Games."
-    },
-    {
-        "question": "What is the study of the Olympics called?",
-        "A": "Olympicology",
-        "B": "Olympism",
-        "C": "Sports",
-        "D": "Games",
-        "answer": "B",
-        "funFact": "Olympism refers to the philosophy and ideals of the Olympic movement, promoting peace and understanding."
-    },
-    {
-        "question": "What is a medal ceremony?",
-        "A": "The start",
-        "B": "Awarding medals to winners",
-        "C": "A competition",
-        "D": "The end",
-        "answer": "B",
-        "funFact": "A medal ceremony is when winners receive their medals and their national anthems are played."
-    },
-    {
-        "question": "What is the Olympic flame?",
-        "A": "A regular fire",
-        "B": "A symbol lit at the start",
-        "C": "A medal",
-        "D": "A flag",
-        "answer": "B",
-        "funFact": "The Olympic flame is lit in Olympia, Greece, and burns throughout the Games as a symbol of the Olympic spirit."
-    },
-    {
-        "question": "What is the first modern Olympics?",
-        "A": "1896 in Athens",
-        "B": "1900 in Paris",
-        "C": "1904 in St. Louis",
-        "D": "1920 in Antwerp",
-        "answer": "A",
-        "funFact": "The first modern Olympic Games were held in Athens, Greece, in 1896, reviving the ancient tradition."
-    }
+  {
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "A": "Athens",
+    "B": "Paris",
+    "C": "London",
+    "D": "Rome",
+    "answer": "A",
+    "funFact": "The first modern Olympic Games were held in Athens, Greece, in 1896, reviving the ancient Greek tradition."
+  },
+  {
+    "question": "Which city hosted the 2020 Summer Olympics (held in 2021)?",
+    "A": "Tokyo",
+    "B": "Paris",
+    "C": "London",
+    "D": "Rio de Janeiro",
+    "answer": "A",
+    "funFact": "The 2020 Summer Olympics were held in Tokyo, Japan, in 2021 due to the COVID-19 pandemic."
+  },
+  {
+    "question": "Which city will host the 2024 Summer Olympics?",
+    "A": "Paris",
+    "B": "Los Angeles",
+    "C": "Tokyo",
+    "D": "London",
+    "answer": "A",
+    "funFact": "The 2024 Summer Olympics will be held in Paris, France, marking the third time Paris has hosted the Games."
+  },
+  {
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "A": "Rio de Janeiro",
+    "B": "London",
+    "C": "Beijing",
+    "D": "Sydney",
+    "answer": "A",
+    "funFact": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil, the first time South America hosted the Games."
+  },
+  {
+    "question": "Which city hosted the 2012 Summer Olympics?",
+    "A": "London",
+    "B": "Beijing",
+    "C": "Athens",
+    "D": "Sydney",
+    "answer": "A",
+    "funFact": "The 2012 Summer Olympics were held in London, England, making it the first city to host the Games three times."
+  },
+  {
+    "question": "Which city hosted the 2008 Summer Olympics?",
+    "A": "Beijing",
+    "B": "Athens",
+    "C": "Sydney",
+    "D": "Atlanta",
+    "answer": "A",
+    "funFact": "The 2008 Summer Olympics were held in Beijing, China, and featured the iconic Bird's Nest stadium."
+  },
+  {
+    "question": "Which city hosted the 2004 Summer Olympics?",
+    "A": "Athens",
+    "B": "Sydney",
+    "C": "Atlanta",
+    "D": "Barcelona",
+    "answer": "A",
+    "funFact": "The 2004 Summer Olympics were held in Athens, Greece, returning the Games to their birthplace."
+  },
+  {
+    "question": "Which city hosted the 2000 Summer Olympics?",
+    "A": "Sydney",
+    "B": "Atlanta",
+    "C": "Barcelona",
+    "D": "Seoul",
+    "answer": "A",
+    "funFact": "The 2000 Summer Olympics were held in Sydney, Australia, and were considered one of the best-organized Games."
+  },
+  {
+    "question": "Which city hosted the 1996 Summer Olympics?",
+    "A": "Atlanta",
+    "B": "Barcelona",
+    "C": "Seoul",
+    "D": "Los Angeles",
+    "answer": "A",
+    "funFact": "The 1996 Summer Olympics were held in Atlanta, Georgia, USA, marking the 100th anniversary of the modern Games."
+  },
+  {
+    "question": "Which city hosted the 1992 Summer Olympics?",
+    "A": "Barcelona",
+    "B": "Seoul",
+    "C": "Los Angeles",
+    "D": "Moscow",
+    "answer": "A",
+    "funFact": "The 1992 Summer Olympics were held in Barcelona, Spain, and were the last Games before the breakup of the Soviet Union."
+  },
+  {
+    "question": "Which city hosted the 1988 Summer Olympics?",
+    "A": "Seoul",
+    "B": "Los Angeles",
+    "C": "Moscow",
+    "D": "Montreal",
+    "answer": "A",
+    "funFact": "The 1988 Summer Olympics were held in Seoul, South Korea, and were the last Games of the Cold War era."
+  },
+  {
+    "question": "Which city hosted the 1984 Summer Olympics?",
+    "A": "Los Angeles",
+    "B": "Moscow",
+    "C": "Montreal",
+    "D": "Munich",
+    "answer": "A",
+    "funFact": "The 1984 Summer Olympics were held in Los Angeles, California, USA, and were the first Games to turn a profit."
+  },
+  {
+    "question": "Which city hosted the 1980 Summer Olympics?",
+    "A": "Moscow",
+    "B": "Montreal",
+    "C": "Munich",
+    "D": "Mexico City",
+    "answer": "A",
+    "funFact": "The 1980 Summer Olympics were held in Moscow, Soviet Union, and were boycotted by many Western countries."
+  },
+  {
+    "question": "Which city hosted the 1976 Summer Olympics?",
+    "A": "Montreal",
+    "B": "Munich",
+    "C": "Mexico City",
+    "D": "Tokyo",
+    "answer": "A",
+    "funFact": "The 1976 Summer Olympics were held in Montreal, Canada, and were the first Games held in Canada."
+  },
+  {
+    "question": "Which city hosted the 1972 Summer Olympics?",
+    "A": "Munich",
+    "B": "Mexico City",
+    "C": "Tokyo",
+    "D": "Rome",
+    "answer": "A",
+    "funFact": "The 1972 Summer Olympics were held in Munich, West Germany, and were marred by the Munich Massacre terrorist attack."
+  },
+  {
+    "question": "Which city hosted the 1968 Summer Olympics?",
+    "A": "Mexico City",
+    "B": "Tokyo",
+    "C": "Rome",
+    "D": "Melbourne",
+    "answer": "A",
+    "funFact": "The 1968 Summer Olympics were held in Mexico City, Mexico, and were the first Games held in Latin America."
+  },
+  {
+    "question": "Which city hosted the 1964 Summer Olympics?",
+    "A": "Tokyo",
+    "B": "Rome",
+    "C": "Melbourne",
+    "D": "Helsinki",
+    "answer": "A",
+    "funFact": "The 1964 Summer Olympics were held in Tokyo, Japan, and were the first Games held in Asia."
+  },
+  {
+    "question": "Which city hosted the 1960 Summer Olympics?",
+    "A": "Rome",
+    "B": "Melbourne",
+    "C": "Helsinki",
+    "D": "London",
+    "answer": "A",
+    "funFact": "The 1960 Summer Olympics were held in Rome, Italy, and were the first Games to be televised worldwide."
+  },
+  {
+    "question": "Which city hosted the 1956 Summer Olympics?",
+    "A": "Melbourne",
+    "B": "Helsinki",
+    "C": "London",
+    "D": "Berlin",
+    "answer": "A",
+    "funFact": "The 1956 Summer Olympics were held in Melbourne, Australia, and were the first Games held in the Southern Hemisphere."
+  },
+  {
+    "question": "Which city hosted the 1952 Summer Olympics?",
+    "A": "Helsinki",
+    "B": "London",
+    "C": "Berlin",
+    "D": "Los Angeles",
+    "answer": "A",
+    "funFact": "The 1952 Summer Olympics were held in Helsinki, Finland, and were the first Games to feature the Soviet Union."
+  },
+  {
+    "question": "Which city hosted the 1948 Summer Olympics?",
+    "A": "London",
+    "B": "Berlin",
+    "C": "Los Angeles",
+    "D": "Amsterdam",
+    "answer": "A",
+    "funFact": "The 1948 Summer Olympics were held in London, England, and were the first Games held after World War II."
+  },
+  {
+    "question": "Which city hosted the 1936 Summer Olympics?",
+    "A": "Berlin",
+    "B": "Los Angeles",
+    "C": "Amsterdam",
+    "D": "Paris",
+    "answer": "A",
+    "funFact": "The 1936 Summer Olympics were held in Berlin, Germany, and were used by the Nazi regime for propaganda purposes."
+  },
+  {
+    "question": "Which city hosted the 1932 Summer Olympics?",
+    "A": "Los Angeles",
+    "B": "Amsterdam",
+    "C": "Paris",
+    "D": "Antwerp",
+    "answer": "A",
+    "funFact": "The 1932 Summer Olympics were held in Los Angeles, California, USA, and were the first Games to use the Olympic Village."
+  },
+  {
+    "question": "Which city hosted the 1928 Summer Olympics?",
+    "A": "Amsterdam",
+    "B": "Paris",
+    "C": "Antwerp",
+    "D": "Stockholm",
+    "answer": "A",
+    "funFact": "The 1928 Summer Olympics were held in Amsterdam, Netherlands, and were the first Games to feature the Olympic Flame."
+  },
+  {
+    "question": "Which city hosted the 1924 Summer Olympics?",
+    "A": "Paris",
+    "B": "Antwerp",
+    "C": "Stockholm",
+    "D": "London",
+    "answer": "A",
+    "funFact": "The 1924 Summer Olympics were held in Paris, France, and were the last Games to feature the art competitions."
+  },
+  {
+    "question": "Which city hosted the 1920 Summer Olympics?",
+    "A": "Antwerp",
+    "B": "Stockholm",
+    "C": "London",
+    "D": "St. Louis",
+    "answer": "A",
+    "funFact": "The 1920 Summer Olympics were held in Antwerp, Belgium, and were the first Games held after World War I."
+  },
+  {
+    "question": "Which city hosted the 1912 Summer Olympics?",
+    "A": "Stockholm",
+    "B": "London",
+    "C": "St. Louis",
+    "D": "Athens",
+    "answer": "A",
+    "funFact": "The 1912 Summer Olympics were held in Stockholm, Sweden, and were the first Games to feature electronic timing."
+  },
+  {
+    "question": "Which city hosted the 1908 Summer Olympics?",
+    "A": "London",
+    "B": "St. Louis",
+    "C": "Athens",
+    "D": "Paris",
+    "answer": "A",
+    "funFact": "The 1908 Summer Olympics were held in London, England, and were originally scheduled for Rome but moved due to Mount Vesuvius eruption."
+  },
+  {
+    "question": "Which city hosted the 1904 Summer Olympics?",
+    "A": "St. Louis",
+    "B": "Athens",
+    "C": "Paris",
+    "D": "London",
+    "answer": "A",
+    "funFact": "The 1904 Summer Olympics were held in St. Louis, Missouri, USA, and were held as part of the World's Fair."
+  },
+  {
+    "question": "Which city hosted the 1900 Summer Olympics?",
+    "A": "Paris",
+    "B": "Athens",
+    "C": "London",
+    "D": "St. Louis",
+    "answer": "A",
+    "funFact": "The 1900 Summer Olympics were held in Paris, France, and were held as part of the World's Fair."
+  },
+  {
+    "question": "Which city will host the 2028 Summer Olympics?",
+    "A": "Los Angeles",
+    "B": "Paris",
+    "C": "Tokyo",
+    "D": "London",
+    "answer": "A",
+    "funFact": "The 2028 Summer Olympics will be held in Los Angeles, California, USA, marking the third time LA has hosted the Games."
+  }
 ]

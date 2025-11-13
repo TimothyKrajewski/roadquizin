@@ -42,6 +42,40 @@ const QuizHistoryScreen: React.FC = () => {
     }
   };
 
+  const handleDeleteAll = () => {
+    if (highScores.length === 0) {
+      Alert.alert('No History', 'There are no quiz histories to delete.');
+      return;
+    }
+
+    Alert.alert(
+      'Delete All Quiz Histories',
+      `Are you sure you want to delete all ${highScores.length} quiz history entries? This action cannot be undone.`,
+      [
+        {
+          text: 'Cancel',
+          style: 'cancel',
+        },
+        {
+          text: 'Delete All',
+          style: 'destructive',
+          onPress: async () => {
+            try {
+              const keys = await AsyncStorage.getAllKeys();
+              const highScoreKeys = keys.filter(key => key.startsWith('highScore_'));
+              await AsyncStorage.multiRemove(highScoreKeys);
+              setHighScores([]);
+              Alert.alert('Success', 'All quiz histories have been deleted.');
+            } catch (error) {
+              console.error('Failed to delete all high scores.', error);
+              Alert.alert('Error', 'Failed to delete all quiz histories.');
+            }
+          },
+        },
+      ]
+    );
+  };
+
   const renderItem = ({ item }: { item: { quizName: string; quizTitle: string; score: number; name: string } }) => (
     <View style={styles.itemContainer}>
       <Text style={styles.itemText}>{item.quizTitle} - {item.score} by {item.name}</Text>
@@ -53,7 +87,14 @@ const QuizHistoryScreen: React.FC = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Quiz History</Text>
+      <View style={styles.headerContainer}>
+        <Text style={styles.title}>Quiz History</Text>
+        {highScores.length > 0 && (
+          <TouchableOpacity style={styles.deleteAllButton} onPress={handleDeleteAll}>
+            <Text style={styles.deleteAllButtonText}>Delete All</Text>
+          </TouchableOpacity>
+        )}
+      </View>
       <FlatList
         data={highScores}
         renderItem={renderItem}
@@ -68,12 +109,27 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    justifyContent: 'center',
+  },
+  headerContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
     alignItems: 'center',
+    marginBottom: 20,
   },
   title: {
     fontSize: 24,
-    marginBottom: 20,
+    fontWeight: '600',
+  },
+  deleteAllButton: {
+    backgroundColor: '#f44336',
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 5,
+  },
+  deleteAllButtonText: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: '600',
   },
   itemContainer: {
     flexDirection: 'row',

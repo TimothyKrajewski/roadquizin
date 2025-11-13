@@ -4,7 +4,7 @@
         "A": "Henry Ford",
         "B": "Karl Benz",
         "C": "Gottlieb Daimler",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Karl Benz is credited with inventing the first practical automobile in 1885-1886, while Gottlieb Daimler also developed early automobiles around the same time. Henry Ford revolutionized car manufacturing with the assembly line."
     },
@@ -22,7 +22,7 @@
         "A": "Airplane",
         "B": "Bullet train",
         "C": "Rocket",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Rockets are the fastest, reaching speeds over 17,000 mph. Commercial airplanes travel around 500-600 mph, and bullet trains can reach speeds over 200 mph."
     },

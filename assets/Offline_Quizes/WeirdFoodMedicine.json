@@ -67,7 +67,7 @@
         "A": "Honey",
         "B": "Garlic",
         "C": "Ginger",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, garlic, and ginger were all used as medicines in ancient times. Honey was used to treat wounds, garlic was believed to have healing properties, and ginger was used to aid digestion."
     },
@@ -76,7 +76,7 @@
         "A": "Olive oil",
         "B": "Honey",
         "C": "Wine",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Olive oil, honey, and wine were all used as medicines in ancient Greece. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -85,7 +85,7 @@
         "A": "Onions",
         "B": "Garlic",
         "C": "Honey",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Onions, garlic, and honey were all used as medicines in ancient Egypt. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -94,7 +94,7 @@
         "A": "Garlic",
         "B": "Honey",
         "C": "Wine",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Garlic, honey, and wine were all used as medicines in ancient Rome. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -103,7 +103,7 @@
         "A": "Ginseng",
         "B": "Ginger",
         "C": "Green tea",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Ginseng, ginger, and green tea were all used as medicines in ancient China. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -112,7 +112,7 @@
         "A": "Turmeric",
         "B": "Ginger",
         "C": "Honey",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Turmeric, ginger, and honey were all used as medicines in ancient India. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -121,7 +121,7 @@
         "A": "Garlic",
         "B": "Honey",
         "C": "Wine",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Garlic, honey, and wine were all used as medicines in medieval Europe. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -130,7 +130,7 @@
         "A": "Saffron",
         "B": "Honey",
         "C": "Rose water",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Saffron, honey, and rose water were all used as medicines in ancient Persia. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -139,7 +139,7 @@
         "A": "Green tea",
         "B": "Ginger",
         "C": "Miso",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Green tea, ginger, and miso were all used as medicines in ancient Japan. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -148,7 +148,7 @@
         "A": "Dates",
         "B": "Honey",
         "C": "Black seed",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Dates, honey, and black seed were all used as medicines in ancient Arabia. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -157,7 +157,7 @@
         "A": "Baobab",
         "B": "Honey",
         "C": "Aloe vera",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Baobab, honey, and aloe vera were all used as medicines in ancient Africa. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -166,7 +166,7 @@
         "A": "Cacao",
         "B": "Quinoa",
         "C": "Chili peppers",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cacao, quinoa, and chili peppers were all used as medicines in ancient Americas. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -175,7 +175,7 @@
         "A": "Coconut",
         "B": "Ginger",
         "C": "Turmeric",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Coconut, ginger, and turmeric were all used as medicines in ancient Oceania. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -184,7 +184,7 @@
         "A": "Honey",
         "B": "Berries",
         "C": "Fish oil",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, berries, and fish oil were all used as medicines in ancient Scandinavia. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -193,7 +193,7 @@
         "A": "Honey",
         "B": "Herbs",
         "C": "Berries",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, herbs, and berries were all used as medicines in ancient Celtic cultures. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -202,7 +202,7 @@
         "A": "Honey",
         "B": "Garlic",
         "C": "Herbs",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, garlic, and herbs were all used as medicines in ancient Slavic cultures. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -211,7 +211,7 @@
         "A": "Echinacea",
         "B": "Ginseng",
         "C": "Willow bark",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Echinacea, ginseng, and willow bark were all used as medicines in ancient Native American cultures. They were believed to have healing properties and were used to treat various ailments."
     },
@@ -220,7 +220,7 @@
         "A": "Tea tree oil",
         "B": "Eucalyptus",
         "C": "Honey",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Tea tree oil, eucalyptus, and honey were all used as medicines in ancient Australian Aboriginal cultures. They were believed to have healing properties and were used to treat various ailments."
     }

@@ -49,7 +49,7 @@
         "A": "John F. Kennedy",
         "B": "Lyndon B. Johnson",
         "C": "Richard Nixon",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Vietnam War spanned multiple presidencies: John F. Kennedy increased U.S. involvement, Lyndon B. Johnson escalated it significantly, and Richard Nixon began withdrawal."
     },
@@ -121,7 +121,7 @@
         "A": "Harry S. Truman",
         "B": "Dwight D. Eisenhower",
         "C": "Multiple Presidents",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The Cold War lasted from 1947 to 1991, spanning multiple presidencies from Harry S. Truman to George H.W. Bush. It was a period of geopolitical tension between the U.S. and Soviet Union."
     },
@@ -166,7 +166,7 @@
         "A": "Bill Clinton",
         "B": "George W. Bush",
         "C": "Barack Obama",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "The War on Terror began under George W. Bush after 9/11 and continued through Barack Obama's presidency, involving conflicts in Afghanistan, Iraq, and other regions."
     },

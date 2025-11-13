@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Which U.S. state is home to the Grand Canyon?",
+    "A": "Arizona",
+    "B": "Nevada",
+    "C": "Utah",
+    "D": "Colorado",
+    "answer": "A",
+    "funFact": "The Grand Canyon is located in Arizona and is one of the Seven Natural Wonders of the World."
+  },
+  {
+    "question": "Which U.S. state is home to Mount Rushmore?",
+    "A": "South Dakota",
+    "B": "North Dakota",
+    "C": "Montana",
+    "D": "Wyoming",
+    "answer": "A",
+    "funFact": "Mount Rushmore is located in South Dakota and features the faces of four U.S. presidents carved into the mountain."
+  },
+  {
+    "question": "Which U.S. state is home to the Statue of Liberty?",
+    "A": "New York",
+    "B": "New Jersey",
+    "C": "Pennsylvania",
+    "D": "Connecticut",
+    "answer": "A",
+    "funFact": "The Statue of Liberty is located on Liberty Island in New York Harbor, though it's closer to New Jersey."
+  },
+  {
+    "question": "Which U.S. state is home to the Golden Gate Bridge?",
+    "A": "California",
+    "B": "Oregon",
+    "C": "Washington",
+    "D": "Nevada",
+    "answer": "A",
+    "funFact": "The Golden Gate Bridge is located in San Francisco, California, and spans the Golden Gate strait."
+  },
+  {
+    "question": "Which U.S. state is home to the Space Needle?",
+    "A": "Washington",
+    "B": "Oregon",
+    "C": "California",
+    "D": "Alaska",
+    "answer": "A",
+    "funFact": "The Space Needle is located in Seattle, Washington, and was built for the 1962 World's Fair."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway Arch?",
+    "A": "Missouri",
+    "B": "Illinois",
+    "C": "Iowa",
+    "D": "Kansas",
+    "answer": "A",
+    "funFact": "The Gateway Arch is located in St. Louis, Missouri, and is the tallest arch in the world."
+  },
+  {
+    "question": "Which U.S. state is home to the Alamo?",
+    "A": "Texas",
+    "B": "New Mexico",
+    "C": "Arizona",
+    "D": "Oklahoma",
+    "answer": "A",
+    "funFact": "The Alamo is located in San Antonio, Texas, and is a historic mission and fortress."
+  },
+  {
+    "question": "Which U.S. state is home to the Hollywood Sign?",
+    "A": "California",
+    "B": "Nevada",
+    "C": "Arizona",
+    "D": "Oregon",
+    "answer": "A",
+    "funFact": "The Hollywood Sign is located in Los Angeles, California, and is an iconic symbol of the entertainment industry."
+  },
+  {
+    "question": "Which U.S. state is home to the White House?",
+    "A": "District of Columbia",
+    "B": "Maryland",
+    "C": "Virginia",
+    "D": "Pennsylvania",
+    "answer": "A",
+    "funFact": "The White House is located in Washington, D.C., which is not a state but a federal district."
+  },
+  {
+    "question": "Which U.S. state is home to the Empire State Building?",
+    "A": "New York",
+    "B": "New Jersey",
+    "C": "Pennsylvania",
+    "D": "Connecticut",
+    "answer": "A",
+    "funFact": "The Empire State Building is located in New York City, New York, and was the world's tallest building from 1931 to 1970."
+  },
+  {
+    "question": "Which U.S. state is home to the Liberty Bell?",
+    "A": "Pennsylvania",
+    "B": "New York",
+    "C": "Massachusetts",
+    "D": "Virginia",
+    "answer": "A",
+    "funFact": "The Liberty Bell is located in Philadelphia, Pennsylvania, and is a symbol of American independence."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the West?",
+    "A": "Missouri",
+    "B": "Illinois",
+    "C": "Iowa",
+    "D": "Kansas",
+    "answer": "A",
+    "funFact": "The Gateway to the West refers to St. Louis, Missouri, and is symbolized by the Gateway Arch."
+  },
+  {
+    "question": "Which U.S. state is home to the Space Center Houston?",
+    "A": "Texas",
+    "B": "Florida",
+    "C": "Alabama",
+    "D": "Louisiana",
+    "answer": "A",
+    "funFact": "Space Center Houston is located in Texas and serves as the visitor center for NASA's Johnson Space Center."
+  },
+  {
+    "question": "Which U.S. state is home to the Kennedy Space Center?",
+    "A": "Florida",
+    "B": "Texas",
+    "C": "Alabama",
+    "D": "Louisiana",
+    "answer": "A",
+    "funFact": "The Kennedy Space Center is located in Florida and is NASA's primary launch center for human spaceflight."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway Arch National Park?",
+    "A": "Missouri",
+    "B": "Illinois",
+    "C": "Iowa",
+    "D": "Kansas",
+    "answer": "A",
+    "funFact": "Gateway Arch National Park is located in St. Louis, Missouri, and was established in 2018."
+  },
+  {
+    "question": "Which U.S. state is home to the Hoover Dam?",
+    "A": "Nevada",
+    "B": "Arizona",
+    "C": "California",
+    "D": "Utah",
+    "answer": "A",
+    "funFact": "The Hoover Dam is located on the border between Nevada and Arizona, but the main visitor center is in Nevada."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Pacific?",
+    "A": "California",
+    "B": "Oregon",
+    "C": "Washington",
+    "D": "Alaska",
+    "answer": "A",
+    "funFact": "The Gateway to the Pacific refers to California, particularly the port cities of Los Angeles and San Francisco."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the South?",
+    "A": "Georgia",
+    "B": "Florida",
+    "C": "Alabama",
+    "D": "South Carolina",
+    "answer": "A",
+    "funFact": "The Gateway to the South refers to Atlanta, Georgia, which is a major transportation hub."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Rockies?",
+    "A": "Colorado",
+    "B": "Wyoming",
+    "C": "Montana",
+    "D": "Utah",
+    "answer": "A",
+    "funFact": "The Gateway to the Rockies refers to Denver, Colorado, which is located at the base of the Rocky Mountains."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the West Coast?",
+    "A": "California",
+    "B": "Oregon",
+    "C": "Washington",
+    "D": "Nevada",
+    "answer": "A",
+    "funFact": "The Gateway to the West Coast refers to California, which is the most populous state on the West Coast."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to New England?",
+    "A": "Massachusetts",
+    "B": "Connecticut",
+    "C": "Rhode Island",
+    "D": "New Hampshire",
+    "answer": "A",
+    "funFact": "The Gateway to New England refers to Boston, Massachusetts, which is the largest city in New England."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Midwest?",
+    "A": "Illinois",
+    "B": "Indiana",
+    "C": "Ohio",
+    "D": "Michigan",
+    "answer": "A",
+    "funFact": "The Gateway to the Midwest refers to Chicago, Illinois, which is the largest city in the Midwest."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Southwest?",
+    "A": "Arizona",
+    "B": "New Mexico",
+    "C": "Nevada",
+    "D": "Utah",
+    "answer": "A",
+    "funFact": "The Gateway to the Southwest refers to Phoenix, Arizona, which is the largest city in the Southwest."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Pacific Northwest?",
+    "A": "Washington",
+    "B": "Oregon",
+    "C": "California",
+    "D": "Alaska",
+    "answer": "A",
+    "funFact": "The Gateway to the Pacific Northwest refers to Seattle, Washington, which is the largest city in the Pacific Northwest."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Great Lakes?",
+    "A": "Michigan",
+    "B": "Illinois",
+    "C": "Ohio",
+    "D": "Wisconsin",
+    "answer": "A",
+    "funFact": "The Gateway to the Great Lakes refers to Detroit, Michigan, which is located on the Detroit River connecting Lake Erie and Lake St. Clair."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Gulf Coast?",
+    "A": "Louisiana",
+    "B": "Texas",
+    "C": "Florida",
+    "D": "Alabama",
+    "answer": "A",
+    "funFact": "The Gateway to the Gulf Coast refers to New Orleans, Louisiana, which is a major port city on the Gulf of Mexico."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Atlantic?",
+    "A": "New York",
+    "B": "New Jersey",
+    "C": "Massachusetts",
+    "D": "Virginia",
+    "answer": "A",
+    "funFact": "The Gateway to the Atlantic refers to New York City, New York, which is a major port city on the Atlantic Ocean."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Caribbean?",
+    "A": "Florida",
+    "B": "Texas",
+    "C": "Louisiana",
+    "D": "Alabama",
+    "answer": "A",
+    "funFact": "The Gateway to the Caribbean refers to Miami, Florida, which is a major port city connecting the U.S. to the Caribbean."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the West Indies?",
+    "A": "Florida",
+    "B": "Texas",
+    "C": "Louisiana",
+    "D": "Alabama",
+    "answer": "A",
+    "funFact": "The Gateway to the West Indies refers to Florida, particularly Miami, which serves as a connection point to the Caribbean and West Indies."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Pacific Rim?",
+    "A": "California",
+    "B": "Oregon",
+    "C": "Washington",
+    "D": "Alaska",
+    "answer": "A",
+    "funFact": "The Gateway to the Pacific Rim refers to California, particularly Los Angeles and San Francisco, which are major ports connecting to Asia."
+  },
+  {
+    "question": "Which U.S. state is home to the Gateway to the Arctic?",
+    "A": "Alaska",
+    "B": "Washington",
+    "C": "Oregon",
+    "D": "California",
+    "answer": "A",
+    "funFact": "The Gateway to the Arctic refers to Alaska, which is the northernmost state and closest to the Arctic Circle."
+  }
+]
+

@@ -58,7 +58,7 @@
         "A": "Red, blue, and yellow",
         "B": "Red, green, and blue",
         "C": "Cyan, magenta, and yellow",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Primary colors depend on the color model: red, blue, yellow for pigments; red, green, blue for light (RGB); cyan, magenta, yellow for printing (CMYK)."
     },

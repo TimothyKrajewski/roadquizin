@@ -1,182 +1,182 @@
 [
-  {
-    "question": "What is the most important tip?",
-    "A": "Start small",
-    "B": "Learn as you go",
-    "C": "Neither A nor B",
-    "D": "Start big",
-    "answer": "A",
-    "funFact": "The most important tip is to start small and learn as you go. Don't try to do too much at once."
-  },
-  {
-    "question": "What is soil preparation?",
-    "A": "Important foundation",
-    "B": "Good soil = good plants",
-    "C": "Neither A nor B",
-    "D": "Not important",
-    "answer": "A",
-    "funFact": "Soil preparation is an important foundation. Good soil leads to good plants, so invest time in preparing it."
-  },
-  {
-    "question": "What is watering correctly?",
-    "A": "Right amount",
-    "B": "Not too much or little",
-    "C": "Neither A nor B",
-    "D": "Water constantly",
-    "answer": "A",
-    "funFact": "Watering correctly means the right amount - not too much or too little. Most plants prefer deep, infrequent watering."
-  },
-  {
-    "question": "What is choosing the right plants?",
-    "A": "For your climate",
-    "B": "Right conditions",
-    "C": "Neither A nor B",
-    "D": "Any plant",
-    "answer": "A",
-    "funFact": "Choose plants suited to your climate and conditions. This makes gardening much easier and more successful."
-  },
-  {
-    "question": "What is reading plant tags?",
-    "A": "Important information",
-    "B": "Sun, water, spacing",
-    "C": "Neither A nor B",
-    "D": "Not needed",
-    "answer": "A",
-    "funFact": "Reading plant tags provides important information about sun needs, water requirements, and spacing."
-  },
-  {
-    "question": "What is mulching?",
-    "A": "Covers soil",
-    "B": "Retains moisture, prevents weeds",
-    "C": "Neither A nor B",
-    "D": "Not helpful",
-    "answer": "A",
-    "funFact": "Mulching covers soil and retains moisture while preventing weeds. It's one of the best gardening practices."
-  },
-  {
-    "question": "What is composting?",
-    "A": "Recycles organic matter",
-    "B": "Creates rich soil",
-    "C": "Neither A nor B",
-    "D": "Not useful",
-    "answer": "A",
-    "funFact": "Composting recycles organic matter to create rich soil. It's natural, free, and very beneficial."
-  },
-  {
-    "question": "What is observing your garden?",
-    "A": "Watch plants",
-    "B": "Learn what they need",
-    "C": "Neither A nor B",
-    "D": "Ignore them",
-    "answer": "A",
-    "funFact": "Observe your garden regularly. Watch your plants and learn what they need. They'll tell you if something's wrong."
-  },
-  {
-    "question": "What is patience?",
-    "A": "Plants take time",
-    "B": "Don't rush",
-    "C": "Neither A nor B",
-    "D": "Expect instant results",
-    "answer": "A",
-    "funFact": "Patience is important - plants take time to grow. Don't rush or expect instant results."
-  },
-  {
-    "question": "What is learning from mistakes?",
-    "A": "Everyone makes mistakes",
-    "B": "Learn and improve",
-    "C": "Neither A nor B",
-    "D": "Never make mistakes",
-    "answer": "A",
-    "funFact": "Everyone makes mistakes in gardening. Learn from them and improve. Even experienced gardeners have failures."
-  },
-  {
-    "question": "What is keeping a garden journal?",
-    "A": "Record what works",
-    "B": "Track progress",
-    "C": "Neither A nor B",
-    "D": "Not needed",
-    "answer": "A",
-    "funFact": "Keep a garden journal to record what works and track progress. It helps you learn and remember."
-  },
-  {
-    "question": "What is asking for help?",
-    "A": "Gardeners are helpful",
-    "B": "Learn from others",
-    "C": "Neither A nor B",
-    "D": "Never ask",
-    "answer": "A",
-    "funFact": "Ask for help - gardeners are usually very helpful. Learn from others' experiences and knowledge."
-  },
-  {
-    "question": "What is starting with easy plants?",
-    "A": "Build confidence",
-    "B": "Learn basics",
-    "C": "Neither A nor B",
-    "D": "Start hard",
-    "answer": "A",
-    "funFact": "Start with easy plants to build confidence and learn the basics. Success breeds more success."
-  },
-  {
-    "question": "What is proper spacing?",
-    "A": "Give plants room",
-    "B": "Prevents crowding",
-    "C": "Neither A nor B",
-    "D": "Crowd them",
-    "answer": "A",
-    "funFact": "Proper spacing gives plants room to grow and prevents crowding. Follow spacing recommendations."
-  },
-  {
-    "question": "What is fertilizing appropriately?",
-    "A": "Right amount",
-    "B": "Not too much",
-    "C": "Neither A nor B",
-    "D": "Fertilize constantly",
-    "answer": "A",
-    "funFact": "Fertilize appropriately with the right amount. Too much fertilizer can harm plants as much as too little."
-  },
-  {
-    "question": "What is pest management?",
-    "A": "Identify problems",
-    "B": "Treat appropriately",
-    "C": "Neither A nor B",
-    "D": "Ignore pests",
-    "answer": "A",
-    "funFact": "Pest management means identifying problems and treating them appropriately. Not all bugs are bad."
-  },
-  {
-    "question": "What is enjoying the process?",
-    "A": "Gardening is fun",
-    "B": "Relaxing hobby",
-    "C": "Neither A nor B",
-    "D": "Stressful",
-    "answer": "A",
-    "funFact": "Enjoy the process - gardening is fun and a relaxing hobby. Don't make it stressful."
-  },
-  {
-    "question": "What is celebrating successes?",
-    "A": "Enjoy your harvest",
-    "B": "Appreciate beauty",
-    "C": "Neither A nor B",
-    "D": "Never celebrate",
-    "answer": "A",
-    "funFact": "Celebrate your successes - enjoy your harvest and appreciate the beauty you've created."
-  },
-  {
-    "question": "What is continuous learning?",
-    "A": "Always learning",
-    "B": "Gardening evolves",
-    "C": "Neither A nor B",
-    "D": "Know everything",
-    "answer": "A",
-    "funFact": "Continuous learning is important - always be learning. Gardening is a journey that never ends."
-  },
-  {
-    "question": "What is the overall approach?",
-    "A": "Start small, learn, enjoy",
-    "B": "Be patient and observant",
-    "C": "Neither A nor B",
-    "D": "Rush and ignore",
-    "answer": "A",
-    "funFact": "The overall approach is to start small, learn as you go, enjoy the process, and be patient and observant."
-  }
+    {
+        "question": "What is the most important tip?",
+        "A": "Start small",
+        "B": "Learn as you go",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Start big",
+        "answer": "A",
+        "funFact": "The most important tip is to start small and learn as you go. Don't try to do too much at once."
+    },
+    {
+        "question": "What is soil preparation?",
+        "A": "Important foundation",
+        "B": "Good soil = good plants",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Not important",
+        "answer": "A",
+        "funFact": "Soil preparation is an important foundation. Good soil leads to good plants, so invest time in preparing it."
+    },
+    {
+        "question": "What is watering correctly?",
+        "A": "Right amount",
+        "B": "Not too much or little",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Water constantly",
+        "answer": "A",
+        "funFact": "Watering correctly means the right amount - not too much or too little. Most plants prefer deep, infrequent watering."
+    },
+    {
+        "question": "What is choosing the right plants?",
+        "A": "For your climate",
+        "B": "Right conditions",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Any plant",
+        "answer": "A",
+        "funFact": "Choose plants suited to your climate and conditions. This makes gardening much easier and more successful."
+    },
+    {
+        "question": "What is reading plant tags?",
+        "A": "Important information",
+        "B": "Sun, water, spacing",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "Reading plant tags provides important information about sun needs, water requirements, and spacing."
+    },
+    {
+        "question": "What is mulching?",
+        "A": "Covers soil",
+        "B": "Retains moisture, prevents weeds",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Not helpful",
+        "answer": "A",
+        "funFact": "Mulching covers soil and retains moisture while preventing weeds. It's one of the best gardening practices."
+    },
+    {
+        "question": "What is composting?",
+        "A": "Recycles organic matter",
+        "B": "Creates rich soil",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Not useful",
+        "answer": "A",
+        "funFact": "Composting recycles organic matter to create rich soil. It's natural, free, and very beneficial."
+    },
+    {
+        "question": "What is observing your garden?",
+        "A": "Watch plants",
+        "B": "Learn what they need",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Ignore them",
+        "answer": "A",
+        "funFact": "Observe your garden regularly. Watch your plants and learn what they need. They'll tell you if something's wrong."
+    },
+    {
+        "question": "What is patience?",
+        "A": "Plants take time",
+        "B": "Don't rush",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Expect instant results",
+        "answer": "A",
+        "funFact": "Patience is important - plants take time to grow. Don't rush or expect instant results."
+    },
+    {
+        "question": "What is learning from mistakes?",
+        "A": "Everyone makes mistakes",
+        "B": "Learn and improve",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Never make mistakes",
+        "answer": "A",
+        "funFact": "Everyone makes mistakes in gardening. Learn from them and improve. Even experienced gardeners have failures."
+    },
+    {
+        "question": "What is keeping a garden journal?",
+        "A": "Record what works",
+        "B": "Track progress",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Not needed",
+        "answer": "A",
+        "funFact": "Keep a garden journal to record what works and track progress. It helps you learn and remember."
+    },
+    {
+        "question": "What is asking for help?",
+        "A": "Gardeners are helpful",
+        "B": "Learn from others",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Never ask",
+        "answer": "A",
+        "funFact": "Ask for help - gardeners are usually very helpful. Learn from others' experiences and knowledge."
+    },
+    {
+        "question": "What is starting with easy plants?",
+        "A": "Build confidence",
+        "B": "Learn basics",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Start hard",
+        "answer": "A",
+        "funFact": "Start with easy plants to build confidence and learn the basics. Success breeds more success."
+    },
+    {
+        "question": "What is proper spacing?",
+        "A": "Give plants room",
+        "B": "Prevents crowding",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Crowd them",
+        "answer": "A",
+        "funFact": "Proper spacing gives plants room to grow and prevents crowding. Follow spacing recommendations."
+    },
+    {
+        "question": "What is fertilizing appropriately?",
+        "A": "Right amount",
+        "B": "Not too much",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Fertilize constantly",
+        "answer": "A",
+        "funFact": "Fertilize appropriately with the right amount. Too much fertilizer can harm plants as much as too little."
+    },
+    {
+        "question": "What is pest management?",
+        "A": "Identify problems",
+        "B": "Treat appropriately",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Ignore pests",
+        "answer": "A",
+        "funFact": "Pest management means identifying problems and treating them appropriately. Not all bugs are bad."
+    },
+    {
+        "question": "What is enjoying the process?",
+        "A": "Gardening is fun",
+        "B": "Relaxing hobby",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Stressful",
+        "answer": "A",
+        "funFact": "Enjoy the process - gardening is fun and a relaxing hobby. Don't make it stressful."
+    },
+    {
+        "question": "What is celebrating successes?",
+        "A": "Enjoy your harvest",
+        "B": "Appreciate beauty",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Never celebrate",
+        "answer": "A",
+        "funFact": "Celebrate your successes - enjoy your harvest and appreciate the beauty you've created."
+    },
+    {
+        "question": "What is continuous learning?",
+        "A": "Always learning",
+        "B": "Gardening evolves",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Know everything",
+        "answer": "A",
+        "funFact": "Continuous learning is important - always be learning. Gardening is a journey that never ends."
+    },
+    {
+        "question": "What is the overall approach?",
+        "A": "Start small, learn, enjoy",
+        "B": "Be patient and observant",
+        "C": "The Battle of the Somme (World War I)",
+        "D": "Rush and ignore",
+        "answer": "A",
+        "funFact": "The overall approach is to start small, learn as you go, enjoy the process, and be patient and observant."
+    }
 ]

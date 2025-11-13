@@ -94,7 +94,7 @@
         "A": "Cybersecurity",
         "B": "Information security",
         "C": "Computer security",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cybersecurity is also called information security or computer security, involving protecting digital information and systems."
     },
@@ -160,15 +160,6 @@
         "D": "A firewall",
         "answer": "B",
         "funFact": "A security patch is a software update that fixes vulnerabilities and security flaws in programs or systems."
-    },
-    {
-        "question": "What is the study of cybersecurity called?",
-        "A": "Cybersecurity",
-        "B": "Information assurance",
-        "C": "Network security",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Cybersecurity involves information assurance, network security, and protecting digital assets from threats."
     },
     {
         "question": "What is the importance of strong passwords?",

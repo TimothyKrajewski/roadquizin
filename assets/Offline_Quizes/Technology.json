@@ -48,7 +48,7 @@
         "question": "What is the name of the first computer?",
         "A": "ENIAC",
         "B": "UNIVAC",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "IBM 701",
         "answer": "A",
         "funFact": "ENIAC (1946) is often considered the first general-purpose electronic computer, while UNIVAC (1951) was the first commercial computer. Both are significant milestones."
@@ -67,7 +67,7 @@
         "A": "Pong",
         "B": "Spacewar!",
         "C": "Tennis for Two",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "'Tennis for Two' (1958) and 'Spacewar!' (1962) are both considered early video games, with 'Tennis for Two' being the first interactive electronic game."
     },

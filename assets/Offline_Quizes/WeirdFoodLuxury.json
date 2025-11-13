@@ -4,7 +4,7 @@
         "A": "Pineapples",
         "B": "Chocolate",
         "C": "Ice cream",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pineapples, chocolate, and ice cream were all once considered luxury items only affordable by royalty. They were expensive imports and difficult to obtain."
     },
@@ -13,7 +13,7 @@
         "A": "Sugar",
         "B": "Salt",
         "C": "Spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Sugar, salt, and spices were all once considered luxury items only affordable by the wealthy. They were expensive imports and were only used on special occasions."
     },
@@ -22,7 +22,7 @@
         "A": "Chocolate",
         "B": "Coffee",
         "C": "Tea",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Chocolate, coffee, and tea were all once considered luxury items only affordable by the wealthy. They were expensive imports from distant lands."
     },
@@ -31,7 +31,7 @@
         "A": "Pineapples",
         "B": "Oranges",
         "C": "Bananas",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Pineapples, oranges, and bananas were all once considered exotic luxuries in Europe. Pineapples were so rare that people would rent them as centerpieces for parties."
     },
@@ -40,7 +40,7 @@
         "A": "Saffron",
         "B": "Vanilla",
         "C": "Cinnamon",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Saffron, vanilla, and cinnamon were all once so expensive that they were worth more than gold. They were rare spices that were difficult to obtain."
     },
@@ -49,7 +49,7 @@
         "A": "Peacock",
         "B": "Flamingo",
         "C": "Dormouse",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Peacock, flamingo, and dormouse were all considered delicacies in ancient Rome and were served at royal banquets. They were expensive and difficult to obtain."
     },
@@ -58,7 +58,7 @@
         "A": "Shark fin soup",
         "B": "Bird's nest soup",
         "C": "Abalone",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Shark fin soup, bird's nest soup, and abalone were all considered luxury items in ancient China and were only eaten by royalty. They were expensive and difficult to obtain."
     },
@@ -67,7 +67,7 @@
         "A": "Olives",
         "B": "Figs",
         "C": "Grapes",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Olives, figs, and grapes were all considered luxury items in ancient Greece and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -76,7 +76,7 @@
         "A": "Caviar",
         "B": "Saffron",
         "C": "Pomegranates",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Caviar, saffron, and pomegranates were all considered delicacies in ancient Persia and were served at royal banquets. They were expensive and difficult to obtain."
     },
@@ -85,7 +85,7 @@
         "A": "Sushi",
         "B": "Sashimi",
         "C": "Sea urchin",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Sushi, sashimi, and sea urchin were all considered delicacies in ancient Japan and were served at royal banquets. They were expensive and difficult to obtain."
     },
@@ -94,7 +94,7 @@
         "A": "Sugar",
         "B": "Spices",
         "C": "Exotic fruits",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Sugar, spices, and exotic fruits were all considered luxury items in medieval Europe and were only eaten by the wealthy. They were expensive imports from distant lands."
     },
@@ -103,7 +103,7 @@
         "A": "Honey",
         "B": "Wine",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, wine, and exotic meats were all considered luxury items in ancient Egypt and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -112,7 +112,7 @@
         "A": "Saffron",
         "B": "Cardamom",
         "C": "Exotic fruits",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Saffron, cardamom, and exotic fruits were all considered luxury items in ancient India and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -121,7 +121,7 @@
         "A": "Dates",
         "B": "Honey",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Dates, honey, and exotic meats were all considered luxury items in ancient Mesopotamia and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -130,7 +130,7 @@
         "A": "Honey",
         "B": "Exotic berries",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, exotic berries, and exotic meats were all considered luxury items in ancient Scandinavia and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -139,7 +139,7 @@
         "A": "Exotic fruits",
         "B": "Honey",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Exotic fruits, honey, and exotic meats were all considered luxury items in ancient Africa and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -148,7 +148,7 @@
         "A": "Cacao",
         "B": "Exotic fruits",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cacao, exotic fruits, and exotic meats were all considered luxury items in ancient Americas and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -157,7 +157,7 @@
         "A": "Exotic fruits",
         "B": "Exotic seafood",
         "C": "Honey",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Exotic fruits, exotic seafood, and honey were all considered luxury items in ancient Oceania and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -166,7 +166,7 @@
         "A": "Honey",
         "B": "Exotic berries",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, exotic berries, and exotic meats were all considered luxury items in ancient Celtic cultures and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -175,7 +175,7 @@
         "A": "Honey",
         "B": "Exotic fruits",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, exotic fruits, and exotic meats were all considered luxury items in ancient Slavic cultures and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -184,7 +184,7 @@
         "A": "Exotic fruits",
         "B": "Honey",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Exotic fruits, honey, and exotic meats were all considered luxury items in ancient Native American cultures and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -193,7 +193,7 @@
         "A": "Exotic fruits",
         "B": "Honey",
         "C": "Exotic meats",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Exotic fruits, honey, and exotic meats were all considered luxury items in ancient Australian Aboriginal cultures and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -202,7 +202,7 @@
         "A": "Dates",
         "B": "Honey",
         "C": "Exotic spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Dates, honey, and exotic spices were all considered luxury items in ancient Arabian cultures and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -211,7 +211,7 @@
         "A": "Honey",
         "B": "Exotic fruits",
         "C": "Exotic spices",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, exotic fruits, and exotic spices were all considered luxury items in ancient Turkish cultures and were only eaten by the wealthy. They were expensive and difficult to obtain."
     },
@@ -220,7 +220,7 @@
         "A": "Honey",
         "B": "Exotic meats",
         "C": "Exotic dairy products",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Honey, exotic meats, and exotic dairy products were all considered luxury items in ancient Mongolian cultures and were only eaten by the wealthy. They were expensive and difficult to obtain."
     }

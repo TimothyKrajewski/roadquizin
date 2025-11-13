@@ -40,7 +40,7 @@
         "A": "Shakespeareology",
         "B": "Shakespeare studies",
         "C": "English literature",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Shakespeare is studied through English literature, drama, and Shakespeare studies programs."
     },
@@ -81,15 +81,6 @@
         "funFact": "Shakespeare is foundational to English literature, creating some of the most enduring works in the English language."
     },
     {
-        "question": "What is the study of Shakespeare called?",
-        "A": "Shakespeareology",
-        "B": "Shakespeare studies",
-        "C": "Renaissance literature",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Shakespeare is studied through English literature, drama, and Renaissance studies."
-    },
-    {
         "question": "What is the difference between Shakespeare's comedies and tragedies?",
         "A": "They're the same",
         "B": "Comedies end happily, tragedies end in death",
@@ -108,42 +99,6 @@
         "funFact": "Shakespeare coined many words and phrases still used today, significantly influencing the English language."
     },
     {
-        "question": "What is the origin of Shakespeare?",
-        "A": "The 1800s",
-        "B": "The 1500s-1600s",
-        "C": "The 1700s",
-        "D": "The 1900s",
-        "answer": "B",
-        "funFact": "Shakespeare wrote during the Elizabethan and Jacobean eras, creating 37 plays and 154 sonnets."
-    },
-    {
-        "question": "What is the future of Shakespeare?",
-        "A": "No future",
-        "B": "Enduring relevance and new adaptations",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Shakespeare's works continue to be adapted, performed, and studied, showing enduring relevance across cultures."
-    },
-    {
-        "question": "What is the study of Shakespeare called?",
-        "A": "Shakespeareology",
-        "B": "Shakespeare research",
-        "C": "Literary studies",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Shakespeare is studied through literary studies, drama, and theater research."
-    },
-    {
-        "question": "What is the importance of Shakespeare?",
-        "A": "Not important",
-        "B": "One of the greatest writers in English",
-        "C": "Minor importance",
-        "D": "Only for students",
-        "answer": "B",
-        "funFact": "Shakespeare is considered one of the greatest writers in the English language, with works that have stood the test of time."
-    },
-    {
         "question": "What is the difference between Shakespeare's plays and sonnets?",
         "A": "They're the same",
         "B": "Plays are dramas, sonnets are poems",
@@ -160,23 +115,5 @@
         "D": "Only affects English-speaking countries",
         "answer": "B",
         "funFact": "Shakespeare has influenced theater, film, literature, and culture worldwide, with adaptations in many languages."
-    },
-    {
-        "question": "What is the origin of Shakespeare?",
-        "A": "The 1800s",
-        "B": "The 1500s-1600s",
-        "C": "The 1700s",
-        "D": "The 1900s",
-        "answer": "B",
-        "funFact": "Shakespeare lived and wrote during the Renaissance, creating works that defined English drama."
-    },
-    {
-        "question": "What is the future of Shakespeare?",
-        "A": "No future",
-        "B": "Continued performance and study",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "Shakespeare's works continue to be performed, studied, and adapted, remaining central to English literature and theater."
     }
 ]

@@ -1,0 +1,335 @@
+[
+    {
+        "question": "Which film contains the quote 'Here's looking at you, kid'?",
+        "A": "The Maltese Falcon",
+        "B": "Casablanca",
+        "C": "The Big Sleep",
+        "D": "To Have and Have Not",
+        "answer": "B",
+        "funFact": "Humphrey Bogart's line 'Here's looking at you, kid' from Casablanca (1942) is one of the most famous movie quotes of all time."
+    },
+    {
+        "question": "Which film contains the quote 'May the Force be with you'?",
+        "A": "Star Trek",
+        "B": "Star Wars",
+        "C": "Blade Runner",
+        "D": "The Matrix",
+        "answer": "B",
+        "funFact": "'May the Force be with you' from Star Wars (1977) has become one of the most iconic phrases in cinema history."
+    },
+    {
+        "question": "Which film contains the quote 'I'll be back'?",
+        "A": "Predator",
+        "B": "The Terminator",
+        "C": "Total Recall",
+        "D": "Commando",
+        "answer": "B",
+        "funFact": "Arnold Schwarzenegger's line 'I'll be back' from The Terminator (1984) became his signature catchphrase."
+    },
+    {
+        "question": "Which film contains the quote 'You can't handle the truth!'?",
+        "A": "A Few Good Men",
+        "B": "The Firm",
+        "C": "The Pelican Brief",
+        "D": "Philadelphia",
+        "answer": "A",
+        "funFact": "Jack Nicholson's delivery of 'You can't handle the truth!' in A Few Good Men (1992) is considered one of the greatest movie moments."
+    },
+    {
+        "question": "Which film contains the quote 'Life is like a box of chocolates'?",
+        "A": "Forrest Gump",
+        "B": "Big",
+        "C": "The Green Mile",
+        "D": "Cast Away",
+        "answer": "A",
+        "funFact": "'Life is like a box of chocolates, you never know what you're gonna get' from Forrest Gump (1994) is one of the most quoted movie lines."
+    },
+    {
+        "question": "Which film contains the quote 'I'm the king of the world!'?",
+        "A": "Titanic",
+        "B": "The Great Gatsby",
+        "C": "Citizen Kane",
+        "D": "The Aviator",
+        "answer": "A",
+        "funFact": "Leonardo DiCaprio's line 'I'm the king of the world!' from Titanic (1997) became a cultural catchphrase."
+    },
+    {
+        "question": "Which film contains the quote 'There's no place like home'?",
+        "A": "The Wizard of Oz",
+        "B": "E.T. the Extra-Terrestrial",
+        "C": "Home Alone",
+        "D": "Poltergeist",
+        "answer": "A",
+        "funFact": "Judy Garland's line 'There's no place like home' from The Wizard of Oz (1939) is one of the most memorable movie quotes."
+    },
+    {
+        "question": "Which film contains the quote 'Houston, we have a problem'?",
+        "A": "Apollo 13",
+        "B": "The Right Stuff",
+        "C": "First Man",
+        "D": "Gravity",
+        "answer": "A",
+        "funFact": "The line 'Houston, we have a problem' from Apollo 13 (1995) is actually a misquote; the real line was 'Houston, we've had a problem.'"
+    },
+    {
+        "question": "Which film contains the quote 'You talking to me?'?",
+        "A": "Taxi Driver",
+        "B": "Raging Bull",
+        "C": "Goodfellas",
+        "D": "The Deer Hunter",
+        "answer": "A",
+        "funFact": "Robert De Niro's improvised line 'You talking to me?' from Taxi Driver (1976) is considered one of the greatest movie quotes."
+    },
+    {
+        "question": "Which film contains the quote 'I see dead people'?",
+        "A": "The Sixth Sense",
+        "B": "The Others",
+        "C": "The Ring",
+        "D": "The Exorcist",
+        "answer": "A",
+        "funFact": "Haley Joel Osment's line 'I see dead people' from The Sixth Sense (1999) became one of the most quoted movie lines of the 1990s."
+    },
+    {
+        "question": "Which film contains the quote 'To infinity and beyond!'?",
+        "A": "Toy Story",
+        "B": "Monsters, Inc.",
+        "C": "Finding Nemo",
+        "D": "The Incredibles",
+        "answer": "A",
+        "funFact": "Buzz Lightyear's catchphrase 'To infinity and beyond!' from Toy Story (1995) became a popular cultural reference."
+    },
+    {
+        "question": "Which film contains the quote 'Show me the money!'?",
+        "A": "Jerry Maguire",
+        "B": "Wall Street",
+        "C": "Boiler Room",
+        "D": "The Wolf of Wall Street",
+        "answer": "A",
+        "funFact": "Cuba Gooding Jr.'s line 'Show me the money!' from Jerry Maguire (1996) became a popular catchphrase."
+    },
+    {
+        "question": "Which film contains the quote 'Keep your friends close, but your enemies closer'?",
+        "A": "The Godfather Part II",
+        "B": "Scarface",
+        "C": "Goodfellas",
+        "D": "The Departed",
+        "answer": "A",
+        "funFact": "The line 'Keep your friends close, but your enemies closer' from The Godfather Part II (1974) is often misattributed but actually comes from the film."
+    },
+    {
+        "question": "Which film contains the quote 'I'm going to make him an offer he can't refuse'?",
+        "A": "The Godfather",
+        "B": "Goodfellas",
+        "C": "Casino",
+        "D": "The Sopranos",
+        "answer": "A",
+        "funFact": "Marlon Brando's line 'I'm going to make him an offer he can't refuse' from The Godfather (1972) is one of the most quoted movie lines."
+    },
+    {
+        "question": "Which film contains the quote 'Nobody puts Baby in a corner'?",
+        "A": "Dirty Dancing",
+        "B": "Flashdance",
+        "C": "Footloose",
+        "D": "Saturday Night Fever",
+        "answer": "A",
+        "funFact": "Patrick Swayze's line 'Nobody puts Baby in a corner' from Dirty Dancing (1987) became a romantic movie catchphrase."
+    },
+    {
+        "question": "Which film contains the quote 'You had me at hello'?",
+        "A": "Jerry Maguire",
+        "B": "Sleepless in Seattle",
+        "C": "When Harry Met Sally",
+        "D": "Pretty Woman",
+        "answer": "A",
+        "funFact": "Renée Zellweger's line 'You had me at hello' from Jerry Maguire (1996) became a popular romantic quote."
+    },
+    {
+        "question": "Which film contains the quote 'I'll have what she's having'?",
+        "A": "When Harry Met Sally",
+        "B": "Sleepless in Seattle",
+        "C": "You've Got Mail",
+        "D": "Annie Hall",
+        "answer": "A",
+        "funFact": "The line 'I'll have what she's having' from When Harry Met Sally (1989) was delivered by Estelle Reiner, Rob Reiner's mother."
+    },
+    {
+        "question": "Which film contains the quote 'Frankly, my dear, I don't give a damn'?",
+        "A": "Gone with the Wind",
+        "B": "Casablanca",
+        "C": "Citizen Kane",
+        "D": "The Maltese Falcon",
+        "answer": "A",
+        "funFact": "Clark Gable's line 'Frankly, my dear, I don't give a damn' from Gone with the Wind (1939) was controversial for its use of 'damn' at the time."
+    },
+    {
+        "question": "Which film contains the quote 'I'm walking here!'?",
+        "A": "Midnight Cowboy",
+        "B": "Taxi Driver",
+        "C": "The French Connection",
+        "D": "Serpico",
+        "answer": "A",
+        "funFact": "Dustin Hoffman's improvised line 'I'm walking here!' from Midnight Cowboy (1969) was actually unscripted during filming."
+    },
+    {
+        "question": "Which film contains the quote 'Say hello to my little friend!'?",
+        "A": "Scarface",
+        "B": "The Godfather",
+        "C": "Goodfellas",
+        "D": "Carlito's Way",
+        "answer": "A",
+        "funFact": "Al Pacino's line 'Say hello to my little friend!' from Scarface (1983) is one of the most quoted lines in film history."
+    },
+    {
+        "question": "Which film contains the quote 'I feel the need—the need for speed!'?",
+        "A": "Top Gun",
+        "B": "Days of Thunder",
+        "C": "The Right Stuff",
+        "D": "Iron Eagle",
+        "answer": "A",
+        "funFact": "The line 'I feel the need—the need for speed!' from Top Gun (1986) became a popular catchphrase."
+    },
+    {
+        "question": "Which film contains the quote 'You're gonna need a bigger boat'?",
+        "A": "Jaws",
+        "B": "The Perfect Storm",
+        "C": "Pirates of the Caribbean",
+        "D": "Master and Commander",
+        "answer": "A",
+        "funFact": "Roy Scheider's line 'You're gonna need a bigger boat' from Jaws (1975) was actually improvised during filming."
+    },
+    {
+        "question": "Which film contains the quote 'I am your father'?",
+        "A": "Star Wars: The Empire Strikes Back",
+        "B": "Star Wars",
+        "C": "Star Wars: Return of the Jedi",
+        "D": "Star Wars: Revenge of the Sith",
+        "answer": "A",
+        "funFact": "Darth Vader's line 'I am your father' from The Empire Strikes Back (1980) is one of the most famous plot twists in cinema."
+    },
+    {
+        "question": "Which film contains the quote 'Hasta la vista, baby'?",
+        "A": "Terminator 2: Judgment Day",
+        "B": "The Terminator",
+        "C": "Total Recall",
+        "D": "Predator",
+        "answer": "A",
+        "funFact": "Arnold Schwarzenegger's line 'Hasta la vista, baby' from Terminator 2 (1991) became a popular catchphrase."
+    },
+    {
+        "question": "Which film contains the quote 'I'm the Juggernaut, bitch!'?",
+        "A": "X-Men: The Last Stand",
+        "B": "X-Men",
+        "C": "X2: X-Men United",
+        "D": "Deadpool",
+        "answer": "A",
+        "funFact": "The line 'I'm the Juggernaut, bitch!' from X-Men: The Last Stand (2006) became a popular internet meme."
+    },
+    {
+        "question": "Which film contains the quote 'Why so serious?'?",
+        "A": "The Dark Knight",
+        "B": "Batman Begins",
+        "C": "Batman",
+        "D": "Joker",
+        "answer": "A",
+        "funFact": "Heath Ledger's line 'Why so serious?' from The Dark Knight (2008) became one of the most quoted villain lines."
+    },
+    {
+        "question": "Which film contains the quote 'I'm the king of the world!'?",
+        "A": "Titanic",
+        "B": "The Great Gatsby",
+        "C": "Citizen Kane",
+        "D": "The Aviator",
+        "answer": "A",
+        "funFact": "Leonardo DiCaprio's line 'I'm the king of the world!' from Titanic (1997) was actually improvised during filming."
+    },
+    {
+        "question": "Which film contains the quote 'You shall not pass!'?",
+        "A": "The Lord of the Rings: The Fellowship of the Ring",
+        "B": "The Lord of the Rings: The Two Towers",
+        "C": "The Lord of the Rings: The Return of the King",
+        "D": "The Hobbit",
+        "answer": "A",
+        "funFact": "Gandalf's line 'You shall not pass!' from The Fellowship of the Ring (2001) became a popular internet meme."
+    },
+    {
+        "question": "Which film contains the quote 'I'll be back'?",
+        "A": "The Terminator",
+        "B": "Predator",
+        "C": "Total Recall",
+        "D": "Commando",
+        "answer": "A",
+        "funFact": "Arnold Schwarzenegger's line 'I'll be back' from The Terminator (1984) is one of the most quoted movie lines ever."
+    },
+    {
+        "question": "Which film contains the quote 'Elementary, my dear Watson'?",
+        "A": "Sherlock Holmes",
+        "B": "The Adventures of Sherlock Holmes",
+        "C": "Sherlock Holmes: A Game of Shadows",
+        "D": "None of the above - it's not in the original stories",
+        "answer": "D",
+        "funFact": "The phrase 'Elementary, my dear Watson' was never actually said in the original Sherlock Holmes stories by Arthur Conan Doyle."
+    },
+    {
+        "question": "Which film contains the quote 'I'm ready for my close-up, Mr. DeMille'?",
+        "A": "Sunset Boulevard",
+        "B": "All About Eve",
+        "C": "What Ever Happened to Baby Jane?",
+        "D": "The Bad and the Beautiful",
+        "answer": "A",
+        "funFact": "Gloria Swanson's line 'I'm ready for my close-up, Mr. DeMille' from Sunset Boulevard (1950) is one of the most famous movie endings."
+    },
+    {
+        "question": "Which film contains the quote 'Rosebud'?",
+        "A": "Citizen Kane",
+        "B": "The Magnificent Ambersons",
+        "C": "The Third Man",
+        "D": "Touch of Evil",
+        "answer": "A",
+        "funFact": "The word 'Rosebud' from Citizen Kane (1941) is one of the most famous words in cinema history, representing the mystery at the heart of the film."
+    },
+    {
+        "question": "Which film contains the quote 'I'm as mad as hell, and I'm not going to take this anymore!'?",
+        "A": "Network",
+        "B": "Taxi Driver",
+        "C": "One Flew Over the Cuckoo's Nest",
+        "D": "The Deer Hunter",
+        "answer": "A",
+        "funFact": "Peter Finch's line 'I'm as mad as hell, and I'm not going to take this anymore!' from Network (1976) won him a posthumous Oscar."
+    },
+    {
+        "question": "Which film contains the quote 'I'm the Dude. So that's what you call me'?",
+        "A": "The Big Lebowski",
+        "B": "Fargo",
+        "C": "No Country for Old Men",
+        "D": "Burn After Reading",
+        "answer": "A",
+        "funFact": "Jeff Bridges' character 'The Dude' from The Big Lebowski (1998) became a cult icon with his laid-back philosophy."
+    },
+    {
+        "question": "Which film contains the quote 'I see you'?",
+        "A": "Avatar",
+        "B": "The Lord of the Rings",
+        "C": "Star Wars",
+        "D": "The Matrix",
+        "answer": "A",
+        "funFact": "The Na'vi phrase 'I see you' (Oel ngati kameie) from Avatar (2009) became a popular catchphrase."
+    },
+    {
+        "question": "Which film contains the quote 'I'm Batman'?",
+        "A": "Batman Begins",
+        "B": "The Dark Knight",
+        "C": "Batman",
+        "D": "A combination of unrelated events",
+        "answer": "D",
+        "funFact": "The line 'I'm Batman' has been said in multiple Batman films, becoming one of the character's signature phrases."
+    },
+    {
+        "question": "Which film contains the quote 'I'll be back'?",
+        "A": "The Terminator",
+        "B": "Terminator 2: Judgment Day",
+        "C": "Terminator 3: Rise of the Machines",
+        "D": "A combination of unrelated events",
+        "answer": "D",
+        "funFact": "Arnold Schwarzenegger's line 'I'll be back' appears in multiple Terminator films, becoming his signature catchphrase."
+    }
+]

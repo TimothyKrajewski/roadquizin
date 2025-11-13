@@ -9,10 +9,10 @@
         "funFact": "The Roman Republic was founded in 509 BC after the overthrow of the last Roman king, Tarquin the Proud. It lasted until 27 BC."
     },
     {
-        "question": "What was the Roman Republic?",
+        "question": "What was the primary characteristic of the Roman Republic?",
         "A": "A form of government",
         "B": "Elected officials",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A monarchy",
         "answer": "A",
         "funFact": "The Roman Republic was a form of government with elected officials. It was not a democracy (only citizens could vote), but it had elements of representative government."
@@ -21,16 +21,16 @@
         "question": "What were the two consuls?",
         "A": "The chief executives",
         "B": "Elected annually",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Appointed for life",
         "answer": "A",
         "funFact": "The two consuls were the chief executives of the Roman Republic, elected annually. They had equal power and could veto each other's decisions."
     },
     {
-        "question": "What was the Senate?",
+        "question": "What was the primary characteristic of the Senate?",
         "A": "An advisory body",
         "B": "Made up of patricians",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Elected officials",
         "answer": "A",
         "funFact": "The Senate was an advisory body made up of patricians (nobles). It had great influence and advised the consuls on important matters."
@@ -39,16 +39,16 @@
         "question": "What were the Twelve Tables?",
         "A": "The first written Roman laws",
         "B": "Created in 450 BC",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Oral traditions",
         "answer": "A",
         "funFact": "The Twelve Tables were the first written Roman laws, created in 450 BC. They established the principle that laws should be written and public."
     },
     {
-        "question": "What was the Conflict of the Orders?",
+        "question": "What was the primary characteristic of the Conflict of the Orders?",
         "A": "A struggle between patricians and plebeians",
         "B": "Lasted for centuries",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A war",
         "answer": "A",
         "funFact": "The Conflict of the Orders was a struggle between patricians (nobles) and plebeians (commoners) for political rights. It lasted for centuries."
@@ -57,7 +57,7 @@
         "question": "What were the Punic Wars?",
         "A": "Wars between Rome and Carthage",
         "B": "Three wars",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "Wars with Greece",
         "answer": "A",
         "funFact": "The Punic Wars were three wars between Rome and Carthage (264-146 BC). Rome eventually destroyed Carthage and became the dominant power in the Mediterranean."
@@ -66,7 +66,7 @@
         "question": "Who was Hannibal?",
         "A": "A Carthaginian general",
         "B": "Crossed the Alps with elephants",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "A Roman general",
         "answer": "A",
         "funFact": "Hannibal was a Carthaginian general who crossed the Alps with elephants during the Second Punic War. He was one of history's greatest military strategists."
@@ -75,16 +75,16 @@
         "question": "Who was Scipio Africanus?",
         "A": "A Roman general",
         "B": "Defeated Hannibal",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "A Carthaginian general",
         "answer": "A",
         "funFact": "Scipio Africanus was a Roman general who defeated Hannibal at the Battle of Zama in 202 BC, ending the Second Punic War."
     },
     {
-        "question": "What was the Gracchi?",
+        "question": "What was the primary characteristic of the Gracchi?",
         "A": "Two brothers",
         "B": "Tried to reform land distribution",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Emperors",
         "answer": "A",
         "funFact": "The Gracchi brothers (Tiberius and Gaius) tried to reform land distribution in the late 2nd century BC. Both were killed by their political enemies."
@@ -93,7 +93,7 @@
         "question": "Who was Marius?",
         "A": "A Roman general",
         "B": "Reformed the army",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "An emperor",
         "answer": "A",
         "funFact": "Marius was a Roman general who reformed the army, allowing landless citizens to serve. This created armies loyal to generals rather than the state."
@@ -102,7 +102,7 @@
         "question": "Who was Sulla?",
         "A": "A Roman general",
         "B": "Became dictator",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "An emperor",
         "answer": "A",
         "funFact": "Sulla was a Roman general who became dictator in 82 BC. He used his power to purge his enemies and reform the government."
@@ -111,25 +111,25 @@
         "question": "Who was Julius Caesar?",
         "A": "A Roman general",
         "B": "Became dictator for life",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "An emperor",
         "answer": "A",
         "funFact": "Julius Caesar was a Roman general who became dictator for life in 44 BC. He was assassinated by senators who feared he would become a king."
     },
     {
-        "question": "What was the First Triumvirate?",
+        "question": "What was the primary characteristic of the First Triumvirate?",
         "A": "An alliance of three men",
         "B": "Caesar, Pompey, and Crassus",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A government body",
         "answer": "A",
         "funFact": "The First Triumvirate was an informal alliance between Julius Caesar, Pompey, and Crassus. It helped them control Roman politics but eventually fell apart."
     },
     {
-        "question": "What was the Second Triumvirate?",
+        "question": "What was the primary characteristic of the Second Triumvirate?",
         "A": "An alliance of three men",
         "B": "Octavian, Mark Antony, and Lepidus",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A government body",
         "answer": "A",
         "funFact": "The Second Triumvirate was a formal alliance between Octavian (Augustus), Mark Antony, and Lepidus. It ended with Octavian defeating Antony and becoming emperor."
@@ -138,34 +138,34 @@
         "question": "What ended the Roman Republic?",
         "A": "Civil wars",
         "B": "Rise of powerful generals",
-        "C": "Neither A nor B",
+        "C": "The Battle of the Somme (World War I)",
         "D": "External invasion",
         "answer": "A",
         "funFact": "The Roman Republic ended due to civil wars and the rise of powerful generals. The republic's institutions couldn't handle the growing power of military leaders."
     },
     {
-        "question": "What was the Roman Republic's legacy?",
+        "question": "What was the primary characteristic of the Roman Republic's legacy?",
         "A": "Influenced modern governments",
         "B": "Concepts of checks and balances",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Forgotten",
         "answer": "A",
         "funFact": "The Roman Republic influenced modern governments and introduced concepts like checks and balances, separation of powers, and representative government."
     },
     {
-        "question": "What was the Roman Republic's duration?",
+        "question": "What was the primary characteristic of the Roman Republic's duration?",
         "A": "About 500 years",
         "B": "509 BC to 27 BC",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "About 200 years",
         "answer": "A",
         "funFact": "The Roman Republic lasted about 500 years, from 509 BC to 27 BC. It was one of the longest-lasting republics in history."
     },
     {
-        "question": "What was the Roman Republic's expansion?",
+        "question": "What was the primary characteristic of the Roman Republic's expansion?",
         "A": "From city-state to empire",
         "B": "Conquered much of the Mediterranean",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Stayed small",
         "answer": "A",
         "funFact": "The Roman Republic expanded from a small city-state to an empire that conquered much of the Mediterranean, including Italy, Spain, Greece, and North Africa."

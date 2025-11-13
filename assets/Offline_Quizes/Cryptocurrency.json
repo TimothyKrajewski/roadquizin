@@ -49,7 +49,7 @@
         "A": "Cryptocurrencyology",
         "B": "Cryptocurrency",
         "C": "Blockchain technology",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Cryptocurrency is studied through blockchain technology, cryptography, and digital finance research."
     },
@@ -90,15 +90,6 @@
         "funFact": "Cryptocurrency has the potential to transform finance, enable decentralized transactions, and create new economic systems."
     },
     {
-        "question": "What is the study of cryptocurrency called?",
-        "A": "Cryptocurrencyology",
-        "B": "Blockchain studies",
-        "C": "Digital finance",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Cryptocurrency involves blockchain technology, cryptography, economics, and digital finance."
-    },
-    {
         "question": "What is the difference between cryptocurrency and traditional currency?",
         "A": "They're the same",
         "B": "Cryptocurrency is decentralized and digital",
@@ -117,42 +108,6 @@
         "funFact": "Cryptocurrency is challenging traditional banking and payment systems, enabling peer-to-peer transactions without intermediaries."
     },
     {
-        "question": "What is the origin of cryptocurrency?",
-        "A": "The 2000s",
-        "B": "2009",
-        "C": "The 1990s",
-        "D": "The 1980s",
-        "answer": "B",
-        "funFact": "Cryptocurrency began with Bitcoin in 2009, though concepts of digital currency existed earlier."
-    },
-    {
-        "question": "What is the future of cryptocurrency?",
-        "A": "No future",
-        "B": "Continued development and potential mainstream adoption",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of cryptocurrency includes continued development, potential regulation, and possible mainstream adoption."
-    },
-    {
-        "question": "What is the study of cryptocurrency called?",
-        "A": "Cryptocurrencyology",
-        "B": "Cryptocurrency research",
-        "C": "Blockchain technology",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Cryptocurrency is studied through blockchain technology, cryptography, economics, and digital finance."
-    },
-    {
-        "question": "What is the importance of cryptocurrency?",
-        "A": "Not important",
-        "B": "Potential to revolutionize finance",
-        "C": "Minor importance",
-        "D": "Only for investors",
-        "answer": "B",
-        "funFact": "Cryptocurrency has the potential to revolutionize finance, enable new economic models, and provide financial inclusion."
-    },
-    {
         "question": "What is the difference between Bitcoin and other cryptocurrencies?",
         "A": "They're the same",
         "B": "Bitcoin was first, others are alternatives",
@@ -169,23 +124,5 @@
         "D": "Only affects technology",
         "answer": "B",
         "funFact": "Cryptocurrency has the potential to change how people transact, store value, and interact with financial systems."
-    },
-    {
-        "question": "What is the origin of cryptocurrency?",
-        "A": "The 2000s",
-        "B": "2009",
-        "C": "The 1990s",
-        "D": "The 1980s",
-        "answer": "B",
-        "funFact": "Cryptocurrency began with Bitcoin in 2009, created to enable peer-to-peer electronic cash without central authority."
-    },
-    {
-        "question": "What is the future of cryptocurrency?",
-        "A": "No future",
-        "B": "Continued innovation and evolution",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of cryptocurrency includes continued innovation, new use cases, and potential integration with traditional finance."
     }
 ]

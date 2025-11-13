@@ -76,7 +76,7 @@
         "A": "Disney Channel",
         "B": "Disney XD",
         "C": "Disney Junior",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Disney operates multiple cable networks: Disney Channel (launched 1983), Disney XD (2009), and Disney Junior (2012)."
     },
@@ -94,7 +94,7 @@
         "A": "Disney Publishing",
         "B": "Disney Books",
         "C": "Disney Press",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Disney Publishing Worldwide is Disney's publishing division. It publishes books, magazines, and digital content based on Disney properties."
     },
@@ -103,7 +103,7 @@
         "A": "Walt Disney Records",
         "B": "Disney Music",
         "C": "Hollywood Records",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Disney operates multiple record labels: Walt Disney Records (for Disney-branded music) and Hollywood Records (for other artists)."
     },
@@ -121,7 +121,7 @@
         "A": "Disney Consumer Products",
         "B": "Disney Merchandise",
         "C": "Disney Store",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Disney Consumer Products (now part of Disney Parks, Experiences and Products) manages Disney's merchandise, licensing, and retail operations."
     },

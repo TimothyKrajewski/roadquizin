@@ -1,0 +1,291 @@
+[
+  {
+    "question": "Which Beatles album is often considered their masterpiece?",
+    "A": "Sgt. Pepper's Lonely Hearts Club Band",
+    "B": "Abbey Road",
+    "C": "The White Album",
+    "D": "Revolver",
+    "answer": "A",
+    "funFact": "Sgt. Pepper's Lonely Hearts Club Band was released in 1967 and is widely regarded as one of the greatest albums of all time."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Paint It Black'?",
+    "A": "Aftermath",
+    "B": "Beggars Banquet",
+    "C": "Let It Bleed",
+    "D": "Sticky Fingers",
+    "answer": "A",
+    "funFact": "Aftermath by The Rolling Stones was released in 1966 and featured Paint It Black as a single."
+  },
+  {
+    "question": "Which Beatles song was their first number one hit in the US?",
+    "A": "I Want to Hold Your Hand",
+    "B": "She Loves You",
+    "C": "Love Me Do",
+    "D": "Please Please Me",
+    "answer": "A",
+    "funFact": "I Want to Hold Your Hand by The Beatles was released in 1963 and became their first number one hit in the US in 1964."
+  },
+  {
+    "question": "Which Rolling Stones song features the opening line 'I can't get no satisfaction'?",
+    "A": "(I Can't Get No) Satisfaction",
+    "B": "Paint It Black",
+    "C": "Jumpin' Jack Flash",
+    "D": "Sympathy for the Devil",
+    "answer": "A",
+    "funFact": "(I Can't Get No) Satisfaction by The Rolling Stones was released in 1965 and became one of their most iconic songs."
+  },
+  {
+    "question": "Which Beatles album was their last studio album?",
+    "A": "Abbey Road",
+    "B": "Let It Be",
+    "C": "The White Album",
+    "D": "Sgt. Pepper's Lonely Hearts Club Band",
+    "answer": "A",
+    "funFact": "Abbey Road by The Beatles was released in 1969 and was their last studio album recorded together, though Let It Be was released later."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Gimme Shelter'?",
+    "A": "Let It Bleed",
+    "B": "Beggars Banquet",
+    "C": "Sticky Fingers",
+    "D": "Exile on Main St.",
+    "answer": "A",
+    "funFact": "Let It Bleed by The Rolling Stones was released in 1969 and featured Gimme Shelter as the opening track."
+  },
+  {
+    "question": "Which Beatles song features the line 'All you need is love'?",
+    "A": "All You Need Is Love",
+    "B": "Hey Jude",
+    "C": "Let It Be",
+    "D": "Yesterday",
+    "answer": "A",
+    "funFact": "All You Need Is Love by The Beatles was released in 1967 and was performed live via satellite for the first global television broadcast."
+  },
+  {
+    "question": "Which Rolling Stones song features the line 'Please allow me to introduce myself'?",
+    "A": "Sympathy for the Devil",
+    "B": "Paint It Black",
+    "C": "Jumpin' Jack Flash",
+    "D": "(I Can't Get No) Satisfaction",
+    "answer": "A",
+    "funFact": "Sympathy for the Devil by The Rolling Stones was released in 1968 and features Mick Jagger as the narrator from the devil's perspective."
+  },
+  {
+    "question": "Which Beatles song is the most covered song in history?",
+    "A": "Yesterday",
+    "B": "Hey Jude",
+    "C": "Let It Be",
+    "D": "All You Need Is Love",
+    "answer": "A",
+    "funFact": "Yesterday by The Beatles has been covered by over 2,200 artists, making it the most covered song in history."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Brown Sugar'?",
+    "A": "Sticky Fingers",
+    "B": "Let It Bleed",
+    "C": "Beggars Banquet",
+    "D": "Exile on Main St.",
+    "answer": "A",
+    "funFact": "Sticky Fingers by The Rolling Stones was released in 1971 and featured Brown Sugar as the lead single."
+  },
+  {
+    "question": "Which Beatles song features the line 'Hey Jude, don't be afraid'?",
+    "A": "Hey Jude",
+    "B": "Yesterday",
+    "C": "Let It Be",
+    "D": "All You Need Is Love",
+    "answer": "A",
+    "funFact": "Hey Jude by The Beatles was released in 1968 and became their longest number one hit at over 7 minutes."
+  },
+  {
+    "question": "Which Rolling Stones song features the line 'It's only rock and roll but I like it'?",
+    "A": "It's Only Rock 'n Roll (But I Like It)",
+    "B": "Brown Sugar",
+    "C": "Jumpin' Jack Flash",
+    "D": "Sympathy for the Devil",
+    "answer": "A",
+    "funFact": "It's Only Rock 'n Roll (But I Like It) by The Rolling Stones was released in 1974 and became a signature song."
+  },
+  {
+    "question": "Which Beatles song features the line 'Let it be, let it be'?",
+    "A": "Let It Be",
+    "B": "Hey Jude",
+    "C": "Yesterday",
+    "D": "All You Need Is Love",
+    "answer": "A",
+    "funFact": "Let It Be by The Beatles was released in 1970 and was inspired by a dream Paul McCartney had about his mother."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Start Me Up'?",
+    "A": "Tattoo You",
+    "B": "Sticky Fingers",
+    "C": "Let It Bleed",
+    "D": "Exile on Main St.",
+    "answer": "A",
+    "funFact": "Tattoo You by The Rolling Stones was released in 1981 and featured Start Me Up as the lead single."
+  },
+  {
+    "question": "Which Beatles song features the line 'She loves you, yeah, yeah, yeah'?",
+    "A": "She Loves You",
+    "B": "I Want to Hold Your Hand",
+    "C": "Love Me Do",
+    "D": "Please Please Me",
+    "answer": "A",
+    "funFact": "She Loves You by The Beatles was released in 1963 and became one of their early hits in the UK."
+  },
+  {
+    "question": "Which Rolling Stones song features the line 'Jumpin' Jack Flash, it's a gas, gas, gas'?",
+    "A": "Jumpin' Jack Flash",
+    "B": "Paint It Black",
+    "C": "Sympathy for the Devil",
+    "D": "(I Can't Get No) Satisfaction",
+    "answer": "A",
+    "funFact": "Jumpin' Jack Flash by The Rolling Stones was released in 1968 and became one of their most popular songs."
+  },
+  {
+    "question": "Which Beatles album is also known as 'The White Album'?",
+    "A": "The Beatles",
+    "B": "Abbey Road",
+    "C": "Sgt. Pepper's Lonely Hearts Club Band",
+    "D": "Revolver",
+    "answer": "A",
+    "funFact": "The Beatles (1968) is commonly known as The White Album due to its plain white cover design."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Wild Horses'?",
+    "A": "Sticky Fingers",
+    "B": "Let It Bleed",
+    "C": "Beggars Banquet",
+    "D": "Exile on Main St.",
+    "answer": "A",
+    "funFact": "Sticky Fingers by The Rolling Stones was released in 1971 and featured Wild Horses as a ballad."
+  },
+  {
+    "question": "Which Beatles song features the line 'I am the walrus'?",
+    "A": "I Am the Walrus",
+    "B": "Strawberry Fields Forever",
+    "C": "Lucy in the Sky with Diamonds",
+    "D": "A Day in the Life",
+    "answer": "A",
+    "funFact": "I Am the Walrus by The Beatles was released in 1967 and was written by John Lennon with surreal lyrics."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Angie'?",
+    "A": "Goats Head Soup",
+    "B": "Sticky Fingers",
+    "C": "Let It Bleed",
+    "D": "Exile on Main St.",
+    "answer": "A",
+    "funFact": "Goats Head Soup by The Rolling Stones was released in 1973 and featured Angie as a ballad."
+  },
+  {
+    "question": "Which Beatles song features the line 'Lucy in the sky with diamonds'?",
+    "A": "Lucy in the Sky with Diamonds",
+    "B": "I Am the Walrus",
+    "C": "Strawberry Fields Forever",
+    "D": "A Day in the Life",
+    "answer": "A",
+    "funFact": "Lucy in the Sky with Diamonds by The Beatles was released in 1967 and was inspired by a drawing by John Lennon's son."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'You Can't Always Get What You Want'?",
+    "A": "Let It Bleed",
+    "B": "Beggars Banquet",
+    "C": "Sticky Fingers",
+    "D": "Exile on Main St.",
+    "answer": "A",
+    "funFact": "Let It Bleed by The Rolling Stones was released in 1969 and featured You Can't Always Get What You Want as the closing track."
+  },
+  {
+    "question": "Which Beatles song features the line 'Strawberry fields forever'?",
+    "A": "Strawberry Fields Forever",
+    "B": "Lucy in the Sky with Diamonds",
+    "C": "I Am the Walrus",
+    "D": "A Day in the Life",
+    "answer": "A",
+    "funFact": "Strawberry Fields Forever by The Beatles was released in 1967 and was inspired by a Salvation Army children's home in Liverpool."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Honky Tonk Women'?",
+    "A": "Through the Past, Darkly (Big Hits Vol. 2)",
+    "B": "Let It Bleed",
+    "C": "Sticky Fingers",
+    "D": "Exile on Main St.",
+    "answer": "A",
+    "funFact": "Honky Tonk Women by The Rolling Stones was released as a single in 1969 and became a number one hit."
+  },
+  {
+    "question": "Which Beatles song features the line 'A day in the life'?",
+    "A": "A Day in the Life",
+    "B": "Strawberry Fields Forever",
+    "C": "Lucy in the Sky with Diamonds",
+    "D": "I Am the Walrus",
+    "answer": "A",
+    "funFact": "A Day in the Life by The Beatles was released in 1967 and features a famous orchestral crescendo."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Tumbling Dice'?",
+    "A": "Exile on Main St.",
+    "B": "Sticky Fingers",
+    "C": "Let It Bleed",
+    "D": "Goats Head Soup",
+    "answer": "A",
+    "funFact": "Exile on Main St. by The Rolling Stones was released in 1972 and featured Tumbling Dice as a single."
+  },
+  {
+    "question": "Which Beatles song features the line 'Here comes the sun'?",
+    "A": "Here Comes the Sun",
+    "B": "Hey Jude",
+    "C": "Let It Be",
+    "D": "Yesterday",
+    "answer": "A",
+    "funFact": "Here Comes the Sun by The Beatles was released in 1969 and was written by George Harrison."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Miss You'?",
+    "A": "Some Girls",
+    "B": "Exile on Main St.",
+    "C": "Sticky Fingers",
+    "D": "Goats Head Soup",
+    "answer": "A",
+    "funFact": "Some Girls by The Rolling Stones was released in 1978 and featured Miss You as a disco-influenced single."
+  },
+  {
+    "question": "Which Beatles song features the line 'Something in the way she moves'?",
+    "A": "Something",
+    "B": "Here Comes the Sun",
+    "C": "Hey Jude",
+    "D": "Let It Be",
+    "answer": "A",
+    "funFact": "Something by The Beatles was released in 1969 and was written by George Harrison, becoming one of his most famous compositions."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Beast of Burden'?",
+    "A": "Some Girls",
+    "B": "Exile on Main St.",
+    "C": "Sticky Fingers",
+    "D": "Goats Head Soup",
+    "answer": "A",
+    "funFact": "Some Girls by The Rolling Stones was released in 1978 and featured Beast of Burden as a ballad."
+  },
+  {
+    "question": "Which Beatles song features the line 'Come together, right now, over me'?",
+    "A": "Come Together",
+    "B": "Something",
+    "C": "Here Comes the Sun",
+    "D": "Hey Jude",
+    "answer": "A",
+    "funFact": "Come Together by The Beatles was released in 1969 and was written by John Lennon as a campaign song for Timothy Leary."
+  },
+  {
+    "question": "Which Rolling Stones album features the song 'Ruby Tuesday'?",
+    "A": "Between the Buttons",
+    "B": "Some Girls",
+    "C": "Exile on Main St.",
+    "D": "Sticky Fingers",
+    "answer": "A",
+    "funFact": "Ruby Tuesday by The Rolling Stones was released as a single in 1967 and became a number one hit."
+  }
+]
+

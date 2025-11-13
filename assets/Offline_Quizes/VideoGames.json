@@ -40,7 +40,7 @@
         "A": "Gameology",
         "B": "Game studies",
         "C": "Ludology",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Video games are studied through game studies, ludology (study of games), and interactive media research."
     },
@@ -81,15 +81,6 @@
         "funFact": "Video games have become a major entertainment medium, art form, and cultural phenomenon, with educational and social value."
     },
     {
-        "question": "What is the study of video games called?",
-        "A": "Gameology",
-        "B": "Game design",
-        "C": "Interactive media",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Video games involve game design, programming, art, music, and storytelling, making it a multidisciplinary field."
-    },
-    {
         "question": "What is the difference between single-player and multiplayer games?",
         "A": "They're the same",
         "B": "Single-player is solo, multiplayer involves multiple players",
@@ -108,42 +99,6 @@
         "funFact": "Video games have influenced culture, entertainment, technology, and how people interact and learn."
     },
     {
-        "question": "What is the origin of video games?",
-        "A": "The 2000s",
-        "B": "The 1950s-1970s",
-        "C": "The 1980s",
-        "D": "The 1990s",
-        "answer": "B",
-        "funFact": "Video games began in the 1950s-1970s, evolving from simple games to today's complex, immersive experiences."
-    },
-    {
-        "question": "What is the future of video games?",
-        "A": "No future",
-        "B": "Continued innovation and new experiences",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of video games includes VR/AR, cloud gaming, AI-generated content, and new ways to play and interact."
-    },
-    {
-        "question": "What is the study of video games called?",
-        "A": "Gameology",
-        "B": "Game studies",
-        "C": "Digital games",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Video games are studied through game studies, digital media, and interactive entertainment research."
-    },
-    {
-        "question": "What is the importance of video games?",
-        "A": "Not important",
-        "B": "Significant entertainment and cultural medium",
-        "C": "Minor importance",
-        "D": "Only for fun",
-        "answer": "B",
-        "funFact": "Video games are a significant entertainment medium, art form, and cultural phenomenon with educational and social value."
-    },
-    {
         "question": "What is the difference between casual and hardcore games?",
         "A": "They're the same",
         "B": "Casual is easy, hardcore is challenging",
@@ -160,32 +115,5 @@
         "D": "Only affects games",
         "answer": "B",
         "funFact": "Video games have driven advances in graphics, AI, processing power, and hardware technology."
-    },
-    {
-        "question": "What is the origin of video games?",
-        "A": "The 2000s",
-        "B": "The 1950s-1970s",
-        "C": "The 1980s",
-        "D": "The 1990s",
-        "answer": "B",
-        "funFact": "Video games originated in the 1950s-1970s, with early games leading to the arcade and home console era."
-    },
-    {
-        "question": "What is the future of video games?",
-        "A": "No future",
-        "B": "More immersive, accessible, and innovative",
-        "C": "Stagnation",
-        "D": "Decline",
-        "answer": "B",
-        "funFact": "The future of video games includes more immersive experiences, better accessibility, and new ways to create and play games."
-    },
-    {
-        "question": "What is the study of video games called?",
-        "A": "Gameology",
-        "B": "Game research",
-        "C": "Interactive entertainment",
-        "D": "None of the above",
-        "answer": "A",
-        "funFact": "Video games are studied through game research, interactive media, and entertainment technology studies."
     }
 ]

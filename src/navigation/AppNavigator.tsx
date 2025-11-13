@@ -16,14 +16,32 @@ const Stack = createStackNavigator<RootStackParamList>();
 const AppNavigator: React.FC = () => {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home">
+      <Stack.Navigator 
+        initialRouteName="Home"
+        screenOptions={{
+          headerShown: true,
+          headerBackTitleVisible: false,
+        }}
+      >
         <Stack.Screen name="Home" component={HomeScreen} />
-        <Stack.Screen name="SelectQuiz" component={SelectQuizScreen} />
-        <Stack.Screen name="Quiz" component={QuizScreen} />
-        <Stack.Screen name="FunFacts" component={FunFactsScreen} />
-        <Stack.Screen name="Settings" component={SettingsScreen} />
-        <Stack.Screen name="QuizHistory" component={QuizHistoryScreen} />
-        <Stack.Screen name="RequestQuiz" component={RequestQuizScreen} />
+        <Stack.Screen 
+          name="SelectQuiz" 
+          component={SelectQuizScreen}
+          options={{ title: 'Choose a Quiz' }}
+        />
+        <Stack.Screen 
+          name="Quiz" 
+          component={QuizScreen}
+          options={{ headerBackTitle: 'Back to Quizzes' }}
+        />
+        <Stack.Screen name="FunFacts" component={FunFactsScreen}  options={{ title: 'Pull a fun fact!' }} />
+        <Stack.Screen name="Settings" component={SettingsScreen}  options={{ title: 'Settings' }} />
+        <Stack.Screen 
+          name="QuizHistory" 
+          component={QuizHistoryScreen}
+          options={{ title: 'Quiz History' }}
+        />
+        <Stack.Screen name="RequestQuiz" component={RequestQuizScreen}  options={{ title: 'Request A Quiz Topic' }}/>
         <Stack.Screen
           name="Results"
           component={ResultsScreen}

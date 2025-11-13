@@ -1,18 +1,18 @@
 [
     {
-        "question": "What was the Roman language?",
+        "question": "What was the primary characteristic of the Roman language?",
         "A": "Latin",
         "B": "Influenced many languages",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Greek",
         "answer": "A",
         "funFact": "Latin was the language of the Roman Empire and influenced many modern languages, including English, Spanish, French, and Italian."
     },
     {
-        "question": "What was Roman literature?",
+        "question": "What was the primary characteristic of Roman literature?",
         "A": "Influential",
         "B": "Included poetry and history",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Nonexistent",
         "answer": "A",
         "funFact": "Roman literature was highly influential and included poetry (Virgil, Ovid), history (Livy, Tacitus), and philosophy (Cicero, Seneca)."
@@ -36,28 +36,28 @@
         "funFact": "Ovid wrote the Metamorphoses, a collection of mythological stories. He was exiled by Augustus and died in exile."
     },
     {
-        "question": "What was Roman art?",
+        "question": "What was the primary characteristic of Roman art?",
         "A": "Influenced by Greek art",
         "B": "Included sculpture and painting",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Original",
         "answer": "A",
         "funFact": "Roman art was influenced by Greek art but developed its own style. It included sculpture, painting, mosaics, and architecture."
     },
     {
-        "question": "What was Roman architecture?",
+        "question": "What was the primary characteristic of Roman architecture?",
         "A": "Influential",
         "B": "Used arches and domes",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Primitive",
         "answer": "A",
         "funFact": "Roman architecture was highly influential and used arches, domes, and concrete. Many Roman buildings still stand today."
     },
     {
-        "question": "What was the Pantheon?",
+        "question": "What was the primary characteristic of the Pantheon?",
         "A": "A temple in Rome",
         "B": "Has a famous dome",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A theater",
         "answer": "A",
         "funFact": "The Pantheon in Rome is a temple with a famous dome. It was rebuilt by Hadrian and is one of the best-preserved Roman buildings."
@@ -67,114 +67,114 @@
         "A": "Gladiator fights",
         "B": "Chariot races",
         "C": "Theater",
-        "D": "None of the above",
+        "D": "A fictional battle",
         "answer": "A",
         "funFact": "Roman entertainment included gladiator fights, chariot races, theater, and public games. The Colosseum and Circus Maximus were major venues."
     },
     {
-        "question": "What was the Colosseum?",
+        "question": "What was the primary characteristic of the Colosseum?",
         "A": "A gladiatorial arena",
         "B": "Built in Rome",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A temple",
         "answer": "A",
         "funFact": "The Colosseum in Rome was a massive gladiatorial arena built in 70-80 AD. It could hold up to 80,000 spectators and hosted gladiator fights and other events."
     },
     {
-        "question": "What was the Circus Maximus?",
+        "question": "What was the primary characteristic of the Circus Maximus?",
         "A": "A chariot racing track",
         "B": "Could hold 250,000 people",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "A theater",
         "answer": "A",
         "funFact": "The Circus Maximus was a chariot racing track in Rome that could hold up to 250,000 people. It was the largest entertainment venue in the ancient world."
     },
     {
-        "question": "What was Roman religion?",
+        "question": "What was the primary characteristic of Roman religion?",
         "A": "Polytheistic",
         "B": "Many gods",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Monotheistic",
         "answer": "A",
         "funFact": "Roman religion was polytheistic, with many gods. The Romans adopted gods from other cultures and had a complex religious system."
     },
     {
-        "question": "What was Roman philosophy?",
+        "question": "What was the primary characteristic of Roman philosophy?",
         "A": "Influenced by Greek philosophy",
         "B": "Included Stoicism and Epicureanism",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Original",
         "answer": "A",
         "funFact": "Roman philosophy was influenced by Greek philosophy and included Stoicism (Marcus Aurelius, Seneca) and Epicureanism."
     },
     {
-        "question": "What was Roman education?",
+        "question": "What was the primary characteristic of Roman education?",
         "A": "For the wealthy",
         "B": "Emphasized rhetoric and literature",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "For everyone",
         "answer": "A",
         "funFact": "Roman education was primarily for the wealthy and emphasized rhetoric, literature, and philosophy. Most common people received little formal education."
     },
     {
-        "question": "What was Roman food?",
+        "question": "What was the primary characteristic of Roman food?",
         "A": "Varied",
         "B": "Included bread, wine, and olive oil",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Simple",
         "answer": "A",
         "funFact": "Roman food varied by social class. Staples included bread, wine, and olive oil. The wealthy enjoyed elaborate banquets with exotic foods."
     },
     {
-        "question": "What was Roman clothing?",
+        "question": "What was the primary characteristic of Roman clothing?",
         "A": "Togas for citizens",
         "B": "Tunics for common people",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Uniform",
         "answer": "A",
         "funFact": "Roman clothing varied by class. Togas were worn by male citizens, while common people wore tunics. Clothing indicated social status."
     },
     {
-        "question": "What was Roman social structure?",
+        "question": "What was the primary characteristic of Roman social structure?",
         "A": "Hierarchical",
         "B": "Patricians and plebeians",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Egalitarian",
         "answer": "A",
         "funFact": "Roman society was hierarchical, with patricians (nobles) at the top and plebeians (commoners) below. Slaves were at the bottom of society."
     },
     {
-        "question": "What was Roman law?",
+        "question": "What was the primary characteristic of Roman law?",
         "A": "Influenced modern law",
         "B": "Based on written laws",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Primitive",
         "answer": "A",
         "funFact": "The Roman legal system influenced modern law and was based on written laws. Concepts like 'innocent until proven guilty' originated in Roman law."
     },
     {
-        "question": "What was Roman engineering?",
+        "question": "What was the primary characteristic of Roman engineering?",
         "A": "Excellent",
         "B": "Built aqueducts and roads",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Poor",
         "answer": "A",
         "funFact": "Roman engineering was excellent. Romans built aqueducts, roads, bridges, and buildings that still stand today. Many techniques are still used."
     },
     {
-        "question": "What was Roman influence on modern culture?",
+        "question": "What was the primary characteristic of Roman influence on modern culture?",
         "A": "Significant",
         "B": "Language, law, architecture",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Minimal",
         "answer": "A",
         "funFact": "Roman influence on modern culture is significant, including language, law, architecture, and government. Many aspects of Western culture have Roman roots."
     },
     {
-        "question": "What was the Roman legacy?",
+        "question": "What was the primary characteristic of the Roman legacy?",
         "A": "Enduring",
         "B": "Shaped Western civilization",
-        "C": "Neither A nor B",
+        "C": "A different historical event",
         "D": "Forgotten",
         "answer": "A",
         "funFact": "The Roman legacy is enduring and has shaped Western civilization. Roman ideas, institutions, and culture continue to influence the modern world."

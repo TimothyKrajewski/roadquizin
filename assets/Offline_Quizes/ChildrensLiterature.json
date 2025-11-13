@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Who wrote 'Charlotte's Web'?",
+    "A": "E.B. White",
+    "B": "Roald Dahl",
+    "C": "Dr. Seuss",
+    "D": "J.K. Rowling",
+    "answer": "A",
+    "funFact": "Charlotte's Web by E.B. White was published in 1952 and tells the story of a pig named Wilbur and a spider named Charlotte."
+  },
+  {
+    "question": "Who wrote 'The Cat in the Hat'?",
+    "A": "Dr. Seuss",
+    "B": "E.B. White",
+    "C": "Roald Dahl",
+    "D": "Maurice Sendak",
+    "answer": "A",
+    "funFact": "The Cat in the Hat by Dr. Seuss was published in 1957 and was written to help children learn to read."
+  },
+  {
+    "question": "Who wrote 'Charlie and the Chocolate Factory'?",
+    "A": "Roald Dahl",
+    "B": "E.B. White",
+    "C": "Dr. Seuss",
+    "D": "J.K. Rowling",
+    "answer": "A",
+    "funFact": "Charlie and the Chocolate Factory by Roald Dahl was published in 1964 and tells the story of Charlie Bucket's visit to Willy Wonka's chocolate factory."
+  },
+  {
+    "question": "Who wrote 'Where the Wild Things Are'?",
+    "A": "Maurice Sendak",
+    "B": "Dr. Seuss",
+    "C": "E.B. White",
+    "D": "Roald Dahl",
+    "answer": "A",
+    "funFact": "Where the Wild Things Are by Maurice Sendak was published in 1963 and won the Caldecott Medal for children's picture books."
+  },
+  {
+    "question": "Who wrote 'The Very Hungry Caterpillar'?",
+    "A": "Eric Carle",
+    "B": "Maurice Sendak",
+    "C": "Dr. Seuss",
+    "D": "E.B. White",
+    "answer": "A",
+    "funFact": "The Very Hungry Caterpillar by Eric Carle was published in 1969 and has sold over 50 million copies worldwide."
+  },
+  {
+    "question": "Who wrote 'Goodnight Moon'?",
+    "A": "Margaret Wise Brown",
+    "B": "Eric Carle",
+    "C": "Maurice Sendak",
+    "D": "Dr. Seuss",
+    "answer": "A",
+    "funFact": "Goodnight Moon by Margaret Wise Brown was published in 1947 and is a classic bedtime story for children."
+  },
+  {
+    "question": "Who wrote 'The Giving Tree'?",
+    "A": "Shel Silverstein",
+    "B": "Margaret Wise Brown",
+    "C": "Eric Carle",
+    "D": "Maurice Sendak",
+    "answer": "A",
+    "funFact": "The Giving Tree by Shel Silverstein was published in 1964 and is a story about unconditional love and selflessness."
+  },
+  {
+    "question": "Who wrote 'The Tale of Peter Rabbit'?",
+    "A": "Beatrix Potter",
+    "B": "Shel Silverstein",
+    "C": "Margaret Wise Brown",
+    "D": "Eric Carle",
+    "answer": "A",
+    "funFact": "The Tale of Peter Rabbit by Beatrix Potter was published in 1902 and is one of the best-selling children's books of all time."
+  },
+  {
+    "question": "Who wrote 'The Little Prince'?",
+    "A": "Antoine de Saint-Exupéry",
+    "B": "Beatrix Potter",
+    "C": "Shel Silverstein",
+    "D": "Margaret Wise Brown",
+    "answer": "A",
+    "funFact": "The Little Prince by Antoine de Saint-Exupéry was published in 1943 and is one of the most translated books in the world."
+  },
+  {
+    "question": "Who wrote 'Matilda'?",
+    "A": "Roald Dahl",
+    "B": "E.B. White",
+    "C": "Dr. Seuss",
+    "D": "J.K. Rowling",
+    "answer": "A",
+    "funFact": "Matilda by Roald Dahl was published in 1988 and tells the story of a gifted girl with telekinetic powers."
+  },
+  {
+    "question": "Who wrote 'The Secret Garden'?",
+    "A": "Frances Hodgson Burnett",
+    "B": "Roald Dahl",
+    "C": "E.B. White",
+    "D": "Dr. Seuss",
+    "answer": "A",
+    "funFact": "The Secret Garden by Frances Hodgson Burnett was published in 1911 and is a classic children's novel about healing and growth."
+  },
+  {
+    "question": "Who wrote 'Anne of Green Gables'?",
+    "A": "L.M. Montgomery",
+    "B": "Frances Hodgson Burnett",
+    "C": "Roald Dahl",
+    "D": "E.B. White",
+    "answer": "A",
+    "funFact": "Anne of Green Gables by L.M. Montgomery was published in 1908 and tells the story of an orphan girl named Anne Shirley."
+  },
+  {
+    "question": "Who wrote 'The Wind in the Willows'?",
+    "A": "Kenneth Grahame",
+    "B": "L.M. Montgomery",
+    "C": "Frances Hodgson Burnett",
+    "D": "Roald Dahl",
+    "answer": "A",
+    "funFact": "The Wind in the Willows by Kenneth Grahame was published in 1908 and features animal characters like Mole, Rat, and Toad."
+  },
+  {
+    "question": "Who wrote 'Alice's Adventures in Wonderland'?",
+    "A": "Lewis Carroll",
+    "B": "Kenneth Grahame",
+    "C": "L.M. Montgomery",
+    "D": "Frances Hodgson Burnett",
+    "answer": "A",
+    "funFact": "Alice's Adventures in Wonderland by Lewis Carroll was published in 1865 and is a classic fantasy novel."
+  },
+  {
+    "question": "Who wrote 'The Wizard of Oz'?",
+    "A": "L. Frank Baum",
+    "B": "Lewis Carroll",
+    "C": "Kenneth Grahame",
+    "D": "L.M. Montgomery",
+    "answer": "A",
+    "funFact": "The Wizard of Oz by L. Frank Baum was published in 1900 and tells the story of Dorothy's journey to the Land of Oz."
+  },
+  {
+    "question": "Who wrote 'The Chronicles of Narnia'?",
+    "A": "C.S. Lewis",
+    "B": "L. Frank Baum",
+    "C": "Lewis Carroll",
+    "D": "Kenneth Grahame",
+    "answer": "A",
+    "funFact": "The Chronicles of Narnia by C.S. Lewis was published between 1950 and 1956 and is a fantasy series for children."
+  },
+  {
+    "question": "Who wrote 'The Hobbit'?",
+    "A": "J.R.R. Tolkien",
+    "B": "C.S. Lewis",
+    "C": "L. Frank Baum",
+    "D": "Lewis Carroll",
+    "answer": "A",
+    "funFact": "The Hobbit by J.R.R. Tolkien was published in 1937 and is a fantasy novel that serves as a prelude to The Lord of the Rings."
+  },
+  {
+    "question": "Who wrote 'The Phantom Tollbooth'?",
+    "A": "Norton Juster",
+    "B": "J.R.R. Tolkien",
+    "C": "C.S. Lewis",
+    "D": "L. Frank Baum",
+    "answer": "A",
+    "funFact": "The Phantom Tollbooth by Norton Juster was published in 1961 and is a fantasy adventure novel about a bored boy named Milo."
+  },
+  {
+    "question": "Who wrote 'Bridge to Terabithia'?",
+    "A": "Katherine Paterson",
+    "B": "Norton Juster",
+    "C": "J.R.R. Tolkien",
+    "D": "C.S. Lewis",
+    "answer": "A",
+    "funFact": "Bridge to Terabithia by Katherine Paterson was published in 1977 and won the Newbery Medal for children's literature."
+  },
+  {
+    "question": "Who wrote 'The Giver'?",
+    "A": "Lois Lowry",
+    "B": "Katherine Paterson",
+    "C": "Norton Juster",
+    "D": "J.R.R. Tolkien",
+    "answer": "A",
+    "funFact": "The Giver by Lois Lowry was published in 1993 and won the Newbery Medal for children's literature."
+  },
+  {
+    "question": "Who wrote 'Holes'?",
+    "A": "Louis Sachar",
+    "B": "Lois Lowry",
+    "C": "Katherine Paterson",
+    "D": "Norton Juster",
+    "answer": "A",
+    "funFact": "Holes by Louis Sachar was published in 1998 and won both the Newbery Medal and the National Book Award."
+  },
+  {
+    "question": "Who wrote 'A Wrinkle in Time'?",
+    "A": "Madeleine L'Engle",
+    "B": "Louis Sachar",
+    "C": "Lois Lowry",
+    "D": "Katherine Paterson",
+    "answer": "A",
+    "funFact": "A Wrinkle in Time by Madeleine L'Engle was published in 1962 and won the Newbery Medal for children's literature."
+  },
+  {
+    "question": "Who wrote 'The Lion, the Witch and the Wardrobe'?",
+    "A": "C.S. Lewis",
+    "B": "Madeleine L'Engle",
+    "C": "Louis Sachar",
+    "D": "Lois Lowry",
+    "answer": "A",
+    "funFact": "The Lion, the Witch and the Wardrobe by C.S. Lewis was published in 1950 and is the first book in The Chronicles of Narnia series."
+  },
+  {
+    "question": "Who wrote 'The BFG'?",
+    "A": "Roald Dahl",
+    "B": "C.S. Lewis",
+    "C": "Madeleine L'Engle",
+    "D": "Louis Sachar",
+    "answer": "A",
+    "funFact": "The BFG (Big Friendly Giant) by Roald Dahl was published in 1982 and tells the story of a young girl and a friendly giant."
+  },
+  {
+    "question": "Who wrote 'James and the Giant Peach'?",
+    "A": "Roald Dahl",
+    "B": "C.S. Lewis",
+    "C": "Madeleine L'Engle",
+    "D": "Louis Sachar",
+    "answer": "A",
+    "funFact": "James and the Giant Peach by Roald Dahl was published in 1961 and tells the story of a boy who travels inside a giant peach."
+  },
+  {
+    "question": "Who wrote 'The Witches'?",
+    "A": "Roald Dahl",
+    "B": "C.S. Lewis",
+    "C": "Madeleine L'Engle",
+    "D": "Louis Sachar",
+    "answer": "A",
+    "funFact": "The Witches by Roald Dahl was published in 1983 and tells the story of a boy who discovers a convention of witches."
+  },
+  {
+    "question": "Who wrote 'Green Eggs and Ham'?",
+    "A": "Dr. Seuss",
+    "B": "Roald Dahl",
+    "C": "C.S. Lewis",
+    "D": "Madeleine L'Engle",
+    "answer": "A",
+    "funFact": "Green Eggs and Ham by Dr. Seuss was published in 1960 and uses only 50 different words throughout the entire book."
+  },
+  {
+    "question": "Who wrote 'Oh, the Places You'll Go!'?",
+    "A": "Dr. Seuss",
+    "B": "Roald Dahl",
+    "C": "C.S. Lewis",
+    "D": "Madeleine L'Engle",
+    "answer": "A",
+    "funFact": "Oh, the Places You'll Go! by Dr. Seuss was published in 1990 and is often given as a graduation gift."
+  },
+  {
+    "question": "Who wrote 'The Lorax'?",
+    "A": "Dr. Seuss",
+    "B": "Roald Dahl",
+    "C": "C.S. Lewis",
+    "D": "Madeleine L'Engle",
+    "answer": "A",
+    "funFact": "The Lorax by Dr. Seuss was published in 1971 and is an environmental fable about the importance of protecting nature."
+  },
+  {
+    "question": "Who wrote 'Stuart Little'?",
+    "A": "E.B. White",
+    "B": "Dr. Seuss",
+    "C": "Roald Dahl",
+    "D": "C.S. Lewis",
+    "answer": "A",
+    "funFact": "Stuart Little by E.B. White was published in 1945 and tells the story of a mouse born to a human family."
+  }
+]
+
